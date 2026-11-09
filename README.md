@@ -1,4 +1,4 @@
-# Tagalify v1.03
+# Tagalify v1.04
 
 A complete, offline study guide for learning Tagalog, built for native English speakers starting from zero. It installs on Android as an app (a Progressive Web App) and works without a connection after the first visit.
 
@@ -11,7 +11,7 @@ A complete, offline study guide for learning Tagalog, built for native English s
 | Building sentences | 4. Si, sina, ang, ang mga · 5. Sentence formation · 6. Pronouns, this and that |
 | Joining and owning | 7. Linkers -ng, -g, na · 8. Possession |
 
-10 lessons, 270 words, 232 exercises, plus a one-page cheat sheet.
+22 lessons, 604 words, 569 exercises, plus a one-page cheat sheet.
 
 Every Tagalog word is written with the textbook's accent marks (kapé, báhay, punò, punô), and every meaning matches the textbook. The sound guide uses CAPITALS for the stressed syllable and **Q** for the glottal catch, the same notation as Lesson 2 of the book.
 
@@ -96,6 +96,10 @@ Then upload the changed files to GitHub. Your progress on the phone is kept.
 Progress and recordings are stored on the phone, and copied to your own Dropbox if you connect it. Nothing is sent anywhere else. You can also save a backup file of your progress from **More › Backup file**.
 
 ## Version history
+
+**1.04**
+- Added Lessons 9 to 20 from the book (pages 52 to 100): asking questions, ba, comparisons, may and mayroón, numbers, -um-/mag- verbs, -in- verbs, ang and ng, pseudo verbs, ma-/maka- verbs, magíng and magkaroón.
+- Every Tagalog word, accent mark and meaning checked against the page images by a separate checker.
 
 **1.03**
 - Dropbox App key built in, so connecting is one tap.

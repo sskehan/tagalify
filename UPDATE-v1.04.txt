@@ -1,0 +1,18 @@
+TAGALIFY v1.04 UPDATE PACK
+==========================
+This pack holds ONLY the files that changed since v1.03. Do not delete anything on GitHub.
+
+What's new: Lessons 9 to 20 (book pages 52-100), in four new units on the Course page.
+
+How to install
+1. Unzip this pack. Inside the "tagalify" folder you will see the changed files in their folders.
+2. On GitHub, open your Tagalify repository and upload each file into the SAME folder:
+   - top level:        core.js, sw.js, app.js, README.md
+   - data/:            course.json
+   - data/lessons/:    l09.json to l20.json (new files)
+   - tools/:           build.py and c11_l09.py to c22_l20.py (lesson sources, only needed for future updates)
+   Use "Add file > Upload files" inside each folder, drag the files in, and Commit. Replace when asked.
+3. Wait a minute, then open Tagalify on your phone. Close it fully and open it again once,
+   and the new lessons appear. More > About shows v1.04.
+
+Your progress, Dropbox backup and recordings are not affected.
