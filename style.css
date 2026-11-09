@@ -159,3 +159,17 @@ body.full #nav{display:none}
 .pager{background:var(--bg);padding:10px 0;margin:8px 0;box-shadow:0 -8px 12px -8px rgba(0,0,0,.12)}
 .card.center{display:flex;flex-direction:column;align-items:center;gap:4px}.card.center .btn.block{width:100%}
 .setrow select{max-width:62%;min-width:0}
+
+.splash{min-height:80vh;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;color:var(--mute)}.splash img{border-radius:28px;box-shadow:0 8px 24px rgba(0,0,0,.18)}
+.hero{display:flex;gap:14px;align-items:center}.hero-logo{width:84px;height:84px;border-radius:20px;flex:none;box-shadow:0 6px 16px rgba(18,40,110,.25)}
+.hero h1 .b1{color:var(--brand)}.hero h1 .b2{color:var(--brand2)}
+.about-top{display:flex;gap:12px;align-items:center;margin-bottom:6px}.about-top img{border-radius:16px}.about-top b,.about-top small{display:block}
+.sheet-logo{display:block;margin:0 auto 4px;border-radius:10px;opacity:.9}
+.tb-logo{margin-left:auto;border-radius:9px;flex:none}
+:root{--brand:#12286e;--brand2:#c8102e}
+[data-theme=dark]{--brand:#8fb0ff;--brand2:#ff6b7f}
+
+.syncstate{border-radius:12px;padding:10px 12px;margin:10px 0}.syncstate b,.syncstate small{display:block}.syncstate.good{background:var(--goodbg)}.syncstate.bad{background:var(--pred-bg)}
+.fine{font-size:.85rem;color:var(--mute)}
+.keyin{font:inherit;padding:8px 10px;border:1px solid var(--line);border-radius:10px;background:var(--bg);color:var(--ink);max-width:60%}
+.howto{margin-top:10px}.howto summary{cursor:pointer;color:var(--pri);font-weight:600;padding:6px 0}.howto ol{padding-left:1.2rem;margin:6px 0}.howto li{margin:6px 0}

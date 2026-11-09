@@ -2,121 +2,85 @@
  "id": "l03",
  "label": "3",
  "title": "Greetings and common expressions",
- "summary": "Po and opo, greetings through the day, how are you, excuse me, and everyday phrases",
+ "summary": "Pô and opô, greetings through the day, how are you, five ways to say excuse me, and everyday expressions",
  "minutes": 30,
  "goals": [
-  "Use po, ho, opo and oho to show respect, and know when to leave them out",
-  "Greet people at every time of day, politely and casually",
-  "Ask and answer \"how are you?\" and recognise friendly question-greetings",
-  "Choose the right way to say excuse me, sorry or pardon",
-  "Use a set of everyday expressions"
+  "Use pô, hô, opô and ohô to show respect, and know who does not use them",
+  "Greet people from morning to evening, politely and between equals",
+  "Ask and answer \"how are you?\" and recognise greetings that are really questions",
+  "Choose the right way to say excuse me",
+  "Use the everyday expressions and their shortened forms"
  ],
  "sections": [
   {
-   "title": "Po and ho: speaking respectfully",
+   "title": "Pô and hô: polite forms of address",
    "blocks": [
     {
      "type": "p",
-     "t": "Respect is built into Tagalog. The little words **po** and **ho** are added to a sentence to show courtesy, much like \"sir\" or \"madam\" in English. They have no other meaning."
-    },
-    {
-     "type": "table",
-     "head": [
-      "Who is speaking to whom",
-      "Use po or ho?"
-     ],
-     "rows": [
-      [
-       "A younger person to an older person",
-       "Yes"
-      ],
-      [
-       "A junior colleague to a senior one",
-       "Yes"
-      ],
-      [
-       "Anyone to a teacher, a priest, an official, an employer or a police officer, whatever their age",
-       "Yes"
-      ],
-      [
-       "Anyone to someone they have just met and want to be polite to",
-       "Yes"
-      ],
-      [
-       "An older person to a younger one (a parent to a child)",
-       "No"
-      ],
-      [
-       "Equals: brothers, sisters and close friends",
-       "No (it is not needed)"
-      ]
-     ],
-     "title": "When to use po"
+     "t": "Besides the borrowed *Hi* and *Hello*, Tagalog greetings carry little words that show courtesy and respect. The most important are **pô** and **hô**. They mean roughly **sir** or **madam**, and they show the speaker's good manners and respect for the person spoken to."
     },
     {
      "type": "p",
-     "t": "**Yes** and **no** show the same pattern. Between friends, **oo** means yes. To an older person, say **opo** or **oho**, the polite forms of yes. For no, add po: **hindi po**."
+     "t": "Younger people and junior employees put **pô** or **hô** at the **start or end** of their greetings and answers when speaking to:"
     },
     {
      "type": "table",
      "head": [
-      "Casual",
-      "Polite",
-      "Meaning"
+      "Who",
+      "Examples"
      ],
      "rows": [
       [
-       "[[oo|part]]",
-       "[[opo|part]] or [[oho|part]]",
-       "yes"
+       "older people",
+       "parents, older relatives, other senior individuals"
       ],
       [
-       "[[hindi|part]]",
-       "[[hindi po|part]]",
-       "no"
-      ],
-      [
-       "[[Salamat.|part]]",
-       "[[Salamat po.|part]]",
-       "Thank you."
+       "people with honorific titles or authority, regardless of age",
+       "clergy, teachers, community leaders, employers, policemen"
       ]
      ],
-     "title": "Casual and polite"
+     "title": "Use pô or hô when speaking to"
     },
     {
-     "type": "pattern",
-     "title": "Where po goes",
-     "rows": [
-      {
-       "label": "Short answer",
-       "chips": [
-        {
-         "t": "Opo",
-         "r": "part"
-        }
-       ]
-      },
-      {
-       "label": "Added to a sentence",
-       "chips": [
-        {
-         "t": "Salamat",
-         "r": "pred"
-        },
-        {
-         "t": "po",
-         "r": "part"
-        }
-       ]
-      }
+     "type": "box",
+     "kind": "warn",
+     "title": "Who does not use pô",
+     "items": [
+      "An older person speaking to a younger one, such as a father talking to his son or daughter.",
+      "Equals, such as brothers and sisters or friends."
+     ]
+    },
+    {
+     "type": "h",
+     "t": "Saying yes"
+    },
+    {
+     "type": "p",
+     "t": "To a younger person or a friend, a short yes can be just **oo**. To an older person, you must use **opô** or **ohô**, the formal or polite versions of yes."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Speaking to",
+      "Yes"
      ],
-     "note": "Po usually follows the first word or the main phrase of a sentence."
+     "rows": [
+      [
+       "a younger person or a peer",
+       "[[oo|part]]"
+      ],
+      [
+       "an older person",
+       "[[opô|part]] or [[ohô|part]]"
+      ]
+     ],
+     "title": "Familiar and polite yes"
     },
     {
      "type": "box",
      "kind": "culture",
-     "title": "Good manners",
-     "t": "Using po too often is never wrong. Foreigners and Filipinos alike will not go wrong with extra politeness, especially to older people."
+     "title": "You can't overdo it",
+     "t": "Foreigners and Tagalogs alike could never go wrong with an overuse of pô. It will only endear them to older or senior people."
     }
    ]
   },
@@ -125,126 +89,86 @@
    "blocks": [
     {
      "type": "p",
-     "t": "Most greetings start with **magandang**, which means \"beautiful\" (the linker -ng joins it to the next word). So **Magandang araw** is literally \"beautiful day\". Then you add the part of the day."
+     "t": "Greetings usually start with **magandá**, which means *beautiful*. The complete greeting is **Magandá ang áraw**, often shortened to **Magandáng áraw**, which literally means *beautiful day*."
     },
     {
      "type": "table",
      "head": [
       "Greeting",
-      "Meaning",
-      "Time"
+      "Meaning"
      ],
      "rows": [
       [
-       "[[Magandang araw|pred]]",
-       "Good day",
-       "any time in daylight"
+       "[[Magandáng áraw pô.|pred]]",
+       "Good day, sir/madam."
       ],
       [
-       "[[Magandang umaga|pred]]",
-       "Good morning",
-       "morning"
+       "[[Magandáng umága pô.|pred]]",
+       "Good morning, sir/madam."
       ],
       [
-       "[[Magandang tanghali|pred]]",
-       "Good midday",
-       "roughly 11 am to 1 pm"
+       "[[Magandáng tanghálì pô.|pred]]",
+       "Good afternoon, sir/madam."
       ],
       [
-       "[[Magandang hapon|pred]]",
-       "Good afternoon",
-       "afternoon"
+       "[[Magandáng hápon pô.|pred]]",
+       "Good afternoon, sir/madam."
       ],
       [
-       "[[Magandang gabi|pred]]",
-       "Good evening, good night",
-       "evening and night"
+       "[[Magandáng gabí pô.|pred]]",
+       "Good evening, sir/madam."
       ]
      ],
-     "title": "Greetings by time"
+     "title": "Polite greetings from morning to evening"
     },
     {
-     "type": "pattern",
-     "title": "A polite greeting",
-     "rows": [
-      {
-       "label": "Parts",
-       "chips": [
-        {
-         "t": "Magandang",
-         "r": "pred"
-        },
-        {
-         "t": "umaga",
-         "r": "noun"
-        },
-        {
-         "t": "po",
-         "r": "part"
-        }
-       ]
-      }
-     ],
-     "note": "Between equals you can drop po: Magandang umaga."
+     "type": "box",
+     "kind": "culture",
+     "title": "Tanghálì",
+     "t": "**Tanghálì** is *noon* or *midday*. It covers lunch time, from around 11 in the morning to 1 in the afternoon, when most Tagalog families prepare and have their lunch."
     },
     {
      "type": "examples",
      "items": [
       {
-       "tl": "Magandang umaga po.",
-       "en": "Good morning, sir or madam.",
+       "tl": "Magandáng umága pô.",
+       "en": "Good morning, sir/madam.",
        "parts": [
         [
-         "Magandang",
-         "beautiful (with -ng)",
+         "Magandáng",
+         "beautiful",
          "pred"
         ],
         [
-         "umaga",
+         "umága",
          "morning",
          "noun"
         ],
         [
-         "po",
-         "polite word",
+         "pô",
+         "sir/madam",
          "part"
         ]
        ]
       },
       {
-       "tl": "Magandang hapon po.",
-       "en": "Good afternoon, sir or madam.",
+       "tl": "Magandáng hápon pô.",
+       "en": "Good afternoon, sir/madam.",
        "parts": [
         [
-         "Magandang",
-         "beautiful (with -ng)",
+         "Magandáng",
+         "beautiful",
          "pred"
         ],
         [
-         "hapon",
+         "hápon",
          "afternoon",
          "noun"
         ],
         [
-         "po",
-         "polite word",
+         "pô",
+         "sir/madam",
          "part"
-        ]
-       ]
-      },
-      {
-       "tl": "Magandang gabi.",
-       "en": "Good evening (casual).",
-       "parts": [
-        [
-         "Magandang",
-         "beautiful (with -ng)",
-         "pred"
-        ],
-        [
-         "gabi",
-         "evening",
-         "noun"
         ]
        ]
       }
@@ -252,46 +176,67 @@
      "title": "Tap to hear"
     },
     {
+     "type": "p",
+     "t": "Between equals it is fine to drop pô: **Magandáng umága.** (Good morning.) **Magandáng hápon.** (Good afternoon.)"
+    },
+    {
      "type": "h",
-     "t": "Replying"
+     "t": "Even more polite: sa inyó and sa kanilá"
     },
     {
      "type": "p",
-     "t": "The usual reply repeats the greeting and adds **rin** (or **din**) or **naman**, which mean \"too\". It shows you wish the same to them."
+     "t": "Another polite way to greet people is to use the **plural**. Add **sa inyó** (*to you*, plural) or **sa kanilá** (*to them*) at the end. A greeting ending in sa kanilá still means *to you*, not *to them*. The plural shows that you recognise the person's seniority or authority. Equals use **sa iyó** (*to you*, singular)."
     },
     {
      "type": "table",
      "head": [
       "Greeting",
-      "Reply"
+      "Meaning"
      ],
      "rows": [
       [
-       "Magandang umaga po.",
-       "Magandang umaga rin po."
+       "[[Magandáng umága pô sa inyó.|pred]]",
+       "Good morning to you, sir/madam."
       ],
       [
-       "Magandang hapon.",
-       "Magandang hapon din."
+       "[[Magandáng hápon pô sa kanilá.|pred]]",
+       "Good afternoon to you, sir/madam."
       ],
       [
-       "Magandang gabi po.",
-       "Magandang gabi naman po."
+       "[[Magandáng umága sa iyó.|pred]]",
+       "Good morning to you."
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "t": "Replying"
+    },
+    {
+     "type": "p",
+     "t": "Both older people and equals usually reply with **rin** or **namán**, which mean *too*. It shows they wish the greeter a good day as well."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Reply",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[Magandáng umága rin sa iyó.|pred]]",
+       "Good morning to you, too."
+      ],
+      [
+       "[[Magandáng umága namán.|pred]]",
+       "Good morning, too."
+      ],
+      [
+       "[[Magandáng tanghálì rin pô.|pred]]",
+       "Good afternoon, too, sir/madam."
       ]
      ],
-     "title": "Greeting and reply"
-    },
-    {
-     "type": "box",
-     "kind": "tip",
-     "title": "rin or din?",
-     "t": "They mean the same. Use **rin** after a word that ends in a vowel (umaga rin) and **din** after a word that ends in a consonant (hapon din)."
-    },
-    {
-     "type": "box",
-     "kind": "english",
-     "title": "Extra respect",
-     "t": "You can add **sa inyo** (\"to you\", respectful) to the end: Magandang umaga po sa inyo. Among equals, **sa iyo** is the casual way to say \"to you\"."
+     "title": "Replies"
     }
    ]
   },
@@ -300,25 +245,34 @@
    "blocks": [
     {
      "type": "p",
-     "t": "Tagalog **Kumusta** comes from the Spanish *cómo está*. To ask a friend, a relative or someone about your age, say **Kumusta ka?** To show respect, or to ask more than one person, say **Kumusta kayo?** or **Kumusta po kayo?**"
+     "t": "**Kumustá** comes from the Spanish *como esta*. Use **Kumustá ka?** with a friend, a relative, or someone about your age. Older people also use it with younger people."
+    },
+    {
+     "type": "p",
+     "t": "The word for *you* (one person) is **ikáw**. It becomes **ka** when it comes after the main word (Lessons 5 and 6 explain this). When greeting an elder or a superior, Tagalogs use the plurals **kayó** (*you*) and **silá** (*they*) instead of ka. Pô may be dropped if kayó or silá is used."
     },
     {
      "type": "table",
      "head": [
-      "Situation",
       "Say",
-      "Pronoun"
+      "Meaning",
+      "Who to"
      ],
      "rows": [
       [
-       "A friend, a child, someone your age",
-       "[[Kumusta ka?|pred]]",
-       "ka = you (one person, casual)"
+       "[[Kumustá ka?|pred]]",
+       "How are you?",
+       "a friend, a relative, someone your age, a younger person"
       ],
       [
-       "An older person, or several people",
-       "[[Kumusta po kayo?|pred]]",
-       "kayo = you (respectful or plural)"
+       "[[Kumustá pô kayó?|pred]]",
+       "How are you, sir/madam?",
+       "an elder or superior"
+      ],
+      [
+       "[[Kumustá silá?|pred]]",
+       "How are you, sir/madam?",
+       "an elder or superior"
       ]
      ],
      "title": "Asking how someone is"
@@ -327,91 +281,101 @@
      "type": "examples",
      "items": [
       {
-       "tl": "Kumusta ka?",
-       "en": "How are you?",
+       "tl": "Kumustá pô kayó?",
+       "en": "How are you, sir/madam?",
        "parts": [
         [
-         "Kumusta",
+         "Kumustá",
          "how are",
          "pred"
         ],
         [
-         "ka",
-         "you (casual)",
+         "pô",
+         "sir/madam",
+         "part"
+        ],
+        [
+         "kayó",
+         "you (plural, polite)",
          "pron"
         ]
        ]
       },
       {
-       "tl": "Kumusta po kayo?",
-       "en": "How are you, sir or madam?",
+       "tl": "Mabúti namán pô. Salámat pô.",
+       "en": "Fine, too, sir/madam. Thank you, sir/madam.",
        "parts": [
         [
-         "Kumusta",
-         "how are",
+         "Mabúti",
+         "fine",
          "pred"
         ],
         [
-         "po",
-         "polite word",
+         "namán",
+         "too",
          "part"
         ],
         [
-         "kayo",
-         "you (respectful)",
-         "pron"
-        ]
-       ]
-      },
-      {
-       "tl": "Mabuti naman po.",
-       "en": "Fine, thank you, sir or madam.",
-       "parts": [
-        [
-         "Mabuti",
-         "fine, good",
-         "pred"
-        ],
-        [
-         "naman",
-         "too, in turn",
+         "pô",
+         "sir/madam",
          "part"
         ],
         [
-         "po",
-         "polite word",
-         "part"
-        ]
-       ]
-      },
-      {
-       "tl": "Salamat po.",
-       "en": "Thank you, sir or madam.",
-       "parts": [
-        [
-         "Salamat",
+         "Salámat",
          "thank you",
+         "other"
+        ],
+        [
+         "pô",
+         "sir/madam",
+         "part"
+        ]
+       ]
+      },
+      {
+       "tl": "Mabúti rin pô. Salámat.",
+       "en": "Fine, too, sir/madam. Thank you.",
+       "parts": [
+        [
+         "Mabúti",
+         "fine",
          "pred"
         ],
         [
-         "po",
-         "polite word",
+         "rin",
+         "too",
          "part"
+        ],
+        [
+         "pô",
+         "sir/madam",
+         "part"
+        ],
+        [
+         "Salámat",
+         "thank you",
+         "other"
         ]
        ]
       }
      ],
-     "title": "A short exchange"
+     "title": "Asking and answering"
     },
     {
      "type": "box",
      "kind": "remember",
-     "title": "Replies",
+     "title": "Answering",
      "items": [
-      "**Mabuti.** or **Mabuti naman.** means fine.",
-      "**Mabuti rin.** means fine, too.",
-      "**Salamat** (thank you) is optional. Po can be added again when you say it."
+      "Answers usually include **mabúti** (*fine*), **salámat** (*thank you*), and **rin** or **namán** (*too*).",
+      "Salámat is optional at the end, so pô can go with the first half of the answer.",
+      "It is never wrong to say pô again when salámat is kept."
      ]
+    },
+    {
+     "type": "box",
+     "kind": "culture",
+     "title": "Asking about the family",
+     "t": "Tagalogs often ask about your family (parents, spouse, children and everyone else) when they meet, whatever their age. It shows the thoughtful nature of Filipinos, young and old alike."
     },
     {
      "type": "h",
@@ -419,241 +383,283 @@
     },
     {
      "type": "p",
-     "t": "Filipinos often greet each other by asking where you are going or where you have been. This is a friendly hello, **not** a request for your plans."
-    },
-    {
-     "type": "examples",
-     "items": [
-      {
-       "tl": "Saan ka pupunta?",
-       "en": "Where are you going?",
-       "parts": [
-        [
-         "Saan",
-         "where",
-         "other"
-        ],
-        [
-         "ka",
-         "you (casual)",
-         "pron"
-        ],
-        [
-         "pupunta",
-         "will go",
-         "pred"
-        ]
-       ]
-      },
-      {
-       "tl": "Saan po kayo pupunta?",
-       "en": "Where are you going, sir or madam?",
-       "parts": [
-        [
-         "Saan",
-         "where",
-         "other"
-        ],
-        [
-         "po",
-         "polite word",
-         "part"
-        ],
-        [
-         "kayo",
-         "you (respectful)",
-         "pron"
-        ],
-        [
-         "pupunta",
-         "will go",
-         "pred"
-        ]
-       ]
-      },
-      {
-       "tl": "Diyan lang po.",
-       "en": "Just nearby, sir or madam.",
-       "parts": [
-        [
-         "Diyan",
-         "right there, nearby",
-         "other"
-        ],
-        [
-         "lang",
-         "only, just",
-         "part"
-        ],
-        [
-         "po",
-         "polite word",
-         "part"
-        ]
-       ]
-      }
-     ]
-    },
-    {
-     "type": "box",
-     "kind": "culture",
-     "title": "Family and friends first",
-     "t": "It is normal for Filipinos to ask about your parents, your spouse and your children. It is a sign of warmth, not nosiness. A short, polite answer is perfect."
-    }
-   ]
-  },
-  {
-   "title": "Excuse me, sorry, pardon",
-   "blocks": [
-    {
-     "type": "p",
-     "t": "English uses \"excuse me\" for many situations. Tagalog has **five** expressions, and the right one depends on what you are doing."
+     "t": "Tagalogs also say *Where are you going?* or *Where have you been?* when they meet people they know. They are not really asking your plans. It is like the English *How is it going?*, just another way of saying hello."
     },
     {
      "type": "table",
      "head": [
       "Say",
-      "Use it when…",
-      "Example"
-     ],
-     "rows": [
-      [
-       "[[Paumanhin po|pred]]",
-       "you say sorry for a small thing, bump into someone, or leave a meeting",
-       "Paumanhin po, aalis na po ako. (Excuse me, I will leave now.)"
-      ],
-      [
-       "[[Pakiraan po|pred]]",
-       "you need to pass through a crowded space",
-       "Pakiraan po. (Please let me through.)"
-      ],
-      [
-       "[[Mawalang-galang po|pred]]",
-       "you politely interrupt, ask a question or ask for attention",
-       "Mawalang-galang po, may tanong po ako. (Pardon me, I have a question.)"
-      ],
-      [
-       "[[Patawad po|pred]]",
-       "you have truly hurt someone, in body or feeling, and ask forgiveness",
-       "Patawad po. (Please forgive me.)"
-      ],
-      [
-       "[[Pasintabi po|pred]]",
-       "you warn people before something unpleasant or offensive",
-       "Pasintabi po. (With your permission, before I say or show this.)"
-      ]
-     ],
-     "title": "Five ways to say excuse me"
-    },
-    {
-     "type": "box",
-     "kind": "tip",
-     "title": "Which can replace which?",
-     "items": [
-      "**Mawalang-galang po** is flexible. It works for getting attention and also for passing through.",
-      "**Paumanhin po** is too mild for a real injury or a deep hurt. Use **Patawad po** there.",
-      "News readers use **Pasintabi po** before showing something disturbing."
-     ]
-    },
-    {
-     "type": "box",
-     "kind": "culture",
-     "title": "Why so many?",
-     "t": "Courtesy matters in Filipino life. Choosing the right expression shows that you understand the situation and respect the other person."
-    }
-   ]
-  },
-  {
-   "title": "Everyday expressions",
-   "blocks": [
-    {
-     "type": "p",
-     "t": "These are phrases you will hear all the time. Learn them as whole chunks. Add **po** to any of them to make them polite, and change **ka** into **kayo** when speaking to someone older."
-    },
-    {
-     "type": "vocab",
-     "group": "thanks",
-     "title": "Thanks and goodbye"
-    },
-    {
-     "type": "vocab",
-     "group": "react",
-     "title": "Reactions and short answers"
-    },
-    {
-     "type": "vocab",
-     "group": "ask",
-     "title": "Asking and telling"
-    },
-    {
-     "type": "vocab",
-     "group": "time",
-     "title": "Time and waiting"
-    },
-    {
-     "type": "vocab",
-     "group": "command",
-     "title": "Commands and requests"
-    },
-    {
-     "type": "box",
-     "kind": "warn",
-     "title": "Careful with commands",
-     "t": "Short commands like **Tahimik!** (quiet) or **Gising na!** (wake up) are fine with friends and children, but too blunt for elders. Soften them with **po**, or use a request instead."
-    },
-    {
-     "type": "h",
-     "t": "Short forms in speech"
-    },
-    {
-     "type": "p",
-     "t": "In everyday talking, many of these are shortened. You will hear both."
-    },
-    {
-     "type": "table",
-     "head": [
-      "Full form",
-      "Short form",
       "Meaning"
      ],
      "rows": [
       [
-       "Sandali lang",
-       "[[Teka|other]]",
-       "Just a moment"
+       "[[Saán ka púpuntá?|other]]  (informal)",
+       "Where are you going?"
       ],
       [
-       "Hindi ko alam",
-       "[[Di ko alam|other]]",
-       "I don't know"
+       "[[Saán kayó púpuntá?|other]]  (formal)",
+       "Where are you going, sir/madam?"
       ],
       [
-       "Aywan ko",
-       "[[Ewan ko|other]]",
-       "I don't know, no idea"
+       "[[Saán ka nanggáling?|other]]  (informal)",
+       "Where have you been?"
       ],
       [
-       "Ayaw ko",
-       "[[Ayoko|other]]",
-       "I don't want to"
-      ],
-      [
-       "Konti lamang",
-       "[[Konti lang|other]]",
-       "Just a little"
+       "[[Saán kayó nanggáling?|other]]  (formal)",
+       "Where have you been, sir/madam?"
       ]
      ],
-     "title": "Full form and short form"
+     "title": "Question greetings"
+    },
+    {
+     "type": "p",
+     "t": "The usual answer is **Diyán lámang (pô)**, which means *Just nearby (sir/madam)*. You can also name the place: **Sa Quezon City (pô)** means *I'm going to Quezon City* or *I've been to Quezon City*."
+    },
+    {
+     "type": "vocab",
+     "group": "greet",
+     "title": "Greeting words"
+    }
+   ]
+  },
+  {
+   "title": "Five ways to say excuse me",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Tagalog has no exact word for *excuse me*. Instead there are **five** expressions, each for a different situation."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Say",
+      "Used when"
+     ],
+     "rows": [
+      [
+       "[[Paumanhín pô|other]]",
+       "you apologise or ask to be excused, or you bump into someone by accident"
+      ],
+      [
+       "[[Pakiraán pô|other]]",
+       "you ask permission to pass through"
+      ],
+      [
+       "[[Mawaláng-gálang pô|other]]",
+       "you ask to be heard"
+      ],
+      [
+       "[[Patáwad pô|other]]",
+       "you apologise for causing physical injury or emotional hurt"
+      ],
+      [
+       "[[Pasintábi pô|other]]",
+       "you warn people of something that may be offensive or distasteful"
+      ]
+     ],
+     "title": "The five expressions"
+    },
+    {
+     "type": "h",
+     "t": "In real situations"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Situation",
+      "What to say",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Leaving a small formal meeting",
+       "Paumanhin (pô), aalis na ako.",
+       "Excuse me (sir/madam), I will leave now."
+      ],
+      [
+       "Stepping out of a meeting for a while",
+       "Paumanhin (pô), lálabas lamang ako sandalî.",
+       "Excuse me (sir/madam), I will go out for a while."
+      ],
+      [
+       "Bumping into someone at a party or in a crowded mall",
+       "Paumanhin (pô).",
+       "I'm sorry."
+      ],
+      [
+       "Two people talking are blocking a hallway",
+       "Pakiraán pô.",
+       "Please let me pass."
+      ],
+      [
+       "Voicing a request or opinion, or interrupting a speaker in a meeting",
+       "Mawaláng-gálang pô…",
+       "I beg your pardon… (literally: May I lose my courtesy?)"
+      ],
+      [
+       "Asking directions from someone talking to another person",
+       "Mawaláng-gálang pô, paano pumuntá sa Ayala Avenue?",
+       "Excuse me, how do I get to Ayala Avenue?"
+      ],
+      [
+       "You have deeply hurt someone, physically or emotionally",
+       "Patawad pô. / Patawárin ninyó akó.",
+       "Forgive me."
+      ],
+      [
+       "Warning people before unpleasant stories, photos or film",
+       "Pasintabi pô.",
+       "Literally: Please set aside."
+      ]
+     ],
+     "title": "Which one, when"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Can one replace another?",
+     "items": [
+      "**Mawaláng-gálang pô** may be used for situations 1 and 2 (leaving or stepping out, and passing through), but not for a real hurt.",
+      "**Paumanhin pô** may mean *Sorry*, but it is too mild for physical or emotional injury. Use **Patawad pô** instead.",
+      "News reporters often say **Pasintabi pô** before showing gruesome film footage on television."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "excuse",
+     "title": "The five expressions"
+    }
+   ]
+  },
+  {
+   "title": "Other common expressions",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Tagalogs use these everyday expressions all the time. Many have **shortened forms** used in everyday speech, just as English uses *Let's* for *Let us*. Memorise them as whole phrases."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Expression",
+      "Shortened",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[Saan kayó nakatirá?|other]]",
+       "",
+       "Where do you live?"
+      ],
+      [
+       "[[Anó ang pangálan mo?|other]]",
+       "",
+       "What is your name?"
+      ],
+      [
+       "[[Aywan ko.|other]]",
+       "[[Èwan ko.|other]]",
+       "I don't know."
+      ],
+      [
+       "[[Hindí ko alám.|other]]",
+       "[[Di ko alám.|other]]",
+       "I don't know."
+      ],
+      [
+       "[[Ayaw akó.|other]]",
+       "[[Ayòko.|other]]",
+       "I don't like."
+      ],
+      [
+       "[[Kauntî lámang.|other]]",
+       "[[Lang|other]]",
+       "Just a little."
+      ],
+      [
+       "[[Sandalî lámang.|other]]",
+       "[[Lang|other]]",
+       "Just a moment."
+      ],
+      [
+       "[[Hintáy ka!|other]]",
+       "[[Teka!|other]]",
+       "Wait for a moment."
+      ],
+      [
+       "[[Magmadali ká.|other]]",
+       "[[Dali ka!|other]]",
+       "Hurry up! (literally: Be quick, you!)"
+      ],
+      [
+       "[[Táyo na.|other]]",
+       "[[Tena.|other]]",
+       "Let's go."
+      ],
+      [
+       "[[Totoó ba?|other]]",
+       "[[Totoò?|other]]",
+       "Is it true?"
+      ]
+     ],
+     "title": "Expressions with short forms"
+    },
+    {
+     "type": "vocab",
+     "group": "expr",
+     "title": "More expressions to learn"
+    },
+    {
+     "type": "h",
+     "t": "Sigúro: maybe or definitely"
+    },
+    {
+     "type": "p",
+     "t": "**Sigúro** can mean *maybe* or *definitely*. The meaning depends on the answer. Here are three answers to **Siguro ka?** (*Are you sure?*):"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Answer",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[Oô, sigúro ako.|other]]",
+       "Yes, I am sure (or Yes, definitely)."
+      ],
+      [
+       "[[Hindî ako sigúro.|other]]",
+       "I am not sure."
+      ],
+      [
+       "[[Sigúro.|other]]",
+       "Maybe."
+      ]
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Be respectful",
+     "t": "Add **pô** to these expressions, or change **ka** into **kayó** or **silá**, whenever possible to show respect."
+    },
+    {
+     "type": "box",
+     "kind": "culture",
+     "title": "Mabúhay!",
+     "t": "**Mabuhay** is the official greeting of Filipinos to foreign visitors. It is also used to show joy and pride on any occasion, such as an achievement in politics or sports, and to greet newlyweds: **Mabuhay ang bagong kasal!** (*May the newlyweds live long!*). **Maligáyang batì** now goes with birthday celebrations."
     },
     {
      "type": "box",
      "kind": "remember",
      "title": "Remember",
      "items": [
-      "Po and ho show respect: younger to older, and to authority.",
-      "Greetings start with magandang plus the time of day.",
-      "Reply with rin, din or naman.",
-      "Five different ways to say excuse me, each for its own situation."
+      "Pô and hô show respect to older people and to people in authority. Opô and ohô are the polite yes.",
+      "Magandáng + áraw, umága, tanghálì, hápon or gabí. Reply with rin or namán.",
+      "Kumustá ka? for friends; Kumustá pô kayó? or Kumustá silá? for elders.",
+      "Saán ka púpuntá? is just a friendly hello.",
+      "Five ways to say excuse me: Paumanhín, Pakiraán, Mawaláng-gálang, Patáwad, Pasintábi."
      ]
     }
    ]
@@ -662,63 +668,63 @@
  "vocab": [
   {
    "id": "po",
-   "tl": "po",
-   "en": "polite word (sir, madam)",
+   "tl": "pô",
+   "en": "sir, madam (polite word)",
    "pos": "part",
    "group": "respect",
-   "say": "poʔ"
+   "say": "poQ"
   },
   {
    "id": "ho",
-   "tl": "ho",
-   "en": "polite word (sir, madam), same use as po",
+   "tl": "hô",
+   "en": "sir, madam (polite word)",
    "pos": "part",
    "group": "respect",
-   "say": "hoʔ"
+   "say": "hoQ"
   },
   {
    "id": "oo",
    "tl": "oo",
-   "en": "yes (casual)",
+   "en": "yes (to a younger person or a peer)",
    "pos": "part",
-   "group": "respect",
-   "say": "o-ʔO"
+   "group": "respect"
   },
   {
    "id": "opo",
-   "tl": "opo",
-   "en": "yes (polite)",
+   "tl": "opô",
+   "en": "yes (formal, polite)",
    "pos": "part",
    "group": "respect",
-   "say": "o-poʔ"
+   "say": "o-poQ"
   },
   {
    "id": "oho",
-   "tl": "oho",
-   "en": "yes (polite)",
+   "tl": "ohô",
+   "en": "yes (formal, polite)",
    "pos": "part",
    "group": "respect",
-   "say": "o-hoʔ"
+   "say": "o-hoQ"
   },
   {
-   "id": "hindi",
-   "tl": "hindi",
-   "en": "no, not",
-   "pos": "part",
-   "group": "respect",
-   "say": "hin-diʔ"
-  },
-  {
-   "id": "magandang-araw",
-   "tl": "magandang araw",
-   "en": "good day",
-   "pos": "phrase",
+   "id": "maganda",
+   "tl": "magandá",
+   "en": "beautiful",
+   "pos": "adj",
    "group": "greet",
-   "say": "ma-gan-DANG A-raw"
+   "say": "ma-gan-DA"
+  },
+  {
+   "id": "araw",
+   "tl": "áraw",
+   "en": "sun; day",
+   "pos": "noun",
+   "group": "greet",
+   "say": "A-raw",
+   "note": "Magandáng áraw = Good day. (Lesson 3's word list glosses áraw as morning; Lessons 4 and 7 give sun; day.)"
   },
   {
    "id": "umaga",
-   "tl": "umaga",
+   "tl": "umága",
    "en": "morning",
    "pos": "noun",
    "group": "greet",
@@ -726,16 +732,16 @@
   },
   {
    "id": "tanghali",
-   "tl": "tanghali",
-   "en": "midday, noon",
+   "tl": "tanghálì",
+   "en": "noon or midday",
    "pos": "noun",
    "group": "greet",
-   "say": "tang-HA-li",
-   "note": "About 11 am to 1 pm"
+   "say": "tang-HA-liQ",
+   "note": "From around 11 am to 1 pm"
   },
   {
    "id": "hapon",
-   "tl": "hapon",
+   "tl": "hápon",
    "en": "afternoon",
    "pos": "noun",
    "group": "greet",
@@ -743,570 +749,735 @@
   },
   {
    "id": "gabi",
-   "tl": "gabi",
-   "en": "evening, night",
+   "tl": "gabí",
+   "en": "night",
    "pos": "noun",
    "group": "greet",
-   "say": "ga-BI"
+   "say": "ga-BI",
+   "note": "Magandáng gabí = Good evening"
   },
   {
    "id": "kumusta",
-   "tl": "kumusta",
-   "en": "how are (you)",
+   "tl": "Kumustá?",
+   "en": "How are you?",
    "pos": "phrase",
    "group": "greet",
    "say": "ku-mus-TA"
   },
   {
    "id": "mabuti",
-   "tl": "mabuti",
-   "en": "fine, good",
+   "tl": "mabúti",
+   "en": "fine; good (of condition or quality)",
    "pos": "adj",
    "group": "greet",
    "say": "ma-BU-ti"
   },
   {
-   "id": "rin",
-   "tl": "rin",
-   "en": "too, also (after a vowel)",
-   "pos": "part",
+   "id": "salamat",
+   "tl": "salámat",
+   "en": "thank you",
+   "pos": "expr",
    "group": "greet",
-   "say": "RIN"
+   "say": "sa-LA-mat"
   },
   {
-   "id": "din",
-   "tl": "din",
-   "en": "too, also (after a consonant)",
+   "id": "rin",
+   "tl": "rin",
+   "en": "too",
    "pos": "part",
-   "group": "greet",
-   "say": "DIN"
+   "group": "greet"
   },
   {
    "id": "naman",
-   "tl": "naman",
-   "en": "too, in turn",
+   "tl": "namán",
+   "en": "too",
    "pos": "part",
    "group": "greet",
    "say": "na-MAN"
   },
   {
+   "id": "sa-inyo",
+   "tl": "sa inyó",
+   "en": "to you (plural, polite)",
+   "pos": "phrase",
+   "group": "greet"
+  },
+  {
+   "id": "sa-kanila",
+   "tl": "sa kanilá",
+   "en": "to them (in a greeting: to you, polite)",
+   "pos": "phrase",
+   "group": "greet"
+  },
+  {
+   "id": "sa-iyo",
+   "tl": "sa iyó",
+   "en": "to you (singular)",
+   "pos": "phrase",
+   "group": "greet"
+  },
+  {
+   "id": "paalam",
+   "tl": "paálam",
+   "en": "goodbye",
+   "pos": "expr",
+   "group": "greet",
+   "say": "pa-A-lam"
+  },
+  {
+   "id": "pangalan",
+   "tl": "pangálan",
+   "en": "name",
+   "pos": "noun",
+   "group": "greet",
+   "say": "pa-NGA-lan"
+  },
+  {
+   "id": "kapilya",
+   "tl": "kapílya",
+   "en": "chapel",
+   "pos": "noun",
+   "group": "greet",
+   "say": "ka-PIL-ya"
+  },
+  {
    "id": "saan-ka-pupunta",
-   "tl": "Saan ka pupunta?",
+   "tl": "Saán ka púpuntá?",
    "en": "Where are you going?",
    "pos": "phrase",
    "group": "greet",
-   "note": "A friendly greeting"
+   "note": "Informal. A friendly greeting"
   },
   {
    "id": "saan-ka-nanggaling",
-   "tl": "Saan ka nanggaling?",
+   "tl": "Saán ka nanggáling?",
    "en": "Where have you been?",
    "pos": "phrase",
    "group": "greet",
-   "note": "A friendly greeting"
+   "note": "Informal. A friendly greeting"
   },
   {
-   "id": "diyan-lang",
-   "tl": "Diyan lang po.",
-   "en": "Just nearby, sir or madam.",
+   "id": "diyan-lamang",
+   "tl": "Diyán lámang (pô).",
+   "en": "Just nearby (sir/madam).",
    "pos": "phrase",
    "group": "greet"
   },
   {
    "id": "paumanhin",
-   "tl": "Paumanhin po",
-   "en": "Excuse me, I'm sorry (mild)",
+   "tl": "Paumanhín pô",
+   "en": "Excuse me; I'm sorry (to apologise, be excused, or after bumping into someone)",
    "pos": "expr",
    "group": "excuse"
   },
   {
    "id": "pakiraan",
-   "tl": "Pakiraan po",
-   "en": "Please let me pass",
+   "tl": "Pakiraán pô",
+   "en": "Please let me pass.",
    "pos": "expr",
    "group": "excuse"
   },
   {
    "id": "mawalang-galang",
-   "tl": "Mawalang-galang po",
-   "en": "I beg your pardon",
+   "tl": "Mawaláng-gálang pô",
+   "en": "I beg your pardon (literally: May I lose my courtesy?)",
    "pos": "expr",
    "group": "excuse"
   },
   {
    "id": "patawad",
-   "tl": "Patawad po",
-   "en": "Please forgive me",
+   "tl": "Patáwad pô",
+   "en": "Forgive me (for physical injury or emotional hurt)",
    "pos": "expr",
    "group": "excuse"
   },
   {
    "id": "pasintabi",
-   "tl": "Pasintabi po",
-   "en": "With your permission (a warning before something unpleasant)",
+   "tl": "Pasintábi pô",
+   "en": "A warning before something offensive (literally: Please set aside)",
    "pos": "expr",
    "group": "excuse"
   },
   {
-   "id": "salamat",
-   "tl": "salamat",
-   "en": "thank you",
-   "pos": "expr",
-   "group": "thanks",
-   "say": "sa-LA-mat"
+   "id": "saan-nakatira",
+   "tl": "Saan kayó nakatirá?",
+   "en": "Where do you live?",
+   "pos": "phrase",
+   "group": "expr"
   },
   {
-   "id": "maraming-salamat",
-   "tl": "maraming salamat",
-   "en": "thank you very much",
-   "pos": "expr",
-   "group": "thanks",
-   "say": "ma-RA-ming sa-LA-mat"
+   "id": "pangalan-mo",
+   "tl": "Anó ang pangálan mo?",
+   "en": "What is your name?",
+   "pos": "phrase",
+   "group": "expr"
   },
   {
-   "id": "walang-anuman",
-   "tl": "walang anuman",
-   "en": "you're welcome",
+   "id": "aywan-ko",
+   "tl": "Aywan ko.",
+   "en": "I don't know.",
    "pos": "expr",
-   "group": "thanks"
+   "group": "expr",
+   "note": "Shortened: Èwan ko."
   },
   {
-   "id": "paalam",
-   "tl": "paalam",
-   "en": "goodbye",
+   "id": "hindi-ko-alam",
+   "tl": "Hindí ko alám.",
+   "en": "I don't know.",
    "pos": "expr",
-   "group": "thanks",
-   "say": "pa-A-lam"
+   "group": "expr",
+   "note": "Shortened: Di ko alám."
   },
   {
-   "id": "sige",
-   "tl": "sige",
-   "en": "okay, go ahead",
+   "id": "ayaw-ako",
+   "tl": "Ayaw akó.",
+   "en": "I don't like.",
    "pos": "expr",
-   "group": "react",
-   "say": "SI-ge"
+   "group": "expr",
+   "note": "Shortened: Ayòko."
+  },
+  {
+   "id": "bahala-na",
+   "tl": "Bahála na!",
+   "en": "Come what may!",
+   "pos": "expr",
+   "group": "expr"
+  },
+  {
+   "id": "kaunti-lamang",
+   "tl": "Kauntî lámang.",
+   "en": "Just a little.",
+   "pos": "expr",
+   "group": "expr",
+   "note": "Shortened: Lang"
+  },
+  {
+   "id": "kung-minsan",
+   "tl": "Kung mínsan.",
+   "en": "Once in a while.",
+   "pos": "expr",
+   "group": "expr"
+  },
+  {
+   "id": "gising-na",
+   "tl": "Gísing na!",
+   "en": "Wake up!",
+   "pos": "expr",
+   "group": "expr"
   },
   {
    "id": "hindi-bale",
-   "tl": "hindi bale",
-   "en": "never mind",
+   "tl": "Hindî bale!",
+   "en": "Never mind!",
    "pos": "expr",
-   "group": "react"
+   "group": "expr"
   },
   {
    "id": "hindi-naman",
-   "tl": "hindi naman",
-   "en": "not really",
+   "tl": "Hindî namán.",
+   "en": "Not so.",
    "pos": "expr",
-   "group": "react"
+   "group": "expr"
   },
   {
-   "id": "totoo-ba",
-   "tl": "Totoo ba?",
-   "en": "Is it true? Really?",
+   "id": "hintay-ka",
+   "tl": "Hintáy ka!",
+   "en": "Wait for a moment.",
    "pos": "expr",
-   "group": "react"
+   "group": "expr",
+   "note": "Shortened: Teka!"
   },
   {
-   "id": "siguro",
-   "tl": "siguro",
-   "en": "maybe, probably",
-   "pos": "adv",
-   "group": "react",
-   "say": "si-GU-ro"
+   "id": "huwag-na",
+   "tl": "Huwag na. Salámat.",
+   "en": "No more. Thank you.",
+   "pos": "expr",
+   "group": "expr"
   },
   {
-   "id": "sigurado",
-   "tl": "sigurado",
-   "en": "sure, certain",
-   "pos": "adj",
-   "group": "react",
-   "say": "si-gu-RA-do"
+   "id": "bahala-ka",
+   "tl": "Bahálà ka.",
+   "en": "It is up to you.",
+   "pos": "expr",
+   "group": "expr"
+  },
+  {
+   "id": "magmadali-ka",
+   "tl": "Magmadali ká.",
+   "en": "Hurry up! (literally: Be quick, you!)",
+   "pos": "expr",
+   "group": "expr",
+   "note": "Shortened: Dali ka!"
+  },
+  {
+   "id": "mamaya-na",
+   "tl": "Mámayá na.",
+   "en": "For a while.",
+   "pos": "expr",
+   "group": "expr"
+  },
+  {
+   "id": "maraming-salamat",
+   "tl": "Maráming salámat.",
+   "en": "Thank you very much.",
+   "pos": "expr",
+   "group": "expr"
+  },
+  {
+   "id": "ano-po",
+   "tl": "Anó pô?",
+   "en": "What did you say, sir/madam?",
+   "pos": "expr",
+   "group": "expr",
+   "note": "Or: Anó?"
+  },
+  {
+   "id": "saka-na",
+   "tl": "Saká na.",
+   "en": "Later.",
+   "pos": "expr",
+   "group": "expr"
+  },
+  {
+   "id": "sandali-lamang",
+   "tl": "Sandalî lámang.",
+   "en": "Just a moment.",
+   "pos": "expr",
+   "group": "expr",
+   "note": "Shortened: Lang"
+  },
+  {
+   "id": "sige-na",
+   "tl": "Síge na!",
+   "en": "Go on!",
+   "pos": "expr",
+   "group": "expr"
   },
   {
    "id": "sayang",
-   "tl": "sayang",
-   "en": "what a waste, what a pity",
+   "tl": "Sáyang!",
+   "en": "What a pity. What a loss.",
    "pos": "expr",
-   "group": "react",
+   "group": "expr",
    "say": "SA-yang"
   },
   {
-   "id": "magaling",
-   "tl": "magaling",
-   "en": "well done, skilled",
+   "id": "tahimik-kayo",
+   "tl": "Tahímik kayó.",
+   "en": "Be silent.",
    "pos": "expr",
-   "group": "react",
+   "group": "expr"
+  },
+  {
+   "id": "tama-na",
+   "tl": "Táma na.",
+   "en": "It is all right. It is enough.",
+   "pos": "expr",
+   "group": "expr"
+  },
+  {
+   "id": "tayo-na",
+   "tl": "Táyo na.",
+   "en": "Let's go.",
+   "pos": "expr",
+   "group": "expr",
+   "note": "Shortened: Tena."
+  },
+  {
+   "id": "totoo-ba",
+   "tl": "Totoó ba?",
+   "en": "Is it true?",
+   "pos": "expr",
+   "group": "expr",
+   "note": "Shortened: Totoò?"
+  },
+  {
+   "id": "tulog-na",
+   "tl": "Túlog na.",
+   "en": "Go to sleep.",
+   "pos": "expr",
+   "group": "expr"
+  },
+  {
+   "id": "marahil",
+   "tl": "Maráhil.",
+   "en": "Maybe.",
+   "pos": "adv",
+   "group": "expr",
+   "say": "ma-RA-hil"
+  },
+  {
+   "id": "siguro",
+   "tl": "Sigúro.",
+   "en": "Maybe or definitely.",
+   "pos": "adv",
+   "group": "expr",
+   "say": "si-GU-ro",
+   "note": "The meaning depends on the answer"
+  },
+  {
+   "id": "kataka-taka",
+   "tl": "Kataká-taká!",
+   "en": "It seems incredible!",
+   "pos": "expr",
+   "group": "expr"
+  },
+  {
+   "id": "magaling",
+   "tl": "Magalíng!",
+   "en": "Outstanding! (literally: Skilled)",
+   "pos": "expr",
+   "group": "expr",
    "say": "ma-ga-LING"
   },
   {
-   "id": "mabuhay",
-   "tl": "mabuhay",
-   "en": "welcome, long live, cheers",
+   "id": "nakayayamot",
+   "tl": "Nakayáyamót!",
+   "en": "It is annoying!",
    "pos": "expr",
-   "group": "react",
+   "group": "expr"
+  },
+  {
+   "id": "mabuhay",
+   "tl": "Mabúhay!",
+   "en": "Welcome! (literally: May you live long!)",
+   "pos": "expr",
+   "group": "expr",
    "say": "ma-BU-hay"
   },
   {
    "id": "maligayang-bati",
-   "tl": "maligayang bati",
-   "en": "congratulations, happy greetings",
+   "tl": "Maligáyang batì (pô)!",
+   "en": "Congratulations (sir/madam)! (literally: Happy greetings!)",
    "pos": "expr",
-   "group": "react"
-  },
-  {
-   "id": "ano-po",
-   "tl": "Ano po?",
-   "en": "What did you say, sir or madam?",
-   "pos": "expr",
-   "group": "ask"
-  },
-  {
-   "id": "hindi-ko-alam",
-   "tl": "hindi ko alam",
-   "en": "I don't know",
-   "pos": "expr",
-   "group": "ask"
-  },
-  {
-   "id": "ayaw-ko",
-   "tl": "ayaw ko",
-   "en": "I don't want, I don't like",
-   "pos": "expr",
-   "group": "ask"
-  },
-  {
-   "id": "pangalan-mo",
-   "tl": "Ano ang pangalan mo?",
-   "en": "What is your name?",
-   "pos": "phrase",
-   "group": "ask"
-  },
-  {
-   "id": "saan-nakatira",
-   "tl": "Saan kayo nakatira?",
-   "en": "Where do you live? (respectful)",
-   "pos": "phrase",
-   "group": "ask"
-  },
-  {
-   "id": "sandali-lang",
-   "tl": "sandali lang",
-   "en": "just a moment",
-   "pos": "expr",
-   "group": "time"
-  },
-  {
-   "id": "teka",
-   "tl": "teka",
-   "en": "wait! (short form)",
-   "pos": "expr",
-   "group": "time",
-   "say": "TE-ka"
-  },
-  {
-   "id": "mamaya-na",
-   "tl": "mamaya na",
-   "en": "later on",
-   "pos": "expr",
-   "group": "time"
-  },
-  {
-   "id": "saka-na",
-   "tl": "saka na",
-   "en": "some other time",
-   "pos": "expr",
-   "group": "time"
-  },
-  {
-   "id": "kung-minsan",
-   "tl": "kung minsan",
-   "en": "sometimes, once in a while",
-   "pos": "expr",
-   "group": "time"
-  },
-  {
-   "id": "konti-lang",
-   "tl": "konti lang",
-   "en": "just a little",
-   "pos": "expr",
-   "group": "time"
-  },
-  {
-   "id": "gising-na",
-   "tl": "gising na",
-   "en": "wake up",
-   "pos": "expr",
-   "group": "command"
-  },
-  {
-   "id": "tulog-na",
-   "tl": "tulog na",
-   "en": "go to sleep",
-   "pos": "expr",
-   "group": "command"
-  },
-  {
-   "id": "tayo-na",
-   "tl": "tayo na",
-   "en": "let's go",
-   "pos": "expr",
-   "group": "command"
-  },
-  {
-   "id": "tama-na",
-   "tl": "tama na",
-   "en": "that's enough",
-   "pos": "expr",
-   "group": "command"
-  },
-  {
-   "id": "bahala-ka",
-   "tl": "bahala ka",
-   "en": "it's up to you",
-   "pos": "expr",
-   "group": "command"
-  },
-  {
-   "id": "bahala-na",
-   "tl": "bahala na",
-   "en": "come what may",
-   "pos": "expr",
-   "group": "command"
-  },
-  {
-   "id": "tahimik",
-   "tl": "tahimik",
-   "en": "quiet! be quiet",
-   "pos": "expr",
-   "group": "command",
-   "say": "ta-HI-mik"
+   "group": "expr"
   }
  ],
  "exercises": [
   {
    "type": "choice",
-   "q": "Who would you say \"po\" to?",
+   "q": "Who would you say pô to?",
    "options": [
     "An older person or someone in authority",
     "Your younger brother",
     "Your close friend"
    ],
    "answer": "An older person or someone in authority",
-   "explain": "Po shows respect to elders and people in authority."
+   "explain": "Pô shows respect to older people and to people with honorific titles or authority."
   },
   {
    "type": "choice",
-   "q": "Would a parent normally use \"po\" when speaking to their young child?",
+   "q": "Does a father use pô when talking to his son?",
    "options": [
     "No",
     "Yes, always"
    ],
    "answer": "No",
-   "explain": "Po is used by the younger or junior person, not the other way round."
+   "explain": "An older person does not use pô when talking to a younger person."
   },
   {
    "type": "choice",
-   "q": "How do you say \"yes\" politely to an older person?",
+   "q": "Do equals, such as siblings or friends, use pô with each other?",
    "options": [
-    "opo",
+    "No",
+    "Yes"
+   ],
+   "answer": "No",
+   "explain": "Equals do not use the term."
+  },
+  {
+   "type": "choice",
+   "q": "How do you say \"yes\" to an older person?",
+   "options": [
+    "opô",
     "oo",
-    "hindi"
+    "hindî"
    ],
-   "answer": "opo",
-   "explain": "Opo (or oho) is the polite yes."
+   "answer": "opô",
+   "explain": "Opô or ohô are the formal, polite versions of yes."
   },
   {
    "type": "choice",
-   "q": "What is the best greeting at 12:30 pm?",
+   "q": "Which word starts most Tagalog greetings?",
    "options": [
-    "Magandang tanghali",
-    "Magandang umaga",
-    "Magandang gabi"
+    "magandá",
+    "salámat",
+    "paálam"
    ],
-   "answer": "Magandang tanghali",
-   "explain": "Tanghali is midday, roughly 11 am to 1 pm."
+   "answer": "magandá",
+   "explain": "Magandá means beautiful. Magandáng áraw literally means beautiful day."
   },
   {
    "type": "choice",
-   "q": "What is the best greeting at 7 am?",
+   "q": "What is tanghálì?",
    "options": [
-    "Magandang umaga",
-    "Magandang hapon",
-    "Magandang tanghali"
+    "Noon or midday",
+    "Night",
+    "Morning"
    ],
-   "answer": "Magandang umaga",
-   "explain": "Umaga means morning."
+   "answer": "Noon or midday",
+   "explain": "It covers lunch time, from around 11 am to 1 pm."
   },
   {
    "type": "choice",
-   "q": "Someone says \"Magandang umaga po.\" What is a good reply?",
+   "q": "Someone says \"Magandáng umága.\" What is a good reply?",
    "options": [
-    "Magandang umaga rin po.",
-    "Mabuti po.",
-    "Paumanhin po."
+    "Magandáng umága namán.",
+    "Paumanhín pô.",
+    "Hindî bale!"
    ],
-   "answer": "Magandang umaga rin po.",
-   "explain": "Rin means too. After umaga, which ends in a vowel, use rin."
+   "answer": "Magandáng umága namán.",
+   "explain": "Namán (or rin) means too."
   },
   {
    "type": "choice",
-   "q": "Fill in: Magandang hapon ___ po.",
+   "q": "What does \"sa kanilá\" mean at the end of a greeting?",
    "options": [
-    "din",
-    "rin"
+    "To you (polite)",
+    "To them, literally",
+    "To me"
    ],
-   "answer": "din",
-   "explain": "Hapon ends in a consonant (n), so use din."
+   "answer": "To you (polite)",
+   "explain": "In a greeting it still means to you. The plural shows respect."
   },
   {
    "type": "choice",
-   "q": "Which question do you ask your teacher to say \"How are you?\" respectfully?",
+   "q": "How do you ask an elder \"How are you?\"",
    "options": [
-    "Kumusta po kayo?",
-    "Kumusta ka?",
-    "Saan ka pupunta?"
+    "Kumustá pô kayó?",
+    "Kumustá ka?",
+    "Saán ka púpuntá?"
    ],
-   "answer": "Kumusta po kayo?",
-   "explain": "Use po and kayo for respect."
+   "answer": "Kumustá pô kayó?",
+   "explain": "Use the plural kayó (or silá) for elders and superiors."
   },
   {
    "type": "choice",
-   "q": "When someone asks \"Saan ka pupunta?\" (Where are you going?), it is most often…",
+   "q": "When someone asks \"Saán ka púpuntá?\", they are usually…",
    "options": [
-    "A friendly greeting",
-    "A serious interrogation"
+    "Just saying hello",
+    "Asking for your exact plans"
    ],
-   "answer": "A friendly greeting",
-   "explain": "A short answer like \"Diyan lang po\" is enough."
+   "answer": "Just saying hello",
+   "explain": "It is like the English How is it going?"
   },
   {
    "type": "choice",
-   "q": "You bump into someone in a crowd. What do you say?",
+   "q": "What is the usual answer to \"Saán ka nanggáling?\"",
    "options": [
-    "Paumanhin po",
-    "Pasintabi po",
-    "Pakiraan po"
+    "Diyán lámang.",
+    "Salámat.",
+    "Opô."
    ],
-   "answer": "Paumanhin po",
-   "explain": "Paumanhin po is for apologising for small mishaps."
+   "answer": "Diyán lámang.",
+   "explain": "It means Just nearby."
   },
   {
    "type": "choice",
-   "q": "You need to squeeze past two people blocking a hallway. What do you say?",
+   "q": "You bump into somebody in a crowded mall. What do you say?",
    "options": [
-    "Pakiraan po",
-    "Patawad po",
-    "Paumanhin po"
+    "Paumanhín pô.",
+    "Pasintábi pô.",
+    "Pakiraán pô."
    ],
-   "answer": "Pakiraan po",
-   "explain": "Pakiraan po asks people to let you pass."
+   "answer": "Paumanhín pô.",
+   "explain": "Paumanhín pô is for bumping into someone by accident."
   },
   {
    "type": "choice",
-   "q": "You have badly hurt someone's feelings. Which is the most fitting?",
+   "q": "Two people talking are blocking the hallway. What do you say?",
    "options": [
-    "Patawad po",
-    "Paumanhin po",
-    "Pakiraan po"
+    "Pakiraán pô.",
+    "Patáwad pô.",
+    "Paumanhín pô."
    ],
-   "answer": "Patawad po",
-   "explain": "Patawad po asks for forgiveness for real hurt."
+   "answer": "Pakiraán pô.",
+   "explain": "Pakiraán pô means Please let me pass."
   },
   {
    "type": "choice",
-   "q": "A news reader is about to show disturbing footage. What do they say first?",
+   "q": "You want to interrupt a speaker in a meeting to make a comment. What do you say?",
    "options": [
-    "Pasintabi po",
-    "Salamat po",
-    "Opo"
+    "Mawaláng-gálang pô.",
+    "Pasintábi pô.",
+    "Patáwad pô."
    ],
-   "answer": "Pasintabi po",
-   "explain": "Pasintabi po is a courtesy warning."
+   "answer": "Mawaláng-gálang pô.",
+   "explain": "It is used when one requests to be heard."
   },
   {
    "type": "choice",
-   "q": "Can \"Paumanhin po\" replace \"Patawad po\" for a serious hurt?",
+   "q": "You have deeply hurt someone. What do you say?",
    "options": [
-    "No, it is too mild",
-    "Yes, they are the same"
+    "Patawad pô.",
+    "Paumanhin pô.",
+    "Pakiraán pô."
    ],
-   "answer": "No, it is too mild",
-   "explain": "Paumanhin is for small things."
+   "answer": "Patawad pô.",
+   "explain": "Paumanhin pô is too mild for physical or emotional injury."
+  },
+  {
+   "type": "choice",
+   "q": "A news reporter is about to show gruesome footage. What do they say?",
+   "options": [
+    "Pasintabi pô.",
+    "Salámat pô.",
+    "Opô."
+   ],
+   "answer": "Pasintabi pô.",
+   "explain": "It warns people of something offensive."
+  },
+  {
+   "type": "choice",
+   "q": "Your mother calls you to dinner but you are still tidying your desk. What do you say?",
+   "options": [
+    "Sandalî lang pô.",
+    "Magalíng!",
+    "Paumanhín pô."
+   ],
+   "answer": "Sandalî lang pô.",
+   "explain": "Sandalî lámang means Just a moment."
+  },
+  {
+   "type": "choice",
+   "q": "Your grandmother asks a question but you didn't understand it. What do you say?",
+   "options": [
+    "Anó pô?",
+    "Magalíng!",
+    "Bahála na!"
+   ],
+   "answer": "Anó pô?",
+   "explain": "Anó pô? means What did you say, sir/madam?"
+  },
+  {
+   "type": "choice",
+   "q": "Your 2-year-old nephew sings a whole song. What do you say?",
+   "options": [
+    "Magalíng!",
+    "Pasintábi pô.",
+    "Túlog na."
+   ],
+   "answer": "Magalíng!",
+   "explain": "Magalíng means Outstanding! (literally: Skilled)."
+  },
+  {
+   "type": "choice",
+   "q": "The town mayor greets you good afternoon. What do you reply?",
+   "options": [
+    "Magandáng hápon din pô.",
+    "Magandáng umága.",
+    "Kumustá ka?"
+   ],
+   "answer": "Magandáng hápon din pô.",
+   "explain": "Repeat the greeting with too and pô."
+  },
+  {
+   "type": "choice",
+   "q": "What is the shortened form of \"Táyo na\"?",
+   "options": [
+    "Tena.",
+    "Teka!",
+    "Lang"
+   ],
+   "answer": "Tena.",
+   "explain": "Táyo na (Let's go) is shortened to Tena."
+  },
+  {
+   "type": "choice",
+   "q": "What does \"Sigúro\" mean on its own?",
+   "options": [
+    "Maybe",
+    "No",
+    "Thank you"
+   ],
+   "answer": "Maybe",
+   "explain": "Sigúro can mean maybe or definitely, depending on the answer."
   },
   {
    "type": "listen",
-   "tl": "salamat",
+   "tl": "salámat",
    "options": [
     "thank you",
     "goodbye",
     "yes"
    ],
    "answer": "thank you",
-   "explain": "Salamat means thank you."
+   "explain": "Salámat means thank you."
   },
   {
    "type": "listen",
-   "tl": "walang anuman",
+   "tl": "mabúti",
    "options": [
-    "you're welcome",
-    "thank you",
-    "sorry"
-   ],
-   "answer": "you're welcome",
-   "explain": "Walang anuman is the reply to thanks."
-  },
-  {
-   "type": "listen",
-   "tl": "mabuti",
-   "options": [
-    "fine, good",
+    "fine",
     "morning",
     "night"
    ],
-   "answer": "fine, good",
-   "explain": "Mabuti means fine or good."
+   "answer": "fine",
+   "explain": "Mabúti means fine."
+  },
+  {
+   "type": "listen",
+   "tl": "Sáyang!",
+   "options": [
+    "What a pity.",
+    "Go on!",
+    "Wake up!"
+   ],
+   "answer": "What a pity.",
+   "explain": "Sáyang! means What a pity. What a loss."
   },
   {
    "type": "build",
-   "en": "Good morning, sir or madam.",
-   "tl": "Magandang umaga po.",
+   "en": "Good morning, sir/madam.",
+   "tl": "Magandáng umága pô.",
    "tokens": [
-    "magandang",
-    "umaga",
-    "po"
+    "magandáng",
+    "umága",
+    "pô"
    ],
    "explain": ""
   },
   {
    "type": "build",
-   "en": "How are you, sir or madam?",
-   "tl": "Kumusta po kayo?",
+   "en": "How are you, sir/madam?",
+   "tl": "Kumustá pô kayó?",
    "tokens": [
-    "kumusta",
-    "po",
-    "kayo"
+    "kumustá",
+    "pô",
+    "kayó"
    ],
    "explain": ""
   },
   {
    "type": "build",
-   "en": "Fine, thank you, sir or madam.",
-   "tl": "Mabuti naman po.",
+   "en": "Fine, too, sir/madam.",
+   "tl": "Mabúti namán pô.",
    "tokens": [
-    "mabuti",
-    "naman",
-    "po"
+    "mabúti",
+    "namán",
+    "pô"
    ],
    "explain": ""
   },
   {
    "type": "build",
-   "en": "Thank you, sir or madam.",
-   "tl": "Salamat po.",
+   "en": "Thank you very much.",
+   "tl": "Maráming salámat.",
    "tokens": [
-    "salamat",
-    "po"
+    "maráming",
+    "salámat"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "What is your name?",
+   "tl": "Anó ang pangálan mo?",
+   "tokens": [
+    "anó",
+    "ang",
+    "pangálan",
+    "mo"
    ],
    "explain": ""
   },
@@ -1315,20 +1486,42 @@
    "q": "Match each expression to its meaning.",
    "pairs": [
     [
-     "Sandali lang",
-     "Just a moment"
+     "Sandalî lámang.",
+     "Just a moment."
     ],
     [
-     "Hindi bale",
-     "Never mind"
+     "Hindî bale!",
+     "Never mind!"
     ],
     [
-     "Sayang",
-     "What a waste"
+     "Sáyang!",
+     "What a pity."
     ],
     [
-     "Tayo na",
-     "Let's go"
+     "Táyo na.",
+     "Let's go."
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each expression to its meaning.",
+   "pairs": [
+    [
+     "Gísing na!",
+     "Wake up!"
+    ],
+    [
+     "Túlog na.",
+     "Go to sleep."
+    ],
+    [
+     "Saká na.",
+     "Later."
+    ],
+    [
+     "Bahálà ka.",
+     "It is up to you."
     ]
    ]
   },
@@ -1338,28 +1531,29 @@
    "pairs": [
     [
      "morning",
-     "umaga"
+     "umága"
     ],
     [
-     "midday",
-     "tanghali"
+     "noon or midday",
+     "tanghálì"
     ],
     [
      "afternoon",
-     "hapon"
+     "hápon"
     ],
     [
-     "evening",
-     "gabi"
+     "night",
+     "gabí"
     ]
    ]
   }
  ],
  "recap": [
-  "Po and ho show respect: younger to older, and to anyone in authority. Opo and oho are the polite forms of yes.",
-  "Greetings: Magandang + araw, umaga, tanghali, hapon or gabi. Reply with rin, din or naman.",
-  "Kumusta ka? for casual and Kumusta po kayo? for respectful.",
-  "Where-are-you-going questions are friendly greetings.",
-  "Five ways to say excuse me: Paumanhin, Pakiraan, Mawalang-galang, Patawad, Pasintabi."
+  "Pô and hô show respect to older people and anyone with authority. Opô and ohô are the polite yes; oo is for younger people and peers.",
+  "Greetings: Magandáng + áraw, umága, tanghálì, hápon or gabí (+ pô). Reply with rin or namán.",
+  "Sa inyó and sa kanilá at the end make a greeting even more polite.",
+  "Kumustá ka? for friends; Kumustá pô kayó? or Kumustá silá? for elders.",
+  "Saán ka púpuntá? and Saán ka nanggáling? are just hellos. Answer: Diyán lámang.",
+  "Five ways to say excuse me: Paumanhín, Pakiraán, Mawaláng-gálang, Patáwad, Pasintábi."
  ]
 }

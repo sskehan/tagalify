@@ -21,7 +21,7 @@
     },
     {
      "type": "p",
-     "t": "Around the 1930s the alphabet had **20 letters**: five vowels and fifteen consonants, with **ng** counted as one letter."
+     "t": "In the 1930s, when Tagalog was chosen as the basis for the national language, the alphabet had **20 letters**: five vowels and fifteen consonants, with **ng** counted as one letter."
     },
     {
      "type": "table",
@@ -43,7 +43,7 @@
     },
     {
      "type": "p",
-     "t": "In the 1980s eight more letters were added: **c, f, j, ñ, q, v, x, z**. They are used mostly for names (Carlos, Jollibee), borrowed words and science terms. Today the letters are named as in English, except **ñ**, which is said *en-YE*."
+     "t": "In the 1980s eight more letters were added: **c, f, j, ñ, q, v, x, z**. They are used mostly for names (Carlos, Jollibee), borrowed words and science terms. Today the letters are named as in English, except **ng** and **ñ** (said *en-ye*, from Spanish)."
     },
     {
      "type": "box",
@@ -72,35 +72,41 @@
       [
        "a",
        "the a in father",
-       "[[araw|noun]]  (A-raw)",
-       "day, sun"
+       "[[anák|noun]]  (a-NAK)",
+       "child"
       ],
       [
        "e",
        "the e in bed",
-       "[[bente|noun]]  (BEN-te)",
-       "twenty"
+       "[[kapé|noun]]  (ka-PE)",
+       "coffee"
       ],
       [
        "i",
        "the ee in feet, but shorter",
-       "[[isa|noun]]  (i-SA)",
-       "one"
+       "[[iná|noun]]  (i-NA)",
+       "mother"
       ],
       [
        "o",
        "the o in more, but pure",
-       "[[oras|noun]]  (O-ras)",
-       "hour, time"
+       "[[otél|noun]]  (o-TEL)",
+       "hotel"
       ],
       [
        "u",
        "the oo in food, but shorter",
-       "[[uhaw|pred]]  (u-HAW)",
-       "thirsty"
+       "[[úlo|noun]]  (U-lo)",
+       "head"
       ]
      ],
      "title": "Vowel sounds"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Accent marks",
+     "t": "This course writes words with the same accent marks as the textbook (kapé, iná). The mark shows which syllable to stress. Everyday Tagalog is usually written without them. Lesson 2 explains all four marks."
     },
     {
      "type": "box",
@@ -123,24 +129,24 @@
     },
     {
      "type": "p",
-     "t": "Try this: say *sing*. Hold the final \"ng\", then add a vowel straight after it: *ng-a*. Now say it without the \"si\" in front."
+     "t": "Push the back of your tongue up and back so it almost touches the roof of your mouth near the molars, make a nasal sound, then add the vowel that follows. Try it: say *sing*, hold the final \"ng\", then add a vowel straight after it: *ng-a*."
     },
     {
      "type": "examples",
      "items": [
       {
-       "tl": "ngayon",
-       "en": "now",
+       "tl": "ngayón",
+       "en": "now, today",
        "parts": [
         [
-         "ngayon",
-         "now (nga-YON)",
+         "ngayón",
+         "now, today (nga-YON)",
          "other"
         ]
        ]
       },
       {
-       "tl": "Ang mga bata",
+       "tl": "Ang mga batà",
        "en": "The children",
        "parts": [
         [
@@ -150,11 +156,11 @@
         ],
         [
          "mga",
-         "more than one (ma-NGA)",
+         "more than one",
          "marker"
         ],
         [
-         "bata",
+         "batà",
          "child",
          "noun"
         ]
@@ -177,13 +183,13 @@
     },
     {
      "type": "p",
-     "t": "The Tagalog **r** is a quick **tap** of the tongue tip against the ridge behind your upper teeth. It is the same flick as the \"tt\" in American *butter*. It is not the English r, and it is not a long rolled trill."
+     "t": "The Tagalog **r** is made by quickly tapping the tip of the tongue on the gum ridge behind the upper teeth, like a Spanish r but **not rolled or trilled**. It is the same flick as the \"tt\" in American *butter*. It is not the English r."
     },
     {
      "type": "box",
      "kind": "tip",
      "title": "Practice words",
-     "t": "[[araw|noun]], [[marami|pred]] (ma-RA-mi, many) and [[Pilipinas|noun]] all contain the tapped r."
+     "t": "[[Márso|noun]], [[Abríl|noun]] and [[restawrán|noun]] all contain the tapped r."
     }
    ]
   },
@@ -198,53 +204,54 @@
      "type": "table",
      "head": [
       "Glide",
-      "Example",
+      "Examples",
       "Meaning"
      ],
      "rows": [
       [
        "ay",
-       "[[away|noun]]  (A-way)",
-       "a fight"
+       "[[áway|noun]]  (a-way), [[láway|noun]]  (la-way)",
+       "fight, saliva"
       ],
       [
        "aw",
-       "[[araw|noun]]  (A-raw)",
-       "day, sun"
+       "[[mabábaw|pred]]  (ma-ba-baw), [[áyaw|pred]]  (a-yaw)",
+       "shallow, do not like"
       ],
       [
        "ey",
-       "[[reyna|noun]]  (REY-na)",
+       "[[reyna|noun]]  (rey-na)",
        "queen"
       ],
       [
        "iw",
-       "[[bitiw|pred]]  (BI-tiw)",
-       "let go, release"
+       "[[agiw|noun]]  (a-giw), [[bítiw|pred]]  (bi-tiw)",
+       "cobweb, let go"
       ],
       [
        "oy",
-       "[[amoy|noun]]  (a-MOY)",
-       "scent"
+       "[[káhoy|noun]]  (ka-hoy), [[amóy|noun]]  (a-moy)",
+       "wood, scent"
       ],
       [
        "uy",
-       "[[kasuy|noun]]  (ka-SUY)",
-       "cashew"
+       "[[kasúy|noun]]  (ka-suy), [[badúy|pred]]  (ba-duy)",
+       "cashew, dowdy"
       ]
-     ]
+     ],
+     "title": "The textbook's diphthong words"
     },
     {
      "type": "box",
      "kind": "warn",
      "title": "The hard ones",
-     "t": "English speakers often split **iw** and **uy** into two sounds at the end of a word. Say them as one smooth glide: bitiw, not bi-ti-oo."
+     "t": "English speakers often split **iw** and **uy** into two sounds, especially at the end of a word. Say them as one smooth glide: bítiw, not bi-ti-oo."
     },
     {
      "type": "box",
      "kind": "remember",
      "title": "Every syllable counts",
-     "t": "Say each syllable clearly and separately. Do not swallow or blur any part of a word."
+     "t": "A Tagalog word is pronounced just as it is spelled, and each syllable is said separately and clearly."
     }
    ]
   },
@@ -258,7 +265,7 @@
     {
      "type": "table",
      "head": [
-      "Original",
+      "Spanish",
       "Becomes",
       "Example"
      ],
@@ -266,47 +273,47 @@
       [
        "hard c",
        "k",
-       "café → [[kape|noun]] (coffee)"
+       "calesa → [[kalésa|noun]] (rig)"
       ],
       [
        "soft c",
        "s",
-       "cine → [[sine|noun]] (cinema)"
+       "circo → [[sírko|noun]] (circus)"
       ],
       [
        "ch",
        "ts",
-       "lechón → [[litson|noun]] (roast pig)"
+       "lechon → [[litsón|noun]] (roast pig)"
       ],
       [
        "f",
        "p",
-       "final → [[pinal|pred]]"
+       "final → [[pinál|pred]] (final)"
       ],
       [
-       "j (Spanish)",
+       "soft j",
        "h or s",
-       "cajón → [[kahon|noun]] (box), jabón → [[sabon|noun]] (soap)"
+       "cajon → [[kahón|noun]] (box, drawer), jabon → [[sabón|noun]] (soap)"
       ],
       [
        "ll",
        "ly",
-       "calle → [[kalye|noun]] (street)"
+       "calle → [[kálye|noun]] (street)"
       ],
       [
-       "q (Spanish)",
+       "q",
        "k",
-       "máquina → [[makina|noun]] (machine)"
+       "maquina → [[mákina|noun]] (machine)"
       ],
       [
        "v",
        "b",
-       "vapor → [[bapor|noun]] (ship)"
+       "vapor → [[bapór|noun]] (ship)"
       ],
       [
        "z",
        "s",
-       "lápiz → [[lapis|noun]] (pencil)"
+       "lapiz → [[lápis|noun]] (pencil)"
       ]
      ],
      "title": "From Spanish"
@@ -320,62 +327,93 @@
      ],
      "rows": [
       [
-       "ck or ct",
-       "k",
-       "addict → [[adik|noun]]"
+       "soft c",
+       "s",
+       "cinema → [[sine|noun]]"
       ],
       [
-       "qu",
-       "kw",
-       "quality → [[kwaliti|noun]]"
+       "hard c",
+       "k",
+       "academic → [[akadémik|pred]]"
+      ],
+      [
+       "ck",
+       "k",
+       "gimmick → [[gímik|noun]]"
+      ],
+      [
+       "ct",
+       "k",
+       "addict → [[ádik|noun]]"
+      ],
+      [
+       "qua or q",
+       "kwa",
+       "quality → [[kwáliti|noun]]"
       ],
       [
        "long i",
        "ay",
-       "driver → [[drayber|noun]]"
+       "driver → [[dráyber|noun]]"
       ],
       [
        "f",
        "p",
-       "traffic → [[trapik|noun]]"
+       "traffic → [[trápik|noun]]"
       ],
       [
        "v",
        "b",
-       "believe → [[bilib|pred]] (to believe, admire)"
+       "believe → [[bilíb|pred]]"
       ],
       [
-       "-tion",
-       "-syon",
-       "institution → [[institusyon|noun]]"
+       "long o",
+       "u",
+       "approve → [[aprúb|pred]]"
+      ],
+      [
+       "cle",
+       "kel",
+       "tricycle → [[tráysikel|noun]]"
+      ],
+      [
+       "tion",
+       "syon",
+       "institution → [[institusyón|noun]]"
       ],
       [
        "x",
        "ks",
-       "boxing → [[boksing|noun]]"
+       "boxing → [[bóksing|noun]]"
       ],
       [
        "j",
        "dy",
-       "janitor → [[dyanitor|noun]]"
+       "janitor → [[dyánitor|noun]]"
       ],
       [
-       "s + consonant at the start",
-       "is + consonant",
-       "school → [[iskul|noun]], sport → [[isport|noun]]"
+       "s at the beginning",
+       "is",
+       "sport → [[ísport|noun]]"
       ],
       [
        "soft ch",
        "ts",
-       "teacher → [[titser|noun]]"
+       "teacher → [[títser|noun]]"
       ],
       [
-       "-cle",
-       "-kel",
-       "tricycle → [[traysikel|noun]]"
+       "hard ch",
+       "k",
+       "school → [[iskúl|noun]]"
       ]
      ],
      "title": "From English"
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "More than one way",
+     "t": "Because Tagalog borrowed from both Spanish and English, one English word can have two Tagalog forms. Quality can be **kwáliti** (from English) or **kalidád** (from Spanish)."
     },
     {
      "type": "box",
@@ -396,6 +434,20 @@
      "type": "vocab",
      "group": "borrowed",
      "title": "Common borrowed words"
+    }
+   ]
+  },
+  {
+   "title": "Practise the glides",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Tap each word to hear it, then say it as one smooth beat."
+    },
+    {
+     "type": "vocab",
+     "group": "sounds",
+     "title": "Diphthong words and ng"
     }
    ]
   },
@@ -421,8 +473,8 @@
      "kind": "remember",
      "title": "Remember",
      "items": [
-      "The weekdays and months are easy to guess if you know a little Spanish.",
-      "Linggo means both Sunday and week."
+      "The weekdays and months come from Spanish, respelled the Tagalog way.",
+      "Linggó is Sunday. Linggo is also used for week, as in Linggo ng Wika (National Language Week)."
      ]
     }
    ]
@@ -430,216 +482,293 @@
  ],
  "vocab": [
   {
-   "id": "araw",
-   "tl": "araw",
-   "en": "day, sun",
+   "id": "agiw",
+   "tl": "agiw",
+   "en": "cobweb",
    "pos": "noun",
    "group": "sounds",
-   "say": "A-raw"
+   "say": "a-giw"
   },
   {
-   "id": "bente",
-   "tl": "bente",
-   "en": "twenty",
-   "pos": "num",
+   "id": "bitiw",
+   "tl": "bítiw",
+   "en": "let go",
+   "pos": "verb",
    "group": "sounds",
-   "say": "BEN-te"
-  },
-  {
-   "id": "isa",
-   "tl": "isa",
-   "en": "one",
-   "pos": "num",
-   "group": "sounds",
-   "say": "i-SA"
-  },
-  {
-   "id": "oras",
-   "tl": "oras",
-   "en": "hour, time",
-   "pos": "noun",
-   "group": "sounds",
-   "say": "O-ras"
-  },
-  {
-   "id": "uhaw",
-   "tl": "uhaw",
-   "en": "thirsty",
-   "pos": "adj",
-   "group": "sounds",
-   "say": "u-HAW"
-  },
-  {
-   "id": "marami",
-   "tl": "marami",
-   "en": "many, plenty",
-   "pos": "adj",
-   "group": "sounds",
-   "say": "ma-RA-mi"
-  },
-  {
-   "id": "away",
-   "tl": "away",
-   "en": "a fight",
-   "pos": "noun",
-   "group": "sounds",
-   "say": "A-way"
-  },
-  {
-   "id": "amoy",
-   "tl": "amoy",
-   "en": "scent, smell",
-   "pos": "noun",
-   "group": "sounds",
-   "say": "a-MOY"
+   "say": "BI-tiw"
   },
   {
    "id": "kasuy",
-   "tl": "kasuy",
+   "tl": "kasúy",
    "en": "cashew",
    "pos": "noun",
    "group": "sounds",
    "say": "ka-SUY"
   },
   {
-   "id": "kape",
-   "tl": "kape",
-   "en": "coffee",
-   "pos": "noun",
-   "group": "borrowed",
-   "say": "ka-PE"
+   "id": "baduy",
+   "tl": "badúy",
+   "en": "dowdy",
+   "pos": "adj",
+   "group": "sounds",
+   "say": "ba-DUY"
   },
   {
-   "id": "kotse",
-   "tl": "kotse",
-   "en": "car",
-   "pos": "noun",
-   "group": "borrowed",
-   "say": "KOT-se"
+   "id": "mababaw",
+   "tl": "mabábaw",
+   "en": "shallow",
+   "pos": "adj",
+   "group": "sounds",
+   "say": "ma-BA-baw"
   },
   {
-   "id": "telepono",
-   "tl": "telepono",
-   "en": "telephone",
-   "pos": "noun",
-   "group": "borrowed",
-   "say": "te-le-PO-no"
+   "id": "ayaw",
+   "tl": "áyaw",
+   "en": "do not like",
+   "pos": "verb",
+   "group": "sounds",
+   "say": "A-yaw"
   },
   {
-   "id": "radyo",
-   "tl": "radyo",
-   "en": "radio",
+   "id": "away",
+   "tl": "áway",
+   "en": "fight",
    "pos": "noun",
-   "group": "borrowed",
-   "say": "RAD-yo"
+   "group": "sounds",
+   "say": "A-way"
   },
   {
-   "id": "sinehan",
-   "tl": "sinehan",
-   "en": "movie house",
+   "id": "laway",
+   "tl": "láway",
+   "en": "saliva",
    "pos": "noun",
-   "group": "borrowed",
-   "say": "si-ne-HAN"
+   "group": "sounds",
+   "say": "LA-way"
   },
   {
-   "id": "pelikula",
-   "tl": "pelikula",
-   "en": "movie",
+   "id": "reyna",
+   "tl": "reyna",
+   "en": "queen",
    "pos": "noun",
-   "group": "borrowed",
-   "say": "pe-li-KU-la"
+   "group": "sounds",
+   "say": "rey-na"
   },
   {
-   "id": "otel",
-   "tl": "otel",
-   "en": "hotel",
+   "id": "kahoy",
+   "tl": "káhoy",
+   "en": "wood",
    "pos": "noun",
-   "group": "borrowed",
-   "say": "o-TEL"
+   "group": "sounds",
+   "say": "KA-hoy"
   },
   {
-   "id": "restawran",
-   "tl": "restawran",
-   "en": "restaurant",
+   "id": "amoy",
+   "tl": "amóy",
+   "en": "scent",
+   "pos": "noun",
+   "group": "sounds",
+   "say": "a-MOY"
+  },
+  {
+   "id": "ngayon",
+   "tl": "ngayón",
+   "en": "now, today",
+   "pos": "adv",
+   "group": "sounds",
+   "say": "nga-YON"
+  },
+  {
+   "id": "alkohol",
+   "tl": "alkohól",
+   "en": "alcohol",
    "pos": "noun",
    "group": "borrowed",
-   "say": "res-ta-WRAN"
+   "say": "al-ko-HOL"
+  },
+  {
+   "id": "klub",
+   "tl": "klub",
+   "en": "club",
+   "pos": "noun",
+   "group": "borrowed"
   },
   {
    "id": "silya",
-   "tl": "silya",
+   "tl": "silyá",
    "en": "chair",
    "pos": "noun",
    "group": "borrowed",
-   "say": "SIL-ya"
-  },
-  {
-   "id": "kompyuter",
-   "tl": "kompyuter",
-   "en": "computer",
-   "pos": "noun",
-   "group": "borrowed",
-   "say": "kom-PYU-ter"
-  },
-  {
-   "id": "pasaporte",
-   "tl": "pasaporte",
-   "en": "passport",
-   "pos": "noun",
-   "group": "borrowed",
-   "say": "pa-sa-POR-te"
-  },
-  {
-   "id": "tindahan",
-   "tl": "tindahan",
-   "en": "store, shop",
-   "pos": "noun",
-   "group": "borrowed",
-   "say": "tin-DA-han"
-  },
-  {
-   "id": "papel",
-   "tl": "papel",
-   "en": "paper",
-   "pos": "noun",
-   "group": "borrowed",
-   "say": "pa-PEL"
-  },
-  {
-   "id": "plastik",
-   "tl": "plastik",
-   "en": "plastic",
-   "pos": "noun",
-   "group": "borrowed",
-   "say": "PLAS-tik"
-  },
-  {
-   "id": "telebisyon",
-   "tl": "telebisyon",
-   "en": "television",
-   "pos": "noun",
-   "group": "borrowed",
-   "say": "te-le-bis-YON"
-  },
-  {
-   "id": "bangko",
-   "tl": "bangko",
-   "en": "bank, bench",
-   "pos": "noun",
-   "group": "borrowed",
-   "say": "BANG-ko"
+   "say": "sil-YA"
   },
   {
    "id": "piyano",
-   "tl": "piyano",
+   "tl": "piyáno",
    "en": "piano",
    "pos": "noun",
    "group": "borrowed",
    "say": "pi-YA-no"
   },
   {
+   "id": "sinehan",
+   "tl": "sinehán",
+   "en": "movie house",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "si-ne-HAN"
+  },
+  {
+   "id": "kompyuter",
+   "tl": "kompyúter",
+   "en": "computer",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "kom-PYU-ter"
+  },
+  {
+   "id": "radyo",
+   "tl": "rádyo",
+   "en": "radio",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "RAD-yo"
+  },
+  {
+   "id": "pelikula",
+   "tl": "pelíkula",
+   "en": "movie",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "pe-LI-ku-la"
+  },
+  {
+   "id": "pasaporte",
+   "tl": "pasapórte",
+   "en": "passport",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "pa-sa-POR-te"
+  },
+  {
+   "id": "kotse",
+   "tl": "kótse",
+   "en": "car",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "KOT-se"
+  },
+  {
+   "id": "bentilador",
+   "tl": "bentiladór",
+   "en": "electric fan",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "ben-ti-la-DOR"
+  },
+  {
+   "id": "tiangge",
+   "tl": "tiangge",
+   "en": "bazaar",
+   "pos": "noun",
+   "group": "borrowed"
+  },
+  {
+   "id": "telepono",
+   "tl": "telépono",
+   "en": "telephone",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "te-LE-po-no"
+  },
+  {
+   "id": "otel",
+   "tl": "otél",
+   "en": "hotel",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "o-TEL"
+  },
+  {
+   "id": "tindahan",
+   "tl": "tindáhan",
+   "en": "store",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "tin-DA-han"
+  },
+  {
+   "id": "bangko",
+   "tl": "bangkô",
+   "en": "bench",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "bang-koQ"
+  },
+  {
+   "id": "tabako",
+   "tl": "tabáko",
+   "en": "tobacco",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "ta-BA-ko"
+  },
+  {
+   "id": "papel",
+   "tl": "papél",
+   "en": "paper",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "pa-PEL"
+  },
+  {
+   "id": "kape",
+   "tl": "kapé",
+   "en": "coffee",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "ka-PE"
+  },
+  {
+   "id": "tenis",
+   "tl": "tenis",
+   "en": "tennis",
+   "pos": "noun",
+   "group": "borrowed"
+  },
+  {
+   "id": "plastik",
+   "tl": "plástik",
+   "en": "plastic",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "PLAS-tik"
+  },
+  {
+   "id": "restawran",
+   "tl": "restawrán",
+   "en": "restaurant",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "res-taw-RAN"
+  },
+  {
+   "id": "sigarilyo",
+   "tl": "sigarílyo",
+   "en": "cigarette",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "si-ga-RIL-yo"
+  },
+  {
+   "id": "telebisyon",
+   "tl": "telebísyon",
+   "en": "television",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "te-le-BIS-yon"
+  },
+  {
    "id": "lunes",
-   "tl": "Lunes",
+   "tl": "Lúnes",
    "en": "Monday",
    "pos": "noun",
    "group": "days",
@@ -647,15 +776,15 @@
   },
   {
    "id": "martes",
-   "tl": "Martes",
+   "tl": "Martés",
    "en": "Tuesday",
    "pos": "noun",
    "group": "days",
-   "say": "MAR-tes"
+   "say": "mar-TES"
   },
   {
    "id": "miyerkules",
-   "tl": "Miyerkules",
+   "tl": "Miyérkules",
    "en": "Wednesday",
    "pos": "noun",
    "group": "days",
@@ -663,7 +792,7 @@
   },
   {
    "id": "huwebes",
-   "tl": "Huwebes",
+   "tl": "Huwébes",
    "en": "Thursday",
    "pos": "noun",
    "group": "days",
@@ -671,7 +800,7 @@
   },
   {
    "id": "biyernes",
-   "tl": "Biyernes",
+   "tl": "Biyérnes",
    "en": "Friday",
    "pos": "noun",
    "group": "days",
@@ -679,7 +808,7 @@
   },
   {
    "id": "sabado",
-   "tl": "Sabado",
+   "tl": "Sábado",
    "en": "Saturday",
    "pos": "noun",
    "group": "days",
@@ -687,15 +816,15 @@
   },
   {
    "id": "linggo",
-   "tl": "Linggo",
-   "en": "Sunday, week",
+   "tl": "Linggó",
+   "en": "Sunday",
    "pos": "noun",
    "group": "days",
    "say": "ling-GO"
   },
   {
    "id": "enero",
-   "tl": "Enero",
+   "tl": "Enéro",
    "en": "January",
    "pos": "noun",
    "group": "months",
@@ -703,7 +832,7 @@
   },
   {
    "id": "pebrero",
-   "tl": "Pebrero",
+   "tl": "Pebréro",
    "en": "February",
    "pos": "noun",
    "group": "months",
@@ -711,7 +840,7 @@
   },
   {
    "id": "marso",
-   "tl": "Marso",
+   "tl": "Márso",
    "en": "March",
    "pos": "noun",
    "group": "months",
@@ -719,7 +848,7 @@
   },
   {
    "id": "abril",
-   "tl": "Abril",
+   "tl": "Abríl",
    "en": "April",
    "pos": "noun",
    "group": "months",
@@ -727,7 +856,7 @@
   },
   {
    "id": "mayo",
-   "tl": "Mayo",
+   "tl": "Máyo",
    "en": "May",
    "pos": "noun",
    "group": "months",
@@ -735,7 +864,7 @@
   },
   {
    "id": "hunyo",
-   "tl": "Hunyo",
+   "tl": "Húnyo",
    "en": "June",
    "pos": "noun",
    "group": "months",
@@ -743,7 +872,7 @@
   },
   {
    "id": "hulyo",
-   "tl": "Hulyo",
+   "tl": "Húlyo",
    "en": "July",
    "pos": "noun",
    "group": "months",
@@ -751,7 +880,7 @@
   },
   {
    "id": "agosto",
-   "tl": "Agosto",
+   "tl": "Agósto",
    "en": "August",
    "pos": "noun",
    "group": "months",
@@ -759,7 +888,7 @@
   },
   {
    "id": "setyembre",
-   "tl": "Setyembre",
+   "tl": "Setyémbre",
    "en": "September",
    "pos": "noun",
    "group": "months",
@@ -767,7 +896,7 @@
   },
   {
    "id": "oktubre",
-   "tl": "Oktubre",
+   "tl": "Oktúbre",
    "en": "October",
    "pos": "noun",
    "group": "months",
@@ -775,7 +904,7 @@
   },
   {
    "id": "nobyembre",
-   "tl": "Nobyembre",
+   "tl": "Nobyémbre",
    "en": "November",
    "pos": "noun",
    "group": "months",
@@ -783,7 +912,7 @@
   },
   {
    "id": "disyembre",
-   "tl": "Disyembre",
+   "tl": "Disyémbre",
    "en": "December",
    "pos": "noun",
    "group": "months",
@@ -848,6 +977,17 @@
   },
   {
    "type": "choice",
+   "q": "English \"sport\" becomes…",
+   "options": [
+    "ísport",
+    "sport",
+    "espórt"
+   ],
+   "answer": "ísport",
+   "explain": "An s at the beginning becomes is."
+  },
+  {
+   "type": "choice",
    "q": "Which of these is a diphthong (one smooth glide)?",
    "options": [
     "oy",
@@ -861,98 +1001,98 @@
    "type": "choice",
    "q": "Spanish \"calle\" becomes which Tagalog word?",
    "options": [
-    "kalye",
-    "kalle",
-    "calye"
+    "kálye",
+    "kálle",
+    "cálye"
    ],
-   "answer": "kalye",
+   "answer": "kálye",
    "explain": "ll becomes ly, and hard c becomes k."
   },
   {
    "type": "choice",
    "q": "English \"quality\" becomes…",
    "options": [
-    "kwaliti",
-    "kuality",
-    "kualidad"
+    "kwáliti",
+    "kuáliti",
+    "kwálidad"
    ],
-   "answer": "kwaliti",
+   "answer": "kwáliti",
    "explain": "qu becomes kw."
   },
   {
    "type": "choice",
    "q": "English \"driver\" becomes…",
    "options": [
-    "drayber",
-    "driber",
-    "draiver"
+    "dráyber",
+    "dríber",
+    "dráiver"
    ],
-   "answer": "drayber",
+   "answer": "dráyber",
    "explain": "A long i becomes ay, and v becomes b."
   },
   {
    "type": "choice",
    "q": "English \"school\" becomes…",
    "options": [
-    "iskul",
-    "eskwela",
+    "iskúl",
+    "eskwéla",
     "skul"
    ],
-   "answer": "iskul",
-   "explain": "A word starting with s plus a consonant gets an i in front."
+   "answer": "iskúl",
+   "explain": "Hard ch becomes k."
   },
   {
    "type": "listen",
-   "tl": "kape",
+   "tl": "kapé",
    "options": [
     "coffee",
     "car",
     "paper"
    ],
    "answer": "coffee",
-   "explain": "Kape is coffee, from Spanish café."
+   "explain": "Kapé is coffee."
   },
   {
    "type": "listen",
-   "tl": "Sabado",
+   "tl": "Sábado",
    "options": [
     "Saturday",
     "Sunday",
     "Monday"
    ],
    "answer": "Saturday",
-   "explain": "Sabado is Saturday."
+   "explain": "Sábado is Saturday."
   },
   {
    "type": "listen",
-   "tl": "Disyembre",
+   "tl": "Disyémbre",
    "options": [
     "December",
     "September",
     "November"
    ],
    "answer": "December",
-   "explain": "Disyembre is December."
+   "explain": "Disyémbre is December."
   },
   {
    "type": "match",
    "q": "Match the original word to its Tagalog spelling.",
    "pairs": [
     [
-     "cine",
+     "cinema",
      "sine"
     ],
     [
      "vapor",
-     "bapor"
+     "bapór"
     ],
     [
-     "lápiz",
-     "lapis"
+     "lapiz",
+     "lápis"
     ],
     [
      "tricycle",
-     "traysikel"
+     "tráysikel"
     ]
    ]
   },
@@ -961,20 +1101,42 @@
    "q": "Match each month.",
    "pairs": [
     [
-     "Enero",
+     "Enéro",
      "January"
     ],
     [
-     "Marso",
+     "Márso",
      "March"
     ],
     [
-     "Hulyo",
+     "Húlyo",
      "July"
     ],
     [
-     "Oktubre",
+     "Oktúbre",
      "October"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each word to its meaning.",
+   "pairs": [
+    [
+     "áway",
+     "fight"
+    ],
+    [
+     "amóy",
+     "scent"
+    ],
+    [
+     "káhoy",
+     "wood"
+    ],
+    [
+     "kasúy",
+     "cashew"
     ]
    ]
   }
@@ -984,6 +1146,6 @@
   "Vowels are short and pure; every syllable is clear.",
   "ng is one sound, ñ is n + y, and r is a quick tap.",
   "Six diphthongs: ay, aw, ey, iw, oy, uy.",
-  "Loanwords are respelled by sound: c to k or s, f to p, v to b, qu to kw, and so on."
+  "Loanwords are respelled by sound: c to k or s, f to p, v to b, qua to kwa, and so on."
  ]
 }

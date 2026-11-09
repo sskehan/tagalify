@@ -6,12 +6,16 @@ let stack = [];
 let wordsMode = 'dict';
 let query = '';
 const root = document.getElementById('view');
+const add = (...kids) => root.append(...kids.flat(Infinity).filter((k) => k != null && k !== false));
 
 /* ---------- navigation ---------- */
 function push(v) { stack.push(v); history.pushState({ n: stack.length }, ''); render(); }
 function replace(v) { stack[stack.length - 1] = v; render(); }
 function back() { if (stack.length) history.back(); }
-window.addEventListener('popstate', () => { if (stack.length) { stack.pop(); render(); } });
+window.addEventListener('popstate', () => {
+  if (document.getElementById('sheet')) { closeSheet(); return; }
+  if (stack.length) { stack.pop(); render(); }
+});
 
 function setTab(t) { tab = t; stack = []; render(); }
 
@@ -66,10 +70,12 @@ function viewHome() {
   const cur = currentLesson();
   const due = dueKeys().length;
   const ov = overall();
-  root.append(
+  add(
     h('section', { class: 'hero' },
-      h('h1', {}, 'Tagalify'),
-      h('p', {}, 'Learn Tagalog step by step, from the very first rule to real conversation.')),
+      h('img', { class: 'hero-logo', src: 'logo.png', alt: 'Tagalify logo', width: 84, height: 84 }),
+      h('div', {},
+        h('h1', {}, h('span', { class: 'b1' }, 'Tagal'), h('span', { class: 'b2' }, 'ify')),
+        h('p', {}, 'Learn Tagalog step by step, from the very first rule to real conversation.'))),
     cur ? (() => {
       const st = lessonStats(cur.id), ns = nextStep(cur);
       return h('div', { class: 'card cont' },
@@ -92,22 +98,22 @@ function viewHome() {
 
 /* ---------- COURSE ---------- */
 function viewCourse() {
-  root.append(h('h2', { class: 'pagetitle' }, 'Course'));
+  add(h('h2', { class: 'pagetitle' }, 'Course'));
   course.units.forEach((u) => {
-    root.append(h('h3', { class: 'unit' }, u.title));
+    add(h('h3', { class: 'unit' }, u.title));
     u.lessons.forEach((id) => {
       const L = lessons.get(id);
       if (!L) return;
       const st = lessonStats(id);
       const numeric = !isNaN(+L.label);
-      root.append(h('button', { class: 'lrow', onclick: () => push({ name: 'hub', id }) },
+      add(h('button', { class: 'lrow', onclick: () => push({ name: 'hub', id }) },
         ring(st.pct, 48, numeric ? L.label : '★'),
         h('span', { class: 'lr-t' }, h('b', {}, L.title), h('small', {}, L.summary),
           h('small', { class: 'lr-m' }, L.minutes + ' min · ' + L.vocab.length + ' words')),
         starsEl(st.stars)));
     });
   });
-  root.append(h('p', { class: 'foot' }, 'More lessons will be added here. Your progress is kept.'));
+  add(h('p', { class: 'foot' }, 'More lessons will be added here. Your progress is kept.'));
 }
 
 /* ---------- LESSON HUB ---------- */
@@ -117,7 +123,7 @@ function viewHub(v) {
   const step = (n, title, sub, p, go, label) => h('button', { class: 'step', onclick: go },
     h('span', { class: 'sn' }, n), h('span', { class: 'st' }, h('b', {}, title), h('small', {}, sub), bar(p)),
     h('span', { class: 'go' }, label));
-  root.append(topbar(numeric ? 'Lesson ' + L.label : L.title, numeric ? L.title : L.summary),
+  add(topbar(numeric ? 'Lesson ' + L.label : L.title, numeric ? L.title : L.summary),
     h('div', { class: 'card' },
       h('div', { class: 'row between' }, h('span', {}, L.minutes + ' min · ' + L.vocab.length + ' words'), starsEl(st.stars)),
       h('div', { class: 'row between' }, h('b', {}, 'Lesson progress'), h('b', {}, pct(st.pct))),
@@ -125,8 +131,8 @@ function viewHub(v) {
     h('h3', { class: 'unit' }, 'By the end you can'),
     h('ul', { class: 'goals' }, L.goals.map((g) => h('li', {}, g))),
     h('h3', { class: 'unit' }, 'Your three steps'),
-    step(1, 'Read the lesson', s.read.length + ' of ' + L.sections.length + ' pages read', st.read,
-      () => push({ name: 'reader', id: L.id, i: st.read >= 1 ? 0 : Math.min(s.pos || 0, L.sections.length - 1) }), st.read >= 1 ? 'Again' : s.read.length ? 'Continue' : 'Start'),
+    step(1, 'Read the lesson', st.readN + ' of ' + L.sections.length + ' pages read', st.read,
+      () => push({ name: 'reader', id: L.id, i: st.read >= 1 ? 0 : Math.min(s.pos || 0, L.sections.length - 1) }), st.read >= 1 ? 'Again' : st.readN ? 'Continue' : 'Start'),
     step(2, 'Learn the words', st.learnedN + ' of ' + st.total + ' words learned', st.learned,
       () => push({ name: 'learn', id: L.id }), st.learned >= 1 ? 'Done' : 'Learn'),
     step(3, 'Practise', s.best ? 'Best score ' + s.best + '%' : 'Exercises with instant feedback', st.practice,
@@ -145,7 +151,7 @@ function viewReader(v) {
   s.pos = v.i;
   save();
   const last = v.i === n - 1;
-  root.append(topbar(L.title, 'Page ' + (v.i + 1) + ' of ' + n),
+  add(topbar(L.title, 'Page ' + (v.i + 1) + ' of ' + n),
     bar((v.i + 1) / n, 'thin'),
     h('article', { class: 'page' },
       h('h2', {}, sec.title),
@@ -165,14 +171,14 @@ function viewLearn(v) {
     v.i = 0;
   }
   if (!v.list.length) {
-    root.append(topbar('Learn words', L.title),
+    add(topbar('Learn words', L.title),
       h('div', { class: 'card center' }, h('div', { class: 'big' }, '\u{1F389}'), h('b', {}, 'You have learned every word in this lesson.'),
         h('button', { class: 'btn block', onclick: back }, 'Back to lesson')));
     return;
   }
   if (v.i >= v.list.length) {
     const left = L.vocab.filter((w) => !db.cards[w.key]).length;
-    root.append(topbar('Learn words', L.title),
+    add(topbar('Learn words', L.title),
       h('div', { class: 'card center' }, h('div', { class: 'big' }, '✅'), h('b', {}, v.list.length + ' new words added to your reviews'),
         left ? h('p', {}, left + ' more words are waiting in this lesson.') : h('p', {}, 'That is every word in this lesson.'),
         left ? h('button', { class: 'btn block', onclick: () => { v.list = null; render(); } }, 'Learn ' + Math.min(left, db.settings.newPerDay) + ' more') : null,
@@ -180,7 +186,7 @@ function viewLearn(v) {
     return;
   }
   const w = v.list[v.i];
-  root.append(topbar('Learn words', L.title + ' · ' + (v.i + 1) + '/' + v.list.length), bar(v.i / v.list.length, 'thin'),
+  add(topbar('Learn words', L.title + ' · ' + (v.i + 1) + '/' + v.list.length), bar(v.i / v.list.length, 'thin'),
     h('div', { class: 'wordcard' },
       h('div', { class: 'wc-tl' }, w.tl),
       db.settings.sound && w.say ? h('div', { class: 'wc-say' }, w.say) : null,
@@ -217,7 +223,7 @@ function viewPractice(v) {
   };
   const next = () => { p.i++; render(); };
   const body = h('div', { class: 'ex-area' });
-  root.append(topbar('Practise', L.title + ' · ' + Math.min(p.i + 1, p.queue.length) + '/' + p.queue.length), bar(p.i / p.queue.length, 'thin'), body);
+  add(topbar('Practise', L.title + ' · ' + Math.min(p.i + 1, p.queue.length) + '/' + p.queue.length), bar(p.i / p.queue.length, 'thin'), body);
   EX[it.e.type](body, it.e, finish, next);
 }
 function feedback(body, ok, explain, next, label) {
@@ -328,7 +334,7 @@ function practiceDone(v, L) {
     save();
   }
   const stars = score >= 90 ? 3 : score >= 70 ? 2 : 1;
-  root.append(topbar('Practice complete', L.title),
+  add(topbar('Practice complete', L.title),
     h('div', { class: 'card center' },
       starsEl(stars), h('div', { class: 'score' }, score + '%'),
       h('p', {}, p.ok + ' of ' + p.total + ' right on the first try.'),
@@ -341,7 +347,7 @@ function practiceDone(v, L) {
 function viewReview(v) {
   if (!v.list) { v.list = shuffle(dueKeys()).slice(0, 30); v.i = 0; v.total = v.list.length; v.show = false; v.dir = {}; v.n = 0; }
   if (v.i >= v.list.length) {
-    root.append(topbar('Review', ''), h('div', { class: 'card center' }, h('div', { class: 'big' }, v.total ? '\u{1F31F}' : '✅'),
+    add(topbar('Review', ''), h('div', { class: 'card center' }, h('div', { class: 'big' }, v.total ? '\u{1F31F}' : '✅'),
       h('b', {}, v.total ? 'Review done' : 'Nothing to review right now'),
       h('p', {}, v.total ? v.n + ' answers today. See you tomorrow.' : 'Learn some words in a lesson and they will show up here.'),
       h('button', { class: 'btn block', onclick: back }, 'Done')));
@@ -351,7 +357,7 @@ function viewReview(v) {
   let d = db.settings.direction;
   if (d === 'mixed') d = v.dir[key] || (v.dir[key] = Math.random() < 0.5 ? 'te' : 'et');
   const front = d === 'te' ? w.tl : w.en;
-  root.append(topbar('Review', (v.i + 1) + ' of ' + v.list.length), bar(v.i / v.list.length, 'thin'),
+  add(topbar('Review', (v.i + 1) + ' of ' + v.list.length), bar(v.i / v.list.length, 'thin'),
     h('div', { class: 'wordcard' },
       h('small', { class: 'cap' }, d === 'te' ? 'What does this mean?' : 'How do you say this in Tagalog?'),
       h('div', { class: d === 'te' ? 'wc-tl' : 'wc-en big' }, front),
@@ -376,7 +382,7 @@ function dictRows(list) {
   list.replaceChildren();
   let n = 0;
   orderedLessons().forEach((L) => {
-    const ws = L.vocab.filter((w) => !q || w.tl.toLowerCase().includes(q) || w.en.toLowerCase().includes(q));
+    const ws = L.vocab.filter((w) => !q || fold(w.tl).includes(fold(q)) || w.en.toLowerCase().includes(q));
     if (!ws.length) return;
     n += ws.length;
     list.append(h('h3', { class: 'unit' }, (isNaN(+L.label) ? '' : 'Lesson ' + L.label + ': ') + L.title));
@@ -388,7 +394,7 @@ function dictRows(list) {
   if (!n) list.append(h('p', { class: 'foot' }, 'No words match.'));
 }
 function viewWords() {
-  root.append(h('h2', { class: 'pagetitle' }, 'Words'),
+  add(h('h2', { class: 'pagetitle' }, 'Words'),
     h('div', { class: 'seg' },
       h('button', { class: wordsMode === 'dict' ? 'on' : '', onclick: () => { wordsMode = 'dict'; render(); } }, 'Dictionary'),
       h('button', { class: wordsMode === 'cheat' ? 'on' : '', onclick: () => { wordsMode = 'cheat'; render(); } }, 'Cheat sheet')));
@@ -396,12 +402,12 @@ function viewWords() {
     const list = h('div', {});
     const inp = h('input', { type: 'search', class: 'search', placeholder: 'Search Tagalog or English', value: query, 'aria-label': 'Search words',
       oninput: (e) => { query = e.target.value; dictRows(list); } });
-    root.append(inp, list);
+    add(inp, list);
     dictRows(list);
   } else if (ref) {
-    root.append(h('p', { class: 'para' }, ref.intro));
-    ref.sections.forEach((s) => root.append(h('section', { class: 'refsec' }, h('h3', { class: 'unit' }, s.title), s.blocks.map((b) => renderBlock(b, null)))));
-    root.append(h('h3', { class: 'unit' }, 'Colour key'), legendBlock());
+    add(h('p', { class: 'para' }, ref.intro));
+    ref.sections.forEach((s) => add(h('section', { class: 'refsec' }, h('h3', { class: 'unit' }, s.title), s.blocks.map((b) => renderBlock(b, null)))));
+    add(h('h3', { class: 'unit' }, 'Colour key'), legendBlock());
   }
 }
 
@@ -410,7 +416,7 @@ function viewProgress() {
   const ov = overall();
   const learned = Object.keys(db.cards).filter((k) => words.has(k)).length;
   const reviews = Object.values(db.log).reduce((a, d) => a + (d.reviews || 0), 0);
-  root.append(h('h2', { class: 'pagetitle' }, 'Progress'),
+  add(h('h2', { class: 'pagetitle' }, 'Progress'),
     h('div', { class: 'card center' }, ring(ov, 110), h('b', {}, 'of the course complete'),
       h('small', {}, orderedLessons().filter((L) => lessonStats(L.id).pct >= 0.999).length + ' of ' + orderedLessons().length + ' lessons finished')),
     h('div', { class: 'card' }, h('div', { class: 'stats four' },
@@ -418,14 +424,14 @@ function viewProgress() {
     h('h3', { class: 'unit' }, 'Lesson by lesson'));
   orderedLessons().forEach((L) => {
     const st = lessonStats(L.id);
-    root.append(h('button', { class: 'card prog', onclick: () => push({ name: 'hub', id: L.id }) },
+    add(h('button', { class: 'card prog', onclick: () => push({ name: 'hub', id: L.id }) },
       h('div', { class: 'row between' }, h('b', {}, (isNaN(+L.label) ? '' : L.label + '. ') + L.title), starsEl(st.stars)),
       h('div', { class: 'pbars' },
         h('div', {}, h('small', {}, 'Read ' + pct(st.read)), bar(st.read, 'read')),
         h('div', {}, h('small', {}, 'Words ' + st.learnedN + '/' + st.total), bar(st.learned, 'words')),
         h('div', {}, h('small', {}, 'Practice ' + (lstate(L.id).best || 0) + '%'), bar(st.practice, 'prac')))));
   });
-  root.append(h('p', { class: 'foot' }, 'Lesson score = 40% reading, 30% words learned, 30% practice. Reach 70% in practice to fill that bar. Stars: 70% = 2, 90% = 3.'));
+  add(h('p', { class: 'foot' }, 'Lesson score = 40% reading, 30% words learned, 30% practice. Reach 70% in practice to fill that bar. Stars: 70% = 2, 90% = 3.'));
 }
 
 /* ---------- MORE / SETTINGS ---------- */
@@ -435,28 +441,31 @@ function opt(label, sel, options, onchange) {
 }
 function viewMore() {
   const s = db.settings;
-  root.append(h('h2', { class: 'pagetitle' }, 'More'),
+  add(h('h2', { class: 'pagetitle' }, 'More'),
     h('div', { class: 'card' },
       opt('New words per session', s.newPerDay, [[5, '5'], [10, '10'], [15, '15'], [20, '20']], (v) => { s.newPerDay = +v; save(); }),
       opt('Review direction', s.direction, [['mixed', 'Mixed'], ['te', 'Tagalog to English'], ['et', 'English to Tagalog']], (v) => { s.direction = v; save(); }),
       opt('Theme', s.theme, [['auto', 'Match phone'], ['light', 'Light'], ['dark', 'Dark']], (v) => { s.theme = v; save(); applySettings(); }),
       opt('Text size', s.size, [[0.9, 'Small'], [1, 'Normal'], [1.15, 'Large'], [1.3, 'Extra large']], (v) => { s.size = +v; save(); applySettings(); }),
-      h('label', { class: 'setrow' }, h('span', {}, 'Show sound guide (SA-ya)'),
+      h('label', { class: 'setrow' }, h('span', {}, 'Show sound guide (ka-PE)'),
         h('input', { type: 'checkbox', checked: s.sound, onchange: (e) => { s.sound = e.target.checked; save(); } }))),
+    syncCard(),
+    voiceCard(),
     h('div', { class: 'card' },
-      h('b', {}, 'Recording studio'),
+      h('b', {}, '\u{1F399} Recording studio'),
       h('p', {}, 'Record a native speaker saying each word and sentence. Tagalify plays your recordings first, so the app speaks with a real voice.'),
+      h('p', { class: 'fine' }, dbxConnected() ? 'Recordings are backed up to Dropbox automatically.' : 'Recordings are kept on this phone. Connect Dropbox above to back them up.'),
       h('button', { class: 'btn block', onclick: () => push({ name: 'studio' }) }, '\u{1F399} Open recording studio')),
     h('div', { class: 'card' },
-      h('b', {}, 'Your data'),
-      h('p', {}, 'Progress is saved on this phone only. Make a backup before changing phones.'),
+      h('b', {}, 'Backup file'),
+      h('p', {}, 'You can also save your progress as a file, or load one. Recordings are not included in this file.'),
       h('div', { class: 'row' },
         h('button', { class: 'btn ghost', onclick: exportBackup }, 'Back up'),
         h('label', { class: 'btn ghost filebtn' }, 'Restore', h('input', { type: 'file', accept: 'application/json', onchange: importBackup }))),
       h('button', { class: 'btn danger block', onclick: resetAll }, 'Reset all progress')),
     h('div', { class: 'card about' },
-      h('b', {}, 'Tagalify v' + APP_VERSION),
-      h('p', {}, 'Lessons are based on the structure of Aspillera’s Basic Tagalog (Introduction and Lessons 1 to 8), rewritten with new explanations and examples for English speakers.'),
+      h('div', { class: 'about-top' }, h('img', { src: 'logo.png', alt: '', width: 64, height: 64 }), h('div', {}, h('b', {}, 'Tagalify v' + APP_VERSION), h('small', {}, 'Your Tagalog study guide'))),
+      h('p', {}, 'Lessons follow Paraluman S. Aspillera’s Basic Tagalog (Introduction and Lessons 1 to 8). Tagalog words, accent marks and meanings match the textbook.'),
       h('p', {}, 'Works offline once opened.')));
 }
 function download(name, blob) {
@@ -474,7 +483,7 @@ function importBackup(e) {
     const d = JSON.parse(t);
     if (!d || typeof d !== 'object' || !d.cards) throw new Error('bad');
     localStorage.setItem(KEY, JSON.stringify(d));
-    db = loadDb(); applySettings(); render(); toast('Progress restored');
+    db = loadDb(); save(); applySettings(); render(); toast('Progress restored');
   }).catch(() => toast('That file is not a Tagalify backup'));
 }
 function resetAll() {
@@ -525,6 +534,7 @@ async function startRec(text, done) {
     stream.getTracks().forEach((t) => t.stop());
     const blob = new Blob(chunks, { type: mr.mimeType || 'audio/webm' });
     await recPut(slug(text), { blob, type: blob.type, text, ts: Date.now() });
+    onRecordingChanged(slug(text), false);
     recorder = null; done();
   };
   mr.start();
@@ -557,14 +567,14 @@ function viewStudio(v) {
           const ok = await startRec(text, () => { v.have.add(key); v.recording = null; toast('Saved'); render(true); });
           if (ok) { v.recording = key; draw(); }
         } }, isRec ? '■' : '●'),
-        has ? h('button', { class: 'ib', 'aria-label': 'Delete recording', onclick: async () => { await recDel(key); v.have.delete(key); render(true); } }, '✕') : null].filter(Boolean));
+        has ? h('button', { class: 'ib', 'aria-label': 'Delete recording', onclick: async () => { await recDel(key); onRecordingChanged(key, true); v.have.delete(key); render(true); } }, '✕') : null].filter(Boolean));
     };
     draw();
     return el;
   };
   const total = it.ws.length + it.sents.length;
   const done = [...it.ws, ...it.sents].filter((t) => v.have.has(slug(t))).length;
-  root.append(topbar('Recording studio', done + ' of ' + total + ' recorded in this lesson'),
+  add(topbar('Recording studio', done + ' of ' + total + ' recorded in this lesson', h('img', { class: 'tb-logo', src: 'icon-192.png', alt: '', width: 34, height: 34 })),
     h('div', { class: 'card' },
       h('p', {}, 'Tap the red dot, say the word clearly, tap the square to stop. Your voice replaces the phone’s computer voice everywhere in the app. When you are happy, tap Export and put the files in the audio folder of the app on GitHub.'),
       h('label', { class: 'setrow' }, h('span', {}, 'Lesson'),
@@ -591,6 +601,30 @@ async function exportAudio() {
   toast('Exported ' + (files.length - 1) + ' recordings');
 }
 
+/* ---------- computer voice ---------- */
+function voiceCard() {
+  const s = db.settings;
+  const fil = filVoices();
+  const cur = pickVoice();
+  const good = cur && isFil(cur);
+  return h('div', { class: 'card', id: 'voicecard' },
+    h('b', {}, '\u{1F5E3}\uFE0F Computer voice'),
+    h('div', { class: 'syncstate ' + (good ? 'good' : 'bad') },
+      h('b', {}, good ? '\u2705 Filipino voice: ' + cur.name : '\u26A0\uFE0F No Filipino voice found on this phone'),
+      h('small', {}, good ? 'Used for any word that has no recording yet.' : 'Words without a recording are read by an English voice, which sounds wrong. Install the Filipino voice using the steps below.')),
+    fil.length > 1 ? opt('Voice', s.voice || cur.voiceURI, fil.map((x) => [x.voiceURI, x.name]), (x) => { s.voice = x; save(); }) : null,
+    opt('Speaking speed', s.rate, [[0.7, 'Slow'], [0.9, 'Normal'], [1.05, 'Fast']], (x) => { s.rate = +x; save(); }),
+    h('button', { class: 'btn ghost block', onclick: () => tts('Magandáng umága pô. Kumustá kayó?') }, '\u{1F50A} Test the voice'),
+    h('details', { class: 'howto' }, h('summary', {}, 'How to install the Filipino voice'),
+      h('ol', {},
+        h('li', {}, 'Open the Play Store and install or update ', h('b', {}, 'Speech Recognition & Synthesis from Google'), ' (also called Speech Services by Google).'),
+        h('li', {}, 'Open your phone ', h('b', {}, 'Settings'), ' and search for ', h('b', {}, 'Text-to-speech'), '. On a Samsung it is under General management (or Accessibility).'),
+        h('li', {}, 'Set ', h('b', {}, 'Preferred engine'), ' to ', h('b', {}, 'Speech Services by Google'), '.'),
+        h('li', {}, 'Tap the gear next to it, then ', h('b', {}, 'Install voice data'), ' and choose ', h('b', {}, 'Filipino (Philippines)'), '. Download it and pick a voice.'),
+        h('li', {}, 'Close Tagalify completely and open it again. This card should now show a Filipino voice.')),
+      h('p', { class: 'fine' }, 'The computer voice is only a stand-in. Recordings from your native speaker always play first and sound best.')));
+}
+
 /* ---------- registry ---------- */
 const TABS = { home: viewHome, course: viewCourse, words: viewWords, progress: viewProgress, more: viewMore };
 const VIEWS = { hub: viewHub, reader: viewReader, learn: viewLearn, practice: viewPractice, review: viewReview, studio: viewStudio };
@@ -601,16 +635,22 @@ async function init() {
   try {
     await loadData();
   } catch (e) {
-    root.append(h('div', { class: 'card' }, h('b', {}, 'Could not load the lessons.'), h('p', {}, 'Open the app once with a connection, then it works offline.')));
+    add(h('div', { class: 'card' }, h('b', {}, 'Could not load the lessons.'), h('p', {}, 'Open the app once with a connection, then it works offline.')));
     return;
   }
+  const justConnected = await dbxHandleRedirect();
+  if (justConnected) tab = 'more';
   render();
+  if (dbxConnected()) scheduleSync(justConnected ? 300 : 1500);
   if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('sw.js').then(() => navigator.serviceWorker.ready).then((reg) => {
       const urls = Object.values(manifest).filter((u) => typeof u === 'string');
       if (reg.active && urls.length) reg.active.postMessage({ type: 'cache', urls });
     }).catch(() => {});
   }
-  if ('speechSynthesis' in window) speechSynthesis.getVoices();
+  if ('speechSynthesis' in window) {
+    speechSynthesis.getVoices();
+    speechSynthesis.onvoiceschanged = () => { const c = document.getElementById('voicecard'); if (c) c.replaceWith(voiceCard()); };
+  }
 }
 init();

@@ -1,85 +1,101 @@
 {
  "id": "l06",
  "label": "6",
- "title": "Pronouns and this/that",
- "summary": "I, you, he, she, we, they, and the three words for this and that",
- "minutes": 30,
+ "title": "Personal and demonstrative pronouns",
+ "summary": "I, we, you, he, she, they, and this and that",
+ "minutes": 35,
  "goals": [
-  "Use the seven subject pronouns in both sentence orders",
-  "Choose between tayo and kami for \"we\"",
-  "Use the short form 'y after a vowel",
-  "Use kayo to show respect",
-  "Use ito, iyan and iyon for this and that, as subjects and as modifiers"
+  "Use the personal pronouns akó, kamí, táyo, ikáw/ka, kayó, siyá and silá",
+  "Know the difference between kamí and táyo",
+  "Shorten ay to 'y after a word ending in a vowel",
+  "Use itó, iyán and iyón, and their plural forms",
+  "Use this and that before and after a noun"
  ],
  "sections": [
   {
-   "title": "The subject pronouns",
+   "title": "What a pronoun does",
    "blocks": [
     {
      "type": "p",
-     "t": "A **pronoun** stands in for a noun so you do not have to repeat it. Tagalog has seven pronouns for the subject of a sentence. They are in the **nominative** form, meaning they are used as the subject."
+     "t": "A **pronoun** replaces a noun so a sentence is less repetitive. Two important types are used often:"
     },
     {
      "type": "table",
      "head": [
-      "English",
-      "Start of sentence",
-      "After the predicate"
+      "Type",
+      "Words"
      ],
      "rows": [
       [
-       "I",
-       "[[ako|pron]]",
-       "[[ako|pron]]"
+       "Personal pronouns",
+       "[[akó|pron]], [[kamí|pron]], [[táyo|pron]], [[ikáw|pron]], [[kayó|pron]], [[siyá|pron]], [[silá|pron]]"
       ],
       [
-       "you (one person)",
-       "[[ikaw|pron]]",
-       "[[ka|pron]]"
-      ],
-      [
-       "he or she",
-       "[[siya|pron]]",
-       "[[siya|pron]]"
-      ],
-      [
-       "we (including you)",
-       "[[tayo|pron]]",
-       "[[tayo|pron]]"
-      ],
-      [
-       "we (not including you)",
-       "[[kami|pron]]",
-       "[[kami|pron]]"
-      ],
-      [
-       "you (plural or polite)",
-       "[[kayo|pron]]",
-       "[[kayo|pron]]"
-      ],
-      [
-       "they",
-       "[[sila|pron]]",
-       "[[sila|pron]]"
+       "Demonstrative pronouns",
+       "[[itó|pron]], [[iyán|pron]], [[iyón|pron]]"
       ]
-     ],
-     "title": "Subject pronouns"
+     ]
     },
     {
-     "type": "box",
-     "kind": "rule",
-     "title": "Only one pronoun changes",
-     "t": "**Ikaw** is used at the start of a sentence, but it becomes **ka** when it follows the predicate. All the other pronouns stay the same in both positions."
+     "type": "p",
+     "t": "The personal pronouns in this lesson are **nominative** in form. They can only be used as the **subject** of a sentence."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Pronoun",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[akó|pron]]",
+       "I"
+      ],
+      [
+       "[[kamí|pron]]",
+       "we (he/she and I, not the person spoken to)"
+      ],
+      [
+       "[[táyo|pron]]",
+       "we (you, he/she and I; or you and I)"
+      ],
+      [
+       "[[ikáw|pron]] / [[ka|pron]]",
+       "you (one person)"
+      ],
+      [
+       "[[kayó|pron]]",
+       "you (plural, excluding the speaker; also polite)"
+      ],
+      [
+       "[[siyá|pron]]",
+       "he or she"
+      ],
+      [
+       "[[silá|pron]]",
+       "they"
+      ]
+     ],
+     "title": "Personal pronouns"
+    }
+   ]
+  },
+  {
+   "title": "Akó: I",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Akó** means *I*. As a subject it can come at the **beginning** of the sentence, or, in the inverted order, **after the predicate**."
     },
     {
      "type": "examples",
      "items": [
       {
-       "tl": "Ako ay si John.",
+       "tl": "Akó ay si John.",
        "en": "I am John.",
        "parts": [
         [
-         "Ako",
+         "Akó",
          "I",
          "pron"
         ],
@@ -90,7 +106,7 @@
         ],
         [
          "si",
-         "marks a name",
+         "article (one name)",
          "marker"
         ],
         [
@@ -101,27 +117,353 @@
        ]
       },
       {
-       "tl": "Masipag ako.",
-       "en": "I am hardworking.",
+       "tl": "Akó ay laláki.",
+       "en": "I am a man.",
        "parts": [
         [
-         "Masipag",
-         "hardworking",
+         "Akó",
+         "I",
+         "pron"
+        ],
+        [
+         "ay",
+         "am",
+         "ay"
+        ],
+        [
+         "laláki",
+         "man",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Masípag akó.",
+       "en": "Industrious I am. (I am industrious.)",
+       "parts": [
+        [
+         "Masípag",
+         "industrious",
          "pred"
         ],
         [
-         "ako",
+         "akó",
          "I",
          "pron"
         ]
        ]
       },
       {
-       "tl": "Ikaw ay babae.",
-       "en": "You are a woman.",
+       "tl": "Malusóg akó.",
+       "en": "Healthy I am. (I am healthy.)",
        "parts": [
         [
-         "Ikaw",
+         "Malusóg",
+         "healthy",
+         "pred"
+        ],
+        [
+         "akó",
+         "I",
+         "pron"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "t": "Ay becomes 'y"
+    },
+    {
+     "type": "p",
+     "t": "In the subject-predicate order, **ay** may be shortened to **'y** when the word before it **ends in a vowel**. This is also used after **kamí**, **táyo** and other pronouns ending in vowels."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ako'y si John.",
+       "en": "I am John.",
+       "parts": [
+        [
+         "Ako'y",
+         "I am",
+         "pron"
+        ],
+        [
+         "si",
+         "article (one name)",
+         "marker"
+        ],
+        [
+         "John",
+         "John",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ako'y laláki.",
+       "en": "I am a man.",
+       "parts": [
+        [
+         "Ako'y",
+         "I am",
+         "pron"
+        ],
+        [
+         "laláki",
+         "man",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Ako'y nag-áaral.",
+       "en": "I am studying.",
+       "parts": [
+        [
+         "Ako'y",
+         "I am",
+         "pron"
+        ],
+        [
+         "nag-áaral",
+         "studying",
+         "pred"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Kamí and táyo: two kinds of we",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "English has one *we*. Tagalog has two:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Word",
+      "Means",
+      "Includes the person you are talking to?"
+     ],
+     "rows": [
+      [
+       "[[kamí|pron]]",
+       "we in the sense of he/she and I",
+       "No"
+      ],
+      [
+       "[[táyo|pron]]",
+       "we in the sense of you, he/she and I, or you and I",
+       "Yes"
+      ]
+     ],
+     "title": "Kamí or táyo?"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Kamí ay sina John at Helen.",
+       "en": "We are John and Helen.",
+       "parts": [
+        [
+         "Kamí",
+         "we (not you)",
+         "pron"
+        ],
+        [
+         "ay",
+         "are",
+         "ay"
+        ],
+        [
+         "sina",
+         "article (2+ names)",
+         "marker"
+        ],
+        [
+         "John",
+         "John",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "Helen",
+         "Helen",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Kamí'y magkapatid.",
+       "en": "We are brothers and sisters.",
+       "parts": [
+        [
+         "Kamí'y",
+         "we (not you) are",
+         "pron"
+        ],
+        [
+         "magkapatid",
+         "siblings",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Mababaít kamí.",
+       "en": "Good we are. (We are good.)",
+       "parts": [
+        [
+         "Mababaít",
+         "good (plural)",
+         "pred"
+        ],
+        [
+         "kamí",
+         "we (not you)",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Mahihírap kamí.",
+       "en": "Poor we are. (We are poor.)",
+       "parts": [
+        [
+         "Mahihírap",
+         "poor (plural)",
+         "pred"
+        ],
+        [
+         "kamí",
+         "we (not you)",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Táyo ay sina John at Mary.",
+       "en": "We are John and Mary.",
+       "parts": [
+        [
+         "Táyo",
+         "we (with you)",
+         "pron"
+        ],
+        [
+         "ay",
+         "are",
+         "ay"
+        ],
+        [
+         "sina",
+         "article (2+ names)",
+         "marker"
+        ],
+        [
+         "John",
+         "John",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "Mary",
+         "Mary",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Táyo'y magkaibígan.",
+       "en": "We are friends.",
+       "parts": [
+        [
+         "Táyo'y",
+         "we (with you) are",
+         "pron"
+        ],
+        [
+         "magkaibígan",
+         "friends",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Mababaít táyo.",
+       "en": "Good we are. (We are good.)",
+       "parts": [
+        [
+         "Mababaít",
+         "good (plural)",
+         "pred"
+        ],
+        [
+         "táyo",
+         "we (with you)",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Masisípag táyo.",
+       "en": "Industrious we are. (We are industrious.)",
+       "parts": [
+        [
+         "Masisípag",
+         "industrious (plural)",
+         "pred"
+        ],
+        [
+         "táyo",
+         "we (with you)",
+         "pron"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Pronoun position",
+     "t": "Pronouns may come at the **beginning** of the sentence before the verb, or at the **end** after the predicate, depending on the word order."
+    }
+   ]
+  },
+  {
+   "title": "Ikáw, ka and kayó: you",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Ikáw** expresses *you* at the **beginning** of a sentence. In the **inverted** order, where the subject comes after the predicate, it is shortened to **ka**."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ikáw ay si Mary.",
+       "en": "You are Mary.",
+       "parts": [
+        [
+         "Ikáw",
          "you",
          "pron"
         ],
@@ -131,19 +473,45 @@
          "ay"
         ],
         [
-         "babae",
+         "si",
+         "article (one name)",
+         "marker"
+        ],
+        [
+         "Mary",
+         "Mary",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ikáw ay babáe.",
+       "en": "You are a woman.",
+       "parts": [
+        [
+         "Ikáw",
+         "you",
+         "pron"
+        ],
+        [
+         "ay",
+         "are",
+         "ay"
+        ],
+        [
+         "babáe",
          "woman",
          "pred"
         ]
        ]
       },
       {
-       "tl": "Masipag ka.",
-       "en": "You are hardworking.",
+       "tl": "Masípag ka.",
+       "en": "Industrious you are. (You are industrious.)",
        "parts": [
         [
-         "Masipag",
-         "hardworking",
+         "Masípag",
+         "industrious",
          "pred"
         ],
         [
@@ -154,31 +522,123 @@
        ]
       },
       {
-       "tl": "Si Peter ay lalaki. Siya ay mabait.",
-       "en": "Peter is a man. He is kind.",
+       "tl": "Malusóg ka.",
+       "en": "Healthy you are. (You are healthy.)",
        "parts": [
         [
-         "Si",
-         "marks a name",
-         "marker"
-        ],
-        [
-         "Peter",
-         "Peter",
-         "noun"
-        ],
-        [
-         "ay",
-         "is",
-         "ay"
-        ],
-        [
-         "lalaki",
-         "man",
+         "Malusóg",
+         "healthy",
          "pred"
         ],
         [
-         "Siya",
+         "ka",
+         "you",
+         "pron"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "t": "**Kayó** is the plural form of ikáw, excluding the speaker."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Kayó ay sina John at Helen.",
+       "en": "You are John and Helen.",
+       "parts": [
+        [
+         "Kayó",
+         "you (plural)",
+         "pron"
+        ],
+        [
+         "ay",
+         "are",
+         "ay"
+        ],
+        [
+         "sina",
+         "article (2+ names)",
+         "marker"
+        ],
+        [
+         "John",
+         "John",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "Helen",
+         "Helen",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Kayó ay magkápatid.",
+       "en": "You are brother and sister. (or siblings)",
+       "parts": [
+        [
+         "Kayó",
+         "you (plural)",
+         "pron"
+        ],
+        [
+         "ay",
+         "are",
+         "ay"
+        ],
+        [
+         "magkápatid",
+         "siblings",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Malulusóg kayó.",
+       "en": "Healthy you are. (You are healthy.)",
+       "parts": [
+        [
+         "Malulusóg",
+         "healthy (plural)",
+         "pred"
+        ],
+        [
+         "kayó",
+         "you (plural)",
+         "pron"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Siyá and silá: he, she and they",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Siyá** is singular and means *he* or *she*. Its plural is **silá**, meaning *they*."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Siyá ay si Peter.",
+       "en": "He is Peter.",
+       "parts": [
+        [
+         "Siyá",
          "he",
          "pron"
         ],
@@ -188,55 +648,77 @@
          "ay"
         ],
         [
-         "mabait",
-         "kind",
+         "si",
+         "article (one name)",
+         "marker"
+        ],
+        [
+         "Peter",
+         "Peter",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Siyá'y isang batà.",
+       "en": "He is a child.",
+       "parts": [
+        [
+         "Siyá'y",
+         "he is",
+         "pron"
+        ],
+        [
+         "isang",
+         "a, one",
+         "other"
+        ],
+        [
+         "batà",
+         "child",
          "pred"
         ]
        ]
-      }
-     ],
-     "title": "Tap each sentence"
-    }
-   ]
-  },
-  {
-   "title": "Two ways to say we",
-   "blocks": [
-    {
-     "type": "p",
-     "t": "English has one \"we\". Tagalog has two, and the difference matters."
-    },
-    {
-     "type": "table",
-     "head": [
-      "Pronoun",
-      "Who is included",
-      "Example situation"
-     ],
-     "rows": [
-      [
-       "[[tayo|pron]]",
-       "the speaker, the listener, and maybe others (you and I)",
-       "Planning with friends: **Tayo** ay magkaibigan."
-      ],
-      [
-       "[[kami|pron]]",
-       "the speaker and others, but **not** the listener (we, not you)",
-       "Telling a stranger about your family: **Kami** ay magkapatid."
-      ]
-     ],
-     "title": "Tayo and kami"
-    },
-    {
-     "type": "examples",
-     "items": [
+      },
       {
-       "tl": "Tayo ay magkaibigan.",
-       "en": "We (you and I) are friends.",
+       "tl": "Marúnong siyá.",
+       "en": "Intelligent he is. (He is intelligent.)",
        "parts": [
         [
-         "Tayo",
-         "we, including you",
+         "Marúnong",
+         "intelligent",
+         "pred"
+        ],
+        [
+         "siyá",
+         "he",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Mabaít siya.",
+       "en": "Good she is. (She is good.)",
+       "parts": [
+        [
+         "Mabaít",
+         "good",
+         "pred"
+        ],
+        [
+         "siya",
+         "she",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Silá ay sina John at Mary.",
+       "en": "They are John and Mary.",
+       "parts": [
+        [
+         "Silá",
+         "they",
          "pron"
         ],
         [
@@ -245,56 +727,60 @@
          "ay"
         ],
         [
-         "magkaibigan",
+         "sina",
+         "article (2+ names)",
+         "marker"
+        ],
+        [
+         "John",
+         "John",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "Mary",
+         "Mary",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Silá ay magkaibígan.",
+       "en": "They are friends.",
+       "parts": [
+        [
+         "Silá",
+         "they",
+         "pron"
+        ],
+        [
+         "ay",
+         "are",
+         "ay"
+        ],
+        [
+         "magkaibígan",
          "friends",
          "pred"
         ]
        ]
       },
       {
-       "tl": "Magkapatid kami.",
-       "en": "We (not you) are siblings.",
+       "tl": "Marurúnong silá.",
+       "en": "Intelligent they are. (They are intelligent.)",
        "parts": [
         [
-         "Magkapatid",
-         "siblings",
+         "Marurúnong",
+         "intelligent (plural)",
          "pred"
         ],
         [
-         "kami",
-         "we, not including you",
-         "pron"
-        ]
-       ]
-      },
-      {
-       "tl": "Masipag tayo.",
-       "en": "We (including you) are hardworking.",
-       "parts": [
-        [
-         "Masipag",
-         "hardworking",
-         "pred"
-        ],
-        [
-         "tayo",
-         "we, including you",
-         "pron"
-        ]
-       ]
-      },
-      {
-       "tl": "Mahirap kami.",
-       "en": "We (not you) are poor.",
-       "parts": [
-        [
-         "Mahirap",
-         "poor",
-         "pred"
-        ],
-        [
-         "kami",
-         "we, not including you",
+         "silá",
+         "they",
          "pron"
         ]
        ]
@@ -302,82 +788,34 @@
      ]
     },
     {
-     "type": "box",
-     "kind": "english",
-     "title": "A surprise for English speakers",
-     "t": "If you tell your friend \"Let's go\", you mean you and your friend, so you use **tayo**. If you tell your friend \"We are going\" and your friend is not coming, you use **kami**. Mixing them up can sound rude or confusing."
-    }
-   ]
-  },
-  {
-   "title": "The short form 'y",
-   "blocks": [
-    {
-     "type": "p",
-     "t": "**Ay** can shrink to **'y** and attach to a word that ends in a vowel. This is very common in writing and speech."
+     "type": "h",
+     "t": "Being polite"
     },
     {
-     "type": "table",
-     "head": [
-      "Full form",
-      "Short form",
-      "Meaning"
-     ],
-     "rows": [
-      [
-       "Ako ay si John.",
-       "Ako'y si John.",
-       "I am John."
-      ],
-      [
-       "Tayo ay magkaibigan.",
-       "Tayo'y magkaibigan.",
-       "We are friends."
-      ],
-      [
-       "Siya ay guro.",
-       "Siya'y guro.",
-       "He or she is a teacher."
-      ],
-      [
-       "Ikaw ay babae.",
-       "Ikaw ay babae.",
-       "You are a woman (ikaw ends in w, so ay stays)."
-      ]
-     ],
-     "title": "Full and short"
-    },
-    {
-     "type": "box",
-     "kind": "rule",
-     "title": "The rule",
-     "t": "Use **'y** only after a vowel. After a consonant, such as in **ikaw**, keep the full **ay**."
-    }
-   ]
-  },
-  {
-   "title": "Showing respect: kayo and sila",
-   "blocks": [
-    {
      "type": "p",
-     "t": "In Lesson 3 you met **po** and **kayo**. The pronoun **kayo** is the polite way to say \"you\", used for elders, strangers and authority. It is also the plural \"you\"."
+     "t": "In a polite or formal situation, the plural pronouns **kayó** and **silá** may replace **ikáw** or **ka** to show respect, just as in the greetings of Lesson 3."
     },
     {
      "type": "examples",
      "items": [
       {
-       "tl": "Kayo po ay guro.",
-       "en": "You are a teacher, sir or madam.",
+       "tl": "Kayó pô ba ay guro?",
+       "en": "Are you a teacher, sir/madam?",
        "parts": [
         [
-         "Kayo",
-         "you (respectful)",
+         "Kayó",
+         "you (polite)",
          "pron"
         ],
         [
-         "po",
-         "polite word",
+         "pô",
+         "sir/madam",
          "part"
+        ],
+        [
+         "ba",
+         "question word",
+         "other"
         ],
         [
          "ay",
@@ -392,11 +830,42 @@
        ]
       },
       {
-       "tl": "Kayo ay mababait.",
+       "tl": "Silá pô ba ay guro?",
+       "en": "Are you a teacher, sir/madam?",
+       "parts": [
+        [
+         "Silá",
+         "you (polite)",
+         "pron"
+        ],
+        [
+         "pô",
+         "sir/madam",
+         "part"
+        ],
+        [
+         "ba",
+         "question word",
+         "other"
+        ],
+        [
+         "ay",
+         "are",
+         "ay"
+        ],
+        [
+         "guro",
+         "teacher",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Kayó ay mabaít.",
        "en": "You (plural) are kind.",
        "parts": [
         [
-         "Kayo",
+         "Kayó",
          "you (plural)",
          "pron"
         ],
@@ -406,103 +875,66 @@
          "ay"
         ],
         [
-         "mababait",
-         "kind (plural)",
-         "pred"
-        ]
-       ]
-      },
-      {
-       "tl": "Mabait po sila.",
-       "en": "He or she is kind, sir or madam. (respectful)",
-       "parts": [
-        [
-         "Mabait",
+         "mabaít",
          "kind",
          "pred"
-        ],
-        [
-         "po",
-         "polite word",
-         "part"
-        ],
-        [
-         "sila",
-         "they, used respectfully for one person",
-         "pron"
         ]
        ]
       }
      ]
-    },
-    {
-     "type": "box",
-     "kind": "tip",
-     "title": "Sila for one person",
-     "t": "**Sila** means \"they\", but it can also be used respectfully when speaking about one older or senior person. Listen for this in conversation."
-    },
-    {
-     "type": "box",
-     "kind": "culture",
-     "title": "When in doubt",
-     "t": "Using **kayo** with someone you are unsure about is never wrong. You can always switch to **ka** if they invite you to."
     }
    ]
   },
   {
-   "title": "This and that: ito, iyan, iyon",
+   "title": "Itó, iyán and iyón: this and that",
    "blocks": [
     {
      "type": "p",
-     "t": "Tagalog has **three** words for \"this\" and \"that\". The choice depends on where the thing is, relative to you and the person you are talking to."
+     "t": "English *this* and *that* have three Tagalog equivalents. Which one you use depends on **where the thing is**."
     },
     {
      "type": "table",
      "head": [
       "Word",
-      "Where the thing is",
-      "Meaning",
-      "Sound guide"
+      "Said",
+      "Means",
+      "The thing is…"
      ],
      "rows": [
       [
-       "[[ito|pron]]",
-       "near the speaker",
+       "[[itó|pron]]",
+       "i-TO",
        "this",
-       "i-TO"
+       "very near or close to the person speaking"
       ],
       [
-       "[[iyan|pron]]",
-       "near the listener",
-       "that (near you)",
-       "i-YAN"
+       "[[iyán|pron]]",
+       "i-YAN",
+       "that",
+       "near the person spoken to"
       ],
       [
-       "[[iyon|pron]]",
-       "far from both",
-       "that (over there)",
-       "i-YON"
+       "[[iyón|pron]]",
+       "i-YON",
+       "that, over there",
+       "far from both the speaker and the person spoken to"
       ]
      ],
-     "title": "Ito, iyan and iyon"
-    },
-    {
-     "type": "h",
-     "t": "As the subject"
+     "title": "Three demonstratives"
     },
     {
      "type": "p",
-     "t": "These words behave like pronouns. They can start a sentence with ay, or follow the predicate."
+     "t": "Itó is followed by **ay** in the subject-predicate order, and ay may be shortened to **'y** after itó. In the inverted order, such as **Maliít itó**, ay is dropped."
     },
     {
      "type": "examples",
      "items": [
       {
-       "tl": "Ito ay pagkain.",
-       "en": "This is food.",
+       "tl": "Itó ay si John.",
+       "en": "This is John.",
        "parts": [
         [
-         "Ito",
+         "Itó",
          "this",
          "pron"
         ],
@@ -512,116 +944,281 @@
          "ay"
         ],
         [
-         "pagkain",
-         "food",
+         "si",
+         "article (one name)",
+         "marker"
+        ],
+        [
+         "John",
+         "John",
          "noun"
         ]
        ]
       },
       {
-       "tl": "Ito'y masarap.",
-       "en": "This is delicious.",
+       "tl": "Itó'y batà.",
+       "en": "This is a child.",
        "parts": [
         [
-         "Ito",
-         "this",
+         "Itó'y",
+         "this is",
          "pron"
         ],
         [
-         "'y",
-         "is (short for ay)",
-         "ay"
-        ],
-        [
-         "masarap",
-         "delicious",
+         "batà",
+         "child",
          "pred"
         ]
        ]
       },
       {
-       "tl": "Maliit ito.",
+       "tl": "Itó'y pagkáin.",
+       "en": "This is food.",
+       "parts": [
+        [
+         "Itó'y",
+         "this is",
+         "pron"
+        ],
+        [
+         "pagkáin",
+         "food",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Maliít itó.",
        "en": "This is small.",
        "parts": [
         [
-         "Maliit",
+         "Maliít",
          "small",
          "pred"
         ],
         [
-         "ito",
+         "itó",
          "this",
          "pron"
         ]
        ]
       },
       {
-       "tl": "Iyan ay aklat.",
-       "en": "That (near you) is a book.",
+       "tl": "Malakí itó.",
+       "en": "This is big.",
        "parts": [
         [
-         "Iyan",
-         "that, near you",
-         "pron"
-        ],
-        [
-         "ay",
-         "is",
-         "ay"
-        ],
-        [
-         "aklat",
-         "book",
-         "noun"
-        ]
-       ]
-      },
-      {
-       "tl": "Mahaba iyon.",
-       "en": "That (far away) is long.",
-       "parts": [
-        [
-         "Mahaba",
-         "long",
+         "Malakí",
+         "big",
          "pred"
         ],
         [
-         "iyon",
-         "that, far away",
+         "itó",
+         "this",
          "pron"
         ]
        ]
       }
      ],
-     "title": "Ito, iyan and iyon as subjects"
-    },
-    {
-     "type": "h",
-     "t": "In the plural"
-    },
-    {
-     "type": "p",
-     "t": "To say \"these\" or \"those\", put **ang mga** before them: **ang mga ito** (these), **ang mga iyan** (those near you), **ang mga iyon** (those over there)."
+     "title": "Itó: this"
     },
     {
      "type": "examples",
      "items": [
       {
-       "tl": "Ang mga ito ay mabait.",
-       "en": "These are kind.",
+       "tl": "Iyán ay si Mary.",
+       "en": "That is Mary.",
+       "parts": [
+        [
+         "Iyán",
+         "that (near you)",
+         "pron"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "si",
+         "article (one name)",
+         "marker"
+        ],
+        [
+         "Mary",
+         "Mary",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Iyán ay pagkáin ni Mary.",
+       "en": "That is Mary's food.",
+       "parts": [
+        [
+         "Iyán",
+         "that (near you)",
+         "pron"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "pagkáin",
+         "food",
+         "pred"
+        ],
+        [
+         "ni",
+         "of",
+         "marker"
+        ],
+        [
+         "Mary",
+         "Mary",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Marámi iyán.",
+       "en": "That is plenty.",
+       "parts": [
+        [
+         "Marámi",
+         "plenty",
+         "pred"
+        ],
+        [
+         "iyán",
+         "that (near you)",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Maínit iyán.",
+       "en": "That is hot.",
+       "parts": [
+        [
+         "Maínit",
+         "hot",
+         "pred"
+        ],
+        [
+         "iyán",
+         "that (near you)",
+         "pron"
+        ]
+       ]
+      }
+     ],
+     "title": "Iyán: that, near you"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Iyón ay Ílog Pasig.",
+       "en": "That is Pasig River.",
+       "parts": [
+        [
+         "Iyón",
+         "that (over there)",
+         "pron"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "Ílog Pasig",
+         "Pasig River",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Iyón ay malínis at mahabà.",
+       "en": "That is clean and long.",
+       "parts": [
+        [
+         "Iyón",
+         "that (over there)",
+         "pron"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "malínis",
+         "clean",
+         "pred"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "mahabà",
+         "long",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Mahabà iyón.",
+       "en": "That is long.",
+       "parts": [
+        [
+         "Mahabà",
+         "long",
+         "pred"
+        ],
+        [
+         "iyón",
+         "that (over there)",
+         "pron"
+        ]
+       ]
+      }
+     ],
+     "title": "Iyón: that, over there"
+    }
+   ]
+  },
+  {
+   "title": "These and those",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The **singular** forms itó, iyán and iyón are **not** preceded by ang. Their **plural** forms are preceded by **ang mga**, and *this* and *that* become *these* and *those*."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ang mga itó ay mababaít.",
+       "en": "These are good.",
        "parts": [
         [
          "Ang",
-         "the",
+         "article",
          "marker"
         ],
         [
          "mga",
-         "more than one",
+         "plural marker",
          "marker"
         ],
         [
-         "ito",
+         "itó",
          "this",
          "pron"
         ],
@@ -631,90 +1228,153 @@
          "ay"
         ],
         [
-         "mabait",
-         "kind",
+         "mababaít",
+         "good (plural)",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang mga iyán ay malalakí.",
+       "en": "Those are big.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "mga",
+         "plural marker",
+         "marker"
+        ],
+        [
+         "iyán",
+         "that",
+         "pron"
+        ],
+        [
+         "ay",
+         "are",
+         "ay"
+        ],
+        [
+         "malalakí",
+         "big (plural)",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang mga iyón ay malilínis.",
+       "en": "Those are clean.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "mga",
+         "plural marker",
+         "marker"
+        ],
+        [
+         "iyón",
+         "that, over there",
+         "pron"
+        ],
+        [
+         "ay",
+         "are",
+         "ay"
+        ],
+        [
+         "malilínis",
+         "clean (plural)",
          "pred"
         ]
        ]
       }
      ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Plural on one side is enough",
+     "t": "As in Lesson 4, making both subject and predicate plural is optional. The last sentence can also be **Ang mga iyón ay malínis** (plural subject) or **Iyón ay malilínis** (plural predicate)."
     }
    ]
   },
   {
-   "title": "This and that before a noun",
+   "title": "This and that as modifiers",
    "blocks": [
     {
      "type": "p",
-     "t": "**Ito**, **iyan** and **iyon** can also point out a noun, like \"this table\" or \"that house\". There are two ways to build it, and both use a linker."
-    },
-    {
-     "type": "pattern",
-     "title": "Two ways to say this table",
-     "rows": [
-      {
-       "label": "Demonstrative first",
-       "chips": [
-        {
-         "t": "Itong",
-         "r": "pron"
-        },
-        {
-         "t": "mesa",
-         "r": "noun"
-        }
-       ]
-      },
-      {
-       "label": "Noun first",
-       "chips": [
-        {
-         "t": "Ang",
-         "r": "marker"
-        },
-        {
-         "t": "mesang",
-         "r": "noun"
-        },
-        {
-         "t": "ito",
-         "r": "pron"
-        }
-       ]
-      }
-     ],
-     "note": "Itong = ito + the linker -ng. In the second way, the noun carries the linker: mesa + ng."
+     "t": "Itó, iyán and iyón can also **point out** the subject, like *this table* or *that house*. Used this way they go **before the noun**, and they may be **repeated for emphasis**: before ay in a subject-predicate sentence (more formal), or at the end of an inverted sentence (more colloquial). Both are acceptable."
     },
     {
      "type": "table",
      "head": [
-      "Pattern",
-      "Example",
+      "Plain",
+      "With emphasis",
       "Meaning"
      ],
      "rows": [
       [
-       "Demonstrative + linker + noun",
-       "[[itong mesa|noun]], [[iyang damit|noun]], [[iyong bahay|noun]]",
-       "this table, that dress, that house"
+       "Ang mésang itó ay malínis.",
+       "Itóng mésang itó ay malínis.",
+       "This table is clean."
       ],
       [
-       "ang + noun + linker + demonstrative",
-       "[[ang mesang ito|noun]], [[ang damit na iyan|noun]], [[ang bahay na iyon|noun]]",
-       "this table, that dress, that house"
+       "Malakí ang báhay na iyón.",
+       "Malakí iyóng báhay na iyón.",
+       "That house is big."
+      ],
+      [
+       "Magandá ang suót mong iyán.",
+       "Magandá iyáng suót mong iyán.",
+       "Your clothes are beautiful."
       ]
      ],
-     "title": "Pointing at a noun"
+     "title": "Pointing out the subject"
     },
     {
-     "type": "box",
-     "kind": "rule",
-     "title": "Which linker?",
-     "items": [
-      "**ito** becomes **itong** (the -ng linker).",
-      "**iyan** becomes **iyang**, and **iyon** becomes **iyong** (the -g linker, because they end in n).",
-      "After a noun, use -ng after a vowel and **na** after a consonant: mesa-ng ito, bahay na iyon."
+     "type": "h",
+     "t": "The connectors -ng, -g and na"
+    },
+    {
+     "type": "p",
+     "t": "Notice the little connectors in **itóng mésang itó**, **iyáng suót mong iyán** and **iyóng báhay na iyon**:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Connector",
+      "Attached to",
+      "Example"
+     ],
+     "rows": [
+      [
+       "[[-ng|link]]",
+       "the modifier itó, the noun mésa, the pronoun mo",
+       "[[itóng|link]] mésa, [[mésang|link]] itó, [[mong|link]] iyán"
+      ],
+      [
+       "[[-g|link]]",
+       "the modifiers iyán and iyón",
+       "[[iyáng|link]] suót, [[iyóng|link]] báhay"
+      ],
+      [
+       "[[na|link]]",
+       "comes after the noun bahay",
+       "báhay [[na|link]] iyon"
+      ]
      ]
+    },
+    {
+     "type": "p",
+     "t": "These connectors (also called **ligatures**) join a demonstrative and a noun (itóng mésa), a noun and a demonstrative (báhay na iyon, mésang itó), or a possessive pronoun and a demonstrative (mong iyán). Lesson 7 explains them fully."
     },
     {
      "type": "h",
@@ -722,44 +1382,54 @@
     },
     {
      "type": "p",
-     "t": "When the marker **sa** (in, at, on, to) is used, the demonstrative always comes **after** the noun."
+     "t": "**Sa** means *in, at, on* or *to*, and shows the location of an action. In a sentence with sa, itó, iyán or iyón always come **after the noun** at the end of the sentence."
     },
     {
      "type": "examples",
      "items": [
       {
-       "tl": "Kumain ako sa mesang ito.",
-       "en": "I ate at this table.",
+       "tl": "Ang báta ay kumáin sa mésang itó.",
+       "en": "The child ate on this table.",
        "parts": [
         [
-         "Kumain",
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "báta",
+         "child",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "kumáin",
          "ate",
          "pred"
         ],
         [
-         "ako",
-         "I",
-         "pron"
-        ],
-        [
          "sa",
-         "at",
+         "on",
          "marker"
         ],
         [
-         "mesang",
-         "table + linker",
+         "mésang",
+         "table +ng",
          "noun"
         ],
         [
-         "ito",
+         "itó",
          "this",
          "pron"
         ]
        ]
       },
       {
-       "tl": "Pumunta kami sa bahay na iyon.",
+       "tl": "Pumunta kamí sa báhay na iyán.",
        "en": "We went to that house.",
        "parts": [
         [
@@ -768,8 +1438,8 @@
          "pred"
         ],
         [
-         "kami",
-         "we, not including you",
+         "kamí",
+         "we (not you)",
          "pron"
         ],
         [
@@ -778,7 +1448,7 @@
          "marker"
         ],
         [
-         "bahay",
+         "báhay",
          "house",
          "noun"
         ],
@@ -788,8 +1458,44 @@
          "link"
         ],
         [
-         "iyon",
-         "that, far away",
+         "iyán",
+         "that",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Súmakay silá sa bus na iyón.",
+       "en": "They rode on that bus.",
+       "parts": [
+        [
+         "Súmakay",
+         "rode",
+         "pred"
+        ],
+        [
+         "silá",
+         "they",
+         "pron"
+        ],
+        [
+         "sa",
+         "on",
+         "marker"
+        ],
+        [
+         "bus",
+         "bus",
+         "noun"
+        ],
+        [
+         "na",
+         "linker",
+         "link"
+        ],
+        [
+         "iyón",
+         "that, over there",
          "pron"
         ]
        ]
@@ -801,11 +1507,12 @@
      "kind": "remember",
      "title": "Remember",
      "items": [
-      "Seven subject pronouns: ako, ikaw (ka), siya, tayo, kami, kayo, sila.",
-      "Tayo includes the listener. Kami leaves them out.",
-      "Ay becomes 'y after a vowel.",
-      "Ito = near me, iyan = near you, iyon = far from both.",
-      "Itong mesa and ang mesang ito both mean this table."
+      "Akó, kamí, táyo, ikáw/ka, kayó, siyá, silá are subject pronouns.",
+      "Kamí leaves out the person spoken to; táyo includes them.",
+      "Ikáw starts a sentence; ka follows the predicate.",
+      "Kayó and silá are also the polite way to say you.",
+      "Ay becomes 'y after a word ending in a vowel.",
+      "Itó = near me, iyán = near you, iyón = far from both. Plurals take ang mga."
      ]
     }
    ]
@@ -814,367 +1521,347 @@
  "vocab": [
   {
    "id": "ako",
-   "tl": "ako",
+   "tl": "akó",
    "en": "I",
    "pos": "pron",
-   "group": "pronouns",
+   "group": "pron",
    "say": "a-KO"
   },
   {
-   "id": "ikaw",
-   "tl": "ikaw",
-   "en": "you (one person)",
+   "id": "kami",
+   "tl": "kamí",
+   "en": "we (he/she and I, not you)",
    "pos": "pron",
-   "group": "pronouns",
-   "say": "i-KAW",
-   "note": "After the predicate it becomes ka"
+   "group": "pron",
+   "say": "ka-MI"
+  },
+  {
+   "id": "tayo",
+   "tl": "táyo",
+   "en": "we (you, he/she and I; or you and I)",
+   "pos": "pron",
+   "group": "pron",
+   "say": "TA-yo"
+  },
+  {
+   "id": "ikaw",
+   "tl": "ikáw",
+   "en": "you (one person, at the start of a sentence)",
+   "pos": "pron",
+   "group": "pron",
+   "say": "i-KAW"
   },
   {
    "id": "ka",
    "tl": "ka",
    "en": "you (after the predicate)",
    "pos": "pron",
-   "group": "pronouns",
-   "say": "KA"
-  },
-  {
-   "id": "siya",
-   "tl": "siya",
-   "en": "he, she",
-   "pos": "pron",
-   "group": "pronouns",
-   "say": "si-YA"
-  },
-  {
-   "id": "tayo",
-   "tl": "tayo",
-   "en": "we (including you)",
-   "pos": "pron",
-   "group": "pronouns",
-   "say": "TA-yo"
-  },
-  {
-   "id": "kami",
-   "tl": "kami",
-   "en": "we (not including you)",
-   "pos": "pron",
-   "group": "pronouns",
-   "say": "ka-MI"
+   "group": "pron"
   },
   {
    "id": "kayo",
-   "tl": "kayo",
-   "en": "you (plural or polite)",
+   "tl": "kayó",
+   "en": "you (plural, excluding the speaker; also polite)",
    "pos": "pron",
-   "group": "pronouns",
+   "group": "pron",
    "say": "ka-YO"
   },
   {
+   "id": "siya",
+   "tl": "siyá",
+   "en": "he, she",
+   "pos": "pron",
+   "group": "pron",
+   "say": "si-YA"
+  },
+  {
    "id": "sila",
-   "tl": "sila",
+   "tl": "silá",
    "en": "they",
    "pos": "pron",
-   "group": "pronouns",
+   "group": "pron",
    "say": "si-LA"
   },
   {
    "id": "ito",
-   "tl": "ito",
-   "en": "this (near me)",
+   "tl": "itó",
+   "en": "this (near the speaker)",
    "pos": "pron",
-   "group": "demos",
+   "group": "pron",
    "say": "i-TO"
   },
   {
    "id": "iyan",
-   "tl": "iyan",
-   "en": "that (near you)",
+   "tl": "iyán",
+   "en": "that (near the person spoken to)",
    "pos": "pron",
-   "group": "demos",
+   "group": "pron",
    "say": "i-YAN"
   },
   {
    "id": "iyon",
-   "tl": "iyon",
-   "en": "that (far from both)",
+   "tl": "iyón",
+   "en": "that, over there (far from both)",
    "pos": "pron",
-   "group": "demos",
+   "group": "pron",
    "say": "i-YON"
   },
   {
-   "id": "itong",
-   "tl": "itong",
-   "en": "this (before a noun)",
-   "pos": "pron",
-   "group": "demos",
-   "say": "i-TONG"
-  },
-  {
-   "id": "iyang",
-   "tl": "iyang",
-   "en": "that (near you, before a noun)",
-   "pos": "pron",
-   "group": "demos",
-   "say": "i-YANG"
-  },
-  {
-   "id": "iyong",
-   "tl": "iyong",
-   "en": "that (far, before a noun)",
-   "pos": "pron",
-   "group": "demos",
-   "say": "i-YONG"
-  },
-  {
    "id": "masipag",
-   "tl": "masipag",
-   "en": "hardworking",
+   "tl": "masípag",
+   "en": "industrious",
    "pos": "adj",
    "group": "words",
    "say": "ma-SI-pag"
   },
   {
    "id": "magkaibigan",
-   "tl": "magkaibigan",
+   "tl": "magkaibígan",
    "en": "friends",
    "pos": "noun",
    "group": "words",
    "say": "mag-ka-i-BI-gan"
   },
   {
-   "id": "estudyante",
-   "tl": "estudyante",
-   "en": "student",
-   "pos": "noun",
-   "group": "words",
-   "say": "es-tud-YAN-te"
-  },
-  {
-   "id": "mahaba",
-   "tl": "mahaba",
-   "en": "long",
+   "id": "marami",
+   "tl": "marámi",
+   "en": "plenty; many; much",
    "pos": "adj",
    "group": "words",
-   "say": "ma-HA-baʔ"
-  },
-  {
-   "id": "ilog",
-   "tl": "ilog",
-   "en": "river",
-   "pos": "noun",
-   "group": "words",
-   "say": "I-log"
-  },
-  {
-   "id": "bus",
-   "tl": "bus",
-   "en": "bus",
-   "pos": "noun",
-   "group": "words",
-   "say": "BUS"
+   "say": "ma-RA-mi"
   },
   {
    "id": "naniniwala",
-   "tl": "naniniwala",
-   "en": "believes",
+   "tl": "naníniwala",
+   "en": "believe",
    "pos": "verb",
    "group": "words",
-   "say": "na-ni-ni-WA-la"
+   "say": "na-NI-ni-wa-la"
+  },
+  {
+   "id": "nag-aaral",
+   "tl": "nag-áaral",
+   "en": "studying",
+   "pos": "verb",
+   "group": "words",
+   "say": "nagQ-A-a-ral"
+  },
+  {
+   "id": "mahaba",
+   "tl": "mahabà",
+   "en": "long",
+   "pos": "adj",
+   "group": "words",
+   "say": "ma-HA-baQ"
+  },
+  {
+   "id": "suot",
+   "tl": "suót",
+   "en": "clothes",
+   "pos": "noun",
+   "group": "words",
+   "say": "su-OT"
+  },
+  {
+   "id": "sa",
+   "tl": "sa",
+   "en": "in, at, on, to (location of an action)",
+   "pos": "marker",
+   "group": "words"
   }
  ],
  "exercises": [
   {
    "type": "choice",
-   "q": "Which pronoun means \"we\" including the person you are talking to?",
+   "q": "Kayó ay bumilí ng pagkáin. Akó ay bumilí ng pagkáin. ___'y bumilí ng pagkáin.",
    "options": [
-    "tayo",
-    "kami",
-    "kayo"
+    "Táyo",
+    "Silá",
+    "Kamí"
    ],
-   "answer": "tayo",
-   "explain": "Tayo includes the listener."
+   "answer": "Táyo",
+   "explain": "Kayó + akó = you and I, which is táyo."
   },
   {
    "type": "choice",
-   "q": "Which pronoun means \"we\" but NOT the person you are talking to?",
+   "q": "Mabaít ka. Mabaít siyá. Mabaít ___.",
    "options": [
-    "kami",
-    "tayo",
-    "sila"
+    "kayó",
+    "kamí",
+    "akó"
    ],
-   "answer": "kami",
-   "explain": "Kami leaves the listener out."
+   "answer": "kayó",
+   "explain": "You + he/she = you (plural), kayó."
   },
   {
    "type": "choice",
-   "q": "You are planning a trip with a friend. How do you say \"we are going\"?",
+   "q": "Akó'y naniniwála kay Delia. Silá'y naniniwála kay Delia. ___'y naniniwála kay Delia.",
    "options": [
-    "tayo",
-    "kami",
-    "sila"
+    "Kamí",
+    "Táyo",
+    "Kayó"
    ],
-   "answer": "tayo",
-   "explain": "You and your friend are both included."
+   "answer": "Kamí",
+   "explain": "I + they = we, not including the person spoken to."
   },
   {
    "type": "choice",
-   "q": "Which pronoun changes shape after the predicate?",
+   "q": "Which pronoun means \"we\" and includes the person you are talking to?",
    "options": [
-    "ikaw (becomes ka)",
-    "ako",
-    "siya"
+    "táyo",
+    "kamí",
+    "silá"
    ],
-   "answer": "ikaw (becomes ka)",
-   "explain": "Ikaw is the only one that changes."
+   "answer": "táyo",
+   "explain": "Táyo means you, he/she and I, or you and I."
   },
   {
    "type": "choice",
-   "q": "Fill in: Masipag ___. (You are hardworking.)",
+   "q": "Which pronoun means \"we\" but leaves out the person you are talking to?",
+   "options": [
+    "kamí",
+    "táyo",
+    "kayó"
+   ],
+   "answer": "kamí",
+   "explain": "Kamí means he/she and I."
+  },
+  {
+   "type": "choice",
+   "q": "Which form of \"you\" goes after the predicate in the inverted order?",
    "options": [
     "ka",
-    "ikaw",
-    "ako"
+    "ikáw",
+    "akó"
    ],
    "answer": "ka",
-   "explain": "After the predicate, ikaw becomes ka."
+   "explain": "Ikáw becomes ka: Masípag ka."
   },
   {
    "type": "choice",
-   "q": "What is the short form of \"Ako ay si John\"?",
+   "q": "To ask a teacher politely, which is correct?",
    "options": [
-    "Ako'y si John.",
-    "Ako ay'si John.",
-    "Akoy si John."
+    "Kayó pô ba ay guro?",
+    "Ikáw ba ay guro?",
+    "Ka ba ay guro?"
    ],
-   "answer": "Ako'y si John.",
-   "explain": "'y attaches to a word ending in a vowel."
+   "answer": "Kayó pô ba ay guro?",
+   "explain": "Kayó or silá may replace ikáw or ka to show respect."
   },
   {
    "type": "choice",
-   "q": "Why does \"Ikaw ay babae\" keep the full ay?",
+   "q": "When can ay be shortened to 'y?",
    "options": [
-    "Ikaw ends in a consonant",
-    "It is formal",
-    "It is plural"
+    "After a word ending in a vowel",
+    "After any word",
+    "Only after names"
    ],
-   "answer": "Ikaw ends in a consonant",
-   "explain": "'y is only used after a vowel."
+   "answer": "After a word ending in a vowel",
+   "explain": "Akó ay → Ako'y. Táyo ay → Táyo'y."
   },
   {
    "type": "choice",
-   "q": "Which pronoun do you use to address an older person with respect?",
+   "q": "Which word is used for a thing near the person spoken to?",
    "options": [
-    "kayo",
-    "ka",
-    "ako"
+    "iyán",
+    "itó",
+    "iyón"
    ],
-   "answer": "kayo",
-   "explain": "Kayo is the polite you."
+   "answer": "iyán",
+   "explain": "Iyán (i-YAN) is near the person spoken to."
   },
   {
    "type": "choice",
-   "q": "Which word means \"this\" (near the speaker)?",
+   "q": "Which word is used for a thing far from both of you?",
    "options": [
-    "ito",
-    "iyan",
-    "iyon"
+    "iyón",
+    "itó",
+    "iyán"
    ],
-   "answer": "ito",
-   "explain": "Ito is near me."
+   "answer": "iyón",
+   "explain": "Iyón (i-YON) means that, over there."
   },
   {
    "type": "choice",
-   "q": "Which word means \"that\" (far from both of you)?",
+   "q": "How do you say \"These are good\"?",
    "options": [
-    "iyon",
-    "iyan",
-    "ito"
+    "Ang mga itó ay mababaít.",
+    "Ang itó ay mababaít.",
+    "Mga ang itó ay mababaít."
    ],
-   "answer": "iyon",
-   "explain": "Iyon is over there."
+   "answer": "Ang mga itó ay mababaít.",
+   "explain": "The plural of itó is preceded by ang mga."
   },
   {
    "type": "choice",
-   "q": "Which word means \"that\" (near the person you are talking to)?",
+   "q": "Is the singular itó preceded by ang?",
    "options": [
-    "iyan",
-    "ito",
-    "iyon"
+    "No",
+    "Yes"
    ],
-   "answer": "iyan",
-   "explain": "Iyan is near you, the listener."
+   "answer": "No",
+   "explain": "Only the plural forms take ang mga."
   },
   {
    "type": "choice",
-   "q": "How do you say \"this table\" with the demonstrative first?",
+   "q": "In a sentence with sa, where do itó, iyán and iyón go?",
    "options": [
-    "itong mesa",
-    "ito mesa",
-    "itong mesang"
+    "After the noun, at the end",
+    "Before the noun",
+    "At the start of the sentence"
    ],
-   "answer": "itong mesa",
-   "explain": "Ito + the linker -ng = itong."
+   "answer": "After the noun, at the end",
+   "explain": "Ang báta ay kumáin sa mésang itó."
   },
   {
    "type": "choice",
-   "q": "How do you say \"that house\" (far away) with ang?",
+   "q": "Which is the more colloquial way to say \"That house is big\"?",
    "options": [
-    "ang bahay na iyon",
-    "ang bahay iyon",
-    "ang iyon bahay"
+    "Malakí iyóng báhay na iyón.",
+    "Iyóng báhay na iyón ay malakí."
    ],
-   "answer": "ang bahay na iyon",
-   "explain": "Bahay ends in a consonant, so the linker na is used."
-  },
-  {
-   "type": "choice",
-   "q": "After sa, where does the demonstrative go?",
-   "options": [
-    "After the noun",
-    "Before the noun"
-   ],
-   "answer": "After the noun",
-   "explain": "For example: sa mesang ito, sa bahay na iyon."
+   "answer": "Malakí iyóng báhay na iyón.",
+   "explain": "Repeating the demonstrative at the end of an inverted sentence is more colloquial."
   },
   {
    "type": "listen",
-   "tl": "kami",
+   "tl": "masípag",
    "options": [
-    "we (not including you)",
-    "we (including you)",
-    "they"
+    "industrious",
+    "poor",
+    "friends"
    ],
-   "answer": "we (not including you)",
-   "explain": "Kami excludes the listener."
+   "answer": "industrious",
+   "explain": "Masípag means industrious."
   },
   {
    "type": "listen",
-   "tl": "siya",
+   "tl": "magkaibígan",
    "options": [
-    "he or she",
-    "I",
-    "you"
+    "friends",
+    "siblings",
+    "teacher"
    ],
-   "answer": "he or she",
-   "explain": "Siya means he or she."
+   "answer": "friends",
+   "explain": "Magkaibígan means friends."
   },
   {
    "type": "listen",
-   "tl": "iyon",
+   "tl": "naníniwala",
    "options": [
-    "that (far away)",
-    "this",
-    "that (near you)"
+    "believe",
+    "plenty",
+    "studying"
    ],
-   "answer": "that (far away)",
-   "explain": "Iyon means that, over there."
+   "answer": "believe",
+   "explain": "Naníniwala means believe."
   },
   {
    "type": "build",
    "en": "I am John.",
-   "tl": "Ako ay si John.",
+   "tl": "Akó ay si John.",
    "tokens": [
-    "ako",
+    "akó",
     "ay",
     "si",
     "john"
@@ -1183,109 +1870,124 @@
   },
   {
    "type": "build",
-   "en": "You are hardworking.",
-   "tl": "Masipag ka.",
+   "en": "I am industrious.",
+   "tl": "Masípag akó.",
    "tokens": [
-    "masipag",
+    "masípag",
+    "akó"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "We are friends. (including you)",
+   "tl": "Táyo'y magkaibígan.",
+   "tokens": [
+    "táyo'y",
+    "magkaibígan"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "You are healthy. (one person)",
+   "tl": "Malusóg ka.",
+   "tokens": [
+    "malusóg",
     "ka"
    ],
    "explain": ""
   },
   {
    "type": "build",
-   "en": "We (you and I) are friends.",
-   "tl": "Tayo ay magkaibigan.",
+   "en": "They are intelligent.",
+   "tl": "Marurúnong silá.",
    "tokens": [
-    "tayo",
+    "marurúnong",
+    "silá"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "This is food.",
+   "tl": "Itó'y pagkáin.",
+   "tokens": [
+    "itó'y",
+    "pagkáin"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "That is plenty.",
+   "tl": "Marámi iyán.",
+   "tokens": [
+    "marámi",
+    "iyán"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Those are big.",
+   "tl": "Ang mga iyán ay malalakí.",
+   "tokens": [
+    "ang",
+    "mga",
+    "iyán",
     "ay",
-    "magkaibigan"
-   ],
-   "explain": ""
-  },
-  {
-   "type": "build",
-   "en": "This is small.",
-   "tl": "Maliit ito.",
-   "tokens": [
-    "maliit",
-    "ito"
-   ],
-   "explain": ""
-  },
-  {
-   "type": "build",
-   "en": "That is long. (far away)",
-   "tl": "Mahaba iyon.",
-   "tokens": [
-    "mahaba",
-    "iyon"
-   ],
-   "explain": ""
-  },
-  {
-   "type": "build",
-   "en": "I ate at this table.",
-   "tl": "Kumain ako sa mesang ito.",
-   "tokens": [
-    "kumain",
-    "ako",
-    "sa",
-    "mesang",
-    "ito"
+    "malalakí"
    ],
    "explain": ""
   },
   {
    "type": "match",
-   "q": "Match each English pronoun to Tagalog.",
+   "q": "Match each pronoun to its meaning.",
    "pairs": [
     [
-     "I",
-     "ako"
+     "akó",
+     "I"
     ],
     [
-     "he or she",
-     "siya"
+     "siyá",
+     "he, she"
     ],
     [
-     "they",
-     "sila"
+     "silá",
+     "they"
     ],
     [
-     "you (plural or polite)",
-     "kayo"
+     "kayó",
+     "you (plural)"
     ]
    ]
   },
   {
    "type": "match",
-   "q": "Match each word to where the thing is.",
+   "q": "Match each demonstrative to where the thing is.",
    "pairs": [
     [
-     "ito",
-     "near me"
+     "itó",
+     "near the speaker"
     ],
     [
-     "iyan",
-     "near you"
+     "iyán",
+     "near the person spoken to"
     ],
     [
-     "iyon",
+     "iyón",
      "far from both"
-    ],
-    [
-     "itong",
-     "this, before a noun"
     ]
    ]
   }
  ],
  "recap": [
-  "Seven subject pronouns: ako, ikaw (ka), siya, tayo, kami, kayo, sila.",
-  "Tayo includes the listener. Kami leaves them out.",
-  "'y replaces ay after a vowel.",
-  "Kayo is the polite and plural you.",
-  "Ito (near me), iyan (near you), iyon (far from both).",
-  "Before a noun: itong mesa, or ang mesang ito. After sa, the demonstrative follows the noun."
+  "Personal pronouns: akó (I), kamí and táyo (we), ikáw/ka and kayó (you), siyá (he, she), silá (they).",
+  "Kamí excludes the person spoken to; táyo includes them.",
+  "Ikáw begins a sentence; ka follows the predicate. Kayó and silá show respect.",
+  "Ay becomes 'y after a word ending in a vowel: Ako'y, Táyo'y, Itó'y.",
+  "Itó (near me), iyán (near you), iyón (far from both). Plural: ang mga itó, ang mga iyán, ang mga iyón.",
+  "As modifiers they go before the noun, joined by -ng, -g or na, and may be repeated for emphasis."
  ]
 }

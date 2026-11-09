@@ -1,27 +1,27 @@
 {
  "id": "l04",
  "label": "4",
- "title": "The markers si and ang",
- "summary": "How to mark who or what a sentence is about, and how to show more than one",
+ "title": "The articles si and ang",
+ "summary": "The little words that go before the subject, and how to show more than one",
  "minutes": 30,
  "goals": [
-  "Use si, sina, ang and ang mga before the subject of a sentence",
-  "Build simple sentences with ay",
-  "Show plurals the Tagalog way, including plural describing words",
+  "Use si, siná, ang and ang mga before the subject of a sentence",
+  "Build simple sentences with ay (subject first, predicate last)",
+  "Show plurals with siná, mga and plural adjectives",
   "Use ang before names of places"
  ],
  "sections": [
   {
-   "title": "Every subject needs a marker",
+   "title": "Every subject needs an article",
    "blocks": [
     {
      "type": "p",
-     "t": "In Tagalog, the person or thing a sentence is about almost always has a small **marker** in front of it. English has no exact match for this. You can say \"Ana is happy\", but in Tagalog you must say something like \"**si** Ana is happy\"."
+     "t": "Any noun used as the **subject** of a sentence, including names of persons, places and things, is always preceded by an **article**. The only exceptions are **direct conversation** (talking straight to someone) and **imperative statements** (commands)."
     },
     {
      "type": "table",
      "head": [
-      "Marker",
+      "Article",
       "Used before",
       "Example"
      ],
@@ -29,29 +29,29 @@
       [
        "[[si|marker]]",
        "the name of one person",
-       "**Si** Ana, **Si** Ben"
+       "**Si** Ruth"
       ],
       [
-       "[[sina|marker]]",
-       "the names of two or more people",
-       "**Sina** Ana at Ben"
+       "[[siná|marker]]",
+       "the names of two or more persons",
+       "**Sina** Helen at Tom"
       ],
       [
        "[[ang|marker]]",
-       "one thing, place or animal",
-       "**Ang** bata, **Ang** aso"
+       "the name of a single thing or place",
+       "**Ang** batà, **Ang** áso"
       ],
       [
        "[[ang mga|marker]]",
-       "two or more things, places or animals",
-       "**Ang mga** bata, **Ang mga** aso"
+       "the names of two or more things or places",
+       "**Ang mga** batà, **Ang mga** áso"
       ]
      ],
-     "title": "Four markers for the subject"
+     "title": "The four articles"
     },
     {
      "type": "pattern",
-     "title": "A basic sentence with ay",
+     "title": "Subject first, predicate last",
      "rows": [
       {
        "label": "Pattern",
@@ -61,7 +61,7 @@
          "r": "marker"
         },
         {
-         "t": "Ana",
+         "t": "Ruth",
          "r": "noun"
         },
         {
@@ -69,29 +69,44 @@
          "r": "ay"
         },
         {
-         "t": "babae",
+         "t": "babáe",
          "r": "pred"
         }
        ]
       }
      ],
-     "note": "Subject first, then ay, then what is said about it. Ay means is or are."
+     "note": "Article + subject + ay + predicate. Ay joins the subject to the predicate."
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "Compare with English",
+     "t": "English has articles too: *the* and *a*. In Tagalog the article is needed even before a person's name, and there are different ones for one person, several persons, one thing and several things."
+    }
+   ]
+  },
+  {
+   "title": "Si and siná: names of persons",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The singular article **si** goes before the name of a person. The plural article **siná** goes before the names of two or more persons."
     },
     {
      "type": "examples",
      "items": [
       {
-       "tl": "Si Ana ay babae.",
-       "en": "Ana is a woman.",
+       "tl": "Si Ruth ay babáe.",
+       "en": "Ruth is a woman.",
        "parts": [
         [
          "Si",
-         "marks a name",
+         "article (one name)",
          "marker"
         ],
         [
-         "Ana",
-         "Ana",
+         "Ruth",
+         "Ruth",
          "noun"
         ],
         [
@@ -100,24 +115,24 @@
          "ay"
         ],
         [
-         "babae",
+         "babáe",
          "woman",
          "pred"
         ]
        ]
       },
       {
-       "tl": "Si Ben ay marunong.",
-       "en": "Ben is clever.",
+       "tl": "Si Peter ay laláki.",
+       "en": "Peter is a man.",
        "parts": [
         [
          "Si",
-         "marks a name",
+         "article (one name)",
          "marker"
         ],
         [
-         "Ben",
-         "Ben",
+         "Peter",
+         "Peter",
          "noun"
         ],
         [
@@ -126,24 +141,24 @@
          "ay"
         ],
         [
-         "marunong",
-         "clever",
+         "laláki",
+         "man",
          "pred"
         ]
        ]
       },
       {
-       "tl": "Ang bata ay mabait.",
-       "en": "The child is kind.",
+       "tl": "Si Helen ay batáng babáe.",
+       "en": "Helen is a young girl.",
        "parts": [
         [
-         "Ang",
-         "the",
+         "Si",
+         "article (one name)",
          "marker"
         ],
         [
-         "bata",
-         "child",
+         "Helen",
+         "Helen",
          "noun"
         ],
         [
@@ -152,24 +167,29 @@
          "ay"
         ],
         [
-         "mabait",
-         "kind",
+         "batáng",
+         "young",
+         "pred"
+        ],
+        [
+         "babáe",
+         "woman",
          "pred"
         ]
        ]
       },
       {
-       "tl": "Ang kape ay mainit.",
-       "en": "The coffee is hot.",
+       "tl": "Si Tom ay batáng laláki.",
+       "en": "Tom is a young boy.",
        "parts": [
         [
-         "Ang",
-         "the",
+         "Si",
+         "article (one name)",
          "marker"
         ],
         [
-         "kape",
-         "coffee",
+         "Tom",
+         "Tom",
          "noun"
         ],
         [
@@ -178,51 +198,81 @@
          "ay"
         ],
         [
-         "mainit",
-         "hot",
+         "batáng",
+         "young",
+         "pred"
+        ],
+        [
+         "laláki",
+         "man",
          "pred"
         ]
        ]
-      }
-     ],
-     "title": "Tap each sentence to hear it"
-    },
-    {
-     "type": "box",
-     "kind": "rule",
-     "title": "The rule",
-     "t": "A noun that is the subject of a sentence needs its marker. The only exceptions are when you call a person by name (\"Ana, come here!\") and when you give a command."
-    },
-    {
-     "type": "box",
-     "kind": "english",
-     "title": "English comparison",
-     "t": "English also has markers: **the** and **a**. The difference is that Tagalog markers are required for names too, and there are different ones for one person, several people, one thing and several things."
-    }
-   ]
-  },
-  {
-   "title": "More than one: sina and ang mga",
-   "blocks": [
-    {
-     "type": "p",
-     "t": "Use **sina** before two or more names. Use **ang mga** before more than one thing. The word **mga** is said **ma-NGA**, and on its own it means nothing. Its only job is to show \"more than one\"."
-    },
-    {
-     "type": "examples",
-     "items": [
+      },
       {
-       "tl": "Sina Ana at Ben ay mababait.",
-       "en": "Ana and Ben are kind.",
+       "tl": "Si Ruth ay magandá.",
+       "en": "Ruth is pretty.",
+       "parts": [
+        [
+         "Si",
+         "article (one name)",
+         "marker"
+        ],
+        [
+         "Ruth",
+         "Ruth",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "magandá",
+         "pretty",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Si Peter ay marúnong.",
+       "en": "Peter is intelligent.",
+       "parts": [
+        [
+         "Si",
+         "article (one name)",
+         "marker"
+        ],
+        [
+         "Peter",
+         "Peter",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "marúnong",
+         "intelligent",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Sina Helen at Tom ay mababaít.",
+       "en": "Helen and Tom are good.",
        "parts": [
         [
          "Sina",
-         "marks 2+ names",
+         "article (2+ names)",
          "marker"
         ],
         [
-         "Ana",
-         "Ana",
+         "Helen",
+         "Helen",
          "noun"
         ],
         [
@@ -231,8 +281,8 @@
          "other"
         ],
         [
-         "Ben",
-         "Ben",
+         "Tom",
+         "Tom",
          "noun"
         ],
         [
@@ -241,124 +291,76 @@
          "ay"
         ],
         [
-         "mababait",
-         "kind (plural form)",
+         "mababaít",
+         "good (plural)",
          "pred"
         ]
        ]
       },
       {
-       "tl": "Ang mga bata ay masaya.",
-       "en": "The children are happy.",
+       "tl": "Sina Helen at Tom ay mga batà.",
+       "en": "Helen and Tom are children.",
        "parts": [
         [
-         "Ang",
-         "the",
+         "Sina",
+         "article (2+ names)",
          "marker"
+        ],
+        [
+         "Helen",
+         "Helen",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "Tom",
+         "Tom",
+         "noun"
+        ],
+        [
+         "ay",
+         "are",
+         "ay"
         ],
         [
          "mga",
-         "more than one",
+         "plural marker",
          "marker"
         ],
         [
-         "bata",
+         "batà",
          "child",
-         "noun"
-        ],
-        [
-         "ay",
-         "are",
-         "ay"
-        ],
-        [
-         "masaya",
-         "happy",
-         "pred"
-        ]
-       ]
-      },
-      {
-       "tl": "Ang mga bulaklak ay maganda.",
-       "en": "The flowers are beautiful.",
-       "parts": [
-        [
-         "Ang",
-         "the",
-         "marker"
-        ],
-        [
-         "mga",
-         "more than one",
-         "marker"
-        ],
-        [
-         "bulaklak",
-         "flower",
-         "noun"
-        ],
-        [
-         "ay",
-         "are",
-         "ay"
-        ],
-        [
-         "maganda",
-         "beautiful",
          "pred"
         ]
        ]
       }
-     ]
-    },
-    {
-     "type": "h",
-     "t": "The plural is optional on both sides"
-    },
-    {
-     "type": "p",
-     "t": "Tagalog has a flexible plural rule. Either the subject or the describing word can show \"more than one\", and showing it on both is allowed but optional."
-    },
-    {
-     "type": "table",
-     "head": [
-      "Sentence",
-      "Meaning",
-      "Plural shown on"
      ],
-     "rows": [
-      [
-       "Ang bata ay mabait.",
-       "The child is kind.",
-       "nowhere (one child)"
-      ],
-      [
-       "Ang **mga** bata ay mabait.",
-       "The children are kind.",
-       "the subject only"
-      ],
-      [
-       "Ang **mga** bata ay **mababait**.",
-       "The children are kind.",
-       "subject and describing word"
-      ]
-     ],
-     "title": "Choosing where to show the plural"
-    },
-    {
-     "type": "box",
-     "kind": "tip",
-     "title": "Which one to use?",
-     "t": "All the plural sentences are correct. Showing the plural on both words sounds the most complete, and it is a good habit while you are learning."
+     "title": "Tap each sentence to hear it"
     }
    ]
   },
   {
-   "title": "Describing words in the plural",
+   "title": "Plurals: mga and plural adjectives",
    "blocks": [
     {
      "type": "p",
-     "t": "Most describing words that start with **ma-** form the plural by **repeating the first syllable of the root**. The root is the part after ma-."
+     "t": "Tagalog follows a **plurality rule**: either the subject or the predicate may be made plural, and making **both** plural is optional."
+    },
+    {
+     "type": "p",
+     "t": "In **Sina Helen at Tom ay mga batà**, the article **sina** shows that the subject is plural, and **mga** before batà shows that the noun is plural. **Mga** is a plural marker with **no meaning on its own**. It is pronounced **ma-nga**."
+    },
+    {
+     "type": "h",
+     "t": "Plural adjectives"
+    },
+    {
+     "type": "p",
+     "t": "Adjectives form their plural by **duplicating the first syllable of the root word**. The root of **mabaít** (kind) is **baít**, so the plural is **mababaít**."
     },
     {
      "type": "pattern",
@@ -369,10 +371,10 @@
        "chips": [
         {
          "t": "ma",
-         "r": "link"
+         "r": "other"
         },
         {
-         "t": "bait",
+         "t": "baít",
          "r": "pred"
         }
        ]
@@ -382,20 +384,20 @@
        "chips": [
         {
          "t": "ma",
-         "r": "link"
+         "r": "other"
         },
         {
          "t": "ba",
-         "r": "pron"
+         "r": "pred"
         },
         {
-         "t": "bait",
+         "t": "baít",
          "r": "pred"
         }
        ]
       }
      ],
-     "note": "mabait → mababait. The extra ba is the repeated first syllable of the root bait."
+     "note": "The first syllable of the root (ba) is repeated."
     },
     {
      "type": "table",
@@ -406,83 +408,62 @@
      ],
      "rows": [
       [
-       "[[mabait|pred]]",
-       "[[mababait|pred]]  (ma-ba-ba-IT)",
-       "kind"
+       "[[mabaít|pred]]",
+       "[[mababaít|pred]]",
+       "kind; good (of character)"
       ],
       [
-       "[[maliit|pred]]",
-       "[[maliliit|pred]]  (ma-li-li-IT)",
-       "small"
-      ],
-      [
-       "[[malaki|pred]]",
-       "[[malalaki|pred]]  (ma-la-la-KI)",
-       "big"
-      ],
-      [
-       "[[maganda|pred]]",
-       "[[magaganda|pred]]  (ma-ga-gan-DA)",
-       "beautiful"
-      ],
-      [
-       "[[masaya|pred]]",
-       "[[masasaya|pred]]  (ma-sa-SA-ya)",
-       "happy"
-      ],
-      [
-       "[[malinis|pred]]",
-       "[[malilinis|pred]]  (ma-li-li-NIS)",
+       "[[malínis|pred]]",
+       "[[malilínis|pred]]",
        "clean"
       ],
       [
-       "[[masipag|pred]]",
-       "[[masisipag|pred]]  (ma-si-SI-pag)",
-       "hardworking"
+       "[[magandá|pred]]",
+       "[[magagandá|pred]]",
+       "beautiful"
       ],
       [
-       "[[marunong|pred]]",
-       "[[marurunong|pred]]  (ma-ru-RU-nong)",
-       "clever"
+       "[[malakí|pred]]",
+       "[[malalakí|pred]]",
+       "big"
       ],
       [
-       "[[mahirap|pred]]",
-       "[[mahihirap|pred]]  (ma-hi-HI-rap)",
-       "poor, difficult"
+       "[[marúnong|pred]]",
+       "[[marurúnong|pred]]",
+       "intelligent"
+      ],
+      [
+       "[[malamíg|pred]]",
+       "[[malalamíg|pred]]",
+       "cold"
       ]
      ],
-     "title": "Plural describing words"
-    },
-    {
-     "type": "box",
-     "kind": "warn",
-     "title": "Not every describing word follows the recipe",
-     "t": "Words that do not begin with ma-, such as **bago** (new) or **mura** (cheap), keep the same form. You will learn them as you go."
+     "title": "Plural adjectives from this lesson"
     }
    ]
   },
   {
-   "title": "Names of places also take ang",
+   "title": "Ang and ang mga: things and places",
    "blocks": [
     {
      "type": "p",
-     "t": "Places are treated like things, so they take **ang**. This includes countries, cities and towns."
+     "t": "The article **ang** is used before the name of a **single thing or place**. **Ang mga** is used before the names of **two or more** things or places."
     },
     {
      "type": "examples",
      "items": [
       {
-       "tl": "Ang Australya ay malaki.",
-       "en": "Australia is big.",
+       "tl": "Ang batà ay mabait.",
+       "en": "The child is good.",
        "parts": [
         [
          "Ang",
-         "the",
+         "article (one)",
          "marker"
         ],
         [
-         "Australya",
-         "Australia",
+         "batà",
+         "child",
          "noun"
         ],
         [
@@ -491,23 +472,330 @@
          "ay"
         ],
         [
-         "malaki",
+         "mabait",
+         "good",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang áso ay mabait.",
+       "en": "The dog is good.",
+       "parts": [
+        [
+         "Ang",
+         "article (one)",
+         "marker"
+        ],
+        [
+         "áso",
+         "dog",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "mabait",
+         "good",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang batà at ang áso ay mababaít.",
+       "en": "The child and the dog are good.",
+       "parts": [
+        [
+         "Ang",
+         "article (one)",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "ang",
+         "article (one)",
+         "marker"
+        ],
+        [
+         "áso",
+         "dog",
+         "noun"
+        ],
+        [
+         "ay",
+         "are",
+         "ay"
+        ],
+        [
+         "mababaít",
+         "good (plural)",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang mga batà at ang mga áso ay mababaít.",
+       "en": "The children and the dogs are good.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "mga",
+         "plural marker",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "mga",
+         "plural marker",
+         "marker"
+        ],
+        [
+         "áso",
+         "dog",
+         "noun"
+        ],
+        [
+         "ay",
+         "are",
+         "ay"
+        ],
+        [
+         "mababaít",
+         "good (plural)",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang mga sapátos ay malilínis.",
+       "en": "The shoes are clean.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "mga",
+         "plural marker",
+         "marker"
+        ],
+        [
+         "sapátos",
+         "shoes",
+         "noun"
+        ],
+        [
+         "ay",
+         "are",
+         "ay"
+        ],
+        [
+         "malilínis",
+         "clean (plural)",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang barò at ang sapátos ay malilínis.",
+       "en": "The dress and the shoes are clean.",
+       "parts": [
+        [
+         "Ang",
+         "article (one)",
+         "marker"
+        ],
+        [
+         "barò",
+         "dress",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "ang",
+         "article (one)",
+         "marker"
+        ],
+        [
+         "sapátos",
+         "shoes",
+         "noun"
+        ],
+        [
+         "ay",
+         "are",
+         "ay"
+        ],
+        [
+         "malilínis",
+         "clean (plural)",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang mga barò at ang mga sapátos ay malilínis.",
+       "en": "The dresses and the pairs of shoes are clean.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "mga",
+         "plural marker",
+         "marker"
+        ],
+        [
+         "barò",
+         "dress",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "mga",
+         "plural marker",
+         "marker"
+        ],
+        [
+         "sapátos",
+         "shoes",
+         "noun"
+        ],
+        [
+         "ay",
+         "are",
+         "ay"
+        ],
+        [
+         "malilínis",
+         "clean (plural)",
+         "pred"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Names of places",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The article **ang** must always go before the name of a place."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ang Pilipínas ay maliít.",
+       "en": "The Philippines is small.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "Pilipínas",
+         "the Philippines",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "maliít",
+         "small",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang Estados Unídos ay malakí.",
+       "en": "The United States is big.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "Estados Unídos",
+         "the United States",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "malakí",
          "big",
          "pred"
         ]
        ]
       },
       {
-       "tl": "Ang Maynila ay punong-lungsod ng Pilipinas.",
-       "en": "Manila is the capital city of the Philippines.",
+       "tl": "Ang Maynilà ay isang lungsod ng Pilipínas.",
+       "en": "Manila is a city of the Philippines.",
        "parts": [
         [
          "Ang",
-         "the",
+         "article",
          "marker"
         ],
         [
-         "Maynila",
+         "Maynilà",
          "Manila",
          "noun"
         ],
@@ -517,7 +805,48 @@
          "ay"
         ],
         [
-         "punong-lungsod",
+         "isang",
+         "a, one",
+         "other"
+        ],
+        [
+         "lungsod",
+         "city",
+         "pred"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "Pilipínas",
+         "the Philippines",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang Washington D.C. ay púnong-lungsód ng Estados Unídos.",
+       "en": "Washington D.C. is the capital city of the United States.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "Washington D.C.",
+         "Washington D.C.",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "púnong-lungsód",
          "capital city",
          "pred"
         ],
@@ -527,23 +856,37 @@
          "marker"
         ],
         [
-         "Pilipinas",
-         "the Philippines",
+         "Estados Unídos",
+         "the United States",
          "noun"
         ]
        ]
-      },
+      }
+     ],
+     "title": "One place"
+    },
+    {
+     "type": "h",
+     "t": "Two or more places"
+    },
+    {
+     "type": "p",
+     "t": "When there is more than one place in the subject, **mga** may be placed **before the adjective**, which must then take its plural form, **or before the noun**."
+    },
+    {
+     "type": "examples",
+     "items": [
       {
-       "tl": "Ang Maynila at ang Cebu ay mga lungsod.",
-       "en": "Manila and Cebu are cities.",
+       "tl": "Ang Maynilà at ang Washington D.C. ay mga lungsód.",
+       "en": "Manila and Washington D.C. are cities.",
        "parts": [
         [
          "Ang",
-         "the",
+         "article",
          "marker"
         ],
         [
-         "Maynila",
+         "Maynilà",
          "Manila",
          "noun"
         ],
@@ -554,12 +897,12 @@
         ],
         [
          "ang",
-         "the",
+         "article",
          "marker"
         ],
         [
-         "Cebu",
-         "Cebu",
+         "Washington D.C.",
+         "Washington D.C.",
          "noun"
         ],
         [
@@ -569,23 +912,23 @@
         ],
         [
          "mga",
-         "more than one",
+         "plural marker",
          "marker"
         ],
         [
-         "lungsod",
+         "lungsód",
          "city",
-         "noun"
+         "pred"
         ]
        ]
       },
       {
-       "tl": "Ang Baguio at Tagaytay ay malalamig.",
-       "en": "Baguio and Tagaytay are cool.",
+       "tl": "Ang Baguio at ang Tagaytáy ay mga malalamíg na lugár.",
+       "en": "Baguio and Tagaytay are cool places.",
        "parts": [
         [
          "Ang",
-         "the",
+         "article",
          "marker"
         ],
         [
@@ -599,7 +942,12 @@
          "other"
         ],
         [
-         "Tagaytay",
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "Tagaytáy",
          "Tagaytay",
          "noun"
         ],
@@ -609,29 +957,103 @@
          "ay"
         ],
         [
-         "malalamig",
-         "cool (plural)",
+         "mga",
+         "plural marker",
+         "marker"
+        ],
+        [
+         "malalamíg",
+         "cold (plural)",
          "pred"
+        ],
+        [
+         "na",
+         "linker",
+         "link"
+        ],
+        [
+         "lugár",
+         "place",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang Baguio at ang Tagaytáy ay malalamíg na mga lugár.",
+       "en": "Baguio and Tagaytay are cool places.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "Baguio",
+         "Baguio",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "Tagaytáy",
+         "Tagaytay",
+         "noun"
+        ],
+        [
+         "ay",
+         "are",
+         "ay"
+        ],
+        [
+         "malalamíg",
+         "cold (plural)",
+         "pred"
+        ],
+        [
+         "na",
+         "linker",
+         "link"
+        ],
+        [
+         "mga",
+         "plural marker",
+         "marker"
+        ],
+        [
+         "lugár",
+         "place",
+         "noun"
         ]
        ]
       }
-     ]
+     ],
+     "title": "More than one place"
     },
     {
      "type": "box",
      "kind": "tip",
      "title": "Dropping the second ang",
-     "t": "When two places are joined by **at** (and), you may leave out the second **ang**. Both versions mean the same thing."
+     "t": "You may delete the second **ang** before the second place name. The meaning does not change: **Ang Maynilà at Washington D.C. ay mga lungsód.**"
     },
     {
      "type": "box",
      "kind": "remember",
      "title": "Remember",
      "items": [
-      "Si and sina are for people's names. Ang and ang mga are for things and places.",
-      "Mga shows more than one and is said ma-NGA.",
-      "Plural describing words usually repeat the first syllable of the root.",
-      "Plural marking is optional on either word."
+      "Si (one person) and siná (two or more persons) go before names of persons.",
+      "Ang (one) and ang mga (two or more) go before things and places.",
+      "Every subject needs its article, except in direct conversation and commands.",
+      "Mga is said ma-nga and has no meaning on its own.",
+      "Plural adjectives duplicate the first syllable of the root: mabaít, mababaít.",
+      "Making both the subject and the predicate plural is optional."
      ]
     }
    ]
@@ -641,116 +1063,27 @@
    "blocks": [
     {
      "type": "p",
-     "t": "Put the pattern to work. Choose a subject from the first list and a describing word from the second. Then say it aloud. For example, **Ang tubig ay malamig** (The water is cold)."
+     "t": "All sentences in this lesson put the **subject first** and the **predicate last**, joined by **ay**, with the correct article before the subject. Choose a subject and a predicate from the lists and say a sentence aloud, for example **Ang túbig ay malamíg** (The water is cold)."
+    },
+    {
+     "type": "p",
+     "t": "Many subjects and predicates you already know: babáe, laláki, batà, bulaklák, sílya, kótse, lápis, papél, kapé, magandá, maínit, malínis."
     },
     {
      "type": "vocab",
      "group": "things",
-     "title": "Things and people to talk about"
+     "title": "Subjects"
     },
     {
      "type": "vocab",
      "group": "adjs",
-     "title": "Describing words"
-    },
-    {
-     "type": "examples",
-     "items": [
-      {
-       "tl": "Ang pagkain ay masarap.",
-       "en": "The food is delicious.",
-       "parts": [
-        [
-         "Ang",
-         "the",
-         "marker"
-        ],
-        [
-         "pagkain",
-         "food",
-         "noun"
-        ],
-        [
-         "ay",
-         "is",
-         "ay"
-        ],
-        [
-         "masarap",
-         "delicious",
-         "pred"
-        ]
-       ]
-      },
-      {
-       "tl": "Ang mga sapatos ay bago.",
-       "en": "The shoes are new.",
-       "parts": [
-        [
-         "Ang",
-         "the",
-         "marker"
-        ],
-        [
-         "mga",
-         "more than one",
-         "marker"
-        ],
-        [
-         "sapatos",
-         "shoes",
-         "noun"
-        ],
-        [
-         "ay",
-         "are",
-         "ay"
-        ],
-        [
-         "bago",
-         "new",
-         "pred"
-        ]
-       ]
-      },
-      {
-       "tl": "Ang magkapatid ay masisipag.",
-       "en": "The siblings are hardworking.",
-       "parts": [
-        [
-         "Ang",
-         "the",
-         "marker"
-        ],
-        [
-         "magkapatid",
-         "siblings",
-         "noun"
-        ],
-        [
-         "ay",
-         "are",
-         "ay"
-        ],
-        [
-         "masisipag",
-         "hardworking (plural)",
-         "pred"
-        ]
-       ]
-      }
-     ],
-     "title": "More models"
+     "title": "Predicates"
     },
     {
      "type": "box",
      "kind": "tip",
-     "title": "Practice routine",
-     "items": [
-      "Make five new sentences with ang and five with si or sina.",
-      "Say each one out loud.",
-      "Then change each describing word to its plural form."
-     ]
+     "title": "Coming next",
+     "t": "The next lessons show the **inverted** word order, where the predicate comes before the subject. Tagalogs use the inverted order more often in everyday speech."
     }
    ]
   }
@@ -758,23 +1091,47 @@
  "vocab": [
   {
    "id": "sina",
-   "tl": "sina",
-   "en": "marks two or more people's names",
+   "tl": "siná",
+   "en": "article before the names of two or more persons",
    "pos": "marker",
    "group": "markers",
-   "say": "SI-na"
+   "say": "si-NA"
+  },
+  {
+   "id": "mga",
+   "tl": "mga",
+   "en": "plural marker (no meaning on its own)",
+   "pos": "marker",
+   "group": "markers",
+   "say": "ma-nga"
+  },
+  {
+   "id": "aso",
+   "tl": "áso",
+   "en": "dog",
+   "pos": "noun",
+   "group": "things",
+   "say": "A-so"
+  },
+  {
+   "id": "bahay",
+   "tl": "báhay",
+   "en": "house",
+   "pos": "noun",
+   "group": "things",
+   "say": "BA-hay"
   },
   {
    "id": "bansa",
-   "tl": "bansa",
-   "en": "nation, country",
+   "tl": "bansá",
+   "en": "nation",
    "pos": "noun",
    "group": "things",
    "say": "ban-SA"
   },
   {
    "id": "tubig",
-   "tl": "tubig",
+   "tl": "túbig",
    "en": "water",
    "pos": "noun",
    "group": "things",
@@ -782,7 +1139,7 @@
   },
   {
    "id": "pagkain",
-   "tl": "pagkain",
+   "tl": "pagkáin",
    "en": "food",
    "pos": "noun",
    "group": "things",
@@ -790,7 +1147,7 @@
   },
   {
    "id": "mesa",
-   "tl": "mesa",
+   "tl": "mésa",
    "en": "table",
    "pos": "noun",
    "group": "things",
@@ -798,31 +1155,23 @@
   },
   {
    "id": "paaralan",
-   "tl": "paaralan",
+   "tl": "páaralán",
    "en": "school",
    "pos": "noun",
    "group": "things",
    "say": "PA-a-ra-LAN"
   },
   {
-   "id": "lapis",
-   "tl": "lapis",
-   "en": "pencil",
-   "pos": "noun",
-   "group": "things",
-   "say": "LA-pis"
-  },
-  {
    "id": "isda",
-   "tl": "isda",
+   "tl": "isdâ",
    "en": "fish",
    "pos": "noun",
    "group": "things",
-   "say": "is-daʔ"
+   "say": "is-daQ"
   },
   {
    "id": "hangin",
-   "tl": "hangin",
+   "tl": "hángin",
    "en": "wind",
    "pos": "noun",
    "group": "things",
@@ -830,7 +1179,7 @@
   },
   {
    "id": "aklat",
-   "tl": "aklat",
+   "tl": "aklát",
    "en": "book",
    "pos": "noun",
    "group": "things",
@@ -842,11 +1191,11 @@
    "en": "church",
    "pos": "noun",
    "group": "things",
-   "say": "sim-BA-han"
+   "say": "sim-ba-han"
   },
   {
    "id": "sapatos",
-   "tl": "sapatos",
+   "tl": "sapátos",
    "en": "shoes",
    "pos": "noun",
    "group": "things",
@@ -854,15 +1203,15 @@
   },
   {
    "id": "baro",
-   "tl": "baro",
-   "en": "dress, shirt",
+   "tl": "barò",
+   "en": "dress",
    "pos": "noun",
    "group": "things",
-   "say": "BA-roʔ"
+   "say": "BA-roQ"
   },
   {
    "id": "lungsod",
-   "tl": "lungsod",
+   "tl": "lungsód",
    "en": "city",
    "pos": "noun",
    "group": "things",
@@ -870,7 +1219,7 @@
   },
   {
    "id": "lugar",
-   "tl": "lugar",
+   "tl": "lugár",
    "en": "place",
    "pos": "noun",
    "group": "things",
@@ -878,79 +1227,70 @@
   },
   {
    "id": "magkapatid",
-   "tl": "magkapatid",
-   "en": "siblings, brothers and sisters",
+   "tl": "magkapatíd",
+   "en": "siblings",
    "pos": "noun",
    "group": "things",
    "say": "mag-ka-pa-TID"
   },
   {
-   "id": "maganda",
-   "tl": "maganda",
-   "en": "beautiful",
-   "pos": "adj",
-   "group": "adjs",
-   "say": "ma-gan-DA"
+   "id": "punong-lungsod",
+   "tl": "púnong-lungsód",
+   "en": "capital city",
+   "pos": "noun",
+   "group": "things"
   },
   {
    "id": "marunong",
-   "tl": "marunong",
-   "en": "clever, learned",
+   "tl": "marúnong",
+   "en": "intelligent; learned",
    "pos": "adj",
    "group": "adjs",
    "say": "ma-RU-nong"
   },
   {
    "id": "mataba",
-   "tl": "mataba",
+   "tl": "matabâ",
    "en": "fat",
    "pos": "adj",
    "group": "adjs",
-   "say": "ma-ta-baʔ"
+   "say": "ma-ta-baQ"
   },
   {
    "id": "mabait",
-   "tl": "mabait",
-   "en": "kind, good (of character)",
+   "tl": "mabaít",
+   "en": "kind; good (of character)",
    "pos": "adj",
    "group": "adjs",
    "say": "ma-ba-IT"
   },
   {
    "id": "maliit",
-   "tl": "maliit",
+   "tl": "maliít",
    "en": "small",
    "pos": "adj",
    "group": "adjs",
    "say": "ma-li-IT"
   },
   {
-   "id": "mainit",
-   "tl": "mainit",
-   "en": "hot",
+   "id": "malaki",
+   "tl": "malakí",
+   "en": "big",
    "pos": "adj",
    "group": "adjs",
-   "say": "ma-I-nit"
+   "say": "ma-la-KI"
   },
   {
    "id": "malamig",
-   "tl": "malamig",
-   "en": "cold, cool",
+   "tl": "malamíg",
+   "en": "cold",
    "pos": "adj",
    "group": "adjs",
    "say": "ma-la-MIG"
   },
   {
-   "id": "malinis",
-   "tl": "malinis",
-   "en": "clean",
-   "pos": "adj",
-   "group": "adjs",
-   "say": "ma-LI-nis"
-  },
-  {
    "id": "bago",
-   "tl": "bago",
+   "tl": "bágo",
    "en": "new",
    "pos": "adj",
    "group": "adjs",
@@ -958,7 +1298,7 @@
   },
   {
    "id": "mura",
-   "tl": "mura",
+   "tl": "múra",
    "en": "cheap",
    "pos": "adj",
    "group": "adjs",
@@ -966,23 +1306,23 @@
   },
   {
    "id": "mahal",
-   "tl": "mahal",
-   "en": "expensive, dear",
+   "tl": "mahál",
+   "en": "dear; expensive",
    "pos": "adj",
    "group": "adjs",
    "say": "ma-HAL"
   },
   {
    "id": "masarap",
-   "tl": "masarap",
-   "en": "delicious",
+   "tl": "masaráp",
+   "en": "delicious; delightful",
    "pos": "adj",
    "group": "adjs",
    "say": "ma-sa-RAP"
   },
   {
    "id": "malusog",
-   "tl": "malusog",
+   "tl": "malusóg",
    "en": "healthy",
    "pos": "adj",
    "group": "adjs",
@@ -990,40 +1330,40 @@
   },
   {
    "id": "luma",
-   "tl": "luma",
-   "en": "old (things)",
+   "tl": "lumà",
+   "en": "old (inanimate)",
    "pos": "adj",
    "group": "adjs",
-   "say": "LU-maʔ"
+   "say": "LU-maQ"
   },
   {
    "id": "matanda",
-   "tl": "matanda",
-   "en": "old (people), elderly",
+   "tl": "matandâ",
+   "en": "old (animate)",
    "pos": "adj",
    "group": "adjs",
-   "say": "ma-tan-daʔ"
+   "say": "ma-tan-daQ"
   },
   {
    "id": "mataas",
-   "tl": "mataas",
-   "en": "high, tall",
+   "tl": "mataás",
+   "en": "high",
    "pos": "adj",
    "group": "adjs",
    "say": "ma-ta-AS"
   },
   {
    "id": "mababa",
-   "tl": "mababa",
+   "tl": "mababà",
    "en": "low",
    "pos": "adj",
    "group": "adjs",
-   "say": "ma-BA-baʔ"
+   "say": "ma-BA-baQ"
   },
   {
    "id": "mahirap",
-   "tl": "mahirap",
-   "en": "poor, difficult",
+   "tl": "mahírap",
+   "en": "poor; difficult",
    "pos": "adj",
    "group": "adjs",
    "say": "ma-HI-rap"
@@ -1032,275 +1372,305 @@
  "exercises": [
   {
    "type": "choice",
-   "q": "Fill in the marker: ___ Ana ay babae.",
+   "q": "Fill in the article: ___ Ruth ay babáe.",
    "options": [
     "Si",
     "Sina",
     "Ang"
    ],
    "answer": "Si",
-   "explain": "Si goes before one person's name."
+   "explain": "Si goes before the name of one person."
   },
   {
    "type": "choice",
-   "q": "Fill in the marker: ___ Ana at Ben ay mabait.",
+   "q": "Fill in the article: ___ Helen at Tom ay mababaít.",
    "options": [
     "Sina",
     "Si",
     "Ang mga"
    ],
    "answer": "Sina",
-   "explain": "Sina is used before two or more names."
+   "explain": "Siná goes before the names of two or more persons."
   },
   {
    "type": "choice",
-   "q": "Fill in the marker: ___ bata ay mabait.",
+   "q": "Fill in the article: ___ batà ay mabait.",
    "options": [
     "Ang",
     "Si",
     "Sina"
    ],
    "answer": "Ang",
-   "explain": "Bata is a thing-word (not a name), so it takes ang."
+   "explain": "Batà is not a name, so it takes ang."
   },
   {
    "type": "choice",
-   "q": "Fill in the marker: ___ mga aso ay malaki.",
+   "q": "Fill in the articles: ___ áso at ___ batà ay malilínis.",
+   "options": [
+    "Ang … ang",
+    "Si … si",
+    "Sina … sina"
+   ],
+   "answer": "Ang … ang",
+   "explain": "Ang goes before each single thing."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in the article: ___ Ruth at Peter ay magkapatíd.",
+   "options": [
+    "Sina",
+    "Si",
+    "Ang"
+   ],
+   "answer": "Sina",
+   "explain": "Two names take siná."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in the article: ___ Amérika at Aprika ay malalakí.",
    "options": [
     "Ang",
     "Si",
     "Sina"
    ],
    "answer": "Ang",
-   "explain": "Ang mga is used for more than one thing or animal."
+   "explain": "Ang must always go before the name of a place."
   },
   {
    "type": "choice",
-   "q": "Which marker goes before the name of a place?",
+   "q": "Fill in: ___ Peter at ___ Ruth ay mababaít at marurúnong.",
    "options": [
-    "ang",
-    "si",
-    "sina"
+    "Si … si",
+    "Ang … ang",
+    "Sina … sina"
    ],
-   "answer": "ang",
-   "explain": "Places are treated like things: Ang Maynila."
+   "answer": "Si … si",
+   "explain": "Each single name takes si."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in the article: ___ Helen, Tom, Mary at John ay malilínis.",
+   "options": [
+    "Sina",
+    "Si",
+    "Ang mga"
+   ],
+   "answer": "Sina",
+   "explain": "Several names take siná."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: ___ Tom ay mababaít. (Tom and companions are good.)",
+   "options": [
+    "Sina",
+    "Si",
+    "Ang"
+   ],
+   "answer": "Sina",
+   "explain": "Siná Tom means Tom and his companions."
+  },
+  {
+   "type": "choice",
+   "q": "When does a subject NOT need an article?",
+   "options": [
+    "In direct conversation and in commands",
+    "When it is a place",
+    "When it is plural"
+   ],
+   "answer": "In direct conversation and in commands",
+   "explain": "Otherwise every subject is preceded by an article."
   },
   {
    "type": "choice",
    "q": "What does mga mean on its own?",
    "options": [
-    "It only shows more than one",
+    "Nothing; it only marks the plural",
     "children",
     "and"
    ],
-   "answer": "It only shows more than one",
-   "explain": "Mga has no meaning except plural. It is said ma-NGA."
+   "answer": "Nothing; it only marks the plural",
+   "explain": "Mga is a plural marker with no meaning on its own, pronounced ma-nga."
   },
   {
    "type": "choice",
-   "q": "What is the plural of mabait (kind)?",
+   "q": "What is the plural of mabaít (kind)?",
    "options": [
-    "mababait",
-    "mabaitbait",
-    "mamabait"
+    "mababaít",
+    "mabaítbaít",
+    "mamabaít"
    ],
-   "answer": "mababait",
-   "explain": "Repeat the first syllable of the root: ma + ba + bait."
+   "answer": "mababaít",
+   "explain": "Duplicate the first syllable of the root baít: ma + ba + baít."
   },
   {
    "type": "choice",
-   "q": "What is the plural of maliit (small)?",
+   "q": "What is the plural of malínis (clean)?",
    "options": [
-    "maliliit",
-    "malilit",
-    "maliitliit"
+    "malilínis",
+    "malinislínis",
+    "mamalínis"
    ],
-   "answer": "maliliit",
-   "explain": "ma + li + liit."
+   "answer": "malilínis",
+   "explain": "ma + li + línis."
   },
   {
    "type": "choice",
-   "q": "What is the plural of malaki (big)?",
+   "q": "Is it necessary to make both the subject and the predicate plural?",
    "options": [
-    "malalaki",
-    "malakilaki",
-    "mamalaki"
+    "No, it is optional",
+    "Yes, always"
    ],
-   "answer": "malalaki",
-   "explain": "ma + la + laki."
+   "answer": "No, it is optional",
+   "explain": "Either the subject or the predicate may be made plural."
   },
   {
    "type": "choice",
-   "q": "What is the plural of maganda (beautiful)?",
+   "q": "Which sentence means \"Manila is a city of the Philippines\"?",
    "options": [
-    "magaganda",
-    "magandaganda",
-    "mamaganda"
+    "Ang Maynilà ay isang lungsod ng Pilipínas.",
+    "Si Maynilà ay isang lungsod ng Pilipínas.",
+    "Sina Maynilà ay isang lungsod."
    ],
-   "answer": "magaganda",
-   "explain": "ma + ga + ganda."
+   "answer": "Ang Maynilà ay isang lungsod ng Pilipínas.",
+   "explain": "A place always takes ang."
   },
   {
    "type": "choice",
-   "q": "Which is correct about plurals?",
+   "q": "Can you delete the second ang in \"Ang Maynilà at ang Washington D.C. ay mga lungsód\"?",
    "options": [
-    "Both \"Ang mga bata ay mabait\" and \"Ang mga bata ay mababait\" are fine",
-    "Only \"mababait\" is correct",
-    "Only \"mabait\" is correct"
+    "Yes, the meaning does not change",
+    "No, it changes the meaning"
    ],
-   "answer": "Both \"Ang mga bata ay mabait\" and \"Ang mga bata ay mababait\" are fine",
-   "explain": "Showing the plural on both is allowed but optional."
-  },
-  {
-   "type": "choice",
-   "q": "Which sentence means \"Manila is the capital city of the Philippines\"?",
-   "options": [
-    "Ang Maynila ay punong-lungsod ng Pilipinas.",
-    "Si Maynila ay punong-lungsod ng Pilipinas.",
-    "Sina Maynila ay punong-lungsod."
-   ],
-   "answer": "Ang Maynila ay punong-lungsod ng Pilipinas.",
-   "explain": "A city takes ang, and ng means of."
-  },
-  {
-   "type": "choice",
-   "q": "Which words keep the same form and do not follow the ma- plural recipe?",
-   "options": [
-    "bago and mura",
-    "mabait and maliit",
-    "malaki and maganda"
-   ],
-   "answer": "bago and mura",
-   "explain": "They do not start with ma-, so they stay the same."
+   "answer": "Yes, the meaning does not change",
+   "explain": "Ang Maynilà at Washington D.C. ay mga lungsód is also correct."
   },
   {
    "type": "listen",
-   "tl": "mabait",
+   "tl": "mabaít",
    "options": [
-    "kind",
+    "kind; good (of character)",
     "small",
     "cold"
    ],
-   "answer": "kind",
-   "explain": "Mabait means kind or good in character."
+   "answer": "kind; good (of character)",
+   "explain": "Mabaít means kind; good (of character)."
   },
   {
    "type": "listen",
-   "tl": "malinis",
+   "tl": "masaráp",
    "options": [
-    "clean",
-    "dirty",
-    "new"
-   ],
-   "answer": "clean",
-   "explain": "Malinis means clean."
-  },
-  {
-   "type": "listen",
-   "tl": "masarap",
-   "options": [
-    "delicious",
+    "delicious; delightful",
     "expensive",
     "old"
    ],
-   "answer": "delicious",
-   "explain": "Masarap means delicious."
+   "answer": "delicious; delightful",
+   "explain": "Masaráp means delicious; delightful."
+  },
+  {
+   "type": "listen",
+   "tl": "matandâ",
+   "options": [
+    "old (animate)",
+    "old (inanimate)",
+    "high"
+   ],
+   "answer": "old (animate)",
+   "explain": "Matandâ is old for living things. Lumà is old for things."
   },
   {
    "type": "build",
-   "en": "Ana is a woman.",
-   "tl": "Si Ana ay babae.",
+   "en": "Ruth is a woman.",
+   "tl": "Si Ruth ay babáe.",
    "tokens": [
     "si",
-    "ana",
+    "ruth",
     "ay",
-    "babae"
+    "babáe"
    ],
    "explain": ""
   },
   {
    "type": "build",
-   "en": "Ana and Ben are kind.",
-   "tl": "Sina Ana at Ben ay mababait.",
+   "en": "Helen and Tom are good.",
+   "tl": "Sina Helen at Tom ay mababaít.",
    "tokens": [
     "sina",
-    "ana",
+    "helen",
     "at",
-    "ben",
+    "tom",
     "ay",
-    "mababait"
+    "mababaít"
    ],
    "explain": ""
   },
   {
    "type": "build",
-   "en": "The children are happy.",
-   "tl": "Ang mga bata ay masaya.",
+   "en": "The dog is good.",
+   "tl": "Ang áso ay mabait.",
    "tokens": [
     "ang",
-    "mga",
-    "bata",
+    "áso",
     "ay",
-    "masaya"
-   ],
-   "explain": ""
-  },
-  {
-   "type": "build",
-   "en": "The coffee is hot.",
-   "tl": "Ang kape ay mainit.",
-   "tokens": [
-    "ang",
-    "kape",
-    "ay",
-    "mainit"
+    "mabait"
    ],
    "explain": ""
   },
   {
    "type": "build",
    "en": "The shoes are clean.",
-   "tl": "Ang mga sapatos ay malilinis.",
+   "tl": "Ang mga sapátos ay malilínis.",
    "tokens": [
     "ang",
     "mga",
-    "sapatos",
+    "sapátos",
     "ay",
-    "malilinis"
+    "malilínis"
    ],
    "explain": ""
   },
   {
    "type": "build",
-   "en": "Manila is a city.",
-   "tl": "Ang Maynila ay lungsod.",
+   "en": "The Philippines is small.",
+   "tl": "Ang Pilipínas ay maliít.",
    "tokens": [
     "ang",
-    "maynila",
+    "pilipínas",
     "ay",
-    "lungsod"
+    "maliít"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The water is cold.",
+   "tl": "Ang túbig ay malamíg.",
+   "tokens": [
+    "ang",
+    "túbig",
+    "ay",
+    "malamíg"
    ],
    "explain": ""
   },
   {
    "type": "match",
-   "q": "Match each describing word to its plural.",
+   "q": "Match each adjective to its plural.",
    "pairs": [
     [
-     "mabait",
-     "mababait"
+     "mabaít",
+     "mababaít"
     ],
     [
-     "maliit",
-     "maliliit"
+     "malínis",
+     "malilínis"
     ],
     [
-     "malaki",
-     "malalaki"
+     "malakí",
+     "malalakí"
     ],
     [
-     "malinis",
-     "malilinis"
+     "marúnong",
+     "marurúnong"
     ]
    ]
   },
@@ -1309,30 +1679,30 @@
    "q": "Match each word to its opposite.",
    "pairs": [
     [
-     "mainit",
-     "malamig"
+     "maínit",
+     "malamíg"
     ],
     [
-     "bago",
-     "luma"
+     "bágo",
+     "lumà"
     ],
     [
-     "mataas",
-     "mababa"
+     "mataás",
+     "mababà"
     ],
     [
-     "mura",
-     "mahal"
+     "múra",
+     "mahál"
     ]
    ]
   }
  ],
  "recap": [
-  "Si (one name) and sina (two or more names) go before people.",
-  "Ang (one) and ang mga (more than one) go before things, animals and places.",
-  "A basic sentence: marker + subject + ay + describing word.",
-  "mga is said ma-NGA and only shows more than one.",
-  "Plural describing words repeat the first syllable of the root: mabait, mababait.",
-  "The plural is optional on either the subject or the describing word."
+  "Si (one person) and siná (two or more persons) go before names of persons.",
+  "Ang (one) and ang mga (two or more) go before things and places. A place always takes ang.",
+  "Basic sentence: article + subject + ay + predicate.",
+  "Mga is said ma-nga and has no meaning on its own.",
+  "Plural adjectives duplicate the first syllable of the root: mabaít, mababaít.",
+  "Either the subject or the predicate may be plural; making both plural is optional."
  ]
 }

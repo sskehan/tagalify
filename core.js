@@ -1,9 +1,9 @@
 'use strict';
 /* Tagalify core: storage, data, audio (recordings > files > speech), rich text and lesson blocks. */
 
-const APP_VERSION = '1.00';
+const APP_VERSION = '1.03';
 const KEY = 'tagalify.v1';
-const DEFAULTS = { newPerDay: 10, direction: 'mixed', sound: true, theme: 'auto', size: 1 };
+const DEFAULTS = { newPerDay: 10, direction: 'mixed', sound: true, theme: 'auto', size: 1, voice: '', rate: 0.9 };
 
 let db = loadDb();
 let course = null;
@@ -17,14 +17,16 @@ function loadDb() {
   try {
     const d = JSON.parse(localStorage.getItem(KEY));
     if (d && typeof d === 'object') {
-      return { cards: d.cards || {}, log: d.log || {}, lessons: d.lessons || {}, settings: { ...DEFAULTS, ...(d.settings || {}) } };
+      return { cards: d.cards || {}, log: d.log || {}, lessons: d.lessons || {}, settings: { ...DEFAULTS, ...(d.settings || {}) }, savedAt: d.savedAt || 0 };
     }
   } catch (e) { /* start fresh */ }
-  return { cards: {}, log: {}, lessons: {}, settings: { ...DEFAULTS } };
+  return { cards: {}, log: {}, lessons: {}, settings: { ...DEFAULTS }, savedAt: 0 };
 }
-function save() {
+function save(quiet) {
+  if (!quiet) db.savedAt = Date.now();
   try { localStorage.setItem(KEY, JSON.stringify(db)); }
   catch (e) { toast('Could not save progress on this device'); }
+  if (!quiet && typeof onSaved === 'function') onSaved();
 }
 const day = () => Math.floor((Date.now() - new Date().getTimezoneOffset() * 60000) / 864e5);
 function logToday() {
@@ -91,6 +93,7 @@ async function loadData() {
   try { ref = await (await fetch('data/reference.json', { cache: 'no-cache' })).json(); } catch (e) { ref = null; }
   try { manifest = await (await fetch('audio/manifest.json', { cache: 'no-cache' })).json(); } catch (e) { manifest = {}; }
 }
+const fold = (t) => String(t).toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
 const lname = (L) => (isNaN(+L.label) ? L.title : 'Lesson ' + L.label);
 const orderedLessons = () => course.lessons.map((m) => lessons.get(m.id)).filter(Boolean);
 
@@ -98,13 +101,14 @@ const orderedLessons = () => course.lessons.map((m) => lessons.get(m.id)).filter
 function lessonStats(id) {
   const L = lessons.get(id);
   const s = lstate(id);
-  const read = L.sections.length ? Math.min(1, s.read.length / L.sections.length) : 1;
+  const readN = s.read.filter((i) => i < L.sections.length).length;
+  const read = L.sections.length ? Math.min(1, readN / L.sections.length) : 1;
   const learnedN = L.vocab.filter((v) => db.cards[v.key]).length;
   const learned = L.vocab.length ? learnedN / L.vocab.length : 1;
   const practice = Math.min(1, (s.best || 0) / 70);
   const pct = 0.4 * read + 0.3 * learned + 0.3 * practice;
   const stars = s.best >= 90 ? 3 : s.best >= 70 ? 2 : s.best > 0 ? 1 : 0;
-  return { read, learned, learnedN, practice, pct, stars, total: L.vocab.length };
+  return { read, readN, learned, learnedN, practice, pct, stars, total: L.vocab.length };
 }
 function overall() {
   const ls = orderedLessons();
@@ -173,18 +177,24 @@ function playUrl(url, rateX) {
     a.play().catch(() => res(false));
   });
 }
+const isFil = (v) => /^(fil|tl)/i.test(v.lang);
+function filVoices() {
+  if (!('speechSynthesis' in window)) return [];
+  return speechSynthesis.getVoices().filter(isFil);
+}
 function pickVoice() {
   if (!('speechSynthesis' in window)) return null;
   const vs = speechSynthesis.getVoices();
-  return vs.find((v) => /^fil/i.test(v.lang)) || vs.find((v) => /^tl/i.test(v.lang)) || null;
+  const chosen = db.settings.voice && vs.find((v) => v.voiceURI === db.settings.voice);
+  return chosen || vs.find((v) => /^fil/i.test(v.lang)) || vs.find((v) => /^tl/i.test(v.lang)) || null;
 }
 function tts(text, slow) {
   return new Promise((res) => {
     if (!('speechSynthesis' in window)) { toast('No speech voice on this device'); res(false); return; }
-    const u = new SpeechSynthesisUtterance(text.replace(/ʔ/g, ''));
+    const u = new SpeechSynthesisUtterance(text);
     const v = pickVoice();
     if (v) { u.voice = v; u.lang = v.lang; } else u.lang = 'fil-PH';
-    u.rate = slow ? 0.6 : 0.9;
+    u.rate = slow ? Math.max(0.4, (db.settings.rate || 0.9) - 0.3) : (db.settings.rate || 0.9);
     u.onend = () => res(true);
     u.onerror = () => res(false);
     speechSynthesis.speak(u);
@@ -211,15 +221,15 @@ async function say(text, slow) {
 
 /* ---------- rich text ---------- */
 const ROLE_INFO = {
-  marker: ['Marker', 'Small word that points to a noun: ang, si, sa, ni, ng'],
+  marker: ['Marker', 'Article or marker before a noun: ang, si, sa, ni, ng, mga'],
   noun: ['Noun', 'A person, place or thing'],
-  pred: ['Predicate', 'The action or description (the main idea)'],
+  pred: ['Predicate', 'What is said about the subject: an action or description'],
   pron: ['Pronoun', 'I, you, he, we, this, that'],
-  link: ['Linker', 'Glue between words: -ng, -g, na'],
+  link: ['Linker', 'Ligature joining two words: -ng, -g, na'],
   ay: ['Ay', 'Joins a subject to its predicate when the subject comes first'],
   poss: ['Owner word', 'My, your, his, whose it is'],
-  part: ['Polite word', 'Small word like po, ho, opo'],
-  other: ['Other', 'Everything else: and, but, question words'],
+  part: ['Polite word', 'Shows respect or answers: pô, hô, opô, oo'],
+  other: ['Other', 'Everything else: at (and), expressions'],
 };
 function roleOf(r) { return ROLE_INFO[r] ? r : 'other'; }
 function wordSpan(text, role, extra) {
@@ -231,12 +241,13 @@ function wordSpan(text, role, extra) {
 }
 function rich(s) {
   const frag = document.createDocumentFragment();
-  const re = /\*\*(.+?)\*\*|\[\[([^\]|]+)(?:\|([a-z]+))?\]\]/g;
+  const re = /\*\*(.+?)\*\*|\[\[([^\]|]+)(?:\|([a-z]+))?\]\]|\*([^*\s][^*]*?)\*/g;
   let last = 0, m;
   s = String(s);
   while ((m = re.exec(s))) {
     if (m.index > last) frag.append(s.slice(last, m.index));
     if (m[1] !== undefined) frag.append(h('b', {}, m[1]));
+    else if (m[4] !== undefined) frag.append(h('i', {}, m[4]));
     else frag.append(wordSpan(m[2], m[3] || 'other'));
     last = re.lastIndex;
   }
@@ -312,11 +323,13 @@ function openWord(key) {
   const v = words.get(key);
   if (!v) return;
   closeSheet();
+  history.pushState({ sheet: 1 }, '');
   const card = db.cards[key];
   const L = lessons.get(v.lesson);
-  const sheet = h('div', { class: 'sheet-bg', id: 'sheet', onclick: (e) => { if (e.target.id === 'sheet') closeSheet(); } },
+  const sheet = h('div', { class: 'sheet-bg', id: 'sheet', onclick: (e) => { if (e.target.id === 'sheet') history.back(); } },
     h('div', { class: 'sheet' },
       h('div', { class: 'grab' }),
+      h('img', { class: 'sheet-logo', src: 'icon-192.png', alt: '', width: 36, height: 36 }),
       h('div', { class: 'sw-tl' }, v.tl),
       db.settings.sound && v.say ? h('div', { class: 'sw-say' }, 'Say it: ' + v.say) : null,
       h('div', { class: 'sw-en' }, v.en),
@@ -326,7 +339,7 @@ function openWord(key) {
         h('button', { class: 'btn', onclick: () => say(v.tl) }, '\u{1F50A} Hear it'),
         h('button', { class: 'btn ghost', onclick: () => say(v.tl, true) }, '\u{1F40C} Slowly')),
       h('div', { class: 'sw-st' }, card ? 'In your review deck. Next review ' + (card.due <= day() ? 'today' : 'in ' + (card.due - day()) + ' day(s)') + '.' : 'Not learned yet. Learn it in the Words step of ' + lname(L) + '.'),
-      h('button', { class: 'btn ghost block', onclick: closeSheet }, 'Close')));
+      h('button', { class: 'btn ghost block', onclick: () => history.back() }, 'Close')));
   document.body.append(sheet);
 }
 function closeSheet() { const s = document.getElementById('sheet'); if (s) s.remove(); }

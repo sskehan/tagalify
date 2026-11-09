@@ -142,7 +142,7 @@ def main():
         for lid in u["lessons"]:
             if lid not in by:
                 errors.append(f"unit lesson {lid} missing")
-    index = {"app": "Tagalify", "version": "1.00", "units": [], "lessons": []}
+    index = {"app": "Tagalify", "version": "1.03", "units": [], "lessons": []}
     for u in units:
         index["units"].append({"id": u["id"], "title": u["title"], "lessons": u["lessons"]})
     for L in lessons:

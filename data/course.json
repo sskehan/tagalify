@@ -1,6 +1,6 @@
 {
  "app": "Tagalify",
- "version": "1.00",
+ "version": "1.03",
  "units": [
   {
    "id": "start",
@@ -45,18 +45,18 @@
    "summary": "The big ideas, explained in plain English before any rules",
    "minutes": 20,
    "file": "data/lessons/primer.json",
-   "words": 9,
+   "words": 3,
    "exercises": 14
   },
   {
    "id": "background",
    "label": "Intro",
    "title": "Tagalog and the Filipino people",
-   "summary": "Where the language comes from, and the culture behind it",
+   "summary": "Where the language comes from, how it became the national language, and the people who speak it",
    "minutes": 10,
    "file": "data/lessons/background.json",
-   "words": 5,
-   "exercises": 9
+   "words": 6,
+   "exercises": 11
   },
   {
    "id": "l01",
@@ -65,8 +65,8 @@
    "summary": "Letters, vowels, the ng and r sounds, and how borrowed words are spelled",
    "minutes": 25,
    "file": "data/lessons/l01.json",
-   "words": 45,
-   "exercises": 15
+   "words": 55,
+   "exercises": 17
   },
   {
    "id": "l02",
@@ -75,68 +75,68 @@
    "summary": "How to break words into beats, and why the stressed syllable matters",
    "minutes": 25,
    "file": "data/lessons/l02.json",
-   "words": 19,
-   "exercises": 18
+   "words": 24,
+   "exercises": 23
   },
   {
    "id": "l03",
    "label": "3",
    "title": "Greetings and common expressions",
-   "summary": "Po and opo, greetings through the day, how are you, excuse me, and everyday phrases",
+   "summary": "Pô and opô, greetings through the day, how are you, five ways to say excuse me, and everyday expressions",
    "minutes": 30,
    "file": "data/lessons/l03.json",
-   "words": 56,
-   "exercises": 23
+   "words": 64,
+   "exercises": 33
   },
   {
    "id": "l04",
    "label": "4",
-   "title": "The markers si and ang",
-   "summary": "How to mark who or what a sentence is about, and how to show more than one",
+   "title": "The articles si and ang",
+   "summary": "The little words that go before the subject, and how to show more than one",
    "minutes": 30,
    "file": "data/lessons/l04.json",
-   "words": 34,
-   "exercises": 24
+   "words": 35,
+   "exercises": 27
   },
   {
    "id": "l05",
    "label": "5",
    "title": "Sentence formation",
-   "summary": "The two sentence orders, and how to flip one into the other",
+   "summary": "The two basic word orders, and how to turn one into the other",
    "minutes": 25,
    "file": "data/lessons/l05.json",
-   "words": 6,
-   "exercises": 20
+   "words": 4,
+   "exercises": 23
   },
   {
    "id": "l06",
    "label": "6",
-   "title": "Pronouns and this/that",
-   "summary": "I, you, he, she, we, they, and the three words for this and that",
-   "minutes": 30,
+   "title": "Personal and demonstrative pronouns",
+   "summary": "I, we, you, he, she, they, and this and that",
+   "minutes": 35,
    "file": "data/lessons/l06.json",
-   "words": 21,
-   "exercises": 25
+   "words": 19,
+   "exercises": 27
   },
   {
    "id": "l07",
    "label": "7",
-   "title": "Linkers: -ng, -g and na",
-   "summary": "The glue that joins describing words, nouns and other words that belong together",
-   "minutes": 30,
+   "title": "Words that link and describe",
+   "summary": "The ligatures -ng, -g and na that join two words when one describes the other",
+   "minutes": 35,
    "file": "data/lessons/l07.json",
    "words": 34,
-   "exercises": 26
+   "exercises": 28
   },
   {
    "id": "l08",
    "label": "8",
-   "title": "Possession: ng, ni and my, your, his",
-   "summary": "How to say whose something is, with names, nouns and pronouns",
+   "title": "Words that show possession",
+   "summary": "Ni and ng, the possessive pronouns (ákin, ko…), and nitó, niyán, niyón",
    "minutes": 35,
    "file": "data/lessons/l08.json",
-   "words": 27,
-   "exercises": 28
+   "words": 26,
+   "exercises": 29
   }
  ]
 }

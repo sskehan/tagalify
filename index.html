@@ -3,16 +3,16 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="theme-color" content="#1f5fbf">
+<meta name="theme-color" content="#12286e">
 <meta name="description" content="Tagalify: a complete, offline study guide for learning Tagalog.">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon-192.png">
-<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
 <title>Tagalify</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<main id="view" aria-live="polite"></main>
+<main id="view" aria-live="polite"><div class="splash"><img src="logo.png" alt="Tagalify" width="160" height="160"><p>Loading…</p></div></main>
 <nav id="nav" aria-label="Main">
   <button data-tab="home" class="active"><i>&#127968;</i>Home</button>
   <button data-tab="course"><i>&#128218;</i>Course</button>
@@ -22,6 +22,7 @@
 </nav>
 <div id="toast" role="status"></div>
 <script src="core.js"></script>
+<script src="sync.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

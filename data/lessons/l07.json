@@ -1,57 +1,53 @@
 {
  "id": "l07",
  "label": "7",
- "title": "Linkers: -ng, -g and na",
- "summary": "The glue that joins describing words, nouns and other words that belong together",
- "minutes": 30,
+ "title": "Words that link and describe",
+ "summary": "The ligatures -ng, -g and na that join two words when one describes the other",
+ "minutes": 35,
  "goals": [
-  "Choose the right linker: -ng, -g or na",
+  "Choose the right ligature: -ng, -g or na",
   "Join an adjective and a noun in either order",
-  "Recognise the common word pairs that need a linker",
-  "Know the main cases where no linker is used",
-  "Repeat an adjective for emphasis"
+  "Recognise the other word sequences that need a ligature",
+  "Know the exceptions where no ligature is used",
+  "Repeat a word for emphasis"
  ],
  "sections": [
   {
-   "title": "What a linker does",
+   "title": "What a ligature does",
    "blocks": [
     {
      "type": "p",
-     "t": "A **linker** (also called a ligature) is a small piece of glue that joins two neighbouring words when one describes or modifies the other. It has no meaning of its own. It just tells the listener that the two words go together."
+     "t": "A special feature of Tagalog is the use of **connectives** or **ligatures** to \"link together\" two words that sit side by side."
     },
     {
      "type": "p",
-     "t": "Tagalog has three linkers. Which one you use depends **only on the last letter of the first word**."
+     "t": "The ligatures have **no meaning of their own**. They only show that the two words are closely related and that, generally, **one modifies the other**."
     },
     {
      "type": "table",
      "head": [
       "The first word ends in…",
-      "Use",
-      "How it looks",
-      "Example"
+      "Ligature",
+      "How it is added"
      ],
      "rows": [
       [
-       "a vowel (a, e, i, o, u)",
+       "a vowel",
        "[[-ng|link]]",
-       "added to the end of the word",
-       "malaki + ng + bahay = [[malaking bahay|noun]]"
+       "attached as a suffix to the end of the first word"
       ],
       [
        "the consonant **n**",
        "[[-g|link]]",
-       "just g added after the n",
-       "mayaman + g + lalaki = [[mayamang lalaki|noun]]"
+       "attached as a suffix to the end of the first word"
       ],
       [
-       "any other consonant",
+       "a consonant other than n",
        "[[na|link]]",
-       "a separate small word between the two",
-       "mabait + na + bata = [[mabait na bata|noun]]"
+       "a separate word placed between the two words"
       ]
      ],
-     "title": "Choosing the linker"
+     "title": "The three ligatures"
     },
     {
      "type": "pattern",
@@ -61,7 +57,7 @@
        "label": "After a vowel",
        "chips": [
         {
-         "t": "malaki",
+         "t": "malakí",
          "r": "pred"
         },
         {
@@ -69,7 +65,7 @@
          "r": "link"
         },
         {
-         "t": "bahay",
+         "t": "báhay",
          "r": "noun"
         }
        ]
@@ -78,7 +74,7 @@
        "label": "After n",
        "chips": [
         {
-         "t": "mayaman",
+         "t": "mayáman",
          "r": "pred"
         },
         {
@@ -86,7 +82,7 @@
          "r": "link"
         },
         {
-         "t": "lalaki",
+         "t": "laláki",
          "r": "noun"
         }
        ]
@@ -95,7 +91,7 @@
        "label": "After another consonant",
        "chips": [
         {
-         "t": "mabait",
+         "t": "maásim",
          "r": "pred"
         },
         {
@@ -103,275 +99,420 @@
          "r": "link"
         },
         {
-         "t": "bata",
+         "t": "manggà",
          "r": "noun"
         }
        ]
       }
      ],
-     "note": "Whether the first word is the describing word or the noun, the first word always carries the linker."
-    },
-    {
-     "type": "box",
-     "kind": "remember",
-     "title": "Remember",
-     "items": [
-      "Look at the **first** word. Its last letter decides the linker.",
-      "-ng after a vowel, -g after n, na after any other consonant.",
-      "The -g and the -ng are spelled the same way in the finished word: mayamang, malaking."
-     ]
+     "note": "The ligature always comes after the first word."
     }
    ]
   },
   {
-   "title": "Either order, same linker rule",
+   "title": "The rules with examples",
    "blocks": [
     {
-     "type": "p",
-     "t": "In Tagalog you can put the describing word before or after the noun. The meaning is the same. The rule for the linker stays the same: it goes after the first word."
-    },
-    {
-     "type": "table",
-     "head": [
-      "Describing word first",
-      "Noun first",
-      "Meaning"
-     ],
-     "rows": [
-      [
-       "[[magandang bahay|noun]]",
-       "[[bahay na maganda|noun]]",
-       "a beautiful house"
-      ],
-      [
-       "[[matabang lalaki|noun]]",
-       "[[lalaking mataba|noun]]",
-       "a fat man"
-      ],
-      [
-       "[[mayamang lalaki|noun]]",
-       "[[lalaking mayaman|noun]]",
-       "a rich man"
-      ],
-      [
-       "[[batang babae|noun]]",
-       "[[babaeng bata|noun]]",
-       "a young girl"
-      ],
-      [
-       "[[hanging malamig|noun]]",
-       "[[malamig na hangin|noun]]",
-       "a cold wind"
-      ]
-     ],
-     "title": "Two orders"
-    },
-    {
-     "type": "box",
-     "kind": "tip",
-     "title": "Look at the endings",
-     "t": "Take **hangin** (wind) and **malamig** (cold). If hangin is first, it ends in n, so use -g: **hanging malamig**. If malamig is first, it ends in g, a consonant other than n, so use na: **malamig na hangin**. The first word always decides."
+     "type": "h",
+     "t": "1. -ng after a vowel"
     },
     {
      "type": "examples",
      "items": [
       {
-       "tl": "Mabait na bata si Ana.",
-       "en": "Ana is a kind child.",
+       "tl": "Ang malakíng báhay ay isáng páaralan.",
+       "en": "The big house is a school.",
        "parts": [
         [
-         "Mabait",
-         "kind",
-         "pred"
-        ],
-        [
-         "na",
-         "linker",
-         "link"
-        ],
-        [
-         "bata",
-         "child",
-         "noun"
-        ],
-        [
-         "si",
-         "marks a name",
+         "Ang",
+         "article",
          "marker"
         ],
         [
-         "Ana",
-         "Ana",
+         "malakíng",
+         "big +ng",
+         "pred"
+        ],
+        [
+         "báhay",
+         "house",
          "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "isáng",
+         "a, one",
+         "other"
+        ],
+        [
+         "páaralan",
+         "school",
+         "pred"
         ]
        ]
       },
       {
-       "tl": "Mayamang lalaki si Ben.",
-       "en": "Ben is a rich man.",
+       "tl": "Marunong ang bátang mabaít.",
+       "en": "The good child is intelligent.",
        "parts": [
         [
-         "Mayaman",
-         "rich",
+         "Marunong",
+         "intelligent",
          "pred"
         ],
         [
-         "g",
-         "linker",
-         "link"
+         "ang",
+         "article",
+         "marker"
         ],
         [
-         "lalaki",
+         "bátang",
+         "child +ng",
+         "noun"
+        ],
+        [
+         "mabaít",
+         "good",
+         "pred"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "t": "**malaki + -ng + bahay** = big house. **batà + -ng + mabaít** = good child."
+    },
+    {
+     "type": "h",
+     "t": "2. -g after n"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ang mayámang laláki ay mapagbigáy.",
+       "en": "The rich man is generous.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "mayámang",
+         "rich +g",
+         "pred"
+        ],
+        [
+         "laláki",
          "man",
          "noun"
         ],
         [
-         "si",
-         "marks a name",
-         "marker"
+         "ay",
+         "is",
+         "ay"
         ],
         [
-         "Ben",
-         "Ben",
-         "noun"
+         "mapagbigáy",
+         "generous",
+         "pred"
         ]
        ]
       },
       {
-       "tl": "Masarap na pagkain ito.",
-       "en": "This is delicious food.",
+       "tl": "Ang hánging malakás ay malamíg.",
+       "en": "The strong wind is cold.",
        "parts": [
         [
-         "Masarap",
-         "delicious",
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "hánging",
+         "wind +g",
+         "noun"
+        ],
+        [
+         "malakás",
+         "strong",
+         "pred"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "malamíg",
+         "cold",
+         "pred"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "t": "**mayáman + -g + laláki** = rich man. **hángin + -g + malakás** = strong wind (literally wind strong)."
+    },
+    {
+     "type": "h",
+     "t": "3. na after other consonants"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Kumáin siyá ng maásim na manggà.",
+       "en": "He/She ate a sour mango.",
+       "parts": [
+        [
+         "Kumáin",
+         "ate",
+         "pred"
+        ],
+        [
+         "siyá",
+         "he/she",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "maásim",
+         "sour",
          "pred"
         ],
         [
          "na",
-         "linker",
+         "ligature",
          "link"
         ],
         [
-         "pagkain",
-         "food",
+         "manggà",
+         "mango",
          "noun"
-        ],
-        [
-         "ito",
-         "this",
-         "pron"
         ]
        ]
       },
       {
-       "tl": "Bagong damit iyon.",
-       "en": "That is a new dress.",
+       "tl": "Magandá ang tahímik na batà.",
+       "en": "The quiet child is beautiful.",
        "parts": [
         [
-         "Bago",
-         "new",
+         "Magandá",
+         "beautiful",
          "pred"
         ],
         [
-         "ng",
-         "linker",
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "tahímik",
+         "quiet",
+         "pred"
+        ],
+        [
+         "na",
+         "ligature",
          "link"
         ],
         [
-         "damit",
-         "clothes, dress",
+         "batà",
+         "child",
          "noun"
-        ],
-        [
-         "iyon",
-         "that, far away",
-         "pron"
         ]
        ]
       }
-     ],
-     "title": "Linkers in sentences"
+     ]
+    },
+    {
+     "type": "p",
+     "t": "**maásim + na + manggà** = sour mango. **tahímik + na + batà** = quiet child."
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "Several adjectives",
+     "t": "In a series of more than one adjective before a noun, **only the last adjective** has a ligature: **mabaít at masunúring áso**."
     }
    ]
   },
   {
-   "title": "Word pairs that need a linker",
+   "title": "Either order, same rule",
    "blocks": [
     {
      "type": "p",
-     "t": "Linkers are not only for adjective and noun. Whenever two words belong together and one modifies the other, you link them. These are the most common pairs."
+     "t": "Changing the order of nouns, adjectives, verbs and adverbs **does not change the meaning**, and the ligature **still comes after the first word**, following the same rules."
     },
     {
      "type": "table",
      "head": [
-      "Pair",
+      "One order",
+      "The other order",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[batàng babáe|noun]]",
+       "[[babáeng batà|noun]]",
+       "young girl"
+      ],
+      [
+       "[[matabáng lalakí|noun]]",
+       "[[lalakíng matabá|noun]]",
+       "fat man"
+      ],
+      [
+       "[[íbong lumílipad|noun]]",
+       "[[lumílipad na íbon|noun]]",
+       "flying bird"
+      ],
+      [
+       "[[pagód na dumatíng|pred]]",
+       "[[dumatíng na pagód|pred]]",
+       "arrived tired"
+      ],
+      [
+       "[[kumáing mabilís|pred]]",
+       "[[mabilís na kumáin|pred]]",
+       "ate quickly"
+      ],
+      [
+       "[[matagál na pag-aáway|noun]]",
+       "[[pag-aáway na matagál|noun]]",
+       "long feud"
+      ],
+      [
+       "[[mahál na totoó|pred]]",
+       "[[totoóng mahál|pred]]",
+       "truly expensive"
+      ]
+     ],
+     "title": "Swap the order, keep the meaning"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Look at the first word",
+     "t": "Take **hángin** (wind) and **malakás** (strong). If hángin comes first, it ends in n, so add -g: **hánging malakás**. If malakás comes first, it ends in s, so use na: malakás na hángin. The first word always decides."
+    }
+   ]
+  },
+  {
+   "title": "Other word sequences that need ligatures",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Ligatures are not only for adjective + noun. These sequences also use them:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Sequence",
       "Example",
       "Meaning"
      ],
      "rows": [
       [
-       "Adjective + noun",
-       "[[malaking bahay|noun]]",
-       "a big house"
+       "1. Noun + noun",
+       "Ang **batàng babáe** ay natúlog. / Ang lólo ko ay **matandàng laláki**.",
+       "The young girl slept. / My grandfather is an old man."
       ],
       [
-       "Noun + noun",
-       "[[batang babae|noun]]",
-       "a young girl (child woman)"
+       "2. Noun + verb (or verb + noun)",
+       "Ang **íbong lumílipad** ay binaríl. / Ang **lumílipad na íbon** ay binaríl.",
+       "The flying bird was shot."
       ],
       [
-       "Noun + adjective",
-       "[[bahay na maganda|noun]]",
-       "a beautiful house"
+       "3. Adjective + verb (or verb + adjective)",
+       "**Pagód na dumatíng** si tátay sa báhay. / **Dumatíng na pagód** si tátay sa báhay.",
+       "My father arrived home tired."
       ],
       [
-       "Adverb + verb",
-       "[[mabilis na kumain|pred]]",
-       "ate quickly"
+       "4. Verb + adverb (or adverb + verb)",
+       "**Kumáing mabilís** si Pablo. / **Mabilís na kumáin** si Pablo.",
+       "Pablo ate quickly."
       ],
       [
-       "Verb + adverb",
-       "[[kumaing mabilis|pred]]",
-       "ate quickly"
+       "5. Noun + adverb (or adverb + noun)",
+       "Iwásan ang **pag-aáway na matagál**. / Iwásan ang **matagál na pag-aáway**.",
+       "Avoid the long feud."
       ],
       [
-       "Adjective + verb",
-       "[[pagod na dumating|pred]]",
-       "arrived tired"
+       "6. Adjective + adverb (or adverb + adjective)",
+       "**Mahál na totoó** ang reló mo. / **Totoóng mahál** ang reló mo.",
+       "Your watch is truly expensive."
       ],
       [
-       "Adverb + adjective",
-       "[[totoong mahal|pred]]",
-       "truly expensive"
+       "7. Conjunction + adverb",
+       "**Samantálang walâ**, mágtiis táyo. / **Sakáling dúmating**, paghintayín ang mensahéro.",
+       "While [we have] none, let us be patient. / If he/she comes, make the messenger wait."
       ],
       [
-       "Adjective + adjective (emphasis)",
-       "[[malinaw na malinaw|pred]]",
-       "very clear"
+       "8. Verb + verb",
+       "**Hinayáang umalís** ang batà. / **Namatáy na lumalában** ang sundálo.",
+       "The child was allowed to leave. / The soldier died fighting."
+      ],
+      [
+       "9. Adverb + adverb, repeated for emphasis",
+       "**Gabíng-gabí** na siyá umuwî. / **Búkas na búkas** talaga ay bábalik ako.",
+       "He/She came home very late. / I shall certainly return tomorrow."
+      ],
+      [
+       "10. Adjective + adjective, repeated as a superlative",
+       "**Malínaw na malínaw** ang útos niya. / **Mabaít na mabaít** ang gurò ko.",
+       "His/her command is very clear. / My teacher is very kind."
+      ],
+      [
+       "11. Noun + pronoun (or pronoun + noun)",
+       "Ang **báhay na iyán** ay ákin. / Itó ang **áking lúpa**.",
+       "That house is mine. / This is my land."
+      ],
+      [
+       "12. Pronoun + adjective (or adjective + pronoun)",
+       "**Ikáw na marúnong** ay magsalitâ. / Ang **hangál na itó** ay umíiyak.",
+       "You who are learned should speak. / This fool is crying."
+      ],
+      [
+       "13. Verb + pronoun (or pronoun + verb)",
+       "**Tatawáging anó** ang batà? / Táyong **kaniláng inapí** ay natúto.",
+       "By what name shall the child be called? / We, whom they maltreated, learned."
+      ],
+      [
+       "14. Pronoun + pronoun",
+       "Kinúha nínyo **yaóng amín**. / **Táyong kaniláng** inapí ay natúto.",
+       "You took that which is ours. / We, whom they maltreated, learned."
       ]
      ],
-     "title": "Common pairs"
+     "title": "Sequences with ligatures"
     },
     {
      "type": "box",
      "kind": "english",
-     "title": "A way to think about it",
-     "t": "Listen for the little pause between two linked words. In English the pause is silent (\"big house\"). In Tagalog the linker fills it, like a bridge between the words."
-    },
-    {
-     "type": "box",
-     "kind": "tip",
-     "title": "Don't worry about every pair",
-     "t": "The verbs in these examples (kumain, dumating) change shape in later lessons. For now, just notice that the linker follows the same rule everywhere."
+     "title": "Don't worry about the verbs",
+     "t": "Many verbs here (dumatíng, kumáin, lumílipad) change form in later lessons. For now, just notice that the ligature follows the same rule every time."
     }
    ]
   },
   {
-   "title": "When there is no linker",
+   "title": "When there is no ligature",
    "blocks": [
     {
      "type": "p",
-     "t": "There are a few well-known cases where two neighbouring words are **not** linked."
+     "t": "Some sequences do **not** take a ligature:"
     },
     {
      "type": "table",
@@ -382,263 +523,121 @@
      ],
      "rows": [
       [
-       "The word **kung** (if)",
-       "Kung wala pa ako, mauna na kayo.",
-       "If I am not here yet, go ahead."
+       "The conjunction **kung** (if)",
+       "Kung walâ pa ako, máuna na kayó.",
+       "If I am not around yet, you may go ahead."
       ],
       [
-       "A subject pronoun after a predicate",
-       "[[Marunong ka.|pred]], [[Mabait kayo.|pred]]",
-       "You are clever. You (plural) are kind."
+       "Verb + verb that makes an adjectival expression",
+       "Mamatáy-mabúhay ang reló ko.",
+       "My watch stops periodically. (literally: dies and lives)"
       ],
       [
-       "A possessive word after a noun",
-       "[[aklat ko|noun]], [[bahay namin|noun]]",
-       "my book, our house"
+       "Helping verb + main verb",
+       "Áyaw kumáin ng máysakit.",
+       "The sick person does not want to eat."
       ],
       [
-       "Most verb + pronoun pairs",
-       "[[Liligaya tayo.|pred]]",
-       "We shall be happy."
+       "Noun + possessive pronoun (ko, námin, nila…)",
+       "aklát ko, báhay námin, lúpa nila",
+       "my book, our house, their land"
+      ],
+      [
+       "Adjective + nominative pronoun (ka, kayó…)",
+       "Marúnong ka. / Mababaít kayó.",
+       "You are intelligent (or learned). / You (plural) are kind."
+      ],
+      [
+       "Most verb + pronoun combinations",
+       "Liligáya táyo. / Kinúha ko itó.",
+       "We shall be happy. / I took this."
+      ],
+      [
+       "Pronouns in the subjunctive mood",
+       "Kung akó [ay] íkaw, áalis áko.",
+       "If I were you, I will leave."
+      ],
+      [
+       "Two pronouns that form a complete sentence",
+       "Kaniyá itó.",
+       "This is his/hers."
       ]
      ],
-     "title": "No linker needed"
+     "title": "Exceptions"
     },
     {
-     "type": "h",
-     "t": "Several adjectives in a row"
-    },
+     "type": "box",
+     "kind": "remember",
+     "title": "The pattern behind the exceptions",
+     "t": "Generally, the exceptions contain either a **possessive pronoun after a noun** (ko, mo, niyá, námin, nátin, ninyó, nilá) or a **nominative pronoun** that changes form in an inverted sentence (ka, kayó, kamí, táyo, siyá, silá)."
+    }
+   ]
+  },
+  {
+   "title": "Practise with the word lists",
+   "blocks": [
     {
      "type": "p",
-     "t": "When two or more adjectives come before a noun, only the **last** adjective takes the linker."
+     "t": "Use the nouns and modifiers below. Join a modifier and a noun with the correct ligature, in **both orders**. Then use the pair in an inverted sentence (no ay), for example **Magandá ang tahímik na batà**."
     },
     {
-     "type": "examples",
-     "items": [
-      {
-       "tl": "Mabait at matalinong bata si Ana.",
-       "en": "Ana is a kind and intelligent child.",
-       "parts": [
-        [
-         "Mabait",
-         "kind",
-         "pred"
-        ],
-        [
-         "at",
-         "and",
-         "other"
-        ],
-        [
-         "matalino",
-         "intelligent",
-         "pred"
-        ],
-        [
-         "ng",
-         "linker",
-         "link"
-        ],
-        [
-         "bata",
-         "child",
-         "noun"
-        ],
-        [
-         "si",
-         "marks a name",
-         "marker"
-        ],
-        [
-         "Ana",
-         "Ana",
-         "noun"
-        ]
-       ]
-      }
-     ]
+     "type": "table",
+     "head": [
+      "English",
+      "Modifier first",
+      "Noun first"
+     ],
+     "rows": [
+      [
+       "rich man",
+       "[[mayámang laláki|noun]]  (mayáman + -g + laláki)",
+       "[[laláking mayáman|noun]]  (laláki + -ng + mayáman)"
+      ],
+      [
+       "fresh fish",
+       "[[sariwang isda|noun]]",
+       "[[isdang sariwa|noun]]"
+      ],
+      [
+       "quiet child",
+       "[[tahímik na batà|noun]]",
+       "[[batang tahimik|noun]]"
+      ],
+      [
+       "dirty water",
+       "[[maruming tubig|noun]]",
+       "[[tubig na marumi|noun]]"
+      ],
+      [
+       "noisy Manila",
+       "[[maingay na Maynila|noun]]",
+       "[[Maynilang maingay|noun]]"
+      ]
+     ],
+     "title": "Two ways each",
+     "note": "Phrases you build yourself are written here without accent marks."
+    },
+    {
+     "type": "vocab",
+     "group": "nouns",
+     "title": "Nouns"
+    },
+    {
+     "type": "vocab",
+     "group": "mods",
+     "title": "Modifiers"
     },
     {
      "type": "box",
      "kind": "remember",
      "title": "Remember",
      "items": [
-      "Kung needs no linker.",
-      "A subject pronoun straight after the predicate is not linked.",
-      "A possessive word after a noun is not linked.",
-      "With several adjectives, only the last one takes the linker."
+      "-ng after a vowel, -g after n, na after any other consonant.",
+      "The ligature goes after the FIRST word, whatever the order.",
+      "Only the last of several adjectives takes a ligature.",
+      "Repeat an adjective or adverb with a ligature for emphasis: malínaw na malínaw.",
+      "No ligature after kung, or with a possessive pronoun after a noun, or with ka and kayó after an adjective."
      ]
-    }
-   ]
-  },
-  {
-   "title": "Repeating for emphasis",
-   "blocks": [
-    {
-     "type": "p",
-     "t": "To say \"very\", Tagalog often repeats the describing word and links the two copies with **na**."
-    },
-    {
-     "type": "table",
-     "head": [
-      "Normal",
-      "Emphatic",
-      "Meaning"
-     ],
-     "rows": [
-      [
-       "[[mabait|pred]]",
-       "[[mabait na mabait|pred]]",
-       "very kind"
-      ],
-      [
-       "[[malinaw|pred]]",
-       "[[malinaw na malinaw|pred]]",
-       "very clear"
-      ],
-      [
-       "[[masarap|pred]]",
-       "[[masarap na masarap|pred]]",
-       "extremely delicious"
-      ]
-     ],
-     "title": "Repeat and link with na"
-    },
-    {
-     "type": "examples",
-     "items": [
-      {
-       "tl": "Malinaw na malinaw ang utos.",
-       "en": "The instruction is very clear.",
-       "parts": [
-        [
-         "Malinaw",
-         "clear",
-         "pred"
-        ],
-        [
-         "na",
-         "linker",
-         "link"
-        ],
-        [
-         "malinaw",
-         "clear",
-         "pred"
-        ],
-        [
-         "ang",
-         "the",
-         "marker"
-        ],
-        [
-         "utos",
-         "command, instruction",
-         "noun"
-        ]
-       ]
-      },
-      {
-       "tl": "Masarap na masarap ang pagkain.",
-       "en": "The food is extremely delicious.",
-       "parts": [
-        [
-         "Masarap",
-         "delicious",
-         "pred"
-        ],
-        [
-         "na",
-         "linker",
-         "link"
-        ],
-        [
-         "masarap",
-         "delicious",
-         "pred"
-        ],
-        [
-         "ang",
-         "the",
-         "marker"
-        ],
-        [
-         "pagkain",
-         "food",
-         "noun"
-        ]
-       ]
-      }
-     ]
-    },
-    {
-     "type": "box",
-     "kind": "tip",
-     "title": "Practice",
-     "items": [
-      "Join each pair out loud and decide on the linker before you say it.",
-      "Try both orders and notice that the linker moves with the first word."
-     ]
-    },
-    {
-     "type": "table",
-     "head": [
-      "Describing word",
-      "Noun",
-      "Result",
-      "Meaning"
-     ],
-     "rows": [
-      [
-       "sariwa (fresh)",
-       "isda",
-       "[[sariwang isda|noun]]",
-       "fresh fish"
-      ],
-      [
-       "bago (new)",
-       "damit",
-       "[[bagong damit|noun]]",
-       "a new dress"
-      ],
-      [
-       "mayaman (rich)",
-       "lalaki",
-       "[[mayamang lalaki|noun]]",
-       "a rich man"
-      ],
-      [
-       "malakas (strong)",
-       "hangin",
-       "[[malakas na hangin|noun]]",
-       "a strong wind"
-      ],
-      [
-       "tahimik (quiet)",
-       "bata",
-       "[[tahimik na bata|noun]]",
-       "a quiet child"
-      ],
-      [
-       "matamis (sweet)",
-       "kape",
-       "[[matamis na kape|noun]]",
-       "sweet coffee"
-      ],
-      [
-       "maingay (noisy)",
-       "lungsod",
-       "[[maingay na lungsod|noun]]",
-       "a noisy city"
-      ],
-      [
-       "maitim (black)",
-       "pusa",
-       "[[maitim na pusa|noun]]",
-       "a black cat"
-      ]
-     ],
-     "title": "Word recipes to practise"
     }
    ]
   }
@@ -646,207 +645,95 @@
  "vocab": [
   {
    "id": "mapagbigay",
-   "tl": "mapagbigay",
+   "tl": "mapagbigáy",
    "en": "generous",
    "pos": "adj",
-   "group": "adjs",
+   "group": "lesson",
    "say": "ma-pag-bi-GAY"
   },
   {
    "id": "hangal",
-   "tl": "hangal",
-   "en": "foolish",
-   "pos": "adj",
-   "group": "adjs",
+   "tl": "hangál",
+   "en": "fool",
+   "pos": "noun",
+   "group": "lesson",
    "say": "ha-NGAL"
   },
   {
    "id": "pagod",
-   "tl": "pagod",
+   "tl": "pagód",
    "en": "tired",
    "pos": "adj",
-   "group": "adjs",
+   "group": "lesson",
    "say": "pa-GOD"
   },
   {
-   "id": "sariwa",
-   "tl": "sariwa",
-   "en": "fresh",
+   "id": "inapi",
+   "tl": "inapí",
+   "en": "maltreated",
    "pos": "adj",
-   "group": "adjs",
-   "say": "sa-RI-waʔ"
+   "group": "lesson",
+   "say": "i-na-PI"
   },
   {
    "id": "maasim",
-   "tl": "maasim",
+   "tl": "maásim",
    "en": "sour",
    "pos": "adj",
-   "group": "adjs",
+   "group": "lesson",
    "say": "ma-A-sim"
   },
   {
+   "id": "tahimik",
+   "tl": "tahímik",
+   "en": "quiet",
+   "pos": "adj",
+   "group": "lesson",
+   "say": "ta-HI-mik"
+  },
+  {
    "id": "malinaw",
-   "tl": "malinaw",
+   "tl": "malínaw",
    "en": "clear",
    "pos": "adj",
-   "group": "adjs",
+   "group": "lesson",
    "say": "ma-LI-naw"
   },
   {
-   "id": "matapang",
-   "tl": "matapang",
-   "en": "brave",
-   "pos": "adj",
-   "group": "adjs",
-   "say": "ma-TA-pang"
-  },
-  {
-   "id": "mayaman",
-   "tl": "mayaman",
-   "en": "rich",
-   "pos": "adj",
-   "group": "adjs",
-   "say": "ma-YA-man"
-  },
-  {
-   "id": "malakas",
-   "tl": "malakas",
-   "en": "strong",
-   "pos": "adj",
-   "group": "adjs",
-   "say": "ma-la-KAS"
-  },
-  {
-   "id": "mabilis",
-   "tl": "mabilis",
-   "en": "fast, quick",
-   "pos": "adj",
-   "group": "adjs",
-   "say": "ma-bi-LIS"
-  },
-  {
-   "id": "marumi",
-   "tl": "marumi",
-   "en": "dirty",
-   "pos": "adj",
-   "group": "adjs",
-   "say": "ma-ru-MI"
-  },
-  {
-   "id": "madilim",
-   "tl": "madilim",
-   "en": "dark",
-   "pos": "adj",
-   "group": "adjs",
-   "say": "ma-di-LIM"
-  },
-  {
-   "id": "mahusay",
-   "tl": "mahusay",
-   "en": "skilled, efficient",
-   "pos": "adj",
-   "group": "adjs",
-   "say": "ma-HU-say"
-  },
-  {
-   "id": "payat",
-   "tl": "payat",
-   "en": "thin",
-   "pos": "adj",
-   "group": "adjs",
-   "say": "pa-YAT"
-  },
-  {
-   "id": "maitim",
-   "tl": "maitim",
-   "en": "black, dark-coloured",
-   "pos": "adj",
-   "group": "adjs",
-   "say": "ma-i-TIM"
-  },
-  {
-   "id": "maputi",
-   "tl": "maputi",
-   "en": "white",
-   "pos": "adj",
-   "group": "adjs",
-   "say": "ma-pu-TI"
-  },
-  {
-   "id": "maingay",
-   "tl": "maingay",
-   "en": "noisy",
-   "pos": "adj",
-   "group": "adjs",
-   "say": "ma-I-ngay"
-  },
-  {
-   "id": "tamad",
-   "tl": "tamad",
-   "en": "lazy",
-   "pos": "adj",
-   "group": "adjs",
-   "say": "ta-MAD"
-  },
-  {
-   "id": "matamis",
-   "tl": "matamis",
-   "en": "sweet",
-   "pos": "adj",
-   "group": "adjs",
-   "say": "ma-ta-MIS"
-  },
-  {
-   "id": "matalino",
-   "tl": "matalino",
-   "en": "intelligent",
-   "pos": "adj",
-   "group": "adjs",
-   "say": "ma-ta-LI-no"
-  },
-  {
-   "id": "bundok",
-   "tl": "bundok",
-   "en": "mountain",
-   "pos": "noun",
-   "group": "nouns",
-   "say": "bun-DOK"
-  },
-  {
    "id": "mangga",
-   "tl": "mangga",
+   "tl": "manggà",
    "en": "mango",
    "pos": "noun",
-   "group": "nouns",
-   "say": "mang-GA"
+   "group": "lesson",
+   "say": "MANG-gaQ"
   },
   {
    "id": "binata",
-   "tl": "binata",
-   "en": "young man, bachelor",
+   "tl": "binatà",
+   "en": "bachelor",
    "pos": "noun",
    "group": "nouns",
-   "say": "bi-NA-taʔ"
+   "say": "bi-NA-taQ"
   },
   {
    "id": "dalaga",
-   "tl": "dalaga",
-   "en": "young woman, unmarried woman",
+   "tl": "dalága",
+   "en": "unmarried woman",
    "pos": "noun",
    "group": "nouns",
    "say": "da-LA-ga"
   },
   {
    "id": "damit",
-   "tl": "damit",
-   "en": "clothes, dress",
+   "tl": "damít",
+   "en": "cloth; dress",
    "pos": "noun",
    "group": "nouns",
    "say": "da-MIT"
   },
   {
    "id": "gamot",
-   "tl": "gamot",
+   "tl": "gamót",
    "en": "medicine",
    "pos": "noun",
    "group": "nouns",
@@ -854,23 +741,31 @@
   },
   {
    "id": "gulay",
-   "tl": "gulay",
+   "tl": "gúlay",
    "en": "vegetable",
    "pos": "noun",
    "group": "nouns",
    "say": "GU-lay"
   },
   {
+   "id": "guro-l7",
+   "tl": "gurò",
+   "en": "teacher",
+   "pos": "noun",
+   "group": "nouns",
+   "say": "GU-roQ",
+   "note": "Lesson 6 writes guro"
+  },
+  {
    "id": "ibon",
    "tl": "ibon",
    "en": "bird",
    "pos": "noun",
-   "group": "nouns",
-   "say": "I-bon"
+   "group": "nouns"
   },
   {
    "id": "lamok",
-   "tl": "lamok",
+   "tl": "lamók",
    "en": "mosquito",
    "pos": "noun",
    "group": "nouns",
@@ -878,7 +773,7 @@
   },
   {
    "id": "dagat",
-   "tl": "dagat",
+   "tl": "dágat",
    "en": "sea",
    "pos": "noun",
    "group": "nouns",
@@ -886,305 +781,424 @@
   },
   {
    "id": "langit",
-   "tl": "langit",
+   "tl": "lángit",
    "en": "sky",
    "pos": "noun",
    "group": "nouns",
    "say": "LA-ngit"
   },
   {
+   "id": "bundok",
+   "tl": "bundók",
+   "en": "mountain",
+   "pos": "noun",
+   "group": "nouns",
+   "say": "bun-DOK"
+  },
+  {
    "id": "dahon",
    "tl": "dahon",
    "en": "leaf",
    "pos": "noun",
-   "group": "nouns",
-   "say": "da-HON"
-  },
-  {
-   "id": "utos",
-   "tl": "utos",
-   "en": "command, instruction",
-   "pos": "noun",
-   "group": "nouns",
-   "say": "U-tos"
-  },
-  {
-   "id": "totoo",
-   "tl": "totoo",
-   "en": "true, truly",
-   "pos": "adv",
    "group": "nouns"
+  },
+  {
+   "id": "mabilis",
+   "tl": "mabilís",
+   "en": "fast",
+   "pos": "adj",
+   "group": "mods",
+   "say": "ma-bi-LIS"
+  },
+  {
+   "id": "marumi",
+   "tl": "marumí",
+   "en": "dirty",
+   "pos": "adj",
+   "group": "mods",
+   "say": "ma-ru-MI"
+  },
+  {
+   "id": "madilim",
+   "tl": "madilím",
+   "en": "dark",
+   "pos": "adj",
+   "group": "mods",
+   "say": "ma-di-LIM"
+  },
+  {
+   "id": "luto",
+   "tl": "lutò",
+   "en": "cooked",
+   "pos": "adj",
+   "group": "mods",
+   "say": "LU-toQ"
+  },
+  {
+   "id": "mayaman",
+   "tl": "mayáman",
+   "en": "rich",
+   "pos": "adj",
+   "group": "mods",
+   "say": "ma-YA-man"
+  },
+  {
+   "id": "mahusay",
+   "tl": "mahúsay",
+   "en": "efficient",
+   "pos": "adj",
+   "group": "mods",
+   "say": "ma-HU-say"
+  },
+  {
+   "id": "sariwa",
+   "tl": "sariwà",
+   "en": "fresh",
+   "pos": "adj",
+   "group": "mods",
+   "say": "sa-RI-waQ",
+   "note": "The lesson's first word list writes sariwá"
+  },
+  {
+   "id": "payat",
+   "tl": "payát",
+   "en": "thin",
+   "pos": "adj",
+   "group": "mods",
+   "say": "pa-YAT"
+  },
+  {
+   "id": "maitim",
+   "tl": "maitím",
+   "en": "black",
+   "pos": "adj",
+   "group": "mods",
+   "say": "ma-i-TIM"
+  },
+  {
+   "id": "maputi",
+   "tl": "maputí",
+   "en": "whitish",
+   "pos": "adj",
+   "group": "mods",
+   "say": "ma-pu-TI"
+  },
+  {
+   "id": "matapang",
+   "tl": "matápang",
+   "en": "brave",
+   "pos": "adj",
+   "group": "mods",
+   "say": "ma-TA-pang"
+  },
+  {
+   "id": "maingay",
+   "tl": "maíngay",
+   "en": "noisy",
+   "pos": "adj",
+   "group": "mods",
+   "say": "ma-I-ngay"
+  },
+  {
+   "id": "tamad",
+   "tl": "tamád",
+   "en": "lazy",
+   "pos": "adj",
+   "group": "mods",
+   "say": "ta-MAD"
+  },
+  {
+   "id": "matamis",
+   "tl": "matamís",
+   "en": "sweet (food)",
+   "pos": "adj",
+   "group": "mods",
+   "say": "ma-ta-MIS"
   }
  ],
  "exercises": [
   {
    "type": "choice",
-   "q": "Join malaki and bahay (big house).",
+   "q": "Join malakí and báhay (big house).",
    "options": [
-    "malaking bahay",
-    "malaki na bahay",
-    "malakig bahay"
+    "malakíng báhay",
+    "malakí na báhay",
+    "malakíg báhay"
    ],
-   "answer": "malaking bahay",
-   "explain": "Malaki ends in a vowel, so use -ng."
+   "answer": "malakíng báhay",
+   "explain": "Malakí ends in a vowel, so add -ng."
   },
   {
    "type": "choice",
-   "q": "Join mayaman and lalaki (rich man).",
+   "q": "Join mayáman and laláki (rich man).",
    "options": [
-    "mayamang lalaki",
-    "mayaman na lalaki",
-    "mayamanng lalaki"
+    "mayámang laláki",
+    "mayáman na laláki",
+    "mayámanng laláki"
    ],
-   "answer": "mayamang lalaki",
-   "explain": "Mayaman ends in n, so add just -g."
+   "answer": "mayámang laláki",
+   "explain": "Mayáman ends in n, so add just -g."
   },
   {
    "type": "choice",
-   "q": "Join mabait and bata (kind child).",
+   "q": "Join maásim and manggà (sour mango).",
    "options": [
-    "mabait na bata",
-    "mabaiting bata",
-    "mabaitng bata"
+    "maásim na manggà",
+    "maásiming manggà",
+    "maásimng manggà"
    ],
-   "answer": "mabait na bata",
-   "explain": "Mabait ends in t, a consonant other than n, so use na."
+   "answer": "maásim na manggà",
+   "explain": "Maásim ends in m, a consonant other than n, so use na."
   },
   {
    "type": "choice",
-   "q": "Join sariwa and isda (fresh fish).",
+   "q": "Join tahímik and batà (quiet child).",
    "options": [
-    "sariwang isda",
-    "sariwa na isda",
-    "sariwag isda"
+    "tahímik na batà",
+    "tahímiking batà",
+    "tahímik batà"
    ],
-   "answer": "sariwang isda",
-   "explain": "Sariwa ends in a vowel."
+   "answer": "tahímik na batà",
+   "explain": "Tahímik ends in k, so use na."
   },
   {
    "type": "choice",
-   "q": "Join matamis and kape (sweet coffee).",
+   "q": "Which is correct for \"strong wind\" with hángin first?",
    "options": [
-    "matamis na kape",
-    "matamising kape",
-    "matamisng kape"
+    "hánging malakás",
+    "hángin na malakás",
+    "hángining malakás"
    ],
-   "answer": "matamis na kape",
-   "explain": "Matamis ends in s, so use na."
+   "answer": "hánging malakás",
+   "explain": "Hángin ends in n, so add -g."
   },
   {
    "type": "choice",
-   "q": "Which is correct for \"a cold wind\" with hangin first?",
+   "q": "Which is correct for \"rich man\" with laláki first?",
    "options": [
-    "hanging malamig",
-    "hangin na malamig",
-    "hangining malamig"
+    "laláking mayáman",
+    "laláki na mayáman",
+    "lalákig mayáman"
    ],
-   "answer": "hanging malamig",
-   "explain": "Hangin ends in n, so add -g."
+   "answer": "laláking mayáman",
+   "explain": "Laláki ends in a vowel, so add -ng."
   },
   {
    "type": "choice",
-   "q": "Which is correct for \"a cold wind\" with malamig first?",
-   "options": [
-    "malamig na hangin",
-    "malamiging hangin",
-    "malamigng hangin"
-   ],
-   "answer": "malamig na hangin",
-   "explain": "Malamig ends in g, a consonant other than n, so use na."
-  },
-  {
-   "type": "choice",
-   "q": "A word ending in the consonant n takes which linker?",
+   "q": "A word ending in the consonant n takes which ligature?",
    "options": [
     "-g",
     "-ng",
     "na"
    ],
    "answer": "-g",
-   "explain": "For example mayaman + g = mayamang."
+   "explain": "mayáman + -g = mayámang."
   },
   {
    "type": "choice",
-   "q": "A word ending in a vowel takes which linker?",
+   "q": "A word ending in a vowel takes which ligature?",
    "options": [
     "-ng",
     "-g",
     "na"
    ],
    "answer": "-ng",
-   "explain": "For example bago + ng = bagong."
+   "explain": "malakí + -ng = malakíng."
   },
   {
    "type": "choice",
-   "q": "Which of these needs no linker?",
+   "q": "Do ligatures have a meaning of their own?",
    "options": [
-    "Marunong ka.",
-    "mabait bata",
-    "malaki bahay"
+    "No",
+    "Yes, they mean and"
    ],
-   "answer": "Marunong ka.",
-   "explain": "A subject pronoun straight after the predicate is not linked."
+   "answer": "No",
+   "explain": "They only show that the two words are closely related."
   },
   {
    "type": "choice",
-   "q": "With several adjectives before a noun, which one takes the linker?",
+   "q": "With several adjectives before a noun, which one takes the ligature?",
    "options": [
     "Only the last one",
     "Every one",
     "Only the first one"
    ],
    "answer": "Only the last one",
-   "explain": "For example: mabait at matalinong bata."
+   "explain": "mabaít at masunúring áso."
   },
   {
    "type": "choice",
-   "q": "What does \"malinaw na malinaw\" mean?",
+   "q": "Which of these needs no ligature?",
    "options": [
-    "Very clear",
-    "Not clear",
-    "A little clear"
+    "Marúnong ka.",
+    "malakí báhay",
+    "tahímik batà"
    ],
-   "answer": "Very clear",
-   "explain": "Repeating the word with na adds emphasis."
+   "answer": "Marúnong ka.",
+   "explain": "An adjective + nominative pronoun (ka, kayó) takes no ligature."
   },
   {
    "type": "choice",
-   "q": "Which means \"a quiet child\"?",
+   "q": "Which word does NOT need a ligature after it?",
    "options": [
-    "tahimik na bata",
-    "tahimiking bata",
-    "tahimik bata"
+    "kung",
+    "samantála",
+    "sakáli"
    ],
-   "answer": "tahimik na bata",
-   "explain": "Tahimik ends in k, so use na."
+   "answer": "kung",
+   "explain": "Kung walâ pa ako, máuna na kayó."
   },
   {
    "type": "choice",
-   "q": "Is \"batang babae\" the same as \"babaeng bata\"?",
+   "q": "What does \"Malínaw na malínaw ang útos niya\" mean?",
    "options": [
-    "Yes, both mean a young girl",
-    "No, they are very different"
+    "His/her command is very clear.",
+    "His/her command is not clear.",
+    "His/her command is a little clear."
    ],
-   "answer": "Yes, both mean a young girl",
-   "explain": "The order can swap and the linker follows the first word."
+   "answer": "His/her command is very clear.",
+   "explain": "Repeating the adjective with a ligature makes a superlative."
+  },
+  {
+   "type": "choice",
+   "q": "Is \"batàng babáe\" the same as \"babáeng batà\"?",
+   "options": [
+    "Yes, both mean young girl",
+    "No, they mean different things"
+   ],
+   "answer": "Yes, both mean young girl",
+   "explain": "Changing the order does not change the meaning."
+  },
+  {
+   "type": "choice",
+   "q": "Why is there no ligature in \"aklát ko\"?",
+   "options": [
+    "A possessive pronoun after a noun takes none",
+    "Aklát ends in a vowel",
+    "Ko is a verb"
+   ],
+   "answer": "A possessive pronoun after a noun takes none",
+   "explain": "Also báhay námin and lúpa nila."
   },
   {
    "type": "listen",
-   "tl": "mayaman",
+   "tl": "mayáman",
    "options": [
     "rich",
     "poor",
     "strong"
    ],
    "answer": "rich",
-   "explain": "Mayaman means rich."
+   "explain": "Mayáman means rich."
   },
   {
    "type": "listen",
-   "tl": "matapang",
+   "tl": "matápang",
    "options": [
     "brave",
     "quiet",
     "lazy"
    ],
    "answer": "brave",
-   "explain": "Matapang means brave."
+   "explain": "Matápang means brave."
   },
   {
    "type": "listen",
-   "tl": "malakas",
+   "tl": "mapagbigáy",
    "options": [
-    "strong",
-    "weak",
-    "hot"
+    "generous",
+    "tired",
+    "sour"
    ],
-   "answer": "strong",
-   "explain": "Malakas means strong."
+   "answer": "generous",
+   "explain": "Mapagbigáy means generous."
   },
   {
    "type": "build",
-   "en": "Ana is a kind child.",
-   "tl": "Mabait na bata si Ana.",
+   "en": "The rich man is generous.",
+   "tl": "Ang mayámang laláki ay mapagbigáy.",
    "tokens": [
-    "mabait",
-    "na",
-    "bata",
-    "si",
-    "ana"
-   ],
-   "explain": ""
-  },
-  {
-   "type": "build",
-   "en": "Ben is a rich man.",
-   "tl": "Mayamang lalaki si Ben.",
-   "tokens": [
-    "mayamang",
-    "lalaki",
-    "si",
-    "ben"
-   ],
-   "explain": ""
-  },
-  {
-   "type": "build",
-   "en": "This is delicious food.",
-   "tl": "Masarap na pagkain ito.",
-   "tokens": [
-    "masarap",
-    "na",
-    "pagkain",
-    "ito"
-   ],
-   "explain": ""
-  },
-  {
-   "type": "build",
-   "en": "Manila is a noisy city.",
-   "tl": "Maingay na lungsod ang Maynila.",
-   "tokens": [
-    "maingay",
-    "na",
-    "lungsod",
     "ang",
-    "maynila"
+    "mayámang",
+    "laláki",
+    "ay",
+    "mapagbigáy"
    ],
    "explain": ""
   },
   {
    "type": "build",
-   "en": "That is a new dress.",
-   "tl": "Bagong damit iyon.",
+   "en": "The quiet child is beautiful.",
+   "tl": "Magandá ang tahímik na batà.",
    "tokens": [
-    "bagong",
-    "damit",
-    "iyon"
+    "magandá",
+    "ang",
+    "tahímik",
+    "na",
+    "batà"
    ],
    "explain": ""
   },
   {
    "type": "build",
-   "en": "You are clever.",
-   "tl": "Marunong ka.",
+   "en": "He/She ate a sour mango.",
+   "tl": "Kumáin siyá ng maásim na manggà.",
    "tokens": [
-    "marunong",
-    "ka"
+    "kumáin",
+    "siyá",
+    "ng",
+    "maásim",
+    "na",
+    "manggà"
    ],
    "explain": ""
   },
   {
    "type": "build",
-   "en": "Ana is a kind and intelligent child.",
-   "tl": "Mabait at matalinong bata si Ana.",
+   "en": "The strong wind is cold.",
+   "tl": "Ang hánging malakás ay malamíg.",
    "tokens": [
-    "mabait",
-    "at",
-    "matalinong",
-    "bata",
+    "ang",
+    "hánging",
+    "malakás",
+    "ay",
+    "malamíg"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Pablo ate quickly.",
+   "tl": "Kumáing mabilís si Pablo.",
+   "tokens": [
+    "kumáing",
+    "mabilís",
     "si",
-    "ana"
+    "pablo"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "My teacher is very kind.",
+   "tl": "Mabaít na mabaít ang gurò ko.",
+   "tokens": [
+    "mabaít",
+    "na",
+    "mabaít",
+    "ang",
+    "gurò",
+    "ko"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "You are intelligent.",
+   "tl": "Marúnong ka.",
+   "tokens": [
+    "marúnong",
+    "ka"
    ],
    "explain": ""
   },
@@ -1193,20 +1207,20 @@
    "q": "Join each pair.",
    "pairs": [
     [
-     "malaki + bahay",
-     "malaking bahay"
+     "malakí + báhay",
+     "malakíng báhay"
     ],
     [
-     "mabait + bata",
-     "mabait na bata"
+     "tahímik + batà",
+     "tahímik na batà"
     ],
     [
-     "mayaman + lalaki",
-     "mayamang lalaki"
+     "mayáman + laláki",
+     "mayámang laláki"
     ],
     [
-     "sariwa + isda",
-     "sariwang isda"
+     "hángin + malakás",
+     "hánging malakás"
     ]
    ]
   },
@@ -1215,29 +1229,51 @@
    "q": "Match the word to its meaning.",
    "pairs": [
     [
-     "mayaman",
+     "mayáman",
      "rich"
     ],
     [
-     "matapang",
+     "matápang",
      "brave"
     ],
     [
-     "tamad",
+     "tamád",
      "lazy"
     ],
     [
-     "matalino",
-     "intelligent"
+     "mahúsay",
+     "efficient"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the word to its meaning.",
+   "pairs": [
+    [
+     "lamók",
+     "mosquito"
+    ],
+    [
+     "bundók",
+     "mountain"
+    ],
+    [
+     "lángit",
+     "sky"
+    ],
+    [
+     "dahon",
+     "leaf"
     ]
    ]
   }
  ],
  "recap": [
-  "Linkers join words that belong together: -ng after a vowel, -g after n, na after any other consonant.",
-  "The last letter of the FIRST word decides which linker to use.",
-  "Adjective + noun and noun + adjective both work, with the same rule.",
-  "Kung, subject pronouns after a predicate, and possessive words after a noun are not linked.",
-  "With several adjectives, only the last one takes the linker. Repeat a word with na for \"very\"."
+  "Ligatures join two words when one modifies the other: -ng after a vowel, -g after n, na after any other consonant.",
+  "The ligature goes after the first word, and the order can be swapped without changing the meaning.",
+  "Many sequences take ligatures: noun + noun, verb + adverb, adjective + adjective for emphasis, and more.",
+  "Exceptions: kung; a possessive pronoun after a noun (aklát ko); an adjective + ka or kayó (Marúnong ka).",
+  "With several adjectives, only the last takes the ligature."
  ]
 }

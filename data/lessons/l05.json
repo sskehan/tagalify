@@ -2,13 +2,13 @@
  "id": "l05",
  "label": "5",
  "title": "Sentence formation",
- "summary": "The two sentence orders, and how to flip one into the other",
+ "summary": "The two basic word orders, and how to turn one into the other",
  "minutes": 25,
  "goals": [
-  "Tell the two sentence orders apart: subject first (with ay) and predicate first",
-  "Flip a sentence from one order to the other",
-  "Place mga and sina correctly when a sentence is flipped",
-  "Use the short at ('t) and leave out an understood subject"
+  "Tell the two word orders apart: subject-predicate (with ay) and inverted",
+  "Know the two jobs of ay",
+  "Turn a subject-predicate sentence into the inverted order",
+  "Use mga with plural subjects in the inverted order, and shorten at to 't"
  ],
  "sections": [
   {
@@ -16,45 +16,42 @@
    "blocks": [
     {
      "type": "p",
-     "t": "Every Tagalog sentence can be built in **two orders**. The meaning is the same, but the focus is different."
+     "t": "There are **two basic ways** to form a sentence in Tagalog:"
     },
     {
      "type": "table",
      "head": [
-      "Order",
+      "Word order",
       "Pattern",
-      "Focus",
-      "How common"
+      "Emphasis on"
      ],
      "rows": [
       [
-       "Subject first",
-       "[[Ang|marker]] subject + [[ay|ay]] + predicate",
-       "the subject",
-       "more formal, written"
+       "Subject-predicate",
+       "subject + [[ay|ay]] + predicate",
+       "the subject"
       ],
       [
-       "Predicate first (inverted)",
-       "predicate + [[ang|marker]] subject",
-       "the predicate",
-       "the everyday order"
+       "Inverted or transposed",
+       "predicate + subject (the subject may also be left out)",
+       "the predicate"
       ]
      ],
-     "title": "The two orders"
+     "title": "The two word orders"
     },
     {
      "type": "pattern",
      "title": "The same sentence both ways",
      "rows": [
       {
-       "label": "Subject first",
+       "label": "Subject-predicate",
        "chips": [
         {
          "t": "Ang",
          "r": "marker"
         },
         {
-         "t": "bahay",
+         "t": "báhay",
          "r": "noun"
         },
         {
@@ -62,16 +59,16 @@
          "r": "ay"
         },
         {
-         "t": "malaki",
+         "t": "malakí",
          "r": "pred"
         }
        ]
       },
       {
-       "label": "Predicate first",
+       "label": "Inverted",
        "chips": [
         {
-         "t": "Malaki",
+         "t": "Malakí",
          "r": "pred"
         },
         {
@@ -79,28 +76,43 @@
          "r": "marker"
         },
         {
-         "t": "bahay",
+         "t": "báhay",
          "r": "noun"
         }
        ]
       }
      ],
-     "note": "The house is big. In the second order, ay disappears."
+     "note": "The house is big. Ay is not used in the inverted order."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Which is more common?",
+     "t": "Tagalog speakers tend to use the **inverted** word order more often in everyday speech."
+    }
+   ]
+  },
+  {
+   "title": "The subject-predicate order",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "A sentence is in this order when the **subject is the most important element** and comes first. The word **ay** (like the English *is* and *are*) is used. The speaker wants to focus attention on the subject."
     },
     {
      "type": "examples",
      "items": [
       {
-       "tl": "Ang bahay ay malaki.",
-       "en": "The house is big. (subject first)",
+       "tl": "Ang báhay ay malakí.",
+       "en": "The house is big.",
        "parts": [
         [
          "Ang",
-         "the",
+         "article",
          "marker"
         ],
         [
-         "bahay",
+         "báhay",
          "house",
          "noun"
         ],
@@ -110,97 +122,261 @@
          "ay"
         ],
         [
-         "malaki",
+         "malakí",
          "big",
          "pred"
         ]
        ]
       },
       {
-       "tl": "Malaki ang bahay.",
-       "en": "The house is big. (predicate first)",
+       "tl": "Si Peter ay mabaít.",
+       "en": "Peter is good.",
        "parts": [
         [
-         "Malaki",
+         "Si",
+         "article (one name)",
+         "marker"
+        ],
+        [
+         "Peter",
+         "Peter",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "mabaít",
+         "good",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Sina Peter at Mary ay mga batà.",
+       "en": "Peter and Mary are children.",
+       "parts": [
+        [
+         "Sina",
+         "article (2+ names)",
+         "marker"
+        ],
+        [
+         "Peter",
+         "Peter",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "Mary",
+         "Mary",
+         "noun"
+        ],
+        [
+         "ay",
+         "are",
+         "ay"
+        ],
+        [
+         "mga",
+         "plural marker",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang batà ay kumákain.",
+       "en": "The child is eating.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "kumákain",
+         "eating",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang babáe at ang laláki ay naglúlutò.",
+       "en": "The woman and the man are cooking.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "babáe",
+         "woman",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "laláki",
+         "man",
+         "noun"
+        ],
+        [
+         "ay",
+         "are",
+         "ay"
+        ],
+        [
+         "naglúlutò",
+         "cooking",
+         "pred"
+        ]
+       ]
+      }
+     ],
+     "title": "Subject first"
+    },
+    {
+     "type": "h",
+     "t": "The two jobs of ay"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Job",
+      "In the sentences",
+      "What it does"
+     ],
+     "rows": [
+      [
+       "Linking verb",
+       "Ang báhay ay malakí. Si Peter ay mabaít. Sina Peter at Mary ay mga batà.",
+       "links the subject to what is said about it (is, are)"
+      ],
+      [
+       "Helping verb",
+       "Ang batà ay kumákain. Ang babáe at ang laláki ay naglúlutò.",
+       "goes with the principal verb, which is the chief action (is eating, are cooking)"
+      ]
+     ],
+     "title": "Ay"
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "Action words",
+     "t": "**Kumákain** (is/are eating) and **naglúlutò** (is/are cooking) are verbs. Tagalog verbs change their form, which later lessons cover. For now, learn them as whole words."
+    }
+   ]
+  },
+  {
+   "title": "The inverted order",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "A sentence is in the **inverted** or **transposed** order when the **predicate comes first**, before the subject. The word **ay is not used**. The focus is on the predicate rather than the subject."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Malakí ang báhay.",
+       "en": "Big, the house is. (The house is big.)",
+       "parts": [
+        [
+         "Malakí",
          "big",
          "pred"
         ],
         [
          "ang",
-         "the",
+         "article",
          "marker"
         ],
         [
-         "bahay",
+         "báhay",
          "house",
          "noun"
         ]
        ]
       },
       {
-       "tl": "Si Ben ay mabait.",
-       "en": "Ben is kind. (subject first)",
+       "tl": "Kumákain ang batà.",
+       "en": "Eating, the child is. (The child is eating.)",
        "parts": [
         [
-         "Si",
-         "marks a name",
+         "Kumákain",
+         "eating",
+         "pred"
+        ],
+        [
+         "ang",
+         "article",
          "marker"
         ],
         [
-         "Ben",
-         "Ben",
+         "batà",
+         "child",
          "noun"
-        ],
-        [
-         "ay",
-         "is",
-         "ay"
-        ],
-        [
-         "mabait",
-         "kind",
-         "pred"
         ]
        ]
       },
       {
-       "tl": "Mabait si Ben.",
-       "en": "Ben is kind. (predicate first)",
+       "tl": "Mabaít si Peter.",
+       "en": "Good, Peter is. (Peter is good.)",
        "parts": [
         [
-         "Mabait",
-         "kind",
+         "Mabaít",
+         "good",
          "pred"
         ],
         [
          "si",
-         "marks a name",
+         "article (one name)",
          "marker"
         ],
         [
-         "Ben",
-         "Ben",
+         "Peter",
+         "Peter",
          "noun"
         ]
        ]
       }
      ],
-     "title": "Tap to hear both orders"
+     "title": "Predicate first"
     },
     {
-     "type": "box",
-     "kind": "tip",
-     "title": "Which should I use?",
-     "t": "Learn both, but practise the predicate-first order the most. It is what you will hear in daily conversation."
-    }
-   ]
-  },
-  {
-   "title": "How to flip a sentence",
-   "blocks": [
-    {
-     "type": "p",
-     "t": "Turning a subject-first sentence into a predicate-first sentence takes four small steps."
+     "type": "h",
+     "t": "How to turn a sentence around"
     },
     {
      "type": "table",
@@ -212,154 +388,71 @@
      "rows": [
       [
        "1",
-       "Find the predicate (the action or description)",
-       "Ang bata ay **mabait**"
+       "Start with the subject-predicate sentence",
+       "Ang batà ay kumákain."
       ],
       [
        "2",
-       "Move it to the front",
-       "**Mabait** ang bata ay"
+       "Move the predicate to the front",
+       "**Kumákain** ang batà ay"
       ],
       [
        "3",
-       "Delete ay",
-       "Mabait ang bata"
+       "Leave out ay",
+       "Kumákain ang batà."
       ],
       [
        "4",
-       "Keep the marker with the subject",
-       "Mabait **ang** bata"
+       "Keep the article with the subject",
+       "Kumákain **ang** batà."
       ]
      ],
-     "title": "Flipping step by step"
-    },
-    {
-     "type": "pattern",
-     "title": "The flip",
-     "rows": [
-      {
-       "label": "Before",
-       "chips": [
-        {
-         "t": "Ang",
-         "r": "marker"
-        },
-        {
-         "t": "bata",
-         "r": "noun"
-        },
-        {
-         "t": "ay",
-         "r": "ay"
-        },
-        {
-         "t": "mabait",
-         "r": "pred"
-        }
-       ]
-      },
-      {
-       "label": "After",
-       "chips": [
-        {
-         "t": "Mabait",
-         "r": "pred"
-        },
-        {
-         "t": "ang",
-         "r": "marker"
-        },
-        {
-         "t": "bata",
-         "r": "noun"
-        }
-       ]
-      }
-     ]
+     "title": "Step by step"
     },
     {
      "type": "box",
      "kind": "rule",
-     "title": "Two things to remember",
+     "title": "Remember",
      "items": [
-      "**Ay** is only used when the subject comes first.",
-      "The marker (**ang**, **si**, **sina**) always stays with the subject."
+      "**Ay** is only used in the subject-predicate order.",
+      "The article (ang, si, siná) stays with the subject.",
+      "In the inverted order, the subject comes at the end of the sentence, or may be left out."
      ]
-    },
-    {
-     "type": "h",
-     "t": "Ay does two jobs"
-    },
-    {
-     "type": "p",
-     "t": "**Ay** links a subject to a description or identity (is, are). It also links a subject to an action (is doing)."
-    },
-    {
-     "type": "table",
-     "head": [
-      "Subject first",
-      "Predicate first",
-      "Kind of predicate"
-     ],
-     "rows": [
-      [
-       "Si Ana ay maganda.",
-       "Maganda si Ana.",
-       "a description"
-      ],
-      [
-       "Ang bata ay kumakain.",
-       "Kumakain ang bata.",
-       "an action (is eating)"
-      ],
-      [
-       "Si Ben ay guro.",
-       "Guro si Ben.",
-       "an identity (is a teacher)"
-      ]
-     ],
-     "title": "Three kinds of predicate"
-    },
-    {
-     "type": "box",
-     "kind": "english",
-     "title": "A note on action words",
-     "t": "Action words such as **kumakain** (is eating) change their shape in Tagalog. You will study those forms in later lessons. For now, treat them as ready-made words."
     }
    ]
   },
   {
-   "title": "Plurals when the sentence is flipped",
+   "title": "Plural subjects in the inverted order",
    "blocks": [
     {
      "type": "p",
-     "t": "When the predicate is a noun that names a group, put **mga** in front of it. Use **sina** before the names of the subjects, and keep **ang** before things."
+     "t": "In inverted sentences that have **plural nouns as their subjects**, the word **mga**, not **ang mga**, comes before the first noun."
     },
     {
      "type": "examples",
      "items": [
       {
-       "tl": "Mga bata sina Ana at Ben.",
-       "en": "Ana and Ben are children.",
+       "tl": "Mga batà sina Peter at Mary.",
+       "en": "Children, Peter and Mary are. (Peter and Mary are children.)",
        "parts": [
         [
          "Mga",
-         "more than one",
+         "plural marker",
          "marker"
         ],
         [
-         "bata",
-         "children",
-         "noun"
+         "batà",
+         "child",
+         "pred"
         ],
         [
          "sina",
-         "marks 2+ names",
+         "article (2+ names)",
          "marker"
         ],
         [
-         "Ana",
-         "Ana",
+         "Peter",
+         "Peter",
          "noun"
         ],
         [
@@ -368,29 +461,29 @@
          "other"
         ],
         [
-         "Ben",
-         "Ben",
+         "Mary",
+         "Mary",
          "noun"
         ]
        ]
       },
       {
-       "tl": "Mga lungsod ang Maynila at Cebu.",
-       "en": "Manila and Cebu are cities.",
+       "tl": "Mga lungsód ang Maynila at Cebu.",
+       "en": "Cities, Manila and Cebu are. (Manila and Cebu are cities.)",
        "parts": [
         [
          "Mga",
-         "more than one",
+         "plural marker",
          "marker"
         ],
         [
-         "lungsod",
+         "lungsód",
          "city",
-         "noun"
+         "pred"
         ],
         [
          "ang",
-         "the",
+         "article",
          "marker"
         ],
         [
@@ -411,91 +504,57 @@
        ]
       },
       {
-       "tl": "Mga babae sina Ana at Mia.",
-       "en": "Ana and Mia are women.",
+       "tl": "Mga babáe sina Helen.",
+       "en": "Women, Helen and companions are. (Helen and companions are women.)",
        "parts": [
         [
          "Mga",
-         "more than one",
+         "plural marker",
          "marker"
         ],
         [
-         "babae",
+         "babáe",
          "woman",
-         "noun"
+         "pred"
         ],
         [
          "sina",
-         "marks 2+ names",
+         "article (2+ names)",
          "marker"
         ],
         [
-         "Ana",
-         "Ana",
-         "noun"
-        ],
-        [
-         "at",
-         "and",
-         "other"
-        ],
-        [
-         "Mia",
-         "Mia",
+         "Helen",
+         "Helen",
          "noun"
         ]
        ]
-      }
-     ]
-    },
-    {
-     "type": "box",
-     "kind": "warn",
-     "title": "Mga, not ang mga",
-     "t": "At the very start of a flipped sentence, the plural predicate takes **mga** only. You do not say \"ang mga\" there. **Ang mga** is for plural subjects, which come after the predicate or before ay."
-    }
-   ]
-  },
-  {
-   "title": "Shortcuts: 't and leaving the subject out",
-   "blocks": [
-    {
-     "type": "h",
-     "t": "The short at"
-    },
-    {
-     "type": "p",
-     "t": "**At** means \"and\". When the word before it ends in a vowel, **at** can shrink to **'t** and attach to that word."
-    },
-    {
-     "type": "examples",
-     "items": [
+      },
       {
-       "tl": "Mga hayop ang aso't pusa.",
-       "en": "The dog and the cat are animals.",
+       "tl": "Mga háyop ang áso't pusà.",
+       "en": "Animals, the dog and cat are. (The dog and cat are animals.)",
        "parts": [
         [
          "Mga",
-         "more than one",
+         "plural marker",
          "marker"
         ],
         [
-         "hayop",
+         "háyop",
          "animal",
-         "noun"
+         "pred"
         ],
         [
          "ang",
-         "the",
+         "article",
          "marker"
         ],
         [
-         "aso't",
+         "áso't",
          "dog and",
          "noun"
         ],
         [
-         "pusa",
+         "pusà",
          "cat",
          "noun"
         ]
@@ -506,48 +565,27 @@
     {
      "type": "box",
      "kind": "tip",
-     "title": "When to shorten",
-     "t": "Use **'t** after a vowel (aso't pusa). After a consonant, keep the full **at**."
+     "title": "Sina with one name",
+     "t": "**Mga babáe sina Helen** uses siná with only one name. It means *Helen and her companions*."
     },
     {
      "type": "h",
-     "t": "Leaving the subject out"
+     "t": "Shortening at to 't"
     },
     {
      "type": "p",
-     "t": "In the predicate-first order, you may drop the subject when it is obvious from the situation. A single word can then be a complete sentence."
-    },
-    {
-     "type": "table",
-     "head": [
-      "Short sentence",
-      "Understood meaning"
-     ],
-     "rows": [
-      [
-       "[[Mainit.|pred]]",
-       "(It is) hot."
-      ],
-      [
-       "[[Masarap.|pred]]",
-       "(It is) delicious."
-      ],
-      [
-       "[[Kumakain.|pred]]",
-       "(Someone is) eating."
-      ]
-     ],
-     "title": "One-word sentences"
+     "t": "The connective **at** (*and*) may be shortened to **'t** and attached to the word before it when that word **ends in a vowel**, such as **áso**: áso at pusà becomes **áso't pusà**."
     },
     {
      "type": "box",
      "kind": "remember",
      "title": "Remember",
      "items": [
-      "Subject first uses ay. Predicate first drops ay.",
-      "The predicate-first order is the one used most in daily speech.",
-      "Flip a sentence: move the predicate to the front and delete ay.",
-      "A flipped plural predicate takes mga, with sina or ang before the subject."
+      "Two word orders: subject-predicate (with ay) and inverted (no ay).",
+      "Tagalogs use the inverted order more often in everyday speech.",
+      "Ay links the subject to the predicate, or helps the main verb.",
+      "With plural subjects in the inverted order, start with mga, not ang mga.",
+      "At can become 't after a word ending in a vowel."
      ]
     }
    ]
@@ -555,294 +593,314 @@
  ],
  "vocab": [
   {
-   "id": "at",
-   "tl": "at",
-   "en": "and",
-   "pos": "part",
-   "group": "words",
-   "say": "AT"
-  },
-  {
-   "id": "hayop",
-   "tl": "hayop",
-   "en": "animal",
-   "pos": "noun",
-   "group": "words",
-   "say": "HA-yop"
-  },
-  {
    "id": "kumakain",
-   "tl": "kumakain",
-   "en": "is eating",
+   "tl": "kumákain",
+   "en": "is/are eating",
    "pos": "verb",
    "group": "words",
    "say": "ku-MA-ka-in"
   },
   {
    "id": "nagluluto",
-   "tl": "naglulutò",
-   "en": "is cooking",
+   "tl": "naglúlutò",
+   "en": "is/are cooking",
    "pos": "verb",
    "group": "words",
-   "say": "nag-LU-lu-toʔ"
+   "say": "nag-LU-lu-toQ"
   },
   {
-   "id": "guro",
-   "tl": "guro",
-   "en": "teacher",
+   "id": "hayop",
+   "tl": "háyop",
+   "en": "animal",
    "pos": "noun",
    "group": "words",
-   "say": "GU-roʔ",
-   "note": "Marked: gurò"
+   "say": "HA-yop"
   },
   {
-   "id": "masaya",
-   "tl": "masaya",
-   "en": "happy, joyful",
-   "pos": "adj",
+   "id": "at",
+   "tl": "at",
+   "en": "and",
+   "pos": "part",
    "group": "words",
-   "say": "ma-SA-ya"
+   "note": "Shortened to 't after a word ending in a vowel: áso't pusà"
   }
  ],
  "exercises": [
   {
    "type": "choice",
-   "q": "Which order is more common in everyday speech?",
+   "q": "Which word order do Tagalogs use more often in everyday speech?",
    "options": [
-    "Predicate first",
-    "Subject first with ay"
+    "The inverted order",
+    "The subject-predicate order"
    ],
-   "answer": "Predicate first",
-   "explain": "Everyday Tagalog usually starts with the predicate."
+   "answer": "The inverted order",
+   "explain": "Tagalog speakers tend to use the inverted word order more often."
   },
   {
    "type": "choice",
-   "q": "Flip this sentence: Ang bata ay mabait.",
+   "q": "Turn around: Si Peter ay laláki.",
    "options": [
-    "Mabait ang bata.",
-    "Mabait ay ang bata.",
-    "Ang mabait bata."
+    "Laláki si Peter.",
+    "Laláki ay si Peter.",
+    "Si laláki Peter."
    ],
-   "answer": "Mabait ang bata.",
-   "explain": "Move the predicate to the front and drop ay."
+   "answer": "Laláki si Peter.",
+   "explain": "Move the predicate to the front and leave out ay."
   },
   {
    "type": "choice",
-   "q": "Flip this sentence: Si Ana ay maganda.",
+   "q": "Turn around: Si Ruth ay magandá.",
    "options": [
-    "Maganda si Ana.",
-    "Maganda ay si Ana.",
-    "Si maganda Ana."
+    "Magandá si Ruth.",
+    "Magandá ay si Ruth.",
+    "Si magandá Ruth."
    ],
-   "answer": "Maganda si Ana.",
-   "explain": "The marker si stays with Ana."
+   "answer": "Magandá si Ruth.",
+   "explain": "The article si stays with Ruth."
   },
   {
    "type": "choice",
-   "q": "Which sentence uses the subject-first order?",
+   "q": "Turn around: Si Peter ay marúnong.",
    "options": [
-    "Si Ben ay mabait.",
-    "Mabait si Ben.",
-    "Mainit ang kape."
+    "Marúnong si Peter.",
+    "Marúnong ay Peter.",
+    "Si Peter marúnong ay."
    ],
-   "answer": "Si Ben ay mabait.",
-   "explain": "It contains ay between the subject and the predicate."
+   "answer": "Marúnong si Peter.",
+   "explain": "Predicate first, then the article and the subject."
   },
   {
    "type": "choice",
-   "q": "What happens to ay when the predicate moves to the front?",
+   "q": "Turn around: Sina Helen at Tom ay mga batà.",
    "options": [
-    "It is deleted",
+    "Mga batà sina Helen at Tom.",
+    "Ang mga batà sina Helen at Tom.",
+    "Mga batà ay sina Helen at Tom."
+   ],
+   "answer": "Mga batà sina Helen at Tom.",
+   "explain": "Start with mga, not ang mga."
+  },
+  {
+   "type": "choice",
+   "q": "Turn around: Ang mga sapátos ay malilínis.",
+   "options": [
+    "Malilínis ang mga sapátos.",
+    "Malilínis ay ang mga sapátos.",
+    "Ang malilínis mga sapátos."
+   ],
+   "answer": "Malilínis ang mga sapátos.",
+   "explain": "Move the predicate to the front and leave out ay."
+  },
+  {
+   "type": "choice",
+   "q": "Which sentence is in the subject-predicate order?",
+   "options": [
+    "Si Peter ay mabaít.",
+    "Mabaít si Peter.",
+    "Malakí ang báhay."
+   ],
+   "answer": "Si Peter ay mabaít.",
+   "explain": "It has ay between the subject and the predicate."
+  },
+  {
+   "type": "choice",
+   "q": "What happens to ay in the inverted order?",
+   "options": [
+    "It is not used",
     "It moves to the end",
     "It becomes sina"
    ],
-   "answer": "It is deleted",
-   "explain": "Ay only appears in the subject-first order."
+   "answer": "It is not used",
+   "explain": "Ay only appears in the subject-predicate order."
   },
   {
    "type": "choice",
-   "q": "In \"Mga bata sina Ana at Ben\", what does the sentence mean?",
+   "q": "In \"Ang batà ay kumákain\", what job does ay do?",
    "options": [
-    "Ana and Ben are children.",
-    "The children are Ana and Ben's.",
-    "Ana and Ben like children."
+    "A helping verb with the principal verb",
+    "A plural marker",
+    "A linker"
    ],
-   "answer": "Ana and Ben are children.",
-   "explain": "Mga bata is the predicate: children."
+   "answer": "A helping verb with the principal verb",
+   "explain": "Kumákain is the chief action, and ay goes with it."
   },
   {
    "type": "choice",
-   "q": "At the start of a flipped sentence with a plural predicate, use…",
+   "q": "In \"Ang báhay ay malakí\", what job does ay do?",
+   "options": [
+    "A linking verb",
+    "A helping verb",
+    "A polite word"
+   ],
+   "answer": "A linking verb",
+   "explain": "It links the subject to what is said about it."
+  },
+  {
+   "type": "choice",
+   "q": "In an inverted sentence with a plural subject, what comes before the first noun?",
    "options": [
     "mga",
     "ang mga",
-    "sina"
+    "sina mga"
    ],
    "answer": "mga",
-   "explain": "Mga alone, not ang mga, goes before the plural predicate."
+   "explain": "Mga, not ang mga."
   },
   {
    "type": "choice",
-   "q": "How can \"at\" be shortened after a word ending in a vowel?",
+   "q": "What does \"Mga babáe sina Helen\" mean?",
    "options": [
-    "'t",
-    "-ng",
-    "-y"
+    "Helen and companions are women.",
+    "Helen is a woman.",
+    "The women like Helen."
    ],
-   "answer": "'t",
-   "explain": "Aso at pusa becomes aso't pusa."
+   "answer": "Helen and companions are women.",
+   "explain": "Siná with one name means that person and companions."
   },
   {
    "type": "choice",
-   "q": "What does the one-word sentence \"Mainit.\" mean?",
+   "q": "When can at (and) be shortened to 't?",
    "options": [
-    "(It is) hot.",
-    "The coffee is hot.",
-    "Is it hot?"
+    "After a word ending in a vowel",
+    "After a word ending in a consonant",
+    "At the start of a sentence"
    ],
-   "answer": "(It is) hot.",
-   "explain": "When the subject is obvious, it can be dropped."
+   "answer": "After a word ending in a vowel",
+   "explain": "áso at pusà becomes áso't pusà."
   },
   {
    "type": "choice",
    "q": "In which order is the focus on the predicate?",
    "options": [
-    "Predicate first",
-    "Subject first"
+    "The inverted order",
+    "The subject-predicate order"
    ],
-   "answer": "Predicate first",
-   "explain": "Putting something first draws attention to it."
+   "answer": "The inverted order",
+   "explain": "The focus is on whatever comes first."
   },
   {
    "type": "listen",
-   "tl": "kumakain",
+   "tl": "kumákain",
    "options": [
-    "is eating",
-    "is cooking",
-    "is happy"
+    "is/are eating",
+    "is/are cooking",
+    "animal"
    ],
-   "answer": "is eating",
-   "explain": "Kumakain means is eating."
+   "answer": "is/are eating",
+   "explain": "Kumákain means is/are eating."
   },
   {
    "type": "listen",
-   "tl": "guro",
+   "tl": "naglúlutò",
    "options": [
-    "teacher",
-    "child",
-    "dog"
+    "is/are cooking",
+    "is/are eating",
+    "cat"
    ],
-   "answer": "teacher",
-   "explain": "Guro means teacher."
+   "answer": "is/are cooking",
+   "explain": "Naglúlutò means is/are cooking."
   },
   {
    "type": "build",
-   "en": "The dog is big.",
-   "tl": "Malaki ang aso.",
+   "en": "The house is big. (inverted)",
+   "tl": "Malakí ang báhay.",
    "tokens": [
-    "malaki",
+    "malakí",
     "ang",
-    "aso"
+    "báhay"
    ],
    "explain": ""
   },
   {
    "type": "build",
-   "en": "The child is eating.",
-   "tl": "Kumakain ang bata.",
+   "en": "The child is eating. (inverted)",
+   "tl": "Kumákain ang batà.",
    "tokens": [
-    "kumakain",
+    "kumákain",
     "ang",
-    "bata"
+    "batà"
    ],
    "explain": ""
   },
   {
    "type": "build",
-   "en": "The coffee is hot.",
-   "tl": "Mainit ang kape.",
+   "en": "Peter is good. (inverted)",
+   "tl": "Mabaít si Peter.",
    "tokens": [
-    "mainit",
-    "ang",
-    "kape"
-   ],
-   "explain": ""
-  },
-  {
-   "type": "build",
-   "en": "Ana is happy.",
-   "tl": "Masaya si Ana.",
-   "tokens": [
-    "masaya",
+    "mabaít",
     "si",
-    "ana"
-   ],
-   "explain": ""
-  },
-  {
-   "type": "build",
-   "en": "Ben is a teacher.",
-   "tl": "Guro si Ben.",
-   "tokens": [
-    "guro",
-    "si",
-    "ben"
-   ],
-   "explain": ""
-  },
-  {
-   "type": "build",
-   "en": "The dog and the cat are animals.",
-   "tl": "Mga hayop ang aso't pusa.",
-   "tokens": [
-    "mga",
-    "hayop",
-    "ang",
-    "aso't",
-    "pusa"
+    "peter"
    ],
    "explain": ""
   },
   {
    "type": "build",
    "en": "The house is big. (subject first)",
-   "tl": "Ang bahay ay malaki.",
+   "tl": "Ang báhay ay malakí.",
    "tokens": [
     "ang",
-    "bahay",
+    "báhay",
     "ay",
-    "malaki"
+    "malakí"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The woman and the man are cooking.",
+   "tl": "Ang babáe at ang laláki ay naglúlutò.",
+   "tokens": [
+    "ang",
+    "babáe",
+    "at",
+    "ang",
+    "laláki",
+    "ay",
+    "naglúlutò"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The dog and cat are animals.",
+   "tl": "Mga háyop ang áso't pusà.",
+   "tokens": [
+    "mga",
+    "háyop",
+    "ang",
+    "áso't",
+    "pusà"
    ],
    "explain": ""
   },
   {
    "type": "match",
-   "q": "Match each subject-first sentence to its flipped version.",
+   "q": "Match each subject-predicate sentence to its inverted form.",
    "pairs": [
     [
-     "Ang bata ay mabait.",
-     "Mabait ang bata."
+     "Ang báhay ay malakí.",
+     "Malakí ang báhay."
     ],
     [
-     "Si Ana ay maganda.",
-     "Maganda si Ana."
+     "Ang batà ay kumákain.",
+     "Kumákain ang batà."
     ],
     [
-     "Ang kape ay mainit.",
-     "Mainit ang kape."
+     "Si Peter ay mabaít.",
+     "Mabaít si Peter."
     ],
     [
-     "Si Ben ay guro.",
-     "Guro si Ben."
+     "Si Ruth ay magandá.",
+     "Magandá si Ruth."
     ]
    ]
   }
  ],
  "recap": [
-  "Two orders: subject first with ay, or predicate first (everyday).",
-  "To flip: move the predicate to the front, delete ay, keep the marker with the subject.",
-  "Ay links the subject to a description, an identity or an action.",
-  "A flipped plural predicate takes mga: Mga bata sina Ana at Ben.",
-  "At can shrink to 't after a vowel, and an obvious subject can be left out."
+  "Two word orders: subject-predicate (with ay) and inverted or transposed (no ay).",
+  "Tagalogs use the inverted order more often in everyday speech.",
+  "Ay is a linking verb (Ang báhay ay malakí) or a helping verb (Ang batà ay kumákain).",
+  "To invert: put the predicate first and leave out ay. The subject may even be left out.",
+  "Plural subject, inverted order: start with mga, not ang mga. At becomes 't after a vowel."
  ]
 }

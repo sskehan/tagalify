@@ -1,4 +1,4 @@
-# Tagalify v1.00
+# Tagalify v1.03
 
 A complete, offline study guide for learning Tagalog, built for native English speakers starting from zero. It installs on Android as an app (a Progressive Web App) and works without a connection after the first visit.
 
@@ -11,7 +11,9 @@ A complete, offline study guide for learning Tagalog, built for native English s
 | Building sentences | 4. Si, sina, ang, ang mga · 5. Sentence formation · 6. Pronouns, this and that |
 | Joining and owning | 7. Linkers -ng, -g, na · 8. Possession |
 
-10 lessons, 256 words, 202 exercises, plus a one-page cheat sheet.
+10 lessons, 270 words, 232 exercises, plus a one-page cheat sheet.
+
+Every Tagalog word is written with the textbook's accent marks (kapé, báhay, punò, punô), and every meaning matches the textbook. The sound guide uses CAPITALS for the stressed syllable and **Q** for the glottal catch, the same notation as Lesson 2 of the book.
 
 Each lesson has three steps, and each step has its own progress bar:
 
@@ -25,14 +27,14 @@ Lesson progress = 40% reading + 30% words learned + 30% practice (70% or more fi
 
 | Colour | Role | Examples |
 |---|---|---|
-| Blue | Marker | ang, si, sa, ni, ng |
+| Blue | Marker (the book calls si and ang articles) | ang, si, sa, ni, ng |
 | Green | Noun | bahay, aso, Ana |
 | Orange | Predicate (action or description) | malaki, kumakain |
 | Purple | Pronoun | ako, ikaw, siya, ito |
-| Pink | Linker | -ng, -g, na |
+| Pink | Linker (the book calls them ligatures) | -ng, -g, na |
 | Teal | ay | ay |
 | Gold | Owner word | ko, aking, niya |
-| Indigo | Polite word | po, ho, opo |
+| Indigo | Polite word | pô, hô, opô |
 
 ## Put it on GitHub (free hosting)
 
@@ -42,7 +44,27 @@ Lesson progress = 40% reading + 30% words learned + 30% practice (70% or more fi
 4. After a minute your app is live at `https://<your-username>.github.io/tagalify/`.
 5. On your Android phone, open that link in Chrome, tap the **⋮** menu and choose **Add to Home screen** (or **Install app**).
 
-When you upload a newer version later, open `sw.js` and change `VERSION` (for example to `tagalify-v1.01`) so phones download the update.
+When you upload a newer version later, open `sw.js` and change `VERSION` (for example to `tagalify-v1.02`) so phones download the update.
+
+## Dropbox backup (set up once)
+
+Tagalify backs up your progress and all recordings to **Dropbox › Apps › Tagalify**, the same way as your other apps.
+
+1. Go to dropbox.com/developers/apps and choose **Create app**.
+2. Choose **Scoped access**, then **App folder**, and name it **Tagalify**.
+3. On the **Permissions** tab, tick `files.metadata.read`, `files.metadata.write`, `files.content.read` and `files.content.write`, then **Submit**.
+4. On the **Settings** tab, under **OAuth 2 › Redirect URIs**, add your app's address exactly, for example `https://sskehan.github.io/tagalify/` (with the slash at the end), and tap **Add**.
+5. Under **OAuth 2 › Allow public clients (Implicit Grant & PKCE)**, choose **Allow**.
+6. The App key (`klrgsofuelkzwbl`) is built into the app from v1.03.
+7. In Tagalify open **More › Dropbox backup** and tap **Connect Dropbox**. Sign in and tap **Allow**.
+
+From then on it backs up a few seconds after any change and when you leave the app (on Wi-Fi only, unless you turn that off). On a new phone, install Tagalify, connect Dropbox, and your progress and recordings come back by themselves.
+
+To build the key into the app (so you never type it), put it in `sync.js` on the line `const DBX_KEY_BUILTIN = '';`.
+
+## Computer voice with a Filipino accent
+
+Words without a recording are read by your phone's built-in voice. Install Google's Filipino voice so it sounds right: Play Store › update **Speech Recognition & Synthesis from Google**; phone Settings › search **Text-to-speech** › Preferred engine **Speech Services by Google** › gear › **Install voice data** › **Filipino (Philippines)**. Then close and reopen Tagalify. **More › Computer voice** shows which voice is used and has a test button.
 
 ## Recording a native speaker
 
@@ -53,7 +75,7 @@ Tagalify plays sound in this order: your own recordings → audio files in the `
 3. Tap **Export all recordings (zip)**.
 4. Unzip it and upload the contents of its `audio/` folder into the `audio/` folder on GitHub (replace `manifest.json`).
 
-Now everyone who uses your app hears the real voice.
+Now everyone who uses your app hears the real voice. With Dropbox connected, every recording is also backed up to Dropbox › Apps › Tagalify › recordings as soon as it is made, so you don't have to export to keep them safe.
 
 ## Adding future lessons
 
@@ -71,7 +93,26 @@ Then upload the changed files to GitHub. Your progress on the phone is kept.
 
 ## Your data
 
-Progress is stored on the phone only (no account, nothing is sent anywhere). Use **More → Back up** before changing phones, and **Restore** on the new one. Recordings are stored separately on the phone; export them to keep them.
+Progress and recordings are stored on the phone, and copied to your own Dropbox if you connect it. Nothing is sent anywhere else. You can also save a backup file of your progress from **More › Backup file**.
+
+## Version history
+
+**1.03**
+- Dropbox App key built in, so connecting is one tap.
+
+**1.02**
+- Dropbox backup of progress and recordings, automatic on Wi-Fi, with restore on a new phone.
+- Computer voice settings: shows whether a Filipino voice is installed, lets you choose the voice and speed, with a test button and install steps.
+
+**1.01**
+- New Tagalify app icon on the home screen, splash screen, home page, word cards, recording studio and About.
+- Every Tagalog word, accent mark and English meaning checked against the textbook pages and corrected to match. Words that were not in the textbook were removed or replaced with textbook words, and the example sentences now use the book's names (Ruth, Peter, Helen, Tom, Mary).
+- The sound guide now follows the book (Q for the glottal catch), with stress shown only where the book marks it.
+- Lessons 3 to 8 were rebuilt to follow the book section by section, including all of Lesson 7's ligature sequences and exceptions and Lesson 8's tables.
+- Fixes: a stray "null" on the home page, italics in lesson text, the phone's back button now closes a word card, search ignores accent marks, and reading progress stays correct after lesson updates.
+
+**1.00**
+- First release: Introduction and Lessons 1 to 8.
 
 ## Credits
 

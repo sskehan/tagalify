@@ -83,7 +83,7 @@
        "label": "Tagalog",
        "chips": [
         {
-         "t": "Malaki",
+         "t": "Malakí",
          "r": "pred"
         },
         {
@@ -91,7 +91,7 @@
          "r": "marker"
         },
         {
-         "t": "bahay",
+         "t": "báhay",
          "r": "noun"
         }
        ]
@@ -103,11 +103,11 @@
      "type": "examples",
      "items": [
       {
-       "tl": "Malaki ang bahay.",
+       "tl": "Malakí ang báhay.",
        "en": "The house is big.",
        "parts": [
         [
-         "Malaki",
+         "Malakí",
          "big",
          "pred"
         ],
@@ -117,19 +117,19 @@
          "marker"
         ],
         [
-         "bahay",
+         "báhay",
          "house",
          "noun"
         ]
        ]
       },
       {
-       "tl": "Gutom ang aso.",
-       "en": "The dog is hungry.",
+       "tl": "Kumákain ang batà.",
+       "en": "The child is eating.",
        "parts": [
         [
-         "Gutom",
-         "hungry",
+         "Kumákain",
+         "is eating",
          "pred"
         ],
         [
@@ -138,8 +138,8 @@
          "marker"
         ],
         [
-         "aso",
-         "dog",
+         "batà",
+         "child",
          "noun"
         ]
        ]
@@ -152,7 +152,7 @@
      "kind": "remember",
      "title": "Remember",
      "items": [
-      "Tagalog sentences usually start with the action or description.",
+      "In everyday speech, Tagalog sentences usually start with the action or description.",
       "The person or thing it is about comes after, with a small marker word in front."
      ]
     }
@@ -178,38 +178,43 @@
      "rows": [
       [
        "**Marker**",
-       "a tiny word before a noun that shows its job",
+       "a tiny word before a noun that shows its job (the textbook calls si and ang articles)",
        "[[ang|marker]], [[si|marker]], [[sa|marker]]"
       ],
       [
        "**Noun**",
        "names a person, place or thing",
-       "[[bahay|noun]] (house), [[aso|noun]] (dog)"
+       "[[báhay|noun]] (house), [[áso|noun]] (dog)"
       ],
       [
        "**Predicate**",
        "the action or description",
-       "[[malaki|pred]] (big), [[gutom|pred]] (hungry)"
+       "[[malakí|pred]] (big), [[kumákain|pred]] (is eating)"
       ],
       [
        "**Pronoun**",
        "stands in for a noun",
-       "[[ako|pron]] (I), [[siya|pron]] (he or she)"
+       "[[akó|pron]] (I), [[siyá|pron]] (he or she)"
       ],
       [
        "**Linker**",
-       "glue that joins two words that belong together",
-       "[[-ng|link]] and [[na|link]]"
+       "glue that joins two words that belong together (the textbook calls them ligatures)",
+       "[[-ng|link]], [[-g|link]] and [[na|link]]"
       ],
       [
        "**Ay**",
-       "joins a subject to its predicate in the other word order",
+       "joins the subject to the predicate when the subject comes first",
        "[[ay|ay]]"
       ],
       [
-       "**Particle**",
-       "a small extra word, often for politeness",
-       "[[po|part]]"
+       "**Polite word**",
+       "a small word that shows respect",
+       "[[pô|part]]"
+      ],
+      [
+       "**Owner word**",
+       "shows whose something is",
+       "[[ko|poss]] (my), [[niyá|poss]] (his/her)"
       ]
      ],
      "title": "The colour code"
@@ -240,35 +245,35 @@
        "What the sentence is about",
        "[[ang|marker]]",
        "[[si|marker]]",
-       "**Ang** bahay (the house), **Si** Ana"
+       "**Ang** báhay (the house), **Si** Ruth"
       ],
       [
        "Owner (\"of\")",
        "[[ng|marker]]",
        "[[ni|marker]]",
-       "bahay **ng** guro, bahay **ni** Ana"
+       "ang báhay **ng** laláki, ang báhay **ni** Maria"
       ],
       [
        "Place or direction",
        "[[sa|marker]]",
        "(see later lessons)",
-       "**sa** bahay (in, at or to the house)"
+       "**sa** báhay (in, at or to the house)"
       ],
       [
        "More than one",
        "[[mga|marker]]",
-       "[[sina|marker]]",
-       "ang **mga** bata, **sina** Ana at Ben"
+       "[[siná|marker]]",
+       "ang **mga** batà, **sina** Helen at Tom"
       ]
      ],
      "title": "Markers at a glance",
-     "note": "You do not have to learn all of these now. Lessons 4 and 8 teach them one step at a time."
+     "note": "You do not have to learn all of these now. Lessons 4, 6 and 8 teach them one step at a time."
     },
     {
      "type": "box",
      "kind": "rule",
      "title": "The key rule",
-     "t": "A name or noun that the sentence is about almost always needs its marker. In English you can say \"Ana is tired\". In Tagalog you need the marker: **Pagod si Ana**."
+     "t": "A noun that the sentence is about is always preceded by its marker, except when you speak to someone directly or give a command. In English you can say \"Peter is good\". In Tagalog you need the marker: **Mabaít si Peter**."
     }
    ]
   },
@@ -300,7 +305,7 @@
        "label": "Tagalog",
        "chips": [
         {
-         "t": "malaki",
+         "t": "malakí",
          "r": "pred"
         },
         {
@@ -308,19 +313,19 @@
          "r": "link"
         },
         {
-         "t": "bahay",
+         "t": "báhay",
          "r": "noun"
         }
        ]
       }
      ],
-     "note": "Malaki + ng + bahay is written as one chunk: malaking bahay. Lesson 7 explains exactly which linker to use."
+     "note": "malakí + -ng + báhay is written malakíng báhay. Lesson 7 explains exactly which linker to use."
     },
     {
      "type": "box",
      "kind": "tip",
      "title": "Why linkers exist",
-     "t": "Without glue, \"malaki bahay\" sounds unfinished to a Tagalog ear, like saying \"big the house\". The linker tells the listener that the two words belong together."
+     "t": "The linker has no meaning of its own. It simply tells the listener that the two words are closely related and that one describes the other."
     }
    ]
   },
@@ -329,7 +334,7 @@
    "blocks": [
     {
      "type": "p",
-     "t": "English does this too. The pronoun \"I\" becomes \"me\" or \"my\" depending on its job. Tagalog also changes pronouns by job. For example, **ako** means \"I\" as the subject, while **ko** means \"my\" after a noun."
+     "t": "English does this too. The pronoun \"I\" becomes \"me\" or \"my\" depending on its job. Tagalog also changes pronouns by job. For example, **akó** means \"I\" as the subject, while **ko** means \"my\" after a noun."
     },
     {
      "type": "table",
@@ -341,13 +346,13 @@
      "rows": [
       [
        "I / my",
-       "[[ako|pron]]",
-       "[[ko|poss]]  (bahay ko = my house)"
+       "[[akó|pron]]",
+       "[[ko|poss]]  (báhay ko = my house)"
       ],
       [
        "you / your",
-       "[[ikaw|pron]]",
-       "[[mo|poss]]  (bahay mo = your house)"
+       "[[ikáw|pron]]",
+       "[[mo|poss]]  (báro mo = your dress)"
       ]
      ],
      "title": "One idea, different shapes",
@@ -366,18 +371,18 @@
    "blocks": [
     {
      "type": "p",
-     "t": "To show more than one, Tagalog puts **mga** (said ma-NGA) in front of the noun. Unlike English, it does not change the noun itself."
+     "t": "To show more than one, Tagalog puts **mga** (said ma-nga) in front of the noun. Unlike English, it does not change the noun itself."
     },
     {
      "type": "examples",
      "items": [
       {
-       "tl": "Masasaya ang mga bata.",
-       "en": "The children are happy.",
+       "tl": "Malilínis ang mga sapátos.",
+       "en": "The shoes are clean.",
        "parts": [
         [
-         "Masasaya",
-         "happy (plural form)",
+         "Malilínis",
+         "clean (plural form)",
          "pred"
         ],
         [
@@ -391,8 +396,8 @@
          "marker"
         ],
         [
-         "bata",
-         "child",
+         "sapátos",
+         "shoes",
          "noun"
         ]
        ]
@@ -401,17 +406,17 @@
     },
     {
      "type": "p",
-     "t": "Notice that the describing word **masasaya** also changed shape to show more than one. Lesson 4 explains how."
+     "t": "Notice that the describing word **malilínis** (from malínis) also changed shape to show more than one. Lesson 4 explains how."
     },
     {
      "type": "p",
-     "t": "Finally, Tagalog speakers show respect with the little word **po**. It has no meaning of its own. It simply makes a sentence politer, like adding \"sir\" or \"madam\" in English. Lesson 3 teaches it."
+     "t": "Finally, Tagalog speakers show respect with the little word **pô**. It has no meaning of its own. It simply makes a sentence politer, like adding \"sir\" or \"madam\" in English. Lesson 3 teaches it."
     },
     {
      "type": "box",
      "kind": "culture",
      "title": "Why this matters",
-     "t": "Politeness is part of grammar in Tagalog. Using po with older people and people you have just met shows good manners."
+     "t": "Politeness is part of grammar in Tagalog. Using pô with older people and people in authority shows good manners."
     }
    ]
   },
@@ -451,14 +456,14 @@
       "Short and often beats long and rare. Ten minutes a day is a good habit.",
       "Say each word out loud after you hear it.",
       "Open the Review tab daily. Spaced review brings words back just before you forget them.",
-      "The small guide under a word (like ma-gan-DA) shows which part to stress."
+      "The small guide under a word (like ma-gan-DA) shows which syllable to stress."
      ]
     },
     {
      "type": "box",
      "kind": "remember",
-     "title": "Sound guide",
-     "t": "In the guide, **capital letters** show the stressed syllable and **ʔ** shows a tiny stop in the throat, like the break in \"uh-oh\". Lesson 2 explains both."
+     "title": "Accent marks and the sound guide",
+     "t": "Words are written with the textbook's accent marks (malakí, báhay), which show the stress. In the sound guide, **capital letters** show the stressed syllable and **Q** stands for the glottal catch, a tiny stop in the throat like the break in \"uh-oh\". Lesson 2 explains both."
     }
    ]
   }
@@ -467,86 +472,34 @@
   {
    "id": "ang",
    "tl": "ang",
-   "en": "the (marks what the sentence is about)",
+   "en": "article before a single thing or place (marks what the sentence is about)",
    "pos": "marker",
-   "group": "markers",
-   "say": "ANG"
+   "group": "markers"
   },
   {
    "id": "si",
    "tl": "si",
-   "en": "marks a person's name when the sentence is about them",
+   "en": "article before the name of one person",
    "pos": "marker",
-   "group": "markers",
-   "say": "SI"
-  },
-  {
-   "id": "sa",
-   "tl": "sa",
-   "en": "in, at, to, on (place or direction)",
-   "pos": "marker",
-   "group": "markers",
-   "say": "SA"
-  },
-  {
-   "id": "mga",
-   "tl": "mga",
-   "en": "marks more than one",
-   "pos": "marker",
-   "group": "markers",
-   "say": "ma-NGA",
-   "note": "Said ma-NGA"
+   "group": "markers"
   },
   {
    "id": "ay",
    "tl": "ay",
-   "en": "is, are (links subject to predicate)",
+   "en": "is, are (joins the subject to the predicate)",
    "pos": "marker",
-   "group": "markers",
-   "say": "AY"
-  },
-  {
-   "id": "bahay",
-   "tl": "bahay",
-   "en": "house",
-   "pos": "noun",
-   "group": "samples",
-   "say": "BA-hay"
-  },
-  {
-   "id": "aso",
-   "tl": "aso",
-   "en": "dog",
-   "pos": "noun",
-   "group": "samples",
-   "say": "A-so"
-  },
-  {
-   "id": "gutom",
-   "tl": "gutom",
-   "en": "hungry",
-   "pos": "adj",
-   "group": "samples",
-   "say": "GU-tom"
-  },
-  {
-   "id": "malaki",
-   "tl": "malaki",
-   "en": "big",
-   "pos": "adj",
-   "group": "samples",
-   "say": "ma-la-KI"
+   "group": "markers"
   }
  ],
  "exercises": [
   {
    "type": "choice",
-   "q": "In \"The dog is hungry\", which part is the predicate?",
+   "q": "In \"The dog is good\", which part is the predicate?",
    "options": [
-    "is hungry",
+    "is good",
     "The dog"
    ],
-   "answer": "is hungry",
+   "answer": "is good",
    "explain": "The predicate says something about the subject. \"The dog\" is the subject."
   },
   {
@@ -557,18 +510,18 @@
     "The thing the sentence is about"
    ],
    "answer": "The action or description",
-   "explain": "Tagalog usually puts the predicate first: Malaki ang bahay."
+   "explain": "Tagalog usually puts the predicate first: Malakí ang báhay."
   },
   {
    "type": "choice",
    "q": "Which of these is a marker?",
    "options": [
     "ang",
-    "bahay",
-    "malaki"
+    "báhay",
+    "malakí"
    ],
    "answer": "ang",
-   "explain": "Ang is a marker. Bahay is a noun and malaki describes something."
+   "explain": "Ang is a marker. Báhay is a noun and malakí describes something."
   },
   {
    "type": "choice",
@@ -579,18 +532,18 @@
     "sa"
    ],
    "answer": "si",
-   "explain": "Si is used for names: Pagod si Ana."
+   "explain": "Si is used before names: Mabaít si Peter."
   },
   {
    "type": "choice",
-   "q": "In \"bahay ng guro\", what does ng show?",
+   "q": "In \"ang báhay ng laláki\", what does ng show?",
    "options": [
     "The owner",
     "The place",
     "The topic"
    ],
    "answer": "The owner",
-   "explain": "Ng means \"of\": the teacher's house."
+   "explain": "Ng means of: the house of the man."
   },
   {
    "type": "choice",
@@ -601,81 +554,81 @@
     "si"
    ],
    "answer": "sa",
-   "explain": "Sa means in, at or to."
+   "explain": "Sa means in, at, on or to."
   },
   {
    "type": "choice",
    "q": "What does a linker do?",
    "options": [
-    "Joins a describing word to its noun",
+    "Joins two words when one describes the other",
     "Makes a sentence polite",
     "Shows more than one"
    ],
-   "answer": "Joins a describing word to its noun",
-   "explain": "Linkers like -ng and na are the glue in malaking bahay."
+   "answer": "Joins two words when one describes the other",
+   "explain": "Linkers like -ng and na are the glue in malakíng báhay."
   },
   {
    "type": "choice",
    "q": "Which Tagalog word means \"we\" when you include the person you are talking to?",
    "options": [
-    "tayo",
-    "kami"
+    "táyo",
+    "kamí"
    ],
-   "answer": "tayo",
-   "explain": "Tayo includes the listener. Kami leaves them out."
+   "answer": "táyo",
+   "explain": "Táyo includes the listener. Kamí leaves them out."
   },
   {
    "type": "choice",
-   "q": "In \"Malaki ang bahay\", which word is the predicate?",
+   "q": "In \"Malakí ang báhay\", which word is the predicate?",
    "options": [
-    "Malaki",
+    "Malakí",
     "ang",
-    "bahay"
+    "báhay"
    ],
-   "answer": "Malaki",
-   "explain": "Malaki (big) is what is said about the house."
+   "answer": "Malakí",
+   "explain": "Malakí (big) is what is said about the house."
   },
   {
    "type": "choice",
-   "q": "What does the little word po add?",
+   "q": "What does the little word pô add?",
    "options": [
     "Respect",
     "Plural",
     "The past"
    ],
    "answer": "Respect",
-   "explain": "Po makes a sentence polite, like \"sir\" or \"madam\"."
+   "explain": "Pô means roughly sir or madam."
   },
   {
    "type": "listen",
-   "tl": "bahay",
+   "tl": "Malakí ang báhay.",
    "options": [
-    "house",
-    "dog",
-    "big"
+    "The house is big.",
+    "The dog is good.",
+    "The child is eating."
    ],
-   "answer": "house",
-   "explain": "Bahay means house."
+   "answer": "The house is big.",
+   "explain": "Malakí ang báhay means The house is big."
   },
   {
    "type": "build",
    "en": "The house is big.",
-   "tl": "Malaki ang bahay.",
+   "tl": "Malakí ang báhay.",
    "tokens": [
-    "malaki",
+    "malakí",
     "ang",
-    "bahay"
+    "báhay"
    ],
    "explain": ""
   },
   {
    "type": "build",
-   "en": "The dog is hungry.",
-   "tl": "Gutom ang aso.",
+   "en": "The child is eating.",
+   "tl": "Kumákain ang batà.",
    "tokens": [
-    "gutom",
+    "kumákain",
     "ang",
-    "aso"
+    "batà"
    ],
    "explain": ""
   },
@@ -704,9 +657,9 @@
  ],
  "recap": [
   "A sentence has a subject (who or what it is about) and a predicate (what is said about it).",
-  "Tagalog usually puts the predicate first: Malaki ang bahay.",
+  "Tagalog usually puts the predicate first: Malakí ang báhay.",
   "Markers (ang, si, ng, ni, sa, mga) sit before nouns and show their job.",
   "Linkers (-ng, -g, na) join describing words to nouns.",
-  "Pronouns and some words change shape, and po adds respect."
+  "Pronouns and some words change shape, and pô adds respect."
  ]
 }

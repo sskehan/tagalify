@@ -5,10 +5,10 @@
  "summary": "How to break words into beats, and why the stressed syllable matters",
  "minutes": 25,
  "goals": [
-  "Recognise the four syllable shapes and break words correctly",
-  "Know the four stress patterns and the marks that show them",
-  "Read the Tagalify sound guide (CAPITALS and ʔ)",
-  "Use three handy stress rules for real words"
+  "Recognise the four kinds of syllable and break words correctly",
+  "Know the four stress types and the accent marks that show them",
+  "Read the sound guide (CAPITALS for stress, Q for the glottal catch)",
+  "Use the four facts about stress and accents"
  ],
  "sections": [
   {
@@ -16,87 +16,145 @@
    "blocks": [
     {
      "type": "p",
-     "t": "A **syllable** is one beat of a word. *ba-sa* has two beats, and *bu-lak-lak* has three. Knowing where the beats fall helps you say each word cleanly."
+     "t": "A **syllable** is one beat of a word. *ba-sa* has two beats, and *bu-lak-lák* has three. Knowing where the beats fall helps you say each word cleanly."
     },
     {
      "type": "p",
-     "t": "Tagalog syllables come in **four shapes**. V stands for a vowel and C for a consonant."
+     "t": "Tagalog has **four kinds of syllable**. V stands for a vowel and C for a consonant."
     },
     {
      "type": "table",
      "head": [
-      "Shape",
-      "Example word",
-      "Split into beats",
+      "Kind",
+      "Syllable",
+      "In the word",
       "Meaning"
      ],
      "rows": [
       [
        "V (one vowel)",
-       "[[tao|noun]]",
-       "ta-o",
+       "o",
+       "[[táo|noun]]  tá-o",
        "person"
       ],
       [
        "V",
-       "[[paa|noun]]",
-       "pa-a",
+       "a",
+       "[[paá|noun]]  pa-á",
        "foot"
       ],
       [
-       "CV",
-       "[[basa|pred]]",
-       "ba-sa",
-       "read, wet"
+       "V",
+       "i",
+       "[[iyák|noun]]  i-yák",
+       "cry"
       ],
       [
-       "CV",
-       "[[ulo|noun]]",
-       "u-lo",
+       "V",
+       "u",
+       "[[úlo|noun]]  ú-lo",
        "head"
       ],
       [
-       "VC",
-       "[[antay|pred]]",
-       "an-tay",
+       "CV (consonant + vowel)",
+       "ba or sa",
+       "[[basa|pred]]  ba-sa",
+       "read"
+      ],
+      [
+       "CV",
+       "ta",
+       "[[táo|noun]]  tá-o",
+       "person"
+      ],
+      [
+       "CV",
+       "na",
+       "[[iná|noun]]  i-ná",
+       "mother"
+      ],
+      [
+       "CV",
+       "lo",
+       "[[úlo|noun]]  ú-lo",
+       "head"
+      ],
+      [
+       "VC (vowel + consonant)",
+       "an",
+       "[[antáy|pred]]  an-táy",
        "wait"
       ],
       [
        "VC",
-       "[[akyat|pred]]",
-       "ak-yat",
+       "am",
+       "[[ambón|noun]]  am-bón",
+       "shower, drizzle"
+      ],
+      [
+       "VC",
+       "ak",
+       "[[akyát|pred]]  ak-yát",
        "climb"
       ],
       [
-       "CVC",
-       "[[takbo|pred]]",
-       "tak-bo",
+       "VC",
+       "it",
+       "[[mapaít|pred]]  ma-pa-ít",
+       "bitter"
+      ],
+      [
+       "CVC (consonant + vowel + consonant)",
+       "tak",
+       "[[takbó|pred]]  tak-bó",
        "run"
       ],
       [
        "CVC",
-       "[[talon|pred]]",
-       "ta-lon",
+       "lak",
+       "[[bulaklák|noun]]  bu-lak-lák",
+       "flower"
+      ],
+      [
+       "CVC",
+       "lon",
+       "[[talón|pred]]  ta-lón",
        "jump"
+      ],
+      [
+       "CVC",
+       "law",
+       "[[ílaw|noun]]  í-law",
+       "light"
       ]
      ],
-     "title": "The four shapes",
-     "note": "Words often mix shapes. In ak-yat, the first beat is VC and the second is CVC."
+     "title": "The four kinds of syllable"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "No hard and fast rules",
+     "t": "There is no simple rule for where every syllable starts and ends. At first, just memorise the stress together with each word as you learn it."
     },
     {
      "type": "box",
      "kind": "rule",
-     "title": "The three-sound limit",
-     "t": "A syllable never holds more than three sounds, and **ng** counts as one sound. So *ku-mus-ta* (how are you) is split that way, **not** *ku-must-a*. Likewise *pang-a-pat* (fourth) and *ha-ngin* (wind) each keep ng together."
+     "title": "Rules that help",
+     "items": [
+      "A syllable never has more than **three** letters, and **ng** counts as one. So it is **ku-mus-tá** (how are you), never ku-must-á. **Pang** in pang-ápat (fourth) and **ngin** in hángin (wind) are only three sounds each.",
+      "Do not separate a starting consonant from its vowel and leave a VC syllable in the middle of a word: **bu-má-nat** (to strike), not bum-á-nat.",
+      "VC syllables are mostly at the start of words: **an-táy** (wait), **ak-yát** (climb). They can also come at the end after a vowel: **pa-ít** (bitter), **la-ot** (sea).",
+      "Prefixes and suffixes \"grab\" sounds from the root: **bu-lak-lák** (flower) becomes **bu-lak-lá-kin** (flowery)."
+     ]
     },
     {
      "type": "box",
      "kind": "tip",
      "title": "Sound crisp, not breathy",
      "items": [
-      "Do not puff air after p, t and k. Say them sharply and quietly, as in Spanish.",
-      "Avoid long English vowels. Keep them short and pure.",
-      "Speak a little faster and sharper than English. A heavy English accent on Tagalog is called a \"slang\" accent."
+      "Say Tagalog words faster, sharper and less breathy than English, more like Spanish.",
+      "Do not puff air after p, k and t.",
+      "Avoid long English a, e and o sounds. Someone who speaks Tagalog with an American accent is called **\"slang\"**."
      ]
     }
    ]
@@ -106,16 +164,12 @@
    "blocks": [
     {
      "type": "p",
-     "t": "**Stress** is the syllable you say with extra force. In English, stress rarely changes a word's meaning. In Tagalog it often does."
-    },
-    {
-     "type": "p",
-     "t": "In books, stress is shown with marks over the vowel. There are **four patterns**."
+     "t": "**Stress** is the syllable you say with extra force. In Tagalog, a different stress can make a different word. The textbook puts an **accent mark** over a vowel to show which syllable is stressed and how."
     },
     {
      "type": "table",
      "head": [
-      "Pattern",
+      "Stress type",
       "Mark",
       "What you do",
       "Example",
@@ -123,102 +177,103 @@
      ],
      "rows": [
       [
-       "End stress",
+       "a. End stress",
        "acute ´ on the last vowel",
-       "stress the **last** beat",
-       "[[anak|noun]]  (a-NAK)",
+       "stress the **last** syllable",
+       "[[anák|noun]]  (a-NAK)",
        "child"
       ],
       [
-       "Next-to-last stress",
-       "acute ´ on the second-last vowel",
-       "stress the **second-last** beat",
-       "[[babae|noun]]  (ba-BA-e)",
+       "b. Penultimate stress",
+       "acute ´ on the next-to-last vowel",
+       "stress the **next-to-last** syllable",
+       "[[babáe|noun]]  (ba-BA-e)",
        "woman"
       ],
       [
-       "Next-to-last + throat stop",
+       "c. Penultimate stress with a glottal catch",
        "grave ` on the last vowel",
-       "stress the second-last beat, then stop in the throat",
-       "[[puno|noun]]  (PU-noʔ)",
+       "stress the next-to-last syllable, then close the throat at the end",
+       "[[punò|noun]]  (PU-noQ)",
        "tree"
       ],
       [
-       "Quick end + throat stop",
+       "d. End glottal catch (no stress)",
        "circumflex ^ on the last vowel",
-       "say it quickly, ending in the throat stop",
-       "[[puno|pred]]  (pu-noʔ)",
+       "say it faster, ending with a glottal catch; the stress seems lost",
+       "[[punô|pred]]  (pu-noQ)",
        "full"
       ]
      ],
-     "title": "Four stress patterns"
+     "title": "Four types of stress"
     },
     {
      "type": "box",
      "kind": "remember",
-     "title": "The Tagalify sound guide",
+     "title": "Reading the sound guide",
      "items": [
-      "**CAPITAL letters** show the stressed beat, as in ba-BA-e.",
-      "**ʔ** shows the throat stop (glottal catch). It is the tiny closing of the throat between the two halves of \"uh-oh\".",
-      "The throat stop is not a k sound. Beginners often confuse the two."
+      "**CAPITAL letters** show the stressed syllable, as in ba-BA-e.",
+      "**Q** stands for the **glottal catch**: an abrupt closing of the throat that blocks the air, like the break in \"uh-oh\". The textbook uses Q the same way.",
+      "Q is only a sign. Do not say a q or k sound. Beginners often mistake the glottal catch for a k.",
+      "Lower-case guides such as **rey-na** just show the syllables where the textbook marks no stress."
      ]
     },
     {
      "type": "box",
-     "kind": "warn",
-     "title": "Why the marks matter",
-     "t": "The same letters can be a different word depending on stress. Always learn the stress together with the word. The audio and the sound guide show it."
+     "kind": "tip",
+     "title": "Long words",
+     "t": "Longer words may have more than one stressed syllable, such as **pinagkákaguluhán** (being mobbed) and **mapágsamantalâ** (opportunistic)."
     }
    ]
   },
   {
-   "title": "Practice words for each pattern",
+   "title": "Practice words for each stress type",
    "blocks": [
     {
      "type": "p",
-     "t": "Say each word aloud, slowly at first, then at normal speed. Tap any word to hear it."
+     "t": "Say each word slowly, syllable by syllable, then a bit faster. Tap any word to hear it."
     },
     {
      "type": "table",
      "head": [
       "End stress",
-      "Next-to-last stress",
-      "Next-to-last + stop",
-      "Quick end + stop"
+      "Penultimate stress",
+      "Penultimate + glottal catch",
+      "End glottal catch"
      ],
      "rows": [
       [
-       "[[anak|noun]]  child",
-       "[[babae|noun]]  woman",
-       "[[puno|noun]]  tree",
-       "[[puno|pred]]  full"
+       "[[anák|noun]]  child",
+       "[[babáe|noun]]  woman",
+       "[[punò|noun]]  tree",
+       "[[punô|pred]]  full"
       ],
       [
-       "[[ama|noun]]  father",
-       "[[lalaki|noun]]  man",
-       "[[kandila|noun]]  candle",
-       "[[sampu|noun]]  ten"
+       "[[amá|noun]]  father",
+       "[[laláki|noun]]  man",
+       "[[kandilà|noun]]  candle",
+       "[[sampû|noun]]  ten"
       ],
       [
-       "[[ina|noun]]  mother",
-       "[[tao|noun]]  person",
-       "[[pusa|noun]]  cat",
-       "[[bakya|noun]]  wooden clogs"
+       "[[iná|noun]]  mother",
+       "[[maínit|pred]]  hot",
+       "[[pusà|noun]]  cat",
+       "[[bakyâ|noun]]  wooden shoes"
       ],
       [
-       "[[bulaklak|noun]]  flower",
-       "[[mainit|pred]]  hot",
-       "[[susi|noun]]  key",
-       "[[masama|pred]]  bad"
+       "[[bulaklák|noun]]  flower",
+       "[[malínis|pred]]  clean",
+       "[[susì|noun]]  key",
+       "[[masamâ|pred]]  bad"
       ],
       [
-       "[[malakas|pred]]  strong",
-       "[[malinis|pred]]  clean",
-       "[[bata|noun]]  child",
-       "[[ginto|noun]]  gold"
+       "[[malakás|pred]]  strong",
+       "[[táo|noun]]  person",
+       "[[batà|noun]]  child",
+       "[[gintô|noun]]  gold"
       ]
      ],
-     "title": "Words by stress pattern"
+     "title": "Words by stress type"
     },
     {
      "type": "vocab",
@@ -228,107 +283,113 @@
    ]
   },
   {
-   "title": "Same letters, different meaning",
+   "title": "Fact 1: stress can change the meaning",
    "blocks": [
     {
      "type": "p",
-     "t": "Because stress can change meaning, two words can be spelled exactly alike. Listen for the difference."
-    },
-    {
-     "type": "table",
-     "head": [
-      "Spelling",
-      "Sound guide",
-      "Meaning"
-     ],
-     "rows": [
-      [
-       "[[buhay|noun]]",
-       "BU-hay",
-       "life"
-      ],
-      [
-       "[[buhay|pred]]",
-       "bu-HAY",
-       "alive"
-      ],
-      [
-       "[[matulog|pred]]",
-       "ma-TU-log",
-       "to sleep"
-      ],
-      [
-       "[[matulog|pred]]",
-       "ma-tu-LOG",
-       "to fall asleep without meaning to"
-      ],
-      [
-       "[[makaalis|pred]]",
-       "ma-ka-a-LIS",
-       "to be able to leave"
-      ],
-      [
-       "[[makaalis|pred]]",
-       "ma-KA-a-lis",
-       "to leave by accident"
-      ]
-     ],
-     "title": "Pairs to listen for"
-    },
-    {
-     "type": "box",
-     "kind": "tip",
-     "title": "When in doubt",
-     "t": "Context usually tells listeners which word you mean. But wrong stress is one of the most common things that marks a learner, so learn it from the start."
-    }
-   ]
-  },
-  {
-   "title": "Three handy stress rules",
-   "blocks": [
-    {
-     "type": "h",
-     "t": "1. The throat stop disappears when an ending is added"
-    },
-    {
-     "type": "p",
-     "t": "When you attach an ending to a word that ends in a throat stop, the stop is dropped and the stress moves."
+     "t": "Words spelled with the same letters can mean different things. Only the stress tells them apart."
     },
     {
      "type": "table",
      "head": [
       "Word",
       "Sound guide",
-      "With an ending",
-      "Sound guide",
-      "New meaning"
+      "Meaning"
      ],
      "rows": [
       [
-       "[[bata|noun]]",
-       "BA-taʔ",
-       "[[kabataan|noun]]",
+       "[[kaibígan|noun]]",
+       "ka-i-BI-gan",
+       "friend"
+      ],
+      [
+       "[[kaibigán|noun]]",
+       "ka-i-bi-GAN",
+       "desire"
+      ],
+      [
+       "[[káibigán|pred]]",
+       "KA-i-bi-GAN",
+       "have mutual understanding with"
+      ],
+      [
+       "[[kaíbigan|noun]]",
+       "ka-I-bi-gan",
+       "sweetheart"
+      ],
+      [
+       "[[makaalís|pred]]",
+       "ma-ka-a-LIS",
+       "to be able to leave"
+      ],
+      [
+       "[[makáalis|pred]]",
+       "ma-KA-a-lis",
+       "to leave unintentionally"
+      ],
+      [
+       "[[matúlog|pred]]",
+       "ma-TU-log",
+       "to sleep"
+      ],
+      [
+       "[[matulóg|pred]]",
+       "ma-tu-LOG",
+       "to fall asleep unintentionally"
+      ]
+     ],
+     "title": "Same letters, different words"
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Learn the stress with the word",
+     "t": "Wrong stress can turn \"friend\" into \"sweetheart\". Always learn a word together with its stress."
+    }
+   ]
+  },
+  {
+   "title": "Facts 2 to 4: stress in action",
+   "blocks": [
+    {
+     "type": "h",
+     "t": "2. The glottal catch is lost when a suffix is added"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Word",
+      "Sound guide",
+      "With a suffix",
+      "Sound guide",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[batà|noun]]  child",
+       "BA-taQ",
+       "[[kabatáan|noun]]",
        "ka-ba-TA-an",
        "youth"
       ],
       [
-       "[[luha|noun]]",
-       "LU-haʔ",
-       "[[luhaan|pred]]",
+       "[[luhà|noun]]  tears",
+       "LU-haQ",
+       "[[luhaán|pred]]",
        "lu-ha-AN",
-       "tearful, miserable"
+       "miserable"
       ],
       [
-       "[[puno|noun]]",
-       "PU-noʔ",
-       "[[punuin|pred]]",
+       "[[punô|pred]]  full",
+       "pu-noQ",
+       "[[punuín|pred]]",
        "pu-nu-IN",
        "to fill with"
       ],
       [
-       "[[susi|noun]]",
-       "SU-siʔ",
-       "[[susian|noun]]",
+       "[[susì|noun]]  key",
+       "SU-siQ",
+       "[[susián|noun]]",
        "su-si-AN",
        "keyhole"
       ]
@@ -336,77 +397,88 @@
     },
     {
      "type": "h",
-     "t": "2. A one-syllable word borrows the stress of the word before it"
+     "t": "3. One-syllable words take the stress of the word before"
     },
     {
      "type": "p",
-     "t": "Short words such as **ka, pa, na, ba, po** do not carry their own stress. The word just before them gives its stress away, so the stress lands on the short word."
+     "t": "A one-syllable word often takes on the stress of the word in front of it, and that word loses its own stress."
     },
     {
      "type": "table",
      "head": [
+      "Word",
       "Phrase",
       "Sound guide",
       "Meaning"
      ],
      "rows": [
       [
-       "[[Kumain ka.|pred]]",
-       "ku-ma-in KA",
+       "[[kumáin|pred]]",
+       "[[Kumain ká.|pred]]",
+       "Ku-ma-in KA.",
        "You may eat."
       ],
       [
-       "[[Hindi pa.|pred]]",
-       "hin-di PA",
+       "[[hindî|other]]",
+       "[[Hindi pá.|other]]",
+       "Hin-di PA.",
        "Not yet."
       ],
       [
-       "[[Malapit na.|pred]]",
-       "ma-la-pit NA",
+       "[[ganitó|other]]",
+       "[[Ganito bá?|other]]",
+       "Ga-ni-to BA?",
+       "Like this?"
+      ],
+      [
+       "[[malápit|pred]]",
+       "[[Malapit ná.|pred]]",
+       "Ma-la-pit NA.",
        "It is near."
       ],
       [
-       "[[Hindi po.|pred]]",
-       "hin-di PO",
-       "No, sir or madam."
+       "[[hindî|other]]",
+       "[[Hindi pô.|other]]",
+       "Hin-di PO.",
+       "No, sir / madam."
       ]
      ]
     },
     {
      "type": "h",
-     "t": "3. A hyphen marks the throat stop between a prefix and a root"
+     "t": "4. A hyphen marks a glottal stop after a prefix"
     },
     {
      "type": "p",
-     "t": "When a prefix ends in a consonant and the root starts with a vowel, a hyphen keeps them apart and you make a throat stop at the hyphen."
+     "t": "When a prefix ends in a consonant and the root starts with a vowel, a hyphen separates them so the word is not mispronounced."
     },
     {
      "type": "table",
      "head": [
-      "Spelling",
+      "Word",
       "Sound guide",
       "Meaning"
      ],
      "rows": [
       [
-       "[[pag-asa|noun]]",
-       "pagʔ-A-sa",
+       "[[pag-ása|noun]]",
+       "pagQ-A-sa",
        "hope"
       ],
       [
-       "[[pag-ibig|noun]]",
-       "pagʔ-I-big",
-       "love"
+       "[[mag-alís|pred]]",
+       "magQ-a-LIS",
+       "to remove"
       ],
       [
-       "[[mag-isa|pred]]",
-       "magʔ-i-SA",
+       "[[mag-isá|pred]]",
+       "magQ-i-SA",
        "alone"
       ],
       [
-       "[[mag-alis|pred]]",
-       "magʔ-a-LIS",
-       "to remove"
+       "[[pag-íbig|noun]]",
+       "pagQ-I-big",
+       "love"
       ]
      ]
     },
@@ -416,8 +488,10 @@
      "title": "Remember",
      "items": [
       "Stress can change meaning, so learn it with every word.",
-      "Capitals show stress and ʔ shows the throat stop in the Tagalify guide.",
-      "One-syllable words borrow stress from the word before them."
+      "Capitals show the stressed syllable and Q shows the glottal catch.",
+      "The glottal catch is lost when a suffix is added.",
+      "One-syllable words take the stress of the word before them.",
+      "A hyphen after a prefix marks a glottal stop."
      ]
     }
    ]
@@ -426,188 +500,214 @@
  "vocab": [
   {
    "id": "anak",
-   "tl": "anak",
-   "en": "child (son or daughter)",
+   "tl": "anák",
+   "en": "child",
    "pos": "noun",
    "group": "stress",
-   "say": "a-NAK",
-   "note": "End stress. Marked: anák"
+   "say": "a-NAK"
   },
   {
    "id": "ama",
-   "tl": "ama",
+   "tl": "amá",
    "en": "father",
    "pos": "noun",
    "group": "stress",
-   "say": "a-MA",
-   "note": "End stress. Marked: amá"
+   "say": "a-MA"
   },
   {
    "id": "ina",
-   "tl": "ina",
+   "tl": "iná",
    "en": "mother",
    "pos": "noun",
    "group": "stress",
-   "say": "i-NA",
-   "note": "End stress. Marked: iná"
-  },
-  {
-   "id": "babae",
-   "tl": "babae",
-   "en": "woman, female",
-   "pos": "noun",
-   "group": "stress",
-   "say": "ba-BA-e",
-   "note": "Marked: babáe"
-  },
-  {
-   "id": "lalaki",
-   "tl": "lalaki",
-   "en": "man, male",
-   "pos": "noun",
-   "group": "stress",
-   "say": "la-LA-ki",
-   "note": "Marked: laláki"
-  },
-  {
-   "id": "tao",
-   "tl": "tao",
-   "en": "person",
-   "pos": "noun",
-   "group": "stress",
-   "say": "TA-o",
-   "note": "Marked: táo"
-  },
-  {
-   "id": "puno-tree",
-   "tl": "puno",
-   "en": "tree",
-   "pos": "noun",
-   "group": "stress",
-   "say": "PU-noʔ",
-   "note": "Marked: punò. Not the same as puno (full)"
-  },
-  {
-   "id": "puno-full",
-   "tl": "puno",
-   "en": "full",
-   "pos": "adj",
-   "group": "stress",
-   "say": "pu-noʔ",
-   "note": "Marked: punô. Not the same as puno (tree)"
-  },
-  {
-   "id": "kandila",
-   "tl": "kandila",
-   "en": "candle",
-   "pos": "noun",
-   "group": "stress",
-   "say": "kan-DI-laʔ",
-   "note": "Marked: kandilà"
-  },
-  {
-   "id": "pusa",
-   "tl": "pusa",
-   "en": "cat",
-   "pos": "noun",
-   "group": "stress",
-   "say": "PU-saʔ",
-   "note": "Marked: pusà"
-  },
-  {
-   "id": "susi",
-   "tl": "susi",
-   "en": "key",
-   "pos": "noun",
-   "group": "stress",
-   "say": "SU-siʔ",
-   "note": "Marked: susì"
-  },
-  {
-   "id": "bata",
-   "tl": "bata",
-   "en": "child, young",
-   "pos": "noun",
-   "group": "stress",
-   "say": "BA-taʔ",
-   "note": "Marked: batà"
+   "say": "i-NA"
   },
   {
    "id": "bulaklak",
-   "tl": "bulaklak",
+   "tl": "bulaklák",
    "en": "flower",
    "pos": "noun",
    "group": "stress",
-   "say": "bu-lak-LAK",
-   "note": "Marked: bulaklák"
+   "say": "bu-lak-LAK"
+  },
+  {
+   "id": "malakas",
+   "tl": "malakás",
+   "en": "strong",
+   "pos": "adj",
+   "group": "stress",
+   "say": "ma-la-KAS"
+  },
+  {
+   "id": "babae",
+   "tl": "babáe",
+   "en": "woman",
+   "pos": "noun",
+   "group": "stress",
+   "say": "ba-BA-e"
+  },
+  {
+   "id": "lalaki",
+   "tl": "laláki",
+   "en": "man",
+   "pos": "noun",
+   "group": "stress",
+   "say": "la-LA-ki"
+  },
+  {
+   "id": "mainit",
+   "tl": "maínit",
+   "en": "hot",
+   "pos": "adj",
+   "group": "stress",
+   "say": "ma-I-nit"
+  },
+  {
+   "id": "malinis",
+   "tl": "malínis",
+   "en": "clean",
+   "pos": "adj",
+   "group": "stress",
+   "say": "ma-LI-nis"
+  },
+  {
+   "id": "tao",
+   "tl": "táo",
+   "en": "person",
+   "pos": "noun",
+   "group": "stress",
+   "say": "TA-o"
+  },
+  {
+   "id": "puno-tree",
+   "tl": "punò",
+   "en": "tree",
+   "pos": "noun",
+   "group": "stress",
+   "say": "PU-noQ",
+   "note": "Not the same as punô (full)"
+  },
+  {
+   "id": "kandila",
+   "tl": "kandilà",
+   "en": "candle",
+   "pos": "noun",
+   "group": "stress",
+   "say": "kan-DI-laQ"
+  },
+  {
+   "id": "pusa",
+   "tl": "pusà",
+   "en": "cat",
+   "pos": "noun",
+   "group": "stress",
+   "say": "PU-saQ"
+  },
+  {
+   "id": "susi",
+   "tl": "susì",
+   "en": "key",
+   "pos": "noun",
+   "group": "stress",
+   "say": "SU-siQ"
+  },
+  {
+   "id": "bata",
+   "tl": "batà",
+   "en": "child",
+   "pos": "noun",
+   "group": "stress",
+   "say": "BA-taQ"
+  },
+  {
+   "id": "puno-full",
+   "tl": "punô",
+   "en": "full",
+   "pos": "adj",
+   "group": "stress",
+   "say": "pu-noQ",
+   "note": "Not the same as punò (tree)"
   },
   {
    "id": "sampu",
-   "tl": "sampu",
+   "tl": "sampû",
    "en": "ten",
    "pos": "num",
    "group": "stress",
-   "say": "sam-puʔ",
-   "note": "Marked: sampû"
+   "say": "sam-puQ"
   },
   {
-   "id": "buhay-life",
-   "tl": "buhay",
-   "en": "life",
+   "id": "bakya",
+   "tl": "bakyâ",
+   "en": "wooden shoes",
    "pos": "noun",
    "group": "stress",
-   "say": "BU-hay",
-   "note": "Not the same as buhay (alive)"
+   "say": "bak-yaQ"
   },
   {
-   "id": "buhay-alive",
-   "tl": "buhay",
-   "en": "alive",
+   "id": "masama",
+   "tl": "masamâ",
+   "en": "bad",
    "pos": "adj",
    "group": "stress",
-   "say": "bu-HAY",
-   "note": "Not the same as buhay (life)"
+   "say": "ma-sa-maQ"
+  },
+  {
+   "id": "ginto",
+   "tl": "gintô",
+   "en": "gold",
+   "pos": "noun",
+   "group": "stress",
+   "say": "gin-toQ"
   },
   {
    "id": "pag-asa",
-   "tl": "pag-asa",
+   "tl": "pag-ása",
    "en": "hope",
    "pos": "noun",
    "group": "stress",
-   "say": "pagʔ-A-sa"
+   "say": "pagQ-A-sa"
   },
   {
-   "id": "pag-ibig",
-   "tl": "pag-ibig",
-   "en": "love",
-   "pos": "noun",
+   "id": "mag-alis",
+   "tl": "mag-alís",
+   "en": "to remove",
+   "pos": "verb",
    "group": "stress",
-   "say": "pagʔ-I-big"
+   "say": "magQ-a-LIS"
   },
   {
    "id": "mag-isa",
-   "tl": "mag-isa",
+   "tl": "mag-isá",
    "en": "alone",
    "pos": "adv",
    "group": "stress",
-   "say": "magʔ-i-SA"
+   "say": "magQ-i-SA"
+  },
+  {
+   "id": "pag-ibig",
+   "tl": "pag-íbig",
+   "en": "love",
+   "pos": "noun",
+   "group": "stress",
+   "say": "pagQ-I-big"
   }
  ],
  "exercises": [
   {
    "type": "choice",
-   "q": "What is the shape of the syllable \"an\" in an-tay?",
+   "q": "What kind of syllable is \"an\" in an-táy (wait)?",
    "options": [
     "VC",
     "CV",
     "CVC"
    ],
    "answer": "VC",
-   "explain": "It is a vowel followed by a consonant."
+   "explain": "A vowel followed by a consonant."
   },
   {
    "type": "choice",
-   "q": "What is the shape of \"tak\" in tak-bo?",
+   "q": "What kind of syllable is \"tak\" in tak-bó (run)?",
    "options": [
     "CVC",
     "CV",
@@ -618,177 +718,241 @@
   },
   {
    "type": "choice",
-   "q": "Which is the correct way to split kumusta?",
+   "q": "Which is the correct way to split kumustá?",
    "options": [
-    "ku-mus-ta",
-    "ku-must-a",
-    "kum-us-ta"
+    "ku-mus-tá",
+    "ku-must-á",
+    "kum-us-tá"
    ],
-   "answer": "ku-mus-ta",
-   "explain": "A syllable never holds more than three sounds."
+   "answer": "ku-mus-tá",
+   "explain": "A syllable never has more than three letters, with ng counted as one."
   },
   {
    "type": "choice",
-   "q": "What is the maximum number of sounds in a Tagalog syllable?",
+   "q": "What is the most letters a Tagalog syllable can have?",
    "options": [
     "Three",
     "Two",
     "Four"
    ],
    "answer": "Three",
-   "explain": "ng counts as one sound, so pang and ngin both fit."
+   "explain": "ng counts as one letter, so pang and ngin both fit."
   },
   {
    "type": "choice",
    "q": "A grave mark (`) on the last vowel, as in punò, means…",
    "options": [
-    "Stress on the second-last beat, then a throat stop",
-    "Stress on the last beat",
+    "Penultimate stress with a glottal catch",
+    "Stress on the last syllable",
     "A long vowel"
    ],
-   "answer": "Stress on the second-last beat, then a throat stop",
-   "explain": "Grave means next-to-last stress with a glottal catch at the end."
+   "answer": "Penultimate stress with a glottal catch",
+   "explain": "Stress the next-to-last syllable and close the throat at the end."
   },
   {
    "type": "choice",
    "q": "A circumflex (^) on the last vowel, as in punô, means…",
    "options": [
-    "A quick ending with a throat stop",
-    "Stress on the first beat",
+    "An end glottal catch with no stress",
+    "Stress on the first syllable",
     "A silent letter"
    ],
-   "answer": "A quick ending with a throat stop",
-   "explain": "Circumflex means a short end with a glottal stop and no strong stress."
+   "answer": "An end glottal catch with no stress",
+   "explain": "The word is said faster and ends with a glottal catch."
   },
   {
    "type": "choice",
-   "q": "What do CAPITAL letters show in the Tagalify sound guide?",
+   "q": "What do CAPITAL letters show in the sound guide?",
    "options": [
-    "The stressed beat",
+    "The stressed syllable",
     "A silent letter",
     "A name"
    ],
-   "answer": "The stressed beat",
-   "explain": "In ba-BA-e, the capital marks the stressed beat."
+   "answer": "The stressed syllable",
+   "explain": "In ba-BA-e, the capitals mark the stressed syllable."
   },
   {
    "type": "choice",
-   "q": "What does ʔ show in the sound guide?",
+   "q": "What does Q show in the sound guide?",
    "options": [
-    "A tiny stop in the throat",
-    "A strong k sound",
-    "A long pause"
+    "The glottal catch",
+    "A q sound",
+    "A k sound"
    ],
-   "answer": "A tiny stop in the throat",
-   "explain": "It is the glottal catch, like the break in uh-oh."
+   "answer": "The glottal catch",
+   "explain": "It is only a sign for the glottal catch, not a letter to pronounce."
   },
   {
    "type": "choice",
-   "q": "Where does the stress fall in \"hin-di PA\"?",
+   "q": "Where does the stress fall in \"Hindi pá\"?",
    "options": [
     "On pa",
     "On hin",
     "On di"
    ],
    "answer": "On pa",
-   "explain": "A one-syllable word borrows stress from the word before it."
+   "explain": "A one-syllable word takes the stress of the word before it."
   },
   {
    "type": "choice",
-   "q": "What does the hyphen in pag-asa tell you?",
+   "q": "What does the hyphen in pag-ása tell you?",
    "options": [
-    "Make a throat stop between the prefix and the root",
+    "There is a glottal stop between the prefix and the root",
     "The word is plural",
     "The word is polite"
    ],
-   "answer": "Make a throat stop between the prefix and the root",
-   "explain": "The hyphen separates a consonant-ending prefix from a vowel-starting root."
+   "answer": "There is a glottal stop between the prefix and the root",
+   "explain": "The hyphen separates a prefix ending in a consonant from a root starting with a vowel."
   },
   {
    "type": "choice",
-   "q": "Which word loses its throat stop when -an is added?",
+   "q": "What happens to the glottal catch in batà when it becomes kabatáan?",
    "options": [
-    "batà becomes kabataan",
-    "anák becomes kaanakan",
-    "amá becomes amaan"
+    "It is lost",
+    "It doubles",
+    "It moves to the front"
    ],
-   "answer": "batà becomes kabataan",
-   "explain": "The final stop disappears and the stress moves."
+   "answer": "It is lost",
+   "explain": "The glottal catch is lost when a suffix is added."
   },
   {
    "type": "choice",
-   "q": "BU-hay and bu-HAY are spelled the same. What does bu-HAY mean?",
+   "q": "Kaibígan (ka-i-BI-gan) means friend. What does kaíbigan (ka-I-bi-gan) mean?",
    "options": [
-    "alive",
-    "life",
-    "house"
+    "sweetheart",
+    "desire",
+    "enemy"
    ],
-   "answer": "alive",
-   "explain": "BU-hay is life, and bu-HAY is alive."
+   "answer": "sweetheart",
+   "explain": "Only the stress tells these words apart."
+  },
+  {
+   "type": "choice",
+   "q": "Matúlog means to sleep. What does matulóg mean?",
+   "options": [
+    "to fall asleep unintentionally",
+    "to wake up",
+    "to be sleepy"
+   ],
+   "answer": "to fall asleep unintentionally",
+   "explain": "Ma-TU-log and ma-tu-LOG are different words."
   },
   {
    "type": "listen",
-   "tl": "anak",
+   "tl": "anák",
    "options": [
     "child",
     "father",
     "mother"
    ],
    "answer": "child",
-   "explain": "Anak means child."
+   "explain": "Anák means child."
   },
   {
    "type": "listen",
-   "tl": "ina",
+   "tl": "iná",
    "options": [
     "mother",
     "father",
     "woman"
    ],
    "answer": "mother",
-   "explain": "Ina means mother."
+   "explain": "Iná means mother."
+  },
+  {
+   "type": "listen",
+   "tl": "gintô",
+   "options": [
+    "gold",
+    "ten",
+    "bad"
+   ],
+   "answer": "gold",
+   "explain": "Gintô means gold."
   },
   {
    "type": "build",
-   "en": "Put the beats of maganda (beautiful) in order.",
-   "tl": "ma-gan-da",
+   "en": "Put the syllables of magandá (beautiful) in order.",
+   "tl": "ma-gan-dá",
    "tokens": [
     "ma",
     "gan",
-    "da"
+    "dá"
    ],
-   "explain": "Maganda splits into ma-gan-da."
+   "explain": "Magandá splits into ma-gan-dá."
   },
   {
    "type": "build",
-   "en": "Put the beats of pagkain (food) in order.",
-   "tl": "pag-ka-in",
+   "en": "Put the syllables of pagkáin (food) in order.",
+   "tl": "pag-ká-in",
    "tokens": [
     "pag",
-    "ka",
+    "ká",
     "in"
    ],
-   "explain": "Pagkain splits into pag-ka-in."
+   "explain": "Pagkáin splits into pag-ká-in."
+  },
+  {
+   "type": "build",
+   "en": "Put the syllables of tatló (three) in order.",
+   "tl": "tat-ló",
+   "tokens": [
+    "tat",
+    "ló"
+   ],
+   "explain": "Tatló splits into tat-ló."
+  },
+  {
+   "type": "build",
+   "en": "Put the syllables of ngayón (now, today) in order.",
+   "tl": "nga-yón",
+   "tokens": [
+    "nga",
+    "yón"
+   ],
+   "explain": "ng counts as one letter, so ngayón splits into nga-yón."
   },
   {
    "type": "match",
    "q": "Match each word to its meaning.",
    "pairs": [
     [
-     "anak",
+     "anák",
      "child"
     ],
     [
-     "ama",
+     "amá",
      "father"
     ],
     [
-     "ina",
+     "iná",
      "mother"
     ],
     [
-     "tao",
+     "táo",
      "person"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each word to its meaning.",
+   "pairs": [
+    [
+     "punò",
+     "tree"
+    ],
+    [
+     "punô",
+     "full"
+    ],
+    [
+     "susì",
+     "key"
+    ],
+    [
+     "bakyâ",
+     "wooden shoes"
     ]
    ]
   },
@@ -798,28 +962,28 @@
    "pairs": [
     [
      "Acute on the last vowel",
-     "stress the last beat"
+     "end stress"
     ],
     [
      "Grave on the last vowel",
-     "stress second-last, then throat stop"
+     "penultimate stress, glottal catch"
     ],
     [
      "Circumflex on the last vowel",
-     "quick end with throat stop"
+     "end glottal catch, no stress"
     ],
     [
      "CAPITAL letters in a guide",
-     "the stressed beat"
+     "the stressed syllable"
     ]
    ]
   }
  ],
  "recap": [
-  "Four syllable shapes: V, CV, VC, CVC. No syllable has more than three sounds (ng counts as one).",
-  "Four stress patterns: end stress, next-to-last stress, next-to-last with throat stop, quick end with throat stop.",
-  "In the Tagalify guide, CAPITALS are the stressed beat and ʔ is the throat stop.",
+  "Four kinds of syllable: V, CV, VC, CVC. No syllable has more than three letters (ng counts as one).",
+  "Four stress types: end stress (´), penultimate stress (´), penultimate with a glottal catch (`), end glottal catch (^).",
+  "In the sound guide, CAPITALS are the stressed syllable and Q is the glottal catch.",
   "Stress can change meaning, so learn it with every word.",
-  "One-syllable words borrow stress. A hyphen marks a throat stop inside a word."
+  "The glottal catch is lost with a suffix; one-syllable words take the stress before them; a hyphen marks a glottal stop."
  ]
 }
