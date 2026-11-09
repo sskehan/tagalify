@@ -1,0 +1,337 @@
+{
+ "title": "Cheat sheet",
+ "intro": "Every rule from Lessons 1 to 8 on one page. Tap any coloured word to hear it.",
+ "sections": [
+  {
+   "id": "order",
+   "title": "How a sentence is built",
+   "blocks": [
+    {
+     "type": "pattern",
+     "title": "Predicate first (everyday)",
+     "rows": [
+      {
+       "label": "Pattern",
+       "chips": [
+        {
+         "t": "Malaki",
+         "r": "pred"
+        },
+        {
+         "t": "ang",
+         "r": "marker"
+        },
+        {
+         "t": "bahay",
+         "r": "noun"
+        }
+       ]
+      }
+     ],
+     "note": "The big thing comes first. The house is big."
+    },
+    {
+     "type": "pattern",
+     "title": "Subject first (with ay)",
+     "rows": [
+      {
+       "label": "Pattern",
+       "chips": [
+        {
+         "t": "Ang",
+         "r": "marker"
+        },
+        {
+         "t": "bahay",
+         "r": "noun"
+        },
+        {
+         "t": "ay",
+         "r": "ay"
+        },
+        {
+         "t": "malaki",
+         "r": "pred"
+        }
+       ]
+      }
+     ],
+     "note": "Ay appears only when the subject comes first."
+    },
+    {
+     "type": "p",
+     "t": "To flip: move the predicate to the front, delete ay, keep the marker with the subject."
+    }
+   ]
+  },
+  {
+   "id": "markers",
+   "title": "Markers",
+   "blocks": [
+    {
+     "type": "table",
+     "head": [
+      "Job",
+      "Name",
+      "Common noun",
+      "More than one"
+     ],
+     "rows": [
+      [
+       "Subject",
+       "[[si|marker]]",
+       "[[ang|marker]]",
+       "[[sina|marker]] / [[ang mga|marker]]"
+      ],
+      [
+       "Owner (of)",
+       "[[ni|marker]]",
+       "[[ng|marker]]",
+       "[[nina|marker]] / [[ng mga|marker]]"
+      ],
+      [
+       "Place (at, to, in)",
+       "[[kay|marker]]",
+       "[[sa|marker]]",
+       "[[kina|marker]] / [[sa mga|marker]]"
+      ]
+     ],
+     "note": "Names use si / ni / kay. Common nouns use ang / ng / sa."
+    }
+   ]
+  },
+  {
+   "id": "pronouns",
+   "title": "Pronouns",
+   "blocks": [
+    {
+     "type": "table",
+     "head": [
+      "English",
+      "Subject (after the predicate)",
+      "Owner, after the noun",
+      "Owner, before the noun",
+      "Basic form"
+     ],
+     "rows": [
+      [
+       "I, me, my",
+       "[[ako|pron]]",
+       "[[ko|poss]]",
+       "[[aking|poss]]",
+       "[[akin|poss]]"
+      ],
+      [
+       "you (one)",
+       "[[ikaw|pron]] / [[ka|pron]]",
+       "[[mo|poss]]",
+       "[[iyong|poss]]",
+       "[[iyo|poss]]"
+      ],
+      [
+       "he, she",
+       "[[siya|pron]]",
+       "[[niya|poss]]",
+       "[[kaniyang|poss]]",
+       "[[kaniya|poss]]"
+      ],
+      [
+       "we (not you)",
+       "[[kami|pron]]",
+       "[[namin|poss]]",
+       "[[aming|poss]]",
+       "[[amin|poss]]"
+      ],
+      [
+       "we (with you)",
+       "[[tayo|pron]]",
+       "[[natin|poss]]",
+       "[[ating|poss]]",
+       "[[atin|poss]]"
+      ],
+      [
+       "you (plural, polite)",
+       "[[kayo|pron]]",
+       "[[ninyo|poss]]",
+       "[[inyong|poss]]",
+       "[[inyo|poss]]"
+      ],
+      [
+       "they",
+       "[[sila|pron]]",
+       "[[nila|poss]]",
+       "[[kanilang|poss]]",
+       "[[kanila|poss]]"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "head": [
+      "Near me",
+      "Near you",
+      "Far from both"
+     ],
+     "rows": [
+      [
+       "[[ito|pron]] (this)",
+       "[[iyan|pron]] (that)",
+       "[[iyon|pron]] (that over there)"
+      ],
+      [
+       "[[nito|poss]] (of this)",
+       "[[niyan|poss]] (of that)",
+       "[[niyon|poss]] (of that over there)"
+      ]
+     ],
+     "title": "This and that"
+    }
+   ]
+  },
+  {
+   "id": "linkers",
+   "title": "Linkers",
+   "blocks": [
+    {
+     "type": "table",
+     "head": [
+      "The first word ends in…",
+      "Linker",
+      "Example"
+     ],
+     "rows": [
+      [
+       "a vowel",
+       "[[-ng|link]]",
+       "[[malaking bahay|noun]]"
+      ],
+      [
+       "n",
+       "[[-g|link]]",
+       "[[mayamang lalaki|noun]]"
+      ],
+      [
+       "any other consonant",
+       "[[na|link]]",
+       "[[mabait na bata|noun]]"
+      ]
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "The first word decides the linker, in either order.",
+      "With several adjectives, only the last takes the linker.",
+      "Repeat an adjective with na for emphasis: malinaw na malinaw."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "possession",
+   "title": "Possession",
+   "blocks": [
+    {
+     "type": "pattern",
+     "title": "Thing first, owner second",
+     "rows": [
+      {
+       "label": "Pattern",
+       "chips": [
+        {
+         "t": "ang",
+         "r": "marker"
+        },
+        {
+         "t": "bahay",
+         "r": "noun"
+        },
+        {
+         "t": "ni",
+         "r": "marker"
+        },
+        {
+         "t": "Ana",
+         "r": "noun"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "Rules",
+     "items": [
+      "Plural: ang aking mga anak (possessive before mga).",
+      "Mix one before-form and one after-form: ang aking ina ... bahay ko."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "polite",
+   "title": "Politeness",
+   "blocks": [
+    {
+     "type": "table",
+     "head": [
+      "Word",
+      "Use"
+     ],
+     "rows": [
+      [
+       "[[po|part]]",
+       "polite, for elders and strangers (any sentence)"
+      ],
+      [
+       "[[ho|part]]",
+       "polite, a little softer (after a word ending in a vowel it can sound smoother)"
+      ],
+      [
+       "[[opo|part]]",
+       "polite yes"
+      ],
+      [
+       "[[oho|part]]",
+       "polite yes, a little softer"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sounds",
+   "title": "Sounds and stress",
+   "blocks": [
+    {
+     "type": "table",
+     "head": [
+      "Sign",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "CAPITALS in Say it",
+       "stressed syllable, said louder and a little longer"
+      ],
+      [
+       "ʔ",
+       "glottal stop: a tiny catch of the throat at the end"
+      ],
+      [
+       "ng",
+       "one sound, like the end of \"sing\""
+      ],
+      [
+       "r",
+       "a quick tap of the tongue, like the middle of \"butter\""
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

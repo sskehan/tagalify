@@ -1,0 +1,848 @@
+{
+ "id": "l05",
+ "label": "5",
+ "title": "Sentence formation",
+ "summary": "The two sentence orders, and how to flip one into the other",
+ "minutes": 25,
+ "goals": [
+  "Tell the two sentence orders apart: subject first (with ay) and predicate first",
+  "Flip a sentence from one order to the other",
+  "Place mga and sina correctly when a sentence is flipped",
+  "Use the short at ('t) and leave out an understood subject"
+ ],
+ "sections": [
+  {
+   "title": "Two ways to build a sentence",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Every Tagalog sentence can be built in **two orders**. The meaning is the same, but the focus is different."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Order",
+      "Pattern",
+      "Focus",
+      "How common"
+     ],
+     "rows": [
+      [
+       "Subject first",
+       "[[Ang|marker]] subject + [[ay|ay]] + predicate",
+       "the subject",
+       "more formal, written"
+      ],
+      [
+       "Predicate first (inverted)",
+       "predicate + [[ang|marker]] subject",
+       "the predicate",
+       "the everyday order"
+      ]
+     ],
+     "title": "The two orders"
+    },
+    {
+     "type": "pattern",
+     "title": "The same sentence both ways",
+     "rows": [
+      {
+       "label": "Subject first",
+       "chips": [
+        {
+         "t": "Ang",
+         "r": "marker"
+        },
+        {
+         "t": "bahay",
+         "r": "noun"
+        },
+        {
+         "t": "ay",
+         "r": "ay"
+        },
+        {
+         "t": "malaki",
+         "r": "pred"
+        }
+       ]
+      },
+      {
+       "label": "Predicate first",
+       "chips": [
+        {
+         "t": "Malaki",
+         "r": "pred"
+        },
+        {
+         "t": "ang",
+         "r": "marker"
+        },
+        {
+         "t": "bahay",
+         "r": "noun"
+        }
+       ]
+      }
+     ],
+     "note": "The house is big. In the second order, ay disappears."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ang bahay ay malaki.",
+       "en": "The house is big. (subject first)",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "bahay",
+         "house",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "malaki",
+         "big",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Malaki ang bahay.",
+       "en": "The house is big. (predicate first)",
+       "parts": [
+        [
+         "Malaki",
+         "big",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "bahay",
+         "house",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Si Ben ay mabait.",
+       "en": "Ben is kind. (subject first)",
+       "parts": [
+        [
+         "Si",
+         "marks a name",
+         "marker"
+        ],
+        [
+         "Ben",
+         "Ben",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "mabait",
+         "kind",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Mabait si Ben.",
+       "en": "Ben is kind. (predicate first)",
+       "parts": [
+        [
+         "Mabait",
+         "kind",
+         "pred"
+        ],
+        [
+         "si",
+         "marks a name",
+         "marker"
+        ],
+        [
+         "Ben",
+         "Ben",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Tap to hear both orders"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Which should I use?",
+     "t": "Learn both, but practise the predicate-first order the most. It is what you will hear in daily conversation."
+    }
+   ]
+  },
+  {
+   "title": "How to flip a sentence",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Turning a subject-first sentence into a predicate-first sentence takes four small steps."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Step",
+      "What to do",
+      "Example"
+     ],
+     "rows": [
+      [
+       "1",
+       "Find the predicate (the action or description)",
+       "Ang bata ay **mabait**"
+      ],
+      [
+       "2",
+       "Move it to the front",
+       "**Mabait** ang bata ay"
+      ],
+      [
+       "3",
+       "Delete ay",
+       "Mabait ang bata"
+      ],
+      [
+       "4",
+       "Keep the marker with the subject",
+       "Mabait **ang** bata"
+      ]
+     ],
+     "title": "Flipping step by step"
+    },
+    {
+     "type": "pattern",
+     "title": "The flip",
+     "rows": [
+      {
+       "label": "Before",
+       "chips": [
+        {
+         "t": "Ang",
+         "r": "marker"
+        },
+        {
+         "t": "bata",
+         "r": "noun"
+        },
+        {
+         "t": "ay",
+         "r": "ay"
+        },
+        {
+         "t": "mabait",
+         "r": "pred"
+        }
+       ]
+      },
+      {
+       "label": "After",
+       "chips": [
+        {
+         "t": "Mabait",
+         "r": "pred"
+        },
+        {
+         "t": "ang",
+         "r": "marker"
+        },
+        {
+         "t": "bata",
+         "r": "noun"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "Two things to remember",
+     "items": [
+      "**Ay** is only used when the subject comes first.",
+      "The marker (**ang**, **si**, **sina**) always stays with the subject."
+     ]
+    },
+    {
+     "type": "h",
+     "t": "Ay does two jobs"
+    },
+    {
+     "type": "p",
+     "t": "**Ay** links a subject to a description or identity (is, are). It also links a subject to an action (is doing)."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Subject first",
+      "Predicate first",
+      "Kind of predicate"
+     ],
+     "rows": [
+      [
+       "Si Ana ay maganda.",
+       "Maganda si Ana.",
+       "a description"
+      ],
+      [
+       "Ang bata ay kumakain.",
+       "Kumakain ang bata.",
+       "an action (is eating)"
+      ],
+      [
+       "Si Ben ay guro.",
+       "Guro si Ben.",
+       "an identity (is a teacher)"
+      ]
+     ],
+     "title": "Three kinds of predicate"
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "A note on action words",
+     "t": "Action words such as **kumakain** (is eating) change their shape in Tagalog. You will study those forms in later lessons. For now, treat them as ready-made words."
+    }
+   ]
+  },
+  {
+   "title": "Plurals when the sentence is flipped",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "When the predicate is a noun that names a group, put **mga** in front of it. Use **sina** before the names of the subjects, and keep **ang** before things."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Mga bata sina Ana at Ben.",
+       "en": "Ana and Ben are children.",
+       "parts": [
+        [
+         "Mga",
+         "more than one",
+         "marker"
+        ],
+        [
+         "bata",
+         "children",
+         "noun"
+        ],
+        [
+         "sina",
+         "marks 2+ names",
+         "marker"
+        ],
+        [
+         "Ana",
+         "Ana",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "Ben",
+         "Ben",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Mga lungsod ang Maynila at Cebu.",
+       "en": "Manila and Cebu are cities.",
+       "parts": [
+        [
+         "Mga",
+         "more than one",
+         "marker"
+        ],
+        [
+         "lungsod",
+         "city",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "Maynila",
+         "Manila",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "Cebu",
+         "Cebu",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Mga babae sina Ana at Mia.",
+       "en": "Ana and Mia are women.",
+       "parts": [
+        [
+         "Mga",
+         "more than one",
+         "marker"
+        ],
+        [
+         "babae",
+         "woman",
+         "noun"
+        ],
+        [
+         "sina",
+         "marks 2+ names",
+         "marker"
+        ],
+        [
+         "Ana",
+         "Ana",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "Mia",
+         "Mia",
+         "noun"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Mga, not ang mga",
+     "t": "At the very start of a flipped sentence, the plural predicate takes **mga** only. You do not say \"ang mga\" there. **Ang mga** is for plural subjects, which come after the predicate or before ay."
+    }
+   ]
+  },
+  {
+   "title": "Shortcuts: 't and leaving the subject out",
+   "blocks": [
+    {
+     "type": "h",
+     "t": "The short at"
+    },
+    {
+     "type": "p",
+     "t": "**At** means \"and\". When the word before it ends in a vowel, **at** can shrink to **'t** and attach to that word."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Mga hayop ang aso't pusa.",
+       "en": "The dog and the cat are animals.",
+       "parts": [
+        [
+         "Mga",
+         "more than one",
+         "marker"
+        ],
+        [
+         "hayop",
+         "animal",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "aso't",
+         "dog and",
+         "noun"
+        ],
+        [
+         "pusa",
+         "cat",
+         "noun"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "When to shorten",
+     "t": "Use **'t** after a vowel (aso't pusa). After a consonant, keep the full **at**."
+    },
+    {
+     "type": "h",
+     "t": "Leaving the subject out"
+    },
+    {
+     "type": "p",
+     "t": "In the predicate-first order, you may drop the subject when it is obvious from the situation. A single word can then be a complete sentence."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Short sentence",
+      "Understood meaning"
+     ],
+     "rows": [
+      [
+       "[[Mainit.|pred]]",
+       "(It is) hot."
+      ],
+      [
+       "[[Masarap.|pred]]",
+       "(It is) delicious."
+      ],
+      [
+       "[[Kumakain.|pred]]",
+       "(Someone is) eating."
+      ]
+     ],
+     "title": "One-word sentences"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "Subject first uses ay. Predicate first drops ay.",
+      "The predicate-first order is the one used most in daily speech.",
+      "Flip a sentence: move the predicate to the front and delete ay.",
+      "A flipped plural predicate takes mga, with sina or ang before the subject."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "at",
+   "tl": "at",
+   "en": "and",
+   "pos": "part",
+   "group": "words",
+   "say": "AT"
+  },
+  {
+   "id": "hayop",
+   "tl": "hayop",
+   "en": "animal",
+   "pos": "noun",
+   "group": "words",
+   "say": "HA-yop"
+  },
+  {
+   "id": "kumakain",
+   "tl": "kumakain",
+   "en": "is eating",
+   "pos": "verb",
+   "group": "words",
+   "say": "ku-MA-ka-in"
+  },
+  {
+   "id": "nagluluto",
+   "tl": "naglulutò",
+   "en": "is cooking",
+   "pos": "verb",
+   "group": "words",
+   "say": "nag-LU-lu-toʔ"
+  },
+  {
+   "id": "guro",
+   "tl": "guro",
+   "en": "teacher",
+   "pos": "noun",
+   "group": "words",
+   "say": "GU-roʔ",
+   "note": "Marked: gurò"
+  },
+  {
+   "id": "masaya",
+   "tl": "masaya",
+   "en": "happy, joyful",
+   "pos": "adj",
+   "group": "words",
+   "say": "ma-SA-ya"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Which order is more common in everyday speech?",
+   "options": [
+    "Predicate first",
+    "Subject first with ay"
+   ],
+   "answer": "Predicate first",
+   "explain": "Everyday Tagalog usually starts with the predicate."
+  },
+  {
+   "type": "choice",
+   "q": "Flip this sentence: Ang bata ay mabait.",
+   "options": [
+    "Mabait ang bata.",
+    "Mabait ay ang bata.",
+    "Ang mabait bata."
+   ],
+   "answer": "Mabait ang bata.",
+   "explain": "Move the predicate to the front and drop ay."
+  },
+  {
+   "type": "choice",
+   "q": "Flip this sentence: Si Ana ay maganda.",
+   "options": [
+    "Maganda si Ana.",
+    "Maganda ay si Ana.",
+    "Si maganda Ana."
+   ],
+   "answer": "Maganda si Ana.",
+   "explain": "The marker si stays with Ana."
+  },
+  {
+   "type": "choice",
+   "q": "Which sentence uses the subject-first order?",
+   "options": [
+    "Si Ben ay mabait.",
+    "Mabait si Ben.",
+    "Mainit ang kape."
+   ],
+   "answer": "Si Ben ay mabait.",
+   "explain": "It contains ay between the subject and the predicate."
+  },
+  {
+   "type": "choice",
+   "q": "What happens to ay when the predicate moves to the front?",
+   "options": [
+    "It is deleted",
+    "It moves to the end",
+    "It becomes sina"
+   ],
+   "answer": "It is deleted",
+   "explain": "Ay only appears in the subject-first order."
+  },
+  {
+   "type": "choice",
+   "q": "In \"Mga bata sina Ana at Ben\", what does the sentence mean?",
+   "options": [
+    "Ana and Ben are children.",
+    "The children are Ana and Ben's.",
+    "Ana and Ben like children."
+   ],
+   "answer": "Ana and Ben are children.",
+   "explain": "Mga bata is the predicate: children."
+  },
+  {
+   "type": "choice",
+   "q": "At the start of a flipped sentence with a plural predicate, use…",
+   "options": [
+    "mga",
+    "ang mga",
+    "sina"
+   ],
+   "answer": "mga",
+   "explain": "Mga alone, not ang mga, goes before the plural predicate."
+  },
+  {
+   "type": "choice",
+   "q": "How can \"at\" be shortened after a word ending in a vowel?",
+   "options": [
+    "'t",
+    "-ng",
+    "-y"
+   ],
+   "answer": "'t",
+   "explain": "Aso at pusa becomes aso't pusa."
+  },
+  {
+   "type": "choice",
+   "q": "What does the one-word sentence \"Mainit.\" mean?",
+   "options": [
+    "(It is) hot.",
+    "The coffee is hot.",
+    "Is it hot?"
+   ],
+   "answer": "(It is) hot.",
+   "explain": "When the subject is obvious, it can be dropped."
+  },
+  {
+   "type": "choice",
+   "q": "In which order is the focus on the predicate?",
+   "options": [
+    "Predicate first",
+    "Subject first"
+   ],
+   "answer": "Predicate first",
+   "explain": "Putting something first draws attention to it."
+  },
+  {
+   "type": "listen",
+   "tl": "kumakain",
+   "options": [
+    "is eating",
+    "is cooking",
+    "is happy"
+   ],
+   "answer": "is eating",
+   "explain": "Kumakain means is eating."
+  },
+  {
+   "type": "listen",
+   "tl": "guro",
+   "options": [
+    "teacher",
+    "child",
+    "dog"
+   ],
+   "answer": "teacher",
+   "explain": "Guro means teacher."
+  },
+  {
+   "type": "build",
+   "en": "The dog is big.",
+   "tl": "Malaki ang aso.",
+   "tokens": [
+    "malaki",
+    "ang",
+    "aso"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The child is eating.",
+   "tl": "Kumakain ang bata.",
+   "tokens": [
+    "kumakain",
+    "ang",
+    "bata"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The coffee is hot.",
+   "tl": "Mainit ang kape.",
+   "tokens": [
+    "mainit",
+    "ang",
+    "kape"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Ana is happy.",
+   "tl": "Masaya si Ana.",
+   "tokens": [
+    "masaya",
+    "si",
+    "ana"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Ben is a teacher.",
+   "tl": "Guro si Ben.",
+   "tokens": [
+    "guro",
+    "si",
+    "ben"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The dog and the cat are animals.",
+   "tl": "Mga hayop ang aso't pusa.",
+   "tokens": [
+    "mga",
+    "hayop",
+    "ang",
+    "aso't",
+    "pusa"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The house is big. (subject first)",
+   "tl": "Ang bahay ay malaki.",
+   "tokens": [
+    "ang",
+    "bahay",
+    "ay",
+    "malaki"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match each subject-first sentence to its flipped version.",
+   "pairs": [
+    [
+     "Ang bata ay mabait.",
+     "Mabait ang bata."
+    ],
+    [
+     "Si Ana ay maganda.",
+     "Maganda si Ana."
+    ],
+    [
+     "Ang kape ay mainit.",
+     "Mainit ang kape."
+    ],
+    [
+     "Si Ben ay guro.",
+     "Guro si Ben."
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "Two orders: subject first with ay, or predicate first (everyday).",
+  "To flip: move the predicate to the front, delete ay, keep the marker with the subject.",
+  "Ay links the subject to a description, an identity or an action.",
+  "A flipped plural predicate takes mga: Mga bata sina Ana at Ben.",
+  "At can shrink to 't after a vowel, and an obvious subject can be left out."
+ ]
+}

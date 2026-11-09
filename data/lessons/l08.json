@@ -1,0 +1,1450 @@
+{
+ "id": "l08",
+ "label": "8",
+ "title": "Possession: ng, ni and my, your, his",
+ "summary": "How to say whose something is, with names, nouns and pronouns",
+ "minutes": 35,
+ "goals": [
+  "Use ni, nina, ng and ng mga to show an owner",
+  "Use the possessive pronouns before a noun (aking) and after a noun (ko)",
+  "Avoid echoing the same possessive form twice in one sentence",
+  "Place possessives correctly with plural nouns",
+  "Use nito, niyan and niyon for the owner of something"
+ ],
+ "sections": [
+  {
+   "title": "Owners: ng and ni",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "To show **whose** something is, Tagalog puts the **thing first** and the **owner second**, with a marker between them. English does it the other way round (\"Ana's house\"), so the order feels backwards at first."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Owner is…",
+      "Marker",
+      "Example",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "one person's name",
+       "[[ni|marker]]",
+       "ang bahay **ni** Ana",
+       "Ana's house"
+      ],
+      [
+       "two or more names",
+       "[[nina|marker]]",
+       "ang bahay **nina** Ana at Ben",
+       "Ana and Ben's house"
+      ],
+      [
+       "a common noun (one)",
+       "[[ng|marker]]",
+       "ang damit **ng** bata",
+       "the child's dress"
+      ],
+      [
+       "a common noun (more than one)",
+       "[[ng mga|marker]]",
+       "ang damit **ng mga** bata",
+       "the children's clothes"
+      ]
+     ],
+     "title": "Owner markers"
+    },
+    {
+     "type": "pattern",
+     "title": "Thing first, owner second",
+     "rows": [
+      {
+       "label": "Pattern",
+       "chips": [
+        {
+         "t": "ang",
+         "r": "marker"
+        },
+        {
+         "t": "bahay",
+         "r": "noun"
+        },
+        {
+         "t": "ni",
+         "r": "marker"
+        },
+        {
+         "t": "Ana",
+         "r": "noun"
+        }
+       ]
+      }
+     ],
+     "note": "Word for word: the house of Ana. Ng is read like nang."
+    },
+    {
+     "type": "table",
+     "head": [
+      "As the subject",
+      "As the owner"
+     ],
+     "rows": [
+      [
+       "[[si|marker]] Ana",
+       "[[ni|marker]] Ana"
+      ],
+      [
+       "[[ang|marker]] bata",
+       "[[ng|marker]] bata"
+      ],
+      [
+       "[[sina|marker]] Ana at Ben",
+       "[[nina|marker]] Ana at Ben"
+      ]
+     ],
+     "title": "The same noun in two jobs"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Malaki ang bahay ni Ana.",
+       "en": "Ana's house is big.",
+       "parts": [
+        [
+         "Malaki",
+         "big",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "bahay",
+         "house",
+         "noun"
+        ],
+        [
+         "ni",
+         "of",
+         "marker"
+        ],
+        [
+         "Ana",
+         "Ana",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang damit ng bata ay malinis.",
+       "en": "The child's dress is clean.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "damit",
+         "dress",
+         "noun"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "bata",
+         "child",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "malinis",
+         "clean",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Bago ang sapatos ni Ben.",
+       "en": "Ben's shoes are new.",
+       "parts": [
+        [
+         "Bago",
+         "new",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "sapatos",
+         "shoes",
+         "noun"
+        ],
+        [
+         "ni",
+         "of",
+         "marker"
+        ],
+        [
+         "Ben",
+         "Ben",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Maganda ang bahay nina Ana at Ben.",
+       "en": "Ana and Ben's house is beautiful.",
+       "parts": [
+        [
+         "Maganda",
+         "beautiful",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "bahay",
+         "house",
+         "noun"
+        ],
+        [
+         "nina",
+         "of (2+ names)",
+         "marker"
+        ],
+        [
+         "Ana",
+         "Ana",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "Ben",
+         "Ben",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Malinis ang damit ng mga bata.",
+       "en": "The children's clothes are clean.",
+       "parts": [
+        [
+         "Malinis",
+         "clean",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "damit",
+         "clothes",
+         "noun"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "mga",
+         "more than one",
+         "marker"
+        ],
+        [
+         "bata",
+         "child",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Tap to hear"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "The thing comes first and the owner second.",
+      "Ni is for one name, nina for two or more names.",
+      "Ng is for common nouns, ng mga for more than one."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "My, your, his: possessive pronouns",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "There are seven possessive pronouns. Each has **two forms**. One goes **before** the noun (aking bahay) and the other goes **after** the noun (bahay ko). They mean the same."
+    },
+    {
+     "type": "table",
+     "head": [
+      "English",
+      "Before the noun",
+      "After the noun"
+     ],
+     "rows": [
+      [
+       "my",
+       "[[aking|poss]]",
+       "[[ko|poss]]"
+      ],
+      [
+       "your (one person)",
+       "[[iyong|poss]]",
+       "[[mo|poss]]"
+      ],
+      [
+       "his, her",
+       "[[kaniyang|poss]]  (or [[kanyang|poss]])",
+       "[[niya|poss]]"
+      ],
+      [
+       "our (not including you)",
+       "[[aming|poss]]",
+       "[[namin|poss]]"
+      ],
+      [
+       "our (including you)",
+       "[[ating|poss]]",
+       "[[natin|poss]]"
+      ],
+      [
+       "your (plural or polite)",
+       "[[inyong|poss]]",
+       "[[ninyo|poss]]"
+      ],
+      [
+       "their",
+       "[[kanilang|poss]]",
+       "[[nila|poss]]"
+      ]
+     ],
+     "title": "Two forms of every possessive"
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "Same two kinds of we",
+     "t": "Just as in Lesson 6, there are two kinds of \"our\". **Aming** and **namin** leave the listener out. **Ating** and **natin** include the listener."
+    },
+    {
+     "type": "h",
+     "t": "Before the noun: a linker is needed"
+    },
+    {
+     "type": "p",
+     "t": "The before-noun forms are really the basic forms **akin, iyo, kaniya, amin, atin, inyo, kanila** with a linker attached, which is why they end in -ng. So **akin** + g = **aking**."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Basic form",
+      "With linker",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[akin|poss]]",
+       "[[aking|poss]]",
+       "my"
+      ],
+      [
+       "[[iyo|poss]]",
+       "[[iyong|poss]]",
+       "your"
+      ],
+      [
+       "[[kaniya|poss]]",
+       "[[kaniyang|poss]]",
+       "his, her"
+      ],
+      [
+       "[[amin|poss]]",
+       "[[aming|poss]]",
+       "our (not you)"
+      ],
+      [
+       "[[atin|poss]]",
+       "[[ating|poss]]",
+       "our (with you)"
+      ],
+      [
+       "[[inyo|poss]]",
+       "[[inyong|poss]]",
+       "your (plural)"
+      ],
+      [
+       "[[kanila|poss]]",
+       "[[kanilang|poss]]",
+       "their"
+      ]
+     ]
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Malaki ang aking bahay.",
+       "en": "My house is big.",
+       "parts": [
+        [
+         "Malaki",
+         "big",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "aking",
+         "my",
+         "poss"
+        ],
+        [
+         "bahay",
+         "house",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Malaki ang bahay ko.",
+       "en": "My house is big.",
+       "parts": [
+        [
+         "Malaki",
+         "big",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "bahay",
+         "house",
+         "noun"
+        ],
+        [
+         "ko",
+         "my",
+         "poss"
+        ]
+       ]
+      },
+      {
+       "tl": "Luma ang aming kotse.",
+       "en": "Our car is old. (not including you)",
+       "parts": [
+        [
+         "Luma",
+         "old",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "aming",
+         "our, not including you",
+         "poss"
+        ],
+        [
+         "kotse",
+         "car",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Luma ang kotse namin.",
+       "en": "Our car is old. (not including you)",
+       "parts": [
+        [
+         "Luma",
+         "old",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "kotse",
+         "car",
+         "noun"
+        ],
+        [
+         "namin",
+         "our, not including you",
+         "poss"
+        ]
+       ]
+      },
+      {
+       "tl": "Malinis ang sapatos niya.",
+       "en": "His or her shoes are clean.",
+       "parts": [
+        [
+         "Malinis",
+         "clean",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "sapatos",
+         "shoes",
+         "noun"
+        ],
+        [
+         "niya",
+         "his, her",
+         "poss"
+        ]
+       ]
+      },
+      {
+       "tl": "Malaki ang ating bahay.",
+       "en": "Our house is big. (including you)",
+       "parts": [
+        [
+         "Malaki",
+         "big",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "ating",
+         "our, including you",
+         "poss"
+        ],
+        [
+         "bahay",
+         "house",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Both forms in sentences"
+    },
+    {
+     "type": "h",
+     "t": "On their own: mine, yours, his"
+    },
+    {
+     "type": "p",
+     "t": "The basic forms can also stand alone to mean \"mine\", \"yours\" and so on."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Akin ang bahay na iyan.",
+       "en": "That house is mine.",
+       "parts": [
+        [
+         "Akin",
+         "mine",
+         "poss"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "bahay",
+         "house",
+         "noun"
+        ],
+        [
+         "na",
+         "linker",
+         "link"
+        ],
+        [
+         "iyan",
+         "that, near you",
+         "pron"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "Before the noun: aking, iyong, kaniyang, aming, ating, inyong, kanilang.",
+      "After the noun: ko, mo, niya, namin, natin, ninyo, nila.",
+      "Basic forms akin, iyo, kaniya, amin, atin, inyo, kanila mean mine, yours, his, ours and so on."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Do not echo the same form twice",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Sometimes one sentence has two possessions of the same person: \"my mother\" and \"my house\". Tagalog prefers to use **one before-form and one after-form** so the sounds do not repeat."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Sentence",
+      "Verdict"
+     ],
+     "rows": [
+      [
+       "Ang **aking** ina ay pumunta sa bahay **ko**.",
+       "Good: one before-form, one after-form"
+      ],
+      [
+       "Ang ina **ko** ay pumunta sa **aking** bahay.",
+       "Good: the other way round"
+      ],
+      [
+       "Ang **aking** ina ay pumunta sa **aking** bahay.",
+       "Not good: aking is repeated"
+      ],
+      [
+       "Ang ina **ko** ay pumunta sa bahay **ko**.",
+       "Not good: ko is repeated"
+      ]
+     ],
+     "title": "Mixing the two styles"
+    },
+    {
+     "type": "p",
+     "t": "(\"Ang aking ina ay pumunta sa bahay ko\" means \"My mother went to my house.\")"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Sound check",
+     "t": "Say both versions aloud. The mixed version sounds smoother, and you will quickly hear the repetition in the others."
+    },
+    {
+     "type": "h",
+     "t": "With plurals"
+    },
+    {
+     "type": "p",
+     "t": "When the noun is plural, the possessive goes **between ang and mga**, and the describing word can take its plural form too."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ang aking mga anak ay mababait.",
+       "en": "My children are kind.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "aking",
+         "my",
+         "poss"
+        ],
+        [
+         "mga",
+         "more than one",
+         "marker"
+        ],
+        [
+         "anak",
+         "child",
+         "noun"
+        ],
+        [
+         "ay",
+         "are",
+         "ay"
+        ],
+        [
+         "mababait",
+         "kind (plural)",
+         "pred"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Wrong order",
+     "t": "**Ang mga aking anak** is wrong. Put the possessive before **mga**: **ang aking mga anak**."
+    }
+   ]
+  },
+  {
+   "title": "The owner of this, that: nito, niyan, niyon",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Just as **ito, iyan, iyon** mean this and that, their owner forms **nito, niyan, niyon** mean \"of this one\" or \"of that one\". They refer to the owner and are used when the speaker and listener can both see who the owner is."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Word",
+      "Means",
+      "Where the owner is"
+     ],
+     "rows": [
+      [
+       "[[nito|poss]]",
+       "of this one",
+       "near the speaker"
+      ],
+      [
+       "[[niyan|poss]]",
+       "of that one",
+       "near the listener"
+      ],
+      [
+       "[[niyon|poss]]",
+       "of that one",
+       "far from both"
+      ]
+     ],
+     "title": "Owner forms of this and that"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Malaki ang bahay nito.",
+       "en": "The house of this one is big. (owner near me)",
+       "parts": [
+        [
+         "Malaki",
+         "big",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "bahay",
+         "house",
+         "noun"
+        ],
+        [
+         "nito",
+         "of this one",
+         "poss"
+        ]
+       ]
+      },
+      {
+       "tl": "Maliit ang bahay niyan.",
+       "en": "The house of that one is small. (owner near you)",
+       "parts": [
+        [
+         "Maliit",
+         "small",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "bahay",
+         "house",
+         "noun"
+        ],
+        [
+         "niyan",
+         "of that one, near you",
+         "poss"
+        ]
+       ]
+      },
+      {
+       "tl": "Malinis ang bahay niyon.",
+       "en": "The house of that one is clean. (owner far away)",
+       "parts": [
+        [
+         "Malinis",
+         "clean",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "bahay",
+         "house",
+         "noun"
+        ],
+        [
+         "niyon",
+         "of that one, far away",
+         "poss"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "Rules",
+     "items": [
+      "Nito, niyan and niyon always go **after** the noun, even in the predicate-first order.",
+      "For more than one owner, use **ng mga ito**, **ng mga iyan**, **ng mga iyon**: ang bahay ng mga ito."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "Possession: thing first, owner second.",
+      "Ni and nina for names. Ng and ng mga for common nouns.",
+      "Possessive pronouns have a before-form (with a linker) and an after-form.",
+      "Mix one before-form and one after-form when two possessions appear.",
+      "In the plural, the possessive goes between ang and mga."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "ni",
+   "tl": "ni",
+   "en": "of (before one person's name)",
+   "pos": "marker",
+   "group": "owners",
+   "say": "NI"
+  },
+  {
+   "id": "nina",
+   "tl": "nina",
+   "en": "of (before two or more names)",
+   "pos": "marker",
+   "group": "owners",
+   "say": "ni-NA"
+  },
+  {
+   "id": "ng",
+   "tl": "ng",
+   "en": "of (before a common noun); also marks what is acted on",
+   "pos": "marker",
+   "group": "owners",
+   "say": "NANG",
+   "note": "Written ng, read like nang"
+  },
+  {
+   "id": "akin",
+   "tl": "akin",
+   "en": "my, mine",
+   "pos": "pron",
+   "group": "basic",
+   "say": "a-KIN"
+  },
+  {
+   "id": "iyo",
+   "tl": "iyo",
+   "en": "your, yours (one person)",
+   "pos": "pron",
+   "group": "basic",
+   "say": "i-YO"
+  },
+  {
+   "id": "kaniya",
+   "tl": "kaniya",
+   "en": "his, her, hers",
+   "pos": "pron",
+   "group": "basic",
+   "say": "ka-ni-YA",
+   "note": "Also spelled kanya"
+  },
+  {
+   "id": "amin",
+   "tl": "amin",
+   "en": "our (not including you)",
+   "pos": "pron",
+   "group": "basic",
+   "say": "a-MIN"
+  },
+  {
+   "id": "atin",
+   "tl": "atin",
+   "en": "our (including you)",
+   "pos": "pron",
+   "group": "basic",
+   "say": "a-TIN"
+  },
+  {
+   "id": "inyo",
+   "tl": "inyo",
+   "en": "your (plural or polite)",
+   "pos": "pron",
+   "group": "basic",
+   "say": "in-YO"
+  },
+  {
+   "id": "kanila",
+   "tl": "kanila",
+   "en": "their, theirs",
+   "pos": "pron",
+   "group": "basic",
+   "say": "ka-ni-LA"
+  },
+  {
+   "id": "aking",
+   "tl": "aking",
+   "en": "my (before a noun)",
+   "pos": "pron",
+   "group": "before",
+   "say": "a-KING"
+  },
+  {
+   "id": "iyong-your",
+   "tl": "iyong",
+   "en": "your (before a noun)",
+   "pos": "pron",
+   "group": "before",
+   "say": "i-YONG",
+   "note": "Not the same as iyong (that), Lesson 6"
+  },
+  {
+   "id": "kaniyang",
+   "tl": "kaniyang",
+   "en": "his, her (before a noun)",
+   "pos": "pron",
+   "group": "before",
+   "say": "ka-ni-YANG",
+   "note": "Also spelled kanyang"
+  },
+  {
+   "id": "aming",
+   "tl": "aming",
+   "en": "our, not including you (before a noun)",
+   "pos": "pron",
+   "group": "before",
+   "say": "a-MING"
+  },
+  {
+   "id": "ating",
+   "tl": "ating",
+   "en": "our, including you (before a noun)",
+   "pos": "pron",
+   "group": "before",
+   "say": "a-TING"
+  },
+  {
+   "id": "inyong",
+   "tl": "inyong",
+   "en": "your, plural or polite (before a noun)",
+   "pos": "pron",
+   "group": "before",
+   "say": "in-YONG"
+  },
+  {
+   "id": "kanilang",
+   "tl": "kanilang",
+   "en": "their (before a noun)",
+   "pos": "pron",
+   "group": "before",
+   "say": "ka-ni-LANG"
+  },
+  {
+   "id": "ko",
+   "tl": "ko",
+   "en": "my (after a noun)",
+   "pos": "pron",
+   "group": "after",
+   "say": "KO"
+  },
+  {
+   "id": "mo",
+   "tl": "mo",
+   "en": "your (after a noun)",
+   "pos": "pron",
+   "group": "after",
+   "say": "MO"
+  },
+  {
+   "id": "niya",
+   "tl": "niya",
+   "en": "his, her (after a noun)",
+   "pos": "pron",
+   "group": "after",
+   "say": "ni-YA"
+  },
+  {
+   "id": "namin",
+   "tl": "namin",
+   "en": "our, not including you (after a noun)",
+   "pos": "pron",
+   "group": "after",
+   "say": "na-MIN"
+  },
+  {
+   "id": "natin",
+   "tl": "natin",
+   "en": "our, including you (after a noun)",
+   "pos": "pron",
+   "group": "after",
+   "say": "na-TIN"
+  },
+  {
+   "id": "ninyo",
+   "tl": "ninyo",
+   "en": "your, plural or polite (after a noun)",
+   "pos": "pron",
+   "group": "after",
+   "say": "nin-YO"
+  },
+  {
+   "id": "nila",
+   "tl": "nila",
+   "en": "their (after a noun)",
+   "pos": "pron",
+   "group": "after",
+   "say": "ni-LA"
+  },
+  {
+   "id": "nito",
+   "tl": "nito",
+   "en": "of this one",
+   "pos": "pron",
+   "group": "owners",
+   "say": "ni-TO"
+  },
+  {
+   "id": "niyan",
+   "tl": "niyan",
+   "en": "of that one (near you)",
+   "pos": "pron",
+   "group": "owners",
+   "say": "ni-YAN"
+  },
+  {
+   "id": "niyon",
+   "tl": "niyon",
+   "en": "of that one (far away)",
+   "pos": "pron",
+   "group": "owners",
+   "say": "ni-YON"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Fill in: ang bahay ___ Ana.",
+   "options": [
+    "ni",
+    "ng",
+    "si"
+   ],
+   "answer": "ni",
+   "explain": "Ni goes before one person's name to show the owner."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: ang bahay ___ guro.",
+   "options": [
+    "ng",
+    "ni",
+    "nina"
+   ],
+   "answer": "ng",
+   "explain": "Ng goes before a common noun."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: ang bahay ___ Ana at Ben.",
+   "options": [
+    "nina",
+    "ni",
+    "ng"
+   ],
+   "answer": "nina",
+   "explain": "Nina goes before two or more names."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: ang damit ___ mga bata.",
+   "options": [
+    "ng",
+    "ni",
+    "nina"
+   ],
+   "answer": "ng",
+   "explain": "Ng mga means of the (plural) nouns."
+  },
+  {
+   "type": "choice",
+   "q": "How do you say \"Ana's dress\"?",
+   "options": [
+    "ang damit ni Ana",
+    "ang Ana damit",
+    "si Ana damit"
+   ],
+   "answer": "ang damit ni Ana",
+   "explain": "Thing first, owner second, with ni between them."
+  },
+  {
+   "type": "choice",
+   "q": "Which word means \"my\" when it comes AFTER a noun?",
+   "options": [
+    "ko",
+    "aking",
+    "akin"
+   ],
+   "answer": "ko",
+   "explain": "Bahay ko means my house."
+  },
+  {
+   "type": "choice",
+   "q": "Which word means \"my\" when it comes BEFORE a noun?",
+   "options": [
+    "aking",
+    "ko",
+    "mo"
+   ],
+   "answer": "aking",
+   "explain": "Aking bahay means my house."
+  },
+  {
+   "type": "choice",
+   "q": "Which is \"our\" that includes the person you are talking to?",
+   "options": [
+    "natin",
+    "namin",
+    "nila"
+   ],
+   "answer": "natin",
+   "explain": "Natin (or ating) includes the listener."
+  },
+  {
+   "type": "choice",
+   "q": "Which is \"your\" for one person, after the noun?",
+   "options": [
+    "mo",
+    "ko",
+    "niya"
+   ],
+   "answer": "mo",
+   "explain": "Bahay mo means your house."
+  },
+  {
+   "type": "choice",
+   "q": "Which is \"their\" before a noun?",
+   "options": [
+    "kanilang",
+    "nila",
+    "niya"
+   ],
+   "answer": "kanilang",
+   "explain": "Kanilang bahay means their house."
+  },
+  {
+   "type": "choice",
+   "q": "Which is \"his, her\" after a noun?",
+   "options": [
+    "niya",
+    "kaniyang",
+    "ko"
+   ],
+   "answer": "niya",
+   "explain": "Bahay niya means his or her house."
+  },
+  {
+   "type": "choice",
+   "q": "Where does the possessive go with a plural noun?",
+   "options": [
+    "Between ang and mga",
+    "After the noun only",
+    "At the start of the sentence"
+   ],
+   "answer": "Between ang and mga",
+   "explain": "For example: ang aking mga anak."
+  },
+  {
+   "type": "choice",
+   "q": "Which sentence is correct?",
+   "options": [
+    "Ang aking mga anak ay mababait.",
+    "Ang mga aking anak ay mababait."
+   ],
+   "answer": "Ang aking mga anak ay mababait.",
+   "explain": "The possessive goes before mga."
+  },
+  {
+   "type": "choice",
+   "q": "Which sentence uses the best mix of forms for \"My mother went to my house\"?",
+   "options": [
+    "Ang aking ina ay pumunta sa bahay ko.",
+    "Ang aking ina ay pumunta sa aking bahay.",
+    "Ang ina ko ay pumunta sa bahay ko."
+   ],
+   "answer": "Ang aking ina ay pumunta sa bahay ko.",
+   "explain": "Use one before-form (aking) and one after-form (ko)."
+  },
+  {
+   "type": "choice",
+   "q": "\"Ang bahay niyon\" means the house of…",
+   "options": [
+    "that one, far from both of us",
+    "this one",
+    "that one near you"
+   ],
+   "answer": "that one, far from both of us",
+   "explain": "Niyon is the owner form of iyon."
+  },
+  {
+   "type": "choice",
+   "q": "Where do nito, niyan and niyon go in a flipped sentence?",
+   "options": [
+    "After the noun",
+    "Before the noun",
+    "At the start"
+   ],
+   "answer": "After the noun",
+   "explain": "They always go after the noun."
+  },
+  {
+   "type": "listen",
+   "tl": "namin",
+   "options": [
+    "our (not including you)",
+    "our (including you)",
+    "their"
+   ],
+   "answer": "our (not including you)",
+   "explain": "Namin excludes the listener."
+  },
+  {
+   "type": "listen",
+   "tl": "natin",
+   "options": [
+    "our (including you)",
+    "our (not including you)",
+    "my"
+   ],
+   "answer": "our (including you)",
+   "explain": "Natin includes the listener."
+  },
+  {
+   "type": "listen",
+   "tl": "akin",
+   "options": [
+    "mine",
+    "yours",
+    "ours"
+   ],
+   "answer": "mine",
+   "explain": "Akin means my or mine."
+  },
+  {
+   "type": "build",
+   "en": "Ana's house is big.",
+   "tl": "Malaki ang bahay ni Ana.",
+   "tokens": [
+    "malaki",
+    "ang",
+    "bahay",
+    "ni",
+    "ana"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The child's dress is beautiful.",
+   "tl": "Maganda ang damit ng bata.",
+   "tokens": [
+    "maganda",
+    "ang",
+    "damit",
+    "ng",
+    "bata"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "My shoes are clean.",
+   "tl": "Malinis ang sapatos ko.",
+   "tokens": [
+    "malinis",
+    "ang",
+    "sapatos",
+    "ko"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Our car is old. (not including you)",
+   "tl": "Luma ang kotse namin.",
+   "tokens": [
+    "luma",
+    "ang",
+    "kotse",
+    "namin"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "My children are kind.",
+   "tl": "Ang aking mga anak ay mababait.",
+   "tokens": [
+    "ang",
+    "aking",
+    "mga",
+    "anak",
+    "ay",
+    "mababait"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Ana and Ben's house is new.",
+   "tl": "Bago ang bahay nina Ana at Ben.",
+   "tokens": [
+    "bago",
+    "ang",
+    "bahay",
+    "nina",
+    "ana",
+    "at",
+    "ben"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Your teacher is kind. (plural or polite)",
+   "tl": "Mabait ang guro ninyo.",
+   "tokens": [
+    "mabait",
+    "ang",
+    "guro",
+    "ninyo"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match each before-form to its after-form.",
+   "pairs": [
+    [
+     "aking",
+     "ko"
+    ],
+    [
+     "iyong",
+     "mo"
+    ],
+    [
+     "kaniyang",
+     "niya"
+    ],
+    [
+     "aming",
+     "namin"
+    ],
+    [
+     "kanilang",
+     "nila"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each owner marker to its use.",
+   "pairs": [
+    [
+     "ni",
+     "one person's name"
+    ],
+    [
+     "nina",
+     "two or more names"
+    ],
+    [
+     "ng",
+     "a common noun"
+    ],
+    [
+     "ng mga",
+     "more than one common noun"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "Possession puts the thing first and the owner second: ang bahay ni Ana.",
+  "Ni (one name), nina (two or more names), ng (common noun), ng mga (more than one).",
+  "Possessive pronouns have a before-form (aking, iyong, kaniyang, aming, ating, inyong, kanilang) and an after-form (ko, mo, niya, namin, natin, ninyo, nila).",
+  "Avoid repeating the same form twice. Mix one before-form and one after-form.",
+  "With plurals, the possessive goes between ang and mga.",
+  "Nito, niyan and niyon show the owner of this or that, and always go after the noun."
+ ]
+}

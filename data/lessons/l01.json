@@ -1,0 +1,989 @@
+{
+ "id": "l01",
+ "label": "1",
+ "title": "The Tagalog alphabet",
+ "summary": "Letters, vowels, the ng and r sounds, and how borrowed words are spelled",
+ "minutes": 25,
+ "goals": [
+  "Know the letters of the alphabet and the five vowel sounds",
+  "Make the special sounds ng, ñ and the tapped r",
+  "Read the diphthongs ay, aw, ey, iw, oy and uy",
+  "Decode Spanish and English loanwords in Tagalog spelling",
+  "Learn the days of the week and months of the year"
+ ],
+ "sections": [
+  {
+   "title": "The letters",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Tagalog spelling is close to the way words sound. If you know the sounds of the letters, you can read almost any word aloud."
+    },
+    {
+     "type": "p",
+     "t": "Around the 1930s the alphabet had **20 letters**: five vowels and fifteen consonants, with **ng** counted as one letter."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Group",
+      "Letters"
+     ],
+     "rows": [
+      [
+       "Vowels (5)",
+       "a, e, i, o, u"
+      ],
+      [
+       "Consonants (15)",
+       "b, k, d, g, h, l, m, n, ng, p, r, s, t, w, y"
+      ]
+     ],
+     "title": "The older 20-letter alphabet"
+    },
+    {
+     "type": "p",
+     "t": "In the 1980s eight more letters were added: **c, f, j, ñ, q, v, x, z**. They are used mostly for names (Carlos, Jollibee), borrowed words and science terms. Today the letters are named as in English, except **ñ**, which is said *en-YE*."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Old and new",
+     "t": "Older teaching names the consonants with an \"a\" after them (ba, ka, da). You may still hear this. Modern Tagalog uses English letter names."
+    }
+   ]
+  },
+  {
+   "title": "The five vowels",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Tagalog vowels are **short and pure**. English vowels often glide into a second sound (\"o\" becomes \"oh-oo\"). In Tagalog, say the vowel once and keep it steady."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Letter",
+      "Sounds like",
+      "Example word",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "a",
+       "the a in father",
+       "[[araw|noun]]  (A-raw)",
+       "day, sun"
+      ],
+      [
+       "e",
+       "the e in bed",
+       "[[bente|noun]]  (BEN-te)",
+       "twenty"
+      ],
+      [
+       "i",
+       "the ee in feet, but shorter",
+       "[[isa|noun]]  (i-SA)",
+       "one"
+      ],
+      [
+       "o",
+       "the o in more, but pure",
+       "[[oras|noun]]  (O-ras)",
+       "hour, time"
+      ],
+      [
+       "u",
+       "the oo in food, but shorter",
+       "[[uhaw|pred]]  (u-HAW)",
+       "thirsty"
+      ]
+     ],
+     "title": "Vowel sounds"
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Watch out",
+     "t": "Do not shorten unstressed vowels into a vague \"uh\" the way English does. Each vowel keeps its own clear sound, even when it is not stressed."
+    }
+   ]
+  },
+  {
+   "title": "Three special sounds",
+   "blocks": [
+    {
+     "type": "h",
+     "t": "ng"
+    },
+    {
+     "type": "p",
+     "t": "**ng** is one sound, like the end of the English word *sing*. The tricky part is that Tagalog also puts it at the **start** of words."
+    },
+    {
+     "type": "p",
+     "t": "Try this: say *sing*. Hold the final \"ng\", then add a vowel straight after it: *ng-a*. Now say it without the \"si\" in front."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "ngayon",
+       "en": "now",
+       "parts": [
+        [
+         "ngayon",
+         "now (nga-YON)",
+         "other"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang mga bata",
+       "en": "The children",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "mga",
+         "more than one (ma-NGA)",
+         "marker"
+        ],
+        [
+         "bata",
+         "child",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Practise ng"
+    },
+    {
+     "type": "h",
+     "t": "ñ"
+    },
+    {
+     "type": "p",
+     "t": "**ñ** sounds like **n + y** said together. Santo Niño sounds like *nin-yo*."
+    },
+    {
+     "type": "h",
+     "t": "r"
+    },
+    {
+     "type": "p",
+     "t": "The Tagalog **r** is a quick **tap** of the tongue tip against the ridge behind your upper teeth. It is the same flick as the \"tt\" in American *butter*. It is not the English r, and it is not a long rolled trill."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Practice words",
+     "t": "[[araw|noun]], [[marami|pred]] (ma-RA-mi, many) and [[Pilipinas|noun]] all contain the tapped r."
+    }
+   ]
+  },
+  {
+   "title": "Diphthongs: two vowels, one beat",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "A diphthong is a vowel glide that counts as **one syllable**. Tagalog has six: **ay, aw, ey, iw, oy, uy**."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Glide",
+      "Example",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "ay",
+       "[[away|noun]]  (A-way)",
+       "a fight"
+      ],
+      [
+       "aw",
+       "[[araw|noun]]  (A-raw)",
+       "day, sun"
+      ],
+      [
+       "ey",
+       "[[reyna|noun]]  (REY-na)",
+       "queen"
+      ],
+      [
+       "iw",
+       "[[bitiw|pred]]  (BI-tiw)",
+       "let go, release"
+      ],
+      [
+       "oy",
+       "[[amoy|noun]]  (a-MOY)",
+       "scent"
+      ],
+      [
+       "uy",
+       "[[kasuy|noun]]  (ka-SUY)",
+       "cashew"
+      ]
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "The hard ones",
+     "t": "English speakers often split **iw** and **uy** into two sounds at the end of a word. Say them as one smooth glide: bitiw, not bi-ti-oo."
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Every syllable counts",
+     "t": "Say each syllable clearly and separately. Do not swallow or blur any part of a word."
+    }
+   ]
+  },
+  {
+   "title": "Borrowed words in Tagalog spelling",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "When a Spanish or English word enters Tagalog, it is respelled to match Tagalog sounds. If you learn the rules, you can decode a lot of vocabulary without a dictionary."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Original",
+      "Becomes",
+      "Example"
+     ],
+     "rows": [
+      [
+       "hard c",
+       "k",
+       "café → [[kape|noun]] (coffee)"
+      ],
+      [
+       "soft c",
+       "s",
+       "cine → [[sine|noun]] (cinema)"
+      ],
+      [
+       "ch",
+       "ts",
+       "lechón → [[litson|noun]] (roast pig)"
+      ],
+      [
+       "f",
+       "p",
+       "final → [[pinal|pred]]"
+      ],
+      [
+       "j (Spanish)",
+       "h or s",
+       "cajón → [[kahon|noun]] (box), jabón → [[sabon|noun]] (soap)"
+      ],
+      [
+       "ll",
+       "ly",
+       "calle → [[kalye|noun]] (street)"
+      ],
+      [
+       "q (Spanish)",
+       "k",
+       "máquina → [[makina|noun]] (machine)"
+      ],
+      [
+       "v",
+       "b",
+       "vapor → [[bapor|noun]] (ship)"
+      ],
+      [
+       "z",
+       "s",
+       "lápiz → [[lapis|noun]] (pencil)"
+      ]
+     ],
+     "title": "From Spanish"
+    },
+    {
+     "type": "table",
+     "head": [
+      "English",
+      "Becomes",
+      "Example"
+     ],
+     "rows": [
+      [
+       "ck or ct",
+       "k",
+       "addict → [[adik|noun]]"
+      ],
+      [
+       "qu",
+       "kw",
+       "quality → [[kwaliti|noun]]"
+      ],
+      [
+       "long i",
+       "ay",
+       "driver → [[drayber|noun]]"
+      ],
+      [
+       "f",
+       "p",
+       "traffic → [[trapik|noun]]"
+      ],
+      [
+       "v",
+       "b",
+       "believe → [[bilib|pred]] (to believe, admire)"
+      ],
+      [
+       "-tion",
+       "-syon",
+       "institution → [[institusyon|noun]]"
+      ],
+      [
+       "x",
+       "ks",
+       "boxing → [[boksing|noun]]"
+      ],
+      [
+       "j",
+       "dy",
+       "janitor → [[dyanitor|noun]]"
+      ],
+      [
+       "s + consonant at the start",
+       "is + consonant",
+       "school → [[iskul|noun]], sport → [[isport|noun]]"
+      ],
+      [
+       "soft ch",
+       "ts",
+       "teacher → [[titser|noun]]"
+      ],
+      [
+       "-cle",
+       "-kel",
+       "tricycle → [[traysikel|noun]]"
+      ]
+     ],
+     "title": "From English"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Names stay as they are",
+     "t": "People, places and brand names usually keep their original spelling: Carlos, Jollibee, Leyte Gulf. Only ordinary words are respelled."
+    }
+   ]
+  },
+  {
+   "title": "Everyday loanwords",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "These borrowed words are used constantly. Learn to say them as true Tagalog words, with every vowel clear."
+    },
+    {
+     "type": "vocab",
+     "group": "borrowed",
+     "title": "Common borrowed words"
+    }
+   ]
+  },
+  {
+   "title": "Days and months",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The days of the week and the months of the year are Spanish in origin, respelled in Tagalog style."
+    },
+    {
+     "type": "vocab",
+     "group": "days",
+     "title": "Days of the week"
+    },
+    {
+     "type": "vocab",
+     "group": "months",
+     "title": "Months of the year"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "The weekdays and months are easy to guess if you know a little Spanish.",
+      "Linggo means both Sunday and week."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "araw",
+   "tl": "araw",
+   "en": "day, sun",
+   "pos": "noun",
+   "group": "sounds",
+   "say": "A-raw"
+  },
+  {
+   "id": "bente",
+   "tl": "bente",
+   "en": "twenty",
+   "pos": "num",
+   "group": "sounds",
+   "say": "BEN-te"
+  },
+  {
+   "id": "isa",
+   "tl": "isa",
+   "en": "one",
+   "pos": "num",
+   "group": "sounds",
+   "say": "i-SA"
+  },
+  {
+   "id": "oras",
+   "tl": "oras",
+   "en": "hour, time",
+   "pos": "noun",
+   "group": "sounds",
+   "say": "O-ras"
+  },
+  {
+   "id": "uhaw",
+   "tl": "uhaw",
+   "en": "thirsty",
+   "pos": "adj",
+   "group": "sounds",
+   "say": "u-HAW"
+  },
+  {
+   "id": "marami",
+   "tl": "marami",
+   "en": "many, plenty",
+   "pos": "adj",
+   "group": "sounds",
+   "say": "ma-RA-mi"
+  },
+  {
+   "id": "away",
+   "tl": "away",
+   "en": "a fight",
+   "pos": "noun",
+   "group": "sounds",
+   "say": "A-way"
+  },
+  {
+   "id": "amoy",
+   "tl": "amoy",
+   "en": "scent, smell",
+   "pos": "noun",
+   "group": "sounds",
+   "say": "a-MOY"
+  },
+  {
+   "id": "kasuy",
+   "tl": "kasuy",
+   "en": "cashew",
+   "pos": "noun",
+   "group": "sounds",
+   "say": "ka-SUY"
+  },
+  {
+   "id": "kape",
+   "tl": "kape",
+   "en": "coffee",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "ka-PE"
+  },
+  {
+   "id": "kotse",
+   "tl": "kotse",
+   "en": "car",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "KOT-se"
+  },
+  {
+   "id": "telepono",
+   "tl": "telepono",
+   "en": "telephone",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "te-le-PO-no"
+  },
+  {
+   "id": "radyo",
+   "tl": "radyo",
+   "en": "radio",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "RAD-yo"
+  },
+  {
+   "id": "sinehan",
+   "tl": "sinehan",
+   "en": "movie house",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "si-ne-HAN"
+  },
+  {
+   "id": "pelikula",
+   "tl": "pelikula",
+   "en": "movie",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "pe-li-KU-la"
+  },
+  {
+   "id": "otel",
+   "tl": "otel",
+   "en": "hotel",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "o-TEL"
+  },
+  {
+   "id": "restawran",
+   "tl": "restawran",
+   "en": "restaurant",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "res-ta-WRAN"
+  },
+  {
+   "id": "silya",
+   "tl": "silya",
+   "en": "chair",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "SIL-ya"
+  },
+  {
+   "id": "kompyuter",
+   "tl": "kompyuter",
+   "en": "computer",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "kom-PYU-ter"
+  },
+  {
+   "id": "pasaporte",
+   "tl": "pasaporte",
+   "en": "passport",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "pa-sa-POR-te"
+  },
+  {
+   "id": "tindahan",
+   "tl": "tindahan",
+   "en": "store, shop",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "tin-DA-han"
+  },
+  {
+   "id": "papel",
+   "tl": "papel",
+   "en": "paper",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "pa-PEL"
+  },
+  {
+   "id": "plastik",
+   "tl": "plastik",
+   "en": "plastic",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "PLAS-tik"
+  },
+  {
+   "id": "telebisyon",
+   "tl": "telebisyon",
+   "en": "television",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "te-le-bis-YON"
+  },
+  {
+   "id": "bangko",
+   "tl": "bangko",
+   "en": "bank, bench",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "BANG-ko"
+  },
+  {
+   "id": "piyano",
+   "tl": "piyano",
+   "en": "piano",
+   "pos": "noun",
+   "group": "borrowed",
+   "say": "pi-YA-no"
+  },
+  {
+   "id": "lunes",
+   "tl": "Lunes",
+   "en": "Monday",
+   "pos": "noun",
+   "group": "days",
+   "say": "LU-nes"
+  },
+  {
+   "id": "martes",
+   "tl": "Martes",
+   "en": "Tuesday",
+   "pos": "noun",
+   "group": "days",
+   "say": "MAR-tes"
+  },
+  {
+   "id": "miyerkules",
+   "tl": "Miyerkules",
+   "en": "Wednesday",
+   "pos": "noun",
+   "group": "days",
+   "say": "mi-YER-ku-les"
+  },
+  {
+   "id": "huwebes",
+   "tl": "Huwebes",
+   "en": "Thursday",
+   "pos": "noun",
+   "group": "days",
+   "say": "hu-WE-bes"
+  },
+  {
+   "id": "biyernes",
+   "tl": "Biyernes",
+   "en": "Friday",
+   "pos": "noun",
+   "group": "days",
+   "say": "bi-YER-nes"
+  },
+  {
+   "id": "sabado",
+   "tl": "Sabado",
+   "en": "Saturday",
+   "pos": "noun",
+   "group": "days",
+   "say": "SA-ba-do"
+  },
+  {
+   "id": "linggo",
+   "tl": "Linggo",
+   "en": "Sunday, week",
+   "pos": "noun",
+   "group": "days",
+   "say": "ling-GO"
+  },
+  {
+   "id": "enero",
+   "tl": "Enero",
+   "en": "January",
+   "pos": "noun",
+   "group": "months",
+   "say": "e-NE-ro"
+  },
+  {
+   "id": "pebrero",
+   "tl": "Pebrero",
+   "en": "February",
+   "pos": "noun",
+   "group": "months",
+   "say": "peb-RE-ro"
+  },
+  {
+   "id": "marso",
+   "tl": "Marso",
+   "en": "March",
+   "pos": "noun",
+   "group": "months",
+   "say": "MAR-so"
+  },
+  {
+   "id": "abril",
+   "tl": "Abril",
+   "en": "April",
+   "pos": "noun",
+   "group": "months",
+   "say": "ab-RIL"
+  },
+  {
+   "id": "mayo",
+   "tl": "Mayo",
+   "en": "May",
+   "pos": "noun",
+   "group": "months",
+   "say": "MA-yo"
+  },
+  {
+   "id": "hunyo",
+   "tl": "Hunyo",
+   "en": "June",
+   "pos": "noun",
+   "group": "months",
+   "say": "HUN-yo"
+  },
+  {
+   "id": "hulyo",
+   "tl": "Hulyo",
+   "en": "July",
+   "pos": "noun",
+   "group": "months",
+   "say": "HUL-yo"
+  },
+  {
+   "id": "agosto",
+   "tl": "Agosto",
+   "en": "August",
+   "pos": "noun",
+   "group": "months",
+   "say": "a-GOS-to"
+  },
+  {
+   "id": "setyembre",
+   "tl": "Setyembre",
+   "en": "September",
+   "pos": "noun",
+   "group": "months",
+   "say": "set-YEM-bre"
+  },
+  {
+   "id": "oktubre",
+   "tl": "Oktubre",
+   "en": "October",
+   "pos": "noun",
+   "group": "months",
+   "say": "ok-TUB-re"
+  },
+  {
+   "id": "nobyembre",
+   "tl": "Nobyembre",
+   "en": "November",
+   "pos": "noun",
+   "group": "months",
+   "say": "nob-YEM-bre"
+  },
+  {
+   "id": "disyembre",
+   "tl": "Disyembre",
+   "en": "December",
+   "pos": "noun",
+   "group": "months",
+   "say": "dis-YEM-bre"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "How many letters were in the older Tagalog alphabet?",
+   "options": [
+    "20",
+    "26",
+    "28"
+   ],
+   "answer": "20",
+   "explain": "Five vowels and fifteen consonants, with ng counted as one letter."
+  },
+  {
+   "type": "choice",
+   "q": "The eight added letters (c, f, j, ñ, q, v, x, z) are used mainly for…",
+   "options": [
+    "Names and borrowed words",
+    "Everyday Tagalog words",
+    "Numbers"
+   ],
+   "answer": "Names and borrowed words",
+   "explain": "Native Tagalog words rarely need them."
+  },
+  {
+   "type": "choice",
+   "q": "What does Tagalog ng sound like?",
+   "options": [
+    "The end of the word \"sing\"",
+    "An n followed by a separate g",
+    "A hard k"
+   ],
+   "answer": "The end of the word \"sing\"",
+   "explain": "It is one nasal sound, and it can start a word."
+  },
+  {
+   "type": "choice",
+   "q": "The letter ñ sounds like…",
+   "options": [
+    "n + y",
+    "m + y",
+    "a hard g"
+   ],
+   "answer": "n + y",
+   "explain": "Niño sounds like nin-yo."
+  },
+  {
+   "type": "choice",
+   "q": "How is the Tagalog r pronounced?",
+   "options": [
+    "A quick tap of the tongue",
+    "Like the English r",
+    "A long rolled trill"
+   ],
+   "answer": "A quick tap of the tongue",
+   "explain": "Think of the tt in American butter."
+  },
+  {
+   "type": "choice",
+   "q": "Which of these is a diphthong (one smooth glide)?",
+   "options": [
+    "oy",
+    "ko",
+    "ma"
+   ],
+   "answer": "oy",
+   "explain": "The six diphthongs are ay, aw, ey, iw, oy and uy."
+  },
+  {
+   "type": "choice",
+   "q": "Spanish \"calle\" becomes which Tagalog word?",
+   "options": [
+    "kalye",
+    "kalle",
+    "calye"
+   ],
+   "answer": "kalye",
+   "explain": "ll becomes ly, and hard c becomes k."
+  },
+  {
+   "type": "choice",
+   "q": "English \"quality\" becomes…",
+   "options": [
+    "kwaliti",
+    "kuality",
+    "kualidad"
+   ],
+   "answer": "kwaliti",
+   "explain": "qu becomes kw."
+  },
+  {
+   "type": "choice",
+   "q": "English \"driver\" becomes…",
+   "options": [
+    "drayber",
+    "driber",
+    "draiver"
+   ],
+   "answer": "drayber",
+   "explain": "A long i becomes ay, and v becomes b."
+  },
+  {
+   "type": "choice",
+   "q": "English \"school\" becomes…",
+   "options": [
+    "iskul",
+    "eskwela",
+    "skul"
+   ],
+   "answer": "iskul",
+   "explain": "A word starting with s plus a consonant gets an i in front."
+  },
+  {
+   "type": "listen",
+   "tl": "kape",
+   "options": [
+    "coffee",
+    "car",
+    "paper"
+   ],
+   "answer": "coffee",
+   "explain": "Kape is coffee, from Spanish café."
+  },
+  {
+   "type": "listen",
+   "tl": "Sabado",
+   "options": [
+    "Saturday",
+    "Sunday",
+    "Monday"
+   ],
+   "answer": "Saturday",
+   "explain": "Sabado is Saturday."
+  },
+  {
+   "type": "listen",
+   "tl": "Disyembre",
+   "options": [
+    "December",
+    "September",
+    "November"
+   ],
+   "answer": "December",
+   "explain": "Disyembre is December."
+  },
+  {
+   "type": "match",
+   "q": "Match the original word to its Tagalog spelling.",
+   "pairs": [
+    [
+     "cine",
+     "sine"
+    ],
+    [
+     "vapor",
+     "bapor"
+    ],
+    [
+     "lápiz",
+     "lapis"
+    ],
+    [
+     "tricycle",
+     "traysikel"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each month.",
+   "pairs": [
+    [
+     "Enero",
+     "January"
+    ],
+    [
+     "Marso",
+     "March"
+    ],
+    [
+     "Hulyo",
+     "July"
+    ],
+    [
+     "Oktubre",
+     "October"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "The older alphabet has 20 letters; c, f, j, ñ, q, v, x, z were added later for names and loanwords.",
+  "Vowels are short and pure; every syllable is clear.",
+  "ng is one sound, ñ is n + y, and r is a quick tap.",
+  "Six diphthongs: ay, aw, ey, iw, oy, uy.",
+  "Loanwords are respelled by sound: c to k or s, f to p, v to b, qu to kw, and so on."
+ ]
+}

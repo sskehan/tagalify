@@ -1,0 +1,142 @@
+{
+ "app": "Tagalify",
+ "version": "1.00",
+ "units": [
+  {
+   "id": "start",
+   "title": "Start here",
+   "lessons": [
+    "primer",
+    "background"
+   ]
+  },
+  {
+   "id": "basics",
+   "title": "Sounds and greetings",
+   "lessons": [
+    "l01",
+    "l02",
+    "l03"
+   ]
+  },
+  {
+   "id": "sentences",
+   "title": "Building sentences",
+   "lessons": [
+    "l04",
+    "l05",
+    "l06"
+   ]
+  },
+  {
+   "id": "connect",
+   "title": "Joining and owning",
+   "lessons": [
+    "l07",
+    "l08"
+   ]
+  }
+ ],
+ "lessons": [
+  {
+   "id": "primer",
+   "label": "Intro",
+   "title": "How Tagalog sentences work",
+   "summary": "The big ideas, explained in plain English before any rules",
+   "minutes": 20,
+   "file": "data/lessons/primer.json",
+   "words": 9,
+   "exercises": 14
+  },
+  {
+   "id": "background",
+   "label": "Intro",
+   "title": "Tagalog and the Filipino people",
+   "summary": "Where the language comes from, and the culture behind it",
+   "minutes": 10,
+   "file": "data/lessons/background.json",
+   "words": 5,
+   "exercises": 9
+  },
+  {
+   "id": "l01",
+   "label": "1",
+   "title": "The Tagalog alphabet",
+   "summary": "Letters, vowels, the ng and r sounds, and how borrowed words are spelled",
+   "minutes": 25,
+   "file": "data/lessons/l01.json",
+   "words": 45,
+   "exercises": 15
+  },
+  {
+   "id": "l02",
+   "label": "2",
+   "title": "Syllables and stress",
+   "summary": "How to break words into beats, and why the stressed syllable matters",
+   "minutes": 25,
+   "file": "data/lessons/l02.json",
+   "words": 19,
+   "exercises": 18
+  },
+  {
+   "id": "l03",
+   "label": "3",
+   "title": "Greetings and common expressions",
+   "summary": "Po and opo, greetings through the day, how are you, excuse me, and everyday phrases",
+   "minutes": 30,
+   "file": "data/lessons/l03.json",
+   "words": 56,
+   "exercises": 23
+  },
+  {
+   "id": "l04",
+   "label": "4",
+   "title": "The markers si and ang",
+   "summary": "How to mark who or what a sentence is about, and how to show more than one",
+   "minutes": 30,
+   "file": "data/lessons/l04.json",
+   "words": 34,
+   "exercises": 24
+  },
+  {
+   "id": "l05",
+   "label": "5",
+   "title": "Sentence formation",
+   "summary": "The two sentence orders, and how to flip one into the other",
+   "minutes": 25,
+   "file": "data/lessons/l05.json",
+   "words": 6,
+   "exercises": 20
+  },
+  {
+   "id": "l06",
+   "label": "6",
+   "title": "Pronouns and this/that",
+   "summary": "I, you, he, she, we, they, and the three words for this and that",
+   "minutes": 30,
+   "file": "data/lessons/l06.json",
+   "words": 21,
+   "exercises": 25
+  },
+  {
+   "id": "l07",
+   "label": "7",
+   "title": "Linkers: -ng, -g and na",
+   "summary": "The glue that joins describing words, nouns and other words that belong together",
+   "minutes": 30,
+   "file": "data/lessons/l07.json",
+   "words": 34,
+   "exercises": 26
+  },
+  {
+   "id": "l08",
+   "label": "8",
+   "title": "Possession: ng, ni and my, your, his",
+   "summary": "How to say whose something is, with names, nouns and pronouns",
+   "minutes": 35,
+   "file": "data/lessons/l08.json",
+   "words": 27,
+   "exercises": 28
+  }
+ ]
+}
