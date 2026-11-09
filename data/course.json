@@ -1,6 +1,6 @@
 {
  "app": "Tagalify",
- "version": "1.03",
+ "version": "1.04",
  "units": [
   {
    "id": "start",
@@ -34,6 +34,42 @@
    "lessons": [
     "l07",
     "l08"
+   ]
+  },
+  {
+   "id": "questions",
+   "title": "Asking and comparing",
+   "lessons": [
+    "l09",
+    "l10",
+    "l11"
+   ]
+  },
+  {
+   "id": "having",
+   "title": "Having and counting",
+   "lessons": [
+    "l12",
+    "l13"
+   ]
+  },
+  {
+   "id": "verbs1",
+   "title": "Action words (verbs)",
+   "lessons": [
+    "l14",
+    "l15",
+    "l16"
+   ]
+  },
+  {
+   "id": "verbs2",
+   "title": "Wanting, able, becoming, having",
+   "lessons": [
+    "l17",
+    "l18",
+    "l19",
+    "l20"
    ]
   }
  ],
@@ -137,6 +173,126 @@
    "file": "data/lessons/l08.json",
    "words": 26,
    "exercises": 29
+  },
+  {
+   "id": "l09",
+   "label": "9",
+   "title": "Asking questions",
+   "summary": "The 14 question words, their plural forms, short forms like 'yan and 'to, and everyday questions",
+   "minutes": 35,
+   "file": "data/lessons/l09.json",
+   "words": 31,
+   "exercises": 28
+  },
+  {
+   "id": "l10",
+   "label": "10",
+   "title": "The question word ba",
+   "summary": "Ba, the spoken question mark: where it goes, ba'y, the particles na, pa, din, daw and nga, and bang",
+   "minutes": 35,
+   "file": "data/lessons/l10.json",
+   "words": 13,
+   "exercises": 28
+  },
+  {
+   "id": "l11",
+   "label": "11",
+   "title": "Making comparisons",
+   "summary": "As … as (kasíng-, magkasíng-), like (parého, gáya), more than (mas … káysa), very (nápaka-) and most (pinaká-)",
+   "minutes": 35,
+   "file": "data/lessons/l11.json",
+   "words": 30,
+   "exercises": 27
+  },
+  {
+   "id": "l12",
+   "label": "12",
+   "title": "Using may and mayroón",
+   "summary": "Saying there is / there are and has / have with may and mayroón, and saying none with walâ",
+   "minutes": 30,
+   "file": "data/lessons/l12.json",
+   "words": 11,
+   "exercises": 28
+  },
+  {
+   "id": "l13",
+   "label": "13",
+   "title": "Numbers",
+   "summary": "Counting in Tagalog and Spanish, ordinals (first, second…), fractions, and prices",
+   "minutes": 40,
+   "file": "data/lessons/l13.json",
+   "words": 47,
+   "exercises": 29
+  },
+  {
+   "id": "l14",
+   "label": "14",
+   "title": "-Um- and mag- verb forms",
+   "summary": "Doer-focused verbs: making the -um- and mag- forms in every tense, and the two sentence patterns",
+   "minutes": 40,
+   "file": "data/lessons/l14.json",
+   "words": 61,
+   "exercises": 31
+  },
+  {
+   "id": "l15",
+   "label": "15",
+   "title": "-In- verb forms",
+   "summary": "Passive verbs that put the spotlight on the thing acted upon: alisín, basáhin, kánin…",
+   "minutes": 40,
+   "file": "data/lessons/l15.json",
+   "words": 41,
+   "exercises": 29
+  },
+  {
+   "id": "l16",
+   "label": "16",
+   "title": "The articles ang and ng",
+   "summary": "When to use ang (the main character) and when to use ng (the other characters), and their plurals",
+   "minutes": 25,
+   "file": "data/lessons/l16.json",
+   "words": 8,
+   "exercises": 28
+  },
+  {
+   "id": "l17",
+   "label": "17",
+   "title": "Pseudo verbs: dápat, gustó and others",
+   "summary": "Must, can, need, like and don't like: dápat, maáarì, puwéde, kailángan, ibig, gustó and áyaw",
+   "minutes": 35,
+   "file": "data/lessons/l17.json",
+   "words": 13,
+   "exercises": 28
+  },
+  {
+   "id": "l18",
+   "label": "18",
+   "title": "Ma- and Maka- verb forms",
+   "summary": "Ma- and maka- verbs that show ability, and stressed má- and maká- verbs for accidental actions",
+   "minutes": 45,
+   "file": "data/lessons/l18.json",
+   "words": 57,
+   "exercises": 28
+  },
+  {
+   "id": "l19",
+   "label": "19",
+   "title": "Magíng: to be or to become",
+   "summary": "Using magíng before a noun or adjective to talk about changing from one state to another",
+   "minutes": 30,
+   "file": "data/lessons/l19.json",
+   "words": 8,
+   "exercises": 26
+  },
+  {
+   "id": "l20",
+   "label": "20",
+   "title": "Magkaroón: to have",
+   "summary": "Magkaroón ng + noun and the short magka- + noun, in the past, present and future",
+   "minutes": 35,
+   "file": "data/lessons/l20.json",
+   "words": 14,
+   "exercises": 27
   }
  ]
 }
