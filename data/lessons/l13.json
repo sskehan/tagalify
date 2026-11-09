@@ -1,0 +1,2269 @@
+{
+ "id": "l13",
+ "label": "13",
+ "title": "Numbers",
+ "summary": "Counting in Tagalog and Spanish, ordinals (first, second…), fractions, and prices",
+ "minutes": 40,
+ "goals": [
+  "Count from one to ten, and build numbers up to a thousand",
+  "Recognise the Spanish numbers used in buying and selling",
+  "Build the ordinals with ika- (and know úna and hulí)",
+  "Name simple fractions with ka-, and use kalahatì",
+  "Say prices in pesos and centavos"
+ ],
+ "sections": [
+  {
+   "title": "Tagalog and Spanish numbers",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Filipinos use **two sets of numbers**: the Tagalog ones and Spanish ones (spelled the Tagalog way). The Spanish numbers are still common, **especially among older people** and **in buying and selling**, so it is useful to learn both. This lesson gives the Spanish number wherever Filipinos commonly use it."
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "Tagalog",
+      "Spanish"
+     ],
+     "rows": [
+      [
+       "1",
+       "[[isá|noun]]",
+       "uno"
+      ],
+      [
+       "2",
+       "[[dalawá|noun]]",
+       "dos"
+      ],
+      [
+       "3",
+       "[[tatló|noun]]",
+       "tres"
+      ],
+      [
+       "4",
+       "[[ápat|noun]]",
+       "kuwatro"
+      ],
+      [
+       "5",
+       "[[limá|noun]]",
+       "sinko"
+      ],
+      [
+       "6",
+       "[[ánim|noun]]",
+       "seis"
+      ],
+      [
+       "7",
+       "[[pitó|noun]]",
+       "siyete"
+      ],
+      [
+       "8",
+       "[[waló|noun]]",
+       "otso"
+      ],
+      [
+       "9",
+       "[[siyám|noun]]",
+       "nuwebe"
+      ],
+      [
+       "10",
+       "[[sampû|noun]]",
+       "diyes"
+      ]
+     ],
+     "title": "One to ten"
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "Tagalog",
+      "Spanish"
+     ],
+     "rows": [
+      [
+       "11",
+       "labíng-isá",
+       "onse"
+      ],
+      [
+       "12",
+       "labíndalawá",
+       "dose"
+      ],
+      [
+       "13",
+       "labíntatló",
+       "trese"
+      ],
+      [
+       "14",
+       "labíng-ápat",
+       "katorse"
+      ],
+      [
+       "15",
+       "labínlimá",
+       "kinse"
+      ],
+      [
+       "16",
+       "labíng-ánim",
+       "disiseis"
+      ],
+      [
+       "17",
+       "labímpitó",
+       "disisiyete"
+      ],
+      [
+       "18",
+       "labíngwaló",
+       "disiotso"
+      ],
+      [
+       "19",
+       "labínsiyám",
+       "disinuwebe"
+      ],
+      [
+       "20",
+       "dalawampú",
+       "beynte"
+      ],
+      [
+       "21",
+       "dalawampú't isá",
+       "beynte uno"
+      ],
+      [
+       "25",
+       "dalawampú't limá",
+       "beynte sinko"
+      ]
+     ],
+     "title": "Eleven to twenty-five"
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "Tagalog",
+      "Spanish"
+     ],
+     "rows": [
+      [
+       "30",
+       "tatlumpú",
+       "treynta"
+      ],
+      [
+       "36",
+       "tatlumpú't ánim",
+       "treynta'y seis"
+      ],
+      [
+       "40",
+       "apatnapú",
+       "kuwarenta"
+      ],
+      [
+       "47",
+       "apatnapú't pitó",
+       "kuwarenta'y siyete"
+      ],
+      [
+       "50",
+       "limampú",
+       "sinkuwenta"
+      ],
+      [
+       "55",
+       "limampú't limá",
+       "sinkuwenta'y sinko"
+      ],
+      [
+       "60",
+       "animnapú",
+       "sesenta"
+      ],
+      [
+       "70",
+       "pitumpú",
+       "setenta"
+      ],
+      [
+       "80",
+       "walumpú",
+       "otsenta"
+      ],
+      [
+       "90",
+       "siyamnapú",
+       "nobenta"
+      ],
+      [
+       "100",
+       "sandaán",
+       "siyento"
+      ],
+      [
+       "110",
+       "sandaá't sampú",
+       "siyento diyes"
+      ],
+      [
+       "200",
+       "dalawáng daán",
+       "dos siyentos"
+      ],
+      [
+       "300",
+       "tatlóng daán",
+       "tres siyentos"
+      ],
+      [
+       "400",
+       "ápat na raán",
+       "kwatro siyentos"
+      ],
+      [
+       "500",
+       "limáng daán",
+       "kinyentos"
+      ],
+      [
+       "1,000",
+       "isáng líbo",
+       "mil"
+      ]
+     ],
+     "title": "Thirty to a thousand",
+     "note": "Spellings are as the book prints them (it writes both kuwatro and kwatro)."
+    },
+    {
+     "type": "vocab",
+     "group": "count",
+     "title": "One to ten"
+    },
+    {
+     "type": "vocab",
+     "group": "spanish",
+     "title": "The Spanish numbers"
+    }
+   ]
+  },
+  {
+   "title": "How the bigger numbers are built",
+   "blocks": [
+    {
+     "type": "h",
+     "t": "Eleven to nineteen: labíng-"
+    },
+    {
+     "type": "p",
+     "t": "The prefix **labíng-** is added to the numbers **isá** (one) to **siyám** (nine) to make the numbers above ten. It may come from **labis ng**, *excess of*, so it means *ten and more*. The prefix changes its ending to suit the number after it:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Prefix",
+      "Used with",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "labíng-",
+       "isá, ápat, ánim, waló",
+       "labíng-isá (11), labíng-ápat (14), labíng-ánim (16), labíngwaló (18)"
+      ],
+      [
+       "labín-",
+       "dalawá, tatló, limá, siyám",
+       "labíndalawá (12), labíntatló (13), labínlimá (15), labínsiyám (19)"
+      ],
+      [
+       "labím-",
+       "pitó",
+       "labímpitó (17)"
+      ]
+     ],
+     "title": "Labíng-, labín-, labím-"
+    },
+    {
+     "type": "h",
+     "t": "The tens: -pû"
+    },
+    {
+     "type": "p",
+     "t": "To make the tens, the word **puó** (*ten*) is added to the numbers one to nine as an ending, written **-pû**. Ten is basically **isáng puó** (one ten). The ligatures **-ng** and **-g** after the number then change to **-m** to sound smooth before **-pu**. So **isang puó** becomes **sampú**."
+    },
+    {
+     "type": "pattern",
+     "title": "Isáng puó → sampú",
+     "rows": [
+      {
+       "label": "One ten",
+       "chips": [
+        {
+         "t": "isá",
+         "r": "noun"
+        },
+        {
+         "t": "-ng",
+         "r": "link"
+        },
+        {
+         "t": "puó",
+         "r": "noun"
+        }
+       ]
+      },
+      {
+       "label": "Becomes",
+       "chips": [
+        {
+         "t": "sa",
+         "r": "noun"
+        },
+        {
+         "t": "-m",
+         "r": "link"
+        },
+        {
+         "t": "pú",
+         "r": "noun"
+        }
+       ]
+      }
+     ],
+     "note": "In the same way: tatlumpú (30), limampú (50), pitumpú (70), walumpú (80)."
+    },
+    {
+     "type": "h",
+     "t": "Hundreds and thousands"
+    },
+    {
+     "type": "p",
+     "t": "Numbers above nine are **combinations of words**, so they all have ligatures. Between nine and one hundred they are written as **one word** (siyámnapú, ninety). Above one hundred they are written as **separate words** (siyám na raán, nine hundred)."
+    },
+    {
+     "type": "p",
+     "t": "Hundred is **daán** or **raán**. The table shows **daán** after the ligature **-ng** (dalawáng daán, tatlóng daán, limáng daán) and **raán** after **na** (ápat na raán, siyám na raán)."
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "At ('t) only once",
+     "t": "The joining word **at** (*and*, shortened to **'t**) is used **only between the last two numbers** in a series: **tatlóng líbo sandaá't siyám** (three thousand one hundred nine)."
+    },
+    {
+     "type": "table",
+     "head": [
+      "English",
+      "Tagalog"
+     ],
+     "rows": [
+      [
+       "ten",
+       "[[pûo|noun]]"
+      ],
+      [
+       "hundred",
+       "[[daán|noun]]"
+      ],
+      [
+       "thousand",
+       "[[líbo|noun]]"
+      ],
+      [
+       "ten thousand",
+       "[[laksâ|noun]]"
+      ],
+      [
+       "hundred thousand",
+       "[[yutà|noun]]"
+      ],
+      [
+       "million",
+       "[[ángaw|noun]]"
+      ]
+     ],
+     "title": "Other number words",
+     "note": "The book writes ten as puó in the rule above and pûo in this list."
+    },
+    {
+     "type": "vocab",
+     "group": "big",
+     "title": "Bigger numbers"
+    }
+   ]
+  },
+  {
+   "title": "Using numbers in sentences",
+   "blocks": [
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ang limá at ánim ay labíng-isá.",
+       "en": "Five and six are eleven.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "limá",
+         "five",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "ánim",
+         "six",
+         "noun"
+        ],
+        [
+         "ay",
+         "are",
+         "ay"
+        ],
+        [
+         "labíng-isá",
+         "eleven",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang dalawáng kapatíd ko ay marurúnong.",
+       "en": "My two siblings are intelligent.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "dalawáng",
+         "two (+ ligature)",
+         "noun"
+        ],
+        [
+         "kapatíd",
+         "sibling",
+         "noun"
+        ],
+        [
+         "ko",
+         "my",
+         "poss"
+        ],
+        [
+         "ay",
+         "are",
+         "ay"
+        ],
+        [
+         "marurúnong",
+         "intelligent",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Sampúng tao ang umáwit sa palátuntúnan.",
+       "en": "Ten people sang in the program.",
+       "parts": [
+        [
+         "Sampúng",
+         "ten (+ ligature)",
+         "noun"
+        ],
+        [
+         "tao",
+         "people",
+         "noun"
+        ],
+        [
+         "ang",
+         "(who)",
+         "marker"
+        ],
+        [
+         "umáwit",
+         "sang",
+         "pred"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "palátuntúnan",
+         "program",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "May mga isáng daáng batà ang nag-áaral dito.",
+       "en": "About a hundred children are studying here.",
+       "parts": [
+        [
+         "May",
+         "there are",
+         "pred"
+        ],
+        [
+         "mga",
+         "about",
+         "marker"
+        ],
+        [
+         "isáng",
+         "one (+ ligature)",
+         "noun"
+        ],
+        [
+         "daáng",
+         "hundred (+ ligature)",
+         "noun"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ],
+        [
+         "ang",
+         "(who)",
+         "marker"
+        ],
+        [
+         "nag-áaral",
+         "studying",
+         "pred"
+        ],
+        [
+         "dito",
+         "here",
+         "other"
+        ]
+       ]
+      },
+      {
+       "tl": "May labíndalawáng buwán sa isáng taón.",
+       "en": "There are twelve months in a year.",
+       "parts": [
+        [
+         "May",
+         "there are",
+         "pred"
+        ],
+        [
+         "labíndalawáng",
+         "twelve (+ ligature)",
+         "noun"
+        ],
+        [
+         "buwán",
+         "month",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "isáng",
+         "one (+ ligature)",
+         "noun"
+        ],
+        [
+         "taón",
+         "year",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Iláng taón ka na?",
+       "en": "How old are you?",
+       "parts": [
+        [
+         "Iláng",
+         "how many",
+         "pred"
+        ],
+        [
+         "taón",
+         "year",
+         "noun"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ],
+        [
+         "na",
+         "already",
+         "part"
+        ]
+       ]
+      },
+      {
+       "tl": "Akó ay dalawampú't limáng taón na.",
+       "en": "I am 25 years old (already).",
+       "parts": [
+        [
+         "Akó",
+         "I",
+         "pron"
+        ],
+        [
+         "ay",
+         "am",
+         "ay"
+        ],
+        [
+         "dalawampú't",
+         "twenty and",
+         "pred"
+        ],
+        [
+         "limáng",
+         "five (+ ligature)",
+         "pred"
+        ],
+        [
+         "taón",
+         "year",
+         "pred"
+        ],
+        [
+         "na",
+         "already",
+         "part"
+        ]
+       ]
+      }
+     ],
+     "title": "Sample sentences"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "About ten: mga",
+     "t": "To give an **approximate** number, put **mga** before it: **mga sampû** means *about ten*. (Compare *May mga isáng daáng batà…*, about a hundred children.)"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Ligatures again",
+     "t": "A number before a noun takes a ligature, just like an adjective: **dalawáng** kapatíd, **sampúng** tao, **labíndalawáng** buwán."
+    }
+   ]
+  },
+  {
+   "title": "Ordinal numbers: first, second…",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "An **ordinal number** shows the place of an item in an ordered sequence. Tagalog ordinals are easy: add the prefix **ika-** to the number. There are a few irregular ones:"
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "The irregular ordinals",
+     "items": [
+      "First and last are always **úna** and **hulí**.",
+      "**Dalawá** and **tatló** lose their first two letters before ika- is added: ika + lawá = **ikalawá**, ika + tló = **ikatló**."
+     ]
+    },
+    {
+     "type": "table",
+     "head": [
+      "Tagalog",
+      "English"
+     ],
+     "rows": [
+      [
+       "[[úna|pred]]",
+       "first"
+      ],
+      [
+       "[[ikalawá|pred]]",
+       "second"
+      ],
+      [
+       "[[ikatló|pred]]",
+       "third"
+      ],
+      [
+       "[[ikaápat|pred]]",
+       "fourth"
+      ],
+      [
+       "[[ikalimá|pred]]",
+       "fifth"
+      ],
+      [
+       "[[ikaánim|pred]] (ikanim)",
+       "sixth"
+      ],
+      [
+       "[[ikapitó|pred]]",
+       "seventh"
+      ],
+      [
+       "[[ikawaló|pred]]",
+       "eighth"
+      ],
+      [
+       "[[ikasiyám|pred]]",
+       "ninth"
+      ],
+      [
+       "[[ikasampû|pred]]",
+       "tenth"
+      ],
+      [
+       "[[ikalabing-isá|pred]]",
+       "eleventh"
+      ],
+      [
+       "[[ikadalawampú|pred]]",
+       "twentieth"
+      ],
+      [
+       "[[ikasandaán|pred]]",
+       "one hundredth"
+      ],
+      [
+       "[[hulí|pred]]",
+       "last"
+      ]
+     ],
+     "title": "Ordinals"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ikailán kang anák?",
+       "en": "Which child are you?",
+       "parts": [
+        [
+         "Ikailán",
+         "which (in order)",
+         "pred"
+        ],
+        [
+         "kang",
+         "you (+ ligature)",
+         "pron"
+        ],
+        [
+         "anák",
+         "child",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Akó ay ikalimá.",
+       "en": "I am the fifth.",
+       "parts": [
+        [
+         "Akó",
+         "I",
+         "pron"
+        ],
+        [
+         "ay",
+         "am",
+         "ay"
+        ],
+        [
+         "ikalimá",
+         "fifth",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Sino ba ang úna?",
+       "en": "Who is the first?",
+       "parts": [
+        [
+         "Sino",
+         "who",
+         "pred"
+        ],
+        [
+         "ba",
+         "(question word)",
+         "part"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "úna",
+         "first",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Si Peter ang úna.",
+       "en": "Peter is the first.",
+       "parts": [
+        [
+         "Si",
+         "(name marker)",
+         "marker"
+        ],
+        [
+         "Peter",
+         "Peter",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "úna",
+         "first",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ikáw ba ay pangánay?",
+       "en": "Are you the first child?",
+       "parts": [
+        [
+         "Ikáw",
+         "you",
+         "pron"
+        ],
+        [
+         "ba",
+         "(question word)",
+         "part"
+        ],
+        [
+         "ay",
+         "are",
+         "ay"
+        ],
+        [
+         "pangánay",
+         "first child",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Hindî, ako ay bunsô.",
+       "en": "No, I am the youngest child.",
+       "parts": [
+        [
+         "Hindî",
+         "no",
+         "part"
+        ],
+        [
+         "ako",
+         "I",
+         "pron"
+        ],
+        [
+         "ay",
+         "am",
+         "ay"
+        ],
+        [
+         "bunsô",
+         "youngest child",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Siyá ay nasa ikaánim na grado.",
+       "en": "He/She is in the sixth grade.",
+       "parts": [
+        [
+         "Siyá",
+         "he/she",
+         "pron"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "nasa",
+         "in",
+         "marker"
+        ],
+        [
+         "ikaánim",
+         "sixth",
+         "pred"
+        ],
+        [
+         "na",
+         "(ligature)",
+         "link"
+        ],
+        [
+         "grado",
+         "grade",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Sample sentences"
+    },
+    {
+     "type": "vocab",
+     "group": "order",
+     "title": "Order words"
+    }
+   ]
+  },
+  {
+   "title": "Fractions",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "One part of a whole is made by adding the prefix **ka-** (a shortened **ika-**) to the **lower number** of the fraction. The word **bahagi** (*part*) is often added too, for clarity. **Kalahatì** (half) is a set name of its own."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Fraction",
+      "Longer form",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[kalahatì|noun]]",
+       "kalahatíng bahagi",
+       "one half"
+      ],
+      [
+       "[[katló|noun]]",
+       "ikatlóng bahagi",
+       "one third"
+      ],
+      [
+       "[[kápat|noun]]",
+       "ikápat na bahagi",
+       "one fourth"
+      ],
+      [
+       "[[kalimá|noun]]",
+       "ikalimáng bahagi",
+       "one fifth"
+      ],
+      [
+       "[[kánim|noun]]",
+       "ika-ánim na bahagi",
+       "one sixth"
+      ],
+      [
+       "[[kapíto|noun]]",
+       "ikapitóng bahagi",
+       "one seventh"
+      ],
+      [
+       "[[kawaló|noun]]",
+       "ikawalóng bahagi",
+       "one eighth"
+      ],
+      [
+       "[[kasiyám|noun]]",
+       "ikasiyám na bahagi",
+       "one ninth"
+      ],
+      [
+       "[[kapulô|noun]]",
+       "ikasampûng bahagi or ikapû",
+       "one tenth"
+      ]
+     ],
+     "title": "One part of a whole"
+    },
+    {
+     "type": "p",
+     "t": "**Bigger fractions** are made by putting a number in front:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Tagalog",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "dalawang-katlo",
+       "two-thirds"
+      ],
+      [
+       "katlong-kapat",
+       "three-fourths"
+      ]
+     ],
+     "note": "The book's sample sentence writes three-fourths as tatlóng-kápat."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Itó ay kalahatì ng mansánas.",
+       "en": "This is half of an apple.",
+       "parts": [
+        [
+         "Itó",
+         "this",
+         "pron"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "kalahatì",
+         "half",
+         "pred"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "mansánas",
+         "apple",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang dalawáng-katló ng aking salapî ay para sa iyó.",
+       "en": "Two-thirds of my money is for you.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "dalawáng-katló",
+         "two-thirds",
+         "noun"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "aking",
+         "my",
+         "poss"
+        ],
+        [
+         "salapî",
+         "money",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "para sa",
+         "for",
+         "pred"
+        ],
+        [
+         "iyó",
+         "you",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Maglagáy ng tatlóng-kápat ng kutsarítang asín sa pagkáin.",
+       "en": "Put three-fourths teaspoon of salt in the food.",
+       "parts": [
+        [
+         "Maglagáy",
+         "put",
+         "pred"
+        ],
+        [
+         "ng",
+         "(object marker)",
+         "marker"
+        ],
+        [
+         "tatlóng-kápat",
+         "three-fourths",
+         "noun"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "kutsarítang",
+         "teaspoon (+ ligature)",
+         "noun"
+        ],
+        [
+         "asín",
+         "salt",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "pagkáin",
+         "food",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang ápat na kawaló ay parého ng dalawáng-kápat.",
+       "en": "Four-eighths is equivalent to two-fourths.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "ápat",
+         "four",
+         "noun"
+        ],
+        [
+         "na",
+         "(ligature)",
+         "link"
+        ],
+        [
+         "kawaló",
+         "eighth",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "parého",
+         "equivalent",
+         "pred"
+        ],
+        [
+         "ng",
+         "to",
+         "marker"
+        ],
+        [
+         "dalawáng-kápat",
+         "two-fourths",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Sample sentences"
+    },
+    {
+     "type": "box",
+     "kind": "culture",
+     "title": "Where you will hear fractions",
+     "t": "Fractions today seem to be used mostly **in schools**, not in everyday speech. The exception is **kalahatì** (half), which you will hear regularly in markets and even at home."
+    }
+   ]
+  },
+  {
+   "title": "Prices and money",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "In buying and selling, Tagalog and Spanish numbers are **used interchangeably**. Sellers often prefer the **Spanish** numbers because they are quicker to say, which suits the fast pace of a local market. To understand market vendors, you need to know both."
+    },
+    {
+     "type": "p",
+     "t": "The money of the Philippines is the *peso*, **piso** in Tagalog. Coins are in *centavos*, **séntimó** or **pera**. One peso is **isang piso** or simply **piso**."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Price",
+      "Tagalog",
+      "Spanish"
+     ],
+     "rows": [
+      [
+       "P 1.20",
+       "isáng piso at dalawampúng séntimó (or isáng piso't dalawampúng séntimó)",
+       "uno beinte"
+      ],
+      [
+       "P 2.30",
+       "dalawáng piso't tatlumpúng séntimó",
+       "dos treinta"
+      ],
+      [
+       "P 3.40",
+       "tatlóng piso't apatnapúng séntimó",
+       "tres kuwarenta"
+      ],
+      [
+       "P 4.50",
+       "ápat na piso't limampúng séntimó",
+       "kuwatro sinkuwenta"
+      ],
+      [
+       "P 5.60",
+       "limáng piso't animnapúng séntimó",
+       "sinko sesenta"
+      ],
+      [
+       "P 6.70",
+       "ánim na piso't pitumpúng séntimó",
+       "seis setenta"
+      ],
+      [
+       "P 7.80",
+       "pitóng piso't walumpúng séntimó",
+       "siyete otsenta"
+      ],
+      [
+       "P 8.90",
+       "walóng piso't siyamnapúng séntimó",
+       "otso nobenta"
+      ],
+      [
+       "P 9.00",
+       "siyám na piso",
+       "nuwebe pesos"
+      ],
+      [
+       "P 10.00",
+       "sampûng piso't sampúng séntimó",
+       "diyes-diyes"
+      ]
+     ],
+     "title": "Saying prices",
+     "note": "Copied as the book prints them, including the last row."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Spanish prices",
+     "t": "Notice how short the Spanish prices are: P 2.30 is just **dos treinta**, the pesos and then the centavos."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ang áking sapátos ay nagkákahalagá ng pitóng daán at limampúng piso.",
+       "en": "My pair of shoes costs seven hundred and fifty pesos.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "áking",
+         "my",
+         "poss"
+        ],
+        [
+         "sapátos",
+         "shoes",
+         "noun"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "nagkákahalagá",
+         "costs",
+         "pred"
+        ],
+        [
+         "ng",
+         "(marker)",
+         "marker"
+        ],
+        [
+         "pitóng",
+         "seven (+ ligature)",
+         "noun"
+        ],
+        [
+         "daán",
+         "hundred",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "limampúng",
+         "fifty (+ ligature)",
+         "noun"
+        ],
+        [
+         "piso",
+         "peso",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang halagá ng kanyáng damít ay walóng daán siyámnapú't siyám na piso at pitúmpú't limáng pera.",
+       "en": "The cost of her dress is eight hundred ninety-nine pesos and seventy-five centavos.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "halagá",
+         "cost",
+         "noun"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "kanyáng",
+         "her",
+         "poss"
+        ],
+        [
+         "damít",
+         "dress",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "walóng",
+         "eight (+ ligature)",
+         "pred"
+        ],
+        [
+         "daán",
+         "hundred",
+         "pred"
+        ],
+        [
+         "siyámnapú't",
+         "ninety and",
+         "pred"
+        ],
+        [
+         "siyám",
+         "nine",
+         "pred"
+        ],
+        [
+         "na",
+         "(ligature)",
+         "link"
+        ],
+        [
+         "piso",
+         "peso",
+         "pred"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "pitúmpú't",
+         "seventy and",
+         "pred"
+        ],
+        [
+         "limáng",
+         "five (+ ligature)",
+         "pred"
+        ],
+        [
+         "pera",
+         "centavo",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Dalawáng libong piso ang halagá ng silya.",
+       "en": "The chair costs two thousand pesos.",
+       "parts": [
+        [
+         "Dalawáng",
+         "two (+ ligature)",
+         "pred"
+        ],
+        [
+         "libong",
+         "thousand (+ ligature)",
+         "pred"
+        ],
+        [
+         "piso",
+         "peso",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "halagá",
+         "cost",
+         "noun"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "silya",
+         "chair",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Sample sentences"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "1 to 10: isá, dalawá, tatló, ápat, limá, ánim, pitó, waló, siyám, sampû.",
+      "11 to 19: labíng-, labín- (with dalawá, tatló, limá, siyám), labím- (with pitó).",
+      "Tens end in -pû: dalawampú, tatlumpú, limampú. At ('t) joins only the last two numbers.",
+      "Approximate: mga sampû, about ten.",
+      "Ordinals: ika- + number; úna (first), hulí (last), ikalawá, ikatló.",
+      "Fractions: ka- + lower number; kalahatì is half. Money: piso and séntimó (pera)."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "money",
+     "title": "Money and other words"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "isa",
+   "tl": "isá",
+   "en": "one",
+   "pos": "num",
+   "group": "count",
+   "say": "i-SA"
+  },
+  {
+   "id": "dalawa",
+   "tl": "dalawá",
+   "en": "two",
+   "pos": "num",
+   "group": "count",
+   "say": "da-la-WA"
+  },
+  {
+   "id": "tatlo",
+   "tl": "tatló",
+   "en": "three",
+   "pos": "num",
+   "group": "count",
+   "say": "tat-LO"
+  },
+  {
+   "id": "apat",
+   "tl": "ápat",
+   "en": "four",
+   "pos": "num",
+   "group": "count",
+   "say": "A-pat"
+  },
+  {
+   "id": "lima",
+   "tl": "limá",
+   "en": "five",
+   "pos": "num",
+   "group": "count",
+   "say": "li-MA"
+  },
+  {
+   "id": "anim",
+   "tl": "ánim",
+   "en": "six",
+   "pos": "num",
+   "group": "count",
+   "say": "A-nim"
+  },
+  {
+   "id": "pito",
+   "tl": "pitó",
+   "en": "seven",
+   "pos": "num",
+   "group": "count",
+   "say": "pi-TO"
+  },
+  {
+   "id": "walo",
+   "tl": "waló",
+   "en": "eight",
+   "pos": "num",
+   "group": "count",
+   "say": "wa-LO"
+  },
+  {
+   "id": "siyam",
+   "tl": "siyám",
+   "en": "nine",
+   "pos": "num",
+   "group": "count",
+   "say": "si-YAM"
+  },
+  {
+   "id": "labindalawa",
+   "tl": "labíndalawá",
+   "en": "twelve",
+   "pos": "num",
+   "group": "big",
+   "say": "la-BIN-da-la-WA"
+  },
+  {
+   "id": "limampu",
+   "tl": "limampú",
+   "en": "fifty",
+   "pos": "num",
+   "group": "big",
+   "say": "li-mam-PU"
+  },
+  {
+   "id": "sandaan",
+   "tl": "sandaán",
+   "en": "one hundred",
+   "pos": "num",
+   "group": "big",
+   "say": "san-da-AN"
+  },
+  {
+   "id": "isang-libo",
+   "tl": "isáng líbo",
+   "en": "one thousand",
+   "pos": "num",
+   "group": "big",
+   "say": "i-SANG LI-bo"
+  },
+  {
+   "id": "puo",
+   "tl": "pûo",
+   "en": "ten",
+   "pos": "num",
+   "group": "big",
+   "note": "The book also writes puó."
+  },
+  {
+   "id": "daan",
+   "tl": "daán",
+   "en": "hundred",
+   "pos": "num",
+   "group": "big",
+   "say": "da-AN",
+   "note": "Raán is used after na: ápat na raán."
+  },
+  {
+   "id": "libo",
+   "tl": "líbo",
+   "en": "thousand",
+   "pos": "num",
+   "group": "big",
+   "say": "LI-bo"
+  },
+  {
+   "id": "laksa",
+   "tl": "laksâ",
+   "en": "ten thousand",
+   "pos": "num",
+   "group": "big",
+   "say": "lak-saQ"
+  },
+  {
+   "id": "yuta",
+   "tl": "yutà",
+   "en": "hundred thousand",
+   "pos": "num",
+   "group": "big",
+   "say": "YU-taQ"
+  },
+  {
+   "id": "angaw",
+   "tl": "ángaw",
+   "en": "million",
+   "pos": "num",
+   "group": "big",
+   "say": "A-ngaw"
+  },
+  {
+   "id": "sp-uno",
+   "tl": "uno",
+   "en": "one (Spanish)",
+   "pos": "num",
+   "group": "spanish"
+  },
+  {
+   "id": "sp-dos",
+   "tl": "dos",
+   "en": "two (Spanish)",
+   "pos": "num",
+   "group": "spanish"
+  },
+  {
+   "id": "sp-tres",
+   "tl": "tres",
+   "en": "three (Spanish)",
+   "pos": "num",
+   "group": "spanish"
+  },
+  {
+   "id": "sp-kuwatro",
+   "tl": "kuwatro",
+   "en": "four (Spanish)",
+   "pos": "num",
+   "group": "spanish",
+   "note": "The book also writes kwatro."
+  },
+  {
+   "id": "sp-sinko",
+   "tl": "sinko",
+   "en": "five (Spanish)",
+   "pos": "num",
+   "group": "spanish"
+  },
+  {
+   "id": "sp-seis",
+   "tl": "seis",
+   "en": "six (Spanish)",
+   "pos": "num",
+   "group": "spanish"
+  },
+  {
+   "id": "sp-siyete",
+   "tl": "siyete",
+   "en": "seven (Spanish)",
+   "pos": "num",
+   "group": "spanish"
+  },
+  {
+   "id": "sp-otso",
+   "tl": "otso",
+   "en": "eight (Spanish)",
+   "pos": "num",
+   "group": "spanish"
+  },
+  {
+   "id": "sp-nuwebe",
+   "tl": "nuwebe",
+   "en": "nine (Spanish)",
+   "pos": "num",
+   "group": "spanish"
+  },
+  {
+   "id": "sp-diyes",
+   "tl": "diyes",
+   "en": "ten (Spanish)",
+   "pos": "num",
+   "group": "spanish"
+  },
+  {
+   "id": "una",
+   "tl": "úna",
+   "en": "first",
+   "pos": "num",
+   "group": "order",
+   "say": "U-na"
+  },
+  {
+   "id": "ikalawa",
+   "tl": "ikalawá",
+   "en": "second",
+   "pos": "num",
+   "group": "order",
+   "say": "i-ka-la-WA"
+  },
+  {
+   "id": "ikatlo",
+   "tl": "ikatló",
+   "en": "third",
+   "pos": "num",
+   "group": "order",
+   "say": "i-kat-LO"
+  },
+  {
+   "id": "ikalima",
+   "tl": "ikalimá",
+   "en": "fifth",
+   "pos": "num",
+   "group": "order",
+   "say": "i-ka-li-MA"
+  },
+  {
+   "id": "ikasampu",
+   "tl": "ikasampû",
+   "en": "tenth",
+   "pos": "num",
+   "group": "order",
+   "say": "i-ka-sam-puQ"
+  },
+  {
+   "id": "ikapu",
+   "tl": "ikapú",
+   "en": "tenth",
+   "pos": "num",
+   "group": "order",
+   "say": "i-ka-PU",
+   "note": "Given in the vocabulary list. The fraction table writes ikapû (one tenth)."
+  },
+  {
+   "id": "huli",
+   "tl": "hulí",
+   "en": "last",
+   "pos": "num",
+   "group": "order",
+   "say": "hu-LI"
+  },
+  {
+   "id": "panganay",
+   "tl": "pangánay",
+   "en": "first child",
+   "pos": "noun",
+   "group": "order",
+   "say": "pa-NGA-nay"
+  },
+  {
+   "id": "bunso",
+   "tl": "bunsô",
+   "en": "youngest child",
+   "pos": "noun",
+   "group": "order",
+   "say": "bun-soQ"
+  },
+  {
+   "id": "kalahati",
+   "tl": "kalahatì",
+   "en": "half",
+   "pos": "num",
+   "group": "money",
+   "say": "ka-la-HA-tiQ",
+   "note": "The book's vocabulary list writes kalahatí."
+  },
+  {
+   "id": "bahagi",
+   "tl": "bahagi",
+   "en": "part",
+   "pos": "noun",
+   "group": "money"
+  },
+  {
+   "id": "piso",
+   "tl": "piso",
+   "en": "peso",
+   "pos": "noun",
+   "group": "money"
+  },
+  {
+   "id": "sentimo",
+   "tl": "séntimó",
+   "en": "centavo",
+   "pos": "noun",
+   "group": "money"
+  },
+  {
+   "id": "pera",
+   "tl": "pera",
+   "en": "centavo (coin)",
+   "pos": "noun",
+   "group": "money"
+  },
+  {
+   "id": "halaga",
+   "tl": "halagá",
+   "en": "cost",
+   "pos": "noun",
+   "group": "money",
+   "say": "ha-la-GA"
+  },
+  {
+   "id": "taon",
+   "tl": "taón",
+   "en": "year",
+   "pos": "noun",
+   "group": "money",
+   "say": "ta-ON"
+  },
+  {
+   "id": "buwan-l13",
+   "tl": "buwán",
+   "en": "month",
+   "pos": "noun",
+   "group": "money",
+   "say": "bu-WAN"
+  },
+  {
+   "id": "kapatid",
+   "tl": "kapatíd",
+   "en": "sibling",
+   "pos": "noun",
+   "group": "money",
+   "say": "ka-pa-TID"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "What is \"three\" in Tagalog?",
+   "options": [
+    "tatló",
+    "ápat",
+    "dalawá"
+   ],
+   "answer": "tatló",
+   "explain": "Isá, dalawá, tatló…"
+  },
+  {
+   "type": "choice",
+   "q": "What is \"eight\" in Tagalog?",
+   "options": [
+    "waló",
+    "pitó",
+    "siyám"
+   ],
+   "answer": "waló",
+   "explain": "Pitó is seven, waló is eight, siyám is nine."
+  },
+  {
+   "type": "choice",
+   "q": "Which is 12?",
+   "options": [
+    "labíndalawá",
+    "dalawampú",
+    "labíng-isá"
+   ],
+   "answer": "labíndalawá",
+   "explain": "Labín- is used with dalawá."
+  },
+  {
+   "type": "choice",
+   "q": "Which is 17?",
+   "options": [
+    "labímpitó",
+    "labíntatló",
+    "pitumpú"
+   ],
+   "answer": "labímpitó",
+   "explain": "The prefix becomes labím- before pitó."
+  },
+  {
+   "type": "choice",
+   "q": "Which is 14?",
+   "options": [
+    "labíng-ápat",
+    "labíng-ánim",
+    "apatnapú"
+   ],
+   "answer": "labíng-ápat",
+   "explain": "Labíng- is used with ápat."
+  },
+  {
+   "type": "choice",
+   "q": "What is 50?",
+   "options": [
+    "limampú",
+    "labínlimá",
+    "limáng daán"
+   ],
+   "answer": "limampú",
+   "explain": "Limá + -pû, with -ng changed to -m."
+  },
+  {
+   "type": "choice",
+   "q": "What is 400?",
+   "options": [
+    "ápat na raán",
+    "apatnapú",
+    "limáng daán"
+   ],
+   "answer": "ápat na raán",
+   "explain": "After na, hundred is raán."
+  },
+  {
+   "type": "choice",
+   "q": "What is 1,000?",
+   "options": [
+    "isáng líbo",
+    "sandaán",
+    "laksâ"
+   ],
+   "answer": "isáng líbo",
+   "explain": "Líbo is thousand."
+  },
+  {
+   "type": "choice",
+   "q": "\"Isang puó\" (one ten) becomes…",
+   "options": [
+    "sampú",
+    "labíng-isá",
+    "sandaán"
+   ],
+   "answer": "sampú",
+   "explain": "The -ng changes to -m before -pu."
+  },
+  {
+   "type": "choice",
+   "q": "Where does at ('t) go in a long number?",
+   "options": [
+    "Only between the last two numbers",
+    "Between every number",
+    "At the start"
+   ],
+   "answer": "Only between the last two numbers",
+   "explain": "Tatlóng líbo sandaá't siyám."
+  },
+  {
+   "type": "choice",
+   "q": "What does \"mga sampû\" mean?",
+   "options": [
+    "about ten",
+    "ten times",
+    "the tenth"
+   ],
+   "answer": "about ten",
+   "explain": "Mga before a number makes it approximate."
+  },
+  {
+   "type": "choice",
+   "q": "What is \"first\"?",
+   "options": [
+    "úna",
+    "ikalawá",
+    "hulí"
+   ],
+   "answer": "úna",
+   "explain": "First and last are always úna and hulí."
+  },
+  {
+   "type": "choice",
+   "q": "What is \"second\"?",
+   "options": [
+    "ikalawá",
+    "ikatló",
+    "kalahatì"
+   ],
+   "answer": "ikalawá",
+   "explain": "Dalawá loses its first two letters: ikalawá."
+  },
+  {
+   "type": "choice",
+   "q": "\"Ikáw ba ay pangánay?\" asks if you are…",
+   "options": [
+    "the first child",
+    "the youngest child",
+    "the fifth child"
+   ],
+   "answer": "the first child",
+   "explain": "Pangánay is the first child; bunsô is the youngest."
+  },
+  {
+   "type": "choice",
+   "q": "Which word for half is heard in markets?",
+   "options": [
+    "kalahatì",
+    "katló",
+    "kápat"
+   ],
+   "answer": "kalahatì",
+   "explain": "Kalahatì is a set name for one half."
+  },
+  {
+   "type": "choice",
+   "q": "Kápat means…",
+   "options": [
+    "one fourth",
+    "four",
+    "fourth"
+   ],
+   "answer": "one fourth",
+   "explain": "Ka- + ápat: one fourth."
+  },
+  {
+   "type": "choice",
+   "q": "How do sellers often say P 2.30?",
+   "options": [
+    "dos treinta",
+    "dos siyentos",
+    "beynte tres"
+   ],
+   "answer": "dos treinta",
+   "explain": "Spanish numbers are faster to say."
+  },
+  {
+   "type": "choice",
+   "q": "In Tagalog, centavos are…",
+   "options": [
+    "séntimó or pera",
+    "piso",
+    "daán"
+   ],
+   "answer": "séntimó or pera",
+   "explain": "One peso is isang piso or simply piso."
+  },
+  {
+   "type": "listen",
+   "tl": "limá",
+   "options": [
+    "five",
+    "four",
+    "six"
+   ],
+   "answer": "five",
+   "explain": "Limá is five (Spanish: sinko)."
+  },
+  {
+   "type": "listen",
+   "tl": "siyám",
+   "options": [
+    "nine",
+    "seven",
+    "ten"
+   ],
+   "answer": "nine",
+   "explain": "Siyám is nine (Spanish: nuwebe)."
+  },
+  {
+   "type": "listen",
+   "tl": "Iláng taón ka na?",
+   "options": [
+    "How old are you?",
+    "Which child are you?",
+    "Who is the first?"
+   ],
+   "answer": "How old are you?",
+   "explain": "Literally, how many years are you already?"
+  },
+  {
+   "type": "build",
+   "en": "Five and six are eleven.",
+   "tl": "Ang limá at ánim ay labíng-isá.",
+   "tokens": [
+    "ang",
+    "limá",
+    "at",
+    "ánim",
+    "ay",
+    "labíng-isá"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "There are twelve months in a year.",
+   "tl": "May labíndalawáng buwán sa isáng taón.",
+   "tokens": [
+    "may",
+    "labíndalawáng",
+    "buwán",
+    "sa",
+    "isáng",
+    "taón"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "I am the fifth.",
+   "tl": "Akó ay ikalimá.",
+   "tokens": [
+    "akó",
+    "ay",
+    "ikalimá"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "This is half of an apple.",
+   "tl": "Itó ay kalahatì ng mansánas.",
+   "tokens": [
+    "itó",
+    "ay",
+    "kalahatì",
+    "ng",
+    "mansánas"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The chair costs two thousand pesos.",
+   "tl": "Dalawáng libong piso ang halagá ng silya.",
+   "tokens": [
+    "dalawáng",
+    "libong",
+    "piso",
+    "ang",
+    "halagá",
+    "ng",
+    "silya"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match the Tagalog number to the Spanish.",
+   "pairs": [
+    [
+     "isá",
+     "uno"
+    ],
+    [
+     "ápat",
+     "kuwatro"
+    ],
+    [
+     "ánim",
+     "seis"
+    ],
+    [
+     "pitó",
+     "siyete"
+    ],
+    [
+     "sampû",
+     "diyes"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the ordinal to its meaning.",
+   "pairs": [
+    [
+     "úna",
+     "first"
+    ],
+    [
+     "ikatló",
+     "third"
+    ],
+    [
+     "ikasampû",
+     "tenth"
+    ],
+    [
+     "hulí",
+     "last"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the big numbers.",
+   "pairs": [
+    [
+     "daán",
+     "hundred"
+    ],
+    [
+     "líbo",
+     "thousand"
+    ],
+    [
+     "laksâ",
+     "ten thousand"
+    ],
+    [
+     "ángaw",
+     "million"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "1 to 10: isá, dalawá, tatló, ápat, limá, ánim, pitó, waló, siyám, sampû. Spanish ones (uno, dos, tres…) are common in markets.",
+  "11 to 19 use labíng-, labín- or labím-; tens end in -pû (dalawampú, limampú).",
+  "Hundred is daán (after -ng) or raán (after na); at ('t) joins only the last two numbers.",
+  "Ordinals add ika- (ikalimá); first is úna, last is hulí.",
+  "Fractions add ka- (katló, kápat); half is kalahatì.",
+  "Money: piso, and séntimó or pera for centavos."
+ ]
+}

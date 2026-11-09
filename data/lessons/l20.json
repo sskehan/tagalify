@@ -1,0 +1,1297 @@
+{
+ "id": "l20",
+ "label": "20",
+ "title": "Magkaroón: to have",
+ "summary": "Magkaroón ng + noun and the short magka- + noun, in the past, present and future",
+ "minutes": 35,
+ "goals": [
+  "Use magkaroón ng + noun to say someone has something",
+  "Shorten it to magka- + noun",
+  "Form the past, present and future",
+  "Place the subject correctly after magkaroón",
+  "Make negative sentences with hindî"
+ ],
+ "sections": [
+  {
+   "title": "What magkaroón means",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The word **magkaroón** means *to have*. It is usually placed **before a noun** to say someone has what the noun expresses."
+    },
+    {
+     "type": "p",
+     "t": "Magkaroón may be shortened to **magka-**. It is similar in meaning to **may** and **mayroón** (Lesson 12), which also express existence and/or actual possession."
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "The big difference",
+     "items": [
+      "**Magkaroón** has tense forms: past, present and future.",
+      "**May** and **mayroón** do not have any tense forms, except when may is followed by a verb."
+     ]
+    },
+    {
+     "type": "pattern",
+     "title": "Two ways to say to have",
+     "rows": [
+      {
+       "label": "Long",
+       "chips": [
+        {
+         "t": "magkaroón",
+         "r": "pred"
+        },
+        {
+         "t": "ng",
+         "r": "marker"
+        },
+        {
+         "t": "pera",
+         "r": "noun"
+        }
+       ]
+      },
+      {
+       "label": "Short",
+       "chips": [
+        {
+         "t": "magka-",
+         "r": "pred"
+        },
+        {
+         "t": "pera",
+         "r": "noun"
+        },
+        {
+         "t": "→ magkapera",
+         "r": "pred"
+        }
+       ]
+      }
+     ],
+     "note": "magkaroón + article ng + noun, or magka- + noun: to have money"
+    }
+   ]
+  },
+  {
+   "title": "Forming phrases and words with magkaroón",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Follow either formula: **magkaroón + ng + noun**, or **magka- + noun**. Both mean the same thing."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Tense",
+      "Long form",
+      "Short form",
+      "How it is made",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Infinitive",
+       "[[magkaroón|pred]] [[ng|marker]] [[pera|noun]]",
+       "[[magkapera|pred]]",
+       "magka- + noun",
+       "to have money"
+      ],
+      [
+       "Past",
+       "[[nagkaroón|pred]] [[ng|marker]] [[pera|noun]]",
+       "[[nagkapera|pred]]",
+       "magkaroón becomes nagkaroón; nagka + noun",
+       "had money"
+      ],
+      [
+       "Present",
+       "[[nagkakaroón|pred]] [[ng|marker]] [[pera|noun]]",
+       "[[nagkákapera|pred]]",
+       "magkaroón becomes nagkakaroón; nagkaka + noun",
+       "has money"
+      ],
+      [
+       "Future",
+       "[[magkakaroón|pred]] [[ng|marker]] [[pera|noun]]",
+       "[[magkakapera|pred]]",
+       "magkaroón becomes magkakaroón; magkaka + noun",
+       "will have money"
+      ]
+     ],
+     "title": "Magkaroón with pera",
+     "note": "Accents as printed in the book's table. In the sample sentences the book writes the present and future as nagkákaroón and magkákaroón."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Spot the tense",
+     "items": [
+      "**m** → **n** for the past and present: **n**agkaroón, **n**agkakaroón.",
+      "The present and future repeat **ka**: nag**ka**karoón, mag**ka**karoón.",
+      "The short forms follow the same pattern: nagkapera, nagkákapera, magkakapera."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "magkaroon",
+     "title": "The forms of magkaroón"
+    }
+   ]
+  },
+  {
+   "title": "Where the subject goes",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The subject of a sentence using magkaroón or a magka- word is introduced by **si** or **ang**, or is shown by a **nominative pronoun** such as **siyá**."
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "Subject position",
+     "items": [
+      "A **pronoun** subject is **always placed after magkaroón**: Nagkaroón **siyá** ng anák na kambál.",
+      "A subject introduced by **si** or **ang** may go **after magkaroón** or **after the object**.",
+      "The meaning does not change."
+     ]
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Nagkaroón si Maria ng asó.",
+       "en": "Had Maria a dog. (literal) Maria had a dog.",
+       "parts": [
+        [
+         "Nagkaroón",
+         "had",
+         "pred"
+        ],
+        [
+         "si",
+         "article",
+         "marker"
+        ],
+        [
+         "Maria",
+         "Maria",
+         "noun"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "asó",
+         "dog",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nagkaroón ng asó si Maria.",
+       "en": "Maria had a dog.",
+       "parts": [
+        [
+         "Nagkaroón",
+         "had",
+         "pred"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "asó",
+         "dog",
+         "noun"
+        ],
+        [
+         "si",
+         "article",
+         "marker"
+        ],
+        [
+         "Maria",
+         "Maria",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Same meaning, two orders"
+    },
+    {
+     "type": "h",
+     "t": "Saying not"
+    },
+    {
+     "type": "p",
+     "t": "To make the negative, place **hindî** (*not* within a sentence, or *no* when used as a response) **before magkaroón**."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Hindi nagkaroón si Maria ng asó.",
+       "en": "Maria did not have a dog.",
+       "parts": [
+        [
+         "Hindi",
+         "not",
+         "other"
+        ],
+        [
+         "nagkaroón",
+         "had",
+         "pred"
+        ],
+        [
+         "si",
+         "article",
+         "marker"
+        ],
+        [
+         "Maria",
+         "Maria",
+         "noun"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "asó",
+         "dog",
+         "noun"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample sentences",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Each sentence is shown first with **magkaroón ng**, then with the short **magka-** word. Both lines mean the same."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Nagkaroón siyá ng anák na kambál.",
+       "en": "She had twins. (past)",
+       "parts": [
+        [
+         "Nagkaroón",
+         "had",
+         "pred"
+        ],
+        [
+         "siyá",
+         "she",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "anák",
+         "child",
+         "noun"
+        ],
+        [
+         "na",
+         "ligature",
+         "link"
+        ],
+        [
+         "kambál",
+         "twin",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nagkaanák siyá ng kambál.",
+       "en": "She had twins. (past)",
+       "parts": [
+        [
+         "Nagkaanák",
+         "had a child",
+         "pred"
+        ],
+        [
+         "siyá",
+         "she",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "kambál",
+         "twins",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nagkákaroón ako ng ubó kapág malamíg.",
+       "en": "I have a cough when the weather is cold. (present)",
+       "parts": [
+        [
+         "Nagkákaroón",
+         "have",
+         "pred"
+        ],
+        [
+         "ako",
+         "I",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "ubó",
+         "cough",
+         "noun"
+        ],
+        [
+         "kapág",
+         "when",
+         "other"
+        ],
+        [
+         "malamíg",
+         "cold",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Nagkákaubó ako kapág malamíg.",
+       "en": "I have a cough when the weather is cold. (present)",
+       "parts": [
+        [
+         "Nagkákaubó",
+         "have a cough",
+         "pred"
+        ],
+        [
+         "ako",
+         "I",
+         "pron"
+        ],
+        [
+         "kapág",
+         "when",
+         "other"
+        ],
+        [
+         "malamíg",
+         "cold",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Magkákaroón kamí ng bisita.",
+       "en": "We will have visitors. (future)",
+       "parts": [
+        [
+         "Magkákaroón",
+         "will have",
+         "pred"
+        ],
+        [
+         "kamí",
+         "we",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "bisita",
+         "visitors",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Magkákabisita kamí.",
+       "en": "We will have visitors. (future)",
+       "parts": [
+        [
+         "Magkákabisita",
+         "will have visitors",
+         "pred"
+        ],
+        [
+         "kamí",
+         "we",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Nagkaroón ng sakít ang batà.",
+       "en": "The child got sick. (past)",
+       "parts": [
+        [
+         "Nagkaroón",
+         "had",
+         "pred"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "sakít",
+         "sickness",
+         "noun"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nagkasakít ang batà.",
+       "en": "The child got sick. (past)",
+       "parts": [
+        [
+         "Nagkasakít",
+         "got sick",
+         "pred"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nagkákaroón ng ánay ang báhay.",
+       "en": "The house has termites. (present)",
+       "parts": [
+        [
+         "Nagkákaroón",
+         "has",
+         "pred"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "ánay",
+         "termites",
+         "noun"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "báhay",
+         "house",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nagkákaánay ang báhay.",
+       "en": "The house has termites. (present)",
+       "parts": [
+        [
+         "Nagkákaánay",
+         "has termites",
+         "pred"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "báhay",
+         "house",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Magkákaroón si Pedro ng trabáho.",
+       "en": "Pedro will have a job. (future)",
+       "parts": [
+        [
+         "Magkákaroón",
+         "will have",
+         "pred"
+        ],
+        [
+         "si",
+         "article",
+         "marker"
+        ],
+        [
+         "Pedro",
+         "Pedro",
+         "noun"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "trabáho",
+         "job",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Magkákatrabáho na si Pedro.",
+       "en": "Pedro will have a job. (future)",
+       "parts": [
+        [
+         "Magkákatrabáho",
+         "will have a job",
+         "pred"
+        ],
+        [
+         "na",
+         "now, already",
+         "part"
+        ],
+        [
+         "si",
+         "article",
+         "marker"
+        ],
+        [
+         "Pedro",
+         "Pedro",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Past, present and future"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Hindî nagkákaroón ng bulaklák ang taním.",
+       "en": "The plant does not bear flowers.",
+       "parts": [
+        [
+         "Hindî",
+         "not",
+         "other"
+        ],
+        [
+         "nagkákaroón",
+         "has",
+         "pred"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "bulaklák",
+         "flowers",
+         "noun"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "taním",
+         "plant",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Hindî nagkákabulaklák ang taním.",
+       "en": "The plant does not bear flowers.",
+       "parts": [
+        [
+         "Hindî",
+         "not",
+         "other"
+        ],
+        [
+         "nagkákabulaklák",
+         "has flowers",
+         "pred"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "taním",
+         "plant",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Hindî silá nagkaroón ng báhay.",
+       "en": "They did not have a house.",
+       "parts": [
+        [
+         "Hindî",
+         "not",
+         "other"
+        ],
+        [
+         "silá",
+         "they",
+         "pron"
+        ],
+        [
+         "nagkaroón",
+         "had",
+         "pred"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "báhay",
+         "house",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Hindî sila nagkabáhay.",
+       "en": "They did not have a house.",
+       "parts": [
+        [
+         "Hindî",
+         "not",
+         "other"
+        ],
+        [
+         "sila",
+         "they",
+         "pron"
+        ],
+        [
+         "nagkabáhay",
+         "had a house",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Hindî kamí magkákaroón ng rádyo.",
+       "en": "We will not have a radio.",
+       "parts": [
+        [
+         "Hindî",
+         "not",
+         "other"
+        ],
+        [
+         "kamí",
+         "we",
+         "pron"
+        ],
+        [
+         "magkákaroón",
+         "will have",
+         "pred"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "rádyo",
+         "radio",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Hindî kamí magkakarádyo.",
+       "en": "We will not have a radio.",
+       "parts": [
+        [
+         "Hindî",
+         "not",
+         "other"
+        ],
+        [
+         "kamí",
+         "we",
+         "pron"
+        ],
+        [
+         "magkakarádyo",
+         "will have a radio",
+         "pred"
+        ]
+       ]
+      }
+     ],
+     "title": "Negative sentences"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Notice",
+     "items": [
+      "With magka-, the noun joins the verb, so **ng** is not needed: nagkaroón ng báhay → nagkabáhay.",
+      "In the negative, hindî comes first: **Hindî** nagkákabulaklák ang taním."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "words",
+     "title": "Vocabulary list"
+    }
+   ]
+  },
+  {
+   "title": "Useful phrases from the exercises",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book's exercises give these phrases for practice sentences with magkaroón."
+    },
+    {
+     "type": "vocab",
+     "group": "extra",
+     "title": "Exercise words"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "Magkaroón (to have) + ng + noun, or magka- + noun.",
+      "Past: nagkaroón / nagka-. Present: nagkakaroón / nagkaka-. Future: magkakaroón / magkaka-.",
+      "Unlike may and mayroón, magkaroón has tense forms.",
+      "A pronoun subject always comes right after magkaroón; a si or ang subject can come after magkaroón or after the object.",
+      "Put hindî before magkaroón for the negative."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "magkaroon",
+   "tl": "magkaroón",
+   "en": "to have",
+   "pos": "verb",
+   "group": "magkaroon",
+   "say": "mag-ka-ro-ON"
+  },
+  {
+   "id": "magka",
+   "tl": "magka-",
+   "en": "to have (short form of magkaroón, attached to a noun)",
+   "pos": "other",
+   "group": "magkaroon"
+  },
+  {
+   "id": "nagkaroon",
+   "tl": "nagkaroón",
+   "en": "had (past of magkaroón)",
+   "pos": "verb",
+   "group": "magkaroon",
+   "say": "nag-ka-ro-ON"
+  },
+  {
+   "id": "nagkakaroon",
+   "tl": "nagkakaroón",
+   "en": "has, have (present of magkaroón)",
+   "pos": "verb",
+   "group": "magkaroon",
+   "say": "nag-ka-ka-ro-ON",
+   "note": "The book also writes nagkákaroón."
+  },
+  {
+   "id": "magkakaroon",
+   "tl": "magkakaroón",
+   "en": "will have (future of magkaroón)",
+   "pos": "verb",
+   "group": "magkaroon",
+   "say": "mag-ka-ka-ro-ON",
+   "note": "The book also writes magkákaroón."
+  },
+  {
+   "id": "hindi-l20",
+   "tl": "hindî",
+   "en": "not (within a sentence); no (when used as a response)",
+   "pos": "other",
+   "group": "words",
+   "say": "hin-diQ",
+   "note": "The book also writes Hindi without an accent."
+  },
+  {
+   "id": "anak-na-kambal",
+   "tl": "anák na kambál",
+   "en": "twins",
+   "pos": "phrase",
+   "group": "words",
+   "say": "a-NAK na kam-BAL"
+  },
+  {
+   "id": "ubo",
+   "tl": "ubó",
+   "en": "cough",
+   "pos": "noun",
+   "group": "words",
+   "say": "u-BO"
+  },
+  {
+   "id": "bisita",
+   "tl": "bisíta",
+   "en": "visitor",
+   "pos": "noun",
+   "group": "words",
+   "say": "bi-SI-ta",
+   "note": "The book also writes bisita in the sample sentences."
+  },
+  {
+   "id": "anay",
+   "tl": "ánay",
+   "en": "termite",
+   "pos": "noun",
+   "group": "words",
+   "say": "A-nay"
+  },
+  {
+   "id": "tanim",
+   "tl": "taním",
+   "en": "plant (noun); to plant (verb)",
+   "pos": "noun",
+   "group": "words",
+   "say": "ta-NIM"
+  },
+  {
+   "id": "kasiya-siyang-panahon",
+   "tl": "kasiyá-siyáng panahón",
+   "en": "grand time",
+   "pos": "phrase",
+   "group": "extra"
+  },
+  {
+   "id": "dalampasigan",
+   "tl": "dalampasigan",
+   "en": "beach",
+   "pos": "noun",
+   "group": "extra"
+  },
+  {
+   "id": "susunod-na-buwan",
+   "tl": "susunód na buwán",
+   "en": "next month",
+   "pos": "phrase",
+   "group": "extra",
+   "say": "su-su-NOD na bu-WAN"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "What does magkaroón mean?",
+   "options": [
+    "to have",
+    "to become",
+    "to be able to"
+   ],
+   "answer": "to have",
+   "explain": "Magkaroón means to have."
+  },
+  {
+   "type": "choice",
+   "q": "Magkaroón can be shortened to…",
+   "options": [
+    "magka-",
+    "maka-",
+    "mag-"
+   ],
+   "answer": "magka-",
+   "explain": "Magkaroón ng pera or magkapera."
+  },
+  {
+   "type": "choice",
+   "q": "How is magkaroón different from may and mayroón?",
+   "options": [
+    "It has tense forms",
+    "It is only used in questions",
+    "It never takes a noun"
+   ],
+   "answer": "It has tense forms",
+   "explain": "May and mayroón have none, except when may is followed by a verb."
+  },
+  {
+   "type": "choice",
+   "q": "Which formula is correct?",
+   "options": [
+    "magkaroón + ng + noun",
+    "magkaroón + ang + noun",
+    "magkaroón + sa + noun"
+   ],
+   "answer": "magkaroón + ng + noun",
+   "explain": "Magkaroón ng pera: to have money."
+  },
+  {
+   "type": "choice",
+   "q": "What is the past of magkaroón?",
+   "options": [
+    "nagkaroón",
+    "nagkakaroón",
+    "magkakaroón"
+   ],
+   "answer": "nagkaroón",
+   "explain": "Magkaroón becomes nagkaroón."
+  },
+  {
+   "type": "choice",
+   "q": "What is the future of magkaroón?",
+   "options": [
+    "magkakaroón",
+    "nagkakaroón",
+    "nagkaroón"
+   ],
+   "answer": "magkakaroón",
+   "explain": "Magkaroón becomes magkakaroón."
+  },
+  {
+   "type": "choice",
+   "q": "What does nagkapera mean?",
+   "options": [
+    "had money",
+    "has money",
+    "will have money"
+   ],
+   "answer": "had money",
+   "explain": "Nagka + noun = past."
+  },
+  {
+   "type": "choice",
+   "q": "What does magkakapera mean?",
+   "options": [
+    "will have money",
+    "had money",
+    "to have money"
+   ],
+   "answer": "will have money",
+   "explain": "Magkaka + noun = future."
+  },
+  {
+   "type": "choice",
+   "q": "Where does a pronoun subject go?",
+   "options": [
+    "always after magkaroón",
+    "at the end of the sentence",
+    "before magkaroón"
+   ],
+   "answer": "always after magkaroón",
+   "explain": "Nagkaroón siyá ng anák na kambál."
+  },
+  {
+   "type": "choice",
+   "q": "\"Nagkaroón ng asó si Maria\" and \"Nagkaroón si Maria ng asó\"…",
+   "options": [
+    "mean the same",
+    "have different meanings",
+    "are both wrong"
+   ],
+   "answer": "mean the same",
+   "explain": "A si or ang subject may go after magkaroón or after the object."
+  },
+  {
+   "type": "choice",
+   "q": "How do you make magkaroón negative?",
+   "options": [
+    "Put hindî before magkaroón",
+    "Put hindî at the end",
+    "Change magkaroón to may"
+   ],
+   "answer": "Put hindî before magkaroón",
+   "explain": "Hindi nagkaroón si Maria ng asó."
+  },
+  {
+   "type": "choice",
+   "q": "\"Nagkasakít ang batà\" means…",
+   "options": [
+    "The child got sick.",
+    "The child is sick every day.",
+    "The child will get sick."
+   ],
+   "answer": "The child got sick.",
+   "explain": "Nagka- is the past."
+  },
+  {
+   "type": "choice",
+   "q": "Which means \"We will have visitors\"?",
+   "options": [
+    "Magkákabisita kamí.",
+    "Nagkabisita kamí.",
+    "Nagkákabisita kamí."
+   ],
+   "answer": "Magkákabisita kamí.",
+   "explain": "Magkáka- is the future."
+  },
+  {
+   "type": "choice",
+   "q": "Short form of \"Nagkákaroón ng ánay ang báhay\"?",
+   "options": [
+    "Nagkákaánay ang báhay.",
+    "Nagkaánay ang báhay.",
+    "Magkákaánay ang báhay."
+   ],
+   "answer": "Nagkákaánay ang báhay.",
+   "explain": "Present: nagkáka- + noun."
+  },
+  {
+   "type": "listen",
+   "tl": "ánay",
+   "options": [
+    "termite",
+    "cough",
+    "visitor"
+   ],
+   "answer": "termite",
+   "explain": "Nagkákaroón ng ánay ang báhay."
+  },
+  {
+   "type": "listen",
+   "tl": "ubó",
+   "options": [
+    "cough",
+    "plant",
+    "work"
+   ],
+   "answer": "cough",
+   "explain": "Nagkákaubó ako kapág malamíg."
+  },
+  {
+   "type": "listen",
+   "tl": "taním",
+   "options": [
+    "plant",
+    "money",
+    "twins"
+   ],
+   "answer": "plant",
+   "explain": "Hindî nagkákabulaklák ang taním."
+  },
+  {
+   "type": "listen",
+   "tl": "trabáho",
+   "options": [
+    "work",
+    "visitor",
+    "radio"
+   ],
+   "answer": "work",
+   "explain": "Magkákaroón si Pedro ng trabáho."
+  },
+  {
+   "type": "build",
+   "en": "Maria had a dog.",
+   "tl": "Nagkaroón si Maria ng asó.",
+   "tokens": [
+    "nagkaroón",
+    "si",
+    "maria",
+    "ng",
+    "asó"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Maria did not have a dog.",
+   "tl": "Hindi nagkaroón si Maria ng asó.",
+   "tokens": [
+    "hindi",
+    "nagkaroón",
+    "si",
+    "maria",
+    "ng",
+    "asó"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "She had twins.",
+   "tl": "Nagkaroón siyá ng anák na kambál.",
+   "tokens": [
+    "nagkaroón",
+    "siyá",
+    "ng",
+    "anák",
+    "na",
+    "kambál"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "I have a cough when the weather is cold.",
+   "tl": "Nagkákaroón ako ng ubó kapág malamíg.",
+   "tokens": [
+    "nagkákaroón",
+    "ako",
+    "ng",
+    "ubó",
+    "kapág",
+    "malamíg"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The child got sick.",
+   "tl": "Nagkasakít ang batà.",
+   "tokens": [
+    "nagkasakít",
+    "ang",
+    "batà"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "They did not have a house.",
+   "tl": "Hindî silá nagkaroón ng báhay.",
+   "tokens": [
+    "hindî",
+    "silá",
+    "nagkaroón",
+    "ng",
+    "báhay"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "We will not have a radio.",
+   "tl": "Hindî kamí magkákaroón ng rádyo.",
+   "tokens": [
+    "hindî",
+    "kamí",
+    "magkákaroón",
+    "ng",
+    "rádyo"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match each long form to its short form.",
+   "pairs": [
+    [
+     "nagkaroón ng báhay",
+     "nagkabáhay"
+    ],
+    [
+     "nagkaroón ng sakít",
+     "nagkasakít"
+    ],
+    [
+     "magkákaroón ng bisita",
+     "magkákabisita"
+    ],
+    [
+     "nagkákaroón ng ubó",
+     "nagkákaubó"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each word to its meaning.",
+   "pairs": [
+    [
+     "pera",
+     "money"
+    ],
+    [
+     "bisíta",
+     "visitor"
+    ],
+    [
+     "anák na kambál",
+     "twins"
+    ],
+    [
+     "dalampasigan",
+     "beach"
+    ],
+    [
+     "susunód na buwán",
+     "next month"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "Magkaroón means to have: magkaroón ng + noun, or the short magka- + noun.",
+  "Past: nagkaroón / nagka-. Present: nagkakaroón / nagkaka-. Future: magkakaroón / magkaka-.",
+  "Unlike may and mayroón, magkaroón has tense forms.",
+  "A pronoun subject always comes after magkaroón; si or ang subjects can come after magkaroón or after the object.",
+  "Negative: hindî before magkaroón: Hindi nagkaroón si Maria ng asó."
+ ]
+}

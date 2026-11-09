@@ -1,0 +1,1666 @@
+{
+ "id": "l09",
+ "label": "9",
+ "title": "Asking questions",
+ "summary": "The 14 question words, their plural forms, short forms like 'yan and 'to, and everyday questions",
+ "minutes": 35,
+ "goals": [
+  "Know the 14 Tagalog question words (síno, anó, alín, gaáno, paáno…)",
+  "Choose between the two words for how and the two words for where",
+  "Make the plural form of a question word by doubling it",
+  "Use the shortened forms 'yan and 'to and the ligature in questions",
+  "Memorise a set of common everyday questions"
+ ],
+ "sections": [
+  {
+   "title": "The 14 question words",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Tagalog has **14 different question words**. Together they cover the English question words *who, what, which, how, why, when, where* and *whose*."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Tagalog",
+      "English",
+      "Example"
+     ],
+     "rows": [
+      [
+       "[[síno|other]]",
+       "who",
+       "Sino ba kayó? *Who are you?*"
+      ],
+      [
+       "[[anó|other]]",
+       "what",
+       "Anó ba ang pangálan ninyó? *What is your name?*"
+      ],
+      [
+       "[[alín|other]]",
+       "which",
+       "Alín ba ang iyóng gustó? *Which do you like?*"
+      ],
+      [
+       "[[gaáno|other]]",
+       "how",
+       "Gaáno kalakí ang Pilipinas? *How large is the Philippines?*"
+      ],
+      [
+       "[[paáno|other]]",
+       "how",
+       "Paáno mo malaláman? *How will you know?*"
+      ],
+      [
+       "[[bakit|other]]",
+       "why",
+       "Bakit siyá galít? *Why is he/she angry?*"
+      ],
+      [
+       "[[kailán|other]]",
+       "when",
+       "Kailán kayó dumatíng sa Pilipinas? *When did you arrive in the Philippines?*"
+      ],
+      [
+       "[[nasaán|other]]",
+       "where",
+       "Nasaán siyá? *Where is he/she?*"
+      ],
+      [
+       "[[saán|other]]",
+       "where",
+       "Saán kayó nakatirá? *Where do you live?*"
+      ],
+      [
+       "[[ilán|other]]",
+       "how many",
+       "Ilán ang anák ninyó? *How many children do you have?*"
+      ],
+      [
+       "[[magkáno|other]]",
+       "how much",
+       "Magkáno ang aklát? *How much is the book?*"
+      ],
+      [
+       "[[kaníno|other]]",
+       "whose",
+       "Kaníno ang báhay na iyán? *Whose house is that?*"
+      ],
+      [
+       "[[para sa kaníno|other]]",
+       "for whom",
+       "Para sa kaníno iyán? *For whom is that?*"
+      ],
+      [
+       "[[sa kaníno|other]]",
+       "with/to whom",
+       "Sa kaníno iyán? *To whom does that belong?*"
+      ]
+     ],
+     "title": "Question words"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "What is ba?",
+     "t": "Many of these questions contain the little word **ba**. It turns a sentence into a question. It is explained fully in the next lesson, so for now just notice where it sits: straight after the question word."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Sino ba kayó?",
+       "en": "Who are you?",
+       "parts": [
+        [
+         "Sino",
+         "who",
+         "other"
+        ],
+        [
+         "ba",
+         "question word",
+         "part"
+        ],
+        [
+         "kayó",
+         "you",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Anó ba ang pangálan ninyó?",
+       "en": "What is your name?",
+       "parts": [
+        [
+         "Anó",
+         "what",
+         "other"
+        ],
+        [
+         "ba",
+         "question word",
+         "part"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "pangálan",
+         "name",
+         "noun"
+        ],
+        [
+         "ninyó",
+         "your",
+         "poss"
+        ]
+       ]
+      },
+      {
+       "tl": "Alín ba ang iyóng gustó?",
+       "en": "Which do you like?",
+       "parts": [
+        [
+         "Alín",
+         "which",
+         "other"
+        ],
+        [
+         "ba",
+         "question word",
+         "part"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "iyóng",
+         "your",
+         "poss"
+        ],
+        [
+         "gustó",
+         "like",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Bakit siyá galít?",
+       "en": "Why is he/she angry?",
+       "parts": [
+        [
+         "Bakit",
+         "why",
+         "other"
+        ],
+        [
+         "siyá",
+         "he/she",
+         "pron"
+        ],
+        [
+         "galít",
+         "angry",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Kailán kayó dumatíng sa Pilipinas?",
+       "en": "When did you arrive in the Philippines?",
+       "parts": [
+        [
+         "Kailán",
+         "when",
+         "other"
+        ],
+        [
+         "kayó",
+         "you",
+         "pron"
+        ],
+        [
+         "dumatíng",
+         "arrived",
+         "pred"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "Pilipinas",
+         "the Philippines",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ilán ang anák ninyó?",
+       "en": "How many children do you have?",
+       "parts": [
+        [
+         "Ilán",
+         "how many",
+         "other"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "anák",
+         "children",
+         "noun"
+        ],
+        [
+         "ninyó",
+         "your",
+         "poss"
+        ]
+       ]
+      },
+      {
+       "tl": "Magkáno ang aklát?",
+       "en": "How much is the book?",
+       "parts": [
+        [
+         "Magkáno",
+         "how much",
+         "other"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "aklát",
+         "book",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Kaníno ang báhay na iyán?",
+       "en": "Whose house is that?",
+       "parts": [
+        [
+         "Kaníno",
+         "whose",
+         "other"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "báhay",
+         "house",
+         "noun"
+        ],
+        [
+         "na",
+         "ligature",
+         "link"
+        ],
+        [
+         "iyán",
+         "that",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Para sa kaníno iyán?",
+       "en": "For whom is that?",
+       "parts": [
+        [
+         "Para",
+         "for",
+         "other"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "kaníno",
+         "whom",
+         "other"
+        ],
+        [
+         "iyán",
+         "that",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Sa kaníno iyán?",
+       "en": "To whom does that belong?",
+       "parts": [
+        [
+         "Sa",
+         "to",
+         "marker"
+        ],
+        [
+         "kaníno",
+         "whom",
+         "other"
+        ],
+        [
+         "iyán",
+         "that",
+         "pron"
+        ]
+       ]
+      }
+     ],
+     "title": "The book's examples"
+    },
+    {
+     "type": "vocab",
+     "group": "qwords",
+     "title": "The question words"
+    }
+   ]
+  },
+  {
+   "title": "Two hows, two wheres, and whose",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "English uses one word for *how* and one for *where*. Tagalog has two of each, and the choice depends on the kind of answer you expect."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Word",
+      "Use it when…",
+      "Example"
+     ],
+     "rows": [
+      [
+       "[[gaáno|other]]  (how)",
+       "the answer expresses a **degree or quality** (how large, how far…)",
+       "Gaáno kalakí ang Pilipinas?"
+      ],
+      [
+       "[[paáno|other]]  (how)",
+       "the answer **details a process** (the way something is done)",
+       "Paáno mo malaláman?"
+      ],
+      [
+       "[[nasaán|other]]  (where)",
+       "you ask for the **location of a person or thing**",
+       "Nasaán siyá?"
+      ],
+      [
+       "[[saán|other]]  (where)",
+       "you ask for the **location of an action**",
+       "Saán kayó nakatirá?"
+      ]
+     ],
+     "title": "Choosing the right word"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Gaáno kalakí ang Pilipinas?",
+       "en": "How large is the Philippines?",
+       "parts": [
+        [
+         "Gaáno",
+         "how (degree)",
+         "other"
+        ],
+        [
+         "kalakí",
+         "large",
+         "pred"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "Pilipinas",
+         "the Philippines",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Paáno mo malaláman?",
+       "en": "How will you know?",
+       "parts": [
+        [
+         "Paáno",
+         "how (process)",
+         "other"
+        ],
+        [
+         "mo",
+         "you",
+         "pron"
+        ],
+        [
+         "malaláman",
+         "will know",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Nasaán siyá?",
+       "en": "Where is he/she?",
+       "parts": [
+        [
+         "Nasaán",
+         "where (person/thing)",
+         "other"
+        ],
+        [
+         "siyá",
+         "he/she",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Saán kayó nakatirá?",
+       "en": "Where do you live?",
+       "parts": [
+        [
+         "Saán",
+         "where (action)",
+         "other"
+        ],
+        [
+         "kayó",
+         "you",
+         "pron"
+        ],
+        [
+         "nakatirá",
+         "live",
+         "pred"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "t": "Answering kaníno"
+    },
+    {
+     "type": "p",
+     "t": "Questions beginning with **kaníno** (*whose*) need answers that point to a possessive pronoun from Lesson 8, such as [[ákin|poss]] (*mine*), [[kaniyá|poss]] (*his or her*), [[kanilá|poss]] (*their*) or another possessive pronoun."
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "Gaáno asks about degree or quality; paáno asks about a process.",
+      "Nasaán asks where a person or thing is; saán asks where an action happens.",
+      "Kaníno (whose) is answered with a possessive pronoun such as ákin, kaniyá or kanilá."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Plural question words",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "In Lesson 4 you learned the plurality rule: the predicate and the subject show when more than one is meant, with plural markers such as **siná, niná, ng mga** and **ang mga**. Question words follow the plurality rule too."
+    },
+    {
+     "type": "p",
+     "t": "The plural form of a question word is made by **doubling** the whole word or some of its syllables. Use it when more than one thing is being referred to and you expect an answer in the plural."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Rule",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "1. A word of **two syllables**: double the whole word.",
+       "alín → **alín-alín**;  síno → **sínu-síno**"
+      ],
+      [
+       "2. A word of **three or more syllables**: double only the first two syllables.",
+       "kaníno → **kaní-kanino**;  magkano → **magka-magkano**"
+      ],
+      [
+       "3. The **o** in the last syllable becomes **u** in the first half of the doubled word.",
+       "anó → **anu-anó**;  síno → **sinu-síno**"
+      ]
+     ],
+     "title": "How to double a question word",
+     "note": "The book prints these doubled forms with slightly different accents in different places, for example sínu-síno and sinu-síno."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Sínu-síno ang inyóng mga anák?",
+       "en": "Which of the children are yours?",
+       "parts": [
+        [
+         "Sínu-síno",
+         "who (plural)",
+         "other"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "inyóng",
+         "your",
+         "poss"
+        ],
+        [
+         "mga",
+         "plural marker",
+         "marker"
+        ],
+        [
+         "anák",
+         "children",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Anú-anó ang mga pangálan ninyó?",
+       "en": "What are your names?",
+       "parts": [
+        [
+         "Anú-anó",
+         "what (plural)",
+         "other"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "mga",
+         "plural marker",
+         "marker"
+        ],
+        [
+         "pangálan",
+         "names",
+         "noun"
+        ],
+        [
+         "ninyó",
+         "your",
+         "poss"
+        ]
+       ]
+      },
+      {
+       "tl": "Kaní-kaníno ang mga báhay na iyán?",
+       "en": "Whose houses are those?",
+       "parts": [
+        [
+         "Kaní-kaníno",
+         "whose (plural)",
+         "other"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "mga",
+         "plural marker",
+         "marker"
+        ],
+        [
+         "báhay",
+         "houses",
+         "noun"
+        ],
+        [
+         "na",
+         "ligature",
+         "link"
+        ],
+        [
+         "iyán",
+         "those",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Saán-saán kayó nakatirá?",
+       "en": "Where do you (plural) live?",
+       "parts": [
+        [
+         "Saán-saán",
+         "where (plural)",
+         "other"
+        ],
+        [
+         "kayó",
+         "you (plural)",
+         "pron"
+        ],
+        [
+         "nakatirá",
+         "live",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Magká-magkáno ang mga aklát?",
+       "en": "How much are each of the books?",
+       "parts": [
+        [
+         "Magká-magkáno",
+         "how much (each)",
+         "other"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "mga",
+         "plural marker",
+         "marker"
+        ],
+        [
+         "aklát",
+         "books",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ilán-ilán ang mga anák nilá?",
+       "en": "How many children do they have?",
+       "parts": [
+        [
+         "Ilán-ilán",
+         "how many (plural)",
+         "other"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "mga",
+         "plural marker",
+         "marker"
+        ],
+        [
+         "anák",
+         "children",
+         "noun"
+        ],
+        [
+         "nilá",
+         "their",
+         "poss"
+        ]
+       ]
+      }
+     ],
+     "title": "Questions with doubled question words"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "The ilán-ilán question",
+     "t": "In *Ilán-ilán ang mga anák nilá?* the speaker means the **total** number of children of more than one couple or parent: *Between those two (or three) couples (or parents), how many children do they have in all?*"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Kaí-kailán kayó dumatíng sa Pilipinas?",
+       "en": "When (plural, referring to several dates) did you (plural) arrive in the Philippines?",
+       "parts": [
+        [
+         "Kaí-kailán",
+         "when (several dates)",
+         "other"
+        ],
+        [
+         "kayó",
+         "you (plural)",
+         "pron"
+        ],
+        [
+         "dumatíng",
+         "arrived",
+         "pred"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "Pilipinas",
+         "the Philippines",
+         "noun"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Rarely used",
+     "t": "**Kaí-kailán** is used very little nowadays. It is mostly found in rural Tagalog areas."
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "Never doubled",
+     "t": "**Nasaán** and **bakit** are never doubled. Nothing and no one can be in more than one place at the same time, and there cannot be more than one explanation for an event or action."
+    }
+   ]
+  },
+  {
+   "title": "Short forms: 'yan and 'to",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Just as in English, spoken Tagalog often shortens a word, or runs two words together. With question words, a **ligature** (Lesson 7) can give another version of the same question."
+    },
+    {
+     "type": "p",
+     "t": "**Iyán** and **itó** can also be shortened to **'yan** and **'to**. They lose the stress on their second syllable, because each becomes a one-syllable word."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Full",
+      "With a ligature",
+      "Short",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Síno ang táong iyán?",
+       "Sínong táo iyán?",
+       "Síno 'yan?",
+       "Who is that person? / Who is that (person)?"
+      ],
+      [
+       "Kaníno ang aklát na itó?",
+       "Kanínong aklát ito?",
+       "Kaníno 'to?",
+       "Whose book is this? / Whose (book) is this?"
+      ],
+      [
+       "Anó ang simbáhang iyán?",
+       "Anóng simbáhan iyán?",
+       "Anó 'yan?",
+       "What church is that? / What (church) is that?"
+      ]
+     ],
+     "title": "Three ways to ask"
+    },
+    {
+     "type": "p",
+     "t": "The short versions are used when the speaker is pointing to the person or thing (pointing to someone, pointing to or holding a book, pointing to a church)."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Síno ang táong iyán?",
+       "en": "Who is that person?",
+       "parts": [
+        [
+         "Síno",
+         "who",
+         "other"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "táong",
+         "person + -ng",
+         "noun"
+        ],
+        [
+         "iyán",
+         "that",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Sínong táo iyán?",
+       "en": "Who is that person?",
+       "parts": [
+        [
+         "Sínong",
+         "who + -ng",
+         "other"
+        ],
+        [
+         "táo",
+         "person",
+         "noun"
+        ],
+        [
+         "iyán",
+         "that",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Síno 'yan?",
+       "en": "Who is that (person)?",
+       "parts": [
+        [
+         "Síno",
+         "who",
+         "other"
+        ],
+        [
+         "'yan",
+         "that (short)",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Kanínong aklát ito?",
+       "en": "Whose book is this?",
+       "parts": [
+        [
+         "Kanínong",
+         "whose + -ng",
+         "other"
+        ],
+        [
+         "aklát",
+         "book",
+         "noun"
+        ],
+        [
+         "ito",
+         "this",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Kaníno 'to?",
+       "en": "Whose (book) is this?",
+       "parts": [
+        [
+         "Kaníno",
+         "whose",
+         "other"
+        ],
+        [
+         "'to",
+         "this (short)",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Anóng simbáhan iyán?",
+       "en": "What church is that?",
+       "parts": [
+        [
+         "Anóng",
+         "what + -ng",
+         "other"
+        ],
+        [
+         "simbáhan",
+         "church",
+         "noun"
+        ],
+        [
+         "iyán",
+         "that",
+         "pron"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "short",
+     "title": "Shortened words"
+    }
+   ]
+  },
+  {
+   "title": "Everyday questions",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "These common questions are worth learning by heart. Notice that many of them contain **ba**, which is covered in the next lesson."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Tagalog",
+      "English"
+     ],
+     "rows": [
+      [
+       "Kilála mo ba siyá?",
+       "Do you know her/him?"
+      ],
+      [
+       "Sásama ka ba?",
+       "Are you coming along?"
+      ],
+      [
+       "Gustó mo ba itó?",
+       "Do you like this?"
+      ],
+      [
+       "Uuwì ka na ba?",
+       "Are you going home already?"
+      ],
+      [
+       "Gustó mo bang manóod ng síne?",
+       "Do you like to watch a movie?"
+      ],
+      [
+       "Táma ba itó?",
+       "Is this correct?"
+      ],
+      [
+       "Táma ba ako?",
+       "Am I right?"
+      ],
+      [
+       "Anó ba 'yan?",
+       "What's that?"
+      ],
+      [
+       "Anó'ng gustó mo?",
+       "What do you like?"
+      ],
+      [
+       "Saan ka pupuntá?",
+       "Where are you going?"
+      ],
+      [
+       "Síno ba siyá?",
+       "Who's she/he?"
+      ],
+      [
+       "Nasaán siyá?",
+       "Where's she/he?"
+      ]
+     ],
+     "title": "Common everyday questions"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Answering yes or no",
+     "t": "The book's practice answers begin with **Óo,** (yes) or **Hindì,** (no) followed by a complete sentence."
+    },
+    {
+     "type": "vocab",
+     "group": "phrases",
+     "title": "Questions to memorise"
+    },
+    {
+     "type": "vocab",
+     "group": "words",
+     "title": "Vocabulary list"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "There are 14 question words, from síno (who) to sa kaníno (with/to whom).",
+      "Gaáno: degree or quality. Paáno: a process. Nasaán: a person or thing. Saán: an action.",
+      "Double a question word for the plural: alín-alín, sinu-síno, kaní-kanino, anu-anó.",
+      "Nasaán and bakit are never doubled.",
+      "Iyán and itó shorten to 'yan and 'to: Síno 'yan? Kaníno 'to?"
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "sino-l09",
+   "tl": "síno",
+   "en": "who",
+   "pos": "other",
+   "group": "qwords",
+   "say": "SI-no"
+  },
+  {
+   "id": "ano-l09",
+   "tl": "anó",
+   "en": "what",
+   "pos": "other",
+   "group": "qwords",
+   "say": "a-NO"
+  },
+  {
+   "id": "alin-l09",
+   "tl": "alín",
+   "en": "which",
+   "pos": "other",
+   "group": "qwords",
+   "say": "a-LIN"
+  },
+  {
+   "id": "gaano-l09",
+   "tl": "gaáno",
+   "en": "how",
+   "pos": "other",
+   "group": "qwords",
+   "say": "ga-A-no",
+   "note": "Asks for a degree or quality"
+  },
+  {
+   "id": "paano-l09",
+   "tl": "paáno",
+   "en": "how",
+   "pos": "other",
+   "group": "qwords",
+   "say": "pa-A-no",
+   "note": "Asks for a process"
+  },
+  {
+   "id": "bakit-l09",
+   "tl": "bakit",
+   "en": "why",
+   "pos": "other",
+   "group": "qwords",
+   "note": "Never doubled"
+  },
+  {
+   "id": "kailan-l09",
+   "tl": "kailán",
+   "en": "when",
+   "pos": "other",
+   "group": "qwords",
+   "say": "ka-i-LAN"
+  },
+  {
+   "id": "nasaan-l09",
+   "tl": "nasaán",
+   "en": "where",
+   "pos": "other",
+   "group": "qwords",
+   "say": "na-sa-AN",
+   "note": "Location of a person or thing. Never doubled"
+  },
+  {
+   "id": "saan-l09",
+   "tl": "saán",
+   "en": "where",
+   "pos": "other",
+   "group": "qwords",
+   "say": "sa-AN",
+   "note": "Location of an action"
+  },
+  {
+   "id": "ilan-l09",
+   "tl": "ilán",
+   "en": "how many",
+   "pos": "other",
+   "group": "qwords",
+   "say": "i-LAN"
+  },
+  {
+   "id": "magkano-l09",
+   "tl": "magkáno",
+   "en": "how much",
+   "pos": "other",
+   "group": "qwords",
+   "say": "mag-KA-no"
+  },
+  {
+   "id": "kanino-l09",
+   "tl": "kaníno",
+   "en": "whose",
+   "pos": "other",
+   "group": "qwords",
+   "say": "ka-NI-no"
+  },
+  {
+   "id": "para-sa-kanino-l09",
+   "tl": "para sa kaníno",
+   "en": "for whom",
+   "pos": "phrase",
+   "group": "qwords"
+  },
+  {
+   "id": "sa-kanino-l09",
+   "tl": "sa kaníno",
+   "en": "with/to whom",
+   "pos": "phrase",
+   "group": "qwords"
+  },
+  {
+   "id": "yan-l09",
+   "tl": "'yan",
+   "en": "short for iyán (that)",
+   "pos": "pron",
+   "group": "short"
+  },
+  {
+   "id": "to-l09",
+   "tl": "'to",
+   "en": "short for itó (this)",
+   "pos": "pron",
+   "group": "short"
+  },
+  {
+   "id": "malaman-l09",
+   "tl": "maláman",
+   "en": "to know",
+   "pos": "verb",
+   "group": "words",
+   "say": "ma-LA-man"
+  },
+  {
+   "id": "nakatira-l09",
+   "tl": "nakatirá",
+   "en": "live/reside",
+   "pos": "verb",
+   "group": "words",
+   "say": "na-ka-ti-RA"
+  },
+  {
+   "id": "galit-l09",
+   "tl": "galít",
+   "en": "angry",
+   "pos": "adj",
+   "group": "words",
+   "say": "ga-LIT"
+  },
+  {
+   "id": "dumating-l09",
+   "tl": "dumatíng",
+   "en": "arrived",
+   "pos": "verb",
+   "group": "words",
+   "say": "du-ma-TING"
+  },
+  {
+   "id": "kilala-mo-ba-siya",
+   "tl": "Kilála mo ba siyá?",
+   "en": "Do you know her/him?",
+   "pos": "phrase",
+   "group": "phrases"
+  },
+  {
+   "id": "sasama-ka-ba",
+   "tl": "Sásama ka ba?",
+   "en": "Are you coming along?",
+   "pos": "phrase",
+   "group": "phrases"
+  },
+  {
+   "id": "gusto-mo-ba-ito",
+   "tl": "Gustó mo ba itó?",
+   "en": "Do you like this?",
+   "pos": "phrase",
+   "group": "phrases"
+  },
+  {
+   "id": "uuwi-ka-na-ba",
+   "tl": "Uuwì ka na ba?",
+   "en": "Are you going home already?",
+   "pos": "phrase",
+   "group": "phrases"
+  },
+  {
+   "id": "gusto-mo-bang-manood",
+   "tl": "Gustó mo bang manóod ng síne?",
+   "en": "Do you like to watch a movie?",
+   "pos": "phrase",
+   "group": "phrases"
+  },
+  {
+   "id": "tama-ba-ito",
+   "tl": "Táma ba itó?",
+   "en": "Is this correct?",
+   "pos": "phrase",
+   "group": "phrases"
+  },
+  {
+   "id": "tama-ba-ako",
+   "tl": "Táma ba ako?",
+   "en": "Am I right?",
+   "pos": "phrase",
+   "group": "phrases"
+  },
+  {
+   "id": "ano-ba-yan",
+   "tl": "Anó ba 'yan?",
+   "en": "What's that?",
+   "pos": "phrase",
+   "group": "phrases"
+  },
+  {
+   "id": "anong-gusto-mo",
+   "tl": "Anó'ng gustó mo?",
+   "en": "What do you like?",
+   "pos": "phrase",
+   "group": "phrases"
+  },
+  {
+   "id": "sino-ba-siya",
+   "tl": "Síno ba siyá?",
+   "en": "Who's she/he?",
+   "pos": "phrase",
+   "group": "phrases"
+  },
+  {
+   "id": "nasaan-siya",
+   "tl": "Nasaán siyá?",
+   "en": "Where's she/he?",
+   "pos": "phrase",
+   "group": "phrases"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "How many question words does Tagalog have, according to the book?",
+   "options": [
+    "14",
+    "8",
+    "10"
+   ],
+   "answer": "14",
+   "explain": "There are 14, covering who, what, which, how, why, when, where and whose."
+  },
+  {
+   "type": "choice",
+   "q": "Which word asks \"how\" when the answer is a degree or quality (how large, how far)?",
+   "options": [
+    "gaáno",
+    "paáno",
+    "ilán"
+   ],
+   "answer": "gaáno",
+   "explain": "Gaáno kalakí ang Pilipinas? How large is the Philippines?"
+  },
+  {
+   "type": "choice",
+   "q": "Which word asks \"how\" when the answer details a process?",
+   "options": [
+    "paáno",
+    "gaáno",
+    "bakit"
+   ],
+   "answer": "paáno",
+   "explain": "Paáno mo malaláman? How will you know?"
+  },
+  {
+   "type": "choice",
+   "q": "You want to know where your friend is right now. Which word do you use?",
+   "options": [
+    "nasaán",
+    "saán",
+    "kailán"
+   ],
+   "answer": "nasaán",
+   "explain": "Nasaán asks for the location of a person or thing: Nasaán siyá?"
+  },
+  {
+   "type": "choice",
+   "q": "You want to ask where someone lives (the location of an action). Which word?",
+   "options": [
+    "saán",
+    "nasaán",
+    "alín"
+   ],
+   "answer": "saán",
+   "explain": "Saán kayó nakatirá? Where do you live?"
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: ___ ang aklát? (How much is the book?)",
+   "options": [
+    "Magkáno",
+    "Ilán",
+    "Kaníno"
+   ],
+   "answer": "Magkáno",
+   "explain": "Magkáno means how much."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: ___ ang anák ninyó? (How many children do you have?)",
+   "options": [
+    "Ilán",
+    "Magkáno",
+    "Anó"
+   ],
+   "answer": "Ilán",
+   "explain": "Ilán means how many."
+  },
+  {
+   "type": "choice",
+   "q": "A question that starts with kaníno is answered with…",
+   "options": [
+    "a possessive pronoun such as ákin or kanilá",
+    "yes or no",
+    "a number"
+   ],
+   "answer": "a possessive pronoun such as ákin or kanilá",
+   "explain": "Kaníno means whose."
+  },
+  {
+   "type": "choice",
+   "q": "What does \"Sa kaníno iyán?\" mean?",
+   "options": [
+    "To whom does that belong?",
+    "For whom is that?",
+    "Who is that?"
+   ],
+   "answer": "To whom does that belong?",
+   "explain": "Sa kaníno means with/to whom; para sa kaníno means for whom."
+  },
+  {
+   "type": "choice",
+   "q": "What is the plural of alín?",
+   "options": [
+    "alín-alín",
+    "ali-alín",
+    "alu-alín"
+   ],
+   "answer": "alín-alín",
+   "explain": "A two-syllable word is doubled whole."
+  },
+  {
+   "type": "choice",
+   "q": "Kaníno has three syllables. What is its plural?",
+   "options": [
+    "kaní-kanino",
+    "kaníno-kaníno",
+    "kanu-kaníno"
+   ],
+   "answer": "kaní-kanino",
+   "explain": "With three or more syllables, only the first two syllables are doubled."
+  },
+  {
+   "type": "choice",
+   "q": "Why does anó become anu-anó?",
+   "options": [
+    "The o of the last syllable becomes u in the first half",
+    "It has three syllables",
+    "It is a short form"
+   ],
+   "answer": "The o of the last syllable becomes u in the first half",
+   "explain": "The same happens in sinu-síno."
+  },
+  {
+   "type": "choice",
+   "q": "Which two question words are never doubled?",
+   "options": [
+    "nasaán and bakit",
+    "síno and anó",
+    "ilán and magkáno"
+   ],
+   "answer": "nasaán and bakit",
+   "explain": "No one can be in two places at once, and there cannot be more than one explanation for an event."
+  },
+  {
+   "type": "choice",
+   "q": "\"Ilán-ilán ang mga anák nilá?\" asks about…",
+   "options": [
+    "the total number of children of more than one couple or parent",
+    "the age of the children",
+    "the names of the children"
+   ],
+   "answer": "the total number of children of more than one couple or parent",
+   "explain": "Between those couples, how many children do they have in all?"
+  },
+  {
+   "type": "choice",
+   "q": "Iyán can be shortened to…",
+   "options": [
+    "'yan",
+    "'to",
+    "'ya"
+   ],
+   "answer": "'yan",
+   "explain": "Itó becomes 'to."
+  },
+  {
+   "type": "choice",
+   "q": "Which question has the same meaning as \"Anó ang simbáhang iyán?\"",
+   "options": [
+    "Anóng simbáhan iyán?",
+    "Síno 'yan?",
+    "Kaníno 'to?"
+   ],
+   "answer": "Anóng simbáhan iyán?",
+   "explain": "Both mean What church is that?"
+  },
+  {
+   "type": "listen",
+   "tl": "Kailán kayó dumatíng sa Pilipinas?",
+   "options": [
+    "When did you arrive in the Philippines?",
+    "Where do you live?",
+    "Why is he/she angry?"
+   ],
+   "answer": "When did you arrive in the Philippines?",
+   "explain": "Kailán means when."
+  },
+  {
+   "type": "listen",
+   "tl": "Bakit siyá galít?",
+   "options": [
+    "Why is he/she angry?",
+    "Where is he/she?",
+    "Who is he/she?"
+   ],
+   "answer": "Why is he/she angry?",
+   "explain": "Bakit means why; galít means angry."
+  },
+  {
+   "type": "listen",
+   "tl": "Sásama ka ba?",
+   "options": [
+    "Are you coming along?",
+    "Are you going home already?",
+    "Am I right?"
+   ],
+   "answer": "Are you coming along?",
+   "explain": "One of the everyday questions to memorise."
+  },
+  {
+   "type": "listen",
+   "tl": "Táma ba itó?",
+   "options": [
+    "Is this correct?",
+    "Do you like this?",
+    "What's that?"
+   ],
+   "answer": "Is this correct?",
+   "explain": "Táma ba ako? means Am I right?"
+  },
+  {
+   "type": "build",
+   "en": "What is your name?",
+   "tl": "Anó ba ang pangálan ninyó?",
+   "tokens": [
+    "anó",
+    "ba",
+    "ang",
+    "pangálan",
+    "ninyó"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Which do you like?",
+   "tl": "Alín ba ang iyóng gustó?",
+   "tokens": [
+    "alín",
+    "ba",
+    "ang",
+    "iyóng",
+    "gustó"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Whose house is that?",
+   "tl": "Kaníno ang báhay na iyán?",
+   "tokens": [
+    "kaníno",
+    "ang",
+    "báhay",
+    "na",
+    "iyán"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Where do you live?",
+   "tl": "Saán kayó nakatirá?",
+   "tokens": [
+    "saán",
+    "kayó",
+    "nakatirá"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "What are your names?",
+   "tl": "Anú-anó ang mga pangálan ninyó?",
+   "tokens": [
+    "anú-anó",
+    "ang",
+    "mga",
+    "pangálan",
+    "ninyó"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Do you know her/him?",
+   "tl": "Kilála mo ba siyá?",
+   "tokens": [
+    "kilála",
+    "mo",
+    "ba",
+    "siyá"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match each question word to its meaning.",
+   "pairs": [
+    [
+     "síno",
+     "who"
+    ],
+    [
+     "anó",
+     "what"
+    ],
+    [
+     "alín",
+     "which"
+    ],
+    [
+     "kailán",
+     "when"
+    ],
+    [
+     "bakit",
+     "why"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each question word to its plural form.",
+   "pairs": [
+    [
+     "alín",
+     "alín-alín"
+    ],
+    [
+     "anó",
+     "anu-anó"
+    ],
+    [
+     "kaníno",
+     "kaní-kanino"
+    ],
+    [
+     "magkano",
+     "magka-magkano"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "Tagalog has 14 question words: síno, anó, alín, gaáno, paáno, bakit, kailán, nasaán, saán, ilán, magkáno, kaníno, para sa kaníno, sa kaníno.",
+  "Gaáno asks about degree; paáno about a process. Nasaán asks where a person or thing is; saán where an action happens.",
+  "Kaníno (whose) is answered with a possessive pronoun such as ákin, kaniyá or kanilá.",
+  "Plural question words are doubled: alín-alín, kaní-kanino, anu-anó. Nasaán and bakit are never doubled.",
+  "Iyán and itó shorten to 'yan and 'to: Síno 'yan? Kaníno 'to? Anó 'yan?"
+ ]
+}

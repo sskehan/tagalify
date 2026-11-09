@@ -1,0 +1,1069 @@
+{
+ "id": "l16",
+ "label": "16",
+ "title": "The articles ang and ng",
+ "summary": "When to use ang (the main character) and when to use ng (the other characters), and their plurals",
+ "minutes": 25,
+ "goals": [
+  "Use ang to introduce the subject of a sentence",
+  "Use ang in place of ay to stress who did something",
+  "Use ng for the receiver of an action, for possession, and for the doer of an -in- verb",
+  "Use the plural forms ang mga and ng mga"
+ ],
+ "sections": [
+  {
+   "title": "Two very common words",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Ang** and **ng** are two of the most commonly used words in Tagalog. You met them in Lesson 8, together with **ni**, as words that show possession."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Article",
+      "Its job",
+      "In English"
+     ],
+     "rows": [
+      [
+       "[[ang|marker]]",
+       "introduces the **main character** in a sentence",
+       "like the definite article *the*"
+      ],
+      [
+       "[[ng|marker]]",
+       "introduces the **other, minor characters**, among other things",
+       "*of*, or the indefinite articles *a* and *an*"
+      ]
+     ],
+     "title": "Ang and ng"
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "A common mix-up",
+     "t": "Many learners use **ang** where **ng** should be used, and **ng** where **ang** should be used. The rules below help you tell them apart."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "How to say ng",
+     "t": "Remember from Lesson 8: **ng** is read like **nang**."
+    }
+   ]
+  },
+  {
+   "title": "When to use ang",
+   "blocks": [
+    {
+     "type": "h",
+     "t": "a. To introduce the subject"
+    },
+    {
+     "type": "p",
+     "t": "**Ang** introduces a **common noun** that is the **subject** of the sentence. Here it is like the English *the*."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ang batà ay mabaít at masípag.",
+       "en": "The child is good and diligent.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "mabaít",
+         "good",
+         "pred"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "masípag",
+         "diligent",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Kumakain ng manggà ang dalaga.",
+       "en": "The young woman is eating a mango.",
+       "parts": [
+        [
+         "Kumakain",
+         "is eating",
+         "pred"
+        ],
+        [
+         "ng",
+         "a",
+         "marker"
+        ],
+        [
+         "manggà",
+         "mango",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "dalaga",
+         "young woman",
+         "noun"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "t": "In the second sentence, **ang dalaga** is the subject even though it comes last, and **ng manggà** is the thing being eaten."
+    },
+    {
+     "type": "h",
+     "t": "b. To stress who the doer is"
+    },
+    {
+     "type": "p",
+     "t": "Putting **ang** where **ay** would go puts the emphasis on the **identity of the doer**: it marks *who* did it."
+    },
+    {
+     "type": "table",
+     "head": [
+      "With ay",
+      "With ang"
+     ],
+     "rows": [
+      [
+       "Akó ay sumúlat ng kuwénto. (*I wrote a story.*)",
+       "Akó **ang** sumúlat ng kuwénto. (*I was the one who wrote the story.*)"
+      ],
+      [
+       "Ang batà ay maysakít. (*The child is sick.*)",
+       "Ang batà **ang** maysakít. (*The child is the one who is sick.*)"
+      ]
+     ],
+     "title": "Ay or ang?"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Akó ang sumúlat ng kuwénto.",
+       "en": "I was the one who wrote the story.",
+       "parts": [
+        [
+         "Akó",
+         "I",
+         "pron"
+        ],
+        [
+         "ang",
+         "(the one who)",
+         "marker"
+        ],
+        [
+         "sumúlat",
+         "wrote",
+         "pred"
+        ],
+        [
+         "ng",
+         "the",
+         "marker"
+        ],
+        [
+         "kuwénto",
+         "story",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang batà ang maysakít.",
+       "en": "The child is the one who is sick.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ],
+        [
+         "ang",
+         "(the one who is)",
+         "marker"
+        ],
+        [
+         "maysakít",
+         "sick",
+         "pred"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "The one who…",
+     "t": "English does the same job with *the one who*: *I was **the one who** wrote the story.*"
+    }
+   ]
+  },
+  {
+   "title": "When to use ng",
+   "blocks": [
+    {
+     "type": "h",
+     "t": "a. The receiver of an action"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Bumili ng pagkain ang babáe.",
+       "en": "The woman bought food.",
+       "parts": [
+        [
+         "Bumili",
+         "bought",
+         "pred"
+        ],
+        [
+         "ng",
+         "(receiver)",
+         "marker"
+        ],
+        [
+         "pagkain",
+         "food",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "babáe",
+         "woman",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Si Elena ay nagluto ng manók.",
+       "en": "Elena cooked the chicken.",
+       "parts": [
+        [
+         "Si",
+         "article (one name)",
+         "marker"
+        ],
+        [
+         "Elena",
+         "Elena",
+         "noun"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "nagluto",
+         "cooked",
+         "pred"
+        ],
+        [
+         "ng",
+         "(receiver)",
+         "marker"
+        ],
+        [
+         "manók",
+         "chicken",
+         "noun"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "t": "b. Association or possession"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ang iná ng báta ay nagpuntá sa paléngke.",
+       "en": "The child's mother went to the market.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "iná",
+         "mother",
+         "noun"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "báta",
+         "child",
+         "noun"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "nagpuntá",
+         "went",
+         "pred"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "paléngke",
+         "market",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang báhay ng laláki ay bágo.",
+       "en": "The man's house is new.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "báhay",
+         "house",
+         "noun"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "laláki",
+         "man",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "bágo",
+         "new",
+         "pred"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "t": "c. The doer of a passive (-in-) action"
+    },
+    {
+     "type": "p",
+     "t": "Look at the **-in-** verbs from Lesson 15: the doer is introduced by **ng**, and the thing acted upon takes **ang**."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Kináin ng áso ang tinápay.",
+       "en": "The dog ate the bread.",
+       "parts": [
+        [
+         "Kináin",
+         "was eaten",
+         "pred"
+        ],
+        [
+         "ng",
+         "by",
+         "marker"
+        ],
+        [
+         "áso",
+         "dog",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "tinápay",
+         "bread",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Binilí ng batáng babáe ang aklàt.",
+       "en": "The girl bought the book.",
+       "parts": [
+        [
+         "Binilí",
+         "was bought",
+         "pred"
+        ],
+        [
+         "ng",
+         "by",
+         "marker"
+        ],
+        [
+         "batáng",
+         "child +ng",
+         "noun"
+        ],
+        [
+         "babáe",
+         "woman (female)",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "aklàt",
+         "book",
+         "noun"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Ng has three jobs",
+     "items": [
+      "the **receiver** of an action: Bumili **ng** pagkain…",
+      "**association or possession**: ang báhay **ng** laláki",
+      "the **doer** of an -in- action: Kináin **ng** áso…"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Plural forms: ang mga and ng mga",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Tagalog follows the **plurality rule** from Lesson 4: plural words must be introduced by the **plural forms** of the articles."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Singular",
+      "Plural"
+     ],
+     "rows": [
+      [
+       "[[ang|marker]]",
+       "[[ang mga|marker]]"
+      ],
+      [
+       "[[ng|marker]]",
+       "[[ng mga|marker]]"
+      ]
+     ],
+     "title": "The plural articles"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ang mga báhay ng magkákapatid na babáe ay malalakì.",
+       "en": "The sisters' houses are big.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "mga",
+         "plural marker",
+         "marker"
+        ],
+        [
+         "báhay",
+         "houses",
+         "noun"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "magkákapatid",
+         "siblings (two or more)",
+         "noun"
+        ],
+        [
+         "na",
+         "ligature",
+         "link"
+        ],
+        [
+         "babáe",
+         "woman (female)",
+         "noun"
+        ],
+        [
+         "ay",
+         "are",
+         "ay"
+        ],
+        [
+         "malalakì",
+         "big (plural)",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Bumilí ng mga prutas ang lóla.",
+       "en": "The grandmother bought fruits.",
+       "parts": [
+        [
+         "Bumilí",
+         "bought",
+         "pred"
+        ],
+        [
+         "ng",
+         "(receiver)",
+         "marker"
+        ],
+        [
+         "mga",
+         "plural marker",
+         "marker"
+        ],
+        [
+         "prutas",
+         "fruits",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "lóla",
+         "grandmother",
+         "noun"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Magkákapatid",
+     "t": "**Magkákapatid** means two or more siblings. With **na babáe** it becomes *sisters*."
+    },
+    {
+     "type": "vocab",
+     "group": "words",
+     "title": "Words in this lesson"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "**Ang** introduces the subject (the main character): *the*.",
+      "**Ang** in place of ay stresses who the doer is: Akó ang sumúlat ng kuwénto.",
+      "**Ng** introduces the receiver of an action, an owner, or the doer of an -in- verb.",
+      "Plural: **ang mga** and **ng mga**."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "ang-mga-l16",
+   "tl": "ang mga",
+   "en": "the (plural of ang)",
+   "pos": "marker",
+   "group": "words"
+  },
+  {
+   "id": "dalaga-l16",
+   "tl": "dalaga",
+   "en": "young woman",
+   "pos": "noun",
+   "group": "words",
+   "note": "Lesson 7 writes dalága (unmarried woman)"
+  },
+  {
+   "id": "palengke-l16",
+   "tl": "paléngke",
+   "en": "market",
+   "pos": "noun",
+   "group": "words",
+   "say": "pa-LENG-ke"
+  },
+  {
+   "id": "magkakapatid-l16",
+   "tl": "magkákapatid",
+   "en": "siblings (two or more)",
+   "pos": "noun",
+   "group": "words",
+   "say": "mag-KA-ka-pa-tid",
+   "note": "Lesson 4 has magkapatíd (siblings)"
+  },
+  {
+   "id": "kapitbahay-l16",
+   "tl": "kápitbahay",
+   "en": "neighbor",
+   "pos": "noun",
+   "group": "words",
+   "say": "KA-pit-ba-hay"
+  },
+  {
+   "id": "maysakit-l16",
+   "tl": "maysakít",
+   "en": "sick",
+   "pos": "adj",
+   "group": "words",
+   "say": "may-sa-KIT"
+  },
+  {
+   "id": "lola-l16",
+   "tl": "lóla",
+   "en": "grandmother",
+   "pos": "noun",
+   "group": "words",
+   "say": "LO-la"
+  },
+  {
+   "id": "tinapay-l16",
+   "tl": "tinápay",
+   "en": "bread",
+   "pos": "noun",
+   "group": "words",
+   "say": "ti-NA-pay"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Which article is like the English \"the\" and introduces the main character?",
+   "options": [
+    "ang",
+    "ng",
+    "ni"
+   ],
+   "answer": "ang",
+   "explain": "Ang introduces the subject."
+  },
+  {
+   "type": "choice",
+   "q": "Which article can be translated \"of\", \"a\" or \"an\"?",
+   "options": [
+    "ng",
+    "ang",
+    "si"
+   ],
+   "answer": "ng",
+   "explain": "Ng introduces the other, minor characters."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: Kumakain ng manggà ___ dalaga.",
+   "options": [
+    "ang",
+    "ng",
+    "ng mga"
+   ],
+   "answer": "ang",
+   "explain": "The young woman is the subject: ang dalaga."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: Bumili ___ pagkain ang babáe.",
+   "options": [
+    "ng",
+    "ang",
+    "ang mga"
+   ],
+   "answer": "ng",
+   "explain": "Pagkain (food) receives the action, so it takes ng."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: Kináin ___ áso ang tinápay.",
+   "options": [
+    "ng",
+    "ang",
+    "sa"
+   ],
+   "answer": "ng",
+   "explain": "The doer of an -in- verb takes ng."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: Ang báhay ___ laláki ay bágo.",
+   "options": [
+    "ng",
+    "ang",
+    "ay"
+   ],
+   "answer": "ng",
+   "explain": "Ng shows possession: the man's house."
+  },
+  {
+   "type": "choice",
+   "q": "\"Akó ang sumúlat ng kuwénto\" means…",
+   "options": [
+    "I was the one who wrote the story.",
+    "I wrote a story.",
+    "The story was written."
+   ],
+   "answer": "I was the one who wrote the story.",
+   "explain": "Ang in place of ay stresses who the doer is."
+  },
+  {
+   "type": "choice",
+   "q": "\"Ang batà ay maysakít\" means…",
+   "options": [
+    "The child is sick.",
+    "The child is the one who is sick.",
+    "The sick child."
+   ],
+   "answer": "The child is sick.",
+   "explain": "With ay it is a plain statement."
+  },
+  {
+   "type": "choice",
+   "q": "Which sentence stresses that it is the child who is sick?",
+   "options": [
+    "Ang batà ang maysakít.",
+    "Ang batà ay maysakít."
+   ],
+   "answer": "Ang batà ang maysakít.",
+   "explain": "Ang in place of ay marks the identity of the one who is sick."
+  },
+  {
+   "type": "choice",
+   "q": "In \"Kináin ng áso ang tinápay\", what does ng show?",
+   "options": [
+    "the doer of the action",
+    "possession",
+    "the receiver of the action"
+   ],
+   "answer": "the doer of the action",
+   "explain": "With an -in- verb, ng introduces the doer: the dog."
+  },
+  {
+   "type": "choice",
+   "q": "In \"Si Elena ay nagluto ng manók\", what does ng show?",
+   "options": [
+    "the receiver of the action",
+    "the doer of the action",
+    "possession"
+   ],
+   "answer": "the receiver of the action",
+   "explain": "The chicken receives the action of cooking."
+  },
+  {
+   "type": "choice",
+   "q": "What is the plural of ng?",
+   "options": [
+    "ng mga",
+    "ang mga",
+    "niná"
+   ],
+   "answer": "ng mga",
+   "explain": "Ng becomes ng mga."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: Bumilí ___ prutas ang lóla. (The grandmother bought fruits.)",
+   "options": [
+    "ng mga",
+    "ang mga",
+    "ng"
+   ],
+   "answer": "ng mga",
+   "explain": "Fruits are plural and receive the action: ng mga prutas."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: ___ báhay ___ áking kaibígan ay nasa Quezon City.",
+   "options": [
+    "Ang … ng",
+    "Ng … ang",
+    "Ang … ang"
+   ],
+   "answer": "Ang … ng",
+   "explain": "Ang introduces the subject; ng shows whose house it is."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: ___ pangálan ___ áking asáwa ay John.",
+   "options": [
+    "Ang … ng",
+    "Ng … ng",
+    "Ang … ang"
+   ],
+   "answer": "Ang … ng",
+   "explain": "Ang for the subject, ng for possession."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: Kumákain ___ gúlay ___ malusóg na batà.",
+   "options": [
+    "ng … ang",
+    "ang … ng",
+    "ng … ng"
+   ],
+   "answer": "ng … ang",
+   "explain": "The vegetables receive the action (ng); the healthy child is the subject (ang)."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: ___ pangálan ___ kapatíd ko ay Peter at Mary.",
+   "options": [
+    "Ang mga … ng mga",
+    "Ang … ng",
+    "Ng mga … ang mga"
+   ],
+   "answer": "Ang mga … ng mga",
+   "explain": "Two names, so the plural forms are needed."
+  },
+  {
+   "type": "listen",
+   "tl": "lóla",
+   "options": [
+    "grandmother",
+    "neighbor",
+    "young woman"
+   ],
+   "answer": "grandmother",
+   "explain": "Lóla = grandmother."
+  },
+  {
+   "type": "listen",
+   "tl": "kápitbahay",
+   "options": [
+    "neighbor",
+    "siblings",
+    "market"
+   ],
+   "answer": "neighbor",
+   "explain": "Kápitbahay = neighbor."
+  },
+  {
+   "type": "listen",
+   "tl": "maysakít",
+   "options": [
+    "sick",
+    "story",
+    "bread"
+   ],
+   "answer": "sick",
+   "explain": "Maysakít = sick."
+  },
+  {
+   "type": "build",
+   "en": "The child is good and diligent.",
+   "tl": "Ang batà ay mabaít at masípag.",
+   "tokens": [
+    "ang",
+    "batà",
+    "ay",
+    "mabaít",
+    "at",
+    "masípag"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The young woman is eating a mango.",
+   "tl": "Kumakain ng manggà ang dalaga.",
+   "tokens": [
+    "kumakain",
+    "ng",
+    "manggà",
+    "ang",
+    "dalaga"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "I was the one who wrote the story.",
+   "tl": "Akó ang sumúlat ng kuwénto.",
+   "tokens": [
+    "akó",
+    "ang",
+    "sumúlat",
+    "ng",
+    "kuwénto"
+   ],
+   "explain": "",
+   "extra": [
+    "ay"
+   ]
+  },
+  {
+   "type": "build",
+   "en": "The dog ate the bread.",
+   "tl": "Kináin ng áso ang tinápay.",
+   "tokens": [
+    "kináin",
+    "ng",
+    "áso",
+    "ang",
+    "tinápay"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The man's house is new.",
+   "tl": "Ang báhay ng laláki ay bágo.",
+   "tokens": [
+    "ang",
+    "báhay",
+    "ng",
+    "laláki",
+    "ay",
+    "bágo"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The grandmother bought fruits.",
+   "tl": "Bumilí ng mga prutas ang lóla.",
+   "tokens": [
+    "bumilí",
+    "ng",
+    "mga",
+    "prutas",
+    "ang",
+    "lóla"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match each word to its meaning.",
+   "pairs": [
+    [
+     "paléngke",
+     "market"
+    ],
+    [
+     "kuwénto",
+     "story"
+    ],
+    [
+     "tinápay",
+     "bread"
+    ],
+    [
+     "magkákapatid",
+     "siblings"
+    ],
+    [
+     "dalaga",
+     "young woman"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each use to its article.",
+   "pairs": [
+    [
+     "the subject (singular)",
+     "ang"
+    ],
+    [
+     "the subject (plural)",
+     "ang mga"
+    ],
+    [
+     "an owner (singular)",
+     "ng"
+    ],
+    [
+     "an owner (plural)",
+     "ng mga"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "Ang introduces the main character (the subject), like the English the.",
+  "Ang in place of ay stresses who the doer is: Akó ang sumúlat ng kuwénto.",
+  "Ng introduces the receiver of an action, an owner, and the doer of an -in- verb.",
+  "Ng can be translated of, a or an.",
+  "Plural: ang mga and ng mga."
+ ]
+}

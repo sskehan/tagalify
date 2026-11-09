@@ -1,0 +1,1736 @@
+{
+ "id": "l12",
+ "label": "12",
+ "title": "Using may and mayroón",
+ "summary": "Saying there is / there are and has / have with may and mayroón, and saying none with walâ",
+ "minutes": 30,
+ "goals": [
+  "Use may before a noun, adjective, number, mga or verb",
+  "Use mayroón (or meron) before short words like ka, pa, ba and before pronouns",
+  "Turn a may sentence into a mayroón sentence",
+  "Answer a may or mayroón question with mayroón or walâ (not hindî)",
+  "Use walâ to say there is no, does not have, or none"
+ ],
+ "sections": [
+  {
+   "title": "May and mayroón: there is, has",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Sentences with **may** or **mayroón** (said *may-ro-on*) point to the **existence** of things (*there is* or *there are*) or to **possession** (*has* or *have*)."
+    },
+    {
+     "type": "p",
+     "t": "Both words can mean *there is / there are* and *has / have*, but you **cannot swap one for the other freely**. Each has its own rules, shown below. The opposite of both is **walâ**."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Word",
+      "Meaning",
+      "What comes right after it"
+     ],
+     "rows": [
+      [
+       "[[may|pred]]",
+       "there is / there are; has / have",
+       "a noun, an adjective, a number, mga, or a verb"
+      ],
+      [
+       "[[mayroón|pred]]  (short form [[meron|pred]])",
+       "has / have",
+       "a short word (ka, na, nang, pa, ba, din, daw) or a personal pronoun, with a ligature"
+      ],
+      [
+       "[[walâ|pred]]",
+       "there is / there are no; do / does not have; none",
+       "a pronoun or short word (with -ng), or -ng and then a noun, adjective, number, mga or verb"
+      ]
+     ],
+     "title": "The three words at a glance"
+    }
+   ]
+  },
+  {
+   "title": "How to use may",
+   "blocks": [
+    {
+     "type": "h",
+     "t": "1. May + a noun"
+    },
+    {
+     "type": "p",
+     "t": "**May** is followed **immediately by a noun**. It works in both word orders: the subject-predicate order (with ay) and the inverted order. May sentences often do not say who the owner is (see the last sentence)."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Akó ay may kaibígan sa Quezon City.",
+       "en": "I have a friend in Quezon City.",
+       "parts": [
+        [
+         "Akó",
+         "I",
+         "pron"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "may",
+         "have",
+         "pred"
+        ],
+        [
+         "kaibígan",
+         "friend",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "Quezon City",
+         "Quezon City",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "May kaibígan ako sa Quezon City.",
+       "en": "I have a friend in Quezon City.",
+       "parts": [
+        [
+         "May",
+         "have",
+         "pred"
+        ],
+        [
+         "kaibígan",
+         "friend",
+         "noun"
+        ],
+        [
+         "ako",
+         "I",
+         "pron"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "Quezon City",
+         "Quezon City",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Kami ay may báhay sa Maynilà.",
+       "en": "We have a house in Manila.",
+       "parts": [
+        [
+         "Kami",
+         "we",
+         "pron"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "may",
+         "have",
+         "pred"
+        ],
+        [
+         "báhay",
+         "house",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "Maynilà",
+         "Manila",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "May báhay kami sa Maynilà.",
+       "en": "We have a house in Manila.",
+       "parts": [
+        [
+         "May",
+         "have",
+         "pred"
+        ],
+        [
+         "báhay",
+         "house",
+         "noun"
+        ],
+        [
+         "kami",
+         "we",
+         "pron"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "Maynilà",
+         "Manila",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "May táo sa labás.",
+       "en": "There is someone outside.",
+       "parts": [
+        [
+         "May",
+         "there is",
+         "pred"
+        ],
+        [
+         "táo",
+         "person",
+         "noun"
+        ],
+        [
+         "sa",
+         "at",
+         "marker"
+        ],
+        [
+         "labás",
+         "outside",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "May + noun"
+    },
+    {
+     "type": "pattern",
+     "title": "May goes straight before the noun",
+     "rows": [
+      {
+       "label": "Subject first",
+       "chips": [
+        {
+         "t": "Akó",
+         "r": "pron"
+        },
+        {
+         "t": "ay",
+         "r": "ay"
+        },
+        {
+         "t": "may",
+         "r": "pred"
+        },
+        {
+         "t": "kaibígan",
+         "r": "noun"
+        }
+       ]
+      },
+      {
+       "label": "Inverted",
+       "chips": [
+        {
+         "t": "May",
+         "r": "pred"
+        },
+        {
+         "t": "kaibígan",
+         "r": "noun"
+        },
+        {
+         "t": "ako",
+         "r": "pron"
+        }
+       ]
+      }
+     ],
+     "note": "I have a friend. Nothing comes between may and the noun."
+    },
+    {
+     "type": "h",
+     "t": "2. May + an adjective or a number"
+    },
+    {
+     "type": "p",
+     "t": "**May** can also be followed **immediately by an adjective or a number**, in either word order, to show possession or existence."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Siya'y may magandáng báhay.",
+       "en": "He/She has a nice house.",
+       "parts": [
+        [
+         "Siya'y",
+         "he/she (+ ay)",
+         "pron"
+        ],
+        [
+         "may",
+         "has",
+         "pred"
+        ],
+        [
+         "magandáng",
+         "nice (+ ligature)",
+         "pred"
+        ],
+        [
+         "báhay",
+         "house",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "May dálawang áso sa kúlúngan.",
+       "en": "There are two dogs in the cage.",
+       "parts": [
+        [
+         "May",
+         "there are",
+         "pred"
+        ],
+        [
+         "dálawang",
+         "two (+ ligature)",
+         "noun"
+        ],
+        [
+         "áso",
+         "dog",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "kúlúngan",
+         "cage",
+         "noun"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Siya'y",
+     "t": "**Siya'y** is **siyá + ay** run together, the same shortening of ay you met in earlier lessons."
+    },
+    {
+     "type": "h",
+     "t": "3. May + mga + a noun"
+    },
+    {
+     "type": "p",
+     "t": "When there is **more than one thing**, may is followed immediately by **mga** and then the noun."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "May mga púnong-kahoy silá.",
+       "en": "They have trees.",
+       "parts": [
+        [
+         "May",
+         "have",
+         "pred"
+        ],
+        [
+         "mga",
+         "(plural)",
+         "marker"
+        ],
+        [
+         "púnong-kahoy",
+         "trees",
+         "noun"
+        ],
+        [
+         "silá",
+         "they",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "May mga tao sa labás.",
+       "en": "There are men outside.",
+       "parts": [
+        [
+         "May",
+         "there are",
+         "pred"
+        ],
+        [
+         "mga",
+         "(plural)",
+         "marker"
+        ],
+        [
+         "tao",
+         "people",
+         "noun"
+        ],
+        [
+         "sa",
+         "at",
+         "marker"
+        ],
+        [
+         "labás",
+         "outside",
+         "noun"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "t": "4. May + a verb"
+    },
+    {
+     "type": "p",
+     "t": "May can be followed immediately by a **verb** to show that **someone or something exists** doing that action."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "May natutúlog na táo sa silíd.",
+       "en": "There is a person sleeping in the room.",
+       "parts": [
+        [
+         "May",
+         "there is",
+         "pred"
+        ],
+        [
+         "natutúlog",
+         "sleeping",
+         "pred"
+        ],
+        [
+         "na",
+         "(ligature)",
+         "link"
+        ],
+        [
+         "táo",
+         "person",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "silíd",
+         "room",
+         "noun"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "May in short",
+     "items": [
+      "May + noun: May táo sa labás.",
+      "May + adjective or number: may magandáng báhay, may dálawang áso.",
+      "May + mga + noun: May mga tao sa labás.",
+      "May + verb: May natutúlog na táo sa silíd."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "may",
+     "title": "Words for this lesson"
+    }
+   ]
+  },
+  {
+   "title": "How to use mayroón",
+   "blocks": [
+    {
+     "type": "h",
+     "t": "1. Mayroón + a short word"
+    },
+    {
+     "type": "p",
+     "t": "**Mayroón** is followed by **one-syllable words** such as **ka, na, nang, pa, ba, din** and **daw** (Lesson Ten covers these words). The ligature is then attached to the short word that sits **nearest to the noun or adjective**. Mayroón may be shortened to **meron**."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Mayroón pang trabáho si Lucio.",
+       "en": "Lucio still has a job.",
+       "parts": [
+        [
+         "Mayroón",
+         "has",
+         "pred"
+        ],
+        [
+         "pang",
+         "still (pa + ligature)",
+         "part"
+        ],
+        [
+         "trabáho",
+         "job",
+         "noun"
+        ],
+        [
+         "si",
+         "(name marker)",
+         "marker"
+        ],
+        [
+         "Lucio",
+         "Lucio",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Meron ka bang bágong aklát?",
+       "en": "Do you have a new book?",
+       "parts": [
+        [
+         "Meron",
+         "have",
+         "pred"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ],
+        [
+         "bang",
+         "(question word + ligature)",
+         "part"
+        ],
+        [
+         "bágong",
+         "new (+ ligature)",
+         "pred"
+        ],
+        [
+         "aklát",
+         "book",
+         "noun"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Where does the -ng go?",
+     "t": "In *Meron ka bang bágong aklát?* there are two short words, **ka** and **ba**. The ligature goes on **ba** (bang), because ba is the one nearest to the noun phrase."
+    },
+    {
+     "type": "h",
+     "t": "2. Mayroón + a personal pronoun"
+    },
+    {
+     "type": "p",
+     "t": "In inverted sentences, mayroón is followed by a **personal pronoun** such as **akó, ka, tayó, kamí, kayó** and **silá** to show possession. These pronouns end in vowels, so the ligature **-ng** is added to them (kamí + ng = **kamíng**)."
+    },
+    {
+     "type": "p",
+     "t": "To change a **may** sentence into a **mayroón** sentence, rearrange **may + noun + pronoun** into **mayroón + pronoun + -ng + noun**."
+    },
+    {
+     "type": "pattern",
+     "title": "From may to mayroón",
+     "rows": [
+      {
+       "label": "May",
+       "chips": [
+        {
+         "t": "May",
+         "r": "pred"
+        },
+        {
+         "t": "báhay",
+         "r": "noun"
+        },
+        {
+         "t": "kamí",
+         "r": "pron"
+        },
+        {
+         "t": "sa Maynilà",
+         "r": "other"
+        }
+       ]
+      },
+      {
+       "label": "Mayroón",
+       "chips": [
+        {
+         "t": "Mayroón",
+         "r": "pred"
+        },
+        {
+         "t": "kamí",
+         "r": "pron"
+        },
+        {
+         "t": "-ng",
+         "r": "link"
+        },
+        {
+         "t": "báhay",
+         "r": "noun"
+        },
+        {
+         "t": "sa Maynilà",
+         "r": "other"
+        }
+       ]
+      }
+     ],
+     "note": "We have a house in Manila."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "May báhay kamí sa Maynilà.",
+       "en": "We have a house in Manila.",
+       "parts": [
+        [
+         "May",
+         "have",
+         "pred"
+        ],
+        [
+         "báhay",
+         "house",
+         "noun"
+        ],
+        [
+         "kamí",
+         "we",
+         "pron"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "Maynilà",
+         "Manila",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Mayroón kamíng báhay sa Maynilà.",
+       "en": "We have a house in Manila.",
+       "parts": [
+        [
+         "Mayroón",
+         "have",
+         "pred"
+        ],
+        [
+         "kamíng",
+         "we (+ ligature)",
+         "pron"
+        ],
+        [
+         "báhay",
+         "house",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "Maynilà",
+         "Manila",
+         "noun"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "t": "3. Mayroón as an answer"
+    },
+    {
+     "type": "p",
+     "t": "**Mayroón** on its own answers a question. The word **oo** (*yes*) at the start, and the noun or pronoun after mayroón, are both **optional**."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "May bágong sapátos ba si Bob? (Oo), mayroón (siyá).",
+       "en": "Does Bob have a new pair of shoes? (Yes), he has.",
+       "parts": [
+        [
+         "May",
+         "has",
+         "pred"
+        ],
+        [
+         "bágong",
+         "new (+ ligature)",
+         "pred"
+        ],
+        [
+         "sapátos",
+         "shoes",
+         "noun"
+        ],
+        [
+         "ba",
+         "(question word)",
+         "part"
+        ],
+        [
+         "si",
+         "(name marker)",
+         "marker"
+        ],
+        [
+         "Bob",
+         "Bob",
+         "noun"
+        ],
+        [
+         "Oo",
+         "yes",
+         "part"
+        ],
+        [
+         "mayroón",
+         "has",
+         "pred"
+        ],
+        [
+         "siyá",
+         "he",
+         "pron"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "t": "The ma- prefix is a short may"
+    },
+    {
+     "type": "p",
+     "t": "The **ma-** prefix that is added to root words to make other words is really a **shortened form of may**:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Word",
+      "Comes from",
+      "Literally"
+     ],
+     "rows": [
+      [
+       "[[marámi|pred]] (many)",
+       "may damí",
+       "there are many"
+      ],
+      [
+       "[[mataás|pred]] (tall)",
+       "may taás",
+       "there is height"
+      ],
+      [
+       "[[malinís|pred]] (clean)",
+       "may linís",
+       "there is clean"
+      ],
+      [
+       "[[mabutó|pred]] (bony)",
+       "",
+       "having many bones"
+      ]
+     ],
+     "title": "Ma- = may"
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "Ma- in short",
+     "t": "With **abstract** nouns (ideas such as height), ma- means **there is / there are**. With **concrete** nouns (things you can touch, such as bones), ma- means **having many**: mabutó, bony."
+    }
+   ]
+  },
+  {
+   "title": "How to use walâ",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "To deny that something exists or is owned, **replace may and mayroón with walâ**. Walâ turns *there is / there are* into **there is / there are no**, and *has / have* into **does not / do not have**. On its own, or as an answer to a mayroón question, walâ means **none**."
+    },
+    {
+     "type": "p",
+     "t": "Walâ follows three simple rules, based on the may and mayroón rules."
+    },
+    {
+     "type": "h",
+     "t": "1. Walâ + a pronoun or short word"
+    },
+    {
+     "type": "p",
+     "t": "Walâ usually comes at the **start of the sentence** and is followed by a **possessive pronoun or a one-syllable word**. The ligature **-ng** is added to the pronoun or short word that comes after it."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Walâ akóng kaibígan sa Quezon.",
+       "en": "I do not have a friend in Quezon.",
+       "parts": [
+        [
+         "Walâ",
+         "do not have",
+         "pred"
+        ],
+        [
+         "akóng",
+         "I (+ ligature)",
+         "pron"
+        ],
+        [
+         "kaibígan",
+         "friend",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "Quezon",
+         "Quezon",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Walâ siláng mga púnong-kahoy.",
+       "en": "They do not have trees.",
+       "parts": [
+        [
+         "Walâ",
+         "do not have",
+         "pred"
+        ],
+        [
+         "siláng",
+         "they (+ ligature)",
+         "pron"
+        ],
+        [
+         "mga",
+         "(plural)",
+         "marker"
+        ],
+        [
+         "púnong-kahoy",
+         "trees",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Walá pang bágong aklát.",
+       "en": "There is no new book yet.",
+       "parts": [
+        [
+         "Walá",
+         "there is no",
+         "pred"
+        ],
+        [
+         "pang",
+         "yet (pa + ligature)",
+         "part"
+        ],
+        [
+         "bágong",
+         "new (+ ligature)",
+         "pred"
+        ],
+        [
+         "aklát",
+         "book",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Walá nang trabáho si Lucio.",
+       "en": "Lucio does not have a job now (or anymore).",
+       "parts": [
+        [
+         "Walá",
+         "does not have",
+         "pred"
+        ],
+        [
+         "nang",
+         "now / anymore",
+         "part"
+        ],
+        [
+         "trabáho",
+         "job",
+         "noun"
+        ],
+        [
+         "si",
+         "(name marker)",
+         "marker"
+        ],
+        [
+         "Lucio",
+         "Lucio",
+         "noun"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "t": "2. Walâ + -ng before other words"
+    },
+    {
+     "type": "p",
+     "t": "Walâ **with the ligature -ng** (walâng) is used before **numbers or adjectives, nouns, the article mga, and verbs**, just like may."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Walâng dálawang áso sa kúlúngan.",
+       "en": "There are no two dogs in the cage.",
+       "parts": [
+        [
+         "Walâng",
+         "there are no",
+         "pred"
+        ],
+        [
+         "dálawang",
+         "two (+ ligature)",
+         "noun"
+        ],
+        [
+         "áso",
+         "dog",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "kúlúngan",
+         "cage",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Walâng táo sa labás.",
+       "en": "There is no one outside.",
+       "parts": [
+        [
+         "Walâng",
+         "there is no",
+         "pred"
+        ],
+        [
+         "táo",
+         "person",
+         "noun"
+        ],
+        [
+         "sa",
+         "at",
+         "marker"
+        ],
+        [
+         "labás",
+         "outside",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Walâng mga táo sa labás.",
+       "en": "There are no men outside.",
+       "parts": [
+        [
+         "Walâng",
+         "there are no",
+         "pred"
+        ],
+        [
+         "mga",
+         "(plural)",
+         "marker"
+        ],
+        [
+         "táo",
+         "people",
+         "noun"
+        ],
+        [
+         "sa",
+         "at",
+         "marker"
+        ],
+        [
+         "labás",
+         "outside",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Waláng natutúlog na táo sa silíd.",
+       "en": "No one is sleeping in the room.",
+       "parts": [
+        [
+         "Waláng",
+         "there is no",
+         "pred"
+        ],
+        [
+         "natutúlog",
+         "sleeping",
+         "pred"
+        ],
+        [
+         "na",
+         "(ligature)",
+         "link"
+        ],
+        [
+         "táo",
+         "person",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "silíd",
+         "room",
+         "noun"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pattern",
+     "title": "May and walâ side by side",
+     "rows": [
+      {
+       "label": "There is",
+       "chips": [
+        {
+         "t": "May",
+         "r": "pred"
+        },
+        {
+         "t": "táo",
+         "r": "noun"
+        },
+        {
+         "t": "sa labás",
+         "r": "other"
+        }
+       ]
+      },
+      {
+       "label": "There is no",
+       "chips": [
+        {
+         "t": "Walâ",
+         "r": "pred"
+        },
+        {
+         "t": "-ng",
+         "r": "link"
+        },
+        {
+         "t": "táo",
+         "r": "noun"
+        },
+        {
+         "t": "sa labás",
+         "r": "other"
+        }
+       ]
+      }
+     ],
+     "note": "May táo sa labás. / Walâng táo sa labás."
+    },
+    {
+     "type": "h",
+     "t": "3. Walâ as an answer: none"
+    },
+    {
+     "type": "p",
+     "t": "**Walâ** by itself is the negative answer to a question with **may** or **mayroón**, and means **none**. **Hindî** (*no*) is the **wrong** answer to this kind of question. Walâ can also turn a positive question into a negative one."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "May bágong sapátos ba si Bob? Walâ.",
+       "en": "Does Bob have a new pair of shoes? None.",
+       "parts": [
+        [
+         "May",
+         "has",
+         "pred"
+        ],
+        [
+         "bágong",
+         "new (+ ligature)",
+         "pred"
+        ],
+        [
+         "sapátos",
+         "shoes",
+         "noun"
+        ],
+        [
+         "ba",
+         "(question word)",
+         "part"
+        ],
+        [
+         "si",
+         "(name marker)",
+         "marker"
+        ],
+        [
+         "Bob",
+         "Bob",
+         "noun"
+        ],
+        [
+         "Walâ",
+         "none",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "May kótse ba silá? Walâ.",
+       "en": "Do they have a car? None.",
+       "parts": [
+        [
+         "May",
+         "have",
+         "pred"
+        ],
+        [
+         "kótse",
+         "car",
+         "noun"
+        ],
+        [
+         "ba",
+         "(question word)",
+         "part"
+        ],
+        [
+         "silá",
+         "they",
+         "pron"
+        ],
+        [
+         "Walâ",
+         "none",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Mayroón ka bang pagkáin?",
+       "en": "Do you have food?",
+       "parts": [
+        [
+         "Mayroón",
+         "have",
+         "pred"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ],
+        [
+         "bang",
+         "(question word + ligature)",
+         "part"
+        ],
+        [
+         "pagkáin",
+         "food",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Walâ ka bang pagkáin?",
+       "en": "Don't you have food?",
+       "parts": [
+        [
+         "Walâ",
+         "do not have",
+         "pred"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ],
+        [
+         "bang",
+         "(question word + ligature)",
+         "part"
+        ],
+        [
+         "pagkáin",
+         "food",
+         "noun"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Not hindî",
+     "t": "To answer *May kótse ba silá?* say **Walâ** (none), never *Hindî*."
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "Spelling in the book",
+     "t": "The book prints walâ with a circumflex (walâ, walâng) in most places, but **Walá** / **Waláng** in a few sentences. They are the same word; the sentences here are copied as printed."
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "May comes straight before a noun, adjective, number, mga or verb.",
+      "Mayroón (meron) comes before short words like ka, pa, ba, or a pronoun; the -ng goes on the word nearest the noun.",
+      "May báhay kamí → Mayroón kamíng báhay.",
+      "Walâ replaces may and mayroón: walâ akóng…, walâng táo…",
+      "Answer a may or mayroón question with mayroón or walâ, never hindî."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "may",
+   "tl": "may",
+   "en": "there is / there are; has / have",
+   "pos": "verb",
+   "group": "may"
+  },
+  {
+   "id": "mayroon",
+   "tl": "mayroón",
+   "en": "has/have",
+   "pos": "verb",
+   "group": "may",
+   "say": "may-ro-ON",
+   "note": "Pronounced may-ro-on. Followed by short words (ka, pa, ba…) or a pronoun."
+  },
+  {
+   "id": "meron",
+   "tl": "meron",
+   "en": "has/have (shortened form of mayroón)",
+   "pos": "verb",
+   "group": "may"
+  },
+  {
+   "id": "wala",
+   "tl": "walâ",
+   "en": "none; there is/there are no; do/does not have",
+   "pos": "verb",
+   "group": "may",
+   "say": "wa-laQ",
+   "note": "The book also writes walá in a few sentences."
+  },
+  {
+   "id": "silid",
+   "tl": "silíd",
+   "en": "room",
+   "pos": "noun",
+   "group": "may",
+   "say": "si-LID"
+  },
+  {
+   "id": "punongkahoy",
+   "tl": "púnongkahoy",
+   "en": "trees",
+   "pos": "noun",
+   "group": "may",
+   "note": "The book also writes púnong-kahoy."
+  },
+  {
+   "id": "labas-l12",
+   "tl": "labás",
+   "en": "outside",
+   "pos": "noun",
+   "group": "may",
+   "say": "la-BAS"
+  },
+  {
+   "id": "kulungan",
+   "tl": "kúlúngan",
+   "en": "cage",
+   "pos": "noun",
+   "group": "may"
+  },
+  {
+   "id": "trabaho",
+   "tl": "trabáho",
+   "en": "job",
+   "pos": "noun",
+   "group": "may",
+   "say": "tra-BA-ho"
+  },
+  {
+   "id": "natutulog",
+   "tl": "natutúlog",
+   "en": "sleeping",
+   "pos": "verb",
+   "group": "may",
+   "say": "na-tu-TU-log"
+  },
+  {
+   "id": "mabuto",
+   "tl": "mabutó",
+   "en": "bony (literally, having many bones)",
+   "pos": "adj",
+   "group": "may",
+   "say": "ma-bu-TO"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Which word means \"there is / there are\" and \"has / have\" and goes straight before a noun?",
+   "options": [
+    "may",
+    "walâ",
+    "hindî"
+   ],
+   "answer": "may",
+   "explain": "May + noun: May táo sa labás."
+  },
+  {
+   "type": "choice",
+   "q": "What is the short form of mayroón?",
+   "options": [
+    "meron",
+    "may",
+    "mga"
+   ],
+   "answer": "meron",
+   "explain": "Mayroón may be shortened to meron."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: Ako ay ___ mabaít na anák.",
+   "options": [
+    "may",
+    "mayroón"
+   ],
+   "answer": "may",
+   "explain": "Mabaít is an adjective, so may comes right before it."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: ___ bang aklát si John?",
+   "options": [
+    "Mayroón",
+    "May"
+   ],
+   "answer": "Mayroón",
+   "explain": "Mayroón is followed by a short word like ba (bang)."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: ___ pera ba kayó?",
+   "options": [
+    "May",
+    "Mayroón"
+   ],
+   "answer": "May",
+   "explain": "Pera is a noun, so may comes right before it."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: ___ kamíng masayáng búhay.",
+   "options": [
+    "Mayroón",
+    "May"
+   ],
+   "answer": "Mayroón",
+   "explain": "Mayroón is followed by a pronoun with -ng (kamíng)."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: ___ kumakáing batà sa silíd.",
+   "options": [
+    "May",
+    "Mayroón"
+   ],
+   "answer": "May",
+   "explain": "May can be followed straight by a verb."
+  },
+  {
+   "type": "choice",
+   "q": "Turn into a mayroón sentence: May báhay kamí sa Maynilà.",
+   "options": [
+    "Mayroón kamíng báhay sa Maynilà.",
+    "Mayroón báhay kamí sa Maynilà.",
+    "Mayroón kamí báhay sa Maynilà."
+   ],
+   "answer": "Mayroón kamíng báhay sa Maynilà.",
+   "explain": "Mayroón + pronoun + -ng + noun."
+  },
+  {
+   "type": "choice",
+   "q": "In \"Meron ka bang bágong aklát?\", which short word takes the ligature?",
+   "options": [
+    "ba (bang)",
+    "ka (kang)",
+    "meron (merong)"
+   ],
+   "answer": "ba (bang)",
+   "explain": "The ligature goes on the short word nearest to the noun or adjective."
+  },
+  {
+   "type": "choice",
+   "q": "May kótse ba silá? How do you answer \"none\"?",
+   "options": [
+    "Walâ.",
+    "Hindî.",
+    "May."
+   ],
+   "answer": "Walâ.",
+   "explain": "Hindî is an incorrect answer to a may or mayroón question."
+  },
+  {
+   "type": "choice",
+   "q": "How do you say \"There is no one outside\"?",
+   "options": [
+    "Walâng táo sa labás.",
+    "Hindî táo sa labás.",
+    "Walâ táo sa labás."
+   ],
+   "answer": "Walâng táo sa labás.",
+   "explain": "Walâ takes -ng before a noun."
+  },
+  {
+   "type": "choice",
+   "q": "How do you say \"I do not have a friend in Quezon\"?",
+   "options": [
+    "Walâ akóng kaibígan sa Quezon.",
+    "May kaibígan ako sa Quezon City.",
+    "Walâng táo sa labás."
+   ],
+   "answer": "Walâ akóng kaibígan sa Quezon.",
+   "explain": "The -ng goes on the pronoun after walâ."
+  },
+  {
+   "type": "choice",
+   "q": "For more than one thing, may is followed by…",
+   "options": [
+    "mga, then the noun",
+    "the noun, then mga",
+    "ng"
+   ],
+   "answer": "mga, then the noun",
+   "explain": "May mga tao sa labás."
+  },
+  {
+   "type": "choice",
+   "q": "The ma- in mataás (tall) is a short form of…",
+   "options": [
+    "may",
+    "mga",
+    "mayroón"
+   ],
+   "answer": "may",
+   "explain": "Mataás comes from may taás, literally there is height."
+  },
+  {
+   "type": "choice",
+   "q": "With a concrete noun, like bones, ma- means…",
+   "options": [
+    "having many",
+    "there is no",
+    "very"
+   ],
+   "answer": "having many",
+   "explain": "Mabutó: bony, literally having many bones."
+  },
+  {
+   "type": "choice",
+   "q": "\"Walâ ka bang pagkáin?\" means…",
+   "options": [
+    "Don't you have food?",
+    "Do you have food?",
+    "There is food."
+   ],
+   "answer": "Don't you have food?",
+   "explain": "Walâ turns a positive question into a negative one."
+  },
+  {
+   "type": "listen",
+   "tl": "Walâ.",
+   "options": [
+    "None.",
+    "Yes.",
+    "There is."
+   ],
+   "answer": "None.",
+   "explain": "Walâ on its own means none."
+  },
+  {
+   "type": "listen",
+   "tl": "May táo sa labás.",
+   "options": [
+    "There is someone outside.",
+    "There is no one outside.",
+    "The person is big."
+   ],
+   "answer": "There is someone outside.",
+   "explain": "May + noun shows existence."
+  },
+  {
+   "type": "listen",
+   "tl": "silíd",
+   "options": [
+    "room",
+    "cage",
+    "job"
+   ],
+   "answer": "room",
+   "explain": "Silíd means room."
+  },
+  {
+   "type": "build",
+   "en": "There is someone outside.",
+   "tl": "May táo sa labás.",
+   "tokens": [
+    "may",
+    "táo",
+    "sa",
+    "labás"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "We have a house in Manila.",
+   "tl": "Mayroón kamíng báhay sa Maynilà.",
+   "tokens": [
+    "mayroón",
+    "kamíng",
+    "báhay",
+    "sa",
+    "maynilà"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "I have a friend in Quezon City.",
+   "tl": "May kaibígan ako sa Quezon City.",
+   "tokens": [
+    "may",
+    "kaibígan",
+    "ako",
+    "sa",
+    "quezon city"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "There are men outside.",
+   "tl": "May mga tao sa labás.",
+   "tokens": [
+    "may",
+    "mga",
+    "tao",
+    "sa",
+    "labás"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Do you have food?",
+   "tl": "Mayroón ka bang pagkáin?",
+   "tokens": [
+    "mayroón",
+    "ka",
+    "bang",
+    "pagkáin"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "There is a person sleeping in the room.",
+   "tl": "May natutúlog na táo sa silíd.",
+   "tokens": [
+    "may",
+    "natutúlog",
+    "na",
+    "táo",
+    "sa",
+    "silíd"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "They do not have trees.",
+   "tl": "Walâ siláng mga púnong-kahoy.",
+   "tokens": [
+    "walâ",
+    "siláng",
+    "mga",
+    "púnong-kahoy"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match the Tagalog to the English.",
+   "pairs": [
+    [
+     "may",
+     "there is / has"
+    ],
+    [
+     "walâ",
+     "none"
+    ],
+    [
+     "silíd",
+     "room"
+    ],
+    [
+     "kúlúngan",
+     "cage"
+    ],
+    [
+     "trabáho",
+     "job"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each word to what comes right after it.",
+   "pairs": [
+    [
+     "may",
+     "a noun, adjective, number, mga or verb"
+    ],
+    [
+     "mayroón",
+     "a short word or a pronoun"
+    ],
+    [
+     "walâ (at the start)",
+     "a pronoun or short word + -ng"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "May and mayroón show that something exists (there is/are) or is owned (has/have).",
+  "May comes straight before a noun, adjective, number, mga or verb.",
+  "Mayroón (meron) comes before short words like ka, pa, ba or a pronoun, and the nearest one takes -ng.",
+  "Walâ means there is no, does not have, or none: Walâ akóng kaibígan. Walâng táo sa labás.",
+  "Answer may and mayroón questions with mayroón or walâ, never hindî.",
+  "The ma- prefix is a short may: mataás = may taás."
+ ]
+}

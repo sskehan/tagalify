@@ -1,0 +1,2012 @@
+{
+ "id": "l15",
+ "label": "15",
+ "title": "-In- verb forms",
+ "summary": "Passive verbs that put the spotlight on the thing acted upon: alisín, basáhin, kánin…",
+ "minutes": 40,
+ "goals": [
+  "Understand how -in- (passive) verbs differ from -um- and mag- (active) verbs",
+  "Build the infinitive, imperative, past, present and future of an -in- verb",
+  "Choose between the suffix -in and its alternant -hin",
+  "Recognise the irregular -in- verbs (bilhín, kánin, dalhín, nilutò…)",
+  "Build a passive sentence: verb + doer (possessive form) + object"
+ ],
+ "sections": [
+  {
+   "title": "Active and passive",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The **-um-** and **mag-** verbs from Lesson 14 are **active**: they put the emphasis on the **doer** of the action, or on the action itself."
+    },
+    {
+     "type": "p",
+     "t": "The **-in-** verbs are **passive**: they put the emphasis on the **object**, the thing that **receives** the action. That receiver then becomes the **subject** of the sentence. An -in- verb shows the action happening to the subject, and the doer does not even have to be named."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Bumása ako ng libró.",
+       "en": "I read a book.",
+       "parts": [
+        [
+         "Bumása",
+         "read (active)",
+         "pred"
+        ],
+        [
+         "ako",
+         "I",
+         "pron"
+        ],
+        [
+         "ng",
+         "a",
+         "marker"
+        ],
+        [
+         "libró",
+         "book",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Bumása ako.",
+       "en": "I read.",
+       "parts": [
+        [
+         "Bumása",
+         "read (active)",
+         "pred"
+        ],
+        [
+         "ako",
+         "I",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Binása ko ang libró.",
+       "en": "I read the book.",
+       "parts": [
+        [
+         "Binása",
+         "was read (passive)",
+         "pred"
+        ],
+        [
+         "ko",
+         "by me",
+         "poss"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "libró",
+         "book",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "The same idea, two ways"
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "The main difference",
+     "items": [
+      "With the active verb, the object is **not needed**: *Bumása ako* (I read) is a full sentence.",
+      "With the passive -in- verb, the object (**ang libró**) is **necessary** and cannot be left out.",
+      "In the passive sentence the emphasis is on the object (**ang libró**), not on the doer (**ko**).",
+      "Tagalogs generally **prefer the -in- form**."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "Passive in English",
+     "t": "English has passives too: *The book was read by me.* Tagalog uses them far more often than English does, so you will often translate an -in- sentence back into a normal active English sentence (*I read the book*)."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "-in and -hin",
+     "t": "The ending **-hin** is simply another form (the book calls it an **alternant**) of **-in**. Section 3 shows when each one is used."
+    }
+   ]
+  },
+  {
+   "title": "Forming the tenses",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "An -in- verb has five forms: the **infinitive** (to do), the **imperative** (a command), and three tenses: **past**, **present** and **future**. Where the -in- goes depends on how the root word begins and ends."
+    },
+    {
+     "type": "h",
+     "t": "I. A root beginning with a vowel"
+    },
+    {
+     "type": "p",
+     "t": "**-in** is added either at the **end** or at the **front** of the root, depending on the tense."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Tagalog",
+      "How it is made",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[alís|pred]]",
+       "",
+       "remove"
+      ],
+      [
+       "Infinitive",
+       "[[alisín|pred]]",
+       "root + suffix -in",
+       "to remove"
+      ],
+      [
+       "Imperative",
+       "[[alisín|pred]]",
+       "root + suffix -in",
+       "(a command)"
+      ],
+      [
+       "Past",
+       "[[inalís|pred]]",
+       "prefix in- + root",
+       "was/were removed"
+      ],
+      [
+       "Present",
+       "[[ináalis|pred]]",
+       "prefix in- + root, with the first syllable doubled",
+       "is/are removing"
+      ],
+      [
+       "Future",
+       "[[áalisin|pred]]",
+       "doubled first syllable + root + suffix -in",
+       "will remove"
+      ]
+     ],
+     "title": "alís (remove)"
+    },
+    {
+     "type": "h",
+     "t": "II. A root beginning with a consonant and ending in a glottal catch"
+    },
+    {
+     "type": "p",
+     "t": "**-in-** is added either at the **end** or **after the first consonant**, depending on the tense. (The glottal catch is the fourth type of stress from Lesson 2, the one written with a circumflex ^.)"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Tagalog",
+      "How it is made",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[basâ|pred]]",
+       "",
+       "wet"
+      ],
+      [
+       "Infinitive",
+       "[[basaín|pred]]",
+       "root + suffix -in",
+       "to wet"
+      ],
+      [
+       "Imperative",
+       "[[basaín|pred]]",
+       "root + suffix -in",
+       "(a command)"
+      ],
+      [
+       "Past",
+       "[[binasâ|pred]]",
+       "infix -in- after the first consonant",
+       "wetted"
+      ],
+      [
+       "Present",
+       "[[binábasâ|pred]]",
+       "doubled first syllable, with -in- between the first consonant and the next vowel",
+       "is/are wetting"
+      ],
+      [
+       "Future",
+       "[[bábasaín|pred]]",
+       "doubled first syllable + root + suffix -in",
+       "will wet"
+      ]
+     ],
+     "title": "basâ (wet)"
+    },
+    {
+     "type": "h",
+     "t": "III. A root beginning with a consonant"
+    },
+    {
+     "type": "p",
+     "t": "**-in-** goes **after the first consonant**, but it becomes **-hin** when it is added at the **end** of the verb."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Tagalog",
+      "How it is made",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[bása|pred]]",
+       "",
+       "read"
+      ],
+      [
+       "Infinitive",
+       "[[basáhin|pred]]",
+       "root + alternant suffix -hin",
+       "to read"
+      ],
+      [
+       "Imperative",
+       "[[basáhin|pred]]",
+       "root + alternant suffix -hin",
+       "(a command)"
+      ],
+      [
+       "Past",
+       "[[binása|pred]]",
+       "infix -in- after the first consonant",
+       "read"
+      ],
+      [
+       "Present",
+       "[[binábasa|pred]]",
+       "doubled first syllable, with -in- between the first consonant and the next vowel",
+       "is/are reading"
+      ],
+      [
+       "Future",
+       "[[babasahín|pred]]",
+       "doubled first syllable + root + suffix -hin",
+       "will read"
+      ]
+     ],
+     "title": "bása (read)"
+    },
+    {
+     "type": "pattern",
+     "title": "How bása becomes binása and binábasa",
+     "rows": [
+      {
+       "label": "Past",
+       "chips": [
+        {
+         "t": "b",
+         "r": "other"
+        },
+        {
+         "t": "in",
+         "r": "pred"
+        },
+        {
+         "t": "ása",
+         "r": "other"
+        }
+       ]
+      },
+      {
+       "label": "Present",
+       "chips": [
+        {
+         "t": "b",
+         "r": "other"
+        },
+        {
+         "t": "in",
+         "r": "pred"
+        },
+        {
+         "t": "á",
+         "r": "other"
+        },
+        {
+         "t": "basa",
+         "r": "other"
+        }
+       ]
+      },
+      {
+       "label": "Future",
+       "chips": [
+        {
+         "t": "ba",
+         "r": "other"
+        },
+        {
+         "t": "basa",
+         "r": "other"
+        },
+        {
+         "t": "hín",
+         "r": "pred"
+        }
+       ]
+      }
+     ],
+     "note": "-in- slips in after the first consonant; the present and future double the first syllable."
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "A pattern you already know",
+     "items": [
+      "**Infinitive and imperative** look the same: the root plus **-in** or **-hin**.",
+      "**Past**: -in- is put in (in front of a vowel, or after the first consonant). Nothing is doubled.",
+      "**Present**: like the past, but the first syllable is **doubled**.",
+      "**Future**: the first syllable is **doubled**, and **-in/-hin** goes on the end."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Spellings in the book",
+     "t": "The book prints the future of bása as **babasahín** in this table, but as **Bábasahin** in its sample sentences."
+    }
+   ]
+  },
+  {
+   "title": "-in or -hin? The conventions",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**-in** is usually the suffix, and its alternant **-hin** takes its place in some cases. There are also irregular verbs that break these conventions."
+    },
+    {
+     "type": "h",
+     "t": "Regular verbs"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Rule",
+      "Root",
+      "-in- verb"
+     ],
+     "rows": [
+      [
+       "**-in** after a root that ends in a **consonant**",
+       "[[alís|pred]]  ·  [[pások|pred]]",
+       "[[alisín|pred]] (to remove)  ·  [[pasúkin|pred]] (to enter)"
+      ],
+      [
+       "**-in** after a root that ends in a **vowel with a glottal catch**",
+       "[[sirâ|pred]]  ·  [[punô|pred]]",
+       "[[sirain|pred]] (to break)  ·  [[punuin|pred]] (to fill)"
+      ],
+      [
+       "**-hin** after a root that ends in a **vowel without a glottal catch**",
+       "[[bása|pred]]  ·  [[bilí|pred]]  ·  [[sábi|pred]]",
+       "[[basáhin|pred]] (to read)  ·  [[bilhín|pred]] (to buy)  ·  [[sabíhin|pred]] (to tell)"
+      ]
+     ],
+     "title": "Which suffix?"
+    },
+    {
+     "type": "h",
+     "t": "Irregular verbs"
+    },
+    {
+     "type": "table",
+     "head": [
+      "What happens",
+      "Root",
+      "-in- verb"
+     ],
+     "rows": [
+      [
+       "1. The root is stressed on the **last syllable**: its final vowel is dropped before **-hin**.",
+       "[[bilí|pred]]  ·  [[dalá|pred]]",
+       "[[bilhín|pred]] (to buy)  ·  [[dalhín|pred]] (to bring)"
+      ],
+      [
+       "2. The last syllable is a **VC or CVC** syllable (Lesson 2) with **i** or **o**: that i or o is dropped before **-in**.",
+       "[[káin|pred]]  ·  [[sunód|pred]]  ·  [[dakíp|pred]]",
+       "[[kánin|pred]] (to eat)  ·  [[sundín|pred]] (to obey)  ·  [[dakpín|pred]] (to capture)"
+      ],
+      [
+       "3. The root begins with **l, w or y**: in the past and present the infix -in- becomes the prefix **ni-**.",
+       "[[lutò|pred]] (cook)  ·  [[walís|pred]] (sweep)  ·  [[yarì|pred]] (made of)",
+       "[[nilutò|pred]]  ·  [[niwalis|pred]]  ·  [[niyarì|pred]]"
+      ]
+     ],
+     "title": "Irregular -in- verbs"
+    },
+    {
+     "type": "pattern",
+     "title": "kain + -in",
+     "rows": [
+      {
+       "label": "Root",
+       "chips": [
+        {
+         "t": "ká",
+         "r": "other"
+        },
+        {
+         "t": "i",
+         "r": "other"
+        },
+        {
+         "t": "n",
+         "r": "other"
+        }
+       ]
+      },
+      {
+       "label": "Drop the i",
+       "chips": [
+        {
+         "t": "kán",
+         "r": "other"
+        },
+        {
+         "t": "in",
+         "r": "pred"
+        }
+       ]
+      }
+     ],
+     "note": "káin → kánin (to eat)"
+    },
+    {
+     "type": "h",
+     "t": "o changes to u"
+    },
+    {
+     "type": "p",
+     "t": "When the root's last syllable is **CVC with an o**, the **o changes to u** in the **infinitive, imperative and future**, and the verb then follows the regular pattern."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Root",
+      "Infinitive",
+      "Future"
+     ],
+     "rows": [
+      [
+       "[[gamót|pred]] (cure or treat)",
+       "[[gamutín|pred]]",
+       "[[gágamutín|pred]]"
+      ],
+      [
+       "[[inóm|pred]] (drink)",
+       "[[inumín|pred]]",
+       "[[iinumín|pred]]"
+      ]
+     ],
+     "title": "o → u"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Notice",
+     "t": "The present tense keeps the **o**: the sample sentences use **Ginágamot** (is being treated) from gamót."
+    }
+   ]
+  },
+  {
+   "title": "Common -in- verbs",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Here are the example -in- verbs from the book, each with its root. Tap a word to hear it."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Root",
+      "-in- verb",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "áwit",
+       "[[awítin|pred]]",
+       "to sing"
+      ],
+      [
+       "lutò",
+       "[[lutúin|pred]]",
+       "to cook (irregular)"
+      ],
+      [
+       "sábi",
+       "[[sabíhin|pred]]",
+       "to tell"
+      ],
+      [
+       "súlat",
+       "[[sulátin|pred]]",
+       "to write"
+      ],
+      [
+       "mahál",
+       "[[mahalín|pred]]",
+       "to love"
+      ],
+      [
+       "bágo",
+       "[[bagúhin|pred]]",
+       "to change"
+      ],
+      [
+       "larô",
+       "[[laruín|pred]]",
+       "to play"
+      ],
+      [
+       "gamót",
+       "[[gamutín|pred]]",
+       "to cure"
+      ],
+      [
+       "gísing",
+       "[[gisíngin|pred]]",
+       "to awaken"
+      ],
+      [
+       "inóm",
+       "[[inumín|pred]]",
+       "to drink"
+      ],
+      [
+       "táwag",
+       "[[tawágin|pred]]",
+       "to call"
+      ],
+      [
+       "káin",
+       "[[kánin|pred]]",
+       "to eat (irregular)"
+      ],
+      [
+       "dalá",
+       "[[dalhín|pred]]",
+       "to bring or carry (irregular)"
+      ],
+      [
+       "patáy",
+       "[[patayín|pred]]",
+       "to kill; to put out light or flame (colloquial)"
+      ],
+      [
+       "batì",
+       "[[batíin|pred]]",
+       "to greet"
+      ],
+      [
+       "púri",
+       "[[puríhin|pred]]",
+       "to praise"
+      ],
+      [
+       "linis",
+       "[[linísin|pred]]",
+       "to clean"
+      ],
+      [
+       "bílang",
+       "[[bilángin|pred]]",
+       "to count"
+      ]
+     ],
+     "title": "Examples of -in- verbs"
+    },
+    {
+     "type": "vocab",
+     "group": "verbs",
+     "title": "-In- verbs"
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More -in- verbs from the rules"
+    }
+   ]
+  },
+  {
+   "title": "Sentence patterns",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "In a sentence with an -in- verb, the **doer** is always in the **possessive form** (Lesson 8): for example **ni Peter**, **ng batâ**, **ko**, **niyá**, **iyó**, **kanyà**, **ákin**, **átin** and **kanilà** (spelled here as the book prints them in this list; Lesson 8 writes kaniyá and kanilá)."
+    },
+    {
+     "type": "p",
+     "t": "The doer can also be **kitá**. The book describes it as a pronoun that is equivalent to **ikaw** (you) and **ko** (I) together; the book glosses it as *we*. See example 4 below, where it means *for you by me*."
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "Word order",
+     "t": "The **verb** always comes **first**, followed immediately by the **doer**, then the **object**."
+    },
+    {
+     "type": "pattern",
+     "title": "Action + doer + object",
+     "rows": [
+      {
+       "label": "Pattern",
+       "chips": [
+        {
+         "t": "ACTION",
+         "r": "pred"
+        },
+        {
+         "t": "DOER (possessive form)",
+         "r": "poss"
+        },
+        {
+         "t": "OBJECT",
+         "r": "noun"
+        }
+       ]
+      },
+      {
+       "label": "Example",
+       "chips": [
+        {
+         "t": "Pinilî",
+         "r": "pred"
+        },
+        {
+         "t": "ng",
+         "r": "marker"
+        },
+        {
+         "t": "batà",
+         "r": "noun"
+        },
+        {
+         "t": "ang",
+         "r": "marker"
+        },
+        {
+         "t": "aklát",
+         "r": "noun"
+        }
+       ]
+      }
+     ],
+     "note": "Was chosen / by the child / the book = The child chose the book."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Pinilî ng batà ang aklát.",
+       "en": "Was chosen by the child the book. (The child chose the book.)",
+       "parts": [
+        [
+         "Pinilî",
+         "was chosen",
+         "pred"
+        ],
+        [
+         "ng",
+         "by",
+         "marker"
+        ],
+        [
+         "batà",
+         "the child",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "aklát",
+         "book",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Binása ko ang súlat.",
+       "en": "Was read by me the letter. (I read the letter.)",
+       "parts": [
+        [
+         "Binása",
+         "was read",
+         "pred"
+        ],
+        [
+         "ko",
+         "by me",
+         "poss"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "súlat",
+         "letter",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Kákanin ni Peter ang isdâ.",
+       "en": "Will be eaten by Peter the fish. (Peter will eat the fish.)",
+       "parts": [
+        [
+         "Kákanin",
+         "will be eaten",
+         "pred"
+        ],
+        [
+         "ni",
+         "by",
+         "marker"
+        ],
+        [
+         "Peter",
+         "Peter",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "isdâ",
+         "fish",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ibinilí kitá ng prútas.",
+       "en": "Was bought for you by me the fruit. (I bought you a fruit.)",
+       "parts": [
+        [
+         "Ibinilí",
+         "was bought",
+         "pred"
+        ],
+        [
+         "kitá",
+         "for you by me",
+         "pron"
+        ],
+        [
+         "ng",
+         "the",
+         "marker"
+        ],
+        [
+         "prútas",
+         "fruit",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Pattern sentences"
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "Reading the word-for-word line",
+     "t": "The book gives each sentence word for word first (*Was chosen / by the child / the book*) and then in normal English (*The child chose the book*). Reading the word-for-word line helps you feel the Tagalog order."
+    }
+   ]
+  },
+  {
+   "title": "Sample sentences",
+   "blocks": [
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Áawitin ng mga bata ang Báhay Kúbo.",
+       "en": "Báhay Kúbo will be sung by the children.",
+       "parts": [
+        [
+         "Áawitin",
+         "will be sung",
+         "pred"
+        ],
+        [
+         "ng",
+         "by",
+         "marker"
+        ],
+        [
+         "mga",
+         "plural marker",
+         "marker"
+        ],
+        [
+         "bata",
+         "child",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "Báhay",
+         "(song title)",
+         "noun"
+        ],
+        [
+         "Kúbo",
+         "(song title)",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ginágamot ng doktór ang áking sakít.",
+       "en": "My sickness is being treated by a doctor.",
+       "parts": [
+        [
+         "Ginágamot",
+         "is being treated",
+         "pred"
+        ],
+        [
+         "ng",
+         "by",
+         "marker"
+        ],
+        [
+         "doktór",
+         "a doctor",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "áking",
+         "my",
+         "poss"
+        ],
+        [
+         "sakít",
+         "sickness",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nilínis ni Marta ang kanilàng báhay.",
+       "en": "Their house is being cleaned by Marta.",
+       "parts": [
+        [
+         "Nilínis",
+         "cleaned",
+         "pred"
+        ],
+        [
+         "ni",
+         "by",
+         "marker"
+        ],
+        [
+         "Marta",
+         "Marta",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "kanilàng",
+         "their",
+         "poss"
+        ],
+        [
+         "báhay",
+         "house",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Lúlutuin ng katúlong ang gúlay.",
+       "en": "The vegetables will be cooked by the helper.",
+       "parts": [
+        [
+         "Lúlutuin",
+         "will be cooked",
+         "pred"
+        ],
+        [
+         "ng",
+         "by",
+         "marker"
+        ],
+        [
+         "katúlong",
+         "the helper",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "gúlay",
+         "vegetables",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Bábasahin ko ang aklát ni Dr. Rizal.",
+       "en": "The book by Dr. Rizal will be read by me.",
+       "parts": [
+        [
+         "Bábasahin",
+         "will be read",
+         "pred"
+        ],
+        [
+         "ko",
+         "by me",
+         "poss"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "aklát",
+         "book",
+         "noun"
+        ],
+        [
+         "ni",
+         "of, by",
+         "marker"
+        ],
+        [
+         "Dr. Rizal",
+         "Dr. Rizal",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Kákanin ba nila ang mga ságing?",
+       "en": "Will the bananas be eaten by them?",
+       "parts": [
+        [
+         "Kákanin",
+         "will be eaten",
+         "pred"
+        ],
+        [
+         "ba",
+         "question word",
+         "part"
+        ],
+        [
+         "nila",
+         "by them",
+         "poss"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "mga",
+         "plural marker",
+         "marker"
+        ],
+        [
+         "ságing",
+         "bananas",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Áalisin niya ang kanyang sapátos.",
+       "en": "His/Her shoes will be removed by him/her.",
+       "parts": [
+        [
+         "Áalisin",
+         "will be removed",
+         "pred"
+        ],
+        [
+         "niya",
+         "by him/her",
+         "poss"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "kanyang",
+         "his/her",
+         "poss"
+        ],
+        [
+         "sapátos",
+         "shoes",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Dinádala namin ang aklát ng Tagalog sa páaralán.",
+       "en": "The Tagalog book is brought by us to school.",
+       "parts": [
+        [
+         "Dinádala",
+         "is brought",
+         "pred"
+        ],
+        [
+         "namin",
+         "by us",
+         "poss"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "aklát",
+         "book",
+         "noun"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "Tagalog",
+         "Tagalog",
+         "noun"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "páaralán",
+         "school",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Sinirà ni Lucio ang papél.",
+       "en": "The paper was torn by Lucio.",
+       "parts": [
+        [
+         "Sinirà",
+         "was torn",
+         "pred"
+        ],
+        [
+         "ni",
+         "by",
+         "marker"
+        ],
+        [
+         "Lucio",
+         "Lucio",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "papél",
+         "paper",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Bilángin natin ang pera.",
+       "en": "Let the money be counted by us.",
+       "parts": [
+        [
+         "Bilángin",
+         "let be counted",
+         "pred"
+        ],
+        [
+         "natin",
+         "by us",
+         "poss"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "pera",
+         "money",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Sample sentences"
+    },
+    {
+     "type": "h",
+     "t": "Find the tense"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Verb in the sentence",
+      "Root",
+      "Form"
+     ],
+     "rows": [
+      [
+       "[[Áawitin|pred]]",
+       "áwit",
+       "future (doubled first syllable + -in)"
+      ],
+      [
+       "[[Ginágamot|pred]]",
+       "gamót",
+       "present (-in- after g, doubled syllable)"
+      ],
+      [
+       "[[Nilínis|pred]]",
+       "linis",
+       "ni- because the root begins with l"
+      ],
+      [
+       "[[Lúlutuin|pred]]",
+       "lutò",
+       "future"
+      ],
+      [
+       "[[Bábasahin|pred]]",
+       "bása",
+       "future (-hin)"
+      ],
+      [
+       "[[Kákanin|pred]]",
+       "káin",
+       "future (irregular: kánin)"
+      ],
+      [
+       "[[Áalisin|pred]]",
+       "alís",
+       "future"
+      ],
+      [
+       "[[Dinádala|pred]]",
+       "dalá",
+       "present"
+      ],
+      [
+       "[[Sinirà|pred]]",
+       "sirâ",
+       "past (-in- after s)"
+      ],
+      [
+       "[[Bilángin|pred]]",
+       "bílang",
+       "infinitive/imperative form, used as *let… be counted*"
+      ]
+     ],
+     "title": "How each verb was built"
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "One translation to watch",
+     "t": "By the lesson's own rules, **Nilínis** (ni- + linis, no doubled syllable) has the shape of a **past** form, but the book translates the sentence as *is being cleaned*."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Spellings in the book",
+     "t": "The exercise page reprints some of these sentences slightly differently: **Lulutuin ng katúlong ang gulay**, **Kákanin ba nilá ang mga ságing?**, **Aalisín niyá ang kanyang sapátos** and **Dinádala námin ang aklát ng Tagalog sa páaralán**."
+    },
+    {
+     "type": "vocab",
+     "group": "words",
+     "title": "Words from the sentences"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "-in- verbs are passive: the object becomes the subject (with ang) and the doer takes the possessive form.",
+      "Word order: verb + doer + object.",
+      "Root with a vowel first: alisín, inalís, ináalis, áalisin.",
+      "Root with a consonant first: basáhin, binása, binábasa, babasahín.",
+      "-hin after a vowel without a glottal catch; -in after a consonant or a glottal catch.",
+      "Irregular: bilhín, dalhín, kánin, sundín, dakpín, and ni- before l, w, y (nilutò)."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "awitin-l15",
+   "tl": "awítin",
+   "en": "to sing",
+   "pos": "verb",
+   "group": "verbs",
+   "say": "a-WI-tin",
+   "note": "Root: áwit"
+  },
+  {
+   "id": "lutuin-l15",
+   "tl": "lutúin",
+   "en": "to cook (irregular)",
+   "pos": "verb",
+   "group": "verbs",
+   "say": "lu-TU-in",
+   "note": "Root: lutò. Past: nilutò"
+  },
+  {
+   "id": "sabihin-l15",
+   "tl": "sabíhin",
+   "en": "to tell",
+   "pos": "verb",
+   "group": "verbs",
+   "say": "sa-BI-hin",
+   "note": "Root: sábi. The exercises gloss it as to tell or say"
+  },
+  {
+   "id": "sulatin-l15",
+   "tl": "sulátin",
+   "en": "to write",
+   "pos": "verb",
+   "group": "verbs",
+   "say": "su-LA-tin",
+   "note": "Root: súlat"
+  },
+  {
+   "id": "mahalin-l15",
+   "tl": "mahalín",
+   "en": "to love",
+   "pos": "verb",
+   "group": "verbs",
+   "say": "ma-ha-LIN",
+   "note": "Root: mahál"
+  },
+  {
+   "id": "baguhin-l15",
+   "tl": "bagúhin",
+   "en": "to change",
+   "pos": "verb",
+   "group": "verbs",
+   "say": "ba-GU-hin",
+   "note": "Root: bágo. The book also writes baguhin"
+  },
+  {
+   "id": "laruin-l15",
+   "tl": "laruín",
+   "en": "to play",
+   "pos": "verb",
+   "group": "verbs",
+   "say": "la-ru-IN",
+   "note": "Root: larô"
+  },
+  {
+   "id": "gamutin-l15",
+   "tl": "gamutín",
+   "en": "to cure",
+   "pos": "verb",
+   "group": "verbs",
+   "say": "ga-mu-TIN",
+   "note": "Root: gamót (cure or treat). Future: gágamutín"
+  },
+  {
+   "id": "gisingin-l15",
+   "tl": "gisíngin",
+   "en": "to awaken",
+   "pos": "verb",
+   "group": "verbs",
+   "say": "gi-SI-ngin",
+   "note": "Root: gísing"
+  },
+  {
+   "id": "inumin-l15",
+   "tl": "inumín",
+   "en": "to drink",
+   "pos": "verb",
+   "group": "verbs",
+   "say": "i-nu-MIN",
+   "note": "Root: inóm. Future: iinumín"
+  },
+  {
+   "id": "tawagin-l15",
+   "tl": "tawágin",
+   "en": "to call",
+   "pos": "verb",
+   "group": "verbs",
+   "say": "ta-WA-gin",
+   "note": "Root: táwag"
+  },
+  {
+   "id": "kanin-l15",
+   "tl": "kánin",
+   "en": "to eat (irregular)",
+   "pos": "verb",
+   "group": "verbs",
+   "say": "KA-nin",
+   "note": "Root: káin"
+  },
+  {
+   "id": "dalhin-l15",
+   "tl": "dalhín",
+   "en": "to bring or carry (irregular)",
+   "pos": "verb",
+   "group": "verbs",
+   "say": "dal-HIN",
+   "note": "Root: dalá"
+  },
+  {
+   "id": "patayin-l15",
+   "tl": "patayín",
+   "en": "to kill; to put out light or flame (colloquial)",
+   "pos": "verb",
+   "group": "verbs",
+   "say": "pa-ta-YIN",
+   "note": "Root: patáy"
+  },
+  {
+   "id": "batiin-l15",
+   "tl": "batíin",
+   "en": "to greet",
+   "pos": "verb",
+   "group": "verbs",
+   "say": "ba-TI-in",
+   "note": "Root: batì"
+  },
+  {
+   "id": "purihin-l15",
+   "tl": "puríhin",
+   "en": "to praise",
+   "pos": "verb",
+   "group": "verbs",
+   "say": "pu-RI-hin",
+   "note": "Root: púri"
+  },
+  {
+   "id": "linisin-l15",
+   "tl": "linísin",
+   "en": "to clean",
+   "pos": "verb",
+   "group": "verbs",
+   "say": "li-NI-sin",
+   "note": "Root: linis"
+  },
+  {
+   "id": "bilangin-l15",
+   "tl": "bilángin",
+   "en": "to count",
+   "pos": "verb",
+   "group": "verbs",
+   "say": "bi-LA-ngin",
+   "note": "Root: bílang"
+  },
+  {
+   "id": "alisin-l15",
+   "tl": "alisín",
+   "en": "to remove",
+   "pos": "verb",
+   "group": "more",
+   "say": "a-li-SIN",
+   "note": "Root: alís (remove). Past inalís, present ináalis, future áalisin"
+  },
+  {
+   "id": "basain-l15",
+   "tl": "basaín",
+   "en": "to wet",
+   "pos": "verb",
+   "group": "more",
+   "say": "ba-sa-IN",
+   "note": "Root: basâ (wet). Past binasâ, present binábasâ, future bábasaín"
+  },
+  {
+   "id": "basahin-l15",
+   "tl": "basáhin",
+   "en": "to read",
+   "pos": "verb",
+   "group": "more",
+   "say": "ba-SA-hin",
+   "note": "Root: bása (read). Past binása, present binábasa, future babasahín"
+  },
+  {
+   "id": "bilhin-l15",
+   "tl": "bilhín",
+   "en": "to buy",
+   "pos": "verb",
+   "group": "more",
+   "say": "bil-HIN",
+   "note": "Root: bilí (irregular)"
+  },
+  {
+   "id": "sirain-l15",
+   "tl": "sirain",
+   "en": "to break",
+   "pos": "verb",
+   "group": "more",
+   "note": "Root: sirâ"
+  },
+  {
+   "id": "punuin-l15",
+   "tl": "punuin",
+   "en": "to fill",
+   "pos": "verb",
+   "group": "more",
+   "note": "Root: punô"
+  },
+  {
+   "id": "sundin-l15",
+   "tl": "sundín",
+   "en": "to obey",
+   "pos": "verb",
+   "group": "more",
+   "say": "sun-DIN",
+   "note": "Root: sunód (irregular)"
+  },
+  {
+   "id": "dakpin-l15",
+   "tl": "dakpín",
+   "en": "to capture",
+   "pos": "verb",
+   "group": "more",
+   "say": "dak-PIN",
+   "note": "Root: dakíp (irregular)"
+  },
+  {
+   "id": "pasukin-l15",
+   "tl": "pasúkin",
+   "en": "to enter",
+   "pos": "verb",
+   "group": "more",
+   "say": "pa-SU-kin",
+   "note": "Root: pások"
+  },
+  {
+   "id": "kita-l15",
+   "tl": "kitá",
+   "en": "we (a pronoun equivalent to ikaw, you, and ko, I)",
+   "pos": "pron",
+   "group": "words",
+   "say": "ki-TA",
+   "note": "The book also writes kita. In Ibinilí kitá ng prútas it means for you by me: I bought you a fruit"
+  },
+  {
+   "id": "katulong-l15",
+   "tl": "katúlong",
+   "en": "helper",
+   "pos": "noun",
+   "group": "words",
+   "say": "ka-TU-long"
+  },
+  {
+   "id": "sakit-l15",
+   "tl": "sakít",
+   "en": "sickness",
+   "pos": "noun",
+   "group": "words",
+   "say": "sa-KIT"
+  },
+  {
+   "id": "doktor-l15",
+   "tl": "doktór",
+   "en": "doctor",
+   "pos": "noun",
+   "group": "words",
+   "say": "dok-TOR"
+  },
+  {
+   "id": "saging-l15",
+   "tl": "ságing",
+   "en": "banana",
+   "pos": "noun",
+   "group": "words",
+   "say": "SA-ging"
+  },
+  {
+   "id": "prutas-l15",
+   "tl": "prútas",
+   "en": "fruit",
+   "pos": "noun",
+   "group": "words",
+   "say": "PRU-tas"
+  },
+  {
+   "id": "pera-l15",
+   "tl": "pera",
+   "en": "money",
+   "pos": "noun",
+   "group": "words"
+  },
+  {
+   "id": "sulat-l15",
+   "tl": "súlat",
+   "en": "letter",
+   "pos": "noun",
+   "group": "words",
+   "say": "SU-lat",
+   "note": "Also the root of sulátin, to write"
+  },
+  {
+   "id": "manok-l15",
+   "tl": "manók",
+   "en": "chicken",
+   "pos": "noun",
+   "group": "words",
+   "say": "ma-NOK"
+  },
+  {
+   "id": "kundiman-l15",
+   "tl": "kundiman",
+   "en": "a Tagalog love song",
+   "pos": "noun",
+   "group": "words"
+  },
+  {
+   "id": "pahayagan-l15",
+   "tl": "páhayagan",
+   "en": "newspaper",
+   "pos": "noun",
+   "group": "words",
+   "say": "PA-ha-ya-gan"
+  },
+  {
+   "id": "patintero-l15",
+   "tl": "patintero",
+   "en": "a native game",
+   "pos": "noun",
+   "group": "words"
+  },
+  {
+   "id": "ilaw-l15",
+   "tl": "ilaw",
+   "en": "light",
+   "pos": "noun",
+   "group": "words"
+  },
+  {
+   "id": "magsasaka-l15",
+   "tl": "magsasaká",
+   "en": "farmer",
+   "pos": "noun",
+   "group": "words",
+   "say": "mag-sa-sa-KA"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Which kind of verb puts the emphasis on the object (the receiver of the action)?",
+   "options": [
+    "-in- verbs",
+    "-um- verbs",
+    "mag- verbs"
+   ],
+   "answer": "-in- verbs",
+   "explain": "-In- verbs are passive: the receiver becomes the subject."
+  },
+  {
+   "type": "choice",
+   "q": "In \"Binása ko ang libró\", who is the doer?",
+   "options": [
+    "ko (I)",
+    "ang libró (the book)",
+    "binása"
+   ],
+   "answer": "ko (I)",
+   "explain": "The doer is in the possessive form: ko. The object ang libró is the subject."
+  },
+  {
+   "type": "choice",
+   "q": "Which sentence must have its object?",
+   "options": [
+    "Binása ko ang libró.",
+    "Bumása ako ng libró."
+   ],
+   "answer": "Binása ko ang libró.",
+   "explain": "With an -in- verb the object cannot be left out. Bumása ako on its own is fine."
+  },
+  {
+   "type": "choice",
+   "q": "What is the infinitive of alís (remove)?",
+   "options": [
+    "alisín",
+    "inalís",
+    "áalisin"
+   ],
+   "answer": "alisín",
+   "explain": "Root + suffix -in."
+  },
+  {
+   "type": "choice",
+   "q": "Which form of alís means \"was/were removed\"?",
+   "options": [
+    "inalís",
+    "ináalis",
+    "alisín"
+   ],
+   "answer": "inalís",
+   "explain": "Past: prefix in- + root."
+  },
+  {
+   "type": "choice",
+   "q": "Which form of bása means \"is/are reading\"?",
+   "options": [
+    "binábasa",
+    "binása",
+    "basáhin"
+   ],
+   "answer": "binábasa",
+   "explain": "Present: -in- after the first consonant plus a doubled first syllable."
+  },
+  {
+   "type": "choice",
+   "q": "What is the past of basâ (wet)?",
+   "options": [
+    "binasâ",
+    "basaín",
+    "bábasaín"
+   ],
+   "answer": "binasâ",
+   "explain": "Infix -in- after the first consonant."
+  },
+  {
+   "type": "choice",
+   "q": "Why is it basáhin and not basain?",
+   "options": [
+    "bása ends in a vowel without a glottal catch",
+    "bása ends in a consonant",
+    "bása begins with a vowel"
+   ],
+   "answer": "bása ends in a vowel without a glottal catch",
+   "explain": "-Hin is used after a vowel without a glottal catch."
+  },
+  {
+   "type": "choice",
+   "q": "Why is it sirain (to break) with -in?",
+   "options": [
+    "sirâ ends in a vowel with a glottal catch",
+    "sirâ ends in a consonant",
+    "it is irregular"
+   ],
+   "answer": "sirâ ends in a vowel with a glottal catch",
+   "explain": "-In follows a vowel with a glottal catch."
+  },
+  {
+   "type": "choice",
+   "q": "Which verb drops the final vowel of its root before -hin?",
+   "options": [
+    "bilhín (from bilí)",
+    "basáhin (from bása)",
+    "sabíhin (from sábi)"
+   ],
+   "answer": "bilhín (from bilí)",
+   "explain": "Bilí is stressed on the last syllable, so its final vowel drops: bilhín."
+  },
+  {
+   "type": "choice",
+   "q": "Which verb drops the i of its root's last syllable before -in?",
+   "options": [
+    "kánin (from káin)",
+    "linísin (from linis)",
+    "gisíngin (from gísing)"
+   ],
+   "answer": "kánin (from káin)",
+   "explain": "Káin ends in a VC syllable with i, so the i is dropped: kánin."
+  },
+  {
+   "type": "choice",
+   "q": "Which verbs take ni- in the past and present?",
+   "options": [
+    "Roots beginning with l, w or y",
+    "Roots ending in a glottal catch",
+    "Roots beginning with a vowel"
+   ],
+   "answer": "Roots beginning with l, w or y",
+   "explain": "lutò → nilutò, walís → niwalis, yarì → niyarì."
+  },
+  {
+   "type": "choice",
+   "q": "In which verb has the o of the root changed to u?",
+   "options": [
+    "inumín (from inóm)",
+    "awítin (from áwit)",
+    "tawágin (from táwag)"
+   ],
+   "answer": "inumín (from inóm)",
+   "explain": "In a CVC last syllable, o changes to u: inumín, future iinumín."
+  },
+  {
+   "type": "choice",
+   "q": "In an -in- sentence, what comes first?",
+   "options": [
+    "The verb",
+    "The doer",
+    "The object"
+   ],
+   "answer": "The verb",
+   "explain": "Verb, then doer, then object."
+  },
+  {
+   "type": "choice",
+   "q": "\"Kákanin ni Peter ang isdâ\" means…",
+   "options": [
+    "Peter will eat the fish.",
+    "Peter ate the fish.",
+    "Peter is eating the fish."
+   ],
+   "answer": "Peter will eat the fish.",
+   "explain": "Kákanin is the future (doubled first syllable)."
+  },
+  {
+   "type": "choice",
+   "q": "\"Sinirà ni Lucio ang papél\" means…",
+   "options": [
+    "The paper was torn by Lucio.",
+    "The paper will be torn by Lucio.",
+    "Lucio is tearing the paper."
+   ],
+   "answer": "The paper was torn by Lucio.",
+   "explain": "Sinirà is the past of sirâ."
+  },
+  {
+   "type": "listen",
+   "tl": "tawágin",
+   "options": [
+    "to call",
+    "to sing",
+    "to praise"
+   ],
+   "answer": "to call",
+   "explain": "Root: táwag."
+  },
+  {
+   "type": "listen",
+   "tl": "puríhin",
+   "options": [
+    "to praise",
+    "to greet",
+    "to count"
+   ],
+   "answer": "to praise",
+   "explain": "Root: púri."
+  },
+  {
+   "type": "listen",
+   "tl": "dalhín",
+   "options": [
+    "to bring or carry",
+    "to drink",
+    "to clean"
+   ],
+   "answer": "to bring or carry",
+   "explain": "Irregular, from dalá."
+  },
+  {
+   "type": "listen",
+   "tl": "gisíngin",
+   "options": [
+    "to awaken",
+    "to change",
+    "to write"
+   ],
+   "answer": "to awaken",
+   "explain": "Root: gísing."
+  },
+  {
+   "type": "build",
+   "en": "I read the book.",
+   "tl": "Binása ko ang libró.",
+   "tokens": [
+    "binása",
+    "ko",
+    "ang",
+    "libró"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The child chose the book.",
+   "tl": "Pinilî ng batà ang aklát.",
+   "tokens": [
+    "pinilî",
+    "ng",
+    "batà",
+    "ang",
+    "aklát"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "I read the letter.",
+   "tl": "Binása ko ang súlat.",
+   "tokens": [
+    "binása",
+    "ko",
+    "ang",
+    "súlat"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "My sickness is being treated by a doctor.",
+   "tl": "Ginágamot ng doktór ang áking sakít.",
+   "tokens": [
+    "ginágamot",
+    "ng",
+    "doktór",
+    "ang",
+    "áking",
+    "sakít"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The vegetables will be cooked by the helper.",
+   "tl": "Lúlutuin ng katúlong ang gúlay.",
+   "tokens": [
+    "lúlutuin",
+    "ng",
+    "katúlong",
+    "ang",
+    "gúlay"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Will the bananas be eaten by them?",
+   "tl": "Kákanin ba nila ang mga ságing?",
+   "tokens": [
+    "kákanin",
+    "ba",
+    "nila",
+    "ang",
+    "mga",
+    "ságing"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Let the money be counted by us.",
+   "tl": "Bilángin natin ang pera.",
+   "tokens": [
+    "bilángin",
+    "natin",
+    "ang",
+    "pera"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match each root to its -in- verb.",
+   "pairs": [
+    [
+     "áwit",
+     "awítin"
+    ],
+    [
+     "súlat",
+     "sulátin"
+    ],
+    [
+     "mahál",
+     "mahalín"
+    ],
+    [
+     "linis",
+     "linísin"
+    ],
+    [
+     "bílang",
+     "bilángin"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each form of alís to its tense.",
+   "pairs": [
+    [
+     "alisín",
+     "infinitive / imperative"
+    ],
+    [
+     "inalís",
+     "past"
+    ],
+    [
+     "ináalis",
+     "present"
+    ],
+    [
+     "áalisin",
+     "future"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "-In- verbs are passive: the receiver of the action becomes the subject (ang), and the doer takes the possessive form (ko, ni Peter, ng batà).",
+  "Word order: verb + doer + object. Binása ko ang súlat. (I read the letter.)",
+  "Tenses: alisín / inalís / ináalis / áalisin and basáhin / binása / binábasa / babasahín.",
+  "-hin after a vowel without a glottal catch (basáhin); -in after a consonant or a glottal catch (alisín, sirain).",
+  "Irregular: bilhín, dalhín, kánin, sundín, dakpín; ni- before l, w, y (nilutò); o → u (gamutín, inumín)."
+ ]
+}

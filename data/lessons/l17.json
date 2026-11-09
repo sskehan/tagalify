@@ -1,0 +1,1420 @@
+{
+ "id": "l17",
+ "label": "17",
+ "title": "Pseudo verbs: dápat, gustó and others",
+ "summary": "Must, can, need, like and don't like: dápat, maáarì, puwéde, kailángan, ibig, gustó and áyaw",
+ "minutes": 35,
+ "goals": [
+  "Know the meanings of the pseudo verbs dápat, maáarì, puwéde, kailángan, ibig, gustó and áyaw",
+  "Use only the infinitive form of the main verb after a pseudo verb",
+  "Put ko or mo between ibig/gustó and the main verb",
+  "Choose a nominative pronoun (akó, siyá) or a possessive pronoun (niyá) for the other pseudo verbs",
+  "Know when a ligature is needed"
+ ],
+ "sections": [
+  {
+   "title": "What pseudo verbs do",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Pseudo verbs** go with a main (principal) verb. They shift its meaning to show that an action **should** or **should not** have been done, or **can** or **cannot** be carried out, and so on. The English helpers *must, can, need to* and *like to* do a similar job."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Pseudo verb",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[dápat|pred]]",
+       "must, should, would, has/have to"
+      ],
+      [
+       "[[maáarì|pred]] or [[puwéde|pred]]",
+       "can, may, could"
+      ],
+      [
+       "[[kailángan|pred]]",
+       "needs to, is necessary to"
+      ],
+      [
+       "[[ibig|pred]] or [[gustó|pred]]",
+       "likes, desires, wants"
+      ],
+      [
+       "[[áyaw|pred]]",
+       "does not like"
+      ]
+     ],
+     "title": "The pseudo verbs"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Dápat kumáin ng gúlay ang mga batà.",
+       "en": "The children should eat [their] vegetables.",
+       "parts": [
+        [
+         "Dápat",
+         "should",
+         "pred"
+        ],
+        [
+         "kumáin",
+         "eat",
+         "pred"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "gúlay",
+         "vegetables",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "mga",
+         "plural marker",
+         "marker"
+        ],
+        [
+         "batà",
+         "children",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Puwédeng lutúin ang báka.",
+       "en": "(You) may cook the beef.",
+       "parts": [
+        [
+         "Puwédeng",
+         "may +ng",
+         "pred"
+        ],
+        [
+         "lutúin",
+         "cook",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "báka",
+         "beef",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Maáarì kayóng lumákad na.",
+       "en": "You (plural) may go already.",
+       "parts": [
+        [
+         "Maáarì",
+         "may",
+         "pred"
+        ],
+        [
+         "kayóng",
+         "you (plural) +ng",
+         "pron"
+        ],
+        [
+         "lumákad",
+         "go",
+         "pred"
+        ],
+        [
+         "na",
+         "already",
+         "part"
+        ]
+       ]
+      },
+      {
+       "tl": "Áyaw niláng uminóm ng gatas.",
+       "en": "They do not like to drink milk.",
+       "parts": [
+        [
+         "Áyaw",
+         "do not like",
+         "pred"
+        ],
+        [
+         "niláng",
+         "they +ng",
+         "poss"
+        ],
+        [
+         "uminóm",
+         "to drink",
+         "pred"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "gatas",
+         "milk",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Kailángang maligò tayo araw-araw.",
+       "en": "We need to take a bath everyday.",
+       "parts": [
+        [
+         "Kailángang",
+         "need +g",
+         "pred"
+        ],
+        [
+         "maligò",
+         "to take a bath",
+         "pred"
+        ],
+        [
+         "tayo",
+         "we",
+         "pron"
+        ],
+        [
+         "araw-araw",
+         "everyday",
+         "other"
+        ]
+       ]
+      },
+      {
+       "tl": "Ibig kong mag-áral ng Tagálog.",
+       "en": "I like to learn Tagalog.",
+       "parts": [
+        [
+         "Ibig",
+         "like",
+         "pred"
+        ],
+        [
+         "kong",
+         "I +ng",
+         "poss"
+        ],
+        [
+         "mag-áral",
+         "to learn",
+         "pred"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "Tagálog",
+         "Tagalog",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Gustó kong mag-áral ng Tagálog.",
+       "en": "I like to learn Tagalog.",
+       "parts": [
+        [
+         "Gustó",
+         "like",
+         "pred"
+        ],
+        [
+         "kong",
+         "I +ng",
+         "poss"
+        ],
+        [
+         "mag-áral",
+         "to learn",
+         "pred"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "Tagálog",
+         "Tagalog",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Pseudo verb + main verb"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Spellings in the book",
+     "t": "The book's opening list prints **maaarí** and **íbig**; elsewhere it prints **maáarì** and **ibig**. It also writes **dápat** and **Dapat** in different sentences."
+    }
+   ]
+  },
+  {
+   "title": "Rule 1: use the infinitive",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "After a pseudo verb, use **only the infinitive** form of the main verb, with any of the affixes **-um-**, **mag-**, **-in-** and **-hin**. Do not use the past, present or future."
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "Sentence"
+     ],
+     "rows": [
+      [
+       "Correct",
+       "Dapat **kumáin** ng gulay ang mga batà.  (*The children must eat [their] vegetables.*)"
+      ],
+      [
+       "Incorrect",
+       "Dapat kumákain ng gulay ang mga batà."
+      ],
+      [
+       "Incorrect",
+       "Dapat kákain ng gulay ang mga batà."
+      ]
+     ],
+     "title": "Dapat + kumáin"
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "Sentence"
+     ],
+     "rows": [
+      [
+       "Correct",
+       "Kailángang **punuín** mo ng batò ang pasô.  (*You must fill up the claypot with stones.*)"
+      ],
+      [
+       "Incorrect",
+       "Kailángang pupunuín mo ng batò ang pasô."
+      ],
+      [
+       "Incorrect",
+       "Kailángang napunô mo ng batò ang pasô."
+      ]
+     ],
+     "title": "Kailángan + punuín"
+    },
+    {
+     "type": "h",
+     "t": "Ligatures"
+    },
+    {
+     "type": "p",
+     "t": "Notice the ligature **-g** that links **kailangan** to the main verb **punuin** (Lesson 7: -g after n). Other pseudo verbs take ligatures too."
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "When is a ligature needed?",
+     "items": [
+      "With **ibig**, **áyaw** and **dápat** placed directly **before a main verb**, a ligature is **not necessary**: *Dápat kumáin…*",
+      "But **every** pseudo verb that is followed by a **pronoun** (such as **siyá** or **niyá**) needs a ligature **after the pronoun**: *Dápat siyáng…*, *Áyaw niláng…*"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Rule 2: ibig and gustó take ko, mo…",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "With **ibig** and **gustó**, use the possessive pronoun that comes **after** a noun (such as **ko** and **mo**, from Lesson 8), and attach the right ligature: **ko + ng = kong**."
+    },
+    {
+     "type": "p",
+     "t": "Place the pronoun **between** the pseudo verb and the main verb. This works whether the main verb is **active** (-um- or mag-) or **passive** (-in-)."
+    },
+    {
+     "type": "pattern",
+     "title": "Pseudo verb + pronoun + ligature + main verb",
+     "rows": [
+      {
+       "label": "Active",
+       "chips": [
+        {
+         "t": "Ibig",
+         "r": "pred"
+        },
+        {
+         "t": "ko",
+         "r": "poss"
+        },
+        {
+         "t": "-ng",
+         "r": "link"
+        },
+        {
+         "t": "mag-áral",
+         "r": "pred"
+        },
+        {
+         "t": "ng Tagálog",
+         "r": "noun"
+        }
+       ]
+      },
+      {
+       "label": "Passive",
+       "chips": [
+        {
+         "t": "Gustó",
+         "r": "pred"
+        },
+        {
+         "t": "ko",
+         "r": "poss"
+        },
+        {
+         "t": "-ng",
+         "r": "link"
+        },
+        {
+         "t": "arálin",
+         "r": "pred"
+        },
+        {
+         "t": "ang Tagálog",
+         "r": "noun"
+        }
+       ]
+      }
+     ],
+     "note": "Both mean: I want to learn Tagalog."
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "Sentence"
+     ],
+     "rows": [
+      [
+       "Correct",
+       "Ibig **kong** mag-áral ng Tagálog.  (*I want to learn Tagalog.*)"
+      ],
+      [
+       "Incorrect",
+       "Ibig mag-áral ko ng Tagálog."
+      ],
+      [
+       "Incorrect",
+       "Ibig mag-áral ng Tagalog ako."
+      ],
+      [
+       "Correct",
+       "Gustó **kong** arálin ang Tagálog.  (*I want to learn Tagalog.*)"
+      ],
+      [
+       "Incorrect",
+       "Gustó arálin ko ng Tagálog."
+      ],
+      [
+       "Incorrect",
+       "Gustó arálin ng Tagálog ako."
+      ]
+     ],
+     "title": "Ibig and gustó"
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "ng or ang after the main verb?",
+     "t": "Look closely: with the active **mag-áral** the object takes **ng** (*ng Tagálog*); with the passive **arálin** it takes **ang** (*ang Tagálog*), just as in Lessons 15 and 16."
+    }
+   ]
+  },
+  {
+   "title": "Rule 3: the other pseudo verbs",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Except for ibig and gustó**, the pseudo verbs need a **nominative pronoun** (such as **akó** or **siyá**) with a ligature when the main verb is **active** (-um- or mag-)."
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "Sentence"
+     ],
+     "rows": [
+      [
+       "Correct",
+       "Dápat **siyáng uminóm** ng gátas."
+      ],
+      [
+       "Incorrect",
+       "Dápat siyáng inumín ang gátas."
+      ]
+     ],
+     "title": "Active verb: siyá"
+    },
+    {
+     "type": "p",
+     "t": "In the same way, a pseudo verb needs a **possessive pronoun** (such as **niyá**) with a ligature when the main verb is a **passive -in** verb."
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "Sentence"
+     ],
+     "rows": [
+      [
+       "Correct",
+       "Dápat **niyáng inumín** ang gátas."
+      ],
+      [
+       "Incorrect",
+       "Dápat niyáng uminóm ng gátas."
+      ]
+     ],
+     "title": "Passive verb: niyá"
+    },
+    {
+     "type": "pattern",
+     "title": "Match the pronoun to the verb",
+     "rows": [
+      {
+       "label": "Active",
+       "chips": [
+        {
+         "t": "Dápat",
+         "r": "pred"
+        },
+        {
+         "t": "siyá",
+         "r": "pron"
+        },
+        {
+         "t": "-ng",
+         "r": "link"
+        },
+        {
+         "t": "uminóm",
+         "r": "pred"
+        },
+        {
+         "t": "ng",
+         "r": "marker"
+        },
+        {
+         "t": "gátas",
+         "r": "noun"
+        }
+       ]
+      },
+      {
+       "label": "Passive",
+       "chips": [
+        {
+         "t": "Dápat",
+         "r": "pred"
+        },
+        {
+         "t": "niyá",
+         "r": "poss"
+        },
+        {
+         "t": "-ng",
+         "r": "link"
+        },
+        {
+         "t": "inumín",
+         "r": "pred"
+        },
+        {
+         "t": "ang",
+         "r": "marker"
+        },
+        {
+         "t": "gátas",
+         "r": "noun"
+        }
+       ]
+      }
+     ],
+     "note": "Active -um-/mag- verb: akó, siyá… Passive -in- verb: niyá, ko…"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Pronoun check",
+     "items": [
+      "**Ibig / gustó**: always the after-noun possessive (kong, mong…).",
+      "**Other pseudo verbs + active verb**: nominative pronoun (akóng, siyáng…).",
+      "**Other pseudo verbs + -in- verb**: possessive pronoun (niyáng…)."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Rule 4: endings",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "A pseudo verb that ends in a **consonant other than n** does **not** need a suffix. Pseudo verbs ending in a **vowel** need one: the ligature **-ng**."
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "Sentence"
+     ],
+     "rows": [
+      [
+       "Correct",
+       "**Ibig** uminóm ng gátas ang batà."
+      ],
+      [
+       "Correct",
+       "**Gustóng** uminóm ng gátas ang batà."
+      ],
+      [
+       "Incorrect",
+       "Gustó uminóm ng gátas ang batà."
+      ]
+     ],
+     "title": "Ibig (ends in g) and gustó (ends in a vowel)"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Why",
+     "t": "**Ibig** ends in **g**, so nothing is added. **Gustó** ends in the vowel **o**, so it becomes **gustóng**. Compare **Puwédeng lutúin** and **Kailángang maligò** above: puwéde ends in a vowel (-ng) and kailángan ends in n (-g)."
+    }
+   ]
+  },
+  {
+   "title": "Sample sentences",
+   "blocks": [
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Dapat akóng sumúlat sa aking kaibígan sa Estados Unidos.",
+       "en": "I must write to my friend in the United States.",
+       "parts": [
+        [
+         "Dapat",
+         "must",
+         "pred"
+        ],
+        [
+         "akóng",
+         "I +ng",
+         "pron"
+        ],
+        [
+         "sumúlat",
+         "write",
+         "pred"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "aking",
+         "my",
+         "poss"
+        ],
+        [
+         "kaibígan",
+         "friend",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "Estados Unidos",
+         "the United States",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Dapat sulatín ni Peter ang kanyang kuwénto ngayóng gabi.",
+       "en": "His/Her story must be written by Peter tonight.",
+       "parts": [
+        [
+         "Dapat",
+         "must",
+         "pred"
+        ],
+        [
+         "sulatín",
+         "be written",
+         "pred"
+        ],
+        [
+         "ni",
+         "by",
+         "marker"
+        ],
+        [
+         "Peter",
+         "Peter",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "kanyang",
+         "his/her",
+         "poss"
+        ],
+        [
+         "kuwénto",
+         "story",
+         "noun"
+        ],
+        [
+         "ngayóng gabi",
+         "tonight",
+         "other"
+        ]
+       ]
+      },
+      {
+       "tl": "Maáarì bang linísin mo ang aking sapátos?",
+       "en": "Could my shoes be cleaned by you?",
+       "parts": [
+        [
+         "Maáarì",
+         "could",
+         "pred"
+        ],
+        [
+         "bang",
+         "question word +ng",
+         "part"
+        ],
+        [
+         "linísin",
+         "be cleaned",
+         "pred"
+        ],
+        [
+         "mo",
+         "by you",
+         "poss"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "aking",
+         "my",
+         "poss"
+        ],
+        [
+         "sapátos",
+         "shoes",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Maáarì akong maglínis ng iyong sapátos.",
+       "en": "I can clean your shoes.",
+       "parts": [
+        [
+         "Maáarì",
+         "can",
+         "pred"
+        ],
+        [
+         "akong",
+         "I +ng",
+         "pron"
+        ],
+        [
+         "maglínis",
+         "clean",
+         "pred"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "iyong",
+         "your",
+         "poss"
+        ],
+        [
+         "sapátos",
+         "shoes",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Kailángang mag-áral ang mga estudyante áraw-áraw.",
+       "en": "Students need to study every day.",
+       "parts": [
+        [
+         "Kailángang",
+         "need +g",
+         "pred"
+        ],
+        [
+         "mag-áral",
+         "to study",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "mga",
+         "plural marker",
+         "marker"
+        ],
+        [
+         "estudyante",
+         "students",
+         "noun"
+        ],
+        [
+         "áraw-áraw",
+         "every day",
+         "other"
+        ]
+       ]
+      },
+      {
+       "tl": "Ibig niláng magsalitâ ng Tagálog.",
+       "en": "They like to speak in Tagalog.",
+       "parts": [
+        [
+         "Ibig",
+         "like",
+         "pred"
+        ],
+        [
+         "niláng",
+         "they +ng",
+         "poss"
+        ],
+        [
+         "magsalitâ",
+         "to speak",
+         "pred"
+        ],
+        [
+         "ng",
+         "in",
+         "marker"
+        ],
+        [
+         "Tagálog",
+         "Tagalog",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Áyaw niyáng kánin ang balút.",
+       "en": "He/She does not like balut (steamed duck embryo) to be eaten.",
+       "parts": [
+        [
+         "Áyaw",
+         "does not like",
+         "pred"
+        ],
+        [
+         "niyáng",
+         "he/she +ng",
+         "poss"
+        ],
+        [
+         "kánin",
+         "to be eaten",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "balút",
+         "steamed duck embryo",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Áyaw siyáng kumain ng balút.",
+       "en": "He/She does not like to eat balut.",
+       "parts": [
+        [
+         "Áyaw",
+         "does not like",
+         "pred"
+        ],
+        [
+         "siyáng",
+         "he/she +ng",
+         "pron"
+        ],
+        [
+         "kumain",
+         "to eat",
+         "pred"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "balút",
+         "steamed duck embryo",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Sample sentences"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Same idea, active and passive",
+     "t": "Compare the last two: **Áyaw niyáng kánin** (passive -in- verb, so the possessive **niyá**) and **Áyaw siyáng kumain** (active -um- verb, so the nominative **siyá**). This is Rule 3 at work."
+    },
+    {
+     "type": "vocab",
+     "group": "pseudo",
+     "title": "The pseudo verbs"
+    },
+    {
+     "type": "vocab",
+     "group": "words",
+     "title": "Words in this lesson"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "Pseudo verbs: dápat (must), maáarì / puwéde (can), kailángan (need to), ibig / gustó (like), áyaw (does not like).",
+      "Rule 1: the main verb is always in the infinitive: Dapat kumáin…",
+      "Rule 2: ibig / gustó + kong / mong + main verb.",
+      "Rule 3: others take akóng / siyáng with an active verb, and niyáng with an -in- verb.",
+      "Rule 4: a pseudo verb ending in a vowel takes -ng (gustóng); ibig needs nothing."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "dapat-l17",
+   "tl": "dápat",
+   "en": "must, should, would, has/have to",
+   "pos": "verb",
+   "group": "pseudo",
+   "say": "DA-pat",
+   "note": "The book also writes Dapat"
+  },
+  {
+   "id": "maaari-l17",
+   "tl": "maáarì",
+   "en": "can, may, could",
+   "pos": "verb",
+   "group": "pseudo",
+   "note": "The book also writes maaarí"
+  },
+  {
+   "id": "puwede-l17",
+   "tl": "puwéde",
+   "en": "can, may, could",
+   "pos": "verb",
+   "group": "pseudo",
+   "say": "pu-WE-de"
+  },
+  {
+   "id": "kailangan-l17",
+   "tl": "kailángan",
+   "en": "needs to, is necessary to",
+   "pos": "verb",
+   "group": "pseudo",
+   "say": "ka-i-LA-ngan"
+  },
+  {
+   "id": "ibig-l17",
+   "tl": "ibig",
+   "en": "likes, desires, wants",
+   "pos": "verb",
+   "group": "pseudo",
+   "note": "The book also writes íbig"
+  },
+  {
+   "id": "gusto-l17",
+   "tl": "gustó",
+   "en": "likes, desires, wants",
+   "pos": "verb",
+   "group": "pseudo",
+   "say": "gus-TO"
+  },
+  {
+   "id": "estudyante-l17",
+   "tl": "estudyante",
+   "en": "student",
+   "pos": "noun",
+   "group": "words"
+  },
+  {
+   "id": "baka-l17",
+   "tl": "báka",
+   "en": "cow or beef",
+   "pos": "noun",
+   "group": "words",
+   "say": "BA-ka"
+  },
+  {
+   "id": "balut-l17",
+   "tl": "balút",
+   "en": "steamed duck embryo",
+   "pos": "noun",
+   "group": "words",
+   "say": "ba-LUT"
+  },
+  {
+   "id": "dalandan-l17",
+   "tl": "dalandan",
+   "en": "orange fruit",
+   "pos": "noun",
+   "group": "words"
+  },
+  {
+   "id": "paso-l17",
+   "tl": "pasô",
+   "en": "claypot",
+   "pos": "noun",
+   "group": "words",
+   "say": "pa-soQ"
+  },
+  {
+   "id": "bato-l17",
+   "tl": "batò",
+   "en": "stone",
+   "pos": "noun",
+   "group": "words",
+   "say": "BA-toQ",
+   "note": "From the book's sentence: ng batò = with stones"
+  },
+  {
+   "id": "kuya-l17",
+   "tl": "kuya",
+   "en": "elder brother",
+   "pos": "noun",
+   "group": "words"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "What does dápat mean?",
+   "options": [
+    "must, should, has/have to",
+    "can, may, could",
+    "does not like"
+   ],
+   "answer": "must, should, has/have to",
+   "explain": "Dápat = must, should, would, has/have to."
+  },
+  {
+   "type": "choice",
+   "q": "Which two pseudo verbs mean \"can, may, could\"?",
+   "options": [
+    "maáarì and puwéde",
+    "ibig and gustó",
+    "dápat and kailángan"
+   ],
+   "answer": "maáarì and puwéde",
+   "explain": "Maáarì or puwéde."
+  },
+  {
+   "type": "choice",
+   "q": "Which pseudo verb means \"does not like\"?",
+   "options": [
+    "áyaw",
+    "gustó",
+    "kailángan"
+   ],
+   "answer": "áyaw",
+   "explain": "Áyaw = does not like."
+  },
+  {
+   "type": "choice",
+   "q": "Which is correct?",
+   "options": [
+    "Dapat kumáin ng gulay ang mga batà.",
+    "Dapat kumákain ng gulay ang mga batà.",
+    "Dapat kákain ng gulay ang mga batà."
+   ],
+   "answer": "Dapat kumáin ng gulay ang mga batà.",
+   "explain": "Rule 1: only the infinitive form follows a pseudo verb."
+  },
+  {
+   "type": "choice",
+   "q": "Which is correct?",
+   "options": [
+    "Kailángang punuín mo ng batò ang pasô.",
+    "Kailángang pupunuín mo ng batò ang pasô.",
+    "Kailángang napunô mo ng batò ang pasô."
+   ],
+   "answer": "Kailángang punuín mo ng batò ang pasô.",
+   "explain": "Punuín is the infinitive."
+  },
+  {
+   "type": "choice",
+   "q": "Why is it kailángang (with -g)?",
+   "options": [
+    "A ligature links kailangan to the main verb",
+    "It is the past tense",
+    "It is plural"
+   ],
+   "answer": "A ligature links kailangan to the main verb",
+   "explain": "Kailangan ends in n, so it takes -g."
+  },
+  {
+   "type": "choice",
+   "q": "Which is correct?",
+   "options": [
+    "Ibig kong mag-áral ng Tagálog.",
+    "Ibig mag-áral ko ng Tagálog.",
+    "Ibig mag-áral ng Tagalog ako."
+   ],
+   "answer": "Ibig kong mag-áral ng Tagálog.",
+   "explain": "Rule 2: the pronoun goes between ibig and the main verb."
+  },
+  {
+   "type": "choice",
+   "q": "Which is correct?",
+   "options": [
+    "Gustó kong arálin ang Tagálog.",
+    "Gustó arálin ko ng Tagálog.",
+    "Gustó arálin ng Tagálog ako."
+   ],
+   "answer": "Gustó kong arálin ang Tagálog.",
+   "explain": "Gustó + kong + main verb."
+  },
+  {
+   "type": "choice",
+   "q": "With ibig and gustó, which kind of pronoun is used?",
+   "options": [
+    "the after-noun possessive (ko, mo)",
+    "the nominative (akó, siyá)",
+    "no pronoun at all"
+   ],
+   "answer": "the after-noun possessive (ko, mo)",
+   "explain": "Rule 2."
+  },
+  {
+   "type": "choice",
+   "q": "Which is correct?",
+   "options": [
+    "Dápat siyáng uminóm ng gátas.",
+    "Dápat siyáng inumín ang gátas."
+   ],
+   "answer": "Dápat siyáng uminóm ng gátas.",
+   "explain": "Rule 3: with an active verb (uminóm), use a nominative pronoun (siyá)."
+  },
+  {
+   "type": "choice",
+   "q": "Which is correct?",
+   "options": [
+    "Dápat niyáng inumín ang gátas.",
+    "Dápat niyáng uminóm ng gátas."
+   ],
+   "answer": "Dápat niyáng inumín ang gátas.",
+   "explain": "Rule 3: with a passive -in verb (inumín), use a possessive pronoun (niyá)."
+  },
+  {
+   "type": "choice",
+   "q": "Which is incorrect?",
+   "options": [
+    "Gustó uminóm ng gátas ang batà.",
+    "Gustóng uminóm ng gátas ang batà.",
+    "Ibig uminóm ng gátas ang batà."
+   ],
+   "answer": "Gustó uminóm ng gátas ang batà.",
+   "explain": "Rule 4: gustó ends in a vowel, so it needs -ng."
+  },
+  {
+   "type": "choice",
+   "q": "Why does ibig not need a ligature in \"Ibig uminóm ng gátas ang batà\"?",
+   "options": [
+    "It ends in a consonant other than n",
+    "It ends in a vowel",
+    "It is followed by a pronoun"
+   ],
+   "answer": "It ends in a consonant other than n",
+   "explain": "Rule 4."
+  },
+  {
+   "type": "choice",
+   "q": "\"Áyaw niyáng kánin ang balút\" uses niyá because…",
+   "options": [
+    "kánin is a passive -in verb",
+    "kánin is an active verb",
+    "áyaw always takes niyá"
+   ],
+   "answer": "kánin is a passive -in verb",
+   "explain": "Rule 3: possessive pronoun with an -in verb."
+  },
+  {
+   "type": "choice",
+   "q": "\"Maáarì akong maglínis ng iyong sapátos\" means…",
+   "options": [
+    "I can clean your shoes.",
+    "Could my shoes be cleaned by you?",
+    "I must clean your shoes."
+   ],
+   "answer": "I can clean your shoes.",
+   "explain": "Maáarì = can; maglínis is active, so akó is used."
+  },
+  {
+   "type": "listen",
+   "tl": "kailángan",
+   "options": [
+    "needs to, is necessary to",
+    "likes, desires, wants",
+    "can, may, could"
+   ],
+   "answer": "needs to, is necessary to",
+   "explain": "Kailángan = needs to."
+  },
+  {
+   "type": "listen",
+   "tl": "gustó",
+   "options": [
+    "likes, desires, wants",
+    "does not like",
+    "must, should"
+   ],
+   "answer": "likes, desires, wants",
+   "explain": "Gustó = likes, desires, wants."
+  },
+  {
+   "type": "listen",
+   "tl": "kaibígan",
+   "options": [
+    "friend",
+    "parent",
+    "student"
+   ],
+   "answer": "friend",
+   "explain": "Kaibígan = friend."
+  },
+  {
+   "type": "listen",
+   "tl": "balút",
+   "options": [
+    "steamed duck embryo",
+    "cow or beef",
+    "orange fruit"
+   ],
+   "answer": "steamed duck embryo",
+   "explain": "Balút = steamed duck embryo."
+  },
+  {
+   "type": "build",
+   "en": "I like to learn Tagalog.",
+   "tl": "Gustó kong mag-áral ng Tagálog.",
+   "tokens": [
+    "gustó",
+    "kong",
+    "mag-áral",
+    "ng",
+    "tagálog"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "They do not like to drink milk.",
+   "tl": "Áyaw niláng uminóm ng gatas.",
+   "tokens": [
+    "áyaw",
+    "niláng",
+    "uminóm",
+    "ng",
+    "gatas"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "We need to take a bath everyday.",
+   "tl": "Kailángang maligò tayo araw-araw.",
+   "tokens": [
+    "kailángang",
+    "maligò",
+    "tayo",
+    "araw-araw"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "(You) may cook the beef.",
+   "tl": "Puwédeng lutúin ang báka.",
+   "tokens": [
+    "puwédeng",
+    "lutúin",
+    "ang",
+    "báka"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "I can clean your shoes.",
+   "tl": "Maáarì akong maglínis ng iyong sapátos.",
+   "tokens": [
+    "maáarì",
+    "akong",
+    "maglínis",
+    "ng",
+    "iyong",
+    "sapátos"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "He/She does not like to eat balut.",
+   "tl": "Áyaw siyáng kumain ng balút.",
+   "tokens": [
+    "áyaw",
+    "siyáng",
+    "kumain",
+    "ng",
+    "balút"
+   ],
+   "explain": "",
+   "extra": [
+    "niyáng"
+   ]
+  },
+  {
+   "type": "build",
+   "en": "Students need to study every day.",
+   "tl": "Kailángang mag-áral ang mga estudyante áraw-áraw.",
+   "tokens": [
+    "kailángang",
+    "mag-áral",
+    "ang",
+    "mga",
+    "estudyante",
+    "áraw-áraw"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match each pseudo verb to its meaning.",
+   "pairs": [
+    [
+     "dápat",
+     "must, should"
+    ],
+    [
+     "puwéde",
+     "can, may, could"
+    ],
+    [
+     "kailángan",
+     "needs to"
+    ],
+    [
+     "gustó",
+     "likes, wants"
+    ],
+    [
+     "áyaw",
+     "does not like"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each word to its meaning.",
+   "pairs": [
+    [
+     "estudyante",
+     "student"
+    ],
+    [
+     "báka",
+     "cow or beef"
+    ],
+    [
+     "magulang",
+     "parent"
+    ],
+    [
+     "dalandan",
+     "orange fruit"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "Pseudo verbs go with a main verb: dápat (must), maáarì / puwéde (can), kailángan (need to), ibig / gustó (like), áyaw (does not like).",
+  "The main verb is always in the infinitive: Dapat kumáin ng gulay ang mga batà.",
+  "Ibig and gustó take kong, mong… between them and the main verb: Gustó kong mag-áral ng Tagálog.",
+  "Other pseudo verbs: siyáng with an active verb, niyáng with an -in verb.",
+  "Pseudo verbs ending in a vowel take -ng (gustóng, puwédeng); kailangan takes -g."
+ ]
+}

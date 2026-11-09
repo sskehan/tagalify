@@ -1,0 +1,1578 @@
+{
+ "id": "l11",
+ "label": "11",
+ "title": "Making comparisons",
+ "summary": "As … as (kasíng-, magkasíng-), like (parého, gáya), more than (mas … káysa), very (nápaka-) and most (pinaká-)",
+ "minutes": 35,
+ "goals": [
+  "Say that A is as [adjective] as B with kasíng-",
+  "Say that A and B are equally [adjective] with magkasíng-",
+  "Choose kasíng-, kasín- or kasím- from the first letter of the root",
+  "Say that A is more [adjective] than B, or not as [adjective] as B",
+  "Say very [adjective] and the most [adjective]"
+ ],
+ "sections": [
+  {
+   "title": "Comparing qualities",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "People and things have qualities that can be compared. A quality is expressed by an **adjective** (Lesson 4), which can show whether two people or things are **equal** or **not equal**, or whether a person or thing has a **high degree** of a quality, perhaps the highest of all."
+    },
+    {
+     "type": "p",
+     "t": "As in English, Tagalog has several ways of comparing things at different levels or degrees."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Level",
+      "English pattern",
+      "Tagalog tool"
+     ],
+     "rows": [
+      [
+       "Equality (A = B)",
+       "A is as … as B; A and B are equally …; A is … like B",
+       "[[kasíng-|other]], [[magkasíng-|other]], [[parého|other]], [[katúlad|other]], [[gáya|other]]"
+      ],
+      [
+       "Inequality (A ≠ B)",
+       "A is more … than B; A is not as … as B",
+       "[[mas|other]] / [[lalóng|other]] / [[higít na|other]] + [[káysa|other]]; [[hindi kasíng-|other]]"
+      ],
+      [
+       "Intensive",
+       "A is very …",
+       "doubling + ligature; [[nápaka-|other]]"
+      ],
+      [
+       "Superlative",
+       "A is the most …",
+       "[[pinaká-|other]]"
+      ]
+     ],
+     "title": "The four levels"
+    }
+   ]
+  },
+  {
+   "title": "Equality: as … as",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "To say that two nouns (A and B) are equal in one quality, either attach the prefix **kasíng-** or **magkasíng-** to the **root word** of an adjective, or use the words **parého, katúlad** or **gáya**. On their own, kasíng- and magkasíng- mean *as*; parého, katúlad and gáya mean *similar to* or *like*."
+    },
+    {
+     "type": "h",
+     "t": "1. A is as [adjective] as B"
+    },
+    {
+     "type": "pattern",
+     "title": "A + kasíng- adjective + ni (or ng) + B",
+     "rows": [
+      {
+       "label": "Example",
+       "chips": [
+        {
+         "t": "Si Maria",
+         "r": "noun"
+        },
+        {
+         "t": "ay",
+         "r": "ay"
+        },
+        {
+         "t": "kasínggandá",
+         "r": "pred"
+        },
+        {
+         "t": "ni",
+         "r": "marker"
+        },
+        {
+         "t": "Elena",
+         "r": "noun"
+        }
+       ]
+      }
+     ],
+     "note": "Maria is as beautiful as Elena."
+    },
+    {
+     "type": "p",
+     "t": "This phrase means *as + adjective + as*. The order can also be turned around, with **kasíng- + adjective** at the beginning of the sentence."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Si Maria ay kasínggandá ni Elena.",
+       "en": "Maria is as beautiful as Elena.",
+       "parts": [
+        [
+         "Si",
+         "article (name)",
+         "marker"
+        ],
+        [
+         "Maria",
+         "Maria",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "kasínggandá",
+         "as beautiful as",
+         "pred"
+        ],
+        [
+         "ni",
+         "of (name)",
+         "marker"
+        ],
+        [
+         "Elena",
+         "Elena",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Kasínggalíng ni Rizal si Bonifacio.",
+       "en": "As good as Rizal, Bonifacio is. (lit.) Bonifacio is as good as Rizal.",
+       "parts": [
+        [
+         "Kasínggalíng",
+         "as good as",
+         "pred"
+        ],
+        [
+         "ni",
+         "of (name)",
+         "marker"
+        ],
+        [
+         "Rizal",
+         "Rizal",
+         "noun"
+        ],
+        [
+         "si",
+         "article (name)",
+         "marker"
+        ],
+        [
+         "Bonifacio",
+         "Bonifacio",
+         "noun"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "t": "2. A and B are equally [adjective]"
+    },
+    {
+     "type": "p",
+     "t": "With **magkasíng- + adjective**, the two subjects being compared are mentioned **side by side**, instead of one on each side of the adjective as in formula 1. When magkasíng- begins the sentence, the name or names come after it, introduced by an article (sina) or replaced by a pronoun (kamí)."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Sina Maria at Elena ay magkasínggandá.",
+       "en": "Maria and Elena are equally beautiful.",
+       "parts": [
+        [
+         "Sina",
+         "article (2+ names)",
+         "marker"
+        ],
+        [
+         "Maria",
+         "Maria",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "Elena",
+         "Elena",
+         "noun"
+        ],
+        [
+         "ay",
+         "are",
+         "ay"
+        ],
+        [
+         "magkasínggandá",
+         "equally beautiful",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Magkasínggalíng sina Rizal at Bonifacio.",
+       "en": "Rizal and Bonifacio are equally good.",
+       "parts": [
+        [
+         "Magkasínggalíng",
+         "equally good",
+         "pred"
+        ],
+        [
+         "sina",
+         "article (2+ names)",
+         "marker"
+        ],
+        [
+         "Rizal",
+         "Rizal",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "Bonifacio",
+         "Bonifacio",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Magkasíntaás kamí.",
+       "en": "We are equally tall.",
+       "parts": [
+        [
+         "Magkasíntaás",
+         "equally tall",
+         "pred"
+        ],
+        [
+         "kamí",
+         "we",
+         "pron"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Articles with names",
+     "t": "Names of people need the articles **ni/nina** and **si/sina**. Names of things or places use **ng/ng mga**."
+    }
+   ]
+  },
+  {
+   "title": "Kasíng-, kasín- or kasím-?",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The ending of the prefix changes to suit the **first letter of the root word**, much like the ligatures in Lesson 7."
+    },
+    {
+     "type": "table",
+     "head": [
+      "The root begins with…",
+      "Prefix",
+      "Example"
+     ],
+     "rows": [
+      [
+       "a, e, i, o, u, k, g, h, m, n, w, y",
+       "[[kasíng-|other]] or [[magkasíng-|other]]",
+       "**kasíngkulót**  as curly as"
+      ],
+      [
+       "d, l, r, s, t",
+       "[[kasín-|other]] or [[magkasín-|other]]",
+       "**kasíndumí**  as dirty as"
+      ],
+      [
+       "b, p",
+       "[[kasím-|other]] or [[magkasím-|other]]",
+       "**magkasímbahò**  as foul-smelling as"
+      ]
+     ],
+     "title": "Three forms of the prefix"
+    },
+    {
+     "type": "p",
+     "t": "You have already met examples of each: kasín**g**gandá and kasín**g**galíng (g), magkasín**t**aás and kasín**d**únong (t, d), kasím**b**aít (b)."
+    },
+    {
+     "type": "vocab",
+     "group": "equal",
+     "title": "Words for equality"
+    }
+   ]
+  },
+  {
+   "title": "Equality: like",
+   "blocks": [
+    {
+     "type": "h",
+     "t": "3. A is [adjective] like B"
+    },
+    {
+     "type": "pattern",
+     "title": "A + adjective + parého / katúlad / gáya + ni/ng + B",
+     "rows": [
+      {
+       "label": "Example",
+       "chips": [
+        {
+         "t": "Si Maria",
+         "r": "noun"
+        },
+        {
+         "t": "ay",
+         "r": "ay"
+        },
+        {
+         "t": "magandá",
+         "r": "pred"
+        },
+        {
+         "t": "gáya",
+         "r": "other"
+        },
+        {
+         "t": "ni",
+         "r": "marker"
+        },
+        {
+         "t": "Elena",
+         "r": "noun"
+        }
+       ]
+      }
+     ],
+     "note": "Maria is beautiful like (as beautiful as) Elena."
+    },
+    {
+     "type": "p",
+     "t": "On their own these words mean *similar to* or *like*. When they compare the qualities of nouns, they translate the same way as the first formula: *as + adjective + as*."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Si Maria ay magandá parého ni Elena.",
+       "en": "Maria is beautiful like (as beautiful as) Elena.",
+       "parts": [
+        [
+         "Si",
+         "article (name)",
+         "marker"
+        ],
+        [
+         "Maria",
+         "Maria",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "magandá",
+         "beautiful",
+         "pred"
+        ],
+        [
+         "parého",
+         "like",
+         "other"
+        ],
+        [
+         "ni",
+         "of (name)",
+         "marker"
+        ],
+        [
+         "Elena",
+         "Elena",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Si Maria ay magandá gáya ni Elena.",
+       "en": "Maria is beautiful like (as beautiful as) Elena.",
+       "parts": [
+        [
+         "Si",
+         "article (name)",
+         "marker"
+        ],
+        [
+         "Maria",
+         "Maria",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "magandá",
+         "beautiful",
+         "pred"
+        ],
+        [
+         "gáya",
+         "like",
+         "other"
+        ],
+        [
+         "ni",
+         "of (name)",
+         "marker"
+        ],
+        [
+         "Elena",
+         "Elena",
+         "noun"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Inequality: more than, not as … as",
+   "blocks": [
+    {
+     "type": "h",
+     "t": "1. A is better than B"
+    },
+    {
+     "type": "pattern",
+     "title": "A + lalóng (or higít na or mas) + adjective + káysa kay (or káysa sa) + B",
+     "rows": [
+      {
+       "label": "Example",
+       "chips": [
+        {
+         "t": "Si Peter",
+         "r": "noun"
+        },
+        {
+         "t": "ay",
+         "r": "ay"
+        },
+        {
+         "t": "lalóng",
+         "r": "other"
+        },
+        {
+         "t": "marúnong",
+         "r": "pred"
+        },
+        {
+         "t": "káysa",
+         "r": "other"
+        },
+        {
+         "t": "kay",
+         "r": "marker"
+        },
+        {
+         "t": "John",
+         "r": "noun"
+        }
+       ]
+      }
+     ],
+     "note": "Peter is brighter than John."
+    },
+    {
+     "type": "p",
+     "t": "The first noun is usually the one with **more** of the quality. **Lalóng** (laló + the ligature -ng), **higít na** (higít + the ligature na) and **mas** all mean *more*; **káysa** means *than*."
+    },
+    {
+     "type": "p",
+     "t": "Like the possessive words ni and ng (Lesson 8), **káysa kay** is followed by the name of a person, while **káysa sa** is followed by the name of a place or thing. **Káysa sa** may be shortened to **kesa**."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Si Peter ay lalóng marúnong káysa kay John.",
+       "en": "Peter is brighter than John.",
+       "parts": [
+        [
+         "Si",
+         "article (name)",
+         "marker"
+        ],
+        [
+         "Peter",
+         "Peter",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "lalóng",
+         "more",
+         "other"
+        ],
+        [
+         "marúnong",
+         "bright",
+         "pred"
+        ],
+        [
+         "káysa",
+         "than",
+         "other"
+        ],
+        [
+         "kay",
+         "(before a name)",
+         "marker"
+        ],
+        [
+         "John",
+         "John",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Higít na marúnong si Peter káysa kay John.",
+       "en": "Peter is brighter than John.",
+       "parts": [
+        [
+         "Higít",
+         "more",
+         "other"
+        ],
+        [
+         "na",
+         "ligature",
+         "link"
+        ],
+        [
+         "marúnong",
+         "bright",
+         "pred"
+        ],
+        [
+         "si",
+         "article (name)",
+         "marker"
+        ],
+        [
+         "Peter",
+         "Peter",
+         "noun"
+        ],
+        [
+         "káysa",
+         "than",
+         "other"
+        ],
+        [
+         "kay",
+         "(before a name)",
+         "marker"
+        ],
+        [
+         "John",
+         "John",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang matandá ay lalóng masípag káysa sa batà.",
+       "en": "The old is more diligent than the young.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "matandá",
+         "old",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "lalóng",
+         "more",
+         "other"
+        ],
+        [
+         "masípag",
+         "diligent",
+         "pred"
+        ],
+        [
+         "káysa",
+         "than",
+         "other"
+        ],
+        [
+         "sa",
+         "(before a thing)",
+         "marker"
+        ],
+        [
+         "batà",
+         "young",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Mas masipag ang matandá káysa sa batà.",
+       "en": "The old is more diligent than the young.",
+       "parts": [
+        [
+         "Mas",
+         "more",
+         "other"
+        ],
+        [
+         "masipag",
+         "diligent",
+         "pred"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "matandá",
+         "old",
+         "noun"
+        ],
+        [
+         "káysa",
+         "than",
+         "other"
+        ],
+        [
+         "sa",
+         "(before a thing)",
+         "marker"
+        ],
+        [
+         "batà",
+         "young",
+         "noun"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "t": "2. A is worse than B"
+    },
+    {
+     "type": "pattern",
+     "title": "A + hindi kasíng- + adjective + ni/ng + B",
+     "rows": [
+      {
+       "label": "Example",
+       "chips": [
+        {
+         "t": "Si John",
+         "r": "noun"
+        },
+        {
+         "t": "ay",
+         "r": "ay"
+        },
+        {
+         "t": "hindi",
+         "r": "other"
+        },
+        {
+         "t": "kasíndúnong",
+         "r": "pred"
+        },
+        {
+         "t": "ni",
+         "r": "marker"
+        },
+        {
+         "t": "Peter",
+         "r": "noun"
+        }
+       ]
+      }
+     ],
+     "note": "John is not as bright as Peter."
+    },
+    {
+     "type": "p",
+     "t": "The phrase *not as [adjective] as* means that the first noun has **less** of the quality than the second."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Si John ay hindi kasíndúnong ni Peter.",
+       "en": "John is not as bright as Peter.",
+       "parts": [
+        [
+         "Si",
+         "article (name)",
+         "marker"
+        ],
+        [
+         "John",
+         "John",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "hindi",
+         "not",
+         "other"
+        ],
+        [
+         "kasíndúnong",
+         "as bright as",
+         "pred"
+        ],
+        [
+         "ni",
+         "of (name)",
+         "marker"
+        ],
+        [
+         "Peter",
+         "Peter",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang aking anák ay hindî kasímbaít ng anák niyá.",
+       "en": "My child is not as good as his/her child.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "aking",
+         "my",
+         "poss"
+        ],
+        [
+         "anák",
+         "child",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "hindî",
+         "not",
+         "other"
+        ],
+        [
+         "kasímbaít",
+         "as good as",
+         "pred"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "anák",
+         "child",
+         "noun"
+        ],
+        [
+         "niyá",
+         "his/her",
+         "poss"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "Words for more and than"
+    }
+   ]
+  },
+  {
+   "title": "Very: the intensive",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The intensive degree describes a quality more forcefully, like a phrase starting with *very*. There are many ways to do this in Tagalog; these two are the most common."
+    },
+    {
+     "type": "h",
+     "t": "1. Double the adjective and add a ligature"
+    },
+    {
+     "type": "p",
+     "t": "Repeat the adjective and join the two with the right ligature, **-ng, -g** or **na** (Lesson 7)."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Tagalog",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[magandáng-magandá|pred]]",
+       "very beautiful"
+      ],
+      [
+       "[[matandáng-matandâ|pred]]",
+       "very old"
+      ],
+      [
+       "[[pángit na pángit|pred]]",
+       "very ugly"
+      ],
+      [
+       "[[masípag na masípag|pred]]",
+       "very industrious"
+      ]
+     ],
+     "title": "Doubling"
+    },
+    {
+     "type": "h",
+     "t": "2. Add the prefix nápaka-"
+    },
+    {
+     "type": "p",
+     "t": "The prefix **nápaka-** means *very*."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Tagalog",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[nápakapangit|pred]]",
+       "very ugly"
+      ],
+      [
+       "[[nápakasipag|pred]]",
+       "very industrious"
+      ],
+      [
+       "[[nápakatandâ|pred]]",
+       "very old"
+      ],
+      [
+       "[[nápakagandá|pred]]",
+       "very beautiful"
+      ]
+     ],
+     "title": "Nápaka-"
+    }
+   ]
+  },
+  {
+   "title": "The most: the superlative",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The superlative expresses the highest degree of a quality (the greatest, the best, the most). It uses the prefix **pinaká-**, which means *most*, attached to adjectives."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Tagalog",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[pinakápángit|pred]]",
+       "the ugliest"
+      ],
+      [
+       "[[pinakámalinís|pred]]",
+       "cleanest"
+      ],
+      [
+       "[[pinakámasípag|pred]]",
+       "most industrious"
+      ],
+      [
+       "[[pinakámatandâ|pred]]",
+       "oldest"
+      ],
+      [
+       "[[pinakámagandá|pred]]",
+       "most beautiful"
+      ]
+     ],
+     "title": "Pinaká-"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Compare nápaka- and pinaká-",
+     "t": "In the book's examples, nápaka- is joined to the root (nápaka**gandá**), while pinaká- is joined to the whole adjective (pinaká**magandá**)."
+    },
+    {
+     "type": "vocab",
+     "group": "very",
+     "title": "Very and most"
+    },
+    {
+     "type": "vocab",
+     "group": "words",
+     "title": "Vocabulary and exercise words"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "As … as: kasíng- + root + ni/ng (Si Maria ay kasínggandá ni Elena).",
+      "Equally: magkasíng- with both subjects side by side (Magkasíntaás kamí).",
+      "Kasíng- before a, e, i, o, u, k, g, h, m, n, w, y; kasín- before d, l, r, s, t; kasím- before b, p.",
+      "Like: parého, katúlad or gáya + ni/ng.",
+      "More than: lalóng / higít na / mas + adjective + káysa kay (person) or káysa sa (place or thing). Not as … as: hindi kasíng-.",
+      "Very: magandáng-magandá or nápakagandá. Most: pinakámagandá."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "kasing-l11",
+   "tl": "kasíng-",
+   "en": "as (prefix)",
+   "pos": "other",
+   "group": "equal",
+   "note": "Becomes kasín- before d, l, r, s, t and kasím- before b, p"
+  },
+  {
+   "id": "magkasing-l11",
+   "tl": "magkasíng-",
+   "en": "as (prefix); used when the two things compared are side by side",
+   "pos": "other",
+   "group": "equal",
+   "note": "Becomes magkasín- before d, l, r, s, t and magkasím- before b, p"
+  },
+  {
+   "id": "pareho-l11",
+   "tl": "parého",
+   "en": "similar to, like",
+   "pos": "other",
+   "group": "equal",
+   "say": "pa-RE-ho"
+  },
+  {
+   "id": "gaya-l11",
+   "tl": "gáya",
+   "en": "similar to, like",
+   "pos": "other",
+   "group": "equal",
+   "say": "GA-ya"
+  },
+  {
+   "id": "katulad-l11",
+   "tl": "katúlad",
+   "en": "similar to, like",
+   "pos": "other",
+   "group": "equal",
+   "say": "ka-TU-lad"
+  },
+  {
+   "id": "gaya-ng-pusa-l11",
+   "tl": "gáya ng pusà",
+   "en": "like a cat",
+   "pos": "phrase",
+   "group": "equal"
+  },
+  {
+   "id": "kasingkulot-l11",
+   "tl": "kasíngkulót",
+   "en": "as curly as",
+   "pos": "adj",
+   "group": "equal"
+  },
+  {
+   "id": "kasindumi-l11",
+   "tl": "kasíndumí",
+   "en": "as dirty as",
+   "pos": "adj",
+   "group": "equal"
+  },
+  {
+   "id": "magkasimbaho-l11",
+   "tl": "magkasímbahò",
+   "en": "as foul-smelling as",
+   "pos": "adj",
+   "group": "equal"
+  },
+  {
+   "id": "lalo-l11",
+   "tl": "lálo",
+   "en": "more",
+   "pos": "adv",
+   "group": "more",
+   "say": "LA-lo",
+   "note": "The book also writes laló; with the ligature: lalóng"
+  },
+  {
+   "id": "higit-na-l11",
+   "tl": "higít na",
+   "en": "more",
+   "pos": "adv",
+   "group": "more",
+   "note": "higít + the ligature na"
+  },
+  {
+   "id": "mas-l11",
+   "tl": "mas",
+   "en": "more",
+   "pos": "adv",
+   "group": "more"
+  },
+  {
+   "id": "kaysa-l11",
+   "tl": "káysa",
+   "en": "than",
+   "pos": "other",
+   "group": "more",
+   "say": "KAY-sa"
+  },
+  {
+   "id": "kaysa-kay-l11",
+   "tl": "káysa kay",
+   "en": "than (followed by the name of a person)",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "kaysa-sa-l11",
+   "tl": "káysa sa",
+   "en": "than (followed by the name of a place or thing)",
+   "pos": "phrase",
+   "group": "more",
+   "note": "May be shortened to kesa"
+  },
+  {
+   "id": "kesa-l11",
+   "tl": "kesa",
+   "en": "short for káysa sa",
+   "pos": "other",
+   "group": "more"
+  },
+  {
+   "id": "napaka-l11",
+   "tl": "nápaka-",
+   "en": "very (prefix)",
+   "pos": "other",
+   "group": "very"
+  },
+  {
+   "id": "pinaka-l11",
+   "tl": "pinaká-",
+   "en": "most (prefix)",
+   "pos": "other",
+   "group": "very"
+  },
+  {
+   "id": "magandang-maganda-l11",
+   "tl": "magandáng-magandá",
+   "en": "very beautiful",
+   "pos": "adj",
+   "group": "very"
+  },
+  {
+   "id": "napakaganda-l11",
+   "tl": "nápakagandá",
+   "en": "very beautiful",
+   "pos": "adj",
+   "group": "very"
+  },
+  {
+   "id": "pinakamaganda-l11",
+   "tl": "pinakámagandá",
+   "en": "most beautiful",
+   "pos": "adj",
+   "group": "very"
+  },
+  {
+   "id": "makabago-l11",
+   "tl": "makabágo",
+   "en": "modern",
+   "pos": "adj",
+   "group": "words",
+   "say": "ma-ka-BA-go"
+  },
+  {
+   "id": "malawak-l11",
+   "tl": "malawak",
+   "en": "broad",
+   "pos": "adj",
+   "group": "words"
+  },
+  {
+   "id": "indayog-l11",
+   "tl": "indáyog",
+   "en": "rhythm",
+   "pos": "noun",
+   "group": "words",
+   "say": "in-DA-yog"
+  },
+  {
+   "id": "istilo-l11",
+   "tl": "istílo",
+   "en": "style",
+   "pos": "noun",
+   "group": "words",
+   "say": "is-TI-lo"
+  },
+  {
+   "id": "boses-l11",
+   "tl": "boses",
+   "en": "voice",
+   "pos": "noun",
+   "group": "words",
+   "note": "Also tono"
+  },
+  {
+   "id": "tono-l11",
+   "tl": "tono",
+   "en": "voice",
+   "pos": "noun",
+   "group": "words",
+   "note": "Also boses"
+  },
+  {
+   "id": "uri-ng-tugtugin-l11",
+   "tl": "urì ng tugtúgin",
+   "en": "kind of music",
+   "pos": "phrase",
+   "group": "words"
+  },
+  {
+   "id": "yelo-l11",
+   "tl": "yélo",
+   "en": "ice",
+   "pos": "noun",
+   "group": "words",
+   "say": "YE-lo"
+  },
+  {
+   "id": "ilog-l11",
+   "tl": "ílog",
+   "en": "river",
+   "pos": "noun",
+   "group": "words",
+   "say": "I-log"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "What does the prefix kasíng- mean on its own?",
+   "options": [
+    "as",
+    "more",
+    "most"
+   ],
+   "answer": "as",
+   "explain": "Kasíng- and magkasíng- mean as."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: Si Maria ay ___ ni Elena. (Maria is as beautiful as Elena.)",
+   "options": [
+    "kasínggandá",
+    "pinakámagandá",
+    "nápakagandá"
+   ],
+   "answer": "kasínggandá",
+   "explain": "Kasíng- + root + ni + B."
+  },
+  {
+   "type": "choice",
+   "q": "Which sentence puts the two people side by side?",
+   "options": [
+    "Sina Maria at Elena ay magkasínggandá.",
+    "Si Maria ay kasínggandá ni Elena."
+   ],
+   "answer": "Sina Maria at Elena ay magkasínggandá.",
+   "explain": "Magkasíng- puts the subjects side by side: Maria and Elena are equally beautiful."
+  },
+  {
+   "type": "choice",
+   "q": "Which form of the prefix goes before a root starting with d (dumí)?",
+   "options": [
+    "kasín-",
+    "kasíng-",
+    "kasím-"
+   ],
+   "answer": "kasín-",
+   "explain": "Kasíndumí: as dirty as."
+  },
+  {
+   "type": "choice",
+   "q": "Which form of the prefix goes before a root starting with b (baít)?",
+   "options": [
+    "kasím-",
+    "kasín-",
+    "kasíng-"
+   ],
+   "answer": "kasím-",
+   "explain": "Kasímbaít: as good as."
+  },
+  {
+   "type": "choice",
+   "q": "Which form of the prefix goes before a root starting with k (kulót)?",
+   "options": [
+    "kasíng-",
+    "kasín-",
+    "kasím-"
+   ],
+   "answer": "kasíng-",
+   "explain": "Kasíngkulót: as curly as."
+  },
+  {
+   "type": "choice",
+   "q": "Why is it magkasíntaás and not magkasíngtaás?",
+   "options": [
+    "The root taás begins with t",
+    "Kamí is plural",
+    "Taás is a noun"
+   ],
+   "answer": "The root taás begins with t",
+   "explain": "Before d, l, r, s and t, the prefix is kasín- or magkasín-."
+  },
+  {
+   "type": "choice",
+   "q": "Which word does NOT mean similar to or like?",
+   "options": [
+    "káysa",
+    "parého",
+    "gáya"
+   ],
+   "answer": "káysa",
+   "explain": "Káysa means than."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: Si Peter ay lalóng marúnong káysa ___ John.",
+   "options": [
+    "kay",
+    "sa",
+    "ni"
+   ],
+   "answer": "kay",
+   "explain": "Káysa kay is followed by the name of a person."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: Ang matandá ay lalóng masípag káysa ___ batà.",
+   "options": [
+    "sa",
+    "kay",
+    "si"
+   ],
+   "answer": "sa",
+   "explain": "Káysa sa is followed by a place or thing."
+  },
+  {
+   "type": "choice",
+   "q": "Káysa sa may be shortened to…",
+   "options": [
+    "kesa",
+    "mas",
+    "kay"
+   ],
+   "answer": "kesa",
+   "explain": "Kesa is the short form."
+  },
+  {
+   "type": "choice",
+   "q": "Which word does NOT mean more?",
+   "options": [
+    "káysa",
+    "mas",
+    "higít na"
+   ],
+   "answer": "káysa",
+   "explain": "Lalóng, higít na and mas mean more; káysa means than."
+  },
+  {
+   "type": "choice",
+   "q": "\"Si John ay hindi kasíndúnong ni Peter\" means…",
+   "options": [
+    "John is not as bright as Peter.",
+    "John is brighter than Peter.",
+    "John and Peter are equally bright."
+   ],
+   "answer": "John is not as bright as Peter.",
+   "explain": "Hindi kasíng- means not as … as."
+  },
+  {
+   "type": "choice",
+   "q": "Which ligature joins pángit to pángit in \"very ugly\"?",
+   "options": [
+    "na",
+    "-ng",
+    "-g"
+   ],
+   "answer": "na",
+   "explain": "Pángit ends in a consonant other than n, so na: pángit na pángit."
+  },
+  {
+   "type": "choice",
+   "q": "Which prefix means very?",
+   "options": [
+    "nápaka-",
+    "pinaká-",
+    "magkasíng-"
+   ],
+   "answer": "nápaka-",
+   "explain": "Nápakagandá: very beautiful."
+  },
+  {
+   "type": "choice",
+   "q": "How do you say \"most beautiful\"?",
+   "options": [
+    "pinakámagandá",
+    "nápakagandá",
+    "magandáng-magandá"
+   ],
+   "answer": "pinakámagandá",
+   "explain": "Pinaká- means most."
+  },
+  {
+   "type": "listen",
+   "tl": "Magkasíntaás kamí.",
+   "options": [
+    "We are equally tall.",
+    "We are very tall.",
+    "We are the tallest."
+   ],
+   "answer": "We are equally tall.",
+   "explain": "Magkasín- + taás."
+  },
+  {
+   "type": "listen",
+   "tl": "pinakámatandâ",
+   "options": [
+    "oldest",
+    "very old",
+    "as old as"
+   ],
+   "answer": "oldest",
+   "explain": "Pinaká- means most."
+  },
+  {
+   "type": "listen",
+   "tl": "masípag na masípag",
+   "options": [
+    "very industrious",
+    "most industrious",
+    "as industrious as"
+   ],
+   "answer": "very industrious",
+   "explain": "Doubling with a ligature makes the intensive."
+  },
+  {
+   "type": "build",
+   "en": "Maria is as beautiful as Elena.",
+   "tl": "Si Maria ay kasínggandá ni Elena.",
+   "tokens": [
+    "si",
+    "maria",
+    "ay",
+    "kasínggandá",
+    "ni",
+    "elena"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Rizal and Bonifacio are equally good.",
+   "tl": "Magkasínggalíng sina Rizal at Bonifacio.",
+   "tokens": [
+    "magkasínggalíng",
+    "sina",
+    "rizal",
+    "at",
+    "bonifacio"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Maria is beautiful like (as beautiful as) Elena.",
+   "tl": "Si Maria ay magandá gáya ni Elena.",
+   "tokens": [
+    "si",
+    "maria",
+    "ay",
+    "magandá",
+    "gáya",
+    "ni",
+    "elena"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Peter is brighter than John.",
+   "tl": "Si Peter ay lalóng marúnong káysa kay John.",
+   "tokens": [
+    "si",
+    "peter",
+    "ay",
+    "lalóng",
+    "marúnong",
+    "káysa",
+    "kay",
+    "john"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The old is more diligent than the young.",
+   "tl": "Mas masipag ang matandá káysa sa batà.",
+   "tokens": [
+    "mas",
+    "masipag",
+    "ang",
+    "matandá",
+    "káysa",
+    "sa",
+    "batà"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "John is not as bright as Peter.",
+   "tl": "Si John ay hindi kasíndúnong ni Peter.",
+   "tokens": [
+    "si",
+    "john",
+    "ay",
+    "hindi",
+    "kasíndúnong",
+    "ni",
+    "peter"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match each word to its meaning.",
+   "pairs": [
+    [
+     "nápakagandá",
+     "very beautiful"
+    ],
+    [
+     "pinakámagandá",
+     "most beautiful"
+    ],
+    [
+     "kasínggandá",
+     "as beautiful as"
+    ],
+    [
+     "magkasínggandá",
+     "equally beautiful"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the exercise words to their meanings.",
+   "pairs": [
+    [
+     "indáyog",
+     "rhythm"
+    ],
+    [
+     "istílo",
+     "style"
+    ],
+    [
+     "makabágo",
+     "modern"
+    ],
+    [
+     "malawak",
+     "broad"
+    ],
+    [
+     "yélo",
+     "ice"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "As … as: kasíng- + root + ni/ng + B (Si Maria ay kasínggandá ni Elena). Equally: magkasíng- (Magkasíntaás kamí).",
+  "The prefix becomes kasín- before d, l, r, s, t and kasím- before b, p.",
+  "Parého, katúlad and gáya + ni/ng also mean as … as (Si Maria ay magandá gáya ni Elena).",
+  "More than: lalóng / higít na / mas + adjective + káysa kay (person) or káysa sa / kesa (place or thing).",
+  "Not as … as: hindi kasíng- (Si John ay hindi kasíndúnong ni Peter).",
+  "Very: doubling with a ligature (magandáng-magandá) or nápaka-. Most: pinaká- (pinakámagandá)."
+ ]
+}

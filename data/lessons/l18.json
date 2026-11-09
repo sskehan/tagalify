@@ -1,0 +1,2123 @@
+{
+ "id": "l18",
+ "label": "18",
+ "title": "Ma- and Maka- verb forms",
+ "summary": "Ma- and maka- verbs that show ability, and stressed má- and maká- verbs for accidental actions",
+ "minutes": 45,
+ "goals": [
+  "Understand what the prefixes ma- and maka- add to a verb root",
+  "Tell an intransitive ma- verb (active) from a transitive ma- verb (passive)",
+  "Form the past, present and future of ma- and maka- verbs",
+  "Use maka- to say someone is able to do something",
+  "Use stressed má- and maká- for unintentional or accidental actions"
+ ],
+ "sections": [
+  {
+   "title": "What ma- and maka- do",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Ma-** is a prefix attached to the **beginning of a verb root**. In general, a verb with ma- shows the **capability** to do something."
+    },
+    {
+     "type": "p",
+     "t": "A ma- verb comes in **two types**, active and passive. Which one you get depends on whether the verb needs an object."
+    },
+    {
+     "type": "table",
+     "head": [
+      "The verb is…",
+      "Meaning",
+      "The ma- verb is…",
+      "Its subject is…"
+     ],
+     "rows": [
+      [
+       "**intransitive**",
+       "it does not take an object",
+       "**active**",
+       "a noun or a nominative pronoun such as [[siyá|pron]] or [[ikáw|pron]], as with -um- and mag- verbs (Lesson 14)"
+      ],
+      [
+       "**transitive**",
+       "it needs an object to complete its meaning",
+       "**passive**",
+       "in the possessive form, such as [[niyá|pron]] or [[mo|pron]], as with -in- verbs (Lesson 15)"
+      ]
+     ],
+     "title": "Two types of ma- verb"
+    },
+    {
+     "type": "p",
+     "t": "**Maka-** has the same meaning as ma-, except that maka- is **always active**. It takes a noun or a nominative pronoun (such as siyá and ikáw) as its subject."
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "Not every ma- verb has a maka- partner",
+     "items": [
+      "A **ma-** verb can be formed from a verb showing **emotion or feeling** (to be angry, to be sad…).",
+      "A **maka-** verb can only be formed from a verb showing **action**.",
+      "So not all ma- verb forms have an equivalent maka- form."
+     ]
+    },
+    {
+     "type": "pattern",
+     "title": "Building the verbs",
+     "rows": [
+      {
+       "label": "ma-",
+       "chips": [
+        {
+         "t": "ma-",
+         "r": "other"
+        },
+        {
+         "t": "túlog",
+         "r": "pred"
+        },
+        {
+         "t": "→ matúlog",
+         "r": "pred"
+        }
+       ]
+      },
+      {
+       "label": "maka-",
+       "chips": [
+        {
+         "t": "maka-",
+         "r": "other"
+        },
+        {
+         "t": "túlog",
+         "r": "pred"
+        },
+        {
+         "t": "→ makatúlog",
+         "r": "pred"
+        }
+       ]
+      }
+     ],
+     "note": "to sleep / to be able to sleep"
+    }
+   ]
+  },
+  {
+   "title": "Intransitive verbs using ma-",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "An intransitive verb with ma- does **not need any other element besides the subject** to form a sentence. Its forms are made like this:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Verb",
+      "How it is made",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[túlog|pred]]",
+       "",
+       "sleep"
+      ],
+      [
+       "Infinitive",
+       "[[matúlog|pred]]",
+       "ma- + root",
+       "to sleep"
+      ],
+      [
+       "Imperative",
+       "[[matúlog|pred]]",
+       "ma- + root",
+       "(the same form as the infinitive)"
+      ],
+      [
+       "Past",
+       "[[natúlog|pred]]",
+       "ma- becomes na- + root",
+       "slept"
+      ],
+      [
+       "Present",
+       "[[natútulog|pred]]",
+       "ma- becomes na- + duplicated first syllable + root",
+       "sleeps/sleep"
+      ],
+      [
+       "Future",
+       "[[matútulog|pred]]",
+       "ma- + duplicated first syllable + root",
+       "will sleep"
+      ]
+     ],
+     "title": "Ma- with an intransitive verb: túlog"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Two simple swaps",
+     "items": [
+      "For the **past and present**, ma- changes to **na-**.",
+      "For the **present and future**, the **first syllable of the root is repeated**: tú-tulog."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "intrans",
+     "title": "Examples of intransitive verbs using ma-"
+    }
+   ]
+  },
+  {
+   "title": "Transitive verbs using ma-",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "A transitive verb needs an object to complete its meaning. Its forms are made in the same way as an intransitive verb, **except that it has no imperative form**."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Verb",
+      "How it is made",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[kíta|pred]]",
+       "",
+       "see"
+      ],
+      [
+       "Infinitive",
+       "[[mákita|pred]]",
+       "ma- + root",
+       "to be seen"
+      ],
+      [
+       "Imperative",
+       "none",
+       "",
+       ""
+      ],
+      [
+       "Past",
+       "[[nákíta|pred]]",
+       "ma- becomes na- + root",
+       "saw"
+      ],
+      [
+       "Present",
+       "[[nákikita|pred]]",
+       "ma- becomes na- + duplicated first syllable + root",
+       "sees/see"
+      ],
+      [
+       "Future",
+       "[[mákikita|pred]]",
+       "ma- + duplicated first syllable + root",
+       "will see"
+      ]
+     ],
+     "title": "Ma- with a transitive verb: kíta",
+     "note": "The accents are copied as the book prints this table. In its list of examples below, the book writes the infinitive as makita."
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "The subject takes the possessive form",
+     "t": "Because a transitive ma- verb is passive, the doer is shown with a possessive pronoun such as **ko**, **mo** or **niyá**: *Nákíta **ko** si Mary* (I saw Mary)."
+    },
+    {
+     "type": "vocab",
+     "group": "trans",
+     "title": "Examples of transitive verbs using ma-"
+    }
+   ]
+  },
+  {
+   "title": "Verbs using maka-",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Generally, adding **maka-** to a verb expresses the **capability to do something** (to be able to). A maka- verb **does not have an imperative form**."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Verb",
+      "How it is made",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[túlog|pred]]",
+       "",
+       "sleep"
+      ],
+      [
+       "Infinitive",
+       "[[makatúlog|pred]]",
+       "maka- + root",
+       "to be able to sleep"
+      ],
+      [
+       "Imperative",
+       "none",
+       "",
+       ""
+      ],
+      [
+       "Past",
+       "[[nakatúlog|pred]]",
+       "maka- becomes naka- + root",
+       "was/were able to sleep"
+      ],
+      [
+       "Present",
+       "[[nakatútulog|pred]]",
+       "maka- becomes naka- + duplicated first syllable + root",
+       "is/are able to sleep"
+      ],
+      [
+       "Future",
+       "[[makatútulog|pred]]",
+       "maka- + duplicated first syllable + root",
+       "will be able to sleep"
+      ]
+     ],
+     "title": "Maka- with túlog"
+    },
+    {
+     "type": "p",
+     "t": "The pattern is the same as ma-: **naka-** for the past and present, and the **first syllable of the root repeated** for the present and future."
+    },
+    {
+     "type": "vocab",
+     "group": "maka",
+     "title": "Examples of maka- verbs"
+    }
+   ]
+  },
+  {
+   "title": "Sample sentences",
+   "blocks": [
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ang mga batà ay dapat matúlog nang maága.",
+       "en": "Children should sleep early.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "mga",
+         "plural",
+         "marker"
+        ],
+        [
+         "batà",
+         "children",
+         "noun"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "dapat",
+         "should",
+         "pred"
+        ],
+        [
+         "matúlog",
+         "to sleep",
+         "pred"
+        ],
+        [
+         "nang",
+         "(how)",
+         "other"
+        ],
+        [
+         "maága",
+         "early",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Nagútom ako kagabí pagkatápos mag-áral.",
+       "en": "I got hungry last night after studying.",
+       "parts": [
+        [
+         "Nagútom",
+         "got hungry",
+         "pred"
+        ],
+        [
+         "ako",
+         "I",
+         "pron"
+        ],
+        [
+         "kagabí",
+         "last night",
+         "other"
+        ],
+        [
+         "pagkatápos",
+         "after",
+         "other"
+        ],
+        [
+         "mag-áral",
+         "studying",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Nagagálit ang aking iná sa mga bátang matigás ang úlo.",
+       "en": "My mother gets angry with hard-headed (or stubborn) children.",
+       "parts": [
+        [
+         "Nagagálit",
+         "gets angry",
+         "pred"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "aking",
+         "my",
+         "poss"
+        ],
+        [
+         "iná",
+         "mother",
+         "noun"
+        ],
+        [
+         "sa",
+         "with",
+         "marker"
+        ],
+        [
+         "mga",
+         "plural",
+         "marker"
+        ],
+        [
+         "bátang",
+         "children +ng",
+         "noun"
+        ],
+        [
+         "matigás",
+         "hard",
+         "pred"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "úlo",
+         "head",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nákíta ko si Mary sa palengke kahapon.",
+       "en": "I saw Mary in the market yesterday.",
+       "parts": [
+        [
+         "Nákíta",
+         "saw (was seen)",
+         "pred"
+        ],
+        [
+         "ko",
+         "I (possessive form)",
+         "pron"
+        ],
+        [
+         "si",
+         "article",
+         "marker"
+        ],
+        [
+         "Mary",
+         "Mary",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "palengke",
+         "market",
+         "noun"
+        ],
+        [
+         "kahapon",
+         "yesterday",
+         "other"
+        ]
+       ]
+      },
+      {
+       "tl": "Makukúha mo na ang iyong suwéldo.",
+       "en": "You can get your salary now.",
+       "parts": [
+        [
+         "Makukúha",
+         "can get",
+         "pred"
+        ],
+        [
+         "mo",
+         "you (possessive form)",
+         "pron"
+        ],
+        [
+         "na",
+         "now",
+         "part"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "iyong",
+         "your",
+         "poss"
+        ],
+        [
+         "suwéldo",
+         "salary",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nakatúlog kagabi ang maysakít.",
+       "en": "The sick person was able to sleep last night.",
+       "parts": [
+        [
+         "Nakatúlog",
+         "was able to sleep",
+         "pred"
+        ],
+        [
+         "kagabi",
+         "last night",
+         "other"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "maysakít",
+         "sick (person)",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Hindi ako makaligò kung malamíg.",
+       "en": "I cannot take a bath when it is cold.",
+       "parts": [
+        [
+         "Hindi",
+         "not",
+         "other"
+        ],
+        [
+         "ako",
+         "I",
+         "pron"
+        ],
+        [
+         "makaligò",
+         "able to take a bath",
+         "pred"
+        ],
+        [
+         "kung",
+         "when",
+         "other"
+        ],
+        [
+         "malamíg",
+         "cold",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang mga batà ay nakahigâ sa lupà.",
+       "en": "The children are able to lie on the ground.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "mga",
+         "plural",
+         "marker"
+        ],
+        [
+         "batà",
+         "children",
+         "noun"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "nakahigâ",
+         "lying down",
+         "pred"
+        ],
+        [
+         "sa",
+         "on",
+         "marker"
+        ],
+        [
+         "lupà",
+         "ground",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang pag-ása ay nakabúbuhay.",
+       "en": "Hope is able to give life.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "pag-ása",
+         "hope",
+         "noun"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "nakabúbuhay",
+         "is able to give life",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Náaalala ko ang aking anák sa gabí bago matúlog.",
+       "en": "I think of my child at night before sleeping.",
+       "parts": [
+        [
+         "Náaalala",
+         "think of (remember)",
+         "pred"
+        ],
+        [
+         "ko",
+         "I (possessive form)",
+         "pron"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "aking",
+         "my",
+         "poss"
+        ],
+        [
+         "anák",
+         "child",
+         "noun"
+        ],
+        [
+         "sa",
+         "at",
+         "marker"
+        ],
+        [
+         "gabí",
+         "night",
+         "noun"
+        ],
+        [
+         "bago",
+         "before",
+         "other"
+        ],
+        [
+         "matúlog",
+         "sleeping",
+         "pred"
+        ]
+       ]
+      }
+     ],
+     "title": "Ma- and maka- in sentences"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Spot the subject",
+     "items": [
+      "**Nagútom ako**: intransitive ma- verb, so the subject is the nominative pronoun **ako**.",
+      "**Nákíta ko**: transitive ma- verb (passive), so the doer is the possessive form **ko**.",
+      "**Hindi ako makaligò**: maka- is always active, so the subject is **ako**."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "words",
+     "title": "Vocabulary list"
+    }
+   ]
+  },
+  {
+   "title": "Stressed má- and maká-: by accident",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "To express **unintentional or accidental actions**, attach a **stressed má-** or **maká-** to the beginning of a verb. These verbs show an act happening **beyond the control** of the doer or the receiver."
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "Stressed má- and maká-",
+     "items": [
+      "They have **no imperative** forms.",
+      "The accent mark on **má-** and **maká-** is **kept in every tense**.",
+      "Not all stressed má- verbs have stressed maká- counterparts."
+     ]
+    },
+    {
+     "type": "h",
+     "t": "Verbs using stressed má-"
+    },
+    {
+     "type": "p",
+     "t": "The forms are made like those of the unstressed ma-. But because the stress stays on **má-** in every tense, the **pronunciation is different**."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Verb",
+      "How it is made",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[tulog|pred]]",
+       "",
+       "sleep"
+      ],
+      [
+       "Infinitive",
+       "[[mátulog|pred]]",
+       "má + root",
+       "to sleep unintentionally"
+      ],
+      [
+       "Imperative",
+       "none",
+       "",
+       ""
+      ],
+      [
+       "Past",
+       "[[nátulog|pred]]",
+       "má- becomes ná- + root",
+       "slept unintentionally"
+      ],
+      [
+       "Present",
+       "[[nátutulog|pred]]",
+       "má- becomes ná- + duplicated first syllable + root",
+       "sleeps unintentionally"
+      ],
+      [
+       "Future",
+       "[[mátutulog|pred]]",
+       "má- + duplicated first syllable + root",
+       "will sleep unintentionally"
+      ]
+     ],
+     "title": "Stressed má- with tulog"
+    },
+    {
+     "type": "pattern",
+     "title": "Compare the stress",
+     "rows": [
+      {
+       "label": "Unstressed",
+       "chips": [
+        {
+         "t": "matúlog",
+         "r": "pred"
+        }
+       ]
+      },
+      {
+       "label": "Stressed",
+       "chips": [
+        {
+         "t": "mátulog",
+         "r": "pred"
+        }
+       ]
+      }
+     ],
+     "note": "to sleep / to sleep unintentionally"
+    },
+    {
+     "type": "vocab",
+     "group": "accma",
+     "title": "Examples of verbs with stressed má-"
+    }
+   ]
+  },
+  {
+   "title": "Verbs using stressed maká-",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "With stressed **maká-**, the **second syllable of the prefix (ka)** is duplicated in the **present and future** tenses."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Verb",
+      "How it is made",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[tulog|pred]]",
+       "",
+       "sleep"
+      ],
+      [
+       "Infinitive",
+       "[[makátulog|pred]]",
+       "maká- + root",
+       "to sleep unintentionally"
+      ],
+      [
+       "Imperative",
+       "none",
+       "",
+       ""
+      ],
+      [
+       "Past",
+       "[[nakátulog|pred]]",
+       "maká- becomes naká- + root",
+       "slept unintentionally"
+      ],
+      [
+       "Present",
+       "[[nakákatulog|pred]]",
+       "maká- becomes naká- + duplicated ka + root",
+       "sleeps/sleep unintentionally"
+      ],
+      [
+       "Future",
+       "[[makákatulog|pred]]",
+       "maká- + duplicated ka- + root",
+       "will sleep unintentionally"
+      ]
+     ],
+     "title": "Stressed maká- with tulog"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Verb",
+      "How it is made",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[ligó|pred]]",
+       "",
+       "bathe"
+      ],
+      [
+       "Infinitive",
+       "[[makáligó|pred]]",
+       "maká- + root",
+       "bathe unintentionally"
+      ],
+      [
+       "Imperative",
+       "none",
+       "",
+       ""
+      ],
+      [
+       "Past",
+       "[[nakáligó|pred]]",
+       "maká- becomes naká- + root",
+       "bathed unintentionally"
+      ],
+      [
+       "Present",
+       "[[nakákaligó|pred]]",
+       "maká- becomes naká- + duplicate ka + root",
+       "bathe/bathes unintentionally"
+      ],
+      [
+       "Future",
+       "[[makákaligó|pred]]",
+       "maká- + duplicate ka- + root",
+       "will bathe unintentionally"
+      ]
+     ],
+     "title": "Stressed maká- with ligó"
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Which syllable repeats?",
+     "items": [
+      "Ma- and maka- (ability): repeat the **first syllable of the root**: nakatú**tu**log.",
+      "Stressed maká- (accident): repeat **ka** from the prefix: naká**ka**tulog."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "accmaka",
+     "title": "Examples of verbs with stressed maká-"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Nákita ko siyá sa palengke.",
+       "en": "I saw her (by chance) at the market.",
+       "parts": [
+        [
+         "Nákita",
+         "saw (by chance)",
+         "pred"
+        ],
+        [
+         "ko",
+         "I (possessive form)",
+         "pron"
+        ],
+        [
+         "siyá",
+         "her",
+         "pron"
+        ],
+        [
+         "sa",
+         "at",
+         "marker"
+        ],
+        [
+         "palengke",
+         "market",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nákain ko ang lúmang tinápay.",
+       "en": "I (accidentally) ate the stale bread.",
+       "parts": [
+        [
+         "Nákain",
+         "ate (accidentally)",
+         "pred"
+        ],
+        [
+         "ko",
+         "I (possessive form)",
+         "pron"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "lúmang",
+         "stale +ng",
+         "pred"
+        ],
+        [
+         "tinápay",
+         "bread",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nárinig námin ang kánilang áwit.",
+       "en": "We heard (by chance) their song.",
+       "parts": [
+        [
+         "Nárinig",
+         "heard (by chance)",
+         "pred"
+        ],
+        [
+         "námin",
+         "we (possessive form)",
+         "pron"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "kánilang",
+         "their",
+         "poss"
+        ],
+        [
+         "áwit",
+         "song",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nábanggâ ang kotse sa padér.",
+       "en": "The car (accidentally) bumped against the wall.",
+       "parts": [
+        [
+         "Nábanggâ",
+         "bumped (accidentally)",
+         "pred"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "kotse",
+         "car",
+         "noun"
+        ],
+        [
+         "sa",
+         "against",
+         "marker"
+        ],
+        [
+         "padér",
+         "wall",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nakábaril ng pulís ang magnanakaw.",
+       "en": "The robber (accidentally) shot the policeman.",
+       "parts": [
+        [
+         "Nakábaril",
+         "shot (accidentally)",
+         "pred"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "pulís",
+         "policeman",
+         "noun"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "magnanakaw",
+         "robber",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nakápulot ang batà ng sampûng píso.",
+       "en": "The child (by chance) picked up ten pesos.",
+       "parts": [
+        [
+         "Nakápulot",
+         "picked up (by chance)",
+         "pred"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "sampûng",
+         "ten +ng",
+         "other"
+        ],
+        [
+         "píso",
+         "pesos",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nakárinig siyá ng putók.",
+       "en": "He heard (by chance) an explosion.",
+       "parts": [
+        [
+         "Nakárinig",
+         "heard (by chance)",
+         "pred"
+        ],
+        [
+         "siyá",
+         "he",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "putók",
+         "explosion",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nakádalaw si Maria sa kaniyáng iná.",
+       "en": "Maria visited her mother (without meaning to).",
+       "parts": [
+        [
+         "Nakádalaw",
+         "visited (without meaning to)",
+         "pred"
+        ],
+        [
+         "si",
+         "article",
+         "marker"
+        ],
+        [
+         "Maria",
+         "Maria",
+         "noun"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "kaniyáng",
+         "her",
+         "poss"
+        ],
+        [
+         "iná",
+         "mother",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nátulog ang laláki sa loób ng simbáhan.",
+       "en": "The man fell asleep (without meaning to) inside the church.",
+       "parts": [
+        [
+         "Nátulog",
+         "fell asleep (without meaning to)",
+         "pred"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "laláki",
+         "man",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "loób",
+         "inside",
+         "noun"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "simbáhan",
+         "church",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nakábili siya ng magandáng sapátos sa Marikina.",
+       "en": "She bought (without previous intention) pretty shoes in Marikina.",
+       "parts": [
+        [
+         "Nakábili",
+         "bought (without intention)",
+         "pred"
+        ],
+        [
+         "siya",
+         "she",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "magandáng",
+         "pretty +ng",
+         "pred"
+        ],
+        [
+         "sapátos",
+         "shoes",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "Marikina",
+         "Marikina",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Accidental actions in sentences"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "Ma- shows capability. Intransitive ma- verbs are active (subject: siyá, ikáw); transitive ma- verbs are passive (doer: niyá, mo).",
+      "Maka- means the same as ma- but is always active, and is only made from action verbs.",
+      "Past and present: ma- → na-, maka- → naka-. Present and future: repeat the first syllable of the root.",
+      "Transitive ma- verbs and maka- verbs have no imperative.",
+      "Stressed má- and maká- show accidental or unintentional actions, keep their accent in every tense, and have no imperative.",
+      "Stressed maká- repeats ka in the present and future: nakákatulog, makákatulog."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "matulog-l18",
+   "tl": "matúlog",
+   "en": "to sleep",
+   "pos": "verb",
+   "group": "intrans",
+   "say": "ma-TU-log"
+  },
+  {
+   "id": "magutom",
+   "tl": "magútom",
+   "en": "to be hungry",
+   "pos": "verb",
+   "group": "intrans",
+   "say": "ma-GU-tom"
+  },
+  {
+   "id": "makinig",
+   "tl": "makiníg",
+   "en": "to listen to",
+   "pos": "verb",
+   "group": "intrans",
+   "say": "ma-ki-NIG"
+  },
+  {
+   "id": "mahiga",
+   "tl": "mahigâ",
+   "en": "to lie down",
+   "pos": "verb",
+   "group": "intrans",
+   "say": "ma-hi-gaQ"
+  },
+  {
+   "id": "matuwa",
+   "tl": "matuwâ",
+   "en": "to be delighted",
+   "pos": "verb",
+   "group": "intrans",
+   "say": "ma-tu-waQ"
+  },
+  {
+   "id": "mamatay",
+   "tl": "mamatáy",
+   "en": "to die",
+   "pos": "verb",
+   "group": "intrans",
+   "say": "ma-ma-TAY"
+  },
+  {
+   "id": "maligo",
+   "tl": "maligò",
+   "en": "to take a bath",
+   "pos": "verb",
+   "group": "intrans",
+   "say": "ma-LI-goQ"
+  },
+  {
+   "id": "magalit",
+   "tl": "magálit",
+   "en": "to be angry",
+   "pos": "verb",
+   "group": "intrans",
+   "say": "ma-GA-lit"
+  },
+  {
+   "id": "mahiya",
+   "tl": "mahiyâ",
+   "en": "to be ashamed",
+   "pos": "verb",
+   "group": "intrans",
+   "say": "ma-hi-yaQ"
+  },
+  {
+   "id": "maupo",
+   "tl": "maupô",
+   "en": "to sit",
+   "pos": "verb",
+   "group": "intrans",
+   "say": "ma-u-poQ"
+  },
+  {
+   "id": "matakot",
+   "tl": "matákot",
+   "en": "to be afraid",
+   "pos": "verb",
+   "group": "intrans",
+   "say": "ma-TA-kot"
+  },
+  {
+   "id": "malungkot",
+   "tl": "malungkót",
+   "en": "to be sad",
+   "pos": "verb",
+   "group": "intrans",
+   "say": "ma-lung-KOT"
+  },
+  {
+   "id": "makita",
+   "tl": "makita",
+   "en": "to be seen",
+   "pos": "verb",
+   "group": "trans",
+   "note": "The book's conjugation table writes it mákita (past nákíta, present nákikita, future mákikita)."
+  },
+  {
+   "id": "makain",
+   "tl": "makáin",
+   "en": "to be able to eat",
+   "pos": "verb",
+   "group": "trans",
+   "say": "ma-KA-in"
+  },
+  {
+   "id": "maalala",
+   "tl": "maalála",
+   "en": "to be remembered",
+   "pos": "verb",
+   "group": "trans",
+   "say": "ma-a-LA-la"
+  },
+  {
+   "id": "makuha",
+   "tl": "makúha",
+   "en": "to be able to get",
+   "pos": "verb",
+   "group": "trans",
+   "say": "ma-KU-ha"
+  },
+  {
+   "id": "marinig",
+   "tl": "marinig",
+   "en": "to be heard",
+   "pos": "verb",
+   "group": "trans"
+  },
+  {
+   "id": "mabili",
+   "tl": "mabilí",
+   "en": "to be able to buy",
+   "pos": "verb",
+   "group": "trans",
+   "say": "ma-bi-LI"
+  },
+  {
+   "id": "masunog",
+   "tl": "masúnog",
+   "en": "to be burned",
+   "pos": "verb",
+   "group": "trans",
+   "say": "ma-SU-nog"
+  },
+  {
+   "id": "mabasa",
+   "tl": "mabása",
+   "en": "to be able to read",
+   "pos": "verb",
+   "group": "trans",
+   "say": "ma-BA-sa"
+  },
+  {
+   "id": "mabasag",
+   "tl": "mabásag",
+   "en": "to be broken",
+   "pos": "verb",
+   "group": "trans",
+   "say": "ma-BA-sag",
+   "note": "Also in the lesson's vocabulary list."
+  },
+  {
+   "id": "makatulog",
+   "tl": "makatúlog",
+   "en": "to be able to sleep",
+   "pos": "verb",
+   "group": "maka",
+   "say": "ma-ka-TU-log"
+  },
+  {
+   "id": "makaligo",
+   "tl": "makaligò",
+   "en": "to be able to bathe",
+   "pos": "verb",
+   "group": "maka",
+   "say": "ma-ka-LI-goQ"
+  },
+  {
+   "id": "makahiga",
+   "tl": "makahigâ",
+   "en": "to be able to lie down",
+   "pos": "verb",
+   "group": "maka",
+   "say": "ma-ka-hi-gaQ"
+  },
+  {
+   "id": "makaupo",
+   "tl": "makaupô",
+   "en": "to be able to sit",
+   "pos": "verb",
+   "group": "maka",
+   "say": "ma-ka-u-poQ"
+  },
+  {
+   "id": "makabuhay",
+   "tl": "makabúhay",
+   "en": "to be able to give life",
+   "pos": "verb",
+   "group": "maka",
+   "say": "ma-ka-BU-hay"
+  },
+  {
+   "id": "makakita",
+   "tl": "makakíta",
+   "en": "to be able to see",
+   "pos": "verb",
+   "group": "maka",
+   "say": "ma-ka-KI-ta"
+  },
+  {
+   "id": "makakain",
+   "tl": "makakáin",
+   "en": "to be able to eat",
+   "pos": "verb",
+   "group": "maka",
+   "say": "ma-ka-KA-in"
+  },
+  {
+   "id": "makaalala",
+   "tl": "makaalála",
+   "en": "to be able to remember",
+   "pos": "verb",
+   "group": "maka",
+   "say": "ma-ka-a-LA-la"
+  },
+  {
+   "id": "makakuha",
+   "tl": "makakúha",
+   "en": "to be able to get",
+   "pos": "verb",
+   "group": "maka",
+   "say": "ma-ka-KU-ha"
+  },
+  {
+   "id": "makarinig-able",
+   "tl": "makárinig",
+   "en": "to be able to hear",
+   "pos": "verb",
+   "group": "maka",
+   "say": "ma-KA-ri-nig",
+   "note": "The book prints the stressed maká- verb 'to hear unintentionally' the same way."
+  },
+  {
+   "id": "makabili",
+   "tl": "makabilí",
+   "en": "to be able to buy",
+   "pos": "verb",
+   "group": "maka",
+   "say": "ma-ka-bi-LI"
+  },
+  {
+   "id": "makasunog",
+   "tl": "makasúnog",
+   "en": "to be able to burn",
+   "pos": "verb",
+   "group": "maka",
+   "say": "ma-ka-SU-nog"
+  },
+  {
+   "id": "makabasa",
+   "tl": "makabása",
+   "en": "to be able to read",
+   "pos": "verb",
+   "group": "maka",
+   "say": "ma-ka-BA-sa"
+  },
+  {
+   "id": "makabasag",
+   "tl": "makabásag",
+   "en": "to be able to break",
+   "pos": "verb",
+   "group": "maka",
+   "say": "ma-ka-BA-sag"
+  },
+  {
+   "id": "matulog-acc",
+   "tl": "mátulog",
+   "en": "to sleep unintentionally",
+   "pos": "verb",
+   "group": "accma",
+   "say": "MA-tu-log"
+  },
+  {
+   "id": "makita-acc",
+   "tl": "mákita",
+   "en": "to be seen accidentally",
+   "pos": "verb",
+   "group": "accma",
+   "say": "MA-ki-ta"
+  },
+  {
+   "id": "makain-acc",
+   "tl": "mákain",
+   "en": "to be eaten accidentally",
+   "pos": "verb",
+   "group": "accma",
+   "say": "MA-ka-in"
+  },
+  {
+   "id": "mabasa-acc",
+   "tl": "mábasa",
+   "en": "to be read unintentionally",
+   "pos": "verb",
+   "group": "accma",
+   "say": "MA-ba-sa"
+  },
+  {
+   "id": "marinig-acc",
+   "tl": "márinig",
+   "en": "to be heard accidentally",
+   "pos": "verb",
+   "group": "accma",
+   "say": "MA-ri-nig"
+  },
+  {
+   "id": "mainom-acc",
+   "tl": "máinom",
+   "en": "to be drank accidentally",
+   "pos": "verb",
+   "group": "accma",
+   "say": "MA-i-nom"
+  },
+  {
+   "id": "mabangga-acc",
+   "tl": "mábanggâ",
+   "en": "to be bumped unintentionally",
+   "pos": "verb",
+   "group": "accma",
+   "say": "MA-bang-gaQ"
+  },
+  {
+   "id": "mabaril-acc",
+   "tl": "mábaril",
+   "en": "to be shot accidentally",
+   "pos": "verb",
+   "group": "accma",
+   "say": "MA-ba-ril"
+  },
+  {
+   "id": "mapatay-acc",
+   "tl": "mápatay",
+   "en": "to be killed unintentionally",
+   "pos": "verb",
+   "group": "accma",
+   "say": "MA-pa-tay"
+  },
+  {
+   "id": "makabili-acc",
+   "tl": "makábili",
+   "en": "to buy without previous intention",
+   "pos": "verb",
+   "group": "accmaka",
+   "say": "ma-KA-bi-li"
+  },
+  {
+   "id": "makabaril-acc",
+   "tl": "makábaril",
+   "en": "to shoot accidentally",
+   "pos": "verb",
+   "group": "accmaka",
+   "say": "ma-KA-ba-ril"
+  },
+  {
+   "id": "makakita-acc",
+   "tl": "makákita",
+   "en": "to see by chance, involuntarily",
+   "pos": "verb",
+   "group": "accmaka",
+   "say": "ma-KA-ki-ta"
+  },
+  {
+   "id": "makakain-acc",
+   "tl": "makákain",
+   "en": "to eat accidentally",
+   "pos": "verb",
+   "group": "accmaka",
+   "say": "ma-KA-ka-in"
+  },
+  {
+   "id": "makainom-acc",
+   "tl": "makáinom",
+   "en": "to drink accidentally",
+   "pos": "verb",
+   "group": "accmaka",
+   "say": "ma-KA-i-nom",
+   "note": "The book's exercise glosses it 'to drink unintentionally'."
+  },
+  {
+   "id": "makabangga-acc",
+   "tl": "makábangga",
+   "en": "to bump against accidentally",
+   "pos": "verb",
+   "group": "accmaka",
+   "say": "ma-KA-bang-ga"
+  },
+  {
+   "id": "makarinig-acc",
+   "tl": "makárinig",
+   "en": "to hear unintentionally",
+   "pos": "verb",
+   "group": "accmaka",
+   "say": "ma-KA-ri-nig",
+   "note": "The book prints the maka- verb 'to be able to hear' the same way."
+  },
+  {
+   "id": "makapulot-acc",
+   "tl": "makápulot",
+   "en": "to pick up something accidentally",
+   "pos": "verb",
+   "group": "accmaka",
+   "say": "ma-KA-pu-lot"
+  },
+  {
+   "id": "makapatay-acc",
+   "tl": "makápatay",
+   "en": "to kill accidentally",
+   "pos": "verb",
+   "group": "accmaka",
+   "say": "ma-KA-pa-tay",
+   "note": "The book's exercise glosses it 'to kill by accident'."
+  },
+  {
+   "id": "makadalaw-acc",
+   "tl": "makádalaw",
+   "en": "to visit without previous intention",
+   "pos": "verb",
+   "group": "accmaka",
+   "say": "ma-KA-da-law"
+  },
+  {
+   "id": "nakahiga",
+   "tl": "nakahigâ",
+   "en": "lying down",
+   "pos": "adj",
+   "group": "words",
+   "say": "na-ka-hi-gaQ"
+  },
+  {
+   "id": "araw-araw",
+   "tl": "áraw-áraw",
+   "en": "every day",
+   "pos": "adv",
+   "group": "words",
+   "say": "A-raw-A-raw"
+  },
+  {
+   "id": "putok",
+   "tl": "putók",
+   "en": "explosion",
+   "pos": "noun",
+   "group": "words",
+   "say": "pu-TOK"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "In general, what does a verb with ma- show?",
+   "options": [
+    "capability to do something",
+    "an order",
+    "an action that is finished"
+   ],
+   "answer": "capability to do something",
+   "explain": "In general, a ma- verb indicates capability to do something."
+  },
+  {
+   "type": "choice",
+   "q": "A ma- verb made from an INTRANSITIVE verb is…",
+   "options": [
+    "active",
+    "passive",
+    "always an imperative"
+   ],
+   "answer": "active",
+   "explain": "It takes a noun or a nominative pronoun (siyá, ikáw) as its subject."
+  },
+  {
+   "type": "choice",
+   "q": "A ma- verb made from a TRANSITIVE verb is…",
+   "options": [
+    "passive",
+    "active",
+    "never used in the past"
+   ],
+   "answer": "passive",
+   "explain": "It needs a subject in the possessive form, such as niyá or mo."
+  },
+  {
+   "type": "choice",
+   "q": "Which is always active?",
+   "options": [
+    "maka-",
+    "transitive ma-",
+    "both"
+   ],
+   "answer": "maka-",
+   "explain": "Maka- is always active and takes a nominative subject such as siyá or ikáw."
+  },
+  {
+   "type": "choice",
+   "q": "Why is there no maka- form of magálit (to be angry)?",
+   "options": [
+    "Maka- is only formed from verbs showing action",
+    "Magálit is transitive",
+    "Maka- has no past tense"
+   ],
+   "answer": "Maka- is only formed from verbs showing action",
+   "explain": "Ma- can be formed from verbs of emotion or feeling; maka- cannot."
+  },
+  {
+   "type": "choice",
+   "q": "What is the past of matúlog?",
+   "options": [
+    "natúlog",
+    "natútulog",
+    "matútulog"
+   ],
+   "answer": "natúlog",
+   "explain": "Ma- becomes na- + root."
+  },
+  {
+   "type": "choice",
+   "q": "What is the present of matúlog?",
+   "options": [
+    "natútulog",
+    "natúlog",
+    "matútulog"
+   ],
+   "answer": "natútulog",
+   "explain": "Ma- becomes na-, and the first syllable of the root is repeated."
+  },
+  {
+   "type": "choice",
+   "q": "What is the future of matúlog?",
+   "options": [
+    "matútulog",
+    "natútulog",
+    "makatúlog"
+   ],
+   "answer": "matútulog",
+   "explain": "Ma- + duplicated first syllable + root."
+  },
+  {
+   "type": "choice",
+   "q": "Which verb form has NO imperative?",
+   "options": [
+    "a transitive ma- verb such as mákita",
+    "an intransitive ma- verb such as matúlog"
+   ],
+   "answer": "a transitive ma- verb such as mákita",
+   "explain": "Transitive ma- verbs and maka- verbs have no imperative."
+  },
+  {
+   "type": "choice",
+   "q": "What does nakatúlog mean?",
+   "options": [
+    "was/were able to sleep",
+    "will be able to sleep",
+    "slept unintentionally"
+   ],
+   "answer": "was/were able to sleep",
+   "explain": "Maka- becomes naka- + root in the past."
+  },
+  {
+   "type": "choice",
+   "q": "\"Hindi ako ___ kung malamíg.\" (I cannot take a bath when it is cold.)",
+   "options": [
+    "makaligò",
+    "maligò",
+    "nakaligò"
+   ],
+   "answer": "makaligò",
+   "explain": "Maka- shows the ability to do something."
+  },
+  {
+   "type": "choice",
+   "q": "In \"Nákíta ko si Mary\", why is the doer ko and not ako?",
+   "options": [
+    "Transitive ma- verbs take a subject in the possessive form",
+    "Ko is plural",
+    "Ako is only used in questions"
+   ],
+   "answer": "Transitive ma- verbs take a subject in the possessive form",
+   "explain": "Like -in- verbs, a transitive ma- verb is passive."
+  },
+  {
+   "type": "choice",
+   "q": "Stressed má- and maká- express…",
+   "options": [
+    "unintentional or accidental actions",
+    "commands",
+    "actions done every day"
+   ],
+   "answer": "unintentional or accidental actions",
+   "explain": "The act is beyond the control of the doer or the receiver."
+  },
+  {
+   "type": "choice",
+   "q": "In stressed maká- verbs, what is repeated in the present and future?",
+   "options": [
+    "ka, the second syllable of the prefix",
+    "the first syllable of the root",
+    "nothing"
+   ],
+   "answer": "ka, the second syllable of the prefix",
+   "explain": "Nakákatulog, makákatulog."
+  },
+  {
+   "type": "choice",
+   "q": "What is the present of makátulog (to sleep unintentionally)?",
+   "options": [
+    "nakákatulog",
+    "nakátulog",
+    "nakatútulog"
+   ],
+   "answer": "nakákatulog",
+   "explain": "Maká- becomes naká- + duplicated ka + root."
+  },
+  {
+   "type": "choice",
+   "q": "\"Nakápulot ang batà ng sampûng píso\" means…",
+   "options": [
+    "The child (by chance) picked up ten pesos.",
+    "The child will pick up ten pesos.",
+    "The child was able to buy ten pesos."
+   ],
+   "answer": "The child (by chance) picked up ten pesos.",
+   "explain": "Nakápulot: picked up, by accident."
+  },
+  {
+   "type": "listen",
+   "tl": "makatúlog",
+   "options": [
+    "to be able to sleep",
+    "to sleep unintentionally",
+    "slept"
+   ],
+   "answer": "to be able to sleep",
+   "explain": "Maka- + túlog."
+  },
+  {
+   "type": "listen",
+   "tl": "mátulog",
+   "options": [
+    "to sleep unintentionally",
+    "to be able to sleep",
+    "to sleep"
+   ],
+   "answer": "to sleep unintentionally",
+   "explain": "The stress on má- marks an unintentional action."
+  },
+  {
+   "type": "listen",
+   "tl": "malungkót",
+   "options": [
+    "to be sad",
+    "to be afraid",
+    "to be angry"
+   ],
+   "answer": "to be sad",
+   "explain": "Malungkót = to be sad."
+  },
+  {
+   "type": "listen",
+   "tl": "maysakít",
+   "options": [
+    "sick",
+    "lying down",
+    "every day"
+   ],
+   "answer": "sick",
+   "explain": "Nakatúlog kagabi ang maysakít."
+  },
+  {
+   "type": "build",
+   "en": "Children should sleep early.",
+   "tl": "Ang mga batà ay dapat matúlog nang maága.",
+   "tokens": [
+    "ang",
+    "mga",
+    "batà",
+    "ay",
+    "dapat",
+    "matúlog",
+    "nang",
+    "maága"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "I saw Mary in the market yesterday.",
+   "tl": "Nákíta ko si Mary sa palengke kahapon.",
+   "tokens": [
+    "nákíta",
+    "ko",
+    "si",
+    "mary",
+    "sa",
+    "palengke",
+    "kahapon"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "You can get your salary now.",
+   "tl": "Makukúha mo na ang iyong suwéldo.",
+   "tokens": [
+    "makukúha",
+    "mo",
+    "na",
+    "ang",
+    "iyong",
+    "suwéldo"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The sick person was able to sleep last night.",
+   "tl": "Nakatúlog kagabi ang maysakít.",
+   "tokens": [
+    "nakatúlog",
+    "kagabi",
+    "ang",
+    "maysakít"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "He heard (by chance) an explosion.",
+   "tl": "Nakárinig siyá ng putók.",
+   "tokens": [
+    "nakárinig",
+    "siyá",
+    "ng",
+    "putók"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "I (accidentally) ate the stale bread.",
+   "tl": "Nákain ko ang lúmang tinápay.",
+   "tokens": [
+    "nákain",
+    "ko",
+    "ang",
+    "lúmang",
+    "tinápay"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match each ma- verb to its meaning.",
+   "pairs": [
+    [
+     "magútom",
+     "to be hungry"
+    ],
+    [
+     "matákot",
+     "to be afraid"
+    ],
+    [
+     "mahiyâ",
+     "to be ashamed"
+    ],
+    [
+     "maupô",
+     "to sit"
+    ],
+    [
+     "mamatáy",
+     "to die"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each form of túlog to its meaning.",
+   "pairs": [
+    [
+     "natúlog",
+     "slept"
+    ],
+    [
+     "makatúlog",
+     "to be able to sleep"
+    ],
+    [
+     "nakatúlog",
+     "was able to sleep"
+    ],
+    [
+     "nátulog",
+     "slept unintentionally"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "Ma- shows capability. With an intransitive verb it is active (subject: siyá, ikáw); with a transitive verb it is passive (doer: niyá, mo).",
+  "Maka- has the same meaning but is always active, and is only made from verbs showing action.",
+  "Tenses: ma- → na- (past, present) and maka- → naka-; the present and future repeat the first syllable of the root.",
+  "Transitive ma- verbs and maka- verbs have no imperative.",
+  "Stressed má- and maká- show accidental actions, keep their accent in every tense and have no imperative; maká- repeats ka in the present and future."
+ ]
+}

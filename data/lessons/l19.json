@@ -1,0 +1,956 @@
+{
+ "id": "l19",
+ "label": "19",
+ "title": "Magíng: to be or to become",
+ "summary": "Using magíng before a noun or adjective to talk about changing from one state to another",
+ "minutes": 30,
+ "goals": [
+  "Understand what magíng adds before a noun or adjective",
+  "Form the infinitive, imperative, past, present and future of magíng phrases",
+  "Read and build sentences such as Gustó kong magíng gurò",
+  "Describe how a person or thing is changing, has changed or will change"
+ ],
+ "sections": [
+  {
+   "title": "What magíng means",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Magíng** means *to be* or *to become*. When it is placed **before a noun or an adjective**, the phrase expresses the speaker's or the subject's **desire to change from one state or condition to another**."
+    },
+    {
+     "type": "p",
+     "t": "Magíng is in fact a **very common helping verb** in Tagalog. It does the job of English *to become*, and the noun or adjective after it says **what** someone or something becomes."
+    },
+    {
+     "type": "pattern",
+     "title": "Magíng + noun or adjective",
+     "rows": [
+      {
+       "label": "+ adjective",
+       "chips": [
+        {
+         "t": "magíng",
+         "r": "pred"
+        },
+        {
+         "t": "mabaít",
+         "r": "pred"
+        }
+       ]
+      },
+      {
+       "label": "+ noun",
+       "chips": [
+        {
+         "t": "magíng",
+         "r": "pred"
+        },
+        {
+         "t": "gurò",
+         "r": "noun"
+        }
+       ]
+      }
+     ],
+     "note": "to become good / to become a teacher"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Tagalog",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[magíng|pred]] [[mabaít|pred]]",
+       "to become good (or to be good)"
+      ],
+      [
+       "[[magíng|pred]] [[Pilipino|noun]]",
+       "to become a Filipino (or to be a Filipino)"
+      ],
+      [
+       "[[magíng|pred]] [[masamâ|pred]]",
+       "to become bad (or to be bad)"
+      ],
+      [
+       "[[magíng|pred]] [[gurò|noun]]",
+       "to become a teacher (or to be a teacher)"
+      ],
+      [
+       "[[magíng|pred]] [[abugádo|noun]]",
+       "to become a lawyer (or to be a lawyer)"
+      ],
+      [
+       "[[magíng|pred]] [[tahímik|pred]]",
+       "to become quiet (or to be quiet)"
+      ],
+      [
+       "[[magíng|pred]] [[mayáman|pred]]",
+       "to become rich (or to be rich)"
+      ],
+      [
+       "[[magíng|pred]] [[bulág|pred]]",
+       "to become blind (or to be blind)"
+      ]
+     ],
+     "title": "Magíng phrases"
+    }
+   ]
+  },
+  {
+   "title": "Forming phrases with magíng",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Take a root such as **baít** (kindness). Attach **ma-** to the root to make the adjective **mabaít**, and put a form of magíng in front of it. Only magíng changes for the tense."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Phrase",
+      "How it is made",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[baít|noun]]",
+       "",
+       "kindness"
+      ],
+      [
+       "Infinitive",
+       "[[magíng mabaít|pred]]",
+       "magíng + ma- attached to root",
+       "to be kind"
+      ],
+      [
+       "Imperative",
+       "[[magíng mabaít|pred]]",
+       "magíng + ma- attached to root",
+       "Be kind!"
+      ],
+      [
+       "Past",
+       "[[nagíng mabaít|pred]]",
+       "magíng becomes nagíng + ma- attached to root",
+       "became kind"
+      ],
+      [
+       "Present",
+       "[[nagíging mabaít|pred]]",
+       "magíng becomes nagíging + ma- attached to root",
+       "become kind"
+      ],
+      [
+       "Future",
+       "[[magíging mabaít|pred]]",
+       "magíng becomes magíging + ma- attached to root",
+       "will become kind"
+      ]
+     ],
+     "title": "Magíng with baít"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Spot the tense",
+     "items": [
+      "**m** → **n** for the past and present: magíng → **n**agíng, **n**agíging.",
+      "The present and future repeat **gi**: na**gí**ging, ma**gí**ging.",
+      "The infinitive and the imperative look the same: magíng."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "maging",
+     "title": "The forms of magíng"
+    }
+   ]
+  },
+  {
+   "title": "Sample sentences",
+   "blocks": [
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ang anák niya ay nagíging mabaít na ngayón.",
+       "en": "Her/his child is becoming good now. (literal) Her/his child is better behaved now.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "anák",
+         "child",
+         "noun"
+        ],
+        [
+         "niya",
+         "her/his",
+         "poss"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "nagíging",
+         "is becoming",
+         "pred"
+        ],
+        [
+         "mabaít",
+         "good",
+         "pred"
+        ],
+        [
+         "na",
+         "now, already",
+         "part"
+        ],
+        [
+         "ngayón",
+         "now",
+         "other"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang aking kaibígan ay magíging mayáman na.",
+       "en": "My friend will soon get rich.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "aking",
+         "my",
+         "poss"
+        ],
+        [
+         "kaibígan",
+         "friend",
+         "noun"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "magíging",
+         "will become",
+         "pred"
+        ],
+        [
+         "mayáman",
+         "rich",
+         "pred"
+        ],
+        [
+         "na",
+         "soon, already",
+         "part"
+        ]
+       ]
+      },
+      {
+       "tl": "Kailángang magíng malusóg ang lahat ng mga batà.",
+       "en": "All children need to be healthy.",
+       "parts": [
+        [
+         "Kailángang",
+         "need to +ng",
+         "pred"
+        ],
+        [
+         "magíng",
+         "to be",
+         "pred"
+        ],
+        [
+         "malusóg",
+         "healthy",
+         "pred"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "lahat",
+         "all",
+         "other"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "mga",
+         "plural",
+         "marker"
+        ],
+        [
+         "batà",
+         "children",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nagíging tahímik na ang aming báhay.",
+       "en": "Our house is becoming quiet now.",
+       "parts": [
+        [
+         "Nagíging",
+         "is becoming",
+         "pred"
+        ],
+        [
+         "tahímik",
+         "quiet",
+         "pred"
+        ],
+        [
+         "na",
+         "now",
+         "part"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "aming",
+         "our",
+         "poss"
+        ],
+        [
+         "báhay",
+         "house",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nagíng kápitbahay namin silá.",
+       "en": "They were once our neighbors.",
+       "parts": [
+        [
+         "Nagíng",
+         "became, were",
+         "pred"
+        ],
+        [
+         "kápitbahay",
+         "neighbors",
+         "noun"
+        ],
+        [
+         "namin",
+         "our",
+         "poss"
+        ],
+        [
+         "silá",
+         "they",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Gustó kong magíng gurò.",
+       "en": "I want to become a teacher.",
+       "parts": [
+        [
+         "Gustó",
+         "want",
+         "pred"
+        ],
+        [
+         "kong",
+         "I +ng",
+         "pron"
+        ],
+        [
+         "magíng",
+         "to become",
+         "pred"
+        ],
+        [
+         "gurò",
+         "teacher",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Áyaw mo bang maging doktór?",
+       "en": "Don't you want to become a doctor?",
+       "parts": [
+        [
+         "Áyaw",
+         "don't want",
+         "pred"
+        ],
+        [
+         "mo",
+         "you",
+         "pron"
+        ],
+        [
+         "bang",
+         "(question) +ng",
+         "part"
+        ],
+        [
+         "maging",
+         "to become",
+         "pred"
+        ],
+        [
+         "doktór",
+         "doctor",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nagíging masamâ ang panahón.",
+       "en": "The weather is going bad. (literal) The weather is getting worse.",
+       "parts": [
+        [
+         "Nagíging",
+         "is becoming",
+         "pred"
+        ],
+        [
+         "masamâ",
+         "bad",
+         "pred"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "panahón",
+         "weather",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Mahírap magíng bulág.",
+       "en": "It is difficult to go blind.",
+       "parts": [
+        [
+         "Mahírap",
+         "difficult",
+         "pred"
+        ],
+        [
+         "magíng",
+         "to become",
+         "pred"
+        ],
+        [
+         "bulág",
+         "blind",
+         "pred"
+        ]
+       ]
+      }
+     ],
+     "title": "Magíng in sentences"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Look at the tense",
+     "items": [
+      "**Nagíng** kápitbahay namin silá: past, they were once our neighbors.",
+      "**Nagíging** tahímik na ang aming báhay: present, it is becoming quiet.",
+      "Ang aking kaibígan ay **magíging** mayáman na: future, will soon get rich.",
+      "Gustó kong **magíng** gurò: the infinitive, I want to become a teacher."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "words",
+     "title": "Vocabulary list"
+    }
+   ]
+  },
+  {
+   "title": "Becoming, became, will become",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Swap the adjective or noun after a form of magíng to describe many changes. These use words from earlier lessons."
+    },
+    {
+     "type": "table",
+     "head": [
+      "English",
+      "Tagalog"
+     ],
+     "rows": [
+      [
+       "becoming noisy",
+       "[[nagíging|pred]] [[maíngay|pred]]"
+      ],
+      [
+       "will become poor",
+       "[[magíging|pred]] [[mahírap|pred]]"
+      ],
+      [
+       "becoming industrious",
+       "[[nagíging|pred]] [[masípag|pred]]"
+      ],
+      [
+       "will be a lawyer",
+       "[[magíging|pred]] [[abugádo|noun]]"
+      ],
+      [
+       "became dirty",
+       "[[nagíng|pred]] [[marumí|pred]]"
+      ],
+      [
+       "becoming dark",
+       "[[nagíging|pred]] [[madilím|pred]]"
+      ],
+      [
+       "was a teacher",
+       "[[nagíng|pred]] [[gurò|noun]]"
+      ]
+     ],
+     "title": "Practice answers (made with this lesson's pattern)",
+     "note": "The English phrases are the book's exercise. The book prints no Tagalog answers, so these are built from words in earlier lessons (maíngay, mahírap, masípag, marumí, madilím, gurò) and abugádo from this lesson, using the pattern taught here."
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "Magíng (to be, to become) goes before a noun or adjective to show a change from one state to another.",
+      "Magíng is the infinitive and the imperative: Magíng mabaít! (Be kind!)",
+      "Past: nagíng. Present: nagíging. Future: magíging."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "maging",
+   "tl": "magíng",
+   "en": "to be; to become",
+   "pos": "verb",
+   "group": "maging",
+   "say": "ma-GING",
+   "note": "The book also writes maging (no accent) in one sentence."
+  },
+  {
+   "id": "naging",
+   "tl": "nagíng",
+   "en": "became (past of magíng)",
+   "pos": "verb",
+   "group": "maging",
+   "say": "na-GING"
+  },
+  {
+   "id": "nagiging",
+   "tl": "nagíging",
+   "en": "become; is becoming (present of magíng)",
+   "pos": "verb",
+   "group": "maging",
+   "say": "na-GI-ging"
+  },
+  {
+   "id": "magiging",
+   "tl": "magíging",
+   "en": "will become (future of magíng)",
+   "pos": "verb",
+   "group": "maging",
+   "say": "ma-GI-ging"
+  },
+  {
+   "id": "bait",
+   "tl": "baít",
+   "en": "kindness",
+   "pos": "noun",
+   "group": "maging",
+   "say": "ba-IT"
+  },
+  {
+   "id": "panahon",
+   "tl": "panahón",
+   "en": "weather",
+   "pos": "noun",
+   "group": "words",
+   "say": "pa-na-HON"
+  },
+  {
+   "id": "bulag",
+   "tl": "bulág",
+   "en": "blind",
+   "pos": "adj",
+   "group": "words",
+   "say": "bu-LAG"
+  },
+  {
+   "id": "abugado",
+   "tl": "abugádo",
+   "en": "lawyer",
+   "pos": "noun",
+   "group": "words",
+   "say": "a-bu-GA-do"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "What does magíng mean?",
+   "options": [
+    "to be or to become",
+    "to have",
+    "to be able to"
+   ],
+   "answer": "to be or to become",
+   "explain": "Magíng means to be or to become."
+  },
+  {
+   "type": "choice",
+   "q": "Where is magíng placed?",
+   "options": [
+    "before a noun or adjective",
+    "after the subject only",
+    "at the end of a sentence"
+   ],
+   "answer": "before a noun or adjective",
+   "explain": "Magíng mabaít, magíng gurò."
+  },
+  {
+   "type": "choice",
+   "q": "A magíng phrase expresses…",
+   "options": [
+    "a desire to change from one state or condition to another",
+    "an accidental action",
+    "ownership"
+   ],
+   "answer": "a desire to change from one state or condition to another",
+   "explain": "It is a very common helping verb."
+  },
+  {
+   "type": "choice",
+   "q": "What is the past of magíng?",
+   "options": [
+    "nagíng",
+    "nagíging",
+    "magíging"
+   ],
+   "answer": "nagíng",
+   "explain": "Magíng becomes nagíng."
+  },
+  {
+   "type": "choice",
+   "q": "What is the present of magíng?",
+   "options": [
+    "nagíging",
+    "nagíng",
+    "magíging"
+   ],
+   "answer": "nagíging",
+   "explain": "Magíng becomes nagíging."
+  },
+  {
+   "type": "choice",
+   "q": "What is the future of magíng?",
+   "options": [
+    "magíging",
+    "nagíging",
+    "nagíng"
+   ],
+   "answer": "magíging",
+   "explain": "Magíng becomes magíging."
+  },
+  {
+   "type": "choice",
+   "q": "How do you say \"Be kind!\"?",
+   "options": [
+    "Magíng mabaít!",
+    "Nagíng mabaít!",
+    "Magíging mabaít!"
+   ],
+   "answer": "Magíng mabaít!",
+   "explain": "The imperative has the same form as the infinitive."
+  },
+  {
+   "type": "choice",
+   "q": "\"Nagíng kápitbahay namin silá\" means…",
+   "options": [
+    "They were once our neighbors.",
+    "They will be our neighbors.",
+    "They are becoming our neighbors."
+   ],
+   "answer": "They were once our neighbors.",
+   "explain": "Nagíng is the past."
+  },
+  {
+   "type": "choice",
+   "q": "\"Gustó kong ___ gurò.\" (I want to become a teacher.)",
+   "options": [
+    "magíng",
+    "nagíng",
+    "nagíging"
+   ],
+   "answer": "magíng",
+   "explain": "Gustó kong magíng gurò."
+  },
+  {
+   "type": "choice",
+   "q": "\"___ masamâ ang panahón.\" (The weather is getting worse.)",
+   "options": [
+    "Nagíging",
+    "Nagíng",
+    "Magíng"
+   ],
+   "answer": "Nagíging",
+   "explain": "Nagíging shows a change happening now."
+  },
+  {
+   "type": "choice",
+   "q": "\"Ang aking kaibígan ay ___ mayáman na.\" (My friend will soon get rich.)",
+   "options": [
+    "magíging",
+    "nagíng",
+    "nagíging"
+   ],
+   "answer": "magíging",
+   "explain": "Magíging is the future."
+  },
+  {
+   "type": "choice",
+   "q": "How do you say \"becoming noisy\"?",
+   "options": [
+    "nagíging maíngay",
+    "nagíng maíngay",
+    "magíging maíngay"
+   ],
+   "answer": "nagíging maíngay",
+   "explain": "Present: nagíging."
+  },
+  {
+   "type": "choice",
+   "q": "How do you say \"will become poor\"?",
+   "options": [
+    "magíging mahírap",
+    "nagíging mahírap",
+    "nagíng mahírap"
+   ],
+   "answer": "magíging mahírap",
+   "explain": "Future: magíging."
+  },
+  {
+   "type": "choice",
+   "q": "How do you say \"was a teacher\"?",
+   "options": [
+    "nagíng gurò",
+    "magíng gurò",
+    "magíging gurò"
+   ],
+   "answer": "nagíng gurò",
+   "explain": "Past: nagíng."
+  },
+  {
+   "type": "choice",
+   "q": "What does \"Mahírap magíng bulág\" mean?",
+   "options": [
+    "It is difficult to go blind.",
+    "The blind man is poor.",
+    "He became blind."
+   ],
+   "answer": "It is difficult to go blind.",
+   "explain": "Mahírap = difficult; bulág = blind."
+  },
+  {
+   "type": "listen",
+   "tl": "panahón",
+   "options": [
+    "weather",
+    "neighbor",
+    "kindness"
+   ],
+   "answer": "weather",
+   "explain": "Nagíging masamâ ang panahón."
+  },
+  {
+   "type": "listen",
+   "tl": "kapitbáhay",
+   "options": [
+    "neighbor",
+    "friend",
+    "lawyer"
+   ],
+   "answer": "neighbor",
+   "explain": "Kapitbáhay = neighbor."
+  },
+  {
+   "type": "listen",
+   "tl": "magíng abugádo",
+   "options": [
+    "to become a lawyer",
+    "to become a teacher",
+    "to become rich"
+   ],
+   "answer": "to become a lawyer",
+   "explain": "Abugádo = lawyer."
+  },
+  {
+   "type": "listen",
+   "tl": "bulág",
+   "options": [
+    "blind",
+    "quiet",
+    "healthy"
+   ],
+   "answer": "blind",
+   "explain": "Magíng bulág = to become blind."
+  },
+  {
+   "type": "build",
+   "en": "I want to become a teacher.",
+   "tl": "Gustó kong magíng gurò.",
+   "tokens": [
+    "gustó",
+    "kong",
+    "magíng",
+    "gurò"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Our house is becoming quiet now.",
+   "tl": "Nagíging tahímik na ang aming báhay.",
+   "tokens": [
+    "nagíging",
+    "tahímik",
+    "na",
+    "ang",
+    "aming",
+    "báhay"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "All children need to be healthy.",
+   "tl": "Kailángang magíng malusóg ang lahat ng mga batà.",
+   "tokens": [
+    "kailángang",
+    "magíng",
+    "malusóg",
+    "ang",
+    "lahat",
+    "ng",
+    "mga",
+    "batà"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "They were once our neighbors.",
+   "tl": "Nagíng kápitbahay namin silá.",
+   "tokens": [
+    "nagíng",
+    "kápitbahay",
+    "namin",
+    "silá"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "It is difficult to go blind.",
+   "tl": "Mahírap magíng bulág.",
+   "tokens": [
+    "mahírap",
+    "magíng",
+    "bulág"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match each magíng phrase to its meaning.",
+   "pairs": [
+    [
+     "magíng mabaít",
+     "to become good"
+    ],
+    [
+     "magíng masamâ",
+     "to become bad"
+    ],
+    [
+     "magíng tahímik",
+     "to become quiet"
+    ],
+    [
+     "magíng mayáman",
+     "to become rich"
+    ],
+    [
+     "magíng Pilipino",
+     "to become a Filipino"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each form to its tense.",
+   "pairs": [
+    [
+     "magíng",
+     "infinitive / imperative"
+    ],
+    [
+     "nagíng",
+     "past"
+    ],
+    [
+     "nagíging",
+     "present"
+    ],
+    [
+     "magíging",
+     "future"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "Magíng means to be or to become and goes before a noun or adjective.",
+  "It shows a desire to change from one state or condition to another, and is a very common helping verb.",
+  "Infinitive and imperative: magíng mabaít. Past: nagíng. Present: nagíging. Future: magíging.",
+  "Book examples: Gustó kong magíng gurò. Nagíng kápitbahay namin silá. Nagíging masamâ ang panahón."
+ ]
+}

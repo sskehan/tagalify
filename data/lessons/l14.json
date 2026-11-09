@@ -1,0 +1,2071 @@
+{
+ "id": "l14",
+ "label": "14",
+ "title": "-Um- and mag- verb forms",
+ "summary": "Doer-focused verbs: making the -um- and mag- forms in every tense, and the two sentence patterns",
+ "minutes": 40,
+ "goals": [
+  "Know what -um- and mag- verbs do: they put the focus on the doer",
+  "Tell an infix (-um-) from a prefix (mag-)",
+  "Make the infinitive, imperative, past, present and future of -um- and mag- verbs",
+  "Learn a set of common -um- and mag- verbs",
+  "Use the two sentence patterns, verb first"
+ ],
+ "sections": [
+  {
+   "title": "Verbs that focus on the doer",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Sentences with **-um-** and **mag-** verbs are much like the English **active voice**: the subject is the **doer** of the action. (Many English active sentences, though, would be put into the equivalent of the passive voice by Tagalog speakers.)"
+    },
+    {
+     "type": "p",
+     "t": "Tagalog speakers like the **inverted word order**, where the **predicate with the verb comes first**, because to them that is the most important part of the sentence."
+    },
+    {
+     "type": "p",
+     "t": "The most common verbs in these subject-focused sentences have an **-um- infix** or a **mag- prefix**. These verbs stress the **doer** of the action, or the **act itself**. They can be used with no object at all, or with an object when the emphasis is on the doer."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Term",
+      "What it is",
+      "Example"
+     ],
+     "rows": [
+      [
+       "**Infix**",
+       "a piece put **inside** a root word, to make a new word",
+       "k**um**ain (kain + -um-)"
+      ],
+      [
+       "**Prefix**",
+       "a piece attached to the **front** of a root word",
+       "**mag**lutò (mag- + lutò)"
+      ],
+      [
+       "**Root**",
+       "the basic word that the affixes are added to",
+       "kain, lutò"
+      ]
+     ],
+     "title": "Words about words"
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "Derivatives",
+     "t": "A **derivative** is a new word formed from a root plus an affix, such as umalís from alís."
+    },
+    {
+     "type": "h",
+     "t": "-Um-, mag-, or both"
+    },
+    {
+     "type": "p",
+     "t": "Some verb roots take **only -um-** (for example **alís**, which the book here glosses *to go*). Others take **only mag-** (for example **labá**, *to wash*). Some take **both** (such as **hingî**, *to ask for*), but the two derivatives then have **different meanings**:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "-Um- form",
+      "Mag- form"
+     ],
+     "rows": [
+      [
+       "Kind of action",
+       "non-intensive or casual: **kumakáin** (is/are eating)",
+       "frequent and intense: **nagkákakáin** (to always be eating, to continually be eating)"
+      ],
+      [
+       "Direction of action",
+       "toward the doer: **bumibilí** (is/are buying)",
+       "away from the doer: **magbibilí** (is/are selling)"
+      ]
+     ],
+     "title": "When a root takes both"
+    }
+   ]
+  },
+  {
+   "title": "Making -um- verbs",
+   "blocks": [
+    {
+     "type": "h",
+     "t": "Roots beginning with a vowel"
+    },
+    {
+     "type": "p",
+     "t": "For a root that begins with a **vowel**, attach -um- straight to the **front** of the root, like a prefix."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Verb",
+      "How",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[alís|pred]]",
+       "",
+       "leave"
+      ],
+      [
+       "Infinitive",
+       "[[umalís|pred]]",
+       "-um- + root",
+       "to leave"
+      ],
+      [
+       "Imperative",
+       "[[umalís|pred]]",
+       "same",
+       "(leave!)"
+      ],
+      [
+       "Past",
+       "[[umalís|pred]]",
+       "same",
+       "left"
+      ],
+      [
+       "Present",
+       "[[umaalís|pred]]",
+       "-um- + repeated first syllable + root",
+       "is/are leaving"
+      ],
+      [
+       "Future",
+       "[[aalís|pred]]",
+       "repeated first syllable + root",
+       "will leave"
+      ]
+     ],
+     "title": "Alís (leave)"
+    },
+    {
+     "type": "h",
+     "t": "Roots beginning with a consonant"
+    },
+    {
+     "type": "p",
+     "t": "For a root that begins with a **consonant**, put -um- **inside** the root, right **after the first consonant**."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Verb",
+      "How",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[kain|pred]]",
+       "",
+       "eat"
+      ],
+      [
+       "Infinitive",
+       "[[kumain|pred]]",
+       "-um- after the first consonant",
+       "to eat"
+      ],
+      [
+       "Imperative",
+       "[[kumain|pred]]",
+       "same",
+       "(eat!)"
+      ],
+      [
+       "Past",
+       "[[kumain|pred]]",
+       "same",
+       "ate"
+      ],
+      [
+       "Present",
+       "[[kumakain|pred]]",
+       "repeat the first syllable, with -um- between its consonant and vowel, + root",
+       "is/are eating"
+      ],
+      [
+       "Future",
+       "[[kakain|pred]]",
+       "repeated first syllable + root",
+       "will eat"
+      ]
+     ],
+     "title": "Kain (eat)"
+    },
+    {
+     "type": "pattern",
+     "title": "Where -um- goes",
+     "rows": [
+      {
+       "label": "Vowel root",
+       "chips": [
+        {
+         "t": "um",
+         "r": "link"
+        },
+        {
+         "t": "alís",
+         "r": "pred"
+        }
+       ]
+      },
+      {
+       "label": "Consonant root",
+       "chips": [
+        {
+         "t": "k",
+         "r": "pred"
+        },
+        {
+         "t": "um",
+         "r": "link"
+        },
+        {
+         "t": "ain",
+         "r": "pred"
+        }
+       ]
+      }
+     ],
+     "note": "umalís, kumain"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Same three forms",
+     "t": "For -um- verbs the **infinitive, imperative and past** look the **same** (umalís, kumain). Only the present and future change."
+    }
+   ]
+  },
+  {
+   "title": "Making mag- verbs",
+   "blocks": [
+    {
+     "type": "h",
+     "t": "Roots beginning with a vowel"
+    },
+    {
+     "type": "p",
+     "t": "For a root that begins with a **vowel**, attach **mag-** followed by a **hyphen**. The hyphen shows a **glottal stop** (a little catch in the throat) after mag-."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Verb",
+      "How",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[áral|pred]]",
+       "",
+       "study"
+      ],
+      [
+       "Infinitive",
+       "[[mag-áral|pred]]",
+       "mag- + hyphen + root",
+       "to study"
+      ],
+      [
+       "Imperative",
+       "[[mag-áral|pred]]",
+       "mag- + hyphen + root",
+       "(study!)"
+      ],
+      [
+       "Past",
+       "[[nag-áral|pred]]",
+       "change mag- to nag- + hyphen + root",
+       "studied"
+      ],
+      [
+       "Present",
+       "[[nag-aáral|pred]]",
+       "nag- + hyphen + repeated first syllable + root",
+       "is/are studying"
+      ],
+      [
+       "Future",
+       "[[mag-aáral|pred]]",
+       "mag- + hyphen + repeated first syllable + root",
+       "will study"
+      ]
+     ],
+     "title": "Áral (study)"
+    },
+    {
+     "type": "h",
+     "t": "Roots beginning with a consonant"
+    },
+    {
+     "type": "p",
+     "t": "For a root that begins with a **consonant**, attach **mag-** to the front of the root."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Verb",
+      "How",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[lutò|pred]]",
+       "",
+       "cook"
+      ],
+      [
+       "Infinitive",
+       "[[maglutò|pred]]",
+       "mag- + root",
+       "to cook"
+      ],
+      [
+       "Imperative",
+       "[[maglutò|pred]]",
+       "same",
+       "(cook!)"
+      ],
+      [
+       "Past",
+       "[[naglutò|pred]]",
+       "change mag- to nag-",
+       "cooked"
+      ],
+      [
+       "Present",
+       "[[naglulutò|pred]]",
+       "nag- + repeated first syllable + root",
+       "is/are cooking"
+      ],
+      [
+       "Future",
+       "[[maglulutò|pred]]",
+       "mag- + repeated first syllable + root",
+       "will cook"
+      ]
+     ],
+     "title": "Lutò (cook)"
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "Mag- in short",
+     "items": [
+      "Past and present use **nag-**; infinitive, imperative and future keep **mag-**.",
+      "Present and future repeat the first syllable of the root: nag**lu**lutò, mag**lu**lutò."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "The present tense",
+     "t": "The present tense shows action that is **habitual** (done regularly) as well as **ongoing**."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "A first syllable of three letters",
+     "t": "When the first syllable of the root has **three letters**, such as **sampáy** (*to hang something*), repeat only the **first two letters**: **magsasampáy**."
+    }
+   ]
+  },
+  {
+   "title": "Common -um- and mag- verbs",
+   "blocks": [
+    {
+     "type": "table",
+     "head": [
+      "Verb",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[pumuntá|pred]]",
+       "to go to a place"
+      ],
+      [
+       "[[umalís|pred]]",
+       "to leave"
+      ],
+      [
+       "[[dumatíng|pred]]",
+       "to arrive"
+      ],
+      [
+       "[[kumaín|pred]]",
+       "to eat"
+      ],
+      [
+       "[[umupô|pred]]",
+       "to sit"
+      ],
+      [
+       "[[sumúlat|pred]]",
+       "to write"
+      ],
+      [
+       "[[bumása|pred]]",
+       "to read"
+      ],
+      [
+       "[[humingî|pred]]",
+       "to ask for"
+      ],
+      [
+       "[[gumawâ|pred]]",
+       "to do or make something"
+      ],
+      [
+       "[[lumangóy|pred]]",
+       "to swim"
+      ],
+      [
+       "[[umiyàk|pred]]",
+       "to cry"
+      ],
+      [
+       "[[bumilí|pred]]",
+       "to buy"
+      ],
+      [
+       "[[kumantá|pred]], [[umàwit|pred]]",
+       "to sing"
+      ],
+      [
+       "[[tumugtóg|pred]]",
+       "to play an instrument"
+      ],
+      [
+       "[[uminóm|pred]]",
+       "to drink"
+      ]
+     ],
+     "title": "-Um- verbs"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Verb",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[magsalitâ|pred]]",
+       "to speak"
+      ],
+      [
+       "[[mag-usap|pred]]",
+       "to converse"
+      ],
+      [
+       "[[magsulát|pred]]",
+       "to write"
+      ],
+      [
+       "[[maglutò|pred]]",
+       "to cook"
+      ],
+      [
+       "[[mag-áral|pred]]",
+       "to study"
+      ],
+      [
+       "[[maglaró|pred]]",
+       "to play"
+      ],
+      [
+       "[[mag-áway|pred]]",
+       "to quarrel with one another"
+      ],
+      [
+       "[[maglakád|pred]]",
+       "to walk"
+      ],
+      [
+       "[[magbáyad|pred]]",
+       "to pay"
+      ],
+      [
+       "[[magtaním|pred]]",
+       "to plant"
+      ],
+      [
+       "[[magsayáw|pred]]",
+       "to dance"
+      ],
+      [
+       "[[mag-isíp|pred]]",
+       "to think"
+      ],
+      [
+       "[[maglínis|pred]]",
+       "to clean"
+      ],
+      [
+       "[[magpuntá|pred]]",
+       "to go"
+      ],
+      [
+       "[[magtanóng|pred]]",
+       "to ask a question"
+      ],
+      [
+       "[[magbilí|pred]]",
+       "to sell"
+      ]
+     ],
+     "title": "Mag- verbs"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Two ways to write",
+     "t": "Both **sumúlat** and **magsulát** mean *to write*. Compare **bumilí** (to buy) with **magbilí** (to sell): the -um- form is action toward the doer, the mag- form is action away from the doer."
+    },
+    {
+     "type": "vocab",
+     "group": "um",
+     "title": "-Um- verbs"
+    },
+    {
+     "type": "vocab",
+     "group": "mag",
+     "title": "Mag- verbs"
+    },
+    {
+     "type": "h",
+     "t": "Roots to practise with"
+    },
+    {
+     "type": "p",
+     "t": "The book gives these roots for practice in adding -um-. Use the rules above: -um- in front of a vowel, or after the first consonant."
+    },
+    {
+     "type": "vocab",
+     "group": "roots",
+     "title": "Verb roots"
+    }
+   ]
+  },
+  {
+   "title": "Two sentence patterns",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "There are **two sentence patterns** for -um- and mag- verbs. In both, the **verb comes first**. In the **first** pattern the **doer (subject)** comes next; in the **second** pattern the **object or modifier** comes next."
+    },
+    {
+     "type": "pattern",
+     "title": "First pattern: verb + doer + object",
+     "rows": [
+      {
+       "label": "1",
+       "chips": [
+        {
+         "t": "Kumáin",
+         "r": "pred"
+        },
+        {
+         "t": "si Peter",
+         "r": "noun"
+        },
+        {
+         "t": "ng kánin",
+         "r": "other"
+        }
+       ]
+      },
+      {
+       "label": "2",
+       "chips": [
+        {
+         "t": "Pumások",
+         "r": "pred"
+        },
+        {
+         "t": "ang batà",
+         "r": "noun"
+        },
+        {
+         "t": "sa páaralán",
+         "r": "other"
+        }
+       ]
+      },
+      {
+       "label": "3",
+       "chips": [
+        {
+         "t": "Sumúlat",
+         "r": "pred"
+        },
+        {
+         "t": "siyá",
+         "r": "pron"
+        },
+        {
+         "t": "ng kuwénto",
+         "r": "other"
+        }
+       ]
+      },
+      {
+       "label": "4",
+       "chips": [
+        {
+         "t": "Naglakád",
+         "r": "pred"
+        },
+        {
+         "t": "si Mary",
+         "r": "noun"
+        },
+        {
+         "t": "kahapon",
+         "r": "other"
+        }
+       ]
+      },
+      {
+       "label": "5",
+       "chips": [
+        {
+         "t": "Naglutò",
+         "r": "pred"
+        },
+        {
+         "t": "silá",
+         "r": "pron"
+        },
+        {
+         "t": "ng gúlay",
+         "r": "other"
+        }
+       ]
+      }
+     ],
+     "note": "Peter ate rice. / The child went to school. / He/She wrote a story. / Mary walked yesterday. / They cooked vegetables."
+    },
+    {
+     "type": "pattern",
+     "title": "Second pattern: verb + object + doer",
+     "rows": [
+      {
+       "label": "1",
+       "chips": [
+        {
+         "t": "Kumáin",
+         "r": "pred"
+        },
+        {
+         "t": "ng kánin",
+         "r": "other"
+        },
+        {
+         "t": "si Peter",
+         "r": "noun"
+        }
+       ]
+      },
+      {
+       "label": "2",
+       "chips": [
+        {
+         "t": "Pumások",
+         "r": "pred"
+        },
+        {
+         "t": "sa páaralán",
+         "r": "other"
+        },
+        {
+         "t": "ang batà",
+         "r": "noun"
+        }
+       ]
+      },
+      {
+       "label": "3",
+       "chips": [
+        {
+         "t": "Sumúlat",
+         "r": "pred"
+        },
+        {
+         "t": "ng kuwénto",
+         "r": "other"
+        },
+        {
+         "t": "siyá",
+         "r": "pron"
+        }
+       ]
+      },
+      {
+       "label": "4",
+       "chips": [
+        {
+         "t": "Naglakád",
+         "r": "pred"
+        },
+        {
+         "t": "kahapon",
+         "r": "other"
+        },
+        {
+         "t": "si Mary",
+         "r": "noun"
+        }
+       ]
+      },
+      {
+       "label": "5",
+       "chips": [
+        {
+         "t": "Naglutò",
+         "r": "pred"
+        },
+        {
+         "t": "ng gúlay",
+         "r": "other"
+        },
+        {
+         "t": "silá",
+         "r": "pron"
+        }
+       ]
+      }
+     ],
+     "note": "Same meanings as above. (In this second table the book prints Sumùlat and batá; the forms from the first table are used here.)"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Kumáin si Peter ng kánin.",
+       "en": "Peter ate rice.",
+       "parts": [
+        [
+         "Kumáin",
+         "ate",
+         "pred"
+        ],
+        [
+         "si",
+         "(name marker)",
+         "marker"
+        ],
+        [
+         "Peter",
+         "Peter",
+         "noun"
+        ],
+        [
+         "ng",
+         "(object marker)",
+         "marker"
+        ],
+        [
+         "kánin",
+         "rice",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Pumások ang batà sa páaralán.",
+       "en": "The child went to school.",
+       "parts": [
+        [
+         "Pumások",
+         "entered / went",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "páaralán",
+         "school",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Sumúlat siyá ng kuwénto.",
+       "en": "He/She wrote a story.",
+       "parts": [
+        [
+         "Sumúlat",
+         "wrote",
+         "pred"
+        ],
+        [
+         "siyá",
+         "he/she",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object marker)",
+         "marker"
+        ],
+        [
+         "kuwénto",
+         "story",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Naglakád si Mary kahapon.",
+       "en": "Mary walked yesterday.",
+       "parts": [
+        [
+         "Naglakád",
+         "walked",
+         "pred"
+        ],
+        [
+         "si",
+         "(name marker)",
+         "marker"
+        ],
+        [
+         "Mary",
+         "Mary",
+         "noun"
+        ],
+        [
+         "kahapon",
+         "yesterday",
+         "other"
+        ]
+       ]
+      },
+      {
+       "tl": "Naglutò silá ng gúlay.",
+       "en": "They cooked vegetables.",
+       "parts": [
+        [
+         "Naglutò",
+         "cooked",
+         "pred"
+        ],
+        [
+         "silá",
+         "they",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object marker)",
+         "marker"
+        ],
+        [
+         "gúlay",
+         "vegetables",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "The first pattern, word by word"
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "Pumások",
+     "t": "**Pumások** means *entered*, but with *school* or *office* it is translated as *went*."
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "Which pattern?",
+     "t": "**Both patterns are correct.** But when the subject is a pronoun such as **siyá** or **silá**, the **first pattern is preferred**: *Sumúlat siyá ng kuwénto.*"
+    }
+   ]
+  },
+  {
+   "title": "Sample sentences and reading",
+   "blocks": [
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Dumatíng si Helen kahápon.",
+       "en": "Helen arrived yesterday.",
+       "parts": [
+        [
+         "Dumatíng",
+         "arrived",
+         "pred"
+        ],
+        [
+         "si",
+         "(name marker)",
+         "marker"
+        ],
+        [
+         "Helen",
+         "Helen",
+         "noun"
+        ],
+        [
+         "kahápon",
+         "yesterday",
+         "other"
+        ]
+       ]
+      },
+      {
+       "tl": "Sumúsulat si Gng. Smith.",
+       "en": "Mrs. Smith is writing.",
+       "parts": [
+        [
+         "Sumúsulat",
+         "is writing",
+         "pred"
+        ],
+        [
+         "si",
+         "(name marker)",
+         "marker"
+        ],
+        [
+         "Gng. Smith",
+         "Mrs. Smith",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nagsásalitâ ang batà.",
+       "en": "The child is talking.",
+       "parts": [
+        [
+         "Nagsásalitâ",
+         "is talking",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Naglálaro ang áking mga anák.",
+       "en": "My children are playing.",
+       "parts": [
+        [
+         "Naglálaro",
+         "are playing",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "áking",
+         "my",
+         "poss"
+        ],
+        [
+         "mga",
+         "(plural)",
+         "marker"
+        ],
+        [
+         "anák",
+         "children",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Naglutò ba kayó ng kánin?",
+       "en": "Did you cook rice?",
+       "parts": [
+        [
+         "Naglutò",
+         "cooked",
+         "pred"
+        ],
+        [
+         "ba",
+         "(question word)",
+         "part"
+        ],
+        [
+         "kayó",
+         "you",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object marker)",
+         "marker"
+        ],
+        [
+         "kánin",
+         "rice",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Bumása táyo ng isáng kuwénto.",
+       "en": "Let us read a story.",
+       "parts": [
+        [
+         "Bumása",
+         "read",
+         "pred"
+        ],
+        [
+         "táyo",
+         "we (you and I)",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object marker)",
+         "marker"
+        ],
+        [
+         "isáng",
+         "one / a (+ ligature)",
+         "noun"
+        ],
+        [
+         "kuwénto",
+         "story",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Uminóm kayó ng kapé.",
+       "en": "You (plural) drink coffee.",
+       "parts": [
+        [
+         "Uminóm",
+         "drink",
+         "pred"
+        ],
+        [
+         "kayó",
+         "you (plural)",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object marker)",
+         "marker"
+        ],
+        [
+         "kapé",
+         "coffee",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Umíinom ng gátas ang batà.",
+       "en": "The child is drinking milk. / The child drinks milk.",
+       "parts": [
+        [
+         "Umíinom",
+         "is drinking / drinks",
+         "pred"
+        ],
+        [
+         "ng",
+         "(object marker)",
+         "marker"
+        ],
+        [
+         "gátas",
+         "milk",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Sample sentences"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Present tense: two translations",
+     "t": "*Umíinom ng gátas ang batà* can mean *is drinking* or *drinks*, because the present tense covers both ongoing and habitual action."
+    },
+    {
+     "type": "box",
+     "kind": "culture",
+     "title": "Reading practice: read aloud, pausing at each /",
+     "t": "Siná G. at Gng. Smith / ay mga Amerikáno. / Dumating silá rito sa Pilipinas / noóng isang buwán. / Siná G. at Gng. Smith / ay nag-áaral ng Tagalog. / Nag-áaral siláng magsalitâ / ng wikà ng Pilipinas.\n\nMay dalawáng anák silá. / Ang mga pangálan / ng kaniláng mga anák / ay Peter at Mary. / Silá ay magagandá / at malulusóg. / Umíinom silá / ng maráming gátas / araw-araw. / Si Gng. Smith ang naglúlutò / ng kaniláng pagkáin. / Naglúluto siyá / ng gúlay / at karné. / Ang gúlay ay mabúti / para sa mga batà. / Ang gátas / ay mabúti rin. / Sina Peter at Mary / ay umíinom ng maráming gátas / áraw-áraw / kayâ silá'y malulusóg. / Sina G. at Gng. Smith / ay masasayáng magúlang. / Masasayá rin / ang mga anák nilá. /"
+    },
+    {
+     "type": "p",
+     "t": "Useful words for the reading: **noong isáng buwan** (last month), **wikà** (language), **gátas** (milk), **karne** (beef), **kayâ** (thus/so), **masasayá** (happy), **magulang** (parents)."
+    },
+    {
+     "type": "vocab",
+     "group": "words",
+     "title": "Other words"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "-Um- and mag- verbs focus on the doer; the verb usually comes first.",
+      "-Um-: in front of a vowel root (umalís), after the first consonant otherwise (kumain).",
+      "Mag-: mag- + hyphen before a vowel (mag-áral); past and present change to nag-.",
+      "Present repeats the first syllable: umaalís, kumakain, nag-aáral, naglulutò. Future: aalís, kakain, mag-aáral, maglulutò.",
+      "Pattern 1: verb + doer + object. Pattern 2: verb + object + doer. Use pattern 1 with siyá and silá."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "pumunta",
+   "tl": "pumuntá",
+   "en": "to go to a place",
+   "pos": "verb",
+   "group": "um",
+   "say": "pu-mun-TA"
+  },
+  {
+   "id": "umalis",
+   "tl": "umalís",
+   "en": "to leave",
+   "pos": "verb",
+   "group": "um",
+   "say": "u-ma-LIS"
+  },
+  {
+   "id": "kumain",
+   "tl": "kumaín",
+   "en": "to eat",
+   "pos": "verb",
+   "group": "um",
+   "say": "ku-ma-IN",
+   "note": "The book also writes kumain and Kumáin."
+  },
+  {
+   "id": "umupo",
+   "tl": "umupô",
+   "en": "to sit",
+   "pos": "verb",
+   "group": "um",
+   "say": "u-mu-poQ"
+  },
+  {
+   "id": "sumulat",
+   "tl": "sumúlat",
+   "en": "to write",
+   "pos": "verb",
+   "group": "um",
+   "say": "su-MU-lat"
+  },
+  {
+   "id": "bumasa",
+   "tl": "bumása",
+   "en": "to read",
+   "pos": "verb",
+   "group": "um",
+   "say": "bu-MA-sa"
+  },
+  {
+   "id": "humingi",
+   "tl": "humingî",
+   "en": "to ask for",
+   "pos": "verb",
+   "group": "um",
+   "say": "hu-mi-ngiQ"
+  },
+  {
+   "id": "gumawa",
+   "tl": "gumawâ",
+   "en": "to do or make something",
+   "pos": "verb",
+   "group": "um",
+   "say": "gu-ma-waQ"
+  },
+  {
+   "id": "lumangoy",
+   "tl": "lumangóy",
+   "en": "to swim",
+   "pos": "verb",
+   "group": "um",
+   "say": "lu-ma-NGOY"
+  },
+  {
+   "id": "umiyak",
+   "tl": "umiyàk",
+   "en": "to cry",
+   "pos": "verb",
+   "group": "um"
+  },
+  {
+   "id": "bumili",
+   "tl": "bumilí",
+   "en": "to buy",
+   "pos": "verb",
+   "group": "um",
+   "say": "bu-mi-LI"
+  },
+  {
+   "id": "kumanta",
+   "tl": "kumantá",
+   "en": "to sing",
+   "pos": "verb",
+   "group": "um",
+   "say": "ku-man-TA"
+  },
+  {
+   "id": "umawit",
+   "tl": "umàwit",
+   "en": "to sing",
+   "pos": "verb",
+   "group": "um"
+  },
+  {
+   "id": "tumugtog",
+   "tl": "tumugtóg",
+   "en": "to play an instrument",
+   "pos": "verb",
+   "group": "um",
+   "say": "tu-mug-TOG"
+  },
+  {
+   "id": "uminom",
+   "tl": "uminóm",
+   "en": "to drink; drank",
+   "pos": "verb",
+   "group": "um",
+   "say": "u-mi-NOM",
+   "note": "The vocabulary list glosses it drank; the verb list, to drink."
+  },
+  {
+   "id": "tumawag",
+   "tl": "tumáwag",
+   "en": "called",
+   "pos": "verb",
+   "group": "um",
+   "say": "tu-MA-wag"
+  },
+  {
+   "id": "mag-usap",
+   "tl": "mag-usap",
+   "en": "to converse",
+   "pos": "verb",
+   "group": "mag"
+  },
+  {
+   "id": "magsulat",
+   "tl": "magsulát",
+   "en": "to write",
+   "pos": "verb",
+   "group": "mag",
+   "say": "mag-su-LAT"
+  },
+  {
+   "id": "magluto",
+   "tl": "maglutò",
+   "en": "to cook",
+   "pos": "verb",
+   "group": "mag",
+   "say": "mag-LU-toQ"
+  },
+  {
+   "id": "mag-aral",
+   "tl": "mag-áral",
+   "en": "to study",
+   "pos": "verb",
+   "group": "mag",
+   "say": "mag-A-ral"
+  },
+  {
+   "id": "maglaro",
+   "tl": "maglaró",
+   "en": "to play",
+   "pos": "verb",
+   "group": "mag",
+   "say": "mag-la-RO"
+  },
+  {
+   "id": "mag-away",
+   "tl": "mag-áway",
+   "en": "to quarrel with one another",
+   "pos": "verb",
+   "group": "mag",
+   "say": "mag-A-way"
+  },
+  {
+   "id": "maglakad",
+   "tl": "maglakád",
+   "en": "to walk",
+   "pos": "verb",
+   "group": "mag",
+   "say": "mag-la-KAD"
+  },
+  {
+   "id": "magbayad",
+   "tl": "magbáyad",
+   "en": "to pay",
+   "pos": "verb",
+   "group": "mag",
+   "say": "mag-BA-yad"
+  },
+  {
+   "id": "magtanim",
+   "tl": "magtaním",
+   "en": "to plant",
+   "pos": "verb",
+   "group": "mag",
+   "say": "mag-ta-NIM"
+  },
+  {
+   "id": "magsayaw",
+   "tl": "magsayáw",
+   "en": "to dance",
+   "pos": "verb",
+   "group": "mag",
+   "say": "mag-sa-YAW"
+  },
+  {
+   "id": "mag-isip",
+   "tl": "mag-isíp",
+   "en": "to think",
+   "pos": "verb",
+   "group": "mag",
+   "say": "mag-i-SIP"
+  },
+  {
+   "id": "maglinis",
+   "tl": "maglínis",
+   "en": "to clean",
+   "pos": "verb",
+   "group": "mag",
+   "say": "mag-LI-nis"
+  },
+  {
+   "id": "magpunta",
+   "tl": "magpuntá",
+   "en": "to go",
+   "pos": "verb",
+   "group": "mag",
+   "say": "mag-pun-TA"
+  },
+  {
+   "id": "magtanong",
+   "tl": "magtanóng",
+   "en": "to ask a question",
+   "pos": "verb",
+   "group": "mag",
+   "say": "mag-ta-NONG"
+  },
+  {
+   "id": "magbili",
+   "tl": "magbilí",
+   "en": "to sell",
+   "pos": "verb",
+   "group": "mag",
+   "say": "mag-bi-LI"
+  },
+  {
+   "id": "root-alis",
+   "tl": "alís",
+   "en": "leave (root)",
+   "pos": "verb",
+   "group": "roots",
+   "say": "a-LIS",
+   "note": "The book's introduction glosses alís as to go."
+  },
+  {
+   "id": "root-kain",
+   "tl": "kain",
+   "en": "eat (root)",
+   "pos": "verb",
+   "group": "roots"
+  },
+  {
+   "id": "root-aral",
+   "tl": "áral",
+   "en": "study",
+   "pos": "verb",
+   "group": "roots",
+   "say": "A-ral"
+  },
+  {
+   "id": "root-sampay",
+   "tl": "sampáy",
+   "en": "to hang something",
+   "pos": "verb",
+   "group": "roots",
+   "say": "sam-PAY"
+  },
+  {
+   "id": "root-laba",
+   "tl": "labá",
+   "en": "to wash",
+   "pos": "verb",
+   "group": "roots",
+   "say": "la-BA"
+  },
+  {
+   "id": "root-hingi",
+   "tl": "hingî",
+   "en": "to ask for (root)",
+   "pos": "verb",
+   "group": "roots",
+   "say": "hi-ngiQ"
+  },
+  {
+   "id": "root-pasok",
+   "tl": "pások",
+   "en": "enter",
+   "pos": "verb",
+   "group": "roots",
+   "say": "PA-sok"
+  },
+  {
+   "id": "root-balik",
+   "tl": "balík",
+   "en": "go back",
+   "pos": "verb",
+   "group": "roots",
+   "say": "ba-LIK"
+  },
+  {
+   "id": "root-tawag",
+   "tl": "táwag",
+   "en": "call",
+   "pos": "verb",
+   "group": "roots",
+   "say": "TA-wag"
+  },
+  {
+   "id": "root-sakay",
+   "tl": "sakáy",
+   "en": "ride",
+   "pos": "verb",
+   "group": "roots",
+   "say": "sa-KAY"
+  },
+  {
+   "id": "root-tayo",
+   "tl": "tayô",
+   "en": "stand",
+   "pos": "verb",
+   "group": "roots",
+   "say": "ta-yoQ"
+  },
+  {
+   "id": "root-upa",
+   "tl": "úpa",
+   "en": "rent",
+   "pos": "verb",
+   "group": "roots",
+   "say": "U-pa"
+  },
+  {
+   "id": "root-isip",
+   "tl": "ísip",
+   "en": "think",
+   "pos": "verb",
+   "group": "roots",
+   "say": "I-sip"
+  },
+  {
+   "id": "root-ulan",
+   "tl": "ulán",
+   "en": "rain",
+   "pos": "verb",
+   "group": "roots",
+   "say": "u-LAN"
+  },
+  {
+   "id": "root-dating",
+   "tl": "datíng",
+   "en": "arrive",
+   "pos": "verb",
+   "group": "roots",
+   "say": "da-TING"
+  },
+  {
+   "id": "root-ibig",
+   "tl": "íbig",
+   "en": "love",
+   "pos": "verb",
+   "group": "roots",
+   "say": "I-big"
+  },
+  {
+   "id": "root-tawa",
+   "tl": "táwa",
+   "en": "laugh",
+   "pos": "verb",
+   "group": "roots",
+   "say": "TA-wa"
+  },
+  {
+   "id": "root-kuha",
+   "tl": "kúha",
+   "en": "get",
+   "pos": "verb",
+   "group": "roots",
+   "say": "KU-ha"
+  },
+  {
+   "id": "root-uwi",
+   "tl": "uwî",
+   "en": "go home",
+   "pos": "verb",
+   "group": "roots",
+   "say": "u-wiQ"
+  },
+  {
+   "id": "root-sama",
+   "tl": "sáma",
+   "en": "go with",
+   "pos": "verb",
+   "group": "roots",
+   "say": "SA-ma"
+  },
+  {
+   "id": "kanin",
+   "tl": "kánin",
+   "en": "rice",
+   "pos": "noun",
+   "group": "words",
+   "say": "KA-nin"
+  },
+  {
+   "id": "kuwento",
+   "tl": "kuwénto",
+   "en": "story",
+   "pos": "noun",
+   "group": "words",
+   "say": "ku-WEN-to"
+  },
+  {
+   "id": "kahapon",
+   "tl": "kahápon",
+   "en": "yesterday",
+   "pos": "adv",
+   "group": "words",
+   "say": "ka-HA-pon",
+   "note": "The book also writes kahapon."
+  },
+  {
+   "id": "gatas",
+   "tl": "gátas",
+   "en": "milk",
+   "pos": "noun",
+   "group": "words",
+   "say": "GA-tas"
+  },
+  {
+   "id": "wika-l14",
+   "tl": "wikà",
+   "en": "language",
+   "pos": "noun",
+   "group": "words",
+   "say": "WI-kaQ",
+   "note": "Also met, unaccented, in the Background lesson."
+  },
+  {
+   "id": "karne",
+   "tl": "karne",
+   "en": "beef",
+   "pos": "noun",
+   "group": "words",
+   "note": "The book also writes karné."
+  },
+  {
+   "id": "kaya",
+   "tl": "kayâ",
+   "en": "thus/so",
+   "pos": "other",
+   "group": "words",
+   "say": "ka-yaQ"
+  },
+  {
+   "id": "masasaya",
+   "tl": "masasayá",
+   "en": "happy",
+   "pos": "adj",
+   "group": "words",
+   "say": "ma-sa-sa-YA"
+  },
+  {
+   "id": "magulang",
+   "tl": "magulang",
+   "en": "parents",
+   "pos": "noun",
+   "group": "words",
+   "note": "The book also writes magúlang."
+  },
+  {
+   "id": "noong-isang-buwan",
+   "tl": "noong isáng buwan",
+   "en": "last month",
+   "pos": "phrase",
+   "group": "words"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "What is an infix?",
+   "options": [
+    "A piece put inside a root word",
+    "A piece put at the front of a root word",
+    "A root word"
+   ],
+   "answer": "A piece put inside a root word",
+   "explain": "-Um- is an infix: k-um-ain."
+  },
+  {
+   "type": "choice",
+   "q": "Who is the focus in -um- and mag- sentences?",
+   "options": [
+    "The doer of the action",
+    "The object",
+    "The place"
+   ],
+   "answer": "The doer of the action",
+   "explain": "These verbs stress the doer or the act itself."
+  },
+  {
+   "type": "choice",
+   "q": "Alís begins with a vowel. Where does -um- go?",
+   "options": [
+    "In front of the root",
+    "After the first consonant",
+    "At the end of the root"
+   ],
+   "answer": "In front of the root",
+   "explain": "With a vowel root, -um- goes in front like a prefix: umalís."
+  },
+  {
+   "type": "choice",
+   "q": "Kain begins with a consonant. Where does -um- go?",
+   "options": [
+    "After the first consonant",
+    "In front of the root",
+    "At the end of the root"
+   ],
+   "answer": "After the first consonant",
+   "explain": "-Um- goes right after the first consonant: kumain."
+  },
+  {
+   "type": "choice",
+   "q": "What is the present tense of alís (is/are leaving)?",
+   "options": [
+    "umaalís",
+    "aalís",
+    "umalís"
+   ],
+   "answer": "umaalís",
+   "explain": "-Um- + repeated first syllable + root."
+  },
+  {
+   "type": "choice",
+   "q": "What is the future of kain (will eat)?",
+   "options": [
+    "kakain",
+    "kumakain",
+    "kumain"
+   ],
+   "answer": "kakain",
+   "explain": "Repeated first syllable + root."
+  },
+  {
+   "type": "choice",
+   "q": "For -um- verbs, which three forms look the same?",
+   "options": [
+    "Infinitive, imperative and past",
+    "Past, present and future",
+    "Present and future only"
+   ],
+   "answer": "Infinitive, imperative and past",
+   "explain": "Umalís: to leave, leave!, left."
+  },
+  {
+   "type": "choice",
+   "q": "What is the past tense of maglutò (cooked)?",
+   "options": [
+    "naglutò",
+    "naglulutò",
+    "maglulutò"
+   ],
+   "answer": "naglutò",
+   "explain": "Change mag- to nag-."
+  },
+  {
+   "type": "choice",
+   "q": "What is the present tense of mag-áral (is/are studying)?",
+   "options": [
+    "nag-aáral",
+    "mag-aáral",
+    "nag-áral"
+   ],
+   "answer": "nag-aáral",
+   "explain": "Nag- + hyphen + repeated first syllable + root."
+  },
+  {
+   "type": "choice",
+   "q": "Maglulutò means…",
+   "options": [
+    "will cook",
+    "cooked",
+    "is cooking"
+   ],
+   "answer": "will cook",
+   "explain": "The future keeps mag- and repeats the first syllable."
+  },
+  {
+   "type": "choice",
+   "q": "What does the hyphen in mag-áral show?",
+   "options": [
+    "A glottal stop after mag-",
+    "That the word is plural",
+    "That it is a question"
+   ],
+   "answer": "A glottal stop after mag-",
+   "explain": "The hyphen denotes a glottal stop after mag-."
+  },
+  {
+   "type": "choice",
+   "q": "Sampáy has a three-letter first syllable (sam). What is repeated in the present tense?",
+   "options": [
+    "Only the first two letters (sa)",
+    "The whole syllable (sam)"
+   ],
+   "answer": "Only the first two letters (sa)",
+   "explain": "Thus magsasampáy."
+  },
+  {
+   "type": "choice",
+   "q": "Bumilí means to buy. What does magbilí mean?",
+   "options": [
+    "to sell",
+    "to buy often",
+    "to pay"
+   ],
+   "answer": "to sell",
+   "explain": "The mag- form is action away from the doer."
+  },
+  {
+   "type": "choice",
+   "q": "Kumakáin (is eating) shows casual action. Nagkákakáin shows…",
+   "options": [
+    "frequent, intense action",
+    "past action",
+    "a command"
+   ],
+   "answer": "frequent, intense action",
+   "explain": "To always be eating, to continually be eating."
+  },
+  {
+   "type": "choice",
+   "q": "Add -um- to the root pások (enter).",
+   "options": [
+    "pumások",
+    "pások",
+    "páaralán"
+   ],
+   "answer": "pumások",
+   "explain": "-Um- goes after the first consonant."
+  },
+  {
+   "type": "choice",
+   "q": "Add -um- to the root táwag (call).",
+   "options": [
+    "tumáwag",
+    "táwag",
+    "táwa"
+   ],
+   "answer": "tumáwag",
+   "explain": "Tumáwag: called."
+  },
+  {
+   "type": "choice",
+   "q": "What is the root of dumatíng?",
+   "options": [
+    "datíng",
+    "alís",
+    "kain"
+   ],
+   "answer": "datíng",
+   "explain": "Take out the -um- infix."
+  },
+  {
+   "type": "choice",
+   "q": "\"Pumások ang batà sa páaralán\" is translated…",
+   "options": [
+    "The child went to school.",
+    "The child entered the house.",
+    "The child is studying."
+   ],
+   "answer": "The child went to school.",
+   "explain": "Pumások means entered, but with school or office it is went."
+  },
+  {
+   "type": "choice",
+   "q": "With siyá or silá as the subject, which pattern is preferred?",
+   "options": [
+    "Verb + doer + object",
+    "Verb + object + doer"
+   ],
+   "answer": "Verb + doer + object",
+   "explain": "Sumúlat siyá ng kuwénto."
+  },
+  {
+   "type": "choice",
+   "q": "Which word in the reading is an action word?",
+   "options": [
+    "Dumating",
+    "Amerikáno",
+    "malulusóg"
+   ],
+   "answer": "Dumating",
+   "explain": "Dumating (arrived) is an -um- verb."
+  },
+  {
+   "type": "listen",
+   "tl": "kumantá",
+   "options": [
+    "to sing",
+    "to swim",
+    "to speak"
+   ],
+   "answer": "to sing",
+   "explain": "Kumantá and umàwit both mean to sing."
+  },
+  {
+   "type": "listen",
+   "tl": "lumangóy",
+   "options": [
+    "to swim",
+    "to cry",
+    "to walk"
+   ],
+   "answer": "to swim",
+   "explain": "Lumangóy: to swim."
+  },
+  {
+   "type": "listen",
+   "tl": "maglaró",
+   "options": [
+    "to play",
+    "to pay",
+    "to plant"
+   ],
+   "answer": "to play",
+   "explain": "Maglaró: to play."
+  },
+  {
+   "type": "build",
+   "en": "Peter ate rice.",
+   "tl": "Kumáin si Peter ng kánin.",
+   "tokens": [
+    "kumáin",
+    "si",
+    "peter",
+    "ng",
+    "kánin"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "They cooked vegetables.",
+   "tl": "Naglutò silá ng gúlay.",
+   "tokens": [
+    "naglutò",
+    "silá",
+    "ng",
+    "gúlay"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Helen arrived yesterday.",
+   "tl": "Dumatíng si Helen kahápon.",
+   "tokens": [
+    "dumatíng",
+    "si",
+    "helen",
+    "kahápon"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The child is drinking milk.",
+   "tl": "Umíinom ng gátas ang batà.",
+   "tokens": [
+    "umíinom",
+    "ng",
+    "gátas",
+    "ang",
+    "batà"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Let us read a story.",
+   "tl": "Bumása táyo ng isáng kuwénto.",
+   "tokens": [
+    "bumása",
+    "táyo",
+    "ng",
+    "isáng",
+    "kuwénto"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match the verb to its meaning.",
+   "pairs": [
+    [
+     "umupô",
+     "to sit"
+    ],
+    [
+     "bumása",
+     "to read"
+    ],
+    [
+     "humingî",
+     "to ask for"
+    ],
+    [
+     "gumawâ",
+     "to do or make something"
+    ],
+    [
+     "umiyàk",
+     "to cry"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the mag- verb to its meaning.",
+   "pairs": [
+    [
+     "magsalitâ",
+     "to speak"
+    ],
+    [
+     "maglakád",
+     "to walk"
+    ],
+    [
+     "magbáyad",
+     "to pay"
+    ],
+    [
+     "magsayáw",
+     "to dance"
+    ],
+    [
+     "magtanóng",
+     "to ask a question"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each form of lutò.",
+   "pairs": [
+    [
+     "maglutò",
+     "to cook"
+    ],
+    [
+     "naglutò",
+     "cooked"
+    ],
+    [
+     "naglulutò",
+     "is/are cooking"
+    ],
+    [
+     "maglulutò",
+     "will cook"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "-Um- and mag- verbs focus on the doer, and the verb usually comes first.",
+  "-Um- goes in front of a vowel root (umalís) or after the first consonant (kumain).",
+  "Mag- goes in front of the root, with a hyphen before a vowel (mag-áral); past and present use nag-.",
+  "Present repeats the first syllable (kumakain, naglulutò); future too, without -um- (kakain) or with mag- (maglulutò).",
+  "When a root takes both: -um- is casual or toward the doer (bumilí, buy); mag- is intense or away from the doer (magbilí, sell).",
+  "Pattern 1: verb + doer + object (preferred with siyá, silá). Pattern 2: verb + object + doer."
+ ]
+}

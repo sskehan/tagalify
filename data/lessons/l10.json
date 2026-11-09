@@ -1,0 +1,1699 @@
+{
+ "id": "l10",
+ "label": "10",
+ "title": "The question word ba",
+ "summary": "Ba, the spoken question mark: where it goes, ba'y, the particles na, pa, din, daw and nga, and bang",
+ "minutes": 35,
+ "goals": [
+  "Understand what ba does in a question",
+  "Place ba correctly in normal and inverted sentences",
+  "Place ba after a question word",
+  "Know the particles na, pa, din/rin, daw/raw and ngâ, and how they push ba back",
+  "Use bang after gustó, áyaw, íbig and other pseudo verbs"
+ ],
+ "sections": [
+  {
+   "title": "What ba does",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Some words in Tagalog have no exact English meaning. Instead they add a feeling to what is said, such as curiosity, frustration or irritation. They spice up everyday speech, and a learner does well to understand them."
+    },
+    {
+     "type": "p",
+     "t": "**Ba** is one of them. It has no specific meaning and cannot be translated into English. It works as a **spoken question mark**: it shows clearly that the speaker is asking a question."
+    },
+    {
+     "type": "p",
+     "t": "A question does not have to contain ba. But without it, a question may be mistaken for a statement, especially if it is pronounced wrongly."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Silá ay aalís na.",
+       "en": "They will leave now.",
+       "parts": [
+        [
+         "Silá",
+         "they",
+         "pron"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "aalís",
+         "leaving",
+         "pred"
+        ],
+        [
+         "na",
+         "now",
+         "part"
+        ]
+       ]
+      },
+      {
+       "tl": "Silá ba ay aalís na?",
+       "en": "Are they leaving now?",
+       "parts": [
+        [
+         "Silá",
+         "they",
+         "pron"
+        ],
+        [
+         "ba",
+         "question word",
+         "part"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "aalís",
+         "leaving",
+         "pred"
+        ],
+        [
+         "na",
+         "now",
+         "part"
+        ]
+       ]
+      }
+     ],
+     "title": "Statement and question"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Use your voice",
+     "t": "Remember to **raise the tone of your voice** at the end of a question, to tell it apart from a statement."
+    },
+    {
+     "type": "h",
+     "t": "Where is the focus?"
+    },
+    {
+     "type": "p",
+     "t": "The same question may be written **Aalís na ba silá?** This stresses that the action (aalís, leaving) is being confirmed or awaited by the speaker. In **Silá ba ay aalís na?** the focus is on the subject, silá, rather than on the action of leaving."
+    },
+    {
+     "type": "vocab",
+     "group": "ba",
+     "title": "Ba"
+    }
+   ]
+  },
+  {
+   "title": "Rule 1: subject first",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "To turn a sentence in the **subject-predicate** order (the order with **ay**, Lesson 5) into a question, put **ba** straight after the subject and just before **ay**."
+    },
+    {
+     "type": "p",
+     "t": "The pair **ba + ay** is often shortened to **ba'y**."
+    },
+    {
+     "type": "pattern",
+     "title": "Subject + ba + ay + predicate",
+     "rows": [
+      {
+       "label": "Statement",
+       "chips": [
+        {
+         "t": "Ang babáe",
+         "r": "noun"
+        },
+        {
+         "t": "ay",
+         "r": "ay"
+        },
+        {
+         "t": "mabaít",
+         "r": "pred"
+        }
+       ]
+      },
+      {
+       "label": "Question",
+       "chips": [
+        {
+         "t": "Ang babáe",
+         "r": "noun"
+        },
+        {
+         "t": "ba",
+         "r": "part"
+        },
+        {
+         "t": "ay",
+         "r": "ay"
+        },
+        {
+         "t": "mabaít",
+         "r": "pred"
+        }
+       ]
+      },
+      {
+       "label": "Shortened",
+       "chips": [
+        {
+         "t": "Ang babáe",
+         "r": "noun"
+        },
+        {
+         "t": "ba'y",
+         "r": "part"
+        },
+        {
+         "t": "mabaít",
+         "r": "pred"
+        }
+       ]
+      }
+     ],
+     "note": "The woman is good. / Is the woman good?"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Silá ay aalís na.",
+       "en": "They will leave already.",
+       "parts": [
+        [
+         "Silá",
+         "they",
+         "pron"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "aalís",
+         "leaving",
+         "pred"
+        ],
+        [
+         "na",
+         "already",
+         "part"
+        ]
+       ]
+      },
+      {
+       "tl": "Silá ba ay aalís na?",
+       "en": "Are they leaving now?",
+       "parts": [
+        [
+         "Silá",
+         "they",
+         "pron"
+        ],
+        [
+         "ba",
+         "question word",
+         "part"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "aalís",
+         "leaving",
+         "pred"
+        ],
+        [
+         "na",
+         "now",
+         "part"
+        ]
+       ]
+      },
+      {
+       "tl": "Silá ba'y aalís na?",
+       "en": "Are they leaving now?",
+       "parts": [
+        [
+         "Silá",
+         "they",
+         "pron"
+        ],
+        [
+         "ba'y",
+         "ba + ay",
+         "part"
+        ],
+        [
+         "aalís",
+         "leaving",
+         "pred"
+        ],
+        [
+         "na",
+         "now",
+         "part"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang babáe ay mabaít.",
+       "en": "The woman is good.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "babáe",
+         "woman",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "mabaít",
+         "good",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang babáe ba ay mabaít?",
+       "en": "Is the woman good?",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "babáe",
+         "woman",
+         "noun"
+        ],
+        [
+         "ba",
+         "question word",
+         "part"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "mabaít",
+         "good",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang babáe ba'y mabaít?",
+       "en": "Is the woman good?",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "babáe",
+         "woman",
+         "noun"
+        ],
+        [
+         "ba'y",
+         "ba + ay",
+         "part"
+        ],
+        [
+         "mabaít",
+         "good",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Si Pedro ay marúnong.",
+       "en": "Pedro is intelligent.",
+       "parts": [
+        [
+         "Si",
+         "article (name)",
+         "marker"
+        ],
+        [
+         "Pedro",
+         "Pedro",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "marúnong",
+         "intelligent",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Si Pedro ba ay marúnong?",
+       "en": "Is Pedro intelligent?",
+       "parts": [
+        [
+         "Si",
+         "article (name)",
+         "marker"
+        ],
+        [
+         "Pedro",
+         "Pedro",
+         "noun"
+        ],
+        [
+         "ba",
+         "question word",
+         "part"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "marúnong",
+         "intelligent",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Si Pedro ba'y marúnong?",
+       "en": "Is Pedro intelligent?",
+       "parts": [
+        [
+         "Si",
+         "article (name)",
+         "marker"
+        ],
+        [
+         "Pedro",
+         "Pedro",
+         "noun"
+        ],
+        [
+         "ba'y",
+         "ba + ay",
+         "part"
+        ],
+        [
+         "marúnong",
+         "intelligent",
+         "pred"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Rule 2: predicate first",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "To turn a sentence in the **inverted** (transposed) order, where the predicate comes first, into a question, put **ba** straight after the predicate."
+    },
+    {
+     "type": "pattern",
+     "title": "Predicate + ba + subject",
+     "rows": [
+      {
+       "label": "Statement",
+       "chips": [
+        {
+         "t": "Mabaít",
+         "r": "pred"
+        },
+        {
+         "t": "ang babáe",
+         "r": "noun"
+        }
+       ]
+      },
+      {
+       "label": "Question",
+       "chips": [
+        {
+         "t": "Mabaít",
+         "r": "pred"
+        },
+        {
+         "t": "ba",
+         "r": "part"
+        },
+        {
+         "t": "ang babáe",
+         "r": "noun"
+        }
+       ]
+      }
+     ],
+     "note": "The woman is good. / Is the woman good?"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Aalís silá.",
+       "en": "They will leave.",
+       "parts": [
+        [
+         "Aalís",
+         "will leave",
+         "pred"
+        ],
+        [
+         "silá",
+         "they",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Aalís ba silá?",
+       "en": "Will they leave?",
+       "parts": [
+        [
+         "Aalís",
+         "will leave",
+         "pred"
+        ],
+        [
+         "ba",
+         "question word",
+         "part"
+        ],
+        [
+         "silá",
+         "they",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Mabaít ang babáe.",
+       "en": "The woman is good",
+       "parts": [
+        [
+         "Mabaít",
+         "good",
+         "pred"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "babáe",
+         "woman",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Mabaít ba ang babáe?",
+       "en": "Is the woman good?",
+       "parts": [
+        [
+         "Mabaít",
+         "good",
+         "pred"
+        ],
+        [
+         "ba",
+         "question word",
+         "part"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "babáe",
+         "woman",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Kákain akó.",
+       "en": "I shall eat.",
+       "parts": [
+        [
+         "Kákain",
+         "shall eat",
+         "pred"
+        ],
+        [
+         "akó",
+         "I",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Kákain ba akó?",
+       "en": "Shall I eat?",
+       "parts": [
+        [
+         "Kákain",
+         "shall eat",
+         "pred"
+        ],
+        [
+         "ba",
+         "question word",
+         "part"
+        ],
+        [
+         "akó",
+         "I",
+         "pron"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Yes or no",
+     "t": "The questions made with rules 1 and 2 can be answered with **yes** or **no**."
+    }
+   ]
+  },
+  {
+   "title": "Rule 3: after a question word",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "In a question that starts with a question word from Lesson 9, always put **ba** straight after the question word. These questions **cannot** be answered with yes or no."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Síno ba ang kasáma mo?",
+       "en": "Who is your companion?",
+       "parts": [
+        [
+         "Síno",
+         "who",
+         "other"
+        ],
+        [
+         "ba",
+         "question word",
+         "part"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "kasáma",
+         "companion",
+         "noun"
+        ],
+        [
+         "mo",
+         "your",
+         "poss"
+        ]
+       ]
+      },
+      {
+       "tl": "Anó ba ang gustó mo?",
+       "en": "What do you like?",
+       "parts": [
+        [
+         "Anó",
+         "what",
+         "other"
+        ],
+        [
+         "ba",
+         "question word",
+         "part"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "gustó",
+         "like",
+         "pred"
+        ],
+        [
+         "mo",
+         "you",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Saán ba kayo pupuntá?",
+       "en": "Where are you going?",
+       "parts": [
+        [
+         "Saán",
+         "where",
+         "other"
+        ],
+        [
+         "ba",
+         "question word",
+         "part"
+        ],
+        [
+         "kayo",
+         "you",
+         "pron"
+        ],
+        [
+         "pupuntá",
+         "going",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Kailán ba kayó aalís?",
+       "en": "When are you leaving?",
+       "parts": [
+        [
+         "Kailán",
+         "when",
+         "other"
+        ],
+        [
+         "ba",
+         "question word",
+         "part"
+        ],
+        [
+         "kayó",
+         "you",
+         "pron"
+        ],
+        [
+         "aalís",
+         "leaving",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Magkáno ba itó?",
+       "en": "How much is this?",
+       "parts": [
+        [
+         "Magkáno",
+         "how much",
+         "other"
+        ],
+        [
+         "ba",
+         "question word",
+         "part"
+        ],
+        [
+         "itó",
+         "this",
+         "pron"
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Little words that push ba back",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Sometimes short one-syllable words are added for emphasis: the personal pronouns **ka, ko** and **mo**, and particles such as **na, pa, din, daw, pô, hô, ngâ** and others. They follow the question word (or the predicate) and push **ba** further toward the end of the question."
+    },
+    {
+     "type": "p",
+     "t": "Ba actually belongs to the same group as these particles. They are optional, but they add emphasis."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Particle",
+      "Meaning",
+      "Example"
+     ],
+     "rows": [
+      [
+       "[[na|part]]",
+       "*already* or *now*; expresses finality",
+       "Aalís na ba silá? *Will they leave already?*"
+      ],
+      [
+       "[[pa|part]]",
+       "*still, yet* or *more*",
+       "Marumí pa ba siyá? *Is he/she still dirty?*"
+      ],
+      [
+       "[[din|part]] / [[rin|part]]",
+       "*too* and *also*. **Din** after a word ending in a consonant, **rin** after a word ending in a vowel",
+       "Ikáw din ba? *You too?*  Akó rin ba? *Me too?*"
+      ],
+      [
+       "[[daw|part]] / [[raw|part]]",
+       "*they say* or *reportedly*; the speaker got the information from another source. **Daw** after a consonant, **raw** after a vowel",
+       "Ikáw daw. *They say it is you.*  Akó raw. *They say it is I.*"
+      ],
+      [
+       "[[ngâ|part]]",
+       "*indeed*; also puts emphasis on the word before it",
+       ""
+      ]
+     ],
+     "title": "Particles"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Aalís na ba silá?",
+       "en": "Will they leave already?",
+       "parts": [
+        [
+         "Aalís",
+         "will leave",
+         "pred"
+        ],
+        [
+         "na",
+         "already",
+         "part"
+        ],
+        [
+         "ba",
+         "question word",
+         "part"
+        ],
+        [
+         "silá",
+         "they",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Aalís ka na ba?",
+       "en": "Will you leave already?",
+       "parts": [
+        [
+         "Aalís",
+         "will leave",
+         "pred"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ],
+        [
+         "na",
+         "already",
+         "part"
+        ],
+        [
+         "ba",
+         "question word",
+         "part"
+        ]
+       ]
+      },
+      {
+       "tl": "Magandá rin ba ang babáe?",
+       "en": "Is the woman pretty too?",
+       "parts": [
+        [
+         "Magandá",
+         "pretty",
+         "pred"
+        ],
+        [
+         "rin",
+         "too",
+         "part"
+        ],
+        [
+         "ba",
+         "question word",
+         "part"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "babáe",
+         "woman",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Malinís daw ba ang batà?",
+       "en": "Is the child clean as they say?",
+       "parts": [
+        [
+         "Malinís",
+         "clean",
+         "pred"
+        ],
+        [
+         "daw",
+         "they say",
+         "part"
+        ],
+        [
+         "ba",
+         "question word",
+         "part"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Marumí raw ba ang batà?",
+       "en": "Is the child dirty as they say?",
+       "parts": [
+        [
+         "Marumí",
+         "dirty",
+         "pred"
+        ],
+        [
+         "raw",
+         "they say",
+         "part"
+        ],
+        [
+         "ba",
+         "question word",
+         "part"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Marumí pa ba siyá?",
+       "en": "Is he/she still dirty?",
+       "parts": [
+        [
+         "Marumí",
+         "dirty",
+         "pred"
+        ],
+        [
+         "pa",
+         "still",
+         "part"
+        ],
+        [
+         "ba",
+         "question word",
+         "part"
+        ],
+        [
+         "siyá",
+         "he/she",
+         "pron"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Vowel or consonant?",
+     "t": "Look at the last letter of the word before: Ikáw ends in a consonant, so **din** and **daw**; Akó ends in a vowel, so **rin** and **raw**. (Magandá → rin; Malinís → daw; Marumí → raw.)"
+    },
+    {
+     "type": "vocab",
+     "group": "particles",
+     "title": "The particles"
+    }
+   ]
+  },
+  {
+   "title": "Rule 4: bang with pseudo verbs",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Some questions start with **pseudo verbs** such as **gustó, áyaw, íbig, puwéde, maáari** and others. These help the main verb express a mood (they are covered in Lesson 17). Put **ba** between the pseudo verb and the main verb, and attach the ligature **-ng** to ba: **bang**."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Gustó bang kumáin ng batà?",
+       "en": "Does the child like to eat?",
+       "parts": [
+        [
+         "Gustó",
+         "like",
+         "pred"
+        ],
+        [
+         "bang",
+         "ba + -ng",
+         "part"
+        ],
+        [
+         "kumáin",
+         "to eat",
+         "pred"
+        ],
+        [
+         "ng",
+         "article",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Íbig bang umalís ng lalákí?",
+       "en": "Does the man like to leave?",
+       "parts": [
+        [
+         "Íbig",
+         "like",
+         "pred"
+        ],
+        [
+         "bang",
+         "ba + -ng",
+         "part"
+        ],
+        [
+         "umalís",
+         "to leave",
+         "pred"
+        ],
+        [
+         "ng",
+         "article",
+         "marker"
+        ],
+        [
+         "lalákí",
+         "man",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Áyaw bang umalís ng babáe?",
+       "en": "Doesn't the woman want to leave?",
+       "parts": [
+        [
+         "Áyaw",
+         "not want",
+         "pred"
+        ],
+        [
+         "bang",
+         "ba + -ng",
+         "part"
+        ],
+        [
+         "umalís",
+         "to leave",
+         "pred"
+        ],
+        [
+         "ng",
+         "article",
+         "marker"
+        ],
+        [
+         "babáe",
+         "woman",
+         "noun"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "t": "When a pronoun comes before the main verb"
+    },
+    {
+     "type": "p",
+     "t": "If a pronoun comes before the main verb (usually an **-um-** or **mag-** verb, Lesson 14), the ligature **-ng** is attached to the pronoun (such as **siyá, kamí, silá** and **táyo**) instead of to ba."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Dápat ba siyáng magsalitâ?",
+       "en": "Should he/she speak?",
+       "parts": [
+        [
+         "Dápat",
+         "should",
+         "pred"
+        ],
+        [
+         "ba",
+         "question word",
+         "part"
+        ],
+        [
+         "siyáng",
+         "he/she + -ng",
+         "pron"
+        ],
+        [
+         "magsalitâ",
+         "speak",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Puwéde ba akong umalís?",
+       "en": "Can I go?",
+       "parts": [
+        [
+         "Puwéde",
+         "can",
+         "pred"
+        ],
+        [
+         "ba",
+         "question word",
+         "part"
+        ],
+        [
+         "akong",
+         "I + -ng",
+         "pron"
+        ],
+        [
+         "umalís",
+         "go",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Maáarì ba kamíng magtiwalà sa iyó?",
+       "en": "Should we trust you?",
+       "parts": [
+        [
+         "Maáarì",
+         "should",
+         "pred"
+        ],
+        [
+         "ba",
+         "question word",
+         "part"
+        ],
+        [
+         "kamíng",
+         "we + -ng",
+         "pron"
+        ],
+        [
+         "magtiwalà",
+         "trust",
+         "pred"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "iyó",
+         "you",
+         "pron"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "culture",
+     "title": "Bagá",
+     "t": "In some Tagalog-speaking provinces, **bagá** is used instead of ba."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Up or down at the end",
+     "items": [
+      "If the answer is **yes or no**, raise your voice at the end: *Aalís ka ba?* Oô/Hindî. (Are you leaving? Yes/No.)",
+      "If not, bring your voice down at the end: *Síno ka ba?* Áko si Mary. (Who are you? I am Mary.)"
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "words",
+     "title": "Vocabulary list"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "Ba is a spoken question mark with no English translation.",
+      "Subject first: ba goes before ay (ba + ay = ba'y). Predicate first: ba goes after the predicate.",
+      "With a question word, ba follows it; the answer is not yes or no.",
+      "Ka, ko, mo and particles like na, pa, din, daw push ba further back.",
+      "After a pseudo verb, use bang; if a pronoun follows ba, the pronoun takes -ng instead."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "ba",
+   "tl": "ba",
+   "en": "spoken question mark (no English translation)",
+   "pos": "part",
+   "group": "ba",
+   "note": "Turns a sentence into a question"
+  },
+  {
+   "id": "bay-l10",
+   "tl": "ba'y",
+   "en": "short for ba + ay",
+   "pos": "part",
+   "group": "ba"
+  },
+  {
+   "id": "baga-l10",
+   "tl": "bagá",
+   "en": "used instead of ba in some Tagalog-speaking provinces",
+   "pos": "part",
+   "group": "ba",
+   "say": "ba-GA"
+  },
+  {
+   "id": "na-l10",
+   "tl": "na",
+   "en": "already, now (expresses finality)",
+   "pos": "part",
+   "group": "particles"
+  },
+  {
+   "id": "pa-l10",
+   "tl": "pa",
+   "en": "still, yet, more",
+   "pos": "part",
+   "group": "particles"
+  },
+  {
+   "id": "din-l10",
+   "tl": "din",
+   "en": "too, also (after a word ending in a consonant)",
+   "pos": "part",
+   "group": "particles",
+   "note": "After a word ending in a vowel it becomes rin"
+  },
+  {
+   "id": "daw-l10",
+   "tl": "daw",
+   "en": "they say, reportedly (after a word ending in a consonant)",
+   "pos": "part",
+   "group": "particles"
+  },
+  {
+   "id": "raw-l10",
+   "tl": "raw",
+   "en": "they say, reportedly (after a word ending in a vowel)",
+   "pos": "part",
+   "group": "particles"
+  },
+  {
+   "id": "nga-l10",
+   "tl": "ngâ",
+   "en": "indeed (puts emphasis on the word before it)",
+   "pos": "part",
+   "group": "particles",
+   "say": "ngaQ",
+   "note": "The book also writes Nga"
+  },
+  {
+   "id": "aalis-l10",
+   "tl": "aalís",
+   "en": "is/are leaving",
+   "pos": "verb",
+   "group": "words",
+   "say": "a-a-LIS"
+  },
+  {
+   "id": "kaibigan-l10",
+   "tl": "kaibígan",
+   "en": "friend",
+   "pos": "noun",
+   "group": "words",
+   "say": "ka-i-BI-gan"
+  },
+  {
+   "id": "kasama-l10",
+   "tl": "kasáma",
+   "en": "companion",
+   "pos": "noun",
+   "group": "words",
+   "say": "ka-SA-ma"
+  },
+  {
+   "id": "magsalita-l10",
+   "tl": "magsalitâ",
+   "en": "to speak up",
+   "pos": "verb",
+   "group": "words",
+   "say": "mag-sa-li-taQ"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "What does ba mean in English?",
+   "options": [
+    "It has no translation; it works as a spoken question mark",
+    "yes",
+    "already"
+   ],
+   "answer": "It has no translation; it works as a spoken question mark",
+   "explain": "Ba shows clearly that the speaker is asking a question."
+  },
+  {
+   "type": "choice",
+   "q": "Turn into a question: Ang babáe ay mabaít.",
+   "options": [
+    "Ang babáe ba ay mabaít?",
+    "Ang ba babáe ay mabaít?",
+    "Ang babáe ay ba mabaít?"
+   ],
+   "answer": "Ang babáe ba ay mabaít?",
+   "explain": "In the subject-predicate order, ba goes after the subject and before ay."
+  },
+  {
+   "type": "choice",
+   "q": "Ba + ay is often shortened to…",
+   "options": [
+    "ba'y",
+    "bay'",
+    "bang"
+   ],
+   "answer": "ba'y",
+   "explain": "Si Pedro ba'y marúnong?"
+  },
+  {
+   "type": "choice",
+   "q": "Turn into a question: Mabaít ang babáe.",
+   "options": [
+    "Mabaít ba ang babáe?",
+    "Mabaít ang babáe ba?",
+    "Ba mabaít ang babáe?"
+   ],
+   "answer": "Mabaít ba ang babáe?",
+   "explain": "In the inverted order, ba goes straight after the predicate."
+  },
+  {
+   "type": "choice",
+   "q": "Turn into a question: Kákain akó.",
+   "options": [
+    "Kákain ba akó?",
+    "Kákain akó ba?",
+    "Ba kákain akó?"
+   ],
+   "answer": "Kákain ba akó?",
+   "explain": "Shall I eat?"
+  },
+  {
+   "type": "choice",
+   "q": "Where does ba go in a question that starts with a question word?",
+   "options": [
+    "Straight after the question word",
+    "At the very end",
+    "Before the question word"
+   ],
+   "answer": "Straight after the question word",
+   "explain": "Síno ba ang kasáma mo?"
+  },
+  {
+   "type": "choice",
+   "q": "Can \"Síno ba ang kasáma mo?\" be answered with yes or no?",
+   "options": [
+    "No",
+    "Yes"
+   ],
+   "answer": "No",
+   "explain": "Questions with a question word are not answered by yes or no."
+  },
+  {
+   "type": "choice",
+   "q": "\"Aalís na ba silá?\" puts the focus on…",
+   "options": [
+    "the action of leaving",
+    "the subject silá"
+   ],
+   "answer": "the action of leaving",
+   "explain": "Silá ba ay aalís na? focuses on the subject instead."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: Ikáw ___ ba? (You too?)",
+   "options": [
+    "din",
+    "rin",
+    "daw"
+   ],
+   "answer": "din",
+   "explain": "Ikáw ends in a consonant, so din."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: Akó ___ ba? (Me too?)",
+   "options": [
+    "rin",
+    "din",
+    "pa"
+   ],
+   "answer": "rin",
+   "explain": "Akó ends in a vowel, so rin."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: Marumí ___ ba ang batà? (Is the child dirty as they say?)",
+   "options": [
+    "raw",
+    "daw",
+    "rin"
+   ],
+   "answer": "raw",
+   "explain": "Marumí ends in a vowel, so raw."
+  },
+  {
+   "type": "choice",
+   "q": "Which particle means still, yet or more?",
+   "options": [
+    "pa",
+    "na",
+    "ngâ"
+   ],
+   "answer": "pa",
+   "explain": "Marumí pa ba siyá? Is he/she still dirty?"
+  },
+  {
+   "type": "choice",
+   "q": "Which particle means indeed?",
+   "options": [
+    "ngâ",
+    "daw",
+    "pa"
+   ],
+   "answer": "ngâ",
+   "explain": "It also puts emphasis on the word before it."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: Gustó ___ kumáin ng batà? (Does the child like to eat?)",
+   "options": [
+    "bang",
+    "ba",
+    "ba'y"
+   ],
+   "answer": "bang",
+   "explain": "After a pseudo verb, -ng is attached to ba."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: Dápat ba ___ magsalitâ? (Should he/she speak?)",
+   "options": [
+    "siyáng",
+    "siyá",
+    "bang siyá"
+   ],
+   "answer": "siyáng",
+   "explain": "When a pronoun comes before the main verb, the pronoun takes -ng instead of ba."
+  },
+  {
+   "type": "choice",
+   "q": "You ask a yes-or-no question. What does your voice do at the end?",
+   "options": [
+    "It goes up",
+    "It goes down",
+    "It stays flat"
+   ],
+   "answer": "It goes up",
+   "explain": "If the answer is not yes or no, bring your voice down."
+  },
+  {
+   "type": "listen",
+   "tl": "Kailán ba kayó aalís?",
+   "options": [
+    "When are you leaving?",
+    "Where are you going?",
+    "Will they leave?"
+   ],
+   "answer": "When are you leaving?",
+   "explain": "Kailán means when; aalís means leaving."
+  },
+  {
+   "type": "listen",
+   "tl": "Magandá rin ba ang babáe?",
+   "options": [
+    "Is the woman pretty too?",
+    "Is the woman good?",
+    "Is the child clean as they say?"
+   ],
+   "answer": "Is the woman pretty too?",
+   "explain": "Rin means too."
+  },
+  {
+   "type": "listen",
+   "tl": "Puwéde ba akong umalís?",
+   "options": [
+    "Can I go?",
+    "Shall I eat?",
+    "Should we trust you?"
+   ],
+   "answer": "Can I go?",
+   "explain": "Akong: the pronoun takes the -ng."
+  },
+  {
+   "type": "build",
+   "en": "Is Pedro intelligent?",
+   "tl": "Si Pedro ba ay marúnong?",
+   "tokens": [
+    "si",
+    "pedro",
+    "ba",
+    "ay",
+    "marúnong"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Will they leave?",
+   "tl": "Aalís ba silá?",
+   "tokens": [
+    "aalís",
+    "ba",
+    "silá"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Who is your companion?",
+   "tl": "Síno ba ang kasáma mo?",
+   "tokens": [
+    "síno",
+    "ba",
+    "ang",
+    "kasáma",
+    "mo"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "How much is this?",
+   "tl": "Magkáno ba itó?",
+   "tokens": [
+    "magkáno",
+    "ba",
+    "itó"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Will you leave already?",
+   "tl": "Aalís ka na ba?",
+   "tokens": [
+    "aalís",
+    "ka",
+    "na",
+    "ba"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Is he/she still dirty?",
+   "tl": "Marumí pa ba siyá?",
+   "tokens": [
+    "marumí",
+    "pa",
+    "ba",
+    "siyá"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Doesn't the woman want to leave?",
+   "tl": "Áyaw bang umalís ng babáe?",
+   "tokens": [
+    "áyaw",
+    "bang",
+    "umalís",
+    "ng",
+    "babáe"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match each particle to its meaning.",
+   "pairs": [
+    [
+     "na",
+     "already, now"
+    ],
+    [
+     "pa",
+     "still, yet, more"
+    ],
+    [
+     "din",
+     "too, also"
+    ],
+    [
+     "daw",
+     "they say, reportedly"
+    ],
+    [
+     "ngâ",
+     "indeed"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each statement to its question.",
+   "pairs": [
+    [
+     "Silá ay aalís na.",
+     "Silá ba ay aalís na?"
+    ],
+    [
+     "Aalís silá.",
+     "Aalís ba silá?"
+    ],
+    [
+     "Kákain akó.",
+     "Kákain ba akó?"
+    ],
+    [
+     "Mabaít ang babáe.",
+     "Mabaít ba ang babáe?"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "Ba has no translation: it is a spoken question mark. Raise your voice at the end of a yes-or-no question.",
+  "Subject first: ba goes after the subject, before ay (Ang babáe ba ay mabaít?). Ba + ay can become ba'y.",
+  "Predicate first: ba goes after the predicate (Mabaít ba ang babáe?).",
+  "With a question word, ba follows it (Síno ba ang kasáma mo?), and the answer is not yes or no.",
+  "Ka, ko, mo and the particles na, pa, din/rin, daw/raw, ngâ push ba further back (Aalís ka na ba?).",
+  "After a pseudo verb use bang (Gustó bang kumáin ng batà?), unless a pronoun follows ba (Dápat ba siyáng magsalitâ?)."
+ ]
+}
