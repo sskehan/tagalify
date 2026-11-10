@@ -1,0 +1,19 @@
+TAGALIFY v1.08 UPDATE PACK  (install over v1.07)
+================================================
+This pack holds ONLY the files that changed since v1.07. Do not delete anything on GitHub.
+
+What's new: Lessons 35 to 39 (book pages 152-170), in a new unit "Joining ideas and agreeing".
+
+How to install
+1. Unzip this pack. Inside the "tagalify" folder are the changed files in their folders.
+2. On GitHub, open your Tagalify repository and upload each file into the SAME folder:
+   - top level:        core.js, sw.js, app.js, README.md
+   - data/:            course.json
+   - data/lessons/:    l35.json to l39.json (new files)
+   - tools/:           build.py and c37_l35.py to c41_l39.py
+   Use "Add file > Upload files" inside each folder, drag the files in, and Commit. Replace when asked.
+3. Check the Actions tab shows a green tick, then fully close and reopen Tagalify twice.
+   More > About should show v1.08.
+
+Your progress, Dropbox backup and recordings are not affected.
+(You can delete this text file from GitHub afterwards.)
