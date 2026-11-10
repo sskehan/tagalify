@@ -1,4 +1,4 @@
-# Tagalify v1.09
+# Tagalify v1.10
 
 A complete, offline study guide for learning Tagalog, built for native English speakers starting from zero. It installs on Android as an app (a Progressive Web App) and works without a connection after the first visit.
 
@@ -96,6 +96,9 @@ Then upload the changed files to GitHub. Your progress on the phone is kept.
 Progress and recordings are stored on the phone, and copied to your own Dropbox if you connect it. Nothing is sent anywhere else. You can also save a backup file of your progress from **More › Backup file**.
 
 ## Version history
+
+**1.10**
+- Recording studio: choose which microphone to record with (for example a RØDE Wireless PRO or other USB-C mic), a live level meter to test it, and an option to turn off the phone's noise filters for external mics. Falls back to the phone mic if the chosen one is unplugged.
 
 **1.09**
 - Added Lessons 40 to 44 (book pages 171-188), the last lessons in the book: noun affixes, formation of adjectives, plural forms of verbs, contractions, and colours.

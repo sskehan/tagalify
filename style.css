@@ -174,3 +174,6 @@ body.full #nav{display:none}
 .keyin{font:inherit;padding:8px 10px;border:1px solid var(--line);border-radius:10px;background:var(--bg);color:var(--ink);max-width:60%}
 .howto{margin-top:10px}.howto summary{cursor:pointer;color:var(--pri);font-weight:600;padding:6px 0}.howto ol{padding-left:1.2rem;margin:6px 0}.howto li{margin:6px 0}
 .stxt b{display:block;font-weight:600}.stxt .sen{display:block;color:var(--mute);font-size:.85rem;margin-top:1px}
+.meter{height:12px;border-radius:6px;background:var(--line);overflow:hidden;margin:10px 0 4px}.meter .lvl{display:block;height:100%;width:0;background:#9aa3ad;transition:width .06s linear}.meter .lvl.ok{background:#2e9d5b}.meter .lvl.hot{background:#d9534f}
+#miccard .muted{display:block;opacity:.75;margin-bottom:8px}
+#miccard .setrow span{flex:1}

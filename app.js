@@ -522,10 +522,97 @@ function makeZip(files) {
   return new Blob([...parts, ...central, end.buffer], { type: 'application/zip' });
 }
 let recorder = null;
+/* ---------- microphone choice (external mics such as RØDE Wireless PRO) ---------- */
+function micGet(k, d) { try { const x = localStorage.getItem('tg.' + k); return x == null ? d : x; } catch (e) { return d; } }
+function micSet(k, x) { try { localStorage.setItem('tg.' + k, x); } catch (e) {} }
+function micConstraints(id) {
+  const raw = micGet('micRaw', '0') === '1';
+  const a = { echoCancellation: !raw, noiseSuppression: !raw, autoGainControl: !raw };
+  if (id) a.deviceId = { exact: id };
+  return { audio: a };
+}
+async function micStream() {
+  const id = micGet('mic', '');
+  try { return await navigator.mediaDevices.getUserMedia(micConstraints(id)); }
+  catch (e) {
+    if (id && (e.name === 'OverconstrainedError' || e.name === 'NotFoundError' || e.name === 'NotReadableError')) {
+      toast('Chosen microphone not found, using the phone mic');
+      return await navigator.mediaDevices.getUserMedia(micConstraints(''));
+    }
+    throw e;
+  }
+}
+async function micList() {
+  if (!navigator.mediaDevices || !navigator.mediaDevices.enumerateDevices) return [];
+  let ds = await navigator.mediaDevices.enumerateDevices();
+  if (ds.some((d) => d.kind === 'audioinput' && !d.label)) {
+    // labels only appear after permission: ask once, then list again
+    try { const st = await navigator.mediaDevices.getUserMedia({ audio: true }); st.getTracks().forEach((t) => t.stop()); ds = await navigator.mediaDevices.enumerateDevices(); } catch (e) {}
+  }
+  return ds.filter((d) => d.kind === 'audioinput' && d.deviceId !== 'communications');
+}
+let micMeter = null;
+function micMeterStop() { if (micMeter) { cancelAnimationFrame(micMeter.raf); micMeter.stream.getTracks().forEach((t) => t.stop()); try { micMeter.ctx.close(); } catch (e) {} micMeter = null; } }
+async function micMeterStart(bar, label) {
+  micMeterStop();
+  let stream;
+  try { stream = await micStream(); } catch (e) { toast('Microphone permission is needed'); return false; }
+  const ctx = new (window.AudioContext || window.webkitAudioContext)();
+  const an = ctx.createAnalyser(); an.fftSize = 1024;
+  ctx.createMediaStreamSource(stream).connect(an);
+  const buf = new Float32Array(an.fftSize);
+  const tr = stream.getAudioTracks()[0];
+  if (label) label.textContent = 'Listening on: ' + ((tr && tr.label) || 'microphone');
+  micMeter = { stream, ctx, raf: 0 };
+  const tick = () => {
+    an.getFloatTimeDomainData(buf);
+    let pk = 0; for (let i = 0; i < buf.length; i++) pk = Math.max(pk, Math.abs(buf[i]));
+    bar.style.width = Math.min(100, Math.round(Math.sqrt(pk) * 100)) + '%';
+    bar.className = 'lvl' + (pk > 0.9 ? ' hot' : pk > 0.02 ? ' ok' : '');
+    if (!bar.isConnected) { micMeterStop(); return; }
+    micMeter.raf = requestAnimationFrame(tick);
+  };
+  tick();
+  return true;
+}
+function micCard() {
+  const sel = h('select', { 'aria-label': 'Microphone', onchange: (e) => { micSet('mic', e.target.value); if (micMeter) testBtn.onclick(true); } },
+    h('option', { value: '' }, 'Phone default'));
+  const fill = async () => {
+    const ms = await micList(), cur = micGet('mic', '');
+    sel.replaceChildren(h('option', { value: '' }, 'Phone default'),
+      ...ms.map((d, i) => h('option', { value: d.deviceId, selected: d.deviceId === cur }, d.label || 'Microphone ' + (i + 1))));
+    if (cur && !ms.some((d) => d.deviceId === cur)) sel.value = '';
+  };
+  const bar = h('i', { class: 'lvl' }), who = h('small', { class: 'muted' }, 'Tap Test, then speak. The bar should move.');
+  const testBtn = h('button', { class: 'btn ghost block' }, '🎙️ Test microphone');
+  testBtn.onclick = async (restart) => {
+    if (micMeter && restart !== true) { micMeterStop(); testBtn.textContent = '🎙️ Test microphone'; bar.style.width = '0'; return; }
+    if (await micMeterStart(bar, who)) { testBtn.textContent = '■ Stop test'; fill(); }
+  };
+  if (navigator.mediaDevices && navigator.mediaDevices.addEventListener) {
+    navigator.mediaDevices.ondevicechange = () => { if (sel.isConnected) fill(); };
+  }
+  fill();
+  const raw = h('input', { type: 'checkbox', checked: micGet('micRaw', '0') === '1', onchange: (e) => { micSet('micRaw', e.target.checked ? '1' : '0'); if (micMeter) testBtn.onclick(true); } });
+  return h('div', { class: 'card', id: 'miccard' },
+    h('b', {}, '🎙️ Microphone'),
+    h('label', { class: 'setrow' }, h('span', {}, 'Record with'), sel),
+    h('label', { class: 'setrow' }, h('span', {}, 'External mic: turn off phone noise filters'), raw),
+    h('div', { class: 'meter' }, bar), who, testBtn,
+    h('details', { class: 'howto' }, h('summary', {}, 'Using a wireless or USB mic (e.g. RØDE Wireless PRO)'),
+      h('ol', {},
+        h('li', {}, 'Plug the receiver into the phone’s USB-C port and switch the transmitter on ', h('b', {}, 'before'), ' opening this page.'),
+        h('li', {}, 'Tap ', h('b', {}, 'Test microphone'), ' and allow the microphone if asked. The list then shows every mic the phone can see.'),
+        h('li', {}, 'Pick the RØDE (it may be called ', h('b', {}, 'USB audio'), ' or ', h('b', {}, 'USB headset'), ') under Record with, and speak into the transmitter. The bar should move.'),
+        h('li', {}, 'Tick the noise filter box for a cleaner, more natural sound from a good external mic.'),
+        h('li', {}, 'If the RØDE is not in the list: unplug and plug the receiver back in, then close Tagalify completely and open it again. In the RØDE app, make sure the receiver output is set to USB / digital, not 3.5 mm.'))));
+}
 async function startRec(text, done) {
   if (!navigator.mediaDevices || !window.MediaRecorder) { toast('Recording is not supported on this device'); return false; }
+  micMeterStop();
   let stream;
-  try { stream = await navigator.mediaDevices.getUserMedia({ audio: true }); } catch (e) { toast('Microphone permission is needed'); return false; }
+  try { stream = await micStream(); } catch (e) { toast('Microphone permission is needed'); return false; }
   const mime = ['audio/webm;codecs=opus', 'audio/webm', 'audio/mp4', 'audio/ogg'].find((m) => MediaRecorder.isTypeSupported(m));
   const mr = new MediaRecorder(stream, mime ? { mimeType: mime } : {});
   const chunks = [];
@@ -581,6 +668,7 @@ function viewStudio(v) {
         h('select', { onchange: (e) => { v.lid = e.target.value; render(); } },
           course.lessons.map((m) => h('option', { value: m.id, selected: m.id === v.lid }, (isNaN(+m.label) ? '' : m.label + '. ') + m.title)))),
       h('button', { class: 'btn block', onclick: exportAudio }, '⬇ Export all recordings (zip)')),
+    v.mic || (v.mic = micCard()),
     h('h3', { class: 'unit' }, 'Words'), h('div', { class: 'card tight' }, it.ws.map(row)),
     it.sents.length ? [h('h3', { class: 'unit' }, 'Sentences'), h('div', { class: 'card tight' }, it.sents.map(row))] : null);
 }

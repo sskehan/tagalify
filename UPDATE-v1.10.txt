@@ -1,0 +1,18 @@
+Tagalify update 1.09 -> 1.10  (recording studio: choose your microphone)
+
+Upload these files to GitHub, replacing the old ones (same folders):
+  tagalify/app.js
+  tagalify/core.js
+  tagalify/style.css
+  tagalify/sw.js
+  tagalify/README.md
+
+Then close Tagalify completely and open it again (twice if needed). More > About should say 1.10.
+
+Using the RODE Wireless PRO:
+ 1. Plug the receiver into the phone's USB-C port and switch the transmitter on.
+ 2. Open Tagalify > More > Open recording studio.
+ 3. In the new Microphone card tap "Test microphone" and allow the mic if asked.
+ 4. Choose the RODE (may show as "USB audio" / "USB headset") under "Record with".
+ 5. Speak into the transmitter - the bar should move. Tick "turn off phone noise filters" for a cleaner sound.
+ 6. Record as normal. The choice is remembered.
