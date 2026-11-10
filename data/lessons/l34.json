@@ -2183,6 +2183,11 @@
       "Time: na, pa, nang / noóng, sandalî, pagkatapos, bágo, pirmí / paráti / lagí, tuwíng, saká na, kung mínsan, bihirá, samantála / habang, hábang-panahón.",
       "Quantity: marámi, kauntî (kontî), walâ."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -2492,6 +2497,302 @@
    "pos": "adj",
    "group": "words",
    "note": "ang batàng maramot = the stingy child"
+  },
+  {
+   "id": "tumalon-m34",
+   "tl": "tumalón",
+   "en": "jump",
+   "pos": "verb",
+   "group": "more",
+   "say": "tu-ma-LON",
+   "note": "Lesson 26 gives tumalón as jumped."
+  },
+  {
+   "id": "tumalon-nang-mataas-m34",
+   "tl": "tumalón nang mataás",
+   "en": "jumps high",
+   "pos": "phrase",
+   "group": "more",
+   "say": "tu-ma-LON nang ma-ta-AS"
+  },
+  {
+   "id": "lumuha-nang-malakas-m34",
+   "tl": "lumuhá nang malakás",
+   "en": "cried loudly",
+   "pos": "phrase",
+   "group": "more",
+   "say": "lu-mu-HA nang ma-la-KAS"
+  },
+  {
+   "id": "gumulong-nang-pababa-m34",
+   "tl": "gumulong nang pababâ",
+   "en": "rolled down",
+   "pos": "phrase",
+   "group": "more",
+   "say": "gu-mu-long nang pa-ba-baQ"
+  },
+  {
+   "id": "lumalakad-m34",
+   "tl": "lumálákad",
+   "en": "walks",
+   "pos": "verb",
+   "group": "more",
+   "say": "lu-MA-LA-kad",
+   "note": "From: Lumálákad siya nang dáhan-dáhan. = She walks slowly."
+  },
+  {
+   "id": "tumayo-m34",
+   "tl": "tumayó",
+   "en": "stood up",
+   "pos": "verb",
+   "group": "more",
+   "say": "tu-ma-YO",
+   "note": "From: Siyá ay tumayó nang biglâ. = He/She stood up suddenly."
+  },
+  {
+   "id": "naglalaro-m34",
+   "tl": "naglalaro",
+   "en": "plays",
+   "pos": "verb",
+   "group": "more",
+   "note": "From: Naglalaro ang aking kapatid na lalaki dito. = My brother plays here. Lesson 6 prints naglalaró."
+  },
+  {
+   "id": "kapatid-na-lalaki-m34",
+   "tl": "kapatid na lalaki",
+   "en": "brother",
+   "pos": "phrase",
+   "group": "more",
+   "note": "From: Naglalaro ang aking kapatid na lalaki dito. = My brother plays here."
+  },
+  {
+   "id": "sasama-m34",
+   "tl": "sásama",
+   "en": "shall go with",
+   "pos": "verb",
+   "group": "more",
+   "say": "SA-sa-ma",
+   "note": "From: Saanmán siyá pumuntá, sásama ako. = Wherever she goes, I shall go with her. Lesson 9 gives sásama as coming along; Lesson 29 prints sásáma."
+  },
+  {
+   "id": "buhat-sa-hanggang-m34",
+   "tl": "búhat sa … hanggáng",
+   "en": "from … to",
+   "pos": "phrase",
+   "group": "more",
+   "say": "BU-hat sa … hang-GANG",
+   "note": "From: Kamí ay lumakad búhat sa baryo hanggáng sa lungsód. = We walked from the barrio to the city."
+  },
+  {
+   "id": "sa-lunes-m34",
+   "tl": "sa Lunés",
+   "en": "on Monday",
+   "pos": "phrase",
+   "group": "more",
+   "say": "sa lu-NES"
+  },
+  {
+   "id": "sa-hapon-m34",
+   "tl": "sa hapon",
+   "en": "in the afternoon",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "sa-marso-m34",
+   "tl": "sa Márso",
+   "en": "in March",
+   "pos": "phrase",
+   "group": "more",
+   "say": "sa MAR-so"
+  },
+  {
+   "id": "nagalit-m34",
+   "tl": "nagálit",
+   "en": "got angry",
+   "pos": "verb",
+   "group": "more",
+   "say": "na-GA-lit",
+   "note": "From: Nagálit siyá nang umalís ako. = He/She got angry when I left."
+  },
+  {
+   "id": "noong-lunes-m34",
+   "tl": "noóng Lunés",
+   "en": "last Monday",
+   "pos": "phrase",
+   "group": "more",
+   "say": "no-ONG lu-NES"
+  },
+  {
+   "id": "natapos-m34",
+   "tl": "natapos",
+   "en": "finished",
+   "pos": "verb",
+   "group": "more",
+   "note": "From: Natapos niyá ang kolehiyó noóng Márso. = He/She finished college last March."
+  },
+  {
+   "id": "halika-m34",
+   "tl": "halika",
+   "en": "come here",
+   "pos": "expr",
+   "group": "more",
+   "note": "From: Halika sandalî. = Come here for a while."
+  },
+  {
+   "id": "matulog-m34",
+   "tl": "matulog",
+   "en": "sleep",
+   "pos": "verb",
+   "group": "more",
+   "note": "From: Tayo ay matulog pagkatapos kumáin. = Let us sleep after eating. Lesson 2 prints matúlog."
+  },
+  {
+   "id": "tinatamad-m34",
+   "tl": "tinátamad",
+   "en": "feels lazy",
+   "pos": "verb",
+   "group": "more",
+   "say": "ti-NA-ta-mad",
+   "note": "From: Tuwíng Lúnes, siyá ay tinátamad. = Every Monday, she feels lazy."
+  },
+  {
+   "id": "tuwing-lunes-m34",
+   "tl": "tuwíng Lúnes",
+   "en": "every Monday",
+   "pos": "phrase",
+   "group": "more",
+   "say": "tu-WING LU-nes"
+  },
+  {
+   "id": "mag-usap-m34",
+   "tl": "mag-úsap",
+   "en": "talk",
+   "pos": "verb",
+   "group": "more",
+   "say": "mag-U-sap",
+   "note": "From: Saká na tayó mag-úsap. = Let us talk later. Lesson 14 prints mag-usap (to converse)."
+  },
+  {
+   "id": "wala-pa-siya-m34",
+   "tl": "walâ pa siyá",
+   "en": "he has not been here",
+   "pos": "phrase",
+   "group": "more",
+   "say": "wa-laQ pa si-YA",
+   "note": "From: Búhat noóng Lúnes hanggáng ngayón ay walâ pa siyá. = Since Monday, he has not been here."
+  },
+  {
+   "id": "tama-na-m34",
+   "tl": "tamà na",
+   "en": "is enough",
+   "pos": "phrase",
+   "group": "more",
+   "say": "TA-maQ na",
+   "note": "From: Samantála, tamà na ang isang libong piso para sa iyo. = Meanwhile, a thousand pesos is enough for you. Lesson 3 prints Táma na."
+  },
+  {
+   "id": "isang-libong-piso-m34",
+   "tl": "isang libong piso",
+   "en": "a thousand pesos",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "nagsasalita-m34",
+   "tl": "nagsasalitâ",
+   "en": "is talking",
+   "pos": "verb",
+   "group": "more",
+   "say": "nag-sa-sa-li-taQ",
+   "note": "From: Samantálang nagsasalitâ siyá, ako'y nakikinig. = While he is talking, I am listening. Lesson 14 prints nagsásalitâ."
+  },
+  {
+   "id": "nakikinig-m34",
+   "tl": "nakikinig",
+   "en": "listening",
+   "pos": "verb",
+   "group": "more",
+   "note": "From: Samantálang nagsasalitâ siyá, ako'y nakikinig. = While he is talking, I am listening."
+  },
+  {
+   "id": "magiging-magkaibigan-m34",
+   "tl": "magigíng magkaíbígan",
+   "en": "will be friends",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ma-gi-GING mag-ka-I-BI-gan",
+   "note": "From: Silá ay magigíng magkaíbígan hábang-panahón. = They will be friends forever."
+  },
+  {
+   "id": "naglalakbay-m34",
+   "tl": "naglálakbáy",
+   "en": "travelled",
+   "pos": "verb",
+   "group": "more",
+   "say": "nag-LA-lak-BAY",
+   "note": "From: Hindî pa ako naglálakbáy sa tanáng búhay ko. = I have never travelled in my whole life."
+  },
+  {
+   "id": "maraming-kinain-m34",
+   "tl": "maráming kinain",
+   "en": "eats much",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ma-RA-ming ki-na-in",
+   "note": "From: Maráming kinain si Tom. = Tom eats much."
+  },
+  {
+   "id": "malakas-kumain-m34",
+   "tl": "malakás kumain",
+   "en": "eats much (colloquial)",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ma-la-KAS ku-ma-in",
+   "note": "From: Malakás kumain si Tom. = Tom eats much."
+  },
+  {
+   "id": "konti-m34",
+   "tl": "kontî",
+   "en": "little (shortened form of kauntî)",
+   "pos": "adv",
+   "group": "more",
+   "say": "kon-tiQ"
+  },
+  {
+   "id": "konting-pagkain-m34",
+   "tl": "kontíng pagkain",
+   "en": "a little amount of food",
+   "pos": "phrase",
+   "group": "more",
+   "say": "kon-TING pag-ka-in",
+   "note": "From: Nagbigáy ng kontíng pagkain ang batàng maramot. = The stingy child gave a little amount of food."
+  },
+  {
+   "id": "wala-m34",
+   "tl": "walâ",
+   "en": "none; nothing",
+   "pos": "adv",
+   "group": "more",
+   "say": "wa-laQ",
+   "note": "Lesson 12 gives walâ as none; there is/there are no; do/does not have."
+  },
+  {
+   "id": "walang-kinakain-m34",
+   "tl": "waláng kinákain",
+   "en": "eats nothing",
+   "pos": "phrase",
+   "group": "more",
+   "say": "wa-LANG ki-NA-ka-in",
+   "note": "From: Waláng kinákain ang sanggól na may sakít. = The sick infant eats nothing."
+  },
+  {
+   "id": "wala-akong-gusto-m34",
+   "tl": "walâ akóng gustó",
+   "en": "I like nothing",
+   "pos": "phrase",
+   "group": "more",
+   "say": "wa-laQ a-KONG gus-TO"
   }
  ],
  "exercises": [

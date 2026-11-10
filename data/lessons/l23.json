@@ -563,6 +563,11 @@
       "Noun first or verb first, the meaning is the same: ang báhay na nasúnog = ang nasúnog na báhay.",
       "After a person's name, na is more common: Si Pedro na umáawit."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -654,6 +659,41 @@
    "pos": "verb",
    "group": "verbs",
    "say": "i-su-su-OT"
+  },
+  {
+   "id": "magaganda-m23",
+   "tl": "magagandá",
+   "en": "beautiful (of more than one)",
+   "pos": "adj",
+   "group": "more",
+   "say": "ma-ga-gan-DA",
+   "note": "From: Magagandá ang mga babáeng umáawit = The women who are singing are beautiful."
+  },
+  {
+   "id": "natutulog-m23",
+   "tl": "natútulog",
+   "en": "who is sleeping",
+   "pos": "verb",
+   "group": "more",
+   "say": "na-TU-tu-log",
+   "note": "Lesson 12 prints natutúlog and Lesson 21 natútúlog. From: Ang laláking natútulog ay ginígising ng batà = The man who is sleeping is being awakened by the child."
+  },
+  {
+   "id": "iyong-m23",
+   "tl": "iyóng",
+   "en": "those (iyón + -ng)",
+   "pos": "pron",
+   "group": "more",
+   "say": "i-YONG",
+   "note": "Not the same as iyong (your) from Lesson 17. From: Ang mga tinátawag mo ay iyóng mga umáalis = The ones that you are calling are those who are leaving."
+  },
+  {
+   "id": "nito-m23",
+   "tl": "nito",
+   "en": "this (of this)",
+   "pos": "pron",
+   "group": "more",
+   "note": "Lesson 8 prints nitó (of this person). From: Si Juang sumulat nitong kuwento ay may sakít = Juan, the who wrote this story, is sick."
   }
  ],
  "exercises": [

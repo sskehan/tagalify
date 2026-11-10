@@ -801,6 +801,11 @@
       "Present or future action: kung or kapág (short form pag), similar to English if.",
       "Kung + question word = as to who / what / where / which / when / how / whom; as to may be left out in English."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -953,6 +958,57 @@
    "en": "a Philippine folk dance",
    "pos": "noun",
    "group": "words"
+  },
+  {
+   "id": "hindi-ko-alam-m29",
+   "tl": "Hindî ko alám.",
+   "en": "I do not know.",
+   "pos": "phrase",
+   "group": "more",
+   "say": "hin-diQ ko a-LAM",
+   "note": "Lesson 3 prints Hindí ko alám."
+  },
+  {
+   "id": "ewan-ko-m29",
+   "tl": "Ewan ko",
+   "en": "I do not know",
+   "pos": "phrase",
+   "group": "more",
+   "note": "From: Ewan ko kung síno siyá. = I do not know who he/she is. Lesson 3 prints Èwan ko."
+  },
+  {
+   "id": "alam-m29",
+   "tl": "alám",
+   "en": "know",
+   "pos": "verb",
+   "group": "more",
+   "say": "a-LAM",
+   "note": "From: Alám mo ba kung kailán siyá bábalík? = Do you know when he will return?"
+  },
+  {
+   "id": "pipiliin-m29",
+   "tl": "pipilíin",
+   "en": "to choose",
+   "pos": "verb",
+   "group": "more",
+   "say": "pi-pi-LI-in",
+   "note": "From: Hindî ko alám kung alín ang pipilíin ko. = I do not know which to choose."
+  },
+  {
+   "id": "nakita-m29",
+   "tl": "nakita",
+   "en": "saw",
+   "pos": "verb",
+   "group": "more",
+   "note": "From: Nakita ko siyá nang ako ay nasa Estados Unidos. = I saw him when I was in the United States. Lesson 18 prints nákíta."
+  },
+  {
+   "id": "natutulog-m29",
+   "tl": "natutulog",
+   "en": "is sleeping",
+   "pos": "verb",
+   "group": "more",
+   "note": "From: Naghihilík siya kapág natutulog. = He snores when he is sleeping. Lesson 18 prints natútulog."
   }
  ],
  "exercises": [

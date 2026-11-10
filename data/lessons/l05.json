@@ -587,6 +587,11 @@
       "With plural subjects in the inverted order, start with mga, not ang mga.",
       "At can become 't after a word ending in a vowel."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -623,6 +628,30 @@
    "pos": "part",
    "group": "words",
    "note": "Shortened to 't after a word ending in a vowel: áso't pusà"
+  },
+  {
+   "id": "aso-m05",
+   "tl": "aso",
+   "en": "dog",
+   "pos": "noun",
+   "group": "more",
+   "note": "Lesson 5's vocabulary list prints aso; Lesson 4 prints áso"
+  },
+  {
+   "id": "t-m05",
+   "tl": "'t",
+   "en": "and (at shortened)",
+   "pos": "part",
+   "group": "more",
+   "note": "At may be shortened to 't and attached to a preceding word that ends in a vowel. From: Mga háyop ang áso't pusà. = The dog and cat are animals."
+  },
+  {
+   "id": "sina-helen-m05",
+   "tl": "sina Helen",
+   "en": "Helen and companions",
+   "pos": "phrase",
+   "group": "more",
+   "note": "From: Mga babáe sina Helen. = Helen and companions are women."
   }
  ],
  "exercises": [

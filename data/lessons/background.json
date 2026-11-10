@@ -251,6 +251,11 @@
      "kind": "tip",
      "title": "How long it takes",
      "t": "The textbook plans three months of intensive study, then three more months of speaking practice for at least two hours a day. After about 250 hours, an average learner should speak, write and understand simple, everyday Tagalog."
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -300,6 +305,37 @@
    "pos": "noun",
    "group": "places",
    "note": "Linggo ng Wika = National Language Week"
+  },
+  {
+   "id": "linggo-ng-wika-mbg",
+   "tl": "Linggo ng Wika",
+   "en": "National Language Week",
+   "pos": "phrase",
+   "group": "more",
+   "note": "Proclaimed by President Magsaysay in 1954"
+  },
+  {
+   "id": "baybayin-mbg",
+   "tl": "Baybayin",
+   "en": "the Sanskritic alphabet used in the Philippines in earlier times",
+   "pos": "noun",
+   "group": "more",
+   "note": "Also known as Alibata"
+  },
+  {
+   "id": "pakikipagkapwa-tao-mbg",
+   "tl": "pakikipagkapwa-tao",
+   "en": "a basic sense of justice and concern for others",
+   "pos": "noun",
+   "group": "more"
+  },
+  {
+   "id": "kanya-kanya-mbg",
+   "tl": "kanya-kanya",
+   "en": "selfishness or to each his own",
+   "pos": "expr",
+   "group": "more",
+   "note": "The literal translation is his-his or hers-hers (kanya-kanya syndrome)."
   }
  ],
  "exercises": [

@@ -860,6 +860,11 @@
       "The new noun means the one who, the thing that, the one which, or what is.",
       "The person can be stated (ang batàng kumain) or understood (ang kumain); the short way is used more."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -913,6 +918,116 @@
    "pos": "noun",
    "group": "words",
    "say": "ka-ga-mi-TAN"
+  },
+  {
+   "id": "kumain-m31",
+   "tl": "kumain",
+   "en": "ate",
+   "pos": "verb",
+   "group": "more",
+   "note": "From: Ang kumain ng manggá ay si Jose. = The one who ate the mango is Jose. Lesson 6 prints kumáin."
+  },
+  {
+   "id": "mangga-m31",
+   "tl": "manggá",
+   "en": "mango",
+   "pos": "noun",
+   "group": "more",
+   "say": "mang-GA",
+   "note": "Lesson 7 prints manggà."
+  },
+  {
+   "id": "binabasa-m31",
+   "tl": "binabása",
+   "en": "reading",
+   "pos": "verb",
+   "group": "more",
+   "say": "bi-na-BA-sa",
+   "note": "From: Nákita ko ang binabása niyá. = I saw what she was reading. Lesson 15 prints binábasa."
+  },
+  {
+   "id": "sinulat-m31",
+   "tl": "sinulat",
+   "en": "what was written",
+   "pos": "verb",
+   "group": "more",
+   "note": "From: Binabása mo ba ang sinulat ko? = Are you reading what was written by me? (literal)"
+  },
+  {
+   "id": "parang-m31",
+   "tl": "parang",
+   "en": "like",
+   "pos": "other",
+   "group": "more",
+   "note": "From: Ang natútulog ay parang anghél. = The one sleeping is like an angel."
+  },
+  {
+   "id": "maraming-m31",
+   "tl": "maraming",
+   "en": "many",
+   "pos": "adj",
+   "group": "more",
+   "note": "From: Ang mabaít ay maraming kaibígan. = The one who is good has many friends."
+  },
+  {
+   "id": "walang-m31",
+   "tl": "walang",
+   "en": "do not have",
+   "pos": "other",
+   "group": "more",
+   "note": "From: Ang mga mahihírap ay walang maraming kagamitán. = The poor people do not have many possessions."
+  },
+  {
+   "id": "matatanda-m31",
+   "tl": "matatandâ",
+   "en": "elders",
+   "pos": "noun",
+   "group": "more",
+   "say": "ma-ta-tan-daQ",
+   "note": "From: Dápat náting igálang ang matatandâ. = We should respect the elders."
+  },
+  {
+   "id": "magugutom-m31",
+   "tl": "magugútom",
+   "en": "will go hungry",
+   "pos": "verb",
+   "group": "more",
+   "say": "ma-gu-GU-tom",
+   "note": "From: Hindî magugútom ang masípag. = The hardworking will not go hungry."
+  },
+  {
+   "id": "humihingi-m31",
+   "tl": "humíhingî",
+   "en": "is asking",
+   "pos": "verb",
+   "group": "more",
+   "say": "hu-MI-hi-ngiQ",
+   "note": "From: Humíhingî siyá ng kinakáin ko. = He is asking for what I am eating."
+  },
+  {
+   "id": "kinakain-m31",
+   "tl": "kinakáin",
+   "en": "what (I) am eating",
+   "pos": "verb",
+   "group": "more",
+   "say": "ki-na-KA-in",
+   "note": "From: Humíhingî siyá ng kinakáin ko. = He is asking for what I am eating."
+  },
+  {
+   "id": "kailangan-m31",
+   "tl": "kailangan",
+   "en": "necessary",
+   "pos": "adj",
+   "group": "more",
+   "note": "From: Sa nag-áaral, ang sípag ay kailangan. = To one who is studying, diligence is necessary. Lesson 2 prints kailángan."
+  },
+  {
+   "id": "sa-nag-aaral-m31",
+   "tl": "sa nag-áaral",
+   "en": "one who is studying",
+   "pos": "phrase",
+   "group": "more",
+   "say": "sa nag-A-a-ral"
   }
  ],
  "exercises": [

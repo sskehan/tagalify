@@ -1084,6 +1084,11 @@
      "kind": "tip",
      "title": "Coming next",
      "t": "The next lessons show the **inverted** word order, where the predicate comes before the subject. Tagalogs use the inverted order more often in everyday speech."
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -1367,6 +1372,91 @@
    "pos": "adj",
    "group": "adjs",
    "say": "ma-HI-rap"
+  },
+  {
+   "id": "ang-mga-m04",
+   "tl": "ang mga",
+   "en": "article before the names of two or more things or places",
+   "pos": "marker",
+   "group": "more",
+   "note": "Pronounced ang ma-nga"
+  },
+  {
+   "id": "bata-m04",
+   "tl": "batá",
+   "en": "young (adj.); child (n.)",
+   "pos": "adj",
+   "group": "more",
+   "say": "ba-TA",
+   "note": "Lesson 4's vocabulary list prints batá; Lesson 2 prints batà (child)."
+  },
+  {
+   "id": "batang-babae-m04",
+   "tl": "batáng babáe",
+   "en": "young girl",
+   "pos": "phrase",
+   "group": "more",
+   "note": "From: Si Helen ay batáng babáe. = Helen is a young girl."
+  },
+  {
+   "id": "batang-lalaki-m04",
+   "tl": "batáng laláki",
+   "en": "young boy",
+   "pos": "phrase",
+   "group": "more",
+   "note": "From: Si Tom ay batáng laláki. = Tom is a young boy."
+  },
+  {
+   "id": "malilinis-m04",
+   "tl": "malilínis",
+   "en": "clean (plural)",
+   "pos": "adj",
+   "group": "more",
+   "say": "ma-li-LI-nis",
+   "note": "Plural of malínis. From: Ang mga sapátos ay malilínis. = The shoes are clean."
+  },
+  {
+   "id": "malalamig-m04",
+   "tl": "malalamíg",
+   "en": "cool (plural)",
+   "pos": "adj",
+   "group": "more",
+   "say": "ma-la-la-MIG",
+   "note": "Plural of malamíg. From: Ang Baguio at ang Tagaytáy ay mga malalamíg na lugár. = Baguio and Tagaytay are cool places."
+  },
+  {
+   "id": "estados-unidos-m04",
+   "tl": "Estados Unídos",
+   "en": "the United States",
+   "pos": "noun",
+   "group": "more",
+   "say": "es-ta-dos u-NI-dos",
+   "note": "From: Ang Estados Unídos ay malakí. = The United States is big."
+  },
+  {
+   "id": "isang-m04",
+   "tl": "isang",
+   "en": "a",
+   "pos": "other",
+   "group": "more",
+   "note": "From: Ang Maynilà ay isang lungsod ng Pilipínas. = Manila is a city of the Philippines."
+  },
+  {
+   "id": "ng-m04",
+   "tl": "ng",
+   "en": "of",
+   "pos": "marker",
+   "group": "more",
+   "note": "From: Ang Maynilà ay isang lungsod ng Pilipínas. = Manila is a city of the Philippines."
+  },
+  {
+   "id": "silya-m04",
+   "tl": "sílya",
+   "en": "chair",
+   "pos": "noun",
+   "group": "more",
+   "say": "SIL-ya",
+   "note": "Lesson 1 prints silyá"
   }
  ],
  "exercises": [

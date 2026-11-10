@@ -661,6 +661,11 @@
       "Saán ka púpuntá? is just a friendly hello.",
       "Five ways to say excuse me: Paumanhín, Pakiraán, Mawaláng-gálang, Patáwad, Pasintábi."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -1151,6 +1156,331 @@
    "en": "Congratulations (sir/madam)! (literally: Happy greetings!)",
    "pos": "expr",
    "group": "expr"
+  },
+  {
+   "id": "maganda-ang-araw-m03",
+   "tl": "Magandá ang áraw",
+   "en": "beautiful day",
+   "pos": "phrase",
+   "group": "more",
+   "note": "The complete greeting, often shortened to Magandáng áraw"
+  },
+  {
+   "id": "araw-po-m03",
+   "tl": "Magandáng áraw pô.",
+   "en": "Good day, sir/madam.",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "umaga-po-m03",
+   "tl": "Magandáng umága pô.",
+   "en": "Good morning, sir/madam.",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "tanghali-po-m03",
+   "tl": "Magandáng tanghálì pô.",
+   "en": "Good afternoon, sir/madam.",
+   "pos": "phrase",
+   "group": "more",
+   "note": "Tanghálì is noon or midday"
+  },
+  {
+   "id": "hapon-po-m03",
+   "tl": "Magandáng hápon pô.",
+   "en": "Good afternoon, sir/madam.",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "gabi-po-m03",
+   "tl": "Magandáng gabí pô.",
+   "en": "Good evening, sir/madam.",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "umaga-m03",
+   "tl": "Magandáng umága.",
+   "en": "Good morning.",
+   "pos": "phrase",
+   "group": "more",
+   "note": "Between equals, without pô"
+  },
+  {
+   "id": "hapon-m03",
+   "tl": "Magandáng hápon.",
+   "en": "Good afternoon.",
+   "pos": "phrase",
+   "group": "more",
+   "note": "Between equals, without pô"
+  },
+  {
+   "id": "umaga-po-sa-inyo-m03",
+   "tl": "Magandáng umága pô sa inyó.",
+   "en": "Good morning to you, sir/madam.",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "hapon-po-sa-kanila-m03",
+   "tl": "Magandáng hápon pô sa kanilá.",
+   "en": "Good afternoon to you, sir/madam.",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "umaga-sa-iyo-m03",
+   "tl": "Magandáng umága sa iyó.",
+   "en": "Good morning to you.",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "umaga-rin-sa-iyo-m03",
+   "tl": "Magandáng umága rin sa iyó.",
+   "en": "Good morning to you, too.",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "umaga-naman-m03",
+   "tl": "Magandáng umága namán.",
+   "en": "Good morning, too.",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "tanghali-rin-po-m03",
+   "tl": "Magandáng tanghálì rin pô.",
+   "en": "Good afternoon, too, sir/madam.",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "kumusta-ka-m03",
+   "tl": "Kumustá ka?",
+   "en": "How are you?",
+   "pos": "phrase",
+   "group": "more",
+   "note": "To a friend, relative or someone about your age; older people also use it with younger people"
+  },
+  {
+   "id": "ikaw-m03",
+   "tl": "ikáw",
+   "en": "you (singular)",
+   "pos": "pron",
+   "group": "more",
+   "say": "i-KAW"
+  },
+  {
+   "id": "ka-m03",
+   "tl": "ka",
+   "en": "you (singular; ikáw becomes ka in an inverted word order)",
+   "pos": "pron",
+   "group": "more"
+  },
+  {
+   "id": "kayo-m03",
+   "tl": "kayó",
+   "en": "you (plural)",
+   "pos": "pron",
+   "group": "more",
+   "say": "ka-YO",
+   "note": "Used instead of ka when greeting an elder or superior"
+  },
+  {
+   "id": "kumusta-po-kayo-m03",
+   "tl": "Kumustá pô kayó?",
+   "en": "How are you, sir/madam?",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "kumusta-sila-m03",
+   "tl": "Kumustá silá?",
+   "en": "How are you, sir/madam?",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "mabuti-naman-po-m03",
+   "tl": "Mabúti namán (pô). Salámat (pô).",
+   "en": "Fine, too, sir/madam.",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "mabuti-rin-po-m03",
+   "tl": "Mabúti rin (pô). Salámat.",
+   "en": "Thank you, sir/madam.",
+   "pos": "phrase",
+   "group": "more",
+   "note": "Translation as printed in the book"
+  },
+  {
+   "id": "saan-kayo-pupunta-m03",
+   "tl": "Saán kayó púpuntá?",
+   "en": "Where are you going, sir/madam?",
+   "pos": "phrase",
+   "group": "more",
+   "note": "Formal. A friendly greeting"
+  },
+  {
+   "id": "saan-kayo-nanggaling-m03",
+   "tl": "Saán kayó nanggáling?",
+   "en": "Where have you been, sir/madam?",
+   "pos": "phrase",
+   "group": "more",
+   "note": "Formal. A friendly greeting"
+  },
+  {
+   "id": "sa-quezon-city-m03",
+   "tl": "Sa Quezon City (pô).",
+   "en": "I'm going to Quezon City (sir/madam) or I've been to Quezon City (sir/madam).",
+   "pos": "phrase",
+   "group": "more",
+   "note": "An answer to Saán ka púpuntá? or Saán ka nanggáling?"
+  },
+  {
+   "id": "lamang-m03",
+   "tl": "lámang",
+   "en": "just",
+   "pos": "adv",
+   "group": "more",
+   "say": "LA-mang",
+   "note": "From: Diyán lámang = Just nearby; Kauntî lámang = Just a little. Shortened: Lang"
+  },
+  {
+   "id": "paumanhin-aalis-m03",
+   "tl": "Paumanhin (pô), aalis na ako.",
+   "en": "Excuse me (sir/madam), I will leave now.",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "paumanhin-lalabas-m03",
+   "tl": "Paumanhin (pô), lálabas lamang ako sandalî.",
+   "en": "Excuse me (sir/madam), I will go out for a while.",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "mawalang-galang-ayala-m03",
+   "tl": "Mawaláng-gálang pô, paano pumuntá sa Ayala Avenue?",
+   "en": "Excuse me, how do I get to Ayala Avenue?",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "patawarin-m03",
+   "tl": "Patawárin ninyó akó.",
+   "en": "Forgive me.",
+   "pos": "expr",
+   "group": "more"
+  },
+  {
+   "id": "ewan-ko-m03",
+   "tl": "Èwan ko.",
+   "en": "I don't know.",
+   "pos": "expr",
+   "group": "more",
+   "note": "Shortened form of Aywan ko."
+  },
+  {
+   "id": "di-ko-alam-m03",
+   "tl": "Di ko alám.",
+   "en": "I don't know.",
+   "pos": "expr",
+   "group": "more",
+   "note": "Shortened form of Hindí ko alám."
+  },
+  {
+   "id": "ayoko-m03",
+   "tl": "Ayòko.",
+   "en": "I don't like.",
+   "pos": "expr",
+   "group": "more",
+   "note": "Shortened form of Ayaw akó."
+  },
+  {
+   "id": "lang-m03",
+   "tl": "Lang",
+   "en": "just",
+   "pos": "adv",
+   "group": "more",
+   "note": "Shortened form of lámang, as in Kauntî lámang (Just a little) and Sandalî lámang (Just a moment)"
+  },
+  {
+   "id": "teka-m03",
+   "tl": "Teka!",
+   "en": "Wait for a moment.",
+   "pos": "expr",
+   "group": "more",
+   "note": "Shortened form of Hintáy ka!"
+  },
+  {
+   "id": "dali-ka-m03",
+   "tl": "Dali ka!",
+   "en": "Hurry up! (literally: Be quick, you!)",
+   "pos": "expr",
+   "group": "more",
+   "note": "Shortened form of Magmadali ká."
+  },
+  {
+   "id": "tena-m03",
+   "tl": "Tena.",
+   "en": "Let's go.",
+   "pos": "expr",
+   "group": "more",
+   "note": "Shortened form of Táyo na."
+  },
+  {
+   "id": "totoo-m03",
+   "tl": "Totoò?",
+   "en": "Is it true?",
+   "pos": "expr",
+   "group": "more",
+   "note": "Shortened form of Totoó ba?"
+  },
+  {
+   "id": "siguro-ka-m03",
+   "tl": "Siguro ka?",
+   "en": "Are you sure?",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "oo-siguro-ako-m03",
+   "tl": "Oô, sigúro ako.",
+   "en": "Yes, I am sure (or Yes, definitely).",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "hindi-ako-siguro-m03",
+   "tl": "Hindî ako sigúro.",
+   "en": "I am not sure.",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "oo-m03",
+   "tl": "oô",
+   "en": "yes",
+   "pos": "part",
+   "group": "more",
+   "say": "o-oQ",
+   "note": "From: Oô, sigúro ako. = Yes, I am sure. Lesson 3 also prints oo."
+  },
+  {
+   "id": "mabuhay-kasal-m03",
+   "tl": "Mabuhay ang bagong kasal!",
+   "en": "May the newlyweds live long!",
+   "pos": "expr",
+   "group": "more"
   }
  ],
  "exercises": [

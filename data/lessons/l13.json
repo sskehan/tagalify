@@ -1516,6 +1516,11 @@
      "type": "vocab",
      "group": "money",
      "title": "Money and other words"
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -1886,6 +1891,871 @@
    "pos": "noun",
    "group": "money",
    "say": "ka-pa-TID"
+  },
+  {
+   "id": "labing-isa-m13",
+   "tl": "labíng-isá",
+   "en": "eleven",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "labintatlo-m13",
+   "tl": "labíntatló",
+   "en": "thirteen",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "labing-apat-m13",
+   "tl": "labíng-ápat",
+   "en": "fourteen",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "labinlima-m13",
+   "tl": "labínlimá",
+   "en": "fifteen",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "labing-anim-m13",
+   "tl": "labíng-ánim",
+   "en": "sixteen",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "labimpito-m13",
+   "tl": "labímpitó",
+   "en": "seventeen",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "labingwalo-m13",
+   "tl": "labíngwaló",
+   "en": "eighteen",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "labinsiyam-m13",
+   "tl": "labínsiyám",
+   "en": "nineteen",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "dalawampu-m13",
+   "tl": "dalawampú",
+   "en": "twenty",
+   "pos": "num",
+   "group": "more",
+   "say": "da-la-wam-PU"
+  },
+  {
+   "id": "dalawampu-t-isa-m13",
+   "tl": "dalawampú't isá",
+   "en": "twenty-one",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "dalawampu-t-lima-m13",
+   "tl": "dalawampú't limá",
+   "en": "twenty-five",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "tatlumpu-m13",
+   "tl": "tatlumpú",
+   "en": "thirty",
+   "pos": "num",
+   "group": "more",
+   "say": "tat-lum-PU"
+  },
+  {
+   "id": "tatlumpu-t-anim-m13",
+   "tl": "tatlumpú't ánim",
+   "en": "thirty-six",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "apatnapu-m13",
+   "tl": "apatnapú",
+   "en": "forty",
+   "pos": "num",
+   "group": "more",
+   "say": "a-pat-na-PU"
+  },
+  {
+   "id": "apatnapu-t-pito-m13",
+   "tl": "apatnapú't pitó",
+   "en": "forty-seven",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "limampu-t-lima-m13",
+   "tl": "limampú't limá",
+   "en": "fifty-five",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "animnapu-m13",
+   "tl": "animnapú",
+   "en": "sixty",
+   "pos": "num",
+   "group": "more",
+   "say": "a-nim-na-PU"
+  },
+  {
+   "id": "pitumpu-m13",
+   "tl": "pitumpú",
+   "en": "seventy",
+   "pos": "num",
+   "group": "more",
+   "say": "pi-tum-PU"
+  },
+  {
+   "id": "walumpu-m13",
+   "tl": "walumpú",
+   "en": "eighty",
+   "pos": "num",
+   "group": "more",
+   "say": "wa-lum-PU"
+  },
+  {
+   "id": "siyamnapu-m13",
+   "tl": "siyamnapú",
+   "en": "ninety",
+   "pos": "num",
+   "group": "more",
+   "say": "si-yam-na-PU"
+  },
+  {
+   "id": "siyamnapu-acc-m13",
+   "tl": "siyámnapú",
+   "en": "ninety",
+   "pos": "num",
+   "group": "more",
+   "say": "si-YAM-na-PU",
+   "note": "The number table prints siyamnapú"
+  },
+  {
+   "id": "sandaa-t-sampu-m13",
+   "tl": "sandaá't sampú",
+   "en": "one hundred ten",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "dalawang-daan-m13",
+   "tl": "dalawáng daán",
+   "en": "two hundred",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "tatlong-daan-m13",
+   "tl": "tatlóng daán",
+   "en": "three hundred",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "apat-na-raan-m13",
+   "tl": "ápat na raán",
+   "en": "four hundred",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "limang-daan-m13",
+   "tl": "limáng daán",
+   "en": "five hundred",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "siyam-na-raan-m13",
+   "tl": "siyám na raán",
+   "en": "nine hundred",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "tatlong-libo-sandaat-siyam-m13",
+   "tl": "tatlóng líbo sandaá't siyám",
+   "en": "three thousand one hundred nine",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "raan-m13",
+   "tl": "raán",
+   "en": "hundred (used after na)",
+   "pos": "num",
+   "group": "more",
+   "say": "ra-AN",
+   "note": "daán is used after -ng"
+  },
+  {
+   "id": "puo-m13",
+   "tl": "puó",
+   "en": "ten",
+   "pos": "num",
+   "group": "more",
+   "say": "pu-O",
+   "note": "Written as the suffix -pû in the tens. The table of bigger numbers prints pûo"
+  },
+  {
+   "id": "isang-puo-m13",
+   "tl": "isáng puó",
+   "en": "ten",
+   "pos": "num",
+   "group": "more",
+   "note": "isang puó becomes sampú"
+  },
+  {
+   "id": "labing-prefix-m13",
+   "tl": "labíng-",
+   "en": "excess of ten (prefix for eleven to nineteen)",
+   "pos": "other",
+   "group": "more",
+   "note": "Becomes labín- before dalawá, tatló, limá, siyám and labím- before pitó"
+  },
+  {
+   "id": "labis-ng-m13",
+   "tl": "labis ng",
+   "en": "excess of",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "sp-onse-m13",
+   "tl": "onse",
+   "en": "eleven (Spanish)",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "sp-dose-m13",
+   "tl": "dose",
+   "en": "twelve (Spanish)",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "sp-trese-m13",
+   "tl": "trese",
+   "en": "thirteen (Spanish)",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "sp-katorse-m13",
+   "tl": "katorse",
+   "en": "fourteen (Spanish)",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "sp-kinse-m13",
+   "tl": "kinse",
+   "en": "fifteen (Spanish)",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "sp-disiseis-m13",
+   "tl": "disiseis",
+   "en": "sixteen (Spanish)",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "sp-disisiyete-m13",
+   "tl": "disisiyete",
+   "en": "seventeen (Spanish)",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "sp-disiotso-m13",
+   "tl": "disiotso",
+   "en": "eighteen (Spanish)",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "sp-disinuwebe-m13",
+   "tl": "disinuwebe",
+   "en": "nineteen (Spanish)",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "sp-beynte-m13",
+   "tl": "beynte",
+   "en": "twenty (Spanish)",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "sp-beynte-uno-m13",
+   "tl": "beynte uno",
+   "en": "twenty-one (Spanish)",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "sp-beynte-sinko-m13",
+   "tl": "beynte sinko",
+   "en": "twenty-five (Spanish)",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "sp-treynta-m13",
+   "tl": "treynta",
+   "en": "thirty (Spanish)",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "sp-treyntay-seis-m13",
+   "tl": "treynta'y seis",
+   "en": "thirty-six (Spanish)",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "sp-kuwarenta-m13",
+   "tl": "kuwarenta",
+   "en": "forty (Spanish)",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "sp-kuwarentay-siyete-m13",
+   "tl": "kuwarenta'y siyete",
+   "en": "forty-seven (Spanish)",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "sp-sinkuwenta-m13",
+   "tl": "sinkuwenta",
+   "en": "fifty (Spanish)",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "sp-sinkuwentay-sinko-m13",
+   "tl": "sinkuwenta'y sinko",
+   "en": "fifty-five (Spanish)",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "sp-sesenta-m13",
+   "tl": "sesenta",
+   "en": "sixty (Spanish)",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "sp-setenta-m13",
+   "tl": "setenta",
+   "en": "seventy (Spanish)",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "sp-otsenta-m13",
+   "tl": "otsenta",
+   "en": "eighty (Spanish)",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "sp-nobenta-m13",
+   "tl": "nobenta",
+   "en": "ninety (Spanish)",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "sp-siyento-m13",
+   "tl": "siyento",
+   "en": "one hundred (Spanish)",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "sp-siyento-diyes-m13",
+   "tl": "siyento diyes",
+   "en": "one hundred ten (Spanish)",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "sp-dos-siyentos-m13",
+   "tl": "dos siyentos",
+   "en": "two hundred (Spanish)",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "sp-tres-siyentos-m13",
+   "tl": "tres siyentos",
+   "en": "three hundred (Spanish)",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "sp-kwatro-siyentos-m13",
+   "tl": "kwatro siyentos",
+   "en": "four hundred (Spanish)",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "sp-kinyentos-m13",
+   "tl": "kinyentos",
+   "en": "five hundred (Spanish)",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "sp-mil-m13",
+   "tl": "mil",
+   "en": "one thousand (Spanish)",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "ika-prefix-m13",
+   "tl": "ika-",
+   "en": "prefix added to a cardinal number to make an ordinal",
+   "pos": "other",
+   "group": "more"
+  },
+  {
+   "id": "ikaapat-m13",
+   "tl": "ikaápat",
+   "en": "fourth",
+   "pos": "num",
+   "group": "more",
+   "say": "i-ka-A-pat"
+  },
+  {
+   "id": "ikaanim-m13",
+   "tl": "ikaánim",
+   "en": "sixth",
+   "pos": "num",
+   "group": "more",
+   "say": "i-ka-A-nim",
+   "note": "Also ikanim"
+  },
+  {
+   "id": "ikanim-m13",
+   "tl": "ikanim",
+   "en": "sixth",
+   "pos": "num",
+   "group": "more",
+   "note": "Also ikaánim"
+  },
+  {
+   "id": "ikapito-m13",
+   "tl": "ikapitó",
+   "en": "seventh",
+   "pos": "num",
+   "group": "more",
+   "say": "i-ka-pi-TO"
+  },
+  {
+   "id": "ikawalo-m13",
+   "tl": "ikawaló",
+   "en": "eighth",
+   "pos": "num",
+   "group": "more",
+   "say": "i-ka-wa-LO"
+  },
+  {
+   "id": "ikasiyam-m13",
+   "tl": "ikasiyám",
+   "en": "ninth",
+   "pos": "num",
+   "group": "more",
+   "say": "i-ka-si-YAM"
+  },
+  {
+   "id": "ikalabing-isa-m13",
+   "tl": "ikalabing-isá",
+   "en": "eleventh",
+   "pos": "num",
+   "group": "more"
+  },
+  {
+   "id": "ikadalawampu-m13",
+   "tl": "ikadalawampú",
+   "en": "twentieth",
+   "pos": "num",
+   "group": "more",
+   "say": "i-ka-da-la-wam-PU"
+  },
+  {
+   "id": "ikasandaan-m13",
+   "tl": "ikasandaán",
+   "en": "one hundredth",
+   "pos": "num",
+   "group": "more",
+   "say": "i-ka-san-da-AN"
+  },
+  {
+   "id": "ikailan-m13",
+   "tl": "ikailán",
+   "en": "which (in order)",
+   "pos": "other",
+   "group": "more",
+   "say": "i-ka-i-LAN",
+   "note": "From: Ikailán kang anák? = Which child are you?"
+  },
+  {
+   "id": "ilang-taon-ka-na-m13",
+   "tl": "Iláng taón ka na?",
+   "en": "How old are you?",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "mga-number-m13",
+   "tl": "mga sampû",
+   "en": "about ten",
+   "pos": "phrase",
+   "group": "more",
+   "note": "mga before a number gives an approximate number"
+  },
+  {
+   "id": "umawit-m13",
+   "tl": "umáwit",
+   "en": "sang",
+   "pos": "verb",
+   "group": "more",
+   "say": "u-MA-wit",
+   "note": "From: Sampúng tao ang umáwit sa palátuntúnan. = Ten people sang in the program."
+  },
+  {
+   "id": "palatuntunan-m13",
+   "tl": "palátuntúnan",
+   "en": "program",
+   "pos": "noun",
+   "group": "more",
+   "say": "PA-la-tun-TU-nan",
+   "note": "From: Sampúng tao ang umáwit sa palátuntúnan. = Ten people sang in the program."
+  },
+  {
+   "id": "dito-m13",
+   "tl": "dito",
+   "en": "here",
+   "pos": "adv",
+   "group": "more",
+   "note": "From: May mga isáng daáng batà ang nag-áaral dito. = About a hundred children are studying here."
+  },
+  {
+   "id": "nasa-m13",
+   "tl": "nasa",
+   "en": "in",
+   "pos": "other",
+   "group": "more",
+   "note": "From: Siyá ay nasa ikaánim na grado. = He/She is in the sixth grade."
+  },
+  {
+   "id": "grado-m13",
+   "tl": "grado",
+   "en": "grade",
+   "pos": "noun",
+   "group": "more",
+   "note": "From: Siyá ay nasa ikaánim na grado. = He/She is in the sixth grade."
+  },
+  {
+   "id": "ka-prefix-m13",
+   "tl": "ka-",
+   "en": "prefix for fractions (shortened form of ika-)",
+   "pos": "other",
+   "group": "more"
+  },
+  {
+   "id": "kalahati-acc-m13",
+   "tl": "kalahatí",
+   "en": "half",
+   "pos": "noun",
+   "group": "more",
+   "say": "ka-la-ha-TI",
+   "note": "The fractions section prints kalahatì"
+  },
+  {
+   "id": "kalahating-bahagi-m13",
+   "tl": "kalahatíng bahagi",
+   "en": "one half",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "katlo-m13",
+   "tl": "katló",
+   "en": "one third",
+   "pos": "num",
+   "group": "more",
+   "say": "kat-LO"
+  },
+  {
+   "id": "ikatlong-bahagi-m13",
+   "tl": "ikatlóng bahagi",
+   "en": "one third",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "kapat-m13",
+   "tl": "kápat",
+   "en": "one fourth",
+   "pos": "num",
+   "group": "more",
+   "say": "KA-pat"
+  },
+  {
+   "id": "ikapat-na-bahagi-m13",
+   "tl": "ikápat na bahagi",
+   "en": "one fourth",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "kalima-m13",
+   "tl": "kalimá",
+   "en": "one fifth",
+   "pos": "num",
+   "group": "more",
+   "say": "ka-li-MA"
+  },
+  {
+   "id": "ikalimang-bahagi-m13",
+   "tl": "ikalimáng bahagi",
+   "en": "one fifth",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "kanim-m13",
+   "tl": "kánim",
+   "en": "one sixth",
+   "pos": "num",
+   "group": "more",
+   "say": "KA-nim"
+  },
+  {
+   "id": "ika-anim-na-bahagi-m13",
+   "tl": "ika-ánim na bahagi",
+   "en": "one sixth",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "kapito-m13",
+   "tl": "kapíto",
+   "en": "one seventh",
+   "pos": "num",
+   "group": "more",
+   "say": "ka-PI-to"
+  },
+  {
+   "id": "ikapitong-bahagi-m13",
+   "tl": "ikapitóng bahagi",
+   "en": "one seventh",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "kawalo-m13",
+   "tl": "kawaló",
+   "en": "one eighth",
+   "pos": "num",
+   "group": "more",
+   "say": "ka-wa-LO"
+  },
+  {
+   "id": "ikawalong-bahagi-m13",
+   "tl": "ikawalóng bahagi",
+   "en": "one eighth",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "kasiyam-m13",
+   "tl": "kasiyám",
+   "en": "one ninth",
+   "pos": "num",
+   "group": "more",
+   "say": "ka-si-YAM"
+  },
+  {
+   "id": "ikasiyam-na-bahagi-m13",
+   "tl": "ikasiyám na bahagi",
+   "en": "one ninth",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "kapulo-m13",
+   "tl": "kapulô",
+   "en": "one tenth",
+   "pos": "num",
+   "group": "more",
+   "say": "ka-pu-loQ"
+  },
+  {
+   "id": "ikasampung-bahagi-m13",
+   "tl": "ikasampûng bahagi",
+   "en": "one tenth",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "ikapu-acc-m13",
+   "tl": "ikapû",
+   "en": "one tenth",
+   "pos": "num",
+   "group": "more",
+   "say": "i-ka-puQ",
+   "note": "The vocabulary list prints ikapú = tenth"
+  },
+  {
+   "id": "dalawang-katlo-m13",
+   "tl": "dalawang-katlo",
+   "en": "two-thirds",
+   "pos": "num",
+   "group": "more",
+   "note": "Printed dalawáng-katló in the sample sentence"
+  },
+  {
+   "id": "katlong-kapat-m13",
+   "tl": "katlong-kapat",
+   "en": "three-fourths",
+   "pos": "num",
+   "group": "more",
+   "note": "The sample sentence uses tatlóng-kápat"
+  },
+  {
+   "id": "tatlong-kapat-m13",
+   "tl": "tatlóng-kápat",
+   "en": "three-fourths",
+   "pos": "num",
+   "group": "more",
+   "note": "From: Maglagáy ng tatlóng-kápat ng kutsarítang asín sa pagkáin. = Put three-fourths teaspoon of salt in the food."
+  },
+  {
+   "id": "dalawang-kapat-m13",
+   "tl": "dalawáng-kápat",
+   "en": "two-fourths",
+   "pos": "num",
+   "group": "more",
+   "note": "From: Ang ápat na kawaló ay parého ng dalawáng-kápat. = Four-eighths is equivalent to two-fourths."
+  },
+  {
+   "id": "apat-na-kawalo-m13",
+   "tl": "ápat na kawaló",
+   "en": "four-eighths",
+   "pos": "num",
+   "group": "more",
+   "note": "From: Ang ápat na kawaló ay parého ng dalawáng-kápat. = Four-eighths is equivalent to two-fourths."
+  },
+  {
+   "id": "mansanas-m13",
+   "tl": "mansánas",
+   "en": "apple",
+   "pos": "noun",
+   "group": "more",
+   "say": "man-SA-nas",
+   "note": "From: Itó ay kalahatì ng mansánas. = This is half of an apple."
+  },
+  {
+   "id": "salapi-m13",
+   "tl": "salapî",
+   "en": "money",
+   "pos": "noun",
+   "group": "more",
+   "say": "sa-la-piQ",
+   "note": "From: Ang dalawáng-katló ng aking salapî ay para sa iyó. = Two-thirds of my money is for you."
+  },
+  {
+   "id": "maglagay-m13",
+   "tl": "maglagáy",
+   "en": "put",
+   "pos": "verb",
+   "group": "more",
+   "say": "mag-la-GAY",
+   "note": "From: Maglagáy ng tatlóng-kápat ng kutsarítang asín sa pagkáin. = Put three-fourths teaspoon of salt in the food."
+  },
+  {
+   "id": "kutsaritang-m13",
+   "tl": "kutsarítang",
+   "en": "teaspoon (with the ligature -ng)",
+   "pos": "noun",
+   "group": "more",
+   "say": "kut-sa-RI-tang",
+   "note": "From: Maglagáy ng tatlóng-kápat ng kutsarítang asín sa pagkáin. = Put three-fourths teaspoon of salt in the food."
+  },
+  {
+   "id": "asin-m13",
+   "tl": "asín",
+   "en": "salt",
+   "pos": "noun",
+   "group": "more",
+   "say": "a-SIN",
+   "note": "From: Maglagáy ng tatlóng-kápat ng kutsarítang asín sa pagkáin. = Put three-fourths teaspoon of salt in the food."
+  },
+  {
+   "id": "isang-piso-m13",
+   "tl": "isang piso",
+   "en": "one peso",
+   "pos": "phrase",
+   "group": "more",
+   "note": "Or simply piso"
+  },
+  {
+   "id": "nagkakahalaga-m13",
+   "tl": "nagkákahalagá",
+   "en": "costs",
+   "pos": "verb",
+   "group": "more",
+   "say": "nag-KA-ka-ha-la-GA",
+   "note": "From: Ang áking sapátos ay nagkákahalagá ng pitóng daán at limampúng piso. = My pair of shoes costs seven hundred and fifty pesos."
+  },
+  {
+   "id": "kanyang-m13",
+   "tl": "kanyáng",
+   "en": "her (with the ligature -ng)",
+   "pos": "pron",
+   "group": "more",
+   "say": "kan-YANG",
+   "note": "From: Ang halagá ng kanyáng damít … = The cost of her dress …"
+  },
+  {
+   "id": "silya-m13",
+   "tl": "silya",
+   "en": "chair",
+   "pos": "noun",
+   "group": "more",
+   "note": "From: Dalawáng libong piso ang halagá ng silya. = The chair costs two thousand pesos. Lesson 1 prints silyá"
   }
  ],
  "exercises": [

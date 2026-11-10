@@ -1195,6 +1195,11 @@
       "Short forms: n.u. (a.m.), n.t. (noon), n.h. (p.m.), n.g. (evening).",
       "Past: kanína, kahápon, kagabí, noóng… Future: mámayâ, bukas, samakalawá, sa… Never sa bukas."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -1488,6 +1493,334 @@
    "pos": "noun",
    "group": "words",
    "say": "BAN-da"
+  },
+  {
+   "id": "anong-oras-na-m28",
+   "tl": "Anóng oras na?",
+   "en": "What time is it?",
+   "pos": "expr",
+   "group": "more"
+  },
+  {
+   "id": "umaga-m28",
+   "tl": "umaga",
+   "en": "morning",
+   "pos": "noun",
+   "group": "more",
+   "note": "Lesson 3 prints umága; this lesson's lists print umaga."
+  },
+  {
+   "id": "tanghali-m28",
+   "tl": "tangháli",
+   "en": "noon (basically 11 a.m. to 1 p.m.)",
+   "pos": "noun",
+   "group": "more",
+   "say": "tang-HA-li",
+   "note": "Lesson 3 prints tanghálì; the time table prints tánghali; n.t. = ng tangháli, noon."
+  },
+  {
+   "id": "unang-oras-umaga-m28",
+   "tl": "unang oras ng umaga",
+   "en": "1:00 a.m.",
+   "pos": "phrase",
+   "group": "more",
+   "note": "Spanish: a la una ng umaga. 1:00 p.m. is printed únang oras ng hápon."
+  },
+  {
+   "id": "ikalawa-umaga-m28",
+   "tl": "ikalawá ng umaga",
+   "en": "2:00 a.m.",
+   "pos": "phrase",
+   "group": "more",
+   "note": "Spanish: a las dos ng umaga. 2:00 p.m. = ikalawá ng hápon."
+  },
+  {
+   "id": "ikatlo-umaga-m28",
+   "tl": "ikatló ng umaga",
+   "en": "3:00 a.m.",
+   "pos": "phrase",
+   "group": "more",
+   "note": "Spanish: a las tres ng umaga."
+  },
+  {
+   "id": "ika-apat-umaga-m28",
+   "tl": "ika-ápat ng umaga",
+   "en": "4:00 a.m.",
+   "pos": "phrase",
+   "group": "more",
+   "note": "Spanish: a las kuwatro ng umaga. 4:00 p.m. = ika-ápat ng hápon."
+  },
+  {
+   "id": "ikalima-umaga-m28",
+   "tl": "ikalimá ng umaga",
+   "en": "5:00 a.m.",
+   "pos": "phrase",
+   "group": "more",
+   "note": "Spanish: a las sinko ng umaga."
+  },
+  {
+   "id": "ikaanim-umaga-m28",
+   "tl": "ikaánim ng umaga",
+   "en": "6:00 a.m.",
+   "pos": "phrase",
+   "group": "more",
+   "note": "Spanish: a las seis ng umaga."
+  },
+  {
+   "id": "ikapito-umaga-m28",
+   "tl": "ikapitó ng umaga",
+   "en": "7:00 a.m.",
+   "pos": "phrase",
+   "group": "more",
+   "note": "Spanish: a las siyete ng umaga. 7:00 p.m. = ikapitó ng gabí."
+  },
+  {
+   "id": "ikawalo-umaga-m28",
+   "tl": "ikawaló ng umaga",
+   "en": "8:00 a.m.",
+   "pos": "phrase",
+   "group": "more",
+   "note": "Spanish: a las otso ng umaga. 8:00 p.m. = ikawaló ng gabí."
+  },
+  {
+   "id": "ikasiyam-umaga-m28",
+   "tl": "ikasiyám ng umaga",
+   "en": "9:00 a.m.",
+   "pos": "phrase",
+   "group": "more",
+   "note": "Spanish: a las nuwebe ng umaga."
+  },
+  {
+   "id": "ikasampu-umaga-m28",
+   "tl": "ikasampû ng umaga",
+   "en": "10:00 a.m.",
+   "pos": "phrase",
+   "group": "more",
+   "note": "Spanish: a las diyes ng umaga. 10:00 p.m. = ikasampû ng gabí."
+  },
+  {
+   "id": "ikalabing-isa-umaga-m28",
+   "tl": "ikalabing-isá ng umaga",
+   "en": "11:00 a.m.",
+   "pos": "phrase",
+   "group": "more",
+   "note": "Spanish: a las onse ng umaga. 11:00 p.m. is printed ikalabíng-isá ng gabí."
+  },
+  {
+   "id": "ikalabindalawa-tanghali-m28",
+   "tl": "ikalabindalawá ng tánghali",
+   "en": "12:00 noon",
+   "pos": "phrase",
+   "group": "more",
+   "note": "Spanish: a las dose ng tánghali."
+  },
+  {
+   "id": "ikalabindalawa-hatinggabi-m28",
+   "tl": "ikalabíndalawá ng hátinggabí",
+   "en": "12:00 midnight",
+   "pos": "phrase",
+   "group": "more",
+   "note": "Spanish: a las dose ng hátinggabí."
+  },
+  {
+   "id": "ikatlo-kalahati-m28",
+   "tl": "ikatló at kalahatí ng hápon",
+   "en": "3:30 p.m.",
+   "pos": "phrase",
+   "group": "more",
+   "note": "Spanish: a las tres y medya ng hápon."
+  },
+  {
+   "id": "ikalima-labinlimang-m28",
+   "tl": "ikalimá at labinlimang minuto ng hápon",
+   "en": "5:15 p.m.",
+   "pos": "phrase",
+   "group": "more",
+   "note": "Spanish: a las sinko y kuwarto ng hápon."
+  },
+  {
+   "id": "ikaanim-apatnapung-m28",
+   "tl": "ikaánim at apatnápung minuto ng gabí",
+   "en": "6:40 p.m.",
+   "pos": "phrase",
+   "group": "more",
+   "note": "Spanish: a las seis kuwarenta ng gabí."
+  },
+  {
+   "id": "ikasiyam-sampung-m28",
+   "tl": "ikasiyám at sampúng minuto ng gabí",
+   "en": "9:10 p.m.",
+   "pos": "phrase",
+   "group": "more",
+   "note": "Spanish: a las nuwebe diyes ng gabí."
+  },
+  {
+   "id": "a-la-una-m28",
+   "tl": "a la una",
+   "en": "one o'clock (Spanish)",
+   "pos": "phrase",
+   "group": "more",
+   "note": "a la una ng umaga = 1:00 a.m.; a la una ng hápon = 1:00 p.m."
+  },
+  {
+   "id": "a-las-dos-m28",
+   "tl": "a las dos",
+   "en": "two o'clock (Spanish)",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "a-las-tres-m28",
+   "tl": "a las tres",
+   "en": "three o'clock (Spanish)",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "a-las-kuwatro-m28",
+   "tl": "a las kuwatro",
+   "en": "four o'clock (Spanish)",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "a-las-sinko-m28",
+   "tl": "a las sinko",
+   "en": "five o'clock (Spanish)",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "a-las-seis-m28",
+   "tl": "a las seis",
+   "en": "six o'clock (Spanish)",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "a-las-siyete-m28",
+   "tl": "a las siyete",
+   "en": "seven o'clock (Spanish)",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "a-las-otso-m28",
+   "tl": "a las otso",
+   "en": "eight o'clock (Spanish)",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "a-las-nuwebe-m28",
+   "tl": "a las nuwebe",
+   "en": "nine o'clock (Spanish)",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "a-las-diyes-m28",
+   "tl": "a las diyes",
+   "en": "ten o'clock (Spanish)",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "a-las-onse-m28",
+   "tl": "a las onse",
+   "en": "eleven o'clock (Spanish)",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "a-las-dose-m28",
+   "tl": "a las dose",
+   "en": "twelve o'clock (Spanish)",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "y-medya-m28",
+   "tl": "y medya",
+   "en": "and a half (Spanish, :30)",
+   "pos": "phrase",
+   "group": "more",
+   "note": "From: a las tres y medya ng hápon = 3:30 p.m."
+  },
+  {
+   "id": "y-kuwarto-m28",
+   "tl": "y kuwarto",
+   "en": "and a quarter (Spanish, :15)",
+   "pos": "phrase",
+   "group": "more",
+   "note": "From: a las sinko y kuwarto ng hápon = 5:15 p.m."
+  },
+  {
+   "id": "nu-m28",
+   "tl": "n.u.",
+   "en": "ng umaga, a.m.",
+   "pos": "other",
+   "group": "more",
+   "note": "Shortened form of time, most common in writing."
+  },
+  {
+   "id": "nh-m28",
+   "tl": "n.h.",
+   "en": "ng hápon, p.m.",
+   "pos": "other",
+   "group": "more",
+   "note": "Shortened form of time, most common in writing."
+  },
+  {
+   "id": "nt-m28",
+   "tl": "n.t.",
+   "en": "ng tangháli, noon",
+   "pos": "other",
+   "group": "more",
+   "note": "Shortened form of time, most common in writing."
+  },
+  {
+   "id": "ng-m28",
+   "tl": "n.g.",
+   "en": "ng gabí, evening",
+   "pos": "other",
+   "group": "more",
+   "note": "Shortened form of time, most common in writing."
+  },
+  {
+   "id": "noong-isang-buwan-m28",
+   "tl": "noóng isáng buwán",
+   "en": "last month",
+   "pos": "phrase",
+   "group": "more",
+   "say": "no-ONG i-SANG bu-WAN",
+   "note": "Lesson 14 prints noong isáng buwan."
+  },
+  {
+   "id": "sa-susunod-na-buwan-m28",
+   "tl": "sa susunód na buwán",
+   "en": "next month",
+   "pos": "phrase",
+   "group": "more",
+   "say": "sa su-su-NOD na bu-WAN"
+  },
+  {
+   "id": "pupunta-m28",
+   "tl": "púpuntá",
+   "en": "will go; shall go",
+   "pos": "verb",
+   "group": "more",
+   "say": "PU-pun-TA",
+   "note": "Lesson 21 prints pupuntá; this lesson also prints Púpunta. From: Sa isáng linggó, kamí ay púpuntá sa Tagaytay = Next week, we shall go to Tagaytay."
+  },
+  {
+   "id": "ilang-beses-m28",
+   "tl": "Iláng beses?",
+   "en": "how many times?",
+   "pos": "expr",
+   "group": "more",
+   "say": "i-LANG be-ses",
+   "note": "From the exercises."
   }
  ],
  "exercises": [

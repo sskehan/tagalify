@@ -476,6 +476,11 @@
       "The weekdays and months come from Spanish, respelled the Tagalog way.",
       "Linggó is Sunday. Linggo is also used for week, as in Linggo ng Wika (National Language Week)."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -917,6 +922,297 @@
    "pos": "noun",
    "group": "months",
    "say": "dis-YEM-bre"
+  },
+  {
+   "id": "zakat-m01",
+   "tl": "zakat",
+   "en": "almsgiving, the third pillar of Islam",
+   "pos": "noun",
+   "group": "more",
+   "note": "A borrowed term written with one of the added letters (z)."
+  },
+  {
+   "id": "carayab-m01",
+   "tl": "carayab",
+   "en": "an Igorot costume made of tree bark",
+   "pos": "noun",
+   "group": "more",
+   "note": "A native term written with one of the added letters (c)."
+  },
+  {
+   "id": "telepono-m01",
+   "tl": "teléponó",
+   "en": "telephone",
+   "pos": "noun",
+   "group": "more",
+   "note": "Lesson 1 text prints teléponó (from Spanish teléfono); its word list prints telépono."
+  },
+  {
+   "id": "kalesa-m01",
+   "tl": "kalésa",
+   "en": "rig",
+   "pos": "noun",
+   "group": "more",
+   "say": "ka-LE-sa",
+   "note": "From Spanish calesa"
+  },
+  {
+   "id": "sirko-m01",
+   "tl": "sírko",
+   "en": "circus",
+   "pos": "noun",
+   "group": "more",
+   "say": "SIR-ko",
+   "note": "From Spanish circo"
+  },
+  {
+   "id": "litson-m01",
+   "tl": "litsón",
+   "en": "roast pig",
+   "pos": "noun",
+   "group": "more",
+   "say": "lit-SON",
+   "note": "From Spanish lechon"
+  },
+  {
+   "id": "pinal-m01",
+   "tl": "pinál",
+   "en": "final",
+   "pos": "adj",
+   "group": "more",
+   "say": "pi-NAL",
+   "note": "From Spanish final"
+  },
+  {
+   "id": "kahon-m01",
+   "tl": "kahón",
+   "en": "box, drawer",
+   "pos": "noun",
+   "group": "more",
+   "say": "ka-HON",
+   "note": "From Spanish cajon"
+  },
+  {
+   "id": "sabon-m01",
+   "tl": "sabón",
+   "en": "soap",
+   "pos": "noun",
+   "group": "more",
+   "say": "sa-BON",
+   "note": "From Spanish jabon"
+  },
+  {
+   "id": "kalye-m01",
+   "tl": "kálye",
+   "en": "street",
+   "pos": "noun",
+   "group": "more",
+   "say": "KAL-ye",
+   "note": "From Spanish calle"
+  },
+  {
+   "id": "makina-m01",
+   "tl": "mákina",
+   "en": "machine",
+   "pos": "noun",
+   "group": "more",
+   "say": "MA-ki-na",
+   "note": "From Spanish maquina"
+  },
+  {
+   "id": "bapor-m01",
+   "tl": "bapór",
+   "en": "ship",
+   "pos": "noun",
+   "group": "more",
+   "say": "ba-POR",
+   "note": "From Spanish vapor"
+  },
+  {
+   "id": "lapis-m01",
+   "tl": "lápis",
+   "en": "pencil",
+   "pos": "noun",
+   "group": "more",
+   "say": "LA-pis",
+   "note": "From Spanish lapiz"
+  },
+  {
+   "id": "kwaliti-m01",
+   "tl": "kwáliti",
+   "en": "quality",
+   "pos": "noun",
+   "group": "more",
+   "say": "KWA-li-ti",
+   "note": "From English quality; the text also prints kwaliti."
+  },
+  {
+   "id": "kalidad-m01",
+   "tl": "kalidád",
+   "en": "quality",
+   "pos": "noun",
+   "group": "more",
+   "say": "ka-li-DAD",
+   "note": "Another loan word for quality, from Spanish"
+  },
+  {
+   "id": "efektiv-m01",
+   "tl": "efektiv",
+   "en": "effective",
+   "pos": "adj",
+   "group": "more",
+   "note": "From English effective; the Tagalog equivalent is mabísa."
+  },
+  {
+   "id": "varayti-m01",
+   "tl": "varayti",
+   "en": "variety",
+   "pos": "noun",
+   "group": "more",
+   "note": "From English variety; urí in Tagalog"
+  },
+  {
+   "id": "uri-m01",
+   "tl": "urí",
+   "en": "variety",
+   "pos": "noun",
+   "group": "more",
+   "say": "u-RI",
+   "note": "The Tagalog word for variety (varayti)"
+  },
+  {
+   "id": "sine-m01",
+   "tl": "sine",
+   "en": "cinema",
+   "pos": "noun",
+   "group": "more",
+   "note": "From English cinema"
+  },
+  {
+   "id": "akademik-m01",
+   "tl": "akadémik",
+   "en": "academic",
+   "pos": "adj",
+   "group": "more",
+   "say": "a-ka-DE-mik",
+   "note": "From English academic"
+  },
+  {
+   "id": "gimik-m01",
+   "tl": "gímik",
+   "en": "gimmick",
+   "pos": "noun",
+   "group": "more",
+   "say": "GI-mik",
+   "note": "From English gimmick"
+  },
+  {
+   "id": "adik-m01",
+   "tl": "ádik",
+   "en": "addict",
+   "pos": "noun",
+   "group": "more",
+   "say": "A-dik",
+   "note": "From English addict"
+  },
+  {
+   "id": "drayber-m01",
+   "tl": "dráyber",
+   "en": "driver",
+   "pos": "noun",
+   "group": "more",
+   "say": "DRAY-ber",
+   "note": "From English driver"
+  },
+  {
+   "id": "trapik-m01",
+   "tl": "trápik",
+   "en": "traffic",
+   "pos": "noun",
+   "group": "more",
+   "say": "TRA-pik",
+   "note": "From English traffic"
+  },
+  {
+   "id": "bilib-m01",
+   "tl": "bilíb",
+   "en": "believe",
+   "pos": "verb",
+   "group": "more",
+   "say": "bi-LIB",
+   "note": "From English believe"
+  },
+  {
+   "id": "aprub-m01",
+   "tl": "aprúb",
+   "en": "approve",
+   "pos": "verb",
+   "group": "more",
+   "say": "a-PRUB",
+   "note": "From English approve"
+  },
+  {
+   "id": "traysikel-m01",
+   "tl": "tráysikel",
+   "en": "tricycle",
+   "pos": "noun",
+   "group": "more",
+   "say": "TRAY-si-kel",
+   "note": "From English tricycle"
+  },
+  {
+   "id": "institusyon-m01",
+   "tl": "institusyón",
+   "en": "institution",
+   "pos": "noun",
+   "group": "more",
+   "say": "in-sti-tus-YON",
+   "note": "From English institution"
+  },
+  {
+   "id": "boksing-m01",
+   "tl": "bóksing",
+   "en": "boxing",
+   "pos": "noun",
+   "group": "more",
+   "say": "BOK-sing",
+   "note": "From English boxing"
+  },
+  {
+   "id": "dyanitor-m01",
+   "tl": "dyánitor",
+   "en": "janitor",
+   "pos": "noun",
+   "group": "more",
+   "say": "DYA-ni-tor",
+   "note": "From English janitor"
+  },
+  {
+   "id": "isport-m01",
+   "tl": "ísport",
+   "en": "sport",
+   "pos": "noun",
+   "group": "more",
+   "say": "IS-port",
+   "note": "From English sport"
+  },
+  {
+   "id": "titser-m01",
+   "tl": "títser",
+   "en": "teacher",
+   "pos": "noun",
+   "group": "more",
+   "say": "TIT-ser",
+   "note": "From English teacher"
+  },
+  {
+   "id": "iskul-m01",
+   "tl": "iskúl",
+   "en": "school",
+   "pos": "noun",
+   "group": "more",
+   "say": "is-KUL",
+   "note": "From English school"
   }
  ],
  "exercises": [

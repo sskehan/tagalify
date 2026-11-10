@@ -1176,6 +1176,11 @@
       "Present repeats the first syllable: umaalís, kumakain, nag-aáral, naglulutò. Future: aalís, kakain, mag-aáral, maglulutò.",
       "Pattern 1: verb + doer + object. Pattern 2: verb + object + doer. Use pattern 1 with siyá and silá."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -1668,6 +1673,212 @@
    "en": "last month",
    "pos": "phrase",
    "group": "words"
+  },
+  {
+   "id": "alis-go-m14",
+   "tl": "alís",
+   "en": "to go",
+   "pos": "verb",
+   "group": "more",
+   "say": "a-LIS",
+   "note": "The verb-root list glosses alís as leave"
+  },
+  {
+   "id": "kumakain-m14",
+   "tl": "kumakáin",
+   "en": "is/are eating",
+   "pos": "verb",
+   "group": "more",
+   "say": "ku-ma-KA-in",
+   "note": "Lesson 5 prints kumákain"
+  },
+  {
+   "id": "nagkakakain-m14",
+   "tl": "nagkákakáin",
+   "en": "to always be eating; to continually be eating",
+   "pos": "verb",
+   "group": "more",
+   "say": "nag-KA-ka-KA-in"
+  },
+  {
+   "id": "bumibili-m14",
+   "tl": "bumibilí",
+   "en": "is/are buying",
+   "pos": "verb",
+   "group": "more",
+   "say": "bu-mi-bi-LI"
+  },
+  {
+   "id": "magbibili-m14",
+   "tl": "magbibilí",
+   "en": "is/are selling",
+   "pos": "verb",
+   "group": "more",
+   "say": "mag-bi-bi-LI"
+  },
+  {
+   "id": "umalis-past-m14",
+   "tl": "umalís",
+   "en": "left (past)",
+   "pos": "verb",
+   "group": "more",
+   "say": "u-ma-LIS",
+   "note": "Same form as the infinitive (to leave)"
+  },
+  {
+   "id": "umaalis-m14",
+   "tl": "umaalís",
+   "en": "is/are leaving",
+   "pos": "verb",
+   "group": "more",
+   "say": "u-ma-a-LIS"
+  },
+  {
+   "id": "aalis-will-m14",
+   "tl": "aalís",
+   "en": "will leave",
+   "pos": "verb",
+   "group": "more",
+   "say": "a-a-LIS",
+   "note": "Lesson 10 glosses aalís as is/are leaving; Lesson 7 prints áalis"
+  },
+  {
+   "id": "kakain-will-m14",
+   "tl": "kakain",
+   "en": "will eat",
+   "pos": "verb",
+   "group": "more",
+   "note": "Lesson 10 prints kákain (shall eat)"
+  },
+  {
+   "id": "nag-aral-m14",
+   "tl": "nag-áral",
+   "en": "studied",
+   "pos": "verb",
+   "group": "more",
+   "say": "nag-A-ral"
+  },
+  {
+   "id": "nag-aaral-m14",
+   "tl": "nag-aáral",
+   "en": "is/are studying",
+   "pos": "verb",
+   "group": "more",
+   "say": "nag-a-A-ral",
+   "note": "Lessons 2 and 6 print nag-áaral"
+  },
+  {
+   "id": "mag-aaral-m14",
+   "tl": "mag-aáral",
+   "en": "will study",
+   "pos": "verb",
+   "group": "more",
+   "say": "mag-a-A-ral"
+  },
+  {
+   "id": "luto-cook-m14",
+   "tl": "lutò",
+   "en": "cook",
+   "pos": "verb",
+   "group": "more",
+   "say": "LU-toQ",
+   "note": "Lesson 7 lists lutò = cooked"
+  },
+  {
+   "id": "nagluto-m14",
+   "tl": "naglutò",
+   "en": "cooked",
+   "pos": "verb",
+   "group": "more",
+   "say": "nag-LU-toQ"
+  },
+  {
+   "id": "naglulu-to-m14",
+   "tl": "naglulutò",
+   "en": "is/are cooking",
+   "pos": "verb",
+   "group": "more",
+   "say": "nag-lu-LU-toQ",
+   "note": "Lesson 5 prints naglúlutò"
+  },
+  {
+   "id": "maglulu-to-m14",
+   "tl": "maglulutò",
+   "en": "will cook",
+   "pos": "verb",
+   "group": "more",
+   "say": "mag-lu-LU-toQ"
+  },
+  {
+   "id": "dumating-m14",
+   "tl": "dumatíng",
+   "en": "to arrive",
+   "pos": "verb",
+   "group": "more",
+   "say": "du-ma-TING",
+   "note": "Lessons 7 and 9 gloss dumatíng as arrived"
+  },
+  {
+   "id": "pumasok-m14",
+   "tl": "pumások",
+   "en": "entered; went (to school or office)",
+   "pos": "verb",
+   "group": "more",
+   "say": "pu-MA-sok",
+   "note": "From: Pumások ang batà sa páaralán. = The child went to school."
+  },
+  {
+   "id": "naglakad-m14",
+   "tl": "naglakád",
+   "en": "walked",
+   "pos": "verb",
+   "group": "more",
+   "say": "nag-la-KAD",
+   "note": "From: Naglakád si Mary kahapon. = Mary walked yesterday."
+  },
+  {
+   "id": "sumusulat-m14",
+   "tl": "sumúsulat",
+   "en": "is writing",
+   "pos": "verb",
+   "group": "more",
+   "say": "su-MU-su-lat",
+   "note": "From: Sumúsulat si Gng. Smith. = Mrs. Smith is writing."
+  },
+  {
+   "id": "nagsasalita-m14",
+   "tl": "nagsásalitâ",
+   "en": "is talking",
+   "pos": "verb",
+   "group": "more",
+   "say": "nag-SA-sa-li-taQ",
+   "note": "From: Nagsásalitâ ang batà. = The child is talking."
+  },
+  {
+   "id": "naglalaro-m14",
+   "tl": "naglálaro",
+   "en": "are playing",
+   "pos": "verb",
+   "group": "more",
+   "say": "nag-LA-la-ro",
+   "note": "From: Naglálaro ang áking mga anák. = My children are playing. Lesson 6 prints naglalaró"
+  },
+  {
+   "id": "bumasa-tayo-m14",
+   "tl": "Bumása táyo",
+   "en": "Let us read",
+   "pos": "phrase",
+   "group": "more",
+   "note": "From: Bumása táyo ng isáng kuwénto. = Let us read a story."
+  },
+  {
+   "id": "umiinom-m14",
+   "tl": "umíinom",
+   "en": "is drinking; drinks",
+   "pos": "verb",
+   "group": "more",
+   "say": "u-MI-i-nom",
+   "note": "From: Umíinom ng gátas ang batà. = The child is drinking milk. / The child drinks milk."
   }
  ],
  "exercises": [

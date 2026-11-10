@@ -1652,6 +1652,11 @@
       "Pattern 1 (-um-): indirect object → subject. Pattern 2 (mag-): direct object → subject. Pattern 3: like pattern 1.",
       "Say ibalík, itápon, isará, not balikin, tapunin, sarahin."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -1854,6 +1859,272 @@
    "group": "correct",
    "say": "i-sa-RA",
    "note": "Not sarahin."
+  },
+  {
+   "id": "sulat-m32",
+   "tl": "sulat",
+   "en": "letter; write",
+   "pos": "noun",
+   "group": "more",
+   "note": "Lesson 15 prints súlat (letter)."
+  },
+  {
+   "id": "isulat-m32",
+   "tl": "isulat",
+   "en": "to write down something",
+   "pos": "verb",
+   "group": "more"
+  },
+  {
+   "id": "isulat-mo-ako-m32",
+   "tl": "isulat mo ako",
+   "en": "you write for me",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "ihulog-ang-sulat-m32",
+   "tl": "ihulog ang sulat",
+   "en": "post the mail for someone",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "isinulat-m32",
+   "tl": "isinúlat",
+   "en": "wrote for another",
+   "pos": "verb",
+   "group": "more",
+   "say": "i-si-NU-lat"
+  },
+  {
+   "id": "isinusulat-m32",
+   "tl": "isinusúlat",
+   "en": "writes for another",
+   "pos": "verb",
+   "group": "more",
+   "say": "i-si-nu-SU-lat"
+  },
+  {
+   "id": "isusulat-m32",
+   "tl": "isusúlat",
+   "en": "will write for another",
+   "pos": "verb",
+   "group": "more",
+   "say": "i-su-SU-lat"
+  },
+  {
+   "id": "sama-m32",
+   "tl": "sama",
+   "en": "accompany",
+   "pos": "verb",
+   "group": "more",
+   "note": "Lesson 14 prints sáma (go with)."
+  },
+  {
+   "id": "isinama-m32",
+   "tl": "isináma",
+   "en": "took someone along",
+   "pos": "verb",
+   "group": "more",
+   "say": "i-si-NA-ma"
+  },
+  {
+   "id": "isinasama-m32",
+   "tl": "isinasáma",
+   "en": "takes someone along",
+   "pos": "verb",
+   "group": "more",
+   "say": "i-si-na-SA-ma"
+  },
+  {
+   "id": "isasama-m32",
+   "tl": "isasáma",
+   "en": "will take someone along",
+   "pos": "verb",
+   "group": "more",
+   "say": "i-sa-SA-ma"
+  },
+  {
+   "id": "ipinagsulat-m32",
+   "tl": "ipinagsulát",
+   "en": "wrote for another",
+   "pos": "verb",
+   "group": "more",
+   "say": "i-pi-nag-su-LAT",
+   "note": "The ipag- variant."
+  },
+  {
+   "id": "ipinagsusulat-m32",
+   "tl": "ipinagsusulát",
+   "en": "writes for another",
+   "pos": "verb",
+   "group": "more",
+   "say": "i-pi-nag-su-su-LAT",
+   "note": "The ipag- variant."
+  },
+  {
+   "id": "ipagsusulat-m32",
+   "tl": "ipagsusulát",
+   "en": "will write for another",
+   "pos": "verb",
+   "group": "more",
+   "say": "i-pag-su-su-LAT",
+   "note": "The ipag- variant."
+  },
+  {
+   "id": "hanap-m32",
+   "tl": "hanap",
+   "en": "search",
+   "pos": "noun",
+   "group": "more"
+  },
+  {
+   "id": "inihanap-m32",
+   "tl": "inihánap",
+   "en": "had someone look for something",
+   "pos": "verb",
+   "group": "more",
+   "say": "i-ni-HA-nap"
+  },
+  {
+   "id": "inihahanap-m32",
+   "tl": "inihahánap",
+   "en": "having someone look for something",
+   "pos": "verb",
+   "group": "more",
+   "say": "i-ni-ha-HA-nap"
+  },
+  {
+   "id": "ihahanap-m32",
+   "tl": "ihahánap",
+   "en": "will have someone look for something",
+   "pos": "verb",
+   "group": "more",
+   "say": "i-ha-HA-nap",
+   "note": "From: Ihahánap ko siyá ng bagong aklát. = I shall look for a new book for him/her."
+  },
+  {
+   "id": "inilululuto-m32",
+   "tl": "inilúlutò",
+   "en": "is cooking something",
+   "pos": "verb",
+   "group": "more",
+   "say": "i-ni-LU-LU-toQ"
+  },
+  {
+   "id": "iluluto-m32",
+   "tl": "iluluto",
+   "en": "will cook something",
+   "pos": "verb",
+   "group": "more"
+  },
+  {
+   "id": "nag-ayos-m32",
+   "tl": "nag-áyos",
+   "en": "arranged",
+   "pos": "verb",
+   "group": "more",
+   "say": "nag-A-yos",
+   "note": "From: Nag-áyos ng silíd si Benjamin. = Benjamin arranged the room."
+  },
+  {
+   "id": "iniayos-m32",
+   "tl": "iniáyos",
+   "en": "arranged",
+   "pos": "verb",
+   "group": "more",
+   "say": "i-ni-A-yos",
+   "note": "The i- (passive) form. From: Iniáyos ni Benjamin ang silíd. = Benjamin arranged the room."
+  },
+  {
+   "id": "nagbasa-m32",
+   "tl": "nagbasá",
+   "en": "read",
+   "pos": "verb",
+   "group": "more",
+   "say": "nag-ba-SA",
+   "note": "From: Nagbasá ng aklát ang gurò para sa batà. = The teacher read the book to the child."
+  },
+  {
+   "id": "ibinasa-m32",
+   "tl": "ibinása",
+   "en": "read (to someone)",
+   "pos": "verb",
+   "group": "more",
+   "say": "i-bi-NA-sa",
+   "note": "The i- (passive) form. From: Ibinása ng aklát ng gurò ang batà. = The teacher read the book to the child."
+  },
+  {
+   "id": "iniwala-m32",
+   "tl": "iniwalâ",
+   "en": "was lost",
+   "pos": "verb",
+   "group": "more",
+   "say": "i-ni-wa-laQ",
+   "note": "From: Iniwalâ ni Peter ang áking bóla. = Was lost by Peter my ball. (literal) Peter lost my ball."
+  },
+  {
+   "id": "ihuhulog-m32",
+   "tl": "ihuhúlog",
+   "en": "will drop",
+   "pos": "verb",
+   "group": "more",
+   "say": "i-hu-HU-log",
+   "note": "From: Ihuhúlog ko ang sulat sa koreo. = I will drop the letter at the Post Office."
+  },
+  {
+   "id": "itinuturo-m32",
+   "tl": "itinuturò",
+   "en": "is teaching",
+   "pos": "verb",
+   "group": "more",
+   "say": "i-ti-nu-TU-roQ",
+   "note": "From: Itinuturò niyá sa ámin ang wíkang Tagálog. = She/He is teaching us the Tagalog language."
+  },
+  {
+   "id": "wikang-tagalog-m32",
+   "tl": "wíkang Tagálog",
+   "en": "the Tagalog language",
+   "pos": "phrase",
+   "group": "more",
+   "say": "WI-kang ta-GA-log"
+  },
+  {
+   "id": "ibibilad-m32",
+   "tl": "ibíbilád",
+   "en": "will put under the sun",
+   "pos": "verb",
+   "group": "more",
+   "say": "i-BI-bi-LAD",
+   "note": "From: Ibíbilád ko ang sapátos. = I shall put the shoes under the sun."
+  },
+  {
+   "id": "itatanim-m32",
+   "tl": "itátaním",
+   "en": "will be planted",
+   "pos": "verb",
+   "group": "more",
+   "say": "i-TA-ta-NIM",
+   "note": "From: Itátaním ng áming katúlong ang ságing. = Will be planted by our helper the banana tree. (literal) Our helper will plant the banana."
+  },
+  {
+   "id": "lumang-tinapay-m32",
+   "tl": "lúmang tinápay",
+   "en": "stale bread",
+   "pos": "phrase",
+   "group": "more",
+   "say": "LU-mang ti-NA-pay",
+   "note": "From: Itinápon niyá ang lúmang tinápay. = He threw away the stale bread."
+  },
+  {
+   "id": "ngayong-gabi-m32",
+   "tl": "ngayong gabí",
+   "en": "tonight",
+   "pos": "phrase",
+   "group": "more",
+   "say": "nga-yong ga-BI",
+   "note": "From: Ilutò mo ang isdâ ngayong gabí. = You cook the fish tonight. Lesson 17 prints ngayóng gabi."
   }
  ],
  "exercises": [

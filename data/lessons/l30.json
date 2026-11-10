@@ -780,6 +780,11 @@
       "Málaman is to know things; mákilala is to know persons.",
       "Ang or ang mga + root makes a noun that can be the subject: Ang sagót ko ay tamà."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -975,6 +980,116 @@
    "en": "judgement",
    "pos": "noun",
    "group": "words"
+  },
+  {
+   "id": "mag-aaral-m30",
+   "tl": "mag-aarál",
+   "en": "will study (future tense of mag-áral)",
+   "pos": "verb",
+   "group": "more",
+   "say": "mag-a-a-RAL",
+   "note": "Lesson 14 prints mag-aáral."
+  },
+  {
+   "id": "nag-aral-m30",
+   "tl": "nag-aral",
+   "en": "studied (past tense of mag-áral)",
+   "pos": "verb",
+   "group": "more",
+   "note": "Lesson 14 prints nag-áral."
+  },
+  {
+   "id": "sabi-root-m30",
+   "tl": "sábi",
+   "en": "root of sabihin, to say",
+   "pos": "noun",
+   "group": "more",
+   "say": "SA-bi"
+  },
+  {
+   "id": "sabi-m30",
+   "tl": "sabi",
+   "en": "statement",
+   "pos": "noun",
+   "group": "more",
+   "note": "From: Ang sabi niyá ang mas matimbáng sa sinábi mo. = His/Her statement has more weight than yours."
+  },
+  {
+   "id": "kilala-m30",
+   "tl": "kilalá",
+   "en": "know",
+   "pos": "verb",
+   "group": "more",
+   "say": "ki-la-LA",
+   "note": "From: Ang kilalá ko ay ang kanyáng amá. = I know his father. Lesson 9 and the root list print kilála."
+  },
+  {
+   "id": "dala-m30",
+   "tl": "dalá",
+   "en": "root of dalhín, to bring or carry",
+   "pos": "noun",
+   "group": "more",
+   "say": "da-LA",
+   "note": "From: Ang dalá ni Peter ay bóla ng kanyáng kuya. = Peter is carrying his brother's ball."
+  },
+  {
+   "id": "galing-m30",
+   "tl": "galíng",
+   "en": "root of manggáling, to come from",
+   "pos": "noun",
+   "group": "more",
+   "say": "ga-LING",
+   "note": "Lesson 26 prints gáling (from)."
+  },
+  {
+   "id": "ayaw-m30",
+   "tl": "ayaw",
+   "en": "what is disliked",
+   "pos": "noun",
+   "group": "more",
+   "note": "Root of umayáw. From: Ang ayaw ng gurò ay tamád na estudyante. = What is disliked by the teacher is a lazy student. (literal) Lesson 1 prints áyaw (do not like)."
+  },
+  {
+   "id": "lakad-m30",
+   "tl": "lakád",
+   "en": "root of lumákad, to walk",
+   "pos": "noun",
+   "group": "more",
+   "say": "la-KAD"
+  },
+  {
+   "id": "tama-m30",
+   "tl": "tamà",
+   "en": "right",
+   "pos": "adj",
+   "group": "more",
+   "say": "TA-maQ",
+   "note": "From: Ang sagót ko ay tamà. = My answer is right. Lesson 9 prints táma."
+  },
+  {
+   "id": "lamang-m30",
+   "tl": "lamang",
+   "en": "only",
+   "pos": "adv",
+   "group": "more",
+   "note": "From: Ang lakí ng báhay ko ay katamtaman lamang. = The size of my house is average only. Lesson 3 prints lámang (just)."
+  },
+  {
+   "id": "pagmamahal-m30",
+   "tl": "pagmámáhal",
+   "en": "love",
+   "pos": "noun",
+   "group": "more",
+   "say": "pag-MA-MA-hal",
+   "note": "From: Ibig ng lalaki na makuha ang pagmámáhal ng babáe. = The desire of the man is to get the love of the woman. Lesson 22 prints pagmamahál."
+  },
+  {
+   "id": "makuha-m30",
+   "tl": "makuha",
+   "en": "to get",
+   "pos": "verb",
+   "group": "more",
+   "note": "From: Ibig ng lalaki na makuha ang pagmámáhal ng babáe. = The desire of the man is to get the love of the woman. Lesson 18 prints makúha (to be able to get)."
   }
  ],
  "exercises": [

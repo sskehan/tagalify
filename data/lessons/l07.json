@@ -638,6 +638,11 @@
       "Repeat an adjective or adverb with a ligature for emphasis: malínaw na malínaw.",
       "No ligature after kung, or with a possessive pronoun after a noun, or with ka and kayó after an adjective."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -914,6 +919,491 @@
    "pos": "adj",
    "group": "mods",
    "say": "ma-ta-MIS"
+  },
+  {
+   "id": "isang-m07",
+   "tl": "isáng",
+   "en": "a",
+   "pos": "other",
+   "group": "more",
+   "say": "i-SANG",
+   "note": "From: Ang malakíng báhay ay isáng páaralan. = The big house is a school. Lesson 4 prints isang."
+  },
+  {
+   "id": "malaking-bahay-m07",
+   "tl": "malakíng báhay",
+   "en": "big house",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ma-la-KING BA-hay",
+   "note": "malakí + -ng + báhay"
+  },
+  {
+   "id": "batang-mabait-m07",
+   "tl": "bátang mabaít",
+   "en": "good child",
+   "pos": "phrase",
+   "group": "more",
+   "say": "BA-tang ma-ba-IT",
+   "note": "batà + -ng + mabaít. From: Marunong ang bátang mabaít. = The good child is intelligent."
+  },
+  {
+   "id": "mayamang-lalaki-m07",
+   "tl": "mayámang laláki",
+   "en": "rich man",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ma-YA-mang la-LA-ki",
+   "note": "mayáman + -g + laláki; also laláking mayáman"
+  },
+  {
+   "id": "hanging-malakas-m07",
+   "tl": "hánging malakás",
+   "en": "strong wind",
+   "pos": "phrase",
+   "group": "more",
+   "say": "HA-nging ma-la-KAS",
+   "note": "hángin + -g + malakás; the book glosses it wind strong. From: Ang hánging malakás ay malamíg. = The strong wind is cold."
+  },
+  {
+   "id": "maasim-na-mangga-m07",
+   "tl": "maásim na manggà",
+   "en": "sour mango",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ma-A-sim na MANG-gaQ",
+   "note": "From: Kumáin siyá ng maásim na manggà. = He/She ate a sour mango."
+  },
+  {
+   "id": "tahimik-na-bata-m07",
+   "tl": "tahímik na batà",
+   "en": "quiet child",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ta-HI-mik na BA-taQ",
+   "note": "From: Magandá ang tahímik na batà. = The quiet child is beautiful."
+  },
+  {
+   "id": "batang-babae-m07",
+   "tl": "batàng babáe",
+   "en": "young girl",
+   "pos": "phrase",
+   "group": "more",
+   "say": "BA-tang ba-BA-e",
+   "note": "Also babáeng batà. From: Ang batàng babáe ay natúlog. = The young girl slept."
+  },
+  {
+   "id": "matandang-lalaki-m07",
+   "tl": "matandàng laláki",
+   "en": "old man",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ma-TAN-dang la-LA-ki",
+   "note": "From: Ang lólo ko ay matandàng laláki. = My grandfather is an old man."
+  },
+  {
+   "id": "matabang-lalaki-m07",
+   "tl": "matabáng lalakí",
+   "en": "fat man",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ma-ta-BANG la-la-KI",
+   "note": "Also lalakíng matabá"
+  },
+  {
+   "id": "ibong-lumilipad-m07",
+   "tl": "íbong lumílipad",
+   "en": "flying bird",
+   "pos": "phrase",
+   "group": "more",
+   "say": "I-bong lu-MI-li-pad",
+   "note": "Also lumílipad na íbon. From: Ang íbong lumílipad ay binaríl. = The flying bird was shot."
+  },
+  {
+   "id": "pagod-na-dumating-m07",
+   "tl": "pagód na dumatíng",
+   "en": "arrived tired",
+   "pos": "phrase",
+   "group": "more",
+   "say": "pa-GOD na du-ma-TING",
+   "note": "Also dumatíng na pagód. From: Pagód na dumatíng si tátay sa báhay. = My father arrived home tired."
+  },
+  {
+   "id": "kumaing-mabilis-m07",
+   "tl": "kumáing mabilís",
+   "en": "ate quickly",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ku-MA-ing ma-bi-LIS",
+   "note": "Also mabilís na kumáin. From: Kumáing mabilís si Pablo. = Pablo ate quickly."
+  },
+  {
+   "id": "matagal-na-pag-aaway-m07",
+   "tl": "matagál na pag-aáway",
+   "en": "long feud",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ma-ta-GAL na pagQ-a-A-way",
+   "note": "Also pag-aáway na matagál"
+  },
+  {
+   "id": "mahal-na-totoo-m07",
+   "tl": "mahál na totoó",
+   "en": "truly expensive",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ma-HAL na to-to-O",
+   "note": "Also totoóng mahál. From: Mahál na totoó ang reló mo. = Your watch is truly expensive."
+  },
+  {
+   "id": "natulog-m07",
+   "tl": "natúlog",
+   "en": "slept",
+   "pos": "verb",
+   "group": "more",
+   "say": "na-TU-log",
+   "note": "From: Ang batàng babáe ay natúlog. = The young girl slept."
+  },
+  {
+   "id": "lolo-m07",
+   "tl": "lólo",
+   "en": "grandfather",
+   "pos": "noun",
+   "group": "more",
+   "say": "LO-lo",
+   "note": "From: Ang lólo ko ay matandàng laláki. = My grandfather is an old man."
+  },
+  {
+   "id": "ibon-m07",
+   "tl": "íbon",
+   "en": "bird",
+   "pos": "noun",
+   "group": "more",
+   "say": "I-bon",
+   "note": "Lesson 7's word list prints ibon; its examples print íbon and íbong."
+  },
+  {
+   "id": "lumilipad-m07",
+   "tl": "lumílipad",
+   "en": "flying",
+   "pos": "verb",
+   "group": "more",
+   "say": "lu-MI-li-pad"
+  },
+  {
+   "id": "binaril-m07",
+   "tl": "binaríl",
+   "en": "was shot",
+   "pos": "verb",
+   "group": "more",
+   "say": "bi-na-RIL",
+   "note": "From: Ang íbong lumílipad ay binaríl. = The flying bird was shot."
+  },
+  {
+   "id": "tatay-m07",
+   "tl": "tátay",
+   "en": "father",
+   "pos": "noun",
+   "group": "more",
+   "say": "TA-tay",
+   "note": "From: Pagód na dumatíng si tátay sa báhay. = My father arrived home tired."
+  },
+  {
+   "id": "iwasan-m07",
+   "tl": "iwásan",
+   "en": "avoid",
+   "pos": "verb",
+   "group": "more",
+   "say": "i-WA-san",
+   "note": "From: Iwásan ang pag-aáway na matagál. = Avoid the long feud."
+  },
+  {
+   "id": "pag-aaway-m07",
+   "tl": "pag-aáway",
+   "en": "feud",
+   "pos": "noun",
+   "group": "more",
+   "say": "pagQ-a-A-way"
+  },
+  {
+   "id": "matagal-m07",
+   "tl": "matagál",
+   "en": "long",
+   "pos": "adj",
+   "group": "more",
+   "say": "ma-ta-GAL",
+   "note": "From: matagál na pag-aáway = long feud"
+  },
+  {
+   "id": "totoo-m07",
+   "tl": "totoó",
+   "en": "truly",
+   "pos": "adv",
+   "group": "more",
+   "say": "to-to-O",
+   "note": "From: mahál na totoó = truly expensive"
+  },
+  {
+   "id": "relo-m07",
+   "tl": "reló",
+   "en": "watch",
+   "pos": "noun",
+   "group": "more",
+   "say": "re-LO",
+   "note": "From: Mahál na totoó ang reló mo. = Your watch is truly expensive."
+  },
+  {
+   "id": "samantalang-wala-m07",
+   "tl": "Samantálang walâ, mágtiis táyo.",
+   "en": "While [we have] none, let us be patient.",
+   "pos": "expr",
+   "group": "more",
+   "say": "sa-man-TA-lang wa-laQ MAG-ti-is TA-yo"
+  },
+  {
+   "id": "wala-m07",
+   "tl": "walâ",
+   "en": "none",
+   "pos": "noun",
+   "group": "more",
+   "say": "wa-laQ",
+   "note": "From: Samantálang walâ, mágtiis táyo. = While [we have] none, let us be patient. Also Kung walâ pa ako = If I am not around yet."
+  },
+  {
+   "id": "sakaling-dumating-m07",
+   "tl": "Sakáling dúmating, paghintayín ang mensahéro.",
+   "en": "If he/she comes, make the messenger wait.",
+   "pos": "expr",
+   "group": "more",
+   "say": "sa-KA-ling DU-ma-ting pag-hin-ta-YIN ang men-sa-HE-ro"
+  },
+  {
+   "id": "mensahero-m07",
+   "tl": "mensahéro",
+   "en": "messenger",
+   "pos": "noun",
+   "group": "more",
+   "say": "men-sa-HE-ro"
+  },
+  {
+   "id": "kung-m07",
+   "tl": "kung",
+   "en": "if",
+   "pos": "part",
+   "group": "more",
+   "note": "Kung does not need a ligature."
+  },
+  {
+   "id": "kung-wala-pa-ako-m07",
+   "tl": "Kung walâ pa ako, máuna na kayó.",
+   "en": "If I am not around yet, you may go ahead.",
+   "pos": "expr",
+   "group": "more",
+   "say": "kung wa-laQ pa a-ko MA-u-na na ka-YO"
+  },
+  {
+   "id": "hinayaang-umalis-m07",
+   "tl": "hinayáang umalís",
+   "en": "was allowed to leave",
+   "pos": "phrase",
+   "group": "more",
+   "say": "hi-na-YA-ang u-ma-LIS",
+   "note": "From: Hinayáang umalís ang batà. = The child was allowed to leave."
+  },
+  {
+   "id": "namatay-na-lumalaban-m07",
+   "tl": "namatáy na lumalában",
+   "en": "died fighting",
+   "pos": "phrase",
+   "group": "more",
+   "say": "na-ma-TAY na lu-ma-LA-ban",
+   "note": "From: Namatáy na lumalában ang sundálo. = The soldier died fighting."
+  },
+  {
+   "id": "sundalo-m07",
+   "tl": "sundálo",
+   "en": "soldier",
+   "pos": "noun",
+   "group": "more",
+   "say": "sun-DA-lo"
+  },
+  {
+   "id": "mamatay-mabuhay-m07",
+   "tl": "mamatáy-mabúhay",
+   "en": "stops periodically (literally, dies and lives)",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ma-ma-TAY-ma-BU-hay",
+   "note": "From: Mamatáy-mabúhay ang reló ko. = My watch stops periodically."
+  },
+  {
+   "id": "maysakit-m07",
+   "tl": "máysakit",
+   "en": "the sick person",
+   "pos": "noun",
+   "group": "more",
+   "say": "MAY-sa-kit",
+   "note": "From: Áyaw kumáin ng máysakit. = The sick person does not want to eat."
+  },
+  {
+   "id": "gabing-gabi-m07",
+   "tl": "gabíng-gabí",
+   "en": "very late",
+   "pos": "adv",
+   "group": "more",
+   "say": "ga-BING-ga-BI",
+   "note": "From: Gabíng-gabí na siyá umuwî. = He/She came home very late."
+  },
+  {
+   "id": "umuwi-m07",
+   "tl": "umuwî",
+   "en": "came home",
+   "pos": "verb",
+   "group": "more",
+   "say": "u-mu-wiQ",
+   "note": "From: Gabíng-gabí na siyá umuwî. = He/She came home very late."
+  },
+  {
+   "id": "babalik-m07",
+   "tl": "bábalik",
+   "en": "shall return",
+   "pos": "verb",
+   "group": "more",
+   "say": "BA-ba-lik",
+   "note": "From: Búkas na búkas talaga ay bábalik ako. = I shall certainly return tomorrow."
+  },
+  {
+   "id": "malinaw-na-malinaw-m07",
+   "tl": "malínaw na malínaw",
+   "en": "very clear",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ma-LI-naw na ma-LI-naw",
+   "note": "From: Malínaw na malínaw ang útos niya. = His/her command is very clear."
+  },
+  {
+   "id": "utos-m07",
+   "tl": "útos",
+   "en": "command",
+   "pos": "noun",
+   "group": "more",
+   "say": "U-tos"
+  },
+  {
+   "id": "mabait-na-mabait-m07",
+   "tl": "mabaít na mabaít",
+   "en": "very kind",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ma-ba-IT na ma-ba-IT",
+   "note": "From: Mabaít na mabaít ang gurò ko. = My teacher is very kind."
+  },
+  {
+   "id": "lupa-m07",
+   "tl": "lúpa",
+   "en": "land",
+   "pos": "noun",
+   "group": "more",
+   "say": "LU-pa",
+   "note": "From: Itó ang áking lúpa. = This is my land."
+  },
+  {
+   "id": "magsalita-m07",
+   "tl": "magsalitâ",
+   "en": "should speak",
+   "pos": "verb",
+   "group": "more",
+   "say": "mag-sa-li-taQ",
+   "note": "From: Ikáw na marúnong ay magsalitâ. = You who are learned should speak."
+  },
+  {
+   "id": "umiiyak-m07",
+   "tl": "umíiyak",
+   "en": "is crying",
+   "pos": "verb",
+   "group": "more",
+   "say": "u-MI-i-yak",
+   "note": "From: Ang hangál na itó ay umíiyak. = This fool is crying."
+  },
+  {
+   "id": "tatawaging-ano-m07",
+   "tl": "Tatawáging anó ang batà?",
+   "en": "By what name shall the child be called?",
+   "pos": "expr",
+   "group": "more",
+   "say": "ta-ta-WA-ging a-NO ang BA-taQ"
+  },
+  {
+   "id": "natuto-m07",
+   "tl": "natúto",
+   "en": "learned",
+   "pos": "verb",
+   "group": "more",
+   "say": "na-TU-to",
+   "note": "From: Táyong kaniláng inapí ay natúto. = We, whom they maltreated, learned."
+  },
+  {
+   "id": "liligaya-m07",
+   "tl": "liligáya",
+   "en": "shall be happy",
+   "pos": "verb",
+   "group": "more",
+   "say": "li-li-GA-ya",
+   "note": "From: Liligáya táyo. = We shall be happy."
+  },
+  {
+   "id": "kinuha-m07",
+   "tl": "kinúha",
+   "en": "took",
+   "pos": "verb",
+   "group": "more",
+   "say": "ki-NU-ha",
+   "note": "From: Kinúha ko itó. = I took this."
+  },
+  {
+   "id": "yaong-amin-m07",
+   "tl": "yaóng amín",
+   "en": "that which is ours",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ya-ONG a-MIN",
+   "note": "From: Kinúha nínyo yaóng amín. = You took that which is ours."
+  },
+  {
+   "id": "ninyo-m07",
+   "tl": "nínyo",
+   "en": "you",
+   "pos": "pron",
+   "group": "more",
+   "say": "NIN-yo",
+   "note": "From: Kinúha nínyo yaóng amín. = You took that which is ours."
+  },
+  {
+   "id": "ikaw-m07",
+   "tl": "íkaw",
+   "en": "you",
+   "pos": "pron",
+   "group": "more",
+   "say": "I-kaw",
+   "note": "From: Kung akó [ay] íkaw, áalis áko. = If I were you, I will leave. Lesson 6 prints ikáw."
+  },
+  {
+   "id": "ako-m07",
+   "tl": "áko",
+   "en": "I",
+   "pos": "pron",
+   "group": "more",
+   "say": "A-ko",
+   "note": "From: Kung akó [ay] íkaw, áalis áko. = If I were you, I will leave. Lesson 6 prints akó."
+  },
+  {
+   "id": "sariwa-m07",
+   "tl": "sariwá",
+   "en": "fresh",
+   "pos": "adj",
+   "group": "more",
+   "say": "sa-ri-WA",
+   "note": "Lesson 7's vocabulary list prints sariwá; its word list prints sariwà."
   }
  ],
  "exercises": [

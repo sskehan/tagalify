@@ -678,6 +678,11 @@
       "si / siná before names, ng before things, sa before places.",
       "Gustóng-gusto = to like very much."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -784,6 +789,76 @@
    "group": "like",
    "say": "BA-go",
    "note": "The book writes bago (no accent) in the example sentence. Not the same as bágo, new, from Lesson 4."
+  },
+  {
+   "id": "mahal-m22",
+   "tl": "mahál",
+   "en": "noble; expensive; (as a term of endearment) dear or beloved",
+   "pos": "adj",
+   "group": "more",
+   "say": "ma-HAL",
+   "note": "Lesson 4 gives mahál = dear; expensive. Mahál implies that someone values something or someone."
+  },
+  {
+   "id": "ibig-m22",
+   "tl": "ibig",
+   "en": "a fondness for someone or something; affection, desire, purpose, whim, love",
+   "pos": "noun",
+   "group": "more",
+   "note": "Lesson 17 gives ibig = likes, desires, wants. Root of ibigin."
+  },
+  {
+   "id": "mahal-kita-m22",
+   "tl": "Mahál kitá.",
+   "en": "I love you.",
+   "pos": "expr",
+   "group": "more",
+   "say": "ma-HAL ki-TA"
+  },
+  {
+   "id": "guro-m22",
+   "tl": "gurô",
+   "en": "teacher",
+   "pos": "noun",
+   "group": "more",
+   "say": "gu-roQ",
+   "note": "Lesson 7 prints gurò. From: Minámahal nilá ang kaniláng gurô = They love their teacher."
+  },
+  {
+   "id": "binata-m22",
+   "tl": "bináta",
+   "en": "bachelor",
+   "pos": "noun",
+   "group": "more",
+   "say": "bi-NA-ta",
+   "note": "Lesson 7 prints binatà."
+  },
+  {
+   "id": "magkakapatid-m22",
+   "tl": "magkakapatíd",
+   "en": "siblings",
+   "pos": "noun",
+   "group": "more",
+   "say": "mag-ka-ka-pa-TID",
+   "note": "Lesson 16 prints magkákapatid."
+  },
+  {
+   "id": "magulang-m22",
+   "tl": "magúlang",
+   "en": "parents",
+   "pos": "noun",
+   "group": "more",
+   "say": "ma-GU-lang",
+   "note": "Lesson 14 prints magulang. From: Minámahál ko ang áking mga magúlang = I love my parents."
+  },
+  {
+   "id": "magluto-m22",
+   "tl": "maglúto",
+   "en": "to cook",
+   "pos": "verb",
+   "group": "more",
+   "say": "mag-LU-to",
+   "note": "Lesson 14 prints maglutò. From: Gustó kong maglúto = I love to cook."
   }
  ],
  "exercises": [

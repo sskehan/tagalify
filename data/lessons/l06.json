@@ -1514,6 +1514,11 @@
       "Ay becomes 'y after a word ending in a vowel.",
       "Itó = near me, iyán = near you, iyón = far from both. Plurals take ang mga."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -1668,6 +1673,231 @@
    "en": "in, at, on, to (location of an action)",
    "pos": "marker",
    "group": "words"
+  },
+  {
+   "id": "y-m06",
+   "tl": "'y",
+   "en": "is, are (ay shortened)",
+   "pos": "part",
+   "group": "more",
+   "note": "Ay may be shortened to 'y when the preceding word ends in a vowel. From: Ako'y si John. = I am John."
+  },
+  {
+   "id": "magkapatid-m06",
+   "tl": "magkapatid",
+   "en": "brothers and sisters",
+   "pos": "noun",
+   "group": "more",
+   "note": "From: Kamí'y magkapatid. = We are brothers and sisters. Lesson 4 prints magkapatìd (siblings)."
+  },
+  {
+   "id": "magkapatid2-m06",
+   "tl": "magkápatid",
+   "en": "siblings",
+   "pos": "noun",
+   "group": "more",
+   "say": "mag-KA-pa-tid",
+   "note": "Lesson 6's vocabulary list prints magkápatid. From: Kayó ay magkápatid. = You are brother and sister. (or siblings)"
+  },
+  {
+   "id": "mababait-m06",
+   "tl": "mababaít",
+   "en": "good",
+   "pos": "adj",
+   "group": "more",
+   "say": "ma-ba-ba-IT",
+   "note": "Plural form of mabaít. From: Mababaít kamí. = Good we are. (We are good.)"
+  },
+  {
+   "id": "mahihirap-m06",
+   "tl": "mahihírap",
+   "en": "poor",
+   "pos": "adj",
+   "group": "more",
+   "say": "ma-hi-HI-rap",
+   "note": "Plural form of mahírap. From: Mahihírap kamí. = Poor we are. (We are poor.)"
+  },
+  {
+   "id": "masisipag-m06",
+   "tl": "masisípag",
+   "en": "industrious",
+   "pos": "adj",
+   "group": "more",
+   "say": "ma-si-SI-pag",
+   "note": "Plural form of masípag. From: Masisípag táyo. = Industrious we are. (We are industrious.)"
+  },
+  {
+   "id": "malulusog-m06",
+   "tl": "malulusóg",
+   "en": "healthy",
+   "pos": "adj",
+   "group": "more",
+   "say": "ma-lu-lu-SOG",
+   "note": "Plural form of malusóg. From: Malulusóg kayó. = Healthy you are. (You are healthy.)"
+  },
+  {
+   "id": "marurunong-m06",
+   "tl": "marurúnong",
+   "en": "intelligent",
+   "pos": "adj",
+   "group": "more",
+   "say": "ma-ru-RU-nong",
+   "note": "Plural form of marúnong. From: Marurúnong silá. = Intelligent they are. (They are intelligent.)"
+  },
+  {
+   "id": "malalaki-m06",
+   "tl": "malalakí",
+   "en": "big",
+   "pos": "adj",
+   "group": "more",
+   "say": "ma-la-la-KI",
+   "note": "Plural form of malakí. From: Ang mga iyán ay malalakí. = Those are big."
+  },
+  {
+   "id": "malilinis-m06",
+   "tl": "malilínis",
+   "en": "clean",
+   "pos": "adj",
+   "group": "more",
+   "say": "ma-li-LI-nis",
+   "note": "Plural form of malínis (plural predicate). From: Ang mga iyón ay malilínis. = Those are clean."
+  },
+  {
+   "id": "guro-m06",
+   "tl": "guro",
+   "en": "teacher",
+   "pos": "noun",
+   "group": "more",
+   "note": "From: Kayó pô ba ay guro? = Are you a teacher, sir/madam? Lesson 7 prints gurò."
+  },
+  {
+   "id": "naglalaro-m06",
+   "tl": "naglalaró",
+   "en": "playing",
+   "pos": "verb",
+   "group": "more",
+   "say": "nag-la-la-RO",
+   "note": "From the exercise: She is playing. (naglalaró)"
+  },
+  {
+   "id": "kumain-m06",
+   "tl": "kumáin",
+   "en": "ate",
+   "pos": "verb",
+   "group": "more",
+   "say": "ku-MA-in",
+   "note": "From: Ang báta ay kumáin sa mésang itó. = The child ate on this table."
+  },
+  {
+   "id": "bata-m06",
+   "tl": "báta",
+   "en": "child",
+   "pos": "noun",
+   "group": "more",
+   "say": "BA-ta",
+   "note": "From: Ang báta ay kumáin sa mésang itó. = The child ate on this table. Lessons 2 and 4 print batà."
+  },
+  {
+   "id": "pumunta-m06",
+   "tl": "pumunta",
+   "en": "went",
+   "pos": "verb",
+   "group": "more",
+   "note": "From: Pumunta kamí sa báhay na iyán. = We went to that house."
+  },
+  {
+   "id": "sumakay-m06",
+   "tl": "súmakay",
+   "en": "rode",
+   "pos": "verb",
+   "group": "more",
+   "say": "SU-ma-kay",
+   "note": "From: Súmakay silá sa bus na iyón. = They rode on that bus."
+  },
+  {
+   "id": "lamesa-m06",
+   "tl": "lamésa",
+   "en": "table",
+   "pos": "noun",
+   "group": "more",
+   "say": "la-ME-sa",
+   "note": "From the exercise: ang áking lamésa (table)"
+  },
+  {
+   "id": "upuan-m06",
+   "tl": "upúan",
+   "en": "seat",
+   "pos": "noun",
+   "group": "more",
+   "say": "u-PU-an",
+   "note": "From the exercise: (Pointing to a student's seat) ___ ay upúan ng estudyánte."
+  },
+  {
+   "id": "estudyante-m06",
+   "tl": "estudyánte",
+   "en": "student",
+   "pos": "noun",
+   "group": "more",
+   "say": "es-tud-YAN-te",
+   "note": "From the exercise: (Pointing to a student's seat) ___ ay upúan ng estudyánte."
+  },
+  {
+   "id": "sa-likod-m06",
+   "tl": "sa likód",
+   "en": "at the back",
+   "pos": "phrase",
+   "group": "more",
+   "say": "sa li-KOD"
+  },
+  {
+   "id": "pisara-m06",
+   "tl": "pisára",
+   "en": "blackboard",
+   "pos": "noun",
+   "group": "more",
+   "say": "pi-SA-ra"
+  },
+  {
+   "id": "takdang-aralin-m06",
+   "tl": "takdáng-aralín",
+   "en": "homeworks",
+   "pos": "noun",
+   "group": "more",
+   "say": "tak-DANG-a-ra-LIN"
+  },
+  {
+   "id": "sa-kanan-m06",
+   "tl": "sa kánan",
+   "en": "to the right",
+   "pos": "phrase",
+   "group": "more",
+   "say": "sa KA-nan"
+  },
+  {
+   "id": "sa-kaliwa-m06",
+   "tl": "sa káliwa",
+   "en": "to your left",
+   "pos": "phrase",
+   "group": "more",
+   "say": "sa KA-li-wa",
+   "note": "From the exercise: Sa káliwa (to your left) ninyó ..."
+  },
+  {
+   "id": "palaging-nakabukas-m06",
+   "tl": "paláging nakábukás",
+   "en": "always open",
+   "pos": "phrase",
+   "group": "more",
+   "say": "pa-LA-ging na-KA-bu-KAS"
+  },
+  {
+   "id": "paaralan-m06",
+   "tl": "paáralan",
+   "en": "school",
+   "pos": "noun",
+   "group": "more",
+   "say": "pa-A-ra-lan",
+   "note": "From: Iyón ay paáralan ko. = That is my school. Lesson 4 prints páaralán; Lesson 8's vocabulary list also prints paáralan."
   }
  ],
  "exercises": [

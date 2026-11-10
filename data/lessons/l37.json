@@ -1719,6 +1719,11 @@
      "kind": "tip",
      "title": "No answer key",
      "t": "The book prints no answers for this exercise, so try your own and check them against the patterns above."
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -1839,6 +1844,338 @@
    "pos": "noun",
    "group": "labels",
    "say": "A-lin-la-ngan"
+  },
+  {
+   "id": "paluin-m37",
+   "tl": "paluin",
+   "en": "beat",
+   "pos": "verb",
+   "group": "more",
+   "note": "From: Gustó mong paluin kitá? = Do you want me to beat you?"
+  },
+  {
+   "id": "magpaulan-m37",
+   "tl": "magpaulán",
+   "en": "get caught in the rain",
+   "pos": "verb",
+   "group": "more",
+   "say": "mag-pa-u-LAN",
+   "note": "From: Huwág kang magpaulán = Don't get caught in the rain."
+  },
+  {
+   "id": "kanin-m37",
+   "tl": "kanin",
+   "en": "eat",
+   "pos": "verb",
+   "group": "more",
+   "note": "From: Huwág mong kanin iyán = Don't eat that. Lesson 15 prints kánin (to eat)."
+  },
+  {
+   "id": "basahan-m37",
+   "tl": "basahan",
+   "en": "read (to someone)",
+   "pos": "verb",
+   "group": "more",
+   "note": "From: Huwág mong basahan ng sulat si Ate = Don't read my letter to Ate. Lesson 33 prints basáhan (to read to someone)."
+  },
+  {
+   "id": "sulat-m37",
+   "tl": "sulat",
+   "en": "letter",
+   "pos": "noun",
+   "group": "more",
+   "note": "From: Huwág mong basahan ng sulat si Ate = Don't read my letter to Ate. Lesson 15 prints súlat."
+  },
+  {
+   "id": "ibili-m37",
+   "tl": "ibilí",
+   "en": "buy (for someone)",
+   "pos": "verb",
+   "group": "more",
+   "say": "i-bi-LI",
+   "note": "From: Huwág nátin ibilí ng kendi si Jun = Let us not buy candy for Jun. Lesson 32 gives ibilí = to have someone buy something."
+  },
+  {
+   "id": "kendi-m37",
+   "tl": "kendi",
+   "en": "candy",
+   "pos": "noun",
+   "group": "more",
+   "note": "From: Huwág nátin ibilí ng kendi si Jun = Let us not buy candy for Jun."
+  },
+  {
+   "id": "babasahan-m37",
+   "tl": "babasahan",
+   "en": "read to (future)",
+   "pos": "verb",
+   "group": "more",
+   "note": "From: Huwág mong babasahan ang batà bukas = Do not read to the child tomorrow (command, future)."
+  },
+  {
+   "id": "makikain-m37",
+   "tl": "makikain",
+   "en": "eat",
+   "pos": "verb",
+   "group": "more",
+   "note": "From: Huwág kayóng makikain nang madalás = Don't eat often (request, infinitive)."
+  },
+  {
+   "id": "makikigaya-m37",
+   "tl": "makikigaya",
+   "en": "imitate",
+   "pos": "verb",
+   "group": "more",
+   "note": "From: Huwág táyong makikigaya sa kanilá = Let us not imitate them (request, future)."
+  },
+  {
+   "id": "ayaw-m37",
+   "tl": "ayaw",
+   "en": "to dislike, do not like",
+   "pos": "verb",
+   "group": "more",
+   "note": "A verb root; the opposite of gustó and ibig (to like). Lesson 1 prints áyaw (do not like)."
+  },
+  {
+   "id": "magsalita-m37",
+   "tl": "magsalitâ",
+   "en": "to talk",
+   "pos": "verb",
+   "group": "more",
+   "say": "mag-sa-li-taQ",
+   "note": "From: Ayaw siyáng magsalitâ = He does not like to talk. Lesson 10 gives magsalitâ = to speak up."
+  },
+  {
+   "id": "lumakad-m37",
+   "tl": "lumakad",
+   "en": "to go",
+   "pos": "verb",
+   "group": "more",
+   "note": "From: Ayaw siláng lumakad = They do not like to go. Lesson 17 prints lumákad (go)."
+  },
+  {
+   "id": "babalik-m37",
+   "tl": "babalík",
+   "en": "coming back",
+   "pos": "verb",
+   "group": "more",
+   "say": "ba-ba-LIK",
+   "note": "From: Totoó, hindî na siyá babalík = Truly, he/she is not coming back anymore. Lesson 29 prints bábalík (will return)."
+  },
+  {
+   "id": "totoong-totoo-m37",
+   "tl": "Totoóng-totoó.",
+   "en": "It is very true.",
+   "pos": "phrase",
+   "group": "more",
+   "say": "to-to-ONG-to-to-O"
+  },
+  {
+   "id": "balita-m37",
+   "tl": "balità",
+   "en": "news",
+   "pos": "noun",
+   "group": "more",
+   "say": "ba-LI-taQ",
+   "note": "From: Totoó ba ang balità? Totoó. = Is the news true? True."
+  },
+  {
+   "id": "mabuting-tao-m37",
+   "tl": "mabuting táo",
+   "en": "good man",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ma-bu-ting TA-o",
+   "note": "From: Mabuting táo talagá si G. Santos = Mr. Santos is a really good man."
+  },
+  {
+   "id": "papunta-m37",
+   "tl": "papuntá",
+   "en": "going (to)",
+   "pos": "verb",
+   "group": "more",
+   "say": "pa-pun-TA",
+   "note": "From: Talagá, papuntá kamí sa Estados Unidos = Yes, indeed, we are going to the United States."
+  },
+  {
+   "id": "marahil-m37",
+   "tl": "maráhil",
+   "en": "maybe",
+   "pos": "adv",
+   "group": "more",
+   "say": "ma-RA-hil",
+   "note": "A one-word response; placed at the beginning of the sentence, near the subject or at the end."
+  },
+  {
+   "id": "darating-m37",
+   "tl": "daráting",
+   "en": "is arriving",
+   "pos": "verb",
+   "group": "more",
+   "say": "da-RA-ting",
+   "note": "From: Maráhil siyá ay daráting bukas = Maybe he is arriving tomorrow. The book also prints darating and daratíng with the same meaning."
+  },
+  {
+   "id": "pinakamasuwerteng-tao-m37",
+   "tl": "pinakamasuwerteng táo",
+   "en": "luckiest person",
+   "pos": "phrase",
+   "group": "more",
+   "say": "pi-na-ka-ma-su-wer-teng TA-o",
+   "note": "From: Si Pépe na maráhil ang pinakamasuwerteng táo sa buong mundó = Pepe maybe the luckiest person in the whole world."
+  },
+  {
+   "id": "buong-mundo-m37",
+   "tl": "buong mundó",
+   "en": "whole world",
+   "pos": "phrase",
+   "group": "more",
+   "say": "bu-ong mun-DO",
+   "note": "From: Si Pépe na maráhil ang pinakamasuwerteng táo sa buong mundó = Pepe maybe the luckiest person in the whole world."
+  },
+  {
+   "id": "tila-m37",
+   "tl": "tíla",
+   "en": "it seems",
+   "pos": "adv",
+   "group": "more",
+   "say": "TI-la",
+   "note": "Tíla úulan ngayón = It seems it will rain today. Lesson 21 prints tila."
+  },
+  {
+   "id": "siguro-m37",
+   "tl": "sigúro",
+   "en": "maybe or definitely",
+   "pos": "adv",
+   "group": "more",
+   "say": "si-GU-ro",
+   "note": "The meaning depends on the response: Oô, sigúro akó = Yes, I am sure (Yes, definitely); Sigúro. = Maybe."
+  },
+  {
+   "id": "sigurado-m37",
+   "tl": "sigurado",
+   "en": "sure",
+   "pos": "adj",
+   "group": "more",
+   "note": "From: Hindî akó sigúro (or sigurado) = I am not sure."
+  },
+  {
+   "id": "magkasakit-m37",
+   "tl": "magkasakít",
+   "en": "get sick",
+   "pos": "verb",
+   "group": "more",
+   "say": "mag-ka-sa-KIT",
+   "note": "From: Bakâ ka magkasakít = You might get sick."
+  },
+  {
+   "id": "mauna-m37",
+   "tl": "máuná",
+   "en": "be first",
+   "pos": "verb",
+   "group": "more",
+   "say": "MA-u-NA",
+   "note": "From: Bakâ ikáw ang máuná = You might be first."
+  },
+  {
+   "id": "baka-cow-m37",
+   "tl": "baka",
+   "en": "cow",
+   "pos": "noun",
+   "group": "more",
+   "note": "The stressless baka; not bakâ (might be). Lesson 17 prints báka (cow or beef)."
+  },
+  {
+   "id": "maaari-m37",
+   "tl": "maáarì",
+   "en": "it can be or possible",
+   "pos": "adj",
+   "group": "more",
+   "say": "ma-A-a-riQ",
+   "note": "On its own as a stand-alone response it means It is possible. Lesson 24 gives maáarì = possible."
+  },
+  {
+   "id": "maaaring-totoo-m37",
+   "tl": "maáarìng totoó",
+   "en": "it can be true",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ma-A-a-riQng to-to-O"
+  },
+  {
+   "id": "maaaring-mali-m37",
+   "tl": "maáarìng malî",
+   "en": "it can be wrong",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ma-A-a-riQng ma-liQ"
+  },
+  {
+   "id": "posible-m37",
+   "tl": "posible",
+   "en": "it is possible",
+   "pos": "adj",
+   "group": "more",
+   "note": "More popular than maáarì as a stand-alone response."
+  },
+  {
+   "id": "puwede-m37",
+   "tl": "puwede",
+   "en": "it is possible",
+   "pos": "adj",
+   "group": "more",
+   "note": "More popular than maáarì as a stand-alone response. Lesson 10 prints puwéde (can)."
+  },
+  {
+   "id": "mag-aasawa-m37",
+   "tl": "mag-áasawa",
+   "en": "getting married",
+   "pos": "verb",
+   "group": "more",
+   "say": "mag-A-a-sa-wa",
+   "note": "From: Maáarìng totoó na siyá ay mag-áasawa na = It could be true that he/she is getting married."
+  },
+  {
+   "id": "hinala-m37",
+   "tl": "hinàla",
+   "en": "suspicions",
+   "pos": "noun",
+   "group": "more",
+   "note": "From: Maáarìng malî ang hinàla nátin = Our suspicions could be wrong."
+  },
+  {
+   "id": "magkasama-m37",
+   "tl": "magkasáma",
+   "en": "a pair",
+   "pos": "noun",
+   "group": "more",
+   "say": "mag-ka-SA-ma",
+   "note": "From: Kayó na raw ang magkasáma sa eskuweláhan ngayón? = Is it true you are now a pair in school? Lesson 26 gives magkasama = together."
+  },
+  {
+   "id": "eskuwelahan-m37",
+   "tl": "eskuweláhan",
+   "en": "school",
+   "pos": "noun",
+   "group": "more",
+   "say": "es-ku-we-LA-han",
+   "note": "From: Kayó na raw ang magkasáma sa eskuweláhan ngayón? = Is it true you are now a pair in school?"
+  },
+  {
+   "id": "tunay-m37",
+   "tl": "tunay",
+   "en": "truly",
+   "pos": "adv",
+   "group": "more",
+   "note": "From: Tunay bang mahál ni Nilda si Andrew? = Does Nilda truly love Andrew?"
+  },
+  {
+   "id": "makilaro-m37",
+   "tl": "makilarô",
+   "en": "to play with",
+   "pos": "verb",
+   "group": "more",
+   "say": "ma-ki-la-roQ",
+   "note": "From: Gustó mo bang makilarô sa ámin? = Do you want to play with us?"
   }
  ],
  "exercises": [

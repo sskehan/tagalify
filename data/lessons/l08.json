@@ -965,6 +965,11 @@
       "Plural nouns: ang áking mga anák.",
       "Nitó, niyán and niyón always come after the noun. Plural owners: ng mga itó / iyán / iyón."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -1173,6 +1178,214 @@
    "pos": "noun",
    "group": "words",
    "say": "li-BRO"
+  },
+  {
+   "id": "babae-m08",
+   "tl": "babaé",
+   "en": "woman",
+   "pos": "noun",
+   "group": "more",
+   "say": "ba-ba-E",
+   "note": "Lesson 8 prints babaé when explaining ng; elsewhere the book prints babáe."
+  },
+  {
+   "id": "baro-m08",
+   "tl": "barò",
+   "en": "shirt",
+   "pos": "noun",
+   "group": "more",
+   "say": "BA-roQ",
+   "note": "From: ang barò ni Juan = the shirt of Juan. Lesson 4 glosses barò as dress."
+  },
+  {
+   "id": "baro2-m08",
+   "tl": "báro",
+   "en": "dress",
+   "pos": "noun",
+   "group": "more",
+   "say": "BA-ro",
+   "note": "From: Ang iyóng báro ay bágo. = Your dress is new. Lesson 4 prints barò."
+  },
+  {
+   "id": "damit-m08",
+   "tl": "damít",
+   "en": "clothes",
+   "pos": "noun",
+   "group": "more",
+   "say": "da-MIT",
+   "note": "Lesson 8's vocabulary list; Lesson 7 glosses damít as cloth; dress."
+  },
+  {
+   "id": "kotse-m08",
+   "tl": "kotse",
+   "en": "car",
+   "pos": "noun",
+   "group": "more",
+   "note": "Lesson 8's vocabulary list prints kotse; Lesson 1 prints kótse."
+  },
+  {
+   "id": "luma-m08",
+   "tl": "lúma",
+   "en": "old",
+   "pos": "adj",
+   "group": "more",
+   "say": "LU-ma",
+   "note": "Lesson 8's vocabulary list. From: Lúma ang áming kótse. = Our car is old. Lesson 4 prints lumà (old, inanimate)."
+  },
+  {
+   "id": "kanya-m08",
+   "tl": "kanyá",
+   "en": "his/her",
+   "pos": "pron",
+   "group": "more",
+   "say": "kan-YA",
+   "note": "Shortened form of kaniyá"
+  },
+  {
+   "id": "mahaba-m08",
+   "tl": "mahába",
+   "en": "long",
+   "pos": "adj",
+   "group": "more",
+   "say": "ma-HA-ba",
+   "note": "From: Mahába ang kaniláng lápis. = Their pencil is long. Lesson 6 prints mahabà."
+  },
+  {
+   "id": "pumunta-m08",
+   "tl": "pumuntá",
+   "en": "went",
+   "pos": "verb",
+   "group": "more",
+   "say": "pu-mun-TA",
+   "note": "From: Ang iná niyá ay pumuntá sa kanyáng báhay. = Her mother went to her house."
+  },
+  {
+   "id": "pumunta2-m08",
+   "tl": "pumuntà",
+   "en": "went",
+   "pos": "verb",
+   "group": "more",
+   "say": "pu-MUN-taQ",
+   "note": "From the exercise: Pumuntà sa ___ báhay ang gurò ___. = Our teacher went to our house."
+  },
+  {
+   "id": "kakulay-m08",
+   "tl": "kakúlay",
+   "en": "has the same color as",
+   "pos": "noun",
+   "group": "more",
+   "say": "ka-KU-lay",
+   "note": "From the exercise: Kakúlay ng ___ báro ang pitáka ___. = Your dress has the same color as your wallet."
+  },
+  {
+   "id": "pitaka-m08",
+   "tl": "pitáka",
+   "en": "wallet",
+   "pos": "noun",
+   "group": "more",
+   "say": "pi-TA-ka"
+  },
+  {
+   "id": "naghanap-m08",
+   "tl": "naghanáp",
+   "en": "looked for",
+   "pos": "verb",
+   "group": "more",
+   "say": "nag-ha-NAP",
+   "note": "From the exercise: My daughter looked for my gift for her sister. (literal)"
+  },
+  {
+   "id": "anak-na-babae-m08",
+   "tl": "anák na babáe",
+   "en": "daughter",
+   "pos": "phrase",
+   "group": "more",
+   "say": "a-NAK na ba-BA-e"
+  },
+  {
+   "id": "regalo-m08",
+   "tl": "regálo",
+   "en": "gift",
+   "pos": "noun",
+   "group": "more",
+   "say": "re-GA-lo"
+  },
+  {
+   "id": "para-sa-m08",
+   "tl": "para sa",
+   "en": "for",
+   "pos": "phrase",
+   "group": "more",
+   "note": "From: ng regálo para sa ... kapatìd na babáe = gift for ... sister"
+  },
+  {
+   "id": "kapatid-na-babae-m08",
+   "tl": "kapatìd na babáe",
+   "en": "sister",
+   "pos": "phrase",
+   "group": "more",
+   "note": "Printed kapatìd, with a grave mark on the i"
+  },
+  {
+   "id": "pasensiya-m08",
+   "tl": "pasénsiya",
+   "en": "patience",
+   "pos": "noun",
+   "group": "more",
+   "say": "pa-SEN-si-ya",
+   "note": "From the exercise: They have long patience for their father."
+  },
+  {
+   "id": "pang-unawa-m08",
+   "tl": "pang-unáwa",
+   "en": "understanding",
+   "pos": "noun",
+   "group": "more",
+   "say": "pangQ-u-NA-wa"
+  },
+  {
+   "id": "mas-mahalaga-m08",
+   "tl": "mas mahalagà",
+   "en": "more important",
+   "pos": "phrase",
+   "group": "more",
+   "say": "mas ma-ha-LA-gaQ",
+   "note": "From the exercise: Your understanding is more important than your contribution."
+  },
+  {
+   "id": "abuloy-m08",
+   "tl": "abúloy",
+   "en": "contribution",
+   "pos": "noun",
+   "group": "more",
+   "say": "a-BU-loy"
+  },
+  {
+   "id": "ng-mga-ito-m08",
+   "tl": "ng mga itó",
+   "en": "of these people",
+   "pos": "phrase",
+   "group": "more",
+   "say": "nang ma-nga i-TO",
+   "note": "From: ang báhay ng mga itó = the house of these people"
+  },
+  {
+   "id": "ng-mga-iyan-m08",
+   "tl": "ng mga iyán",
+   "en": "of those people",
+   "pos": "phrase",
+   "group": "more",
+   "say": "nang ma-nga i-YAN",
+   "note": "From: ang báhay ng mga iyán = the house of those people"
+  },
+  {
+   "id": "ng-mga-iyon-m08",
+   "tl": "ng mga iyón",
+   "en": "of those people",
+   "pos": "phrase",
+   "group": "more",
+   "say": "nang ma-nga i-YON",
+   "note": "From: ang báhay ng mga iyón = the house of those people"
   }
  ],
  "exercises": [

@@ -1002,6 +1002,11 @@
       "Ask with Maáarì bang…? and answer Opô, maáarì.",
       "With elders and authorities, use paki- or maki- with pô and polite plural pronouns."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -1145,6 +1150,139 @@
    "en": "Yes (positive answer to a Maáarì bang…? request)",
    "pos": "phrase",
    "group": "answers"
+  },
+  {
+   "id": "paki-m24",
+   "tl": "paki-",
+   "en": "prefix for saying please (makes passive request verbs)",
+   "pos": "other",
+   "group": "more",
+   "note": "Added to action roots to form verbs used for requests; the doer is in the possessive form (mo, niyá)."
+  },
+  {
+   "id": "maki-m24",
+   "tl": "maki-",
+   "en": "prefix for saying please (makes active request verbs)",
+   "pos": "other",
+   "group": "more",
+   "note": "Added to action roots to form verbs used for requests; the doer is in the nominative form (ako, siyá, ikáw)."
+  },
+  {
+   "id": "nakikuha-m24",
+   "tl": "nakikúha",
+   "en": "past of makikúha (to please get)",
+   "pos": "verb",
+   "group": "more",
+   "say": "na-ki-KU-ha",
+   "note": "naki- + root."
+  },
+  {
+   "id": "nakikikuha-m24",
+   "tl": "nakikikúha",
+   "en": "present of makikúha (to please get)",
+   "pos": "verb",
+   "group": "more",
+   "say": "na-ki-ki-KU-ha",
+   "note": "nakiki- + root."
+  },
+  {
+   "id": "makikikuha-m24",
+   "tl": "makikikúha",
+   "en": "future of makikúha (to please get)",
+   "pos": "verb",
+   "group": "more",
+   "say": "ma-ki-ki-KU-ha",
+   "note": "makiki- + root."
+  },
+  {
+   "id": "pinakikuha-m24",
+   "tl": "pinakikúha",
+   "en": "past of pakikúha (to please get)",
+   "pos": "verb",
+   "group": "more",
+   "say": "pi-na-ki-KU-ha",
+   "note": "pinaki- + root."
+  },
+  {
+   "id": "pinakikikuha-m24",
+   "tl": "pinakikikúha",
+   "en": "present of pakikúha (to please get)",
+   "pos": "verb",
+   "group": "more",
+   "say": "pi-na-ki-ki-KU-ha",
+   "note": "pinakiki- + root."
+  },
+  {
+   "id": "pakikikuha-m24",
+   "tl": "pakikikúha",
+   "en": "future of pakikúha; shall request to get",
+   "pos": "verb",
+   "group": "more",
+   "say": "pa-ki-ki-KU-ha",
+   "note": "pakiki- + root. From: Pakikikúha ko sa katúlong ang aking sapátos = I shall request the housemaid to get the shoes for me."
+  },
+  {
+   "id": "baro-m24",
+   "tl": "baró",
+   "en": "dress",
+   "pos": "noun",
+   "group": "more",
+   "say": "ba-RO",
+   "note": "Lesson 4 prints barò; this lesson prints both baró and barò. From: Pakikúha mo ang aking baró = (You) Please get my dress."
+  },
+  {
+   "id": "adobong-manok-m24",
+   "tl": "adóbong manók",
+   "en": "chicken adobo (a Filipino dish)",
+   "pos": "phrase",
+   "group": "more",
+   "say": "a-DO-bong ma-NOK",
+   "note": "From: Makilutò ka ng adóbong manók = (You) Please cook the chicken adobo (a Filipino dish)."
+  },
+  {
+   "id": "para-sa-akin-m24",
+   "tl": "para sa ákin",
+   "en": "for me",
+   "pos": "phrase",
+   "group": "more",
+   "say": "pa-ra sa A-kin",
+   "note": "From: Makitáwag ka ng doktór para sa ákin = (You) Please call a doctor for me."
+  },
+  {
+   "id": "pinakitawag-m24",
+   "tl": "pinakitáwag",
+   "en": "requested (someone) to call",
+   "pos": "verb",
+   "group": "more",
+   "say": "pi-na-ki-TA-wag",
+   "note": "From: Pinakitáwag ko ang doktór sa kanyá = I requested him/her to call the doctor for me."
+  },
+  {
+   "id": "makikidala-m24",
+   "tl": "makíkidala",
+   "en": "shall request (someone) to carry",
+   "pos": "verb",
+   "group": "more",
+   "say": "ma-KI-ki-da-la",
+   "note": "From: Makíkidala ako ng balútan sa iyó = I shall request you to carry a package for me."
+  },
+  {
+   "id": "katulong-m24",
+   "tl": "katúlong",
+   "en": "housemaid",
+   "pos": "noun",
+   "group": "more",
+   "say": "ka-TU-long",
+   "note": "Lesson 15 gives katúlong = helper. From: Pakikikúha ko sa katúlong ang aking sapátos = I shall request the housemaid to get the shoes for me."
+  },
+  {
+   "id": "maaari-bang-m24",
+   "tl": "Maáarì bang…?",
+   "en": "May you…? (a request in question form)",
+   "pos": "expr",
+   "group": "more",
+   "say": "ma-A-a-riQ bang",
+   "note": "Maáarì followed by ba with the ligature -ng. From: Maáarì bang kúnin mo ang aking damít? = May you get my dress?"
   }
  ],
  "exercises": [

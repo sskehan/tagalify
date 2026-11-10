@@ -1879,6 +1879,11 @@
       "Gáling sa, mulâ sa, búhat sa = from. For a hometown, only mulâ sa or búhat sa.",
       "For time: mulâ / búhat (from) and hanggáng (until). Native speakers often drop sa."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -2256,6 +2261,150 @@
    "en": "juice (from young coconuts)",
    "pos": "phrase",
    "group": "trip"
+  },
+  {
+   "id": "sa-m26",
+   "tl": "sa",
+   "en": "in, to, from, for, on, into, over, through, at (does most of the jobs of English prepositions)",
+   "pos": "marker",
+   "group": "more",
+   "note": "Lesson 6 gives sa = in, at, on, to."
+  },
+  {
+   "id": "bukas-m26",
+   "tl": "búkas",
+   "en": "tomorrow",
+   "pos": "adv",
+   "group": "more",
+   "say": "BU-kas",
+   "note": "From: Pupuntá kamí sa Tagaytay búkas = We shall go to Tagaytay tomorrow."
+  },
+  {
+   "id": "galing-m26",
+   "tl": "gáling",
+   "en": "from (came from)",
+   "pos": "other",
+   "group": "more",
+   "say": "GA-ling",
+   "note": "Gáling, mula and búhat basically mean from. From: Gáling kamí sa Baguio = We came from Baguio."
+  },
+  {
+   "id": "mula-m26",
+   "tl": "mulâ",
+   "en": "from",
+   "pos": "other",
+   "group": "more",
+   "say": "mu-laQ",
+   "note": "The book also prints mula. Only mulâ and búhat are used for periods of time."
+  },
+  {
+   "id": "buhat-m26",
+   "tl": "búhat",
+   "en": "from",
+   "pos": "other",
+   "group": "more",
+   "say": "BU-hat",
+   "note": "Only mulâ and búhat are used for periods of time."
+  },
+  {
+   "id": "nabasa-m26",
+   "tl": "nabása",
+   "en": "what (I) read",
+   "pos": "verb",
+   "group": "more",
+   "say": "na-BA-sa",
+   "note": "From: Sa nabása ko, iyán ay hindî totoó = From what I read, that is not true."
+  },
+  {
+   "id": "nililinis-m26",
+   "tl": "nililinis",
+   "en": "cleans",
+   "pos": "verb",
+   "group": "more",
+   "note": "From: Nililinis niyá ang mga bintanà sa páaralán = She cleans the windows at school."
+  },
+  {
+   "id": "langit-m26",
+   "tl": "lángit",
+   "en": "heaven",
+   "pos": "noun",
+   "group": "more",
+   "say": "LA-ngit",
+   "note": "Lesson 7 gives lángit = sky. From: Táyo ay nása pagítan ng lángit at lupà = We are between heaven and earth."
+  },
+  {
+   "id": "lupa-m26",
+   "tl": "lupà",
+   "en": "earth",
+   "pos": "noun",
+   "group": "more",
+   "say": "LU-paQ",
+   "note": "Lesson 18 gives lupà = ground. From: Táyo ay nása pagítan ng lángit at lupà = We are between heaven and earth."
+  },
+  {
+   "id": "taga-maynila-m26",
+   "tl": "taga-Maynila",
+   "en": "from Manila (a native of Manila)",
+   "pos": "phrase",
+   "group": "more",
+   "note": "Given as another way to say: Ang áking iná ay búhat sa Maynila = My mother is from Manila."
+  },
+  {
+   "id": "mula-noon-m26",
+   "tl": "mulâ noón hanggáng sa ngayón",
+   "en": "since then until now",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "hanggang-ngayon-m26",
+   "tl": "hanggáng sa ngayón",
+   "en": "until now",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "klase-m26",
+   "tl": "klase",
+   "en": "class; classes",
+   "pos": "noun",
+   "group": "more",
+   "note": "From: Mulâ Lunes, umaga na ang klase námin = From Monday, our classes will be in the morning."
+  },
+  {
+   "id": "isang-linggo-m26",
+   "tl": "isang linggó",
+   "en": "next week",
+   "pos": "phrase",
+   "group": "more",
+   "say": "i-sang ling-GO",
+   "note": "From: Búhat sa isang linggó, kamí ay magkasama na = From next week, we will be together."
+  },
+  {
+   "id": "magkasama-m26",
+   "tl": "magkasama",
+   "en": "together",
+   "pos": "adj",
+   "group": "more",
+   "note": "From: Búhat sa isang linggó, kamí ay magkasama na = From next week, we will be together."
+  },
+  {
+   "id": "malamig-m26",
+   "tl": "malamíg",
+   "en": "cool",
+   "pos": "adj",
+   "group": "more",
+   "say": "ma-la-MIG",
+   "note": "Lesson 4 gives malamíg = cold. From: Búhat sa Oktubre hanggáng Pebrero, magiging malamíg na = From October to February, it will be cool."
+  },
+  {
+   "id": "itaas-m26",
+   "tl": "itaás",
+   "en": "top",
+   "pos": "noun",
+   "group": "more",
+   "say": "i-ta-AS",
+   "note": "The exercise vocabulary list gives top = tuktók; itaás."
   }
  ],
  "exercises": [

@@ -748,6 +748,11 @@
       "Roots ending in a vowel take -hin: pabasáhin, pabábasahin.",
       "Verbal nouns start with pagpa- and work like English -ing phrases."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -941,6 +946,32 @@
    "pos": "verb",
    "group": "words",
    "note": "Pinagupit niyá ang kanyáng buhók. He/She had a haircut."
+  },
+  {
+   "id": "bisita-m36",
+   "tl": "bisita",
+   "en": "visitors",
+   "pos": "noun",
+   "group": "more",
+   "note": "From: magpápakáin sa mga bisita = will feed (food to) visitors. Lesson 20 prints bisíta (visitor)."
+  },
+  {
+   "id": "namin-m36",
+   "tl": "namín",
+   "en": "by us",
+   "pos": "pron",
+   "group": "more",
+   "say": "na-MIN",
+   "note": "From: Pinakáin namín ang mahihírap na táo = The poor people were fed by us. Lesson 15 prints namin (by us)."
+  },
+  {
+   "id": "kanyang-m36",
+   "tl": "kanyáng",
+   "en": "his/her",
+   "pos": "pron",
+   "group": "more",
+   "say": "kan-YANG",
+   "note": "From: Pinagupit niyá ang kanyáng buhók = Had cut his/her hair. Lesson 13 gives kanyáng = her; Lesson 15 prints kanyang (his/her)."
   }
  ],
  "exercises": [

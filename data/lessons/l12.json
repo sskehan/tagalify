@@ -1293,6 +1293,11 @@
       "Walâ replaces may and mayroón: walâ akóng…, walâng táo…",
       "Answer a may or mayroón question with mayroón or walâ, never hindî."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -1384,6 +1389,81 @@
    "pos": "adj",
    "group": "may",
    "say": "ma-bu-TO"
+  },
+  {
+   "id": "masarap-m12",
+   "tl": "másarap",
+   "en": "delicious",
+   "pos": "adj",
+   "group": "more",
+   "say": "MA-sa-rap",
+   "note": "Lesson 4 prints masaráp"
+  },
+  {
+   "id": "dalawang-m12",
+   "tl": "dálawang",
+   "en": "two (with the ligature -ng)",
+   "pos": "num",
+   "group": "more",
+   "say": "DA-la-wang",
+   "note": "From: May dálawang áso sa kúlúngan. = There are two dogs in the cage."
+  },
+  {
+   "id": "mataas-m12",
+   "tl": "mataás",
+   "en": "tall",
+   "pos": "adj",
+   "group": "more",
+   "say": "ma-ta-AS",
+   "note": "Lesson 4 lists mataás = high"
+  },
+  {
+   "id": "taas-m12",
+   "tl": "taás",
+   "en": "height",
+   "pos": "noun",
+   "group": "more",
+   "say": "ta-AS",
+   "note": "may taás = literally, there is height"
+  },
+  {
+   "id": "may-dami-m12",
+   "tl": "may damí",
+   "en": "there are many",
+   "pos": "phrase",
+   "group": "more",
+   "note": "marámi (many) is may damí"
+  },
+  {
+   "id": "may-taas-m12",
+   "tl": "may taás",
+   "en": "there is height (literally)",
+   "pos": "phrase",
+   "group": "more",
+   "note": "mataás (tall) is may taás"
+  },
+  {
+   "id": "may-linis-m12",
+   "tl": "may linís",
+   "en": "there is clean",
+   "pos": "phrase",
+   "group": "more",
+   "note": "malinís (clean) is may linís"
+  },
+  {
+   "id": "ma-prefix-m12",
+   "tl": "ma-",
+   "en": "there is/are (with abstract nouns); having many (with concrete nouns)",
+   "pos": "other",
+   "group": "more",
+   "note": "A contracted form of may"
+  },
+  {
+   "id": "sa-aklatan-m12",
+   "tl": "sa aklatan",
+   "en": "in the library",
+   "pos": "phrase",
+   "group": "more"
   }
  ],
  "exercises": [

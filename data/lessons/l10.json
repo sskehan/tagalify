@@ -1240,6 +1240,11 @@
       "Ka, ko, mo and particles like na, pa, din, daw push ba further back.",
       "After a pseudo verb, use bang; if a pronoun follows ba, the pronoun takes -ng instead."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -1344,6 +1349,104 @@
    "pos": "verb",
    "group": "words",
    "say": "mag-sa-li-taQ"
+  },
+  {
+   "id": "ibig-m10",
+   "tl": "íbig",
+   "en": "like",
+   "pos": "verb",
+   "group": "more",
+   "say": "I-big",
+   "note": "From: Íbig bang umalís ng lalákí? = Does the man like to leave?"
+  },
+  {
+   "id": "puwede-m10",
+   "tl": "puwéde",
+   "en": "can",
+   "pos": "verb",
+   "group": "more",
+   "say": "pu-WE-de",
+   "note": "From: Puwéde ba akong umalís? = Can I go?"
+  },
+  {
+   "id": "dapat-m10",
+   "tl": "dápat",
+   "en": "should",
+   "pos": "verb",
+   "group": "more",
+   "say": "DA-pat",
+   "note": "From: Dápat ba siyáng magsalitâ? = Should he/she speak?"
+  },
+  {
+   "id": "magtiwala-m10",
+   "tl": "magtiwalà",
+   "en": "to trust",
+   "pos": "verb",
+   "group": "more",
+   "say": "mag-ti-WA-laQ",
+   "note": "From: Maáarì ba kamíng magtiwalà sa iyó? = Should we trust you?"
+  },
+  {
+   "id": "hindi-m10",
+   "tl": "Hindî",
+   "en": "no",
+   "pos": "other",
+   "group": "more",
+   "say": "hin-diQ",
+   "note": "From: Aalís ka ba? Oô/Hindî. = Are you leaving? Yes/No. Lesson 2 lists hindî = not"
+  },
+  {
+   "id": "lalaki-m10",
+   "tl": "lalákí",
+   "en": "man",
+   "pos": "noun",
+   "group": "more",
+   "say": "la-LA-KI",
+   "note": "From: Íbig bang umalís ng lalákí? = Does the man like to leave? Lesson 2 prints laláki"
+  },
+  {
+   "id": "malinis-m10",
+   "tl": "malinís",
+   "en": "clean",
+   "pos": "adj",
+   "group": "more",
+   "say": "ma-li-NIS",
+   "note": "From: Malinís daw ba ang batà? = Is the child clean as they say? Lesson 2 prints malínis"
+  },
+  {
+   "id": "ikaw-din-ba-m10",
+   "tl": "Ikáw din ba?",
+   "en": "You too?",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "ako-rin-ba-m10",
+   "tl": "Akó rin ba?",
+   "en": "Me too?",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "ikaw-daw-m10",
+   "tl": "Ikáw daw.",
+   "en": "They say it is you.",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "ako-raw-m10",
+   "tl": "Akó raw.",
+   "en": "They say it is I.",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "katipunan-m10",
+   "tl": "Katipunan",
+   "en": "the revolutionary movement fathered by Andres Bonifacio, who led the revolt of the masses against Spain",
+   "pos": "noun",
+   "group": "more"
   }
  ],
  "exercises": [

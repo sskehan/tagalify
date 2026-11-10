@@ -988,6 +988,11 @@
       "More than: lalóng / higít na / mas + adjective + káysa kay (person) or káysa sa (place or thing). Not as … as: hindi kasíng-.",
       "Very: magandáng-magandá or nápakagandá. Most: pinakámagandá."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more2",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -1219,6 +1224,181 @@
    "pos": "noun",
    "group": "words",
    "say": "I-log"
+  },
+  {
+   "id": "kasingganda-m11",
+   "tl": "kasínggandá",
+   "en": "as beautiful as",
+   "pos": "adj",
+   "group": "more2",
+   "say": "ka-SING-gan-DA",
+   "note": "From: Si Maria ay kasínggandá ni Elena. = Maria is as beautiful as Elena."
+  },
+  {
+   "id": "kasinggaling-m11",
+   "tl": "kasínggalíng",
+   "en": "as good as",
+   "pos": "adj",
+   "group": "more2",
+   "say": "ka-SING-ga-LING",
+   "note": "From: Kasínggalíng ni Rizal si Bonifacio. = Bonifacio is as good as Rizal."
+  },
+  {
+   "id": "magkasingganda-m11",
+   "tl": "magkasínggandá",
+   "en": "equally beautiful",
+   "pos": "adj",
+   "group": "more2",
+   "say": "mag-ka-SING-gan-DA",
+   "note": "From: Sina Maria at Elena ay magkasínggandá. = Maria and Elena are equally beautiful."
+  },
+  {
+   "id": "magkasinggaling-m11",
+   "tl": "magkasínggalíng",
+   "en": "equally good",
+   "pos": "adj",
+   "group": "more2",
+   "say": "mag-ka-SING-ga-LING",
+   "note": "From: Magkasínggalíng sina Rizal at Bonifacio. = Rizal and Bonifacio are equally good."
+  },
+  {
+   "id": "magkasintaas-m11",
+   "tl": "magkasíntaás",
+   "en": "equally tall",
+   "pos": "adj",
+   "group": "more2",
+   "say": "mag-ka-SIN-ta-AS",
+   "note": "From: Magkasíntaás kamí. = We are equally tall."
+  },
+  {
+   "id": "lalong-m11",
+   "tl": "lalóng",
+   "en": "more (laló + the ligature -ng)",
+   "pos": "adv",
+   "group": "more2",
+   "say": "la-LONG",
+   "note": "The vocabulary list prints lálo"
+  },
+  {
+   "id": "kasindunong-m11",
+   "tl": "kasíndúnong",
+   "en": "as bright as",
+   "pos": "adj",
+   "group": "more2",
+   "say": "ka-SIN-DU-nong",
+   "note": "From: Si John ay hindi kasíndúnong ni Peter. = John is not as bright as Peter."
+  },
+  {
+   "id": "kasimbait-m11",
+   "tl": "kasímbaít",
+   "en": "as good as",
+   "pos": "adj",
+   "group": "more2",
+   "say": "ka-SIM-ba-IT",
+   "note": "From: Ang aking anák ay hindî kasímbaít ng anák niyá. = My child is not as good as his/her child."
+  },
+  {
+   "id": "hindi-kasing-m11",
+   "tl": "hindi kasíng-",
+   "en": "not as … as",
+   "pos": "phrase",
+   "group": "more2",
+   "note": "Formula: A + hindi kasíng- + adjective + ni/ng + B"
+  },
+  {
+   "id": "matanda-m11",
+   "tl": "matandá",
+   "en": "the old",
+   "pos": "noun",
+   "group": "more2",
+   "say": "ma-tan-DA",
+   "note": "From: Ang matandá ay lalóng masípag káysa sa batà. = The old is more diligent than the young. Lesson 4 prints matandâ (old, animate)"
+  },
+  {
+   "id": "bata-young-m11",
+   "tl": "batà",
+   "en": "the young",
+   "pos": "noun",
+   "group": "more2",
+   "say": "BA-taQ",
+   "note": "From: Ang matandá ay lalóng masípag káysa sa batà. = The old is more diligent than the young. Lesson 2 lists batà = child"
+  },
+  {
+   "id": "matandang-matanda-m11",
+   "tl": "matandáng-matandâ",
+   "en": "very old",
+   "pos": "adj",
+   "group": "more2"
+  },
+  {
+   "id": "pangit-na-pangit-m11",
+   "tl": "pángit na pángit",
+   "en": "very ugly",
+   "pos": "adj",
+   "group": "more2"
+  },
+  {
+   "id": "masipag-na-masipag-m11",
+   "tl": "masípag na masípag",
+   "en": "very industrious",
+   "pos": "adj",
+   "group": "more2"
+  },
+  {
+   "id": "napakapangit-m11",
+   "tl": "nápakapangit",
+   "en": "very ugly",
+   "pos": "adj",
+   "group": "more2",
+   "say": "NA-pa-ka-pa-ngit"
+  },
+  {
+   "id": "napakasipag-m11",
+   "tl": "nápakasipag",
+   "en": "very industrious",
+   "pos": "adj",
+   "group": "more2",
+   "say": "NA-pa-ka-si-pag"
+  },
+  {
+   "id": "napakatanda-m11",
+   "tl": "nápakatandâ",
+   "en": "very old",
+   "pos": "adj",
+   "group": "more2",
+   "say": "NA-pa-ka-tan-daQ"
+  },
+  {
+   "id": "pinakapangit-m11",
+   "tl": "pinakápángit",
+   "en": "the ugliest",
+   "pos": "adj",
+   "group": "more2",
+   "say": "pi-na-KA-PA-ngit"
+  },
+  {
+   "id": "pinakamalinis-m11",
+   "tl": "pinakámalinís",
+   "en": "cleanest",
+   "pos": "adj",
+   "group": "more2",
+   "say": "pi-na-KA-ma-li-NIS"
+  },
+  {
+   "id": "pinakamasipag-m11",
+   "tl": "pinakámasípag",
+   "en": "most industrious",
+   "pos": "adj",
+   "group": "more2",
+   "say": "pi-na-KA-ma-SI-pag"
+  },
+  {
+   "id": "pinakamatanda-m11",
+   "tl": "pinakámatandâ",
+   "en": "oldest",
+   "pos": "adj",
+   "group": "more2",
+   "say": "pi-na-KA-ma-tan-daQ"
   }
  ],
  "exercises": [

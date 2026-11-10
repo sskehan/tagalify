@@ -493,6 +493,11 @@
       "One-syllable words take the stress of the word before them.",
       "A hyphen after a prefix marks a glottal stop."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -691,6 +696,418 @@
    "pos": "noun",
    "group": "stress",
    "say": "pagQ-I-big"
+  },
+  {
+   "id": "paa-m02",
+   "tl": "paá",
+   "en": "foot",
+   "pos": "noun",
+   "group": "more",
+   "say": "pa-A"
+  },
+  {
+   "id": "iyak-m02",
+   "tl": "iyák",
+   "en": "cry",
+   "pos": "noun",
+   "group": "more",
+   "say": "i-YAK"
+  },
+  {
+   "id": "ulo-m02",
+   "tl": "úlo",
+   "en": "head",
+   "pos": "noun",
+   "group": "more",
+   "say": "U-lo"
+  },
+  {
+   "id": "basa-m02",
+   "tl": "basa",
+   "en": "read",
+   "pos": "verb",
+   "group": "more"
+  },
+  {
+   "id": "antay-m02",
+   "tl": "antáy",
+   "en": "wait",
+   "pos": "verb",
+   "group": "more",
+   "say": "an-TAY"
+  },
+  {
+   "id": "ambon-m02",
+   "tl": "ambón",
+   "en": "shower, drizzle",
+   "pos": "noun",
+   "group": "more",
+   "say": "am-BON"
+  },
+  {
+   "id": "akyat-m02",
+   "tl": "akyát",
+   "en": "climb",
+   "pos": "verb",
+   "group": "more",
+   "say": "ak-YAT"
+  },
+  {
+   "id": "mapait-m02",
+   "tl": "mapaít",
+   "en": "bitter",
+   "pos": "adj",
+   "group": "more",
+   "say": "ma-pa-IT"
+  },
+  {
+   "id": "pait-m02",
+   "tl": "paít",
+   "en": "bitter",
+   "pos": "adj",
+   "group": "more",
+   "say": "pa-IT",
+   "note": "Printed pa-ít as an example of a VC syllable at the end of a word"
+  },
+  {
+   "id": "takbo-m02",
+   "tl": "takbó",
+   "en": "run",
+   "pos": "verb",
+   "group": "more",
+   "say": "tak-BO"
+  },
+  {
+   "id": "talon-m02",
+   "tl": "talón",
+   "en": "jump",
+   "pos": "verb",
+   "group": "more",
+   "say": "ta-LON"
+  },
+  {
+   "id": "ilaw-m02",
+   "tl": "ílaw",
+   "en": "light",
+   "pos": "noun",
+   "group": "more",
+   "say": "I-law"
+  },
+  {
+   "id": "bulaklakin-m02",
+   "tl": "bulaklákin",
+   "en": "flowery",
+   "pos": "adj",
+   "group": "more",
+   "say": "bu-lak-LA-kin",
+   "note": "Printed bu-lak-lá-kin: the suffix -in grabs the final consonant of bulaklák (flower)."
+  },
+  {
+   "id": "kumusta-m02",
+   "tl": "kumustá",
+   "en": "how are you",
+   "pos": "expr",
+   "group": "more",
+   "say": "ku-mus-TA",
+   "note": "Printed ku-mus-tá"
+  },
+  {
+   "id": "pang-apat-m02",
+   "tl": "pang-ápat",
+   "en": "fourth",
+   "pos": "num",
+   "group": "more",
+   "say": "pangQ-A-pat"
+  },
+  {
+   "id": "bumanat-m02",
+   "tl": "bumánat",
+   "en": "to strike",
+   "pos": "verb",
+   "group": "more",
+   "say": "bu-MA-nat",
+   "note": "Printed bu-má-nat"
+  },
+  {
+   "id": "laot-m02",
+   "tl": "laot",
+   "en": "sea",
+   "pos": "noun",
+   "group": "more",
+   "note": "Printed la-ot"
+  },
+  {
+   "id": "slang-m02",
+   "tl": "slang",
+   "en": "the local term for anyone who speaks Tagalog with an American accent (or with too many long a's, e's and o's)",
+   "pos": "noun",
+   "group": "more"
+  },
+  {
+   "id": "iniluto-m02",
+   "tl": "inilutò",
+   "en": "was cooked",
+   "pos": "verb",
+   "group": "more",
+   "say": "i-ni-LU-toQ"
+  },
+  {
+   "id": "ialis-m02",
+   "tl": "ialís",
+   "en": "to be removed",
+   "pos": "verb",
+   "group": "more",
+   "say": "i-a-LIS"
+  },
+  {
+   "id": "inalis-m02",
+   "tl": "inalís",
+   "en": "was removed",
+   "pos": "verb",
+   "group": "more",
+   "say": "i-na-LIS"
+  },
+  {
+   "id": "linisin-m02",
+   "tl": "linísin",
+   "en": "to be cleaned",
+   "pos": "verb",
+   "group": "more",
+   "say": "li-NI-sin"
+  },
+  {
+   "id": "alaala-m02",
+   "tl": "álaála",
+   "en": "gift, remembrance",
+   "pos": "noun",
+   "group": "more",
+   "say": "A-la-A-la"
+  },
+  {
+   "id": "kailangan-m02",
+   "tl": "kailángan",
+   "en": "needed",
+   "pos": "adj",
+   "group": "more",
+   "say": "ka-i-LA-ngan"
+  },
+  {
+   "id": "nasaan-m02",
+   "tl": "násaán",
+   "en": "where",
+   "pos": "adv",
+   "group": "more",
+   "say": "NA-sa-AN"
+  },
+  {
+   "id": "mabait-m02",
+   "tl": "mabaít",
+   "en": "good",
+   "pos": "adj",
+   "group": "more",
+   "say": "ma-ba-IT"
+  },
+  {
+   "id": "maliit-m02",
+   "tl": "maliit",
+   "en": "small",
+   "pos": "adj",
+   "group": "more"
+  },
+  {
+   "id": "paalam-m02",
+   "tl": "paalám",
+   "en": "goodbye",
+   "pos": "expr",
+   "group": "more",
+   "say": "pa-a-LAM"
+  },
+  {
+   "id": "maaari-m02",
+   "tl": "maaárì",
+   "en": "can be",
+   "pos": "verb",
+   "group": "more",
+   "say": "ma-a-A-riQ"
+  },
+  {
+   "id": "pinagkakaguluhan-m02",
+   "tl": "pinagkákaguluhán",
+   "en": "being mobbed",
+   "pos": "verb",
+   "group": "more",
+   "say": "pi-nag-KA-ka-gu-lu-HAN",
+   "note": "A long word with more than one stressed syllable"
+  },
+  {
+   "id": "mapagsamantala-m02",
+   "tl": "mapágsamantalâ",
+   "en": "opportunistic",
+   "pos": "adj",
+   "group": "more",
+   "say": "ma-PAG-sa-man-ta-laQ",
+   "note": "A long word with more than one stressed syllable"
+  },
+  {
+   "id": "kaibigan-desire-m02",
+   "tl": "kaibigán",
+   "en": "desire",
+   "pos": "noun",
+   "group": "more",
+   "say": "ka-i-bi-GAN",
+   "note": "Compare kaibígan (friend)"
+  },
+  {
+   "id": "kaibigan-mutual-m02",
+   "tl": "káibigán",
+   "en": "have mutual understanding with",
+   "pos": "verb",
+   "group": "more",
+   "say": "KA-i-bi-GAN"
+  },
+  {
+   "id": "kaibigan-sweetheart-m02",
+   "tl": "kaíbigan",
+   "en": "sweetheart",
+   "pos": "noun",
+   "group": "more",
+   "say": "ka-I-bi-gan",
+   "note": "Compare kaibígan (friend)"
+  },
+  {
+   "id": "makaalis-m02",
+   "tl": "makaalís",
+   "en": "to be able to leave",
+   "pos": "verb",
+   "group": "more",
+   "say": "ma-ka-a-LIS"
+  },
+  {
+   "id": "makaalis-unint-m02",
+   "tl": "makáalis",
+   "en": "to leave unintentionally",
+   "pos": "verb",
+   "group": "more",
+   "say": "ma-KA-a-lis"
+  },
+  {
+   "id": "matulog-unint-m02",
+   "tl": "matulóg",
+   "en": "to fall asleep unintentionally",
+   "pos": "verb",
+   "group": "more",
+   "say": "ma-tu-LOG"
+  },
+  {
+   "id": "luha-m02",
+   "tl": "luhà",
+   "en": "tears",
+   "pos": "noun",
+   "group": "more",
+   "say": "LU-haQ"
+  },
+  {
+   "id": "luhaan-m02",
+   "tl": "luhaán",
+   "en": "miserable",
+   "pos": "adj",
+   "group": "more",
+   "say": "lu-ha-AN",
+   "note": "From luhà (tears) + suffix"
+  },
+  {
+   "id": "punuin-m02",
+   "tl": "punuín",
+   "en": "to fill with",
+   "pos": "verb",
+   "group": "more",
+   "say": "pu-nu-IN",
+   "note": "From punô (full) + suffix"
+  },
+  {
+   "id": "susian-m02",
+   "tl": "susián",
+   "en": "keyhole",
+   "pos": "noun",
+   "group": "more",
+   "say": "su-si-AN",
+   "note": "From susì (key) + suffix"
+  },
+  {
+   "id": "kumain-m02",
+   "tl": "kumáin",
+   "en": "to eat",
+   "pos": "verb",
+   "group": "more",
+   "say": "ku-MA-in",
+   "note": "From: Kumain ká. = You may eat."
+  },
+  {
+   "id": "kumain-ka-m02",
+   "tl": "Kumain ká.",
+   "en": "You may eat.",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ku-ma-in KA"
+  },
+  {
+   "id": "hindi-m02",
+   "tl": "hindî",
+   "en": "not",
+   "pos": "adv",
+   "group": "more",
+   "say": "hin-diQ",
+   "note": "From: Hindi pá. = Not yet. / Hindi pô. = No, sir / madam."
+  },
+  {
+   "id": "hindi-pa-m02",
+   "tl": "Hindi pá.",
+   "en": "Not yet.",
+   "pos": "phrase",
+   "group": "more",
+   "say": "hin-di PA"
+  },
+  {
+   "id": "ganito-m02",
+   "tl": "ganitó",
+   "en": "like this",
+   "pos": "adv",
+   "group": "more",
+   "say": "ga-ni-TO",
+   "note": "From: Ganito bá? = Like this?"
+  },
+  {
+   "id": "ganito-ba-m02",
+   "tl": "Ganito bá?",
+   "en": "Like this?",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ga-ni-to BA"
+  },
+  {
+   "id": "malapit-m02",
+   "tl": "malápit",
+   "en": "near",
+   "pos": "adj",
+   "group": "more",
+   "say": "ma-LA-pit",
+   "note": "From: Malapit ná. = It is near."
+  },
+  {
+   "id": "malapit-na-m02",
+   "tl": "Malapit ná.",
+   "en": "It is near.",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ma-la-pit NA"
+  },
+  {
+   "id": "hindi-po-m02",
+   "tl": "Hindi pô.",
+   "en": "No, sir / madam.",
+   "pos": "phrase",
+   "group": "more",
+   "say": "hin-di PO"
   }
  ],
  "exercises": [

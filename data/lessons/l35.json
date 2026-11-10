@@ -1544,6 +1544,11 @@
       "dáhil sa = because of; sapagká't and mangyári = because (answering bakit).",
       "Interjections stand alone or join a sentence, and are for conversation, not formal writing."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more2",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -1762,6 +1767,200 @@
    "en": "shortened form of Jesus",
    "pos": "expr",
    "group": "feel"
+  },
+  {
+   "id": "samantala-m35",
+   "tl": "samantalá",
+   "en": "meanwhile, while",
+   "pos": "other",
+   "group": "more2",
+   "say": "sa-man-ta-LA",
+   "note": "Use with the present tense of verbs. Lesson 34 prints samantála."
+  },
+  {
+   "id": "pag-kung-m35",
+   "tl": "pag",
+   "en": "if",
+   "pos": "other",
+   "group": "more2",
+   "note": "Synonymous to kung. From: Pag umulán, hindî áko lálakad = If it rains, I shall not go. Lesson 29 gives pag as the shortened form of kapág."
+  },
+  {
+   "id": "umuulan-m35",
+   "tl": "umúulan",
+   "en": "it is raining",
+   "pos": "verb",
+   "group": "more2",
+   "say": "u-MU-u-lan",
+   "note": "From: Ibig kong umalís péro umúulan = I like to leave but it is raining."
+  },
+  {
+   "id": "umulan-m35",
+   "tl": "umulán",
+   "en": "it rains",
+   "pos": "verb",
+   "group": "more2",
+   "say": "u-mu-LAN",
+   "note": "From: Kung umulán, hindî áko lálakad = If it rains, I shall not go."
+  },
+  {
+   "id": "lalakad-m35",
+   "tl": "lálakad",
+   "en": "shall go",
+   "pos": "verb",
+   "group": "more2",
+   "say": "LA-la-kad",
+   "note": "From: Kung umulán, hindî áko lálakad = If it rains, I shall not go."
+  },
+  {
+   "id": "umawit-m35",
+   "tl": "umáwit",
+   "en": "sing",
+   "pos": "verb",
+   "group": "more2",
+   "say": "u-MA-wit",
+   "note": "From: Táyo ay umáwit samantaláng naghihintáy sa kanilá = Let us sing while waiting for them. Lesson 13 gives umáwit = sang."
+  },
+  {
+   "id": "maglalaba-m35",
+   "tl": "maglalabá",
+   "en": "shall do the laundry",
+   "pos": "verb",
+   "group": "more2",
+   "say": "mag-la-la-BA",
+   "note": "From: Samantaláng natútúlog ang sanggól, akó'y maglalabá = While the baby sleeps, I shall do the laundry."
+  },
+  {
+   "id": "maingay-m35",
+   "tl": "maingay",
+   "en": "noisy",
+   "pos": "adj",
+   "group": "more2",
+   "note": "From: Huwág kang maingay nang áko'y makatúlog = Do not be noisy so I can sleep. Lesson 7 prints maíngay. Lesson 39's vocabulary list also gives maingay = noisy."
+  },
+  {
+   "id": "naparito-m35",
+   "tl": "naparíto",
+   "en": "came",
+   "pos": "verb",
+   "group": "more2",
+   "say": "na-pa-RI-to",
+   "note": "From: Waláng naparíto kundî si Mary = Nobody came except Mary."
+  },
+  {
+   "id": "tutulong-m35",
+   "tl": "tútulong",
+   "en": "will help",
+   "pos": "verb",
+   "group": "more2",
+   "say": "TU-tu-long",
+   "note": "From: Síno ang tútulong sa ákin kundí ikáw? = Who will help me but you?"
+  },
+  {
+   "id": "umiyak-m35",
+   "tl": "umiyák",
+   "en": "cried",
+   "pos": "verb",
+   "group": "more2",
+   "say": "u-mi-YAK",
+   "note": "From: Umiyák siyá dáhil sa ákin = He cried because of me. Lesson 14 prints umiyàk (to cry)."
+  },
+  {
+   "id": "dadalo-m35",
+   "tl": "dádalo",
+   "en": "shall attend",
+   "pos": "verb",
+   "group": "more2",
+   "say": "DA-da-lo",
+   "note": "From: Dáhil sa iyó, áko ay dádalo sa pagdiríwang = Because of you, I shall attend the celebration."
+  },
+  {
+   "id": "ayoko-m35",
+   "tl": "ayoko",
+   "en": "I do not like",
+   "pos": "phrase",
+   "group": "more2",
+   "note": "From: Hindî ka mabaít, samakatuwíd, ayoko sa iyó = You are not nice, therefore, I do not like you."
+  },
+  {
+   "id": "pagpalain-m35",
+   "tl": "pagpaláin",
+   "en": "may bless",
+   "pos": "verb",
+   "group": "more2",
+   "say": "pag-pa-LA-in",
+   "note": "From: At sa wakás, pagpaláin kayó ng Diyós = Finally, may God bless you."
+  },
+  {
+   "id": "diyos-m35",
+   "tl": "Diyós",
+   "en": "God",
+   "pos": "noun",
+   "group": "more2",
+   "say": "di-YOS",
+   "note": "From: At sa wakás, pagpaláin kayó ng Diyós = Finally, may God bless you."
+  },
+  {
+   "id": "hirap-m35",
+   "tl": "hírap",
+   "en": "hard",
+   "pos": "adj",
+   "group": "more2",
+   "say": "HI-rap",
+   "note": "From: Ay! Ang hírap ng búhay = What a hard life!"
+  },
+  {
+   "id": "buhay-m35",
+   "tl": "búhay",
+   "en": "life",
+   "pos": "noun",
+   "group": "more2",
+   "say": "BU-hay",
+   "note": "From: Ay! Ang hírap ng búhay = What a hard life! Lesson 38 prints buhay."
+  },
+  {
+   "id": "masakit-m35",
+   "tl": "masakít",
+   "en": "aching",
+   "pos": "adj",
+   "group": "more2",
+   "say": "ma-sa-KIT",
+   "note": "From: Aráy! Masakít ang ulo ko = My head is aching!"
+  },
+  {
+   "id": "ulo-m35",
+   "tl": "ulo",
+   "en": "head",
+   "pos": "noun",
+   "group": "more2",
+   "note": "From: Aráy! Masakít ang ulo ko = My head is aching! Lesson 2 prints úlo."
+  },
+  {
+   "id": "ganda-m35",
+   "tl": "gandá",
+   "en": "beautiful",
+   "pos": "adj",
+   "group": "more2",
+   "say": "gan-DA",
+   "note": "From: Nakú! Ang gandá ng báhay mo! = Your house is beautiful!"
+  },
+  {
+   "id": "nawala-m35",
+   "tl": "nawalâ",
+   "en": "was lost",
+   "pos": "verb",
+   "group": "more2",
+   "say": "na-wa-laQ",
+   "note": "From: Nawalâ ang pera ko. Sáyang! = My money was lost. What a pity!"
+  },
+  {
+   "id": "nagsusulat-m35",
+   "tl": "nagsúsulat",
+   "en": "writes",
+   "pos": "verb",
+   "group": "more2",
+   "say": "nag-SU-su-lat",
+   "note": "From: Nagsúsulat siyá, gabí at áraw = He writes night and day. Lesson 26 prints nagsúsulát (usually write)."
   }
  ],
  "exercises": [

@@ -1296,6 +1296,11 @@
       "Stressed má- and maká- show accidental or unintentional actions, keep their accent in every tense, and have no imperative.",
       "Stressed maká- repeats ka in the present and future: nakákatulog, makákatulog."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -1760,6 +1765,625 @@
    "pos": "noun",
    "group": "words",
    "say": "pu-TOK"
+  },
+  {
+   "id": "tulog-root-m18",
+   "tl": "túlog",
+   "en": "sleep",
+   "pos": "verb",
+   "group": "more",
+   "say": "TU-log",
+   "note": "Root of matúlog and makatúlog"
+  },
+  {
+   "id": "kita-see-m18",
+   "tl": "kíta",
+   "en": "see",
+   "pos": "verb",
+   "group": "more",
+   "say": "KI-ta",
+   "note": "Root of mákita"
+  },
+  {
+   "id": "ligo-root-m18",
+   "tl": "ligó",
+   "en": "bathe",
+   "pos": "verb",
+   "group": "more",
+   "say": "li-GO",
+   "note": "Root of makáligó"
+  },
+  {
+   "id": "natutulog-m18",
+   "tl": "natútulog",
+   "en": "sleeps/sleep",
+   "pos": "verb",
+   "group": "more",
+   "say": "na-TU-tu-log",
+   "note": "Present of matúlog. Lesson 12 prints natutúlog (sleeping)"
+  },
+  {
+   "id": "matutulog-m18",
+   "tl": "matútulog",
+   "en": "will sleep",
+   "pos": "verb",
+   "group": "more",
+   "say": "ma-TU-tu-log",
+   "note": "Future of matúlog"
+  },
+  {
+   "id": "nakita-m18",
+   "tl": "nákíta",
+   "en": "saw",
+   "pos": "verb",
+   "group": "more",
+   "say": "NA-KI-ta",
+   "note": "Past of mákita. From: Nákíta ko si Mary sa palengke kahapon. = I saw Mary in the market yesterday."
+  },
+  {
+   "id": "nakikita-m18",
+   "tl": "nákikita",
+   "en": "sees/see",
+   "pos": "verb",
+   "group": "more",
+   "say": "NA-ki-ki-ta",
+   "note": "Present of mákita"
+  },
+  {
+   "id": "makikita-m18",
+   "tl": "mákikita",
+   "en": "will see",
+   "pos": "verb",
+   "group": "more",
+   "say": "MA-ki-ki-ta",
+   "note": "Future of mákita"
+  },
+  {
+   "id": "nakatulog-m18",
+   "tl": "nakatúlog",
+   "en": "was/were able to sleep",
+   "pos": "verb",
+   "group": "more",
+   "say": "na-ka-TU-log",
+   "note": "Past of makatúlog. From: Nakatúlog kagabi ang maysakít. = The sick person was able to sleep last night."
+  },
+  {
+   "id": "nakatutulog-m18",
+   "tl": "nakatútulog",
+   "en": "is/are able to sleep",
+   "pos": "verb",
+   "group": "more",
+   "say": "na-ka-TU-tu-log",
+   "note": "Present of makatúlog"
+  },
+  {
+   "id": "makatutulog-m18",
+   "tl": "makatútulog",
+   "en": "will be able to sleep",
+   "pos": "verb",
+   "group": "more",
+   "say": "ma-ka-TU-tu-log",
+   "note": "Future of makatúlog"
+  },
+  {
+   "id": "natulog-acc-m18",
+   "tl": "nátulog",
+   "en": "slept unintentionally",
+   "pos": "verb",
+   "group": "more",
+   "say": "NA-tu-log",
+   "note": "Past of mátulog. From: Nátulog ang laláki sa loób ng simbáhan. = The man fell asleep (without meaning to) inside the church."
+  },
+  {
+   "id": "natutulog-acc-m18",
+   "tl": "nátutulog",
+   "en": "sleeps unintentionally",
+   "pos": "verb",
+   "group": "more",
+   "say": "NA-tu-tu-log",
+   "note": "Present of mátulog"
+  },
+  {
+   "id": "matutulog-acc-m18",
+   "tl": "mátutulog",
+   "en": "will sleep unintentionally",
+   "pos": "verb",
+   "group": "more",
+   "say": "MA-tu-tu-log",
+   "note": "Future of mátulog"
+  },
+  {
+   "id": "makatulog-acc-m18",
+   "tl": "makátulog",
+   "en": "to sleep unintentionally",
+   "pos": "verb",
+   "group": "more",
+   "say": "ma-KA-tu-log",
+   "note": "Stressed maká- + tulog"
+  },
+  {
+   "id": "nakatulog-acc-m18",
+   "tl": "nakátulog",
+   "en": "slept unintentionally",
+   "pos": "verb",
+   "group": "more",
+   "say": "na-KA-tu-log",
+   "note": "Past of makátulog"
+  },
+  {
+   "id": "nakakatulog-acc-m18",
+   "tl": "nakákatulog",
+   "en": "sleeps/sleep unintentionally",
+   "pos": "verb",
+   "group": "more",
+   "say": "na-KA-ka-tu-log",
+   "note": "Present of makátulog"
+  },
+  {
+   "id": "makakatulog-acc-m18",
+   "tl": "makákatulog",
+   "en": "will sleep unintentionally",
+   "pos": "verb",
+   "group": "more",
+   "say": "ma-KA-ka-tu-log",
+   "note": "Future of makátulog"
+  },
+  {
+   "id": "makaligo-acc-m18",
+   "tl": "makáligó",
+   "en": "bathe unintentionally",
+   "pos": "verb",
+   "group": "more",
+   "say": "ma-KA-li-GO",
+   "note": "Stressed maká- + ligó"
+  },
+  {
+   "id": "nakaligo-acc-m18",
+   "tl": "nakáligó",
+   "en": "bathed unintentionally",
+   "pos": "verb",
+   "group": "more",
+   "say": "na-KA-li-GO",
+   "note": "Past of makáligó"
+  },
+  {
+   "id": "nakakaligo-acc-m18",
+   "tl": "nakákaligó",
+   "en": "bathe/bathes unintentionally",
+   "pos": "verb",
+   "group": "more",
+   "say": "na-KA-ka-li-GO",
+   "note": "Present of makáligó"
+  },
+  {
+   "id": "makakaligo-acc-m18",
+   "tl": "makákaligó",
+   "en": "will bathe unintentionally",
+   "pos": "verb",
+   "group": "more",
+   "say": "ma-KA-ka-li-GO",
+   "note": "Future of makáligó"
+  },
+  {
+   "id": "nang-maaga-m18",
+   "tl": "nang maága",
+   "en": "early",
+   "pos": "phrase",
+   "group": "more",
+   "say": "nang ma-A-ga",
+   "note": "From: Ang mga batà ay dapat matúlog nang maága. = Children should sleep early."
+  },
+  {
+   "id": "nagutom-m18",
+   "tl": "nagútom",
+   "en": "got hungry",
+   "pos": "verb",
+   "group": "more",
+   "say": "na-GU-tom",
+   "note": "From: Nagútom ako kagabí pagkatápos mag-áral. = I got hungry last night after studying."
+  },
+  {
+   "id": "kagabi2-m18",
+   "tl": "kagabi",
+   "en": "last night",
+   "pos": "adv",
+   "group": "more",
+   "note": "Also printed kagabí. From: Nakatúlog kagabi ang maysakít. = The sick person was able to sleep last night."
+  },
+  {
+   "id": "pagkatapos-m18",
+   "tl": "pagkatápos",
+   "en": "after",
+   "pos": "other",
+   "group": "more",
+   "say": "pag-ka-TA-pos",
+   "note": "From: Nagútom ako kagabí pagkatápos mag-áral. = I got hungry last night after studying."
+  },
+  {
+   "id": "nagagalit-m18",
+   "tl": "nagagálit",
+   "en": "gets angry",
+   "pos": "verb",
+   "group": "more",
+   "say": "na-ga-GA-lit",
+   "note": "From: Nagagálit ang aking iná sa mga bátang matigás ang úlo. = My mother gets angry with hard-headed (or stubborn) children."
+  },
+  {
+   "id": "matigas-ang-ulo-m18",
+   "tl": "matigás ang úlo",
+   "en": "hard-headed (or stubborn)",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ma-ti-GAS ang U-lo",
+   "note": "From: Nagagálit ang aking iná sa mga bátang matigás ang úlo. = My mother gets angry with hard-headed (or stubborn) children."
+  },
+  {
+   "id": "palengke-m18",
+   "tl": "palengke",
+   "en": "market",
+   "pos": "noun",
+   "group": "more",
+   "note": "Lesson 16 prints paléngke. From: Nákíta ko si Mary sa palengke kahapon. = I saw Mary in the market yesterday."
+  },
+  {
+   "id": "kahapon-m18",
+   "tl": "kahapon",
+   "en": "yesterday",
+   "pos": "adv",
+   "group": "more",
+   "note": "Lesson 14 prints kahápon. From: Nákíta ko si Mary sa palengke kahapon. = I saw Mary in the market yesterday."
+  },
+  {
+   "id": "makukuha-m18",
+   "tl": "makukúha",
+   "en": "can get",
+   "pos": "verb",
+   "group": "more",
+   "say": "ma-ku-KU-ha",
+   "note": "From: Makukúha mo na ang iyong suwéldo. = You can get your salary now."
+  },
+  {
+   "id": "suweldo-m18",
+   "tl": "suwéldo",
+   "en": "salary",
+   "pos": "noun",
+   "group": "more",
+   "say": "su-WEL-do",
+   "note": "From: Makukúha mo na ang iyong suwéldo. = You can get your salary now."
+  },
+  {
+   "id": "maysakit-person-m18",
+   "tl": "maysakít",
+   "en": "the sick person",
+   "pos": "noun",
+   "group": "more",
+   "say": "may-sa-KIT",
+   "note": "Lesson 7 prints máysakit (the sick person); Lesson 16 glosses maysakít as sick. From: Nakatúlog kagabi ang maysakít. = The sick person was able to sleep last night."
+  },
+  {
+   "id": "hindi-m18",
+   "tl": "hindi",
+   "en": "not",
+   "pos": "adv",
+   "group": "more",
+   "note": "Lesson 2 prints hindî. From: Hindi ako makaligò kung malamíg. = I cannot take a bath when it is cold."
+  },
+  {
+   "id": "kung-when-m18",
+   "tl": "kung",
+   "en": "when",
+   "pos": "other",
+   "group": "more",
+   "note": "Lesson 7 glosses kung as if (as does this lesson's exercise). From: Hindi ako makaligò kung malamíg. = I cannot take a bath when it is cold."
+  },
+  {
+   "id": "nakahiga-able-m18",
+   "tl": "nakahigâ",
+   "en": "are able to lie",
+   "pos": "verb",
+   "group": "more",
+   "say": "na-ka-hi-gaQ",
+   "note": "The vocabulary list glosses nakahigâ as lying down. From: Ang mga batà ay nakahigâ sa lupà. = The children are able to lie on the ground."
+  },
+  {
+   "id": "lupa-m18",
+   "tl": "lupà",
+   "en": "ground",
+   "pos": "noun",
+   "group": "more",
+   "say": "LU-paQ",
+   "note": "Lesson 7 prints lúpa (land). From: Ang mga batà ay nakahigâ sa lupà. = The children are able to lie on the ground."
+  },
+  {
+   "id": "nakabubuhay-m18",
+   "tl": "nakabúbuhay",
+   "en": "is able to give life",
+   "pos": "verb",
+   "group": "more",
+   "say": "na-ka-BU-bu-hay",
+   "note": "From: Ang pag-ása ay nakabúbuhay. = Hope is able to give life."
+  },
+  {
+   "id": "naaalala-m18",
+   "tl": "náaalala",
+   "en": "think of",
+   "pos": "verb",
+   "group": "more",
+   "say": "NA-a-a-la-la",
+   "note": "From: Náaalala ko ang aking anák sa gabí bago matúlog. = I think of my child at night before sleeping."
+  },
+  {
+   "id": "bago-before-m18",
+   "tl": "bago",
+   "en": "before",
+   "pos": "other",
+   "group": "more",
+   "note": "Lesson 4 glosses bágo as new. From: Náaalala ko ang aking anák sa gabí bago matúlog. = I think of my child at night before sleeping."
+  },
+  {
+   "id": "dadalhin-m18",
+   "tl": "dadalhín",
+   "en": "will bring",
+   "pos": "verb",
+   "group": "more",
+   "say": "da-dal-HIN",
+   "note": "From the exercise: ...sa dadalhín mong regálo. = ...with the gift you will bring."
+  },
+  {
+   "id": "pagkawala-m18",
+   "tl": "pagkawalà",
+   "en": "loss",
+   "pos": "noun",
+   "group": "more",
+   "say": "pag-ka-WA-laQ",
+   "note": "From the exercise: ...kamí sa pagkawalà ng iyóng singsíng. = We were saddened by the loss of your ring."
+  },
+  {
+   "id": "iyong-m18",
+   "tl": "iyóng",
+   "en": "your",
+   "pos": "pron",
+   "group": "more",
+   "say": "i-YONG",
+   "note": "Lesson 17 prints iyong. From the exercise: ...sa pagkawalà ng iyóng singsíng. = ...by the loss of your ring."
+  },
+  {
+   "id": "singsing-m18",
+   "tl": "singsíng",
+   "en": "ring",
+   "pos": "noun",
+   "group": "more",
+   "say": "sing-SING",
+   "note": "From the exercise: ...sa pagkawalà ng iyóng singsíng. = ...by the loss of your ring."
+  },
+  {
+   "id": "kabilang-m18",
+   "tl": "kabiláng",
+   "en": "other",
+   "pos": "adj",
+   "group": "more",
+   "say": "ka-bi-LANG",
+   "note": "From the exercise: Sa kabiláng palengke ... si Tess ng gulay. = Tess was able to get vegetables from the other market."
+  },
+  {
+   "id": "gulay-m18",
+   "tl": "gulay",
+   "en": "vegetables",
+   "pos": "noun",
+   "group": "more",
+   "note": "Lesson 7 prints gúlay. From the exercise: Sa kabiláng palengke ... si Tess ng gulay. = Tess was able to get vegetables from the other market."
+  },
+  {
+   "id": "malakas-loud-m18",
+   "tl": "malakás",
+   "en": "loud",
+   "pos": "adj",
+   "group": "more",
+   "say": "ma-la-KAS",
+   "note": "Lesson 2 glosses malakás as strong. From the exercise: Kung malakás ang tugtog mo... = If your music is loud..."
+  },
+  {
+   "id": "tugtog-m18",
+   "tl": "tugtog",
+   "en": "music",
+   "pos": "noun",
+   "group": "more",
+   "note": "From the exercise: Kung malakás ang tugtog mo, hindî ka... = If your music is loud, you will not be heard."
+  },
+  {
+   "id": "nakita-chance-m18",
+   "tl": "nákita",
+   "en": "saw (by chance)",
+   "pos": "verb",
+   "group": "more",
+   "say": "NA-ki-ta",
+   "note": "From: Nákita ko siyá sa palengke. = I saw her (by chance) at the market."
+  },
+  {
+   "id": "nakain-m18",
+   "tl": "nákain",
+   "en": "ate (accidentally)",
+   "pos": "verb",
+   "group": "more",
+   "say": "NA-ka-in",
+   "note": "From: Nákain ko ang lúmang tinápay. = I (accidentally) ate the stale bread."
+  },
+  {
+   "id": "lumang-m18",
+   "tl": "lúmang",
+   "en": "stale",
+   "pos": "adj",
+   "group": "more",
+   "say": "LU-mang",
+   "note": "lúma + -ng. From: Nákain ko ang lúmang tinápay. = I (accidentally) ate the stale bread."
+  },
+  {
+   "id": "narinig-m18",
+   "tl": "nárinig",
+   "en": "heard (by chance)",
+   "pos": "verb",
+   "group": "more",
+   "say": "NA-ri-nig",
+   "note": "From: Nárinig námin ang kánilang áwit. = We heard (by chance) their song."
+  },
+  {
+   "id": "namin-we-m18",
+   "tl": "námin",
+   "en": "we (as the doer)",
+   "pos": "pron",
+   "group": "more",
+   "say": "NA-min",
+   "note": "Lesson 8 glosses námin as our. From: Nárinig námin ang kánilang áwit. = We heard (by chance) their song."
+  },
+  {
+   "id": "kanilang-m18",
+   "tl": "kánilang",
+   "en": "their",
+   "pos": "pron",
+   "group": "more",
+   "say": "KA-ni-lang",
+   "note": "Lesson 15 prints kanilàng. From: Nárinig námin ang kánilang áwit. = We heard (by chance) their song."
+  },
+  {
+   "id": "awit-m18",
+   "tl": "áwit",
+   "en": "song",
+   "pos": "noun",
+   "group": "more",
+   "say": "A-wit",
+   "note": "Also the root of awítin, to sing. From: Nárinig námin ang kánilang áwit. = We heard (by chance) their song."
+  },
+  {
+   "id": "nabangga-m18",
+   "tl": "nábanggâ",
+   "en": "bumped (accidentally)",
+   "pos": "verb",
+   "group": "more",
+   "say": "NA-bang-gaQ",
+   "note": "From: Nábanggâ ang kotse sa padér. = The car (accidentally) bumped against the wall."
+  },
+  {
+   "id": "pader-m18",
+   "tl": "padér",
+   "en": "wall",
+   "pos": "noun",
+   "group": "more",
+   "say": "pa-DER",
+   "note": "From: Nábanggâ ang kotse sa padér. = The car (accidentally) bumped against the wall."
+  },
+  {
+   "id": "nakabaril-m18",
+   "tl": "nakábaril",
+   "en": "shot (accidentally)",
+   "pos": "verb",
+   "group": "more",
+   "say": "na-KA-ba-ril",
+   "note": "From: Nakábaril ng pulís ang magnanakaw. = The robber (accidentally) shot the policeman."
+  },
+  {
+   "id": "pulis-m18",
+   "tl": "pulís",
+   "en": "policeman",
+   "pos": "noun",
+   "group": "more",
+   "say": "pu-LIS",
+   "note": "From: Nakábaril ng pulís ang magnanakaw. = The robber (accidentally) shot the policeman."
+  },
+  {
+   "id": "magnanakaw-m18",
+   "tl": "magnanakaw",
+   "en": "robber",
+   "pos": "noun",
+   "group": "more",
+   "note": "From: Nakábaril ng pulís ang magnanakaw. = The robber (accidentally) shot the policeman."
+  },
+  {
+   "id": "nakapulot-m18",
+   "tl": "nakápulot",
+   "en": "picked up (by chance)",
+   "pos": "verb",
+   "group": "more",
+   "say": "na-KA-pu-lot",
+   "note": "From: Nakápulot ang batà ng sampûng píso. = The child (by chance) picked up ten pesos."
+  },
+  {
+   "id": "sampung-piso-m18",
+   "tl": "sampûng píso",
+   "en": "ten pesos",
+   "pos": "phrase",
+   "group": "more",
+   "say": "sam-pung PI-so",
+   "note": "From: Nakápulot ang batà ng sampûng píso. = The child (by chance) picked up ten pesos."
+  },
+  {
+   "id": "nakarinig-m18",
+   "tl": "nakárinig",
+   "en": "heard (by chance)",
+   "pos": "verb",
+   "group": "more",
+   "say": "na-KA-ri-nig",
+   "note": "From: Nakárinig siyá ng putók. = He heard (by chance) an explosion."
+  },
+  {
+   "id": "nakadalaw-m18",
+   "tl": "nakádalaw",
+   "en": "visited (without meaning to)",
+   "pos": "verb",
+   "group": "more",
+   "say": "na-KA-da-law",
+   "note": "From: Nakádalaw si Maria sa kaniyáng iná. = Maria visited her mother (without meaning to)."
+  },
+  {
+   "id": "kaniyang-m18",
+   "tl": "kaniyáng",
+   "en": "her",
+   "pos": "pron",
+   "group": "more",
+   "say": "ka-ni-YANG",
+   "note": "From: Nakádalaw si Maria sa kaniyáng iná. = Maria visited her mother (without meaning to)."
+  },
+  {
+   "id": "loob-m18",
+   "tl": "loób",
+   "en": "inside",
+   "pos": "noun",
+   "group": "more",
+   "say": "lo-OB",
+   "note": "From: Nátulog ang laláki sa loób ng simbáhan. = The man fell asleep (without meaning to) inside the church."
+  },
+  {
+   "id": "nakabili-m18",
+   "tl": "nakábili",
+   "en": "bought (without previous intention)",
+   "pos": "verb",
+   "group": "more",
+   "say": "na-KA-bi-li",
+   "note": "From: Nakábili siya ng magandáng sapátos sa Marikina. = She bought (without previous intention) pretty shoes in Marikina."
+  },
+  {
+   "id": "siya-m18",
+   "tl": "siya",
+   "en": "she",
+   "pos": "pron",
+   "group": "more",
+   "note": "Lesson 6 prints siyá. From: Nakábili siya ng magandáng sapátos sa Marikina. = She bought (without previous intention) pretty shoes in Marikina."
+  },
+  {
+   "id": "magandang-m18",
+   "tl": "magandáng",
+   "en": "pretty",
+   "pos": "adj",
+   "group": "more",
+   "say": "ma-gan-DANG",
+   "note": "From: Nakábili siya ng magandáng sapátos sa Marikina. = She bought (without previous intention) pretty shoes in Marikina."
+  },
+  {
+   "id": "malamig-m18",
+   "tl": "malamìg",
+   "en": "cold",
+   "pos": "adj",
+   "group": "more",
+   "note": "Printed with a grave accent in the exercise; Lesson 4 prints malamíg. From: ...if (kung) the water is not cold (malamìg)."
   }
  ],
  "exercises": [

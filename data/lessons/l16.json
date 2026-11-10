@@ -636,6 +636,11 @@
       "**Ng** introduces the receiver of an action, an owner, or the doer of an -in- verb.",
       "Plural: **ang mga** and **ng mga**."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -704,6 +709,118 @@
    "pos": "noun",
    "group": "words",
    "say": "ti-NA-pay"
+  },
+  {
+   "id": "ng-a-m16",
+   "tl": "ng",
+   "en": "of; a, an",
+   "pos": "marker",
+   "group": "more",
+   "note": "The book says ng may be translated using the English preposition of or the indefinite articles a and an"
+  },
+  {
+   "id": "masipag-m16",
+   "tl": "masípag",
+   "en": "diligent",
+   "pos": "adj",
+   "group": "more",
+   "say": "ma-SI-pag",
+   "note": "Lesson 6 glosses masípag as industrious. From: Ang batà ay mabaít at masípag. = The child is good and diligent."
+  },
+  {
+   "id": "kumakain-m16",
+   "tl": "kumakain",
+   "en": "is eating",
+   "pos": "verb",
+   "group": "more",
+   "note": "Lessons 5 and 14 print kumákain and kumakáin. From: Kumakain ng manggà ang dalaga. = The young woman is eating a mango."
+  },
+  {
+   "id": "sumulat-m16",
+   "tl": "sumúlat",
+   "en": "wrote",
+   "pos": "verb",
+   "group": "more",
+   "say": "su-MU-lat",
+   "note": "Lesson 14 glosses sumúlat as to write. From: Akó ay sumúlat ng kuwénto. = I wrote a story."
+  },
+  {
+   "id": "bumili-m16",
+   "tl": "bumilí",
+   "en": "bought",
+   "pos": "verb",
+   "group": "more",
+   "say": "bu-mi-LI",
+   "note": "Lesson 14 glosses bumilí as to buy. Also printed Bumili. From: Bumilí ng mga prutas ang lóla. = The grandmother bought fruits."
+  },
+  {
+   "id": "pagkain-m16",
+   "tl": "pagkain",
+   "en": "food",
+   "pos": "noun",
+   "group": "more",
+   "note": "Lesson 2 prints pagkáin. From: Bumili ng pagkain ang babáe. = The woman bought food."
+  },
+  {
+   "id": "nagluto-m16",
+   "tl": "nagluto",
+   "en": "cooked",
+   "pos": "verb",
+   "group": "more",
+   "note": "Lesson 14 prints naglutò. From: Si Elena ay nagluto ng manók. = Elena cooked the chicken."
+  },
+  {
+   "id": "nagpunta-m16",
+   "tl": "nagpuntá",
+   "en": "went",
+   "pos": "verb",
+   "group": "more",
+   "say": "nag-pun-TA",
+   "note": "From: Ang iná ng báta ay nagpuntá sa paléngke. = The child's mother went to the market."
+  },
+  {
+   "id": "kinain-m16",
+   "tl": "kináin",
+   "en": "ate",
+   "pos": "verb",
+   "group": "more",
+   "say": "ki-NA-in",
+   "note": "From: Kináin ng áso ang tinápay. = The dog ate the bread."
+  },
+  {
+   "id": "malalaki-m16",
+   "tl": "malalakì",
+   "en": "big (plural)",
+   "pos": "adj",
+   "group": "more",
+   "say": "ma-la-LA-kiQ",
+   "note": "Lesson 6 prints malalakí. From: Ang mga báhay ng magkákapatid na babáe ay malalakì. = The sisters' houses are big."
+  },
+  {
+   "id": "magkakapatid-na-babae-m16",
+   "tl": "magkákapatid na babáe",
+   "en": "sisters",
+   "pos": "phrase",
+   "group": "more",
+   "say": "mag-KA-ka-pa-tid na ba-BA-e",
+   "note": "From: Ang mga báhay ng magkákapatid na babáe ay malalakì. = The sisters' houses are big."
+  },
+  {
+   "id": "aklat-m16",
+   "tl": "aklàt",
+   "en": "book",
+   "pos": "noun",
+   "group": "more",
+   "say": "AK-latQ",
+   "note": "Lesson 4 prints aklát. From: Binilí ng batáng babáe ang aklàt. = The girl bought the book."
+  },
+  {
+   "id": "prutas-m16",
+   "tl": "prutas",
+   "en": "fruits",
+   "pos": "noun",
+   "group": "more",
+   "note": "Lesson 15 prints prútas. From: Bumilí ng mga prutas ang lóla. = The grandmother bought fruits."
   }
  ],
  "exercises": [

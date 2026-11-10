@@ -828,6 +828,11 @@
       "A pronoun subject always comes right after magkaroón; a si or ang subject can come after magkaroón or after the object.",
       "Put hindî before magkaroón for the negative."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -945,6 +950,208 @@
    "pos": "phrase",
    "group": "extra",
    "say": "su-su-NOD na bu-WAN"
+  },
+  {
+   "id": "radyo-m20",
+   "tl": "radyo",
+   "en": "radio",
+   "pos": "noun",
+   "group": "more",
+   "note": "Lesson 1 and this lesson's sentences print rádyo"
+  },
+  {
+   "id": "trabaho-m20",
+   "tl": "trabáho",
+   "en": "work",
+   "pos": "noun",
+   "group": "more",
+   "say": "tra-BA-ho",
+   "note": "Lesson 12 glosses trabáho as job"
+  },
+  {
+   "id": "magkaroon-ng-pera-m20",
+   "tl": "magkaroón ng pera",
+   "en": "to have money",
+   "pos": "phrase",
+   "group": "more",
+   "say": "mag-ka-ro-ON nang pe-ra",
+   "note": "Short form: magkapera"
+  },
+  {
+   "id": "magkapera-m20",
+   "tl": "magkapera",
+   "en": "to have money",
+   "pos": "verb",
+   "group": "more",
+   "note": "Short form of magkaroón ng pera"
+  },
+  {
+   "id": "nagkaroon-ng-pera-m20",
+   "tl": "nagkaroón ng pera",
+   "en": "had money",
+   "pos": "phrase",
+   "group": "more",
+   "say": "nag-ka-ro-ON nang pe-ra",
+   "note": "Past. Short form: nagkapera"
+  },
+  {
+   "id": "nagkapera-m20",
+   "tl": "nagkapera",
+   "en": "had money",
+   "pos": "verb",
+   "group": "more",
+   "note": "Past; short form of nagkaroón ng pera"
+  },
+  {
+   "id": "nagkakaroon-ng-pera-m20",
+   "tl": "nagkakaroón ng pera",
+   "en": "has money",
+   "pos": "phrase",
+   "group": "more",
+   "say": "nag-ka-ka-ro-ON nang pe-ra",
+   "note": "Present. Short form: nagkákapera"
+  },
+  {
+   "id": "nagkakapera-m20",
+   "tl": "nagkákapera",
+   "en": "has money",
+   "pos": "verb",
+   "group": "more",
+   "say": "nag-KA-ka-pe-ra",
+   "note": "Present; short form of nagkakaroón ng pera"
+  },
+  {
+   "id": "magkakaroon-ng-pera-m20",
+   "tl": "magkakaroón ng pera",
+   "en": "will have money",
+   "pos": "phrase",
+   "group": "more",
+   "say": "mag-ka-ka-ro-ON nang pe-ra",
+   "note": "Future. Short form: magkakapera"
+  },
+  {
+   "id": "magkakapera-m20",
+   "tl": "magkakapera",
+   "en": "will have money",
+   "pos": "verb",
+   "group": "more",
+   "note": "Future; short form of magkakaroón ng pera"
+  },
+  {
+   "id": "aso-m20",
+   "tl": "asó",
+   "en": "dog",
+   "pos": "noun",
+   "group": "more",
+   "say": "a-SO",
+   "note": "Lesson 4 prints áso. From: Nagkaroón si Maria ng asó. = Maria had a dog."
+  },
+  {
+   "id": "nagkaanak-m20",
+   "tl": "nagkaanák",
+   "en": "had (a child)",
+   "pos": "verb",
+   "group": "more",
+   "say": "nag-ka-a-NAK",
+   "note": "nagka- + anák. From: Nagkaanák siyá ng kambál. = She had twins."
+  },
+  {
+   "id": "kambal-m20",
+   "tl": "kambál",
+   "en": "twins",
+   "pos": "noun",
+   "group": "more",
+   "say": "kam-BAL",
+   "note": "From: Nagkaanák siyá ng kambál. = She had twins."
+  },
+  {
+   "id": "nagkakaubo-m20",
+   "tl": "nagkákaubó",
+   "en": "have a cough",
+   "pos": "verb",
+   "group": "more",
+   "say": "nag-KA-ka-u-BO",
+   "note": "From: Nagkákaubó ako kapág malamíg. = I have a cough when the weather is cold."
+  },
+  {
+   "id": "kapag-m20",
+   "tl": "kapág",
+   "en": "when",
+   "pos": "other",
+   "group": "more",
+   "say": "ka-PAG",
+   "note": "From: Nagkákaroón ako ng ubó kapág malamíg. = I have a cough when the weather is cold."
+  },
+  {
+   "id": "magkakabisita-m20",
+   "tl": "magkákabisita",
+   "en": "will have visitors",
+   "pos": "verb",
+   "group": "more",
+   "say": "mag-KA-ka-bi-si-ta",
+   "note": "From: Magkákabisita kamí. = We will have visitors."
+  },
+  {
+   "id": "nagkasakit-m20",
+   "tl": "nagkasakít",
+   "en": "got sick",
+   "pos": "verb",
+   "group": "more",
+   "say": "nag-ka-sa-KIT",
+   "note": "From: Nagkasakít ang batà. = The child got sick."
+  },
+  {
+   "id": "nagkakaanay-m20",
+   "tl": "nagkákaánay",
+   "en": "has termites",
+   "pos": "verb",
+   "group": "more",
+   "say": "nag-KA-ka-A-nay",
+   "note": "From: Nagkákaánay ang báhay. = The house has termites."
+  },
+  {
+   "id": "magkakatrabaho-m20",
+   "tl": "magkákatrabáho",
+   "en": "will have a job",
+   "pos": "verb",
+   "group": "more",
+   "say": "mag-KA-ka-tra-BA-ho",
+   "note": "From: Magkákatrabáho na si Pedro. = Pedro will have a job."
+  },
+  {
+   "id": "nagkakabulaklak-m20",
+   "tl": "nagkákabulaklák",
+   "en": "bear flowers",
+   "pos": "verb",
+   "group": "more",
+   "say": "nag-KA-ka-bu-lak-LAK",
+   "note": "From: Hindî nagkákabulaklák ang taním. = The plant does not bear flowers."
+  },
+  {
+   "id": "nagkabahay-m20",
+   "tl": "nagkabáhay",
+   "en": "had a house",
+   "pos": "verb",
+   "group": "more",
+   "say": "nag-ka-BA-hay",
+   "note": "From: Hindî sila nagkabáhay. = They did not have a house."
+  },
+  {
+   "id": "magkakaradyo-m20",
+   "tl": "magkakarádyo",
+   "en": "will have a radio",
+   "pos": "verb",
+   "group": "more",
+   "say": "mag-ka-ka-RAD-yo",
+   "note": "From: Hindî kamí magkakarádyo. = We will not have a radio."
+  },
+  {
+   "id": "sila-m20",
+   "tl": "sila",
+   "en": "they",
+   "pos": "pron",
+   "group": "more",
+   "note": "Lesson 3 prints silá. From: Hindî sila nagkabáhay. = They did not have a house."
   }
  ],
  "exercises": [

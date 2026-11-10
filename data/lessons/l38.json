@@ -1056,6 +1056,11 @@
       "Ma- verbs: **pag-** for actions (pagligò), **pagka-** for feelings (pagkagálit).",
       "Use **ang** (or **ang mga**) in front of the gerund."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -1238,6 +1243,102 @@
    "pos": "verb",
    "group": "verbs",
    "say": "tug-tu-GIN"
+  },
+  {
+   "id": "patungong-m38",
+   "tl": "patungong",
+   "en": "for (heading to)",
+   "pos": "other",
+   "group": "more",
+   "note": "From: Siyá ay umalís patungong Estados Unidos = He left for the United States."
+  },
+  {
+   "id": "ikinalungkot-m38",
+   "tl": "ikinalungkót",
+   "en": "made (me) sad",
+   "pos": "verb",
+   "group": "more",
+   "say": "i-ki-na-lung-KOT",
+   "note": "From: Ang kanyáng pag-alís ay ikinalungkót ko = His departure made me sad."
+  },
+  {
+   "id": "mahirap-m38",
+   "tl": "mahirap",
+   "en": "difficult; tough",
+   "pos": "adj",
+   "group": "more",
+   "note": "From: Ang pagtataním ng hasmín ay mahirap = Planting jasmine is difficult; Ang paghuhúgas ng pinggán ay mahirap na trabaho = Washing dishes is a tough job. Lesson 4 prints mahírap (poor; difficult)."
+  },
+  {
+   "id": "trabaho-m38",
+   "tl": "trabaho",
+   "en": "job",
+   "pos": "noun",
+   "group": "more",
+   "note": "From the lesson's vocabulary list. Lesson 12 prints trabáho."
+  },
+  {
+   "id": "pinakisulat-m38",
+   "tl": "pinakisúlat",
+   "en": "requested (someone) to write",
+   "pos": "verb",
+   "group": "more",
+   "say": "pi-na-ki-SU-lat",
+   "note": "From: Pinakisúlat ko ang áking takdáng-aralín sa kanyá = I requested her to write my homework for me."
+  },
+  {
+   "id": "di-mabuti-m38",
+   "tl": "dî-mabuti",
+   "en": "not good",
+   "pos": "adj",
+   "group": "more",
+   "say": "diQ-ma-bu-ti",
+   "note": "From: Ang pakíkisúlat ko ng takdáng-aralín sa kanya ay dî-mabuti = My request that she write my homework is not good."
+  },
+  {
+   "id": "natakot-m38",
+   "tl": "natákot",
+   "en": "was afraid",
+   "pos": "verb",
+   "group": "more",
+   "say": "na-TA-kot",
+   "note": "From: Natákot akó sa kanyáng pagkagálit = I was afraid of his being angry."
+  },
+  {
+   "id": "umiyak-m38",
+   "tl": "umiyák",
+   "en": "to cry",
+   "pos": "verb",
+   "group": "more",
+   "say": "u-mi-YAK",
+   "note": "Practice list. Lesson 14 prints umiyàk."
+  },
+  {
+   "id": "umawit-m38",
+   "tl": "umáwit",
+   "en": "to sing",
+   "pos": "verb",
+   "group": "more",
+   "say": "u-MA-wit",
+   "note": "Practice list. Lesson 14 prints umàwit; Lesson 13 gives umáwit = sang."
+  },
+  {
+   "id": "magsalita-m38",
+   "tl": "magsalitâ",
+   "en": "to speak",
+   "pos": "verb",
+   "group": "more",
+   "say": "mag-sa-li-taQ",
+   "note": "Practice list. Lesson 10 gives magsalitâ = to speak up."
+  },
+  {
+   "id": "sakyan-m38",
+   "tl": "sakyán",
+   "en": "to ride",
+   "pos": "verb",
+   "group": "more",
+   "say": "sak-YAN",
+   "note": "Practice list. Lesson 33 gives sakyán = to go aboard."
   }
  ],
  "exercises": [

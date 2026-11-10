@@ -552,6 +552,11 @@
       "Magíng is the infinitive and the imperative: Magíng mabaít! (Be kind!)",
       "Past: nagíng. Present: nagíging. Future: magíging."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -621,6 +626,142 @@
    "pos": "noun",
    "group": "words",
    "say": "a-bu-GA-do"
+  },
+  {
+   "id": "maging-mabait-m19",
+   "tl": "magíng mabaít",
+   "en": "to become good (or to be good); to be kind; Be kind!",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ma-GING ma-ba-IT",
+   "note": "Infinitive and imperative of magíng + mabaít"
+  },
+  {
+   "id": "maging-pilipino-m19",
+   "tl": "magíng Pilipino",
+   "en": "to become a Filipino (or to be a Filipino)",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ma-GING Pi-li-pi-no"
+  },
+  {
+   "id": "maging-masama-m19",
+   "tl": "magíng masamâ",
+   "en": "to become bad (or to be bad)",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ma-GING ma-sa-maQ"
+  },
+  {
+   "id": "maging-guro-m19",
+   "tl": "magíng gurò",
+   "en": "to become a teacher (or to be a teacher)",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ma-GING GU-roQ",
+   "note": "From: Gustó kong magíng gurò. = I want to become a teacher."
+  },
+  {
+   "id": "maging-abugado-m19",
+   "tl": "magíng abugádo",
+   "en": "to become a lawyer (or to be a lawyer)",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ma-GING a-bu-GA-do"
+  },
+  {
+   "id": "maging-tahimik-m19",
+   "tl": "magíng tahímik",
+   "en": "to become quiet (or to be quiet)",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ma-GING ta-HI-mik"
+  },
+  {
+   "id": "maging-mayaman-m19",
+   "tl": "magíng mayáman",
+   "en": "to become rich (or to be rich)",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ma-GING ma-YA-man"
+  },
+  {
+   "id": "maging-bulag-m19",
+   "tl": "magíng bulág",
+   "en": "to become blind (or to be blind)",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ma-GING bu-LAG",
+   "note": "From: Mahírap magíng bulág. = It is difficult to go blind."
+  },
+  {
+   "id": "naging-mabait-m19",
+   "tl": "nagíng mabaít",
+   "en": "became kind",
+   "pos": "phrase",
+   "group": "more",
+   "say": "na-GING ma-ba-IT",
+   "note": "Past"
+  },
+  {
+   "id": "nagiging-mabait-m19",
+   "tl": "nagíging mabaít",
+   "en": "become kind",
+   "pos": "phrase",
+   "group": "more",
+   "say": "na-GI-ging ma-ba-IT",
+   "note": "Present. From: Ang anák niya ay nagíging mabaít na ngayón. = Her/his child is becoming good now."
+  },
+  {
+   "id": "magiging-mabait-m19",
+   "tl": "magíging mabaít",
+   "en": "will become kind",
+   "pos": "phrase",
+   "group": "more",
+   "say": "ma-GI-ging ma-ba-IT",
+   "note": "Future"
+  },
+  {
+   "id": "kapitbahay-m19",
+   "tl": "kapitbáhay",
+   "en": "neighbor",
+   "pos": "noun",
+   "group": "more",
+   "say": "ka-pit-BA-hay",
+   "note": "Lesson 16 and this lesson's sentences print kápitbahay"
+  },
+  {
+   "id": "tahimik-m19",
+   "tl": "tahímik",
+   "en": "quiet/peaceful",
+   "pos": "adj",
+   "group": "more",
+   "say": "ta-HI-mik",
+   "note": "Lesson 7 glosses tahímik as quiet"
+  },
+  {
+   "id": "lahat-m19",
+   "tl": "lahat",
+   "en": "all",
+   "pos": "other",
+   "group": "more",
+   "note": "From: Kailángang magíng malusóg ang lahat ng mga batà. = All children need to be healthy."
+  },
+  {
+   "id": "aming-m19",
+   "tl": "aming",
+   "en": "our",
+   "pos": "pron",
+   "group": "more",
+   "note": "From: Nagíging tahímik na ang aming báhay. = Our house is becoming quiet now."
+  },
+  {
+   "id": "namin-our-m19",
+   "tl": "namin",
+   "en": "our",
+   "pos": "pron",
+   "group": "more",
+   "note": "Lesson 8 prints námin. From: Nagíng kápitbahay namin silá. = They were once our neighbors."
   }
  ],
  "exercises": [

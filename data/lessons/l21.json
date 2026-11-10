@@ -1020,6 +1020,11 @@
       "Real thinking: umisip, mag-isíp (active), isípin (passive).",
       "Pumuntá = go to a place (also come). For go + verb, use the second verb alone: lumangóy, matutulog."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -1181,6 +1186,207 @@
    "en": "What will you do?",
    "pos": "expr",
    "group": "ask"
+  },
+  {
+   "id": "akala-m21",
+   "tl": "akalà",
+   "en": "assumption; to think",
+   "pos": "noun",
+   "group": "more",
+   "say": "a-KA-laQ",
+   "note": "The opening paragraph prints akalá (to think). From: Ang akalà ko Amerikáno siyá = My assumption is that he is an American."
+  },
+  {
+   "id": "isip-m21",
+   "tl": "isip",
+   "en": "to think",
+   "pos": "noun",
+   "group": "more",
+   "note": "Lesson 14 prints ísip."
+  },
+  {
+   "id": "pumunta-m21",
+   "tl": "pumuntá",
+   "en": "to go; can also mean to come",
+   "pos": "verb",
+   "group": "more",
+   "say": "pu-mun-TA",
+   "note": "From: Pumuntá ka díto = Come here."
+  },
+  {
+   "id": "uulan-m21",
+   "tl": "úulan",
+   "en": "will rain",
+   "pos": "verb",
+   "group": "more",
+   "say": "U-u-lan",
+   "note": "From: Tila úulan = It seems it will rain."
+  },
+  {
+   "id": "sagot-m21",
+   "tl": "sagot",
+   "en": "answer",
+   "pos": "noun",
+   "group": "more",
+   "note": "From: Ang sagot niyá ay tila mali = His/her answer seems wrong."
+  },
+  {
+   "id": "mali-m21",
+   "tl": "mali",
+   "en": "wrong",
+   "pos": "adj",
+   "group": "more",
+   "note": "From: Ang sagot niyá ay tila mali = His/her answer seems wrong. The exercises print malí."
+  },
+  {
+   "id": "matalino-m21",
+   "tl": "matalíno",
+   "en": "intelligent",
+   "pos": "adj",
+   "group": "more",
+   "say": "ma-ta-LI-no",
+   "note": "Lesson 8 prints matalino. From: Sa akalà ko ikaw ay matalíno = I think you are an intelligent man."
+  },
+  {
+   "id": "may-sakit-m21",
+   "tl": "may sakít",
+   "en": "sick",
+   "pos": "phrase",
+   "group": "more",
+   "say": "may sa-KIT",
+   "note": "The vocabulary list prints maysakít. From: Sa akalà nila, siyá'y may sakít = They think he is sick."
+  },
+  {
+   "id": "ng-lahat-m21",
+   "tl": "ng lahat",
+   "en": "of everybody",
+   "pos": "phrase",
+   "group": "more"
+  },
+  {
+   "id": "umiisip-m21",
+   "tl": "umiísip",
+   "en": "is thinking",
+   "pos": "verb",
+   "group": "more",
+   "say": "u-mi-I-sip",
+   "note": "From: Umiísip siyá ng lálong mabúting paraán = He is thinking of a better way."
+  },
+  {
+   "id": "iniisip-m21",
+   "tl": "iniísip",
+   "en": "thinks about",
+   "pos": "verb",
+   "group": "more",
+   "say": "i-ni-I-sip",
+   "note": "From: Iniísip niyá ang kanyáng mga sinásabi = She thinks about what she says."
+  },
+  {
+   "id": "sinasabi-m21",
+   "tl": "sinásabi",
+   "en": "what (she) says",
+   "pos": "verb",
+   "group": "more",
+   "say": "si-NA-sa-bi",
+   "note": "From: Iniísip niyá ang kanyáng mga sinásabi = She thinks about what she says."
+  },
+  {
+   "id": "magagawa-m21",
+   "tl": "magagawâ",
+   "en": "what can be done",
+   "pos": "verb",
+   "group": "more",
+   "say": "ma-ga-ga-waQ",
+   "note": "From: Mag-isíp ka ng magagawâ = (You) Think of what can be done."
+  },
+  {
+   "id": "dito-m21",
+   "tl": "díto",
+   "en": "here",
+   "pos": "adv",
+   "group": "more",
+   "say": "DI-to",
+   "note": "Lesson 13 prints dito. From: Pumuntá ka díto = Come here."
+  },
+  {
+   "id": "doon-m21",
+   "tl": "doón",
+   "en": "there",
+   "pos": "adv",
+   "group": "more",
+   "say": "do-ON",
+   "note": "From: Pumuntá ka doón = Go there."
+  },
+  {
+   "id": "maynila-m21",
+   "tl": "Mayníla",
+   "en": "Manila",
+   "pos": "noun",
+   "group": "more",
+   "say": "may-NI-la",
+   "note": "The background chapter prints Maynilà. From: Pumupuntá siyá sa Mayníla áraw-áraw = He/She goes to Manila everyday."
+  },
+  {
+   "id": "maglakad-m21",
+   "tl": "maglákad",
+   "en": "walk (you go to walk)",
+   "pos": "verb",
+   "group": "more",
+   "say": "mag-LA-kad",
+   "note": "Lesson 14 prints maglakád. From: Maglákad ka = You go to walk (or You walk)."
+  },
+  {
+   "id": "natutulog-m21",
+   "tl": "natútúlog",
+   "en": "are sleeping",
+   "pos": "verb",
+   "group": "more",
+   "say": "na-TU-TU-log",
+   "note": "Lesson 12 prints natutúlog. From: Natútúlog sila sa kabilâng kuwarto = They are sleeping in the next room."
+  },
+  {
+   "id": "kabilang-m21",
+   "tl": "kabilâng",
+   "en": "next (the next room)",
+   "pos": "adj",
+   "group": "more",
+   "say": "ka-bi-lang",
+   "note": "From: Natútúlog sila sa kabilâng kuwarto = They are sleeping in the next room."
+  },
+  {
+   "id": "kuwarto-m21",
+   "tl": "kuwarto",
+   "en": "room",
+   "pos": "noun",
+   "group": "more",
+   "note": "From: Natútúlog sila sa kabilâng kuwarto = They are sleeping in the next room."
+  },
+  {
+   "id": "tanong-m21",
+   "tl": "tanóng",
+   "en": "ask",
+   "pos": "verb",
+   "group": "more",
+   "say": "ta-NONG",
+   "note": "From the exercise verb list."
+  },
+  {
+   "id": "sulat-m21",
+   "tl": "súlat",
+   "en": "write",
+   "pos": "verb",
+   "group": "more",
+   "say": "SU-lat",
+   "note": "Lesson 15 gives súlat = letter. From the exercise verb list."
+  },
+  {
+   "id": "laro-m21",
+   "tl": "larô",
+   "en": "play",
+   "pos": "verb",
+   "group": "more",
+   "say": "la-roQ",
+   "note": "From the exercise verb list."
   }
  ],
  "exercises": [

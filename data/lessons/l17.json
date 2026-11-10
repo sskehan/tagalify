@@ -950,6 +950,11 @@
       "Rule 3: others take akóng / siyáng with an active verb, and niyáng with an -in- verb.",
       "Rule 4: a pseudo verb ending in a vowel takes -ng (gustóng); ibig needs nothing."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -1057,6 +1062,124 @@
    "en": "elder brother",
    "pos": "noun",
    "group": "words"
+  },
+  {
+   "id": "mag-aral-m17",
+   "tl": "mag-áral",
+   "en": "to learn",
+   "pos": "verb",
+   "group": "more",
+   "say": "mag-A-ral",
+   "note": "Lesson 14 glosses mag-áral as to study"
+  },
+  {
+   "id": "lumakad-m17",
+   "tl": "lumákad",
+   "en": "go",
+   "pos": "verb",
+   "group": "more",
+   "say": "lu-MA-kad",
+   "note": "From: Maáarì kayóng lumákad na. = You (plural) may go already."
+  },
+  {
+   "id": "maligo-m17",
+   "tl": "maligò",
+   "en": "take a bath",
+   "pos": "verb",
+   "group": "more",
+   "say": "ma-LI-goQ",
+   "note": "From: Kailángang maligò tayo araw-araw. = We need to take a bath everyday."
+  },
+  {
+   "id": "araw-araw-m17",
+   "tl": "araw-araw",
+   "en": "everyday",
+   "pos": "adv",
+   "group": "more",
+   "note": "Lesson 15 prints áraw-áraw. From: Kailángang maligò tayo araw-araw. = We need to take a bath everyday."
+  },
+  {
+   "id": "tayo-m17",
+   "tl": "tayo",
+   "en": "we",
+   "pos": "pron",
+   "group": "more",
+   "note": "Lesson 6 prints táyo. From: Kailángang maligò tayo araw-araw. = We need to take a bath everyday."
+  },
+  {
+   "id": "aralin-m17",
+   "tl": "arálin",
+   "en": "learn",
+   "pos": "verb",
+   "group": "more",
+   "say": "a-RA-lin",
+   "note": "From: Gustó kong arálin ang Tagálog. = I want to learn Tagalog."
+  },
+  {
+   "id": "sulatin-m17",
+   "tl": "sulatín",
+   "en": "be written",
+   "pos": "verb",
+   "group": "more",
+   "say": "su-la-TIN",
+   "note": "Lesson 15 prints sulátin (to write). From: Dapat sulatín ni Peter ang kanyang kuwénto ngayóng gabi. = His/Her story must be written by Peter tonight."
+  },
+  {
+   "id": "ngayong-gabi-m17",
+   "tl": "ngayóng gabi",
+   "en": "tonight",
+   "pos": "phrase",
+   "group": "more",
+   "say": "nga-YONG ga-bi",
+   "note": "From: Dapat sulatín ni Peter ang kanyang kuwénto ngayóng gabi. = His/Her story must be written by Peter tonight."
+  },
+  {
+   "id": "mo-by-you-m17",
+   "tl": "mo",
+   "en": "by you",
+   "pos": "pron",
+   "group": "more",
+   "note": "Lesson 8 glosses mo as your. From: Maáarì bang linísin mo ang aking sapátos? = Could my shoes be cleaned by you?"
+  },
+  {
+   "id": "aking-m17",
+   "tl": "aking",
+   "en": "my",
+   "pos": "pron",
+   "group": "more",
+   "note": "Lesson 15 prints áking. From: Dapat akóng sumúlat sa aking kaibígan sa Estados Unidos. = I must write to my friend in the United States."
+  },
+  {
+   "id": "estados-unidos-m17",
+   "tl": "Estados Unidos",
+   "en": "the United States",
+   "pos": "noun",
+   "group": "more",
+   "note": "Lesson 4 prints Estados Unídos. From: Dapat akóng sumúlat sa aking kaibígan sa Estados Unidos. = I must write to my friend in the United States."
+  },
+  {
+   "id": "iyong-m17",
+   "tl": "iyong",
+   "en": "your",
+   "pos": "pron",
+   "group": "more",
+   "note": "iyó + -ng. From: Maáarì akong maglínis ng iyong sapátos. = I can clean your shoes."
+  },
+  {
+   "id": "kumain-m17",
+   "tl": "kumain",
+   "en": "to eat",
+   "pos": "verb",
+   "group": "more",
+   "note": "Lesson 2 prints kumáin. From: Áyaw siyáng kumain ng balút. = He/She does not like to eat balut."
+  },
+  {
+   "id": "balut-m17",
+   "tl": "balut",
+   "en": "steamed duck embryo",
+   "pos": "noun",
+   "group": "more",
+   "note": "The vocabulary list prints balút. From: He/She does not like balut (steamed duck embryo) to be eaten."
   }
  ],
  "exercises": [

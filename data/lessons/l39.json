@@ -583,6 +583,11 @@
       "Naka- participles have **no tense forms**.",
       "Do not confuse them with the past tense of **maka-** verbs, which show ability (Lesson 18)."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -651,6 +656,39 @@
    "pos": "adj",
    "group": "naka",
    "say": "na-ka-ma-ONG"
+  },
+  {
+   "id": "sinehan-m39",
+   "tl": "sinehan",
+   "en": "movie house",
+   "pos": "noun",
+   "group": "more",
+   "note": "From the lesson's vocabulary list (the exercise prints sinehán). Lesson 1 prints sinehán."
+  },
+  {
+   "id": "sa-tabi-ng-m39",
+   "tl": "sa tabí ng",
+   "en": "by",
+   "pos": "phrase",
+   "group": "more",
+   "say": "sa ta-BI ng",
+   "note": "From: Nakatayô sa tabí ng pintô ang áking iná = My mother is standing by the door."
+  },
+  {
+   "id": "sumama-m39",
+   "tl": "sumama",
+   "en": "come along",
+   "pos": "verb",
+   "group": "more",
+   "note": "From: Puwéde ka sumama pero dápat nakamaóng ka = You may come along but you should be in jeans."
+  },
+  {
+   "id": "pero-m39",
+   "tl": "pero",
+   "en": "but",
+   "pos": "other",
+   "group": "more",
+   "note": "From: Puwéde ka sumama pero dápat nakamaóng ka = You may come along but you should be in jeans. Lesson 35 prints péro."
   }
  ],
  "exercises": [

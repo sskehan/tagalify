@@ -1033,6 +1033,11 @@
       "Two or more names: kina / para kina. Pronouns already have plural forms, so sa / para sa stay the same.",
       "Informally you may hear sa kay, sa kina; the sa can be left out."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -1124,6 +1129,41 @@
    "en": "for (before two or more names)",
    "pos": "marker",
    "group": "prep"
+  },
+  {
+   "id": "para-sa-iyo-m27",
+   "tl": "para sa iyó",
+   "en": "for you",
+   "pos": "phrase",
+   "group": "more",
+   "say": "pa-ra sa i-YO",
+   "note": "From: Itó ay regalo ko para sa iyó = This is my gift for you."
+  },
+  {
+   "id": "para-sa-kanila-m27",
+   "tl": "para sa kanilá",
+   "en": "for them",
+   "pos": "phrase",
+   "group": "more",
+   "say": "pa-ra sa ka-ni-LA",
+   "note": "From: Iyán ay para sa kanilá = That is for them."
+  },
+  {
+   "id": "sa-kanya-m27",
+   "tl": "sa kanyá",
+   "en": "to him",
+   "pos": "phrase",
+   "group": "more",
+   "say": "sa kan-YA",
+   "note": "From: Magbayad kayó ng útang sa kanyá = Pay your debt to him."
+  },
+  {
+   "id": "sa-kina-m27",
+   "tl": "sa kina",
+   "en": "to (two or more names; informal)",
+   "pos": "marker",
+   "group": "more",
+   "note": "From: Magbayad ka sa kina G. at Gng. Smith = You pay to Mr. and Mrs. Smith. The sa may be left out."
   }
  ],
  "exercises": [

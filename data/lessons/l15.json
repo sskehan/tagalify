@@ -1286,6 +1286,11 @@
       "-hin after a vowel without a glottal catch; -in after a consonant or a glottal catch.",
       "Irregular: bilhín, dalhín, kánin, sundín, dakpín, and ni- before l, w, y (nilutò)."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more2",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -1641,6 +1646,321 @@
    "pos": "noun",
    "group": "words",
    "say": "mag-sa-sa-KA"
+  },
+  {
+   "id": "alis-remove-m15",
+   "tl": "alís",
+   "en": "remove",
+   "pos": "verb",
+   "group": "more2",
+   "say": "a-LIS",
+   "note": "Root of alisín. Lesson 14 glosses alís as leave"
+  },
+  {
+   "id": "inaalis-m15",
+   "tl": "ináalis",
+   "en": "is/are removing",
+   "pos": "verb",
+   "group": "more2",
+   "say": "i-NA-a-lis",
+   "note": "Present of alisín"
+  },
+  {
+   "id": "aalisin-m15",
+   "tl": "áalisin",
+   "en": "will remove",
+   "pos": "verb",
+   "group": "more2",
+   "say": "A-a-li-sin",
+   "note": "Future of alisín. From: Áalisin niya ang kanyang sapátos. = His/Her shoes will be removed by him/her. The exercise page prints Aalisín"
+  },
+  {
+   "id": "basa-wet-m15",
+   "tl": "basâ",
+   "en": "wet",
+   "pos": "verb",
+   "group": "more2",
+   "say": "ba-saQ",
+   "note": "Root of basaín"
+  },
+  {
+   "id": "binasa-wet-m15",
+   "tl": "binasâ",
+   "en": "wetted",
+   "pos": "verb",
+   "group": "more2",
+   "say": "bi-na-saQ",
+   "note": "Past of basaín"
+  },
+  {
+   "id": "binabasa-wet-m15",
+   "tl": "binábasâ",
+   "en": "is/are wetting",
+   "pos": "verb",
+   "group": "more2",
+   "say": "bi-NA-ba-saQ",
+   "note": "Present of basaín"
+  },
+  {
+   "id": "babasain-m15",
+   "tl": "bábasaín",
+   "en": "will wet",
+   "pos": "verb",
+   "group": "more2",
+   "say": "BA-ba-sa-IN",
+   "note": "Future of basaín"
+  },
+  {
+   "id": "basa-read-m15",
+   "tl": "bása",
+   "en": "read",
+   "pos": "verb",
+   "group": "more2",
+   "say": "BA-sa",
+   "note": "Root of basáhin. Lesson 2 prints basa"
+  },
+  {
+   "id": "binasa-read-m15",
+   "tl": "binása",
+   "en": "read (past); was read",
+   "pos": "verb",
+   "group": "more2",
+   "say": "bi-NA-sa",
+   "note": "Past of basáhin. From: Binása ko ang súlat. = Was read by me the letter. (I read the letter.)"
+  },
+  {
+   "id": "binabasa-read-m15",
+   "tl": "binábasa",
+   "en": "is/are reading",
+   "pos": "verb",
+   "group": "more2",
+   "say": "bi-NA-ba-sa",
+   "note": "Present of basáhin"
+  },
+  {
+   "id": "babasahin-m15",
+   "tl": "babasahín",
+   "en": "will read",
+   "pos": "verb",
+   "group": "more2",
+   "say": "ba-ba-sa-HIN",
+   "note": "Future of basáhin as printed in the table"
+  },
+  {
+   "id": "babasahin-be-m15",
+   "tl": "bábasahin",
+   "en": "will be read",
+   "pos": "verb",
+   "group": "more2",
+   "say": "BA-ba-sa-hin",
+   "note": "From: Bábasahin ko ang aklát ni Dr. Rizal. = The book by Dr. Rizal will be read by me."
+  },
+  {
+   "id": "yari-m15",
+   "tl": "yarì",
+   "en": "made of",
+   "pos": "verb",
+   "group": "more2",
+   "say": "YA-riQ",
+   "note": "Past takes ni-: niyarì"
+  },
+  {
+   "id": "gamot-cure-m15",
+   "tl": "gamót",
+   "en": "cure or treat",
+   "pos": "verb",
+   "group": "more2",
+   "say": "ga-MOT",
+   "note": "Lesson 7 glosses gamót as medicine. -In- forms: gamutín, gágamutín"
+  },
+  {
+   "id": "inom-m15",
+   "tl": "inóm",
+   "en": "drink",
+   "pos": "verb",
+   "group": "more2",
+   "say": "i-NOM",
+   "note": "-In- forms: inumín, iinumín"
+  },
+  {
+   "id": "pinili-m15",
+   "tl": "pinilî",
+   "en": "was chosen",
+   "pos": "verb",
+   "group": "more2",
+   "say": "pi-ni-liQ",
+   "note": "From: Pinilî ng batà ang aklát. = Was chosen by the child the book. (The child chose the book.)"
+  },
+  {
+   "id": "kakanin-m15",
+   "tl": "kákanin",
+   "en": "will be eaten",
+   "pos": "verb",
+   "group": "more2",
+   "say": "KA-ka-nin",
+   "note": "From: Kákanin ni Peter ang isdâ. = Will be eaten by Peter the fish. (Peter will eat the fish.)"
+  },
+  {
+   "id": "ibinili-m15",
+   "tl": "ibinilí",
+   "en": "was bought",
+   "pos": "verb",
+   "group": "more2",
+   "say": "i-bi-ni-LI",
+   "note": "From: Ibinilí kitá ng prútas. = Was bought for you by me the fruit. (I bought you a fruit.)"
+  },
+  {
+   "id": "ni-by-m15",
+   "tl": "ni",
+   "en": "by (before a name)",
+   "pos": "marker",
+   "group": "more2",
+   "note": "Lesson 8 glosses ni as of. From: Kákanin ni Peter ang isdâ. = Will be eaten by Peter the fish."
+  },
+  {
+   "id": "ng-by-m15",
+   "tl": "ng",
+   "en": "by",
+   "pos": "marker",
+   "group": "more2",
+   "note": "Lesson 8 glosses ng as of. From: Pinilî ng batà ang aklát. = Was chosen by the child the book."
+  },
+  {
+   "id": "ikaw-m15",
+   "tl": "ikaw",
+   "en": "you",
+   "pos": "pron",
+   "group": "more2",
+   "note": "Lesson 3 prints ikáw. The book says kita is equivalent to ikaw (you) and ko (I)"
+  },
+  {
+   "id": "ko-i-m15",
+   "tl": "ko",
+   "en": "I; by me",
+   "pos": "pron",
+   "group": "more2",
+   "note": "Lesson 8 glosses ko as my. From: Binása ko ang súlat. = Was read by me the letter."
+  },
+  {
+   "id": "aawitin-m15",
+   "tl": "áawitin",
+   "en": "will be sung",
+   "pos": "verb",
+   "group": "more2",
+   "say": "A-a-wi-tin",
+   "note": "From: Áawitin ng mga bata ang Báhay Kúbo. = Báhay Kúbo will be sung by the children."
+  },
+  {
+   "id": "ginagamot-m15",
+   "tl": "ginágamot",
+   "en": "is being treated",
+   "pos": "verb",
+   "group": "more2",
+   "say": "gi-NA-ga-mot",
+   "note": "From: Ginágamot ng doktór ang áking sakít. = My sickness is being treated by a doctor."
+  },
+  {
+   "id": "aking-m15",
+   "tl": "áking",
+   "en": "my",
+   "pos": "pron",
+   "group": "more2",
+   "say": "A-king",
+   "note": "ákin + -ng. From: Ginágamot ng doktór ang áking sakít. = My sickness is being treated by a doctor."
+  },
+  {
+   "id": "nilinis-m15",
+   "tl": "nilínis",
+   "en": "is being cleaned",
+   "pos": "verb",
+   "group": "more2",
+   "say": "ni-LI-nis",
+   "note": "From: Nilínis ni Marta ang kanilàng báhay. = Their house is being cleaned by Marta."
+  },
+  {
+   "id": "kanilang-m15",
+   "tl": "kanilàng",
+   "en": "their",
+   "pos": "pron",
+   "group": "more2",
+   "say": "ka-NI-lang",
+   "note": "kanilà + -ng. From: Nilínis ni Marta ang kanilàng báhay. = Their house is being cleaned by Marta."
+  },
+  {
+   "id": "lulutuin-m15",
+   "tl": "lúlutuin",
+   "en": "will be cooked",
+   "pos": "verb",
+   "group": "more2",
+   "say": "LU-lu-tu-in",
+   "note": "From: Lúlutuin ng katúlong ang gúlay. = The vegetables will be cooked by the helper. The exercise page prints Lulutuin"
+  },
+  {
+   "id": "nila-m15",
+   "tl": "nila",
+   "en": "by them",
+   "pos": "pron",
+   "group": "more2",
+   "note": "Lesson 8 prints nilá (their). From: Kákanin ba nila ang mga ságing? = Will the bananas be eaten by them?"
+  },
+  {
+   "id": "kanyang-m15",
+   "tl": "kanyang",
+   "en": "his/her",
+   "pos": "pron",
+   "group": "more2",
+   "note": "Lesson 8 prints kanyá. From: Áalisin niya ang kanyang sapátos. = His/Her shoes will be removed by him/her."
+  },
+  {
+   "id": "dinadala-m15",
+   "tl": "dinádala",
+   "en": "is brought",
+   "pos": "verb",
+   "group": "more2",
+   "say": "di-NA-da-la",
+   "note": "From: Dinádala namin ang aklát ng Tagalog sa páaralán. = The Tagalog book is brought by us to school."
+  },
+  {
+   "id": "namin-m15",
+   "tl": "namin",
+   "en": "by us",
+   "pos": "pron",
+   "group": "more2",
+   "note": "Lesson 8 prints námin (our). From: Dinádala namin ang aklát ng Tagalog sa páaralán. = The Tagalog book is brought by us to school."
+  },
+  {
+   "id": "sinira-m15",
+   "tl": "sinirà",
+   "en": "was torn",
+   "pos": "verb",
+   "group": "more2",
+   "say": "si-NI-raQ",
+   "note": "From: Sinirà ni Lucio ang papél. = The paper was torn by Lucio."
+  },
+  {
+   "id": "natin-m15",
+   "tl": "natin",
+   "en": "by us",
+   "pos": "pron",
+   "group": "more2",
+   "note": "Lesson 8 prints nátin (our). From: Bilángin natin ang pera. = Let the money be counted by us."
+  },
+  {
+   "id": "araw-araw-m15",
+   "tl": "áraw-áraw",
+   "en": "everyday",
+   "pos": "adv",
+   "group": "more2",
+   "say": "A-raw-A-raw"
+  },
+  {
+   "id": "bumilang-m15",
+   "tl": "bumílang",
+   "en": "count",
+   "pos": "verb",
+   "group": "more2",
+   "say": "bu-MI-lang",
+   "note": "From the exercise: Bumílang (count) ka ng sampúng píso."
   }
  ],
  "exercises": [

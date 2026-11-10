@@ -1801,6 +1801,11 @@
       "Irregular verbs drop the second vowel of the root: lagyán, buksán, labhán. Roots with l, w, y take ni- (nilagyán).",
       "In an -an sentence the doer takes ng / ni / mo / ko, and the person or place the action is aimed at becomes the subject."
      ]
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More words from this lesson"
     }
    ]
   }
@@ -2226,6 +2231,247 @@
    "pos": "noun",
    "group": "words",
    "say": "ka-wa-LI"
+  },
+  {
+   "id": "kuwento-m33",
+   "tl": "kuwento",
+   "en": "story",
+   "pos": "noun",
+   "group": "more",
+   "note": "Lesson 14 prints kuwénto."
+  },
+  {
+   "id": "gupit-m33",
+   "tl": "gupít",
+   "en": "to cut",
+   "pos": "verb",
+   "group": "more",
+   "say": "gu-PIT",
+   "note": "Root of gúpítan."
+  },
+  {
+   "id": "damihan-m33",
+   "tl": "damihan",
+   "en": "to increase the number",
+   "pos": "verb",
+   "group": "more",
+   "note": "Root: dami."
+  },
+  {
+   "id": "dami-m33",
+   "tl": "dami",
+   "en": "many",
+   "pos": "noun",
+   "group": "more",
+   "note": "Root of damihan."
+  },
+  {
+   "id": "putikan-m33",
+   "tl": "putikan",
+   "en": "muddy",
+   "pos": "adj",
+   "group": "more",
+   "note": "Root: putik."
+  },
+  {
+   "id": "putik-m33",
+   "tl": "putik",
+   "en": "mud",
+   "pos": "noun",
+   "group": "more"
+  },
+  {
+   "id": "inalisan-m33",
+   "tl": "inalisán",
+   "en": "was/were removed",
+   "pos": "verb",
+   "group": "more",
+   "say": "i-na-li-SAN"
+  },
+  {
+   "id": "inaalisan-m33",
+   "tl": "ináalisán",
+   "en": "is/are being removed",
+   "pos": "verb",
+   "group": "more",
+   "say": "i-NA-a-li-SAN"
+  },
+  {
+   "id": "aalisan-m33",
+   "tl": "áalisán",
+   "en": "will be removed",
+   "pos": "verb",
+   "group": "more",
+   "say": "A-a-li-SAN"
+  },
+  {
+   "id": "binasahan-m33",
+   "tl": "bínasáhan",
+   "en": "was/were read to someone",
+   "pos": "verb",
+   "group": "more",
+   "say": "BI-na-SA-han"
+  },
+  {
+   "id": "binabasahan-m33",
+   "tl": "binábasahan",
+   "en": "is/are being read to someone",
+   "pos": "verb",
+   "group": "more",
+   "say": "bi-NA-ba-sa-han"
+  },
+  {
+   "id": "babasahan-m33",
+   "tl": "bábasahan",
+   "en": "will be read to someone",
+   "pos": "verb",
+   "group": "more",
+   "say": "BA-ba-sa-han"
+  },
+  {
+   "id": "lagay-m33",
+   "tl": "lagay",
+   "en": "put",
+   "pos": "verb",
+   "group": "more"
+  },
+  {
+   "id": "nilagyan-m33",
+   "tl": "nilagyán",
+   "en": "was/were put in",
+   "pos": "verb",
+   "group": "more",
+   "say": "ni-lag-YAN"
+  },
+  {
+   "id": "nilalagyan-m33",
+   "tl": "nilálagyán",
+   "en": "is/are being put in",
+   "pos": "verb",
+   "group": "more",
+   "say": "ni-LA-lag-YAN"
+  },
+  {
+   "id": "lalagyan-m33",
+   "tl": "lálagyán",
+   "en": "will be put in",
+   "pos": "verb",
+   "group": "more",
+   "say": "LA-lag-YAN"
+  },
+  {
+   "id": "hihip-m33",
+   "tl": "hihip",
+   "en": "blow",
+   "pos": "verb",
+   "group": "more",
+   "note": "Root of hipan."
+  },
+  {
+   "id": "sinulatan-m33",
+   "tl": "sinulátan",
+   "en": "wrote on",
+   "pos": "verb",
+   "group": "more",
+   "say": "si-nu-LA-tan",
+   "note": "From: Sinulátan ng batà ang aklát. = The child wrote on the book."
+  },
+  {
+   "id": "magbukas-m33",
+   "tl": "magbukás",
+   "en": "open",
+   "pos": "verb",
+   "group": "more",
+   "say": "mag-bu-KAS",
+   "note": "From: Magbukás ka ng pintô. = Open the door."
+  },
+  {
+   "id": "susulatan-m33",
+   "tl": "súsulatan",
+   "en": "will write to",
+   "pos": "verb",
+   "group": "more",
+   "say": "SU-su-la-tan",
+   "note": "From: Súsulatan ko ang áking iná. = I will write to my mother."
+  },
+  {
+   "id": "hinalikan-m33",
+   "tl": "hinalikán",
+   "en": "kissed",
+   "pos": "verb",
+   "group": "more",
+   "say": "hi-na-li-KAN",
+   "note": "From: Hinalikán ng batà ang kamáy ng kanyáng lóla. = The child kissed the hand of her grandmother."
+  },
+  {
+   "id": "babasahan2-m33",
+   "tl": "bábasahán",
+   "en": "will read to",
+   "pos": "verb",
+   "group": "more",
+   "say": "BA-ba-sa-HAN",
+   "note": "From: Bábasahán ko ng magandáng kuwento ang áking amá. = I will read a nice story to my father. The verb table prints bábasahan."
+  },
+  {
+   "id": "nilabhan-m33",
+   "tl": "nilabhán",
+   "en": "washed",
+   "pos": "verb",
+   "group": "more",
+   "say": "ni-lab-HAN",
+   "note": "From: Nilabhán ng katúlong ko ang áming damít. = My helper washed our clothes."
+  },
+  {
+   "id": "nag-alis-m33",
+   "tl": "nag-alís",
+   "en": "removed",
+   "pos": "verb",
+   "group": "more",
+   "say": "nag-a-LIS",
+   "note": "From: Nag-alís ang babáe ng pagkain sa anák. = The woman removed the food from her child."
+  },
+  {
+   "id": "nagbayad-m33",
+   "tl": "nagbáyad",
+   "en": "paid",
+   "pos": "verb",
+   "group": "more",
+   "say": "nag-BA-yad",
+   "note": "From: Nagbáyad siyá ng dalawáng libong piso sa ákin para sa sapatos. = He paid me two thousand pesos for the shoes."
+  },
+  {
+   "id": "dalawang-libong-piso-m33",
+   "tl": "dalawáng libong piso",
+   "en": "two thousand pesos",
+   "pos": "phrase",
+   "group": "more",
+   "say": "da-la-WANG li-bong pi-so"
+  },
+  {
+   "id": "maglalagay-m33",
+   "tl": "maglálagay",
+   "en": "will put",
+   "pos": "verb",
+   "group": "more",
+   "say": "mag-LA-la-gay",
+   "note": "From: Maglálagay siyá ng tubig sa mga baso. = She/He will put water into the glasses."
+  },
+  {
+   "id": "magtakip-m33",
+   "tl": "magtakíp",
+   "en": "cover",
+   "pos": "verb",
+   "group": "more",
+   "say": "mag-ta-KIP",
+   "note": "From: Magtakíp ka ng panyô sa mukhâ. = Cover your face with a handkerchief."
+  },
+  {
+   "id": "tubig-m33",
+   "tl": "tubig",
+   "en": "water",
+   "pos": "noun",
+   "group": "more",
+   "note": "Lesson 4 prints túbig."
   }
  ],
  "exercises": [
