@@ -1,6 +1,6 @@
 {
  "app": "Tagalify",
- "version": "1.04",
+ "version": "1.07",
  "units": [
   {
    "id": "start",
@@ -70,6 +70,38 @@
     "l18",
     "l19",
     "l20"
+   ]
+  },
+  {
+   "id": "express",
+   "title": "Thoughts, feelings and requests",
+   "lessons": [
+    "l21",
+    "l22",
+    "l23",
+    "l24",
+    "l25"
+   ]
+  },
+  {
+   "id": "where-when",
+   "title": "Where, for whom and when",
+   "lessons": [
+    "l26",
+    "l27",
+    "l28",
+    "l29",
+    "l30"
+   ]
+  },
+  {
+   "id": "making-words",
+   "title": "Nouns, more verbs and adverbs",
+   "lessons": [
+    "l31",
+    "l32",
+    "l33",
+    "l34"
    ]
   }
  ],
@@ -293,6 +325,146 @@
    "file": "data/lessons/l20.json",
    "words": 14,
    "exercises": 27
+  },
+  {
+   "id": "l21",
+   "label": "21",
+   "title": "Expressing thoughts and actions",
+   "summary": "Saying what you think with tila, sa akalà, sa palagáy and isip, and saying where you go and what you did with pumuntá and other verbs",
+   "minutes": 35,
+   "file": "data/lessons/l21.json",
+   "words": 20,
+   "exercises": 30
+  },
+  {
+   "id": "l22",
+   "label": "22",
+   "title": "Expressing emotions",
+   "summary": "Two words for love (mahál and ibig) and when to use each, and saying what you like with gustó and ibig",
+   "minutes": 30,
+   "file": "data/lessons/l22.json",
+   "words": 13,
+   "exercises": 29
+  },
+  {
+   "id": "l23",
+   "label": "23",
+   "title": "Who, which and that",
+   "summary": "Using the ligatures -ng, -g and na to say the child who is eating, the house which was burned, the food that was cooked",
+   "minutes": 25,
+   "file": "data/lessons/l23.json",
+   "words": 11,
+   "exercises": 26
+  },
+  {
+   "id": "l24",
+   "label": "24",
+   "title": "Saying please",
+   "summary": "Paki- and maki- request verbs, softening with ngâ and namán, and asking with maáarì bang",
+   "minutes": 35,
+   "file": "data/lessons/l24.json",
+   "words": 18,
+   "exercises": 28
+  },
+  {
+   "id": "l25",
+   "label": "25",
+   "title": "Saán and násaán: where",
+   "summary": "Saán for where an action happens, násaán for where a person or thing is, and how to answer each",
+   "minutes": 30,
+   "file": "data/lessons/l25.json",
+   "words": 12,
+   "exercises": 28
+  },
+  {
+   "id": "l26",
+   "label": "26",
+   "title": "The preposition sa",
+   "summary": "One small word for in, to, from, for, on, into, over, through and at; position words; gáling, mulâ, búhat and hanggáng",
+   "minutes": 35,
+   "file": "data/lessons/l26.json",
+   "words": 47,
+   "exercises": 30
+  },
+  {
+   "id": "l27",
+   "label": "27",
+   "title": "Para sa and para kay: for and to",
+   "summary": "Spotting the indirect object: para sa and para kay (for), sa and kay (to), and kina for two or more names",
+   "minutes": 30,
+   "file": "data/lessons/l27.json",
+   "words": 12,
+   "exercises": 28
+  },
+  {
+   "id": "l28",
+   "label": "28",
+   "title": "Telling time",
+   "summary": "Anóng oras na? The hours with ika-, their Spanish equivalents, and words for past, present and future",
+   "minutes": 35,
+   "file": "data/lessons/l28.json",
+   "words": 38,
+   "exercises": 31
+  },
+  {
+   "id": "l29",
+   "label": "29",
+   "title": "The word when in Tagalog",
+   "summary": "Kailán in questions, nang / noóng for the past, kung / kapág (pag) for the present and future, and kung + question words",
+   "minutes": 30,
+   "file": "data/lessons/l29.json",
+   "words": 19,
+   "exercises": 30
+  },
+  {
+   "id": "l30",
+   "label": "30",
+   "title": "Verb roots",
+   "summary": "The root is the basic form of a verb: add affixes to make verbs and adjectives, or put ang before it to make a noun",
+   "minutes": 30,
+   "file": "data/lessons/l30.json",
+   "words": 23,
+   "exercises": 29
+  },
+  {
+   "id": "l31",
+   "label": "31",
+   "title": "Forming nouns",
+   "summary": "Put ang, ng or sa in front of a verb or adjective and it becomes a noun: the one who, the thing that, what is",
+   "minutes": 30,
+   "file": "data/lessons/l31.json",
+   "words": 6,
+   "exercises": 27
+  },
+  {
+   "id": "l32",
+   "label": "32",
+   "title": "I- verb forms",
+   "summary": "The prefix i- makes passive verbs for doing something for someone or using something: isúlat, ilutò, ibigáy",
+   "minutes": 35,
+   "file": "data/lessons/l32.json",
+   "words": 22,
+   "exercises": 29
+  },
+  {
+   "id": "l33",
+   "label": "33",
+   "title": "-An verb forms",
+   "summary": "The suffix -an (or -han): places like aklátan, and passive verbs like basáhan, lagyán and buksán",
+   "minutes": 40,
+   "file": "data/lessons/l33.json",
+   "words": 49,
+   "exercises": 33
+  },
+  {
+   "id": "l34",
+   "label": "34",
+   "title": "Adverbs",
+   "summary": "Words that say how, where, when and how much: nang paupô, dáhan-dáhan, díto, saanmán, lagí, kung mínsan, kauntî…",
+   "minutes": 40,
+   "file": "data/lessons/l34.json",
+   "words": 37,
+   "exercises": 33
   }
  ]
 }
