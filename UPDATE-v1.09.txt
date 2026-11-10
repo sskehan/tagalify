@@ -1,0 +1,19 @@
+TAGALIFY v1.09 UPDATE PACK  (install over v1.08)
+================================================
+This pack holds ONLY the files that changed since v1.08. Do not delete anything on GitHub.
+
+What's new: Lessons 40 to 44 (book pages 171-188), in a new unit "Building words, and colours".
+
+How to install
+1. Unzip this pack. Inside the "tagalify" folder are the changed files in their folders.
+2. On GitHub, open your Tagalify repository and upload each file into the SAME folder:
+   - top level:        core.js, sw.js, app.js, README.md
+   - data/:            course.json
+   - data/lessons/:    l40.json to l44.json (new files)
+   - tools/:           build.py and c42_l40.py to c46_l44.py
+   Use "Add file > Upload files" inside each folder, drag the files in, and Commit. Replace when asked.
+3. Check the Actions tab shows a green tick, then fully close and reopen Tagalify twice.
+   More > About should show v1.09.
+
+Your progress, Dropbox backup and recordings are not affected.
+(You can delete this text file from GitHub afterwards.)
