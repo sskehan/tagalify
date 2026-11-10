@@ -1,0 +1,2587 @@
+{
+ "id": "l40",
+ "label": "40",
+ "title": "Noun affixes",
+ "summary": "Affixes that make new nouns: -an (aklátan), ka-…-an (kaligayáhan), mag- (mag-asawa), mang- (manggagamot), pag-, sang-, tag- (tag-ulán), taga- (tagaturò), tala-…-an (talátinígan), plus ways to make nouns plural",
+ "minutes": 40,
+ "goals": [
+  "Use -an to name a place, a season or an instrument (aklátan, anihán, inúman)",
+  "Use a doubled root + -an for a miniature or an imitator (baháy-baháyan, harí-harían)",
+  "Use ka-…-an for an idea or a group (kaligayáhan, kabukirán)",
+  "Use mag- and mang- for relationships and jobs (mag-asawa, manggagamot)",
+  "Use pag-, sang-, tag-, taga- and tala-…-an to make new nouns",
+  "Make nouns plural in four different ways"
+ ],
+ "sections": [
+  {
+   "title": "Affixes that make nouns",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "In Lesson 31 you made nouns by putting **ang**, **ng** or **sa** in front of a verb or an adjective. In this lesson you meet **affixes** (pieces added to the front or end of a root word) that turn a verb or an adjective into a noun, or even turn one noun into a different noun."
+    },
+    {
+     "type": "p",
+     "t": "Each affix below has a **formula** (how the word is built) and a **meaning** (what kind of noun it makes). Learn the formula and you can recognise many new words from roots you already know."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "How to read the formulas",
+     "items": [
+      "**root** = the basic word, such as aklát (book).",
+      "**-an** at the end = a suffix; **ka-** at the front = a prefix.",
+      "**duplicated** = said twice, as in baháy-baháyan."
+     ]
+    },
+    {
+     "type": "h",
+     "t": "Root + -an: a place where things are stored or placed"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Root",
+      "",
+      "New noun",
+      ""
+     ],
+     "rows": [
+      [
+       "[[aklát|noun]]",
+       "book",
+       "[[aklátan|noun]]",
+       "library"
+      ],
+      [
+       "[[káhoy|noun]]",
+       "wood",
+       "[[kahuyán|noun]]",
+       "woodpile"
+      ],
+      [
+       "[[báhay|noun]]",
+       "house",
+       "[[bahayán|noun]]",
+       "group of houses"
+      ],
+      [
+       "[[báboy|noun]]",
+       "pig",
+       "[[babúyan|noun]]",
+       "piggery"
+      ]
+     ],
+     "title": "Places"
+    },
+    {
+     "type": "h",
+     "t": "Root + -an: a season"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Root",
+      "",
+      "New noun",
+      ""
+     ],
+     "rows": [
+      [
+       "[[áni|noun]]",
+       "harvest",
+       "[[anihán|noun]]",
+       "harvest time"
+      ],
+      [
+       "[[pások|pred]]",
+       "enter",
+       "[[pasukán|noun]]",
+       "school day"
+      ],
+      [
+       "[[taním|noun]]",
+       "plant",
+       "[[tániman|noun]]",
+       "planting season"
+      ]
+     ],
+     "title": "Seasons"
+    },
+    {
+     "type": "h",
+     "t": "Root + -an: an article or instrument"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Root",
+      "",
+      "New noun",
+      ""
+     ],
+     "rows": [
+      [
+       "[[inóm|pred]]",
+       "to drink",
+       "[[inúman|noun]]",
+       "something to drink from"
+      ],
+      [
+       "[[sulat|pred]]",
+       "to write, letter",
+       "[[sulatán|noun]]",
+       "something to write on"
+      ],
+      [
+       "[[lutò|pred]]",
+       "to cook, cooked",
+       "[[lutuán|noun]]",
+       "cooking utensils, place for cooking"
+      ],
+      [
+       "[[sakáy|pred]]",
+       "to ride",
+       "[[sasakyán|noun]]",
+       "something to ride in"
+      ]
+     ],
+     "title": "Things you use"
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "-an or -han?",
+     "t": "The book names this suffix **-an or -han**. You can see -han in **anihán** (from áni) and **kabutíhan** (from buti)."
+    },
+    {
+     "type": "vocab",
+     "group": "an",
+     "title": "Words with -an"
+    }
+   ]
+  },
+  {
+   "title": "Doubled roots + -an: toys and copycats",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "When the root is **said twice, joined by a hyphen**, and then **-an** is added, the new noun means either a **small version** of the thing or a **copycat** who only pretends."
+    },
+    {
+     "type": "pattern",
+     "title": "root + root + -an",
+     "rows": [
+      {
+       "label": "Miniature",
+       "chips": [
+        {
+         "t": "baháy",
+         "r": "noun"
+        },
+        {
+         "t": "-",
+         "r": "other"
+        },
+        {
+         "t": "baháyan",
+         "r": "noun"
+        },
+        {
+         "t": "→ playhouse",
+         "r": "other"
+        }
+       ]
+      },
+      {
+       "label": "Imitator",
+       "chips": [
+        {
+         "t": "harí",
+         "r": "noun"
+        },
+        {
+         "t": "-",
+         "r": "other"
+        },
+        {
+         "t": "harían",
+         "r": "noun"
+        },
+        {
+         "t": "→ acting like a king",
+         "r": "other"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "head": [
+      "Root",
+      "",
+      "New noun",
+      ""
+     ],
+     "rows": [
+      [
+       "[[báhay|noun]]",
+       "house",
+       "[[baháy-baháyan|noun]]",
+       "playhouse"
+      ],
+      [
+       "[[barò|noun]]",
+       "damit",
+       "[[barú-barúan|noun]]",
+       "doll clothes"
+      ]
+     ],
+     "title": "A miniature version"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Root",
+      "",
+      "New noun",
+      ""
+     ],
+     "rows": [
+      [
+       "[[iná|noun]]",
+       "mother",
+       "[[iná-ináhan|noun]]",
+       "pretending to be like a mother"
+      ],
+      [
+       "[[harí|noun]]",
+       "king",
+       "[[harí-harían|noun]]",
+       "acting like a king"
+      ],
+      [
+       "[[pári|noun]]",
+       "priest",
+       "[[parí-parían|noun]]",
+       "not a real priest"
+      ]
+     ],
+     "title": "An imitator or copycat"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Barò = damit",
+     "t": "The book explains **barò** with another Tagalog word, **damit** (Lesson 7: damít = cloth; dress). So barú-barúan, *doll clothes*, are tiny clothes."
+    },
+    {
+     "type": "vocab",
+     "group": "dup",
+     "title": "Doubled words"
+    }
+   ]
+  },
+  {
+   "title": "Ka- + root + -an: ideas and groups",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Put **ka-** in front of the root and **-an** (or **-han**) after it. The new noun is either an **idea** (a concept) or a **group**."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Root",
+      "",
+      "New noun",
+      ""
+     ],
+     "rows": [
+      [
+       "[[buti|pred]]",
+       "good",
+       "[[kabutíhan|noun]]",
+       "goodness"
+      ],
+      [
+       "[[buhay|noun]]",
+       "life",
+       "[[kabuháyan|noun]]",
+       "livelihood"
+      ],
+      [
+       "[[ligaya|pred]]",
+       "happy",
+       "[[kaligayáhan|noun]]",
+       "happiness"
+      ]
+     ],
+     "title": "An idea or concept"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Root",
+      "",
+      "New noun",
+      ""
+     ],
+     "rows": [
+      [
+       "[[bahay|noun]]",
+       "house",
+       "[[kabahayán|noun]]",
+       "place of many houses"
+      ],
+      [
+       "[[bukid|noun]]",
+       "farm",
+       "[[kabukirán|noun]]",
+       "farmlands"
+      ],
+      [
+       "[[Tagálog|noun]]",
+       "refers to a language or people",
+       "[[Katagalúgan|noun]]",
+       "place of the Tagalogs"
+      ],
+      [
+       "[[batà|noun]]",
+       "child",
+       "[[kabatáan|noun]]",
+       "youth"
+      ],
+      [
+       "[[tandâ|noun]]",
+       "age",
+       "[[katandaán|noun]]",
+       "elders"
+      ]
+     ],
+     "title": "A group"
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "Sound changes when a suffix is added",
+     "items": [
+      "Roots that **end in o** (lutò, barò) or have **o in the last syllable** (inóm, pások): the **o changes to u**. lutò → **lutuán**, barò → **barú-barúan**, inóm → **inúman**, pások → **pasukán**.",
+      "Roots that **end in d** (bukid): the **d becomes r**. bukid → **kabukirán**."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "Two groups you can see",
+     "t": "Compare **bahayán** (group of houses, section 1) with **kabahayán** (place of many houses). Both come from báhay; the book gives them slightly different meanings."
+    },
+    {
+     "type": "vocab",
+     "group": "ka",
+     "title": "Ka-…-an words"
+    }
+   ]
+  },
+  {
+   "title": "Mag- and mang-: family pairs and jobs",
+   "blocks": [
+    {
+     "type": "h",
+     "t": "Mag- + root: a relationship"
+    },
+    {
+     "type": "p",
+     "t": "**Mag-** in front of a family word names the **pair** in that relationship. If the root starts with a **vowel**, put a **hyphen** after mag-."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Root",
+      "",
+      "New noun",
+      ""
+     ],
+     "rows": [
+      [
+       "[[iná|noun]]",
+       "mother",
+       "[[mag-iná|noun]]",
+       "mother and child"
+      ],
+      [
+       "[[amá|noun]]",
+       "father",
+       "[[mag-amá|noun]]",
+       "father and child"
+      ],
+      [
+       "[[asawa|noun]]",
+       "spouse",
+       "[[mag-asawa|noun]]",
+       "husband and wife"
+      ],
+      [
+       "[[kapatíd|noun]]",
+       "sibling",
+       "[[magkapatíd|noun]]",
+       "brothers or sisters"
+      ]
+     ],
+     "title": "Relationships"
+    },
+    {
+     "type": "h",
+     "t": "Mag- + first syllable doubled + root: a job"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Root",
+      "",
+      "New noun",
+      ""
+     ],
+     "rows": [
+      [
+       "[[bigás|noun]]",
+       "rice",
+       "[[magbibigás|noun]]",
+       "rice merchant"
+      ],
+      [
+       "[[saka|noun]]",
+       "farming",
+       "[[magsasaká|noun]]",
+       "farmer"
+      ]
+     ],
+     "title": "Work or profession",
+     "note": "magbibigás = mag- + bi + bigás"
+    },
+    {
+     "type": "h",
+     "t": "Mang- or man- + first syllable doubled + root: a job"
+    },
+    {
+     "type": "p",
+     "t": "**Mang-** also names a **work or profession**. As with other prefixes, roots starting with **d, l, r, s and t** use the variant **man-** instead of mang- (the same pattern you saw with kasíng- and kasín- in Lesson 11)."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Root",
+      "",
+      "New noun",
+      ""
+     ],
+     "rows": [
+      [
+       "[[gamót|pred]]",
+       "to cure",
+       "[[manggagamot|noun]]",
+       "doctor"
+      ],
+      [
+       "[[langóy|pred]]",
+       "to swim",
+       "[[manlalangoy|noun]]",
+       "swimmer"
+      ],
+      [
+       "[[dagat|noun]]",
+       "sea",
+       "[[mandaragát|noun]]",
+       "seaman"
+      ],
+      [
+       "[[digmâ|noun]]",
+       "war",
+       "[[mandirigmâ|noun]]",
+       "warrior"
+      ],
+      [
+       "[[larô|pred]]",
+       "to play, game",
+       "[[manlalarò|noun]]",
+       "player"
+      ]
+     ],
+     "title": "Work or profession"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Spot the doubled syllable",
+     "items": [
+      "mang + **ga** + gamót → manggagamot",
+      "man + **la** + langóy → manlalangoy",
+      "man + **la** + larô → manlalarò"
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "mag",
+     "title": "Mag- and mang- words"
+    }
+   ]
+  },
+  {
+   "title": "Pag-: verbal nouns",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "You met these in Lesson 38. **Pag-** makes a **gerund** or **verbal noun** (the name of an action, like *walking* or *reading*). Which pattern you use depends on the affix the verb had."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Verb",
+      "",
+      "Verbal noun",
+      ""
+     ],
+     "rows": [
+      [
+       "[[umalís|pred]]",
+       "left",
+       "[[pag-alís|noun]]",
+       "departure"
+      ],
+      [
+       "[[lumakad|pred]]",
+       "walked",
+       "[[paglakad|noun]]",
+       "walk"
+      ],
+      [
+       "[[umibig|pred]]",
+       "loved",
+       "[[pag-ibig|noun]]",
+       "love"
+      ]
+     ],
+     "title": "1. Pag- replaces -um- (add a hyphen if the root starts with a vowel)"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Verb",
+      "",
+      "Verbal noun",
+      ""
+     ],
+     "rows": [
+      [
+       "[[maglarô|pred]]",
+       "to play",
+       "[[paglalarô|noun]]",
+       "act of playing"
+      ],
+      [
+       "[[magsulát|pred]]",
+       "to write",
+       "[[pagsusulát|noun]]",
+       "writing"
+      ],
+      [
+       "[[magtaním|pred]]",
+       "to plant",
+       "[[pagtataním|noun]]",
+       "planting"
+      ]
+     ],
+     "title": "2. Pag- + doubled first syllable replaces mag-"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Verb",
+      "",
+      "Verbal noun",
+      ""
+     ],
+     "rows": [
+      [
+       "[[basáhin|pred]]",
+       "read",
+       "[[pagbása|noun]]",
+       "reading"
+      ],
+      [
+       "[[tawágin|pred]]",
+       "call",
+       "[[pagtáwag|noun]]",
+       "calling"
+      ]
+     ],
+     "title": "3. Pag- + root replaces -in or -hin"
+    },
+    {
+     "type": "vocab",
+     "group": "pag",
+     "title": "Pag- words"
+    }
+   ]
+  },
+  {
+   "title": "Sang- and tag-: wholes, ones and seasons",
+   "blocks": [
+    {
+     "type": "h",
+     "t": "Sang- + ka- + root + -an: the whole of"
+    },
+    {
+     "type": "p",
+     "t": "**Sang-** changes to **san-** before roots starting with **d, l, r, s and t**, and to **sam-** before roots starting with **p** (as in Lesson 13 on numbers)."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Root",
+      "",
+      "New noun",
+      ""
+     ],
+     "rows": [
+      [
+       "[[pulô|noun]]",
+       "island",
+       "[[sangkapuluán|noun]]",
+       "archipelago"
+      ],
+      [
+       "[[langit|noun]]",
+       "heaven",
+       "[[sangkalangitan|noun]]",
+       "heaven"
+      ]
+     ],
+     "title": "The whole of"
+    },
+    {
+     "type": "h",
+     "t": "Sang- + root: one"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Root",
+      "",
+      "New noun",
+      ""
+     ],
+     "rows": [
+      [
+       "[[gabí|noun]]",
+       "night",
+       "[[sanggabí|noun]]",
+       "one night"
+      ],
+      [
+       "[[buwan|noun]]",
+       "month",
+       "[[sambuwán|noun]]",
+       "one month"
+      ],
+      [
+       "[[taon|noun]]",
+       "year",
+       "[[santaón|noun]]",
+       "one year"
+      ]
+     ],
+     "title": "One",
+     "note": "santaón shows san- before t. The book's example sambuwán uses sam- before b."
+    },
+    {
+     "type": "h",
+     "t": "Tag- + root: season or time of"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Root",
+      "",
+      "New noun",
+      ""
+     ],
+     "rows": [
+      [
+       "[[araw|noun]]",
+       "sun, day",
+       "[[tag-aráw|noun]]",
+       "dry season"
+      ],
+      [
+       "[[ulán|noun]]",
+       "rain",
+       "[[tag-ulán|noun]]",
+       "wet season"
+      ],
+      [
+       "[[lamíg|noun]]",
+       "cold",
+       "[[taglamíg|noun]]",
+       "cold season"
+      ],
+      [
+       "[[gutom|noun]]",
+       "hunger",
+       "[[taggutóm|noun]]",
+       "famine"
+      ],
+      [
+       "[[ani|noun]]",
+       "harvest",
+       "[[tag-ani|noun]]",
+       "harvest time"
+      ]
+     ],
+     "title": "Seasons"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Two ways to say harvest time",
+     "t": "**anihán** (áni + -han, section 1) and **tag-ani** both mean *harvest time*."
+    },
+    {
+     "type": "vocab",
+     "group": "sang",
+     "title": "Sang- words"
+    },
+    {
+     "type": "vocab",
+     "group": "tag",
+     "title": "Tag- words"
+    }
+   ]
+  },
+  {
+   "title": "Taga- and tala-…-an: people and lists",
+   "blocks": [
+    {
+     "type": "h",
+     "t": "Taga- + name of a place: a native or resident of"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Si Laurel ay taga-Batangas.",
+       "en": "Laurel is from Batangas.",
+       "parts": [
+        [
+         "Si",
+         "(name marker)",
+         "marker"
+        ],
+        [
+         "Laurel",
+         "Laurel",
+         "noun"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "taga-Batangas",
+         "from Batangas",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang mga Muslim ay taga-Mindanao.",
+       "en": "Muslims are from Mindanao.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "mga",
+         "(plural)",
+         "marker"
+        ],
+        [
+         "Muslim",
+         "Muslims",
+         "noun"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "taga-Mindanao",
+         "from Mindanao",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang mga taga-baryo ay marúnong magtaním.",
+       "en": "Those from the barrio know how to plant.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "mga",
+         "(plural)",
+         "marker"
+        ],
+        [
+         "taga-baryo",
+         "those from the barrio",
+         "noun"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "marúnong",
+         "know how (+ ligature)",
+         "pred"
+        ],
+        [
+         "magtaním",
+         "to plant",
+         "pred"
+        ]
+       ]
+      }
+     ],
+     "title": "Where someone is from"
+    },
+    {
+     "type": "h",
+     "t": "Taga- + root: one who often does the action"
+    },
+    {
+     "type": "p",
+     "t": "**Taga-** + a root names **one who frequently acts out the root**: the person whose job or habit it is."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Root",
+      "",
+      "New noun",
+      ""
+     ],
+     "rows": [
+      [
+       "[[dalá|pred]]",
+       "bring",
+       "[[tagadalá|noun]]",
+       "one who brings"
+      ],
+      [
+       "[[turò|pred]]",
+       "teach",
+       "[[tagaturò|noun]]",
+       "one who teaches"
+      ],
+      [
+       "[[bilí|pred]]",
+       "buy",
+       "[[tagabilí|noun]]",
+       "one who buys"
+      ],
+      [
+       "[[lutò|pred]]",
+       "cook",
+       "[[tagalutò|noun]]",
+       "one who cooks"
+      ]
+     ],
+     "title": "One who…"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Book sentence",
+      "Taga- word"
+     ],
+     "rows": [
+      [
+       "Ang kartéro (postman) ay tagadalá ng sulat.",
+       "tagadalá = one who brings"
+      ],
+      [
+       "Akó ay tagaturò ng Tagalog.",
+       "tagaturò = one who teaches"
+      ],
+      [
+       "Si Julia ay tagabilí ng pagkain sa palengke.",
+       "tagabilí = one who buys"
+      ],
+      [
+       "Ang áking maybahay ang tagalutò námin.",
+       "tagalutò = one who cooks"
+      ]
+     ],
+     "title": "The book's sentences",
+     "note": "The book does not translate these four sentences."
+    },
+    {
+     "type": "h",
+     "t": "Tala- + root + -an: a list"
+    },
+    {
+     "type": "p",
+     "t": "**Tala-** + root + **-an** names a **list of things connected with the root**."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Root",
+      "",
+      "New noun",
+      ""
+     ],
+     "rows": [
+      [
+       "[[tinig|noun]]",
+       "voice",
+       "[[talátinígan|noun]]",
+       "dictionary"
+      ],
+      [
+       "[[aklát|noun]]",
+       "books",
+       "[[taláaklatan|noun]]",
+       "catalogue of books"
+      ],
+      [
+       "[[araw|noun]]",
+       "day",
+       "[[taláarawán|noun]]",
+       "diary or journal"
+      ],
+      [
+       "[[upa|noun]]",
+       "rent",
+       "[[taláupahán|noun]]",
+       "payroll"
+      ]
+     ],
+     "title": "Lists"
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "A misprint in the book",
+     "t": "The book's heading is **TALA- + -AN**, but its formula line says *(taga- + root + -an)*. Every example starts with **tala-**, so tala- is the prefix to learn here."
+    },
+    {
+     "type": "vocab",
+     "group": "taga",
+     "title": "Taga- words"
+    },
+    {
+     "type": "vocab",
+     "group": "tala",
+     "title": "Tala-…-an words"
+    }
+   ]
+  },
+  {
+   "title": "Making nouns plural",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Remember the **plurality rule** from Lesson 4: when the subject is plural, nouns, verbs, articles, prepositions and question words become plural too. Here are four ways to show that a **noun** is plural."
+    },
+    {
+     "type": "h",
+     "t": "1. Use plural articles"
+    },
+    {
+     "type": "p",
+     "t": "Use **siná** with proper nouns (names) and **ang mga** with common nouns."
+    },
+    {
+     "type": "h",
+     "t": "2. Use a number, ilán or marami before the noun"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Sampûng táo ang umalís.",
+       "en": "Ten men left.",
+       "parts": [
+        [
+         "Sampûng",
+         "ten (+ ligature)",
+         "pred"
+        ],
+        [
+         "táo",
+         "men",
+         "noun"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "umalís",
+         "left",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Iláng táo ang umalís.",
+       "en": "A few men left.",
+       "parts": [
+        [
+         "Iláng",
+         "a few (+ ligature)",
+         "pred"
+        ],
+        [
+         "táo",
+         "men",
+         "noun"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "umalís",
+         "left",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Maraming táo ang umalís.",
+       "en": "Many men left.",
+       "parts": [
+        [
+         "Maraming",
+         "many (+ ligature)",
+         "pred"
+        ],
+        [
+         "táo",
+         "men",
+         "noun"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "umalís",
+         "left",
+         "pred"
+        ]
+       ]
+      }
+     ],
+     "title": "Numbers, ilán (a few) and marami (many)"
+    },
+    {
+     "type": "h",
+     "t": "3. Use a plural adjective"
+    },
+    {
+     "type": "p",
+     "t": "Plural adjectives follow the formula **ma + duplicated first syllable + root**."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Magagandáng dalaga ang áming panaúhin.",
+       "en": "Our visitors are pretty ladies.",
+       "parts": [
+        [
+         "Magagandáng",
+         "pretty, plural (+ ligature)",
+         "pred"
+        ],
+        [
+         "dalaga",
+         "ladies",
+         "noun"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "áming",
+         "our",
+         "poss"
+        ],
+        [
+         "panaúhin",
+         "visitors",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Mababaít na batà ang inyóng mga anák.",
+       "en": "Your children are good.",
+       "parts": [
+        [
+         "Mababaít",
+         "good, plural",
+         "pred"
+        ],
+        [
+         "na",
+         "(ligature)",
+         "link"
+        ],
+        [
+         "batà",
+         "children",
+         "noun"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "inyóng",
+         "your",
+         "poss"
+        ],
+        [
+         "mga",
+         "(plural)",
+         "marker"
+        ],
+        [
+         "anák",
+         "children",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Báhay na malalakí ang nákita námin.",
+       "en": "We saw big houses.",
+       "parts": [
+        [
+         "Báhay",
+         "houses",
+         "noun"
+        ],
+        [
+         "na",
+         "(ligature)",
+         "link"
+        ],
+        [
+         "malalakí",
+         "big, plural",
+         "pred"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "nákita",
+         "saw",
+         "pred"
+        ],
+        [
+         "námin",
+         "we (by us)",
+         "pron"
+        ]
+       ]
+      }
+     ],
+     "title": "Plural adjectives"
+    },
+    {
+     "type": "h",
+     "t": "4. Say the root word twice"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Pumaroón kamí sa mga baháy-baháy sa Lingayen.",
+       "en": "We went from house to house in Lingayen.",
+       "parts": [
+        [
+         "Pumaroón",
+         "went (there)",
+         "pred"
+        ],
+        [
+         "kamí",
+         "we",
+         "pron"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "mga",
+         "(plural)",
+         "marker"
+        ],
+        [
+         "baháy-baháy",
+         "from house to house",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "Lingayen",
+         "Lingayen",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Bumilí kamí ng mga bágay-bágay para sa kusína.",
+       "en": "We bought several things for the kitchen.",
+       "parts": [
+        [
+         "Bumilí",
+         "bought",
+         "pred"
+        ],
+        [
+         "kamí",
+         "we",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "mga",
+         "(plural)",
+         "marker"
+        ],
+        [
+         "bágay-bágay",
+         "several things",
+         "noun"
+        ],
+        [
+         "para sa",
+         "for",
+         "marker"
+        ],
+        [
+         "kusína",
+         "kitchen",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Doubled roots"
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "Not the same as baháy-baháyan",
+     "t": "**baháy-baháy** (the root said twice) shows many houses: *from house to house*. **baháy-baháyan** (doubled + -an) is a **playhouse**."
+    },
+    {
+     "type": "vocab",
+     "group": "plural",
+     "title": "Plural words"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Word",
+      "Meaning",
+      "Where it appears"
+     ],
+     "rows": [
+      [
+       "[[kabutíhan|noun]]",
+       "goodness",
+       "ka-…-an"
+      ],
+      [
+       "[[kabatáan|noun]]",
+       "youth",
+       "ka-…-an"
+      ],
+      [
+       "[[pagtataním|noun]]",
+       "planting",
+       "pag- (also Lesson 38)"
+      ],
+      [
+       "[[sangkapuluán|noun]]",
+       "archipelago",
+       "sang-"
+      ],
+      [
+       "[[kaligayáhan|noun]]",
+       "happiness",
+       "ka-…-an"
+      ],
+      [
+       "[[magsasaká|noun]]",
+       "farmer",
+       "mag- (also Lesson 15)"
+      ],
+      [
+       "[[kartéro|noun]]",
+       "postman",
+       "taga- sentence"
+      ],
+      [
+       "[[panaúhin|noun]]",
+       "visitors",
+       "plural adjectives sentence"
+      ]
+     ],
+     "title": "The book's vocabulary list"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "-an: a place (aklátan), a season (anihán) or a thing you use (inúman).",
+      "Doubled root + -an: a miniature (baháy-baháyan) or a copycat (harí-harían).",
+      "Ka-…-an: an idea (kaligayáhan) or a group (kabukirán). o → u and d → r before a suffix.",
+      "Mag-: a pair (mag-asawa) or a job (magbibigás). Mang-/man-: a job (manggagamot, mandaragát).",
+      "Sang-: the whole of / one. Tag-: a season. Taga-: from a place, or one who does. Tala-…-an: a list.",
+      "Plural nouns: siná / ang mga, a number or ilán / marami, a plural adjective, or a doubled root."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "baboy-l40",
+   "tl": "báboy",
+   "en": "pig",
+   "pos": "noun",
+   "group": "an",
+   "say": "BA-boy"
+  },
+  {
+   "id": "kahuyan-l40",
+   "tl": "kahuyán",
+   "en": "woodpile",
+   "pos": "noun",
+   "group": "an",
+   "say": "ka-hu-YAN"
+  },
+  {
+   "id": "bahayan-l40",
+   "tl": "bahayán",
+   "en": "group of houses",
+   "pos": "noun",
+   "group": "an",
+   "say": "ba-ha-YAN"
+  },
+  {
+   "id": "babuyan-l40",
+   "tl": "babúyan",
+   "en": "piggery",
+   "pos": "noun",
+   "group": "an",
+   "say": "ba-BU-yan"
+  },
+  {
+   "id": "ani-l40",
+   "tl": "áni",
+   "en": "harvest",
+   "pos": "noun",
+   "group": "an",
+   "say": "A-ni",
+   "note": "The book also writes ani (no accent) in the tag- section."
+  },
+  {
+   "id": "anihan-l40",
+   "tl": "anihán",
+   "en": "harvest time",
+   "pos": "noun",
+   "group": "an",
+   "say": "a-ni-HAN"
+  },
+  {
+   "id": "pasukan-l40",
+   "tl": "pasukán",
+   "en": "school day",
+   "pos": "noun",
+   "group": "an",
+   "say": "pa-su-KAN"
+  },
+  {
+   "id": "taniman-l40",
+   "tl": "tániman",
+   "en": "planting season",
+   "pos": "noun",
+   "group": "an",
+   "say": "TA-ni-man"
+  },
+  {
+   "id": "inom-l40",
+   "tl": "inóm",
+   "en": "to drink",
+   "pos": "verb",
+   "group": "an",
+   "say": "i-NOM"
+  },
+  {
+   "id": "inuman-l40",
+   "tl": "inúman",
+   "en": "something to drink from",
+   "pos": "noun",
+   "group": "an",
+   "say": "i-NU-man"
+  },
+  {
+   "id": "sulat-l40",
+   "tl": "sulat",
+   "en": "to write, letter",
+   "pos": "verb",
+   "group": "an",
+   "note": "Lesson 15 prints súlat (letter)."
+  },
+  {
+   "id": "sulatan-l40",
+   "tl": "sulatán",
+   "en": "something to write on",
+   "pos": "noun",
+   "group": "an",
+   "say": "su-la-TAN",
+   "note": "Lesson 33 has sulátan, to write to."
+  },
+  {
+   "id": "luto-l40",
+   "tl": "lutò",
+   "en": "to cook, cooked",
+   "pos": "verb",
+   "group": "an",
+   "say": "LU-toQ",
+   "note": "In the taga- section the book glosses lutò as cook. Lesson 7 gives cooked."
+  },
+  {
+   "id": "lutuan-l40",
+   "tl": "lutuán",
+   "en": "cooking utensils, place for cooking",
+   "pos": "noun",
+   "group": "an",
+   "say": "lu-tu-AN"
+  },
+  {
+   "id": "sasakyan-l40",
+   "tl": "sasakyán",
+   "en": "something to ride in",
+   "pos": "noun",
+   "group": "an",
+   "say": "sa-sak-YAN"
+  },
+  {
+   "id": "bahay-bahayan-l40",
+   "tl": "baháy-baháyan",
+   "en": "playhouse",
+   "pos": "noun",
+   "group": "dup",
+   "say": "ba-HAY-ba-HA-yan"
+  },
+  {
+   "id": "baro-l40",
+   "tl": "barò",
+   "en": "damit",
+   "pos": "noun",
+   "group": "dup",
+   "say": "BA-roQ",
+   "note": "The book explains barò with the Tagalog word damit. Lesson 4 glosses barò as dress; Lesson 7 has damít = cloth; dress."
+  },
+  {
+   "id": "baru-baruan-l40",
+   "tl": "barú-barúan",
+   "en": "doll clothes",
+   "pos": "noun",
+   "group": "dup",
+   "say": "ba-RU-ba-RU-an"
+  },
+  {
+   "id": "ina-inahan-l40",
+   "tl": "iná-ináhan",
+   "en": "pretending to be like a mother",
+   "pos": "noun",
+   "group": "dup",
+   "say": "i-NA-i-NA-han"
+  },
+  {
+   "id": "hari-l40",
+   "tl": "harí",
+   "en": "king",
+   "pos": "noun",
+   "group": "dup",
+   "say": "ha-RI"
+  },
+  {
+   "id": "hari-harian-l40",
+   "tl": "harí-harían",
+   "en": "acting like a king",
+   "pos": "noun",
+   "group": "dup",
+   "say": "ha-RI-ha-RI-an"
+  },
+  {
+   "id": "pari-l40",
+   "tl": "pári",
+   "en": "priest",
+   "pos": "noun",
+   "group": "dup",
+   "say": "PA-ri"
+  },
+  {
+   "id": "pari-parian-l40",
+   "tl": "parí-parían",
+   "en": "not a real priest",
+   "pos": "noun",
+   "group": "dup",
+   "say": "pa-RI-pa-RI-an"
+  },
+  {
+   "id": "buti-l40",
+   "tl": "buti",
+   "en": "good",
+   "pos": "adj",
+   "group": "ka"
+  },
+  {
+   "id": "kabutihan-l40",
+   "tl": "kabutíhan",
+   "en": "goodness",
+   "pos": "noun",
+   "group": "ka",
+   "say": "ka-bu-TI-han"
+  },
+  {
+   "id": "kabuhayan-l40",
+   "tl": "kabuháyan",
+   "en": "livelihood",
+   "pos": "noun",
+   "group": "ka",
+   "say": "ka-bu-HA-yan"
+  },
+  {
+   "id": "ligaya-l40",
+   "tl": "ligaya",
+   "en": "happy",
+   "pos": "adj",
+   "group": "ka"
+  },
+  {
+   "id": "kaligayahan-l40",
+   "tl": "kaligayáhan",
+   "en": "happiness",
+   "pos": "noun",
+   "group": "ka",
+   "say": "ka-li-ga-YA-han"
+  },
+  {
+   "id": "kabahayan-l40",
+   "tl": "kabahayán",
+   "en": "place of many houses",
+   "pos": "noun",
+   "group": "ka",
+   "say": "ka-ba-ha-YAN"
+  },
+  {
+   "id": "bukid-l40",
+   "tl": "bukid",
+   "en": "farm",
+   "pos": "noun",
+   "group": "ka"
+  },
+  {
+   "id": "kabukiran-l40",
+   "tl": "kabukirán",
+   "en": "farmlands",
+   "pos": "noun",
+   "group": "ka",
+   "say": "ka-bu-ki-RAN"
+  },
+  {
+   "id": "tagalog-l40",
+   "tl": "Tagálog",
+   "en": "refers to a language or people",
+   "pos": "noun",
+   "group": "ka",
+   "say": "Ta-GA-log"
+  },
+  {
+   "id": "katagalugan-l40",
+   "tl": "Katagalúgan",
+   "en": "place of the Tagalogs",
+   "pos": "noun",
+   "group": "ka",
+   "say": "Ka-ta-ga-LU-gan",
+   "note": "The background notes write Katagalugan (the Tagalog regions)."
+  },
+  {
+   "id": "kabataan-l40",
+   "tl": "kabatáan",
+   "en": "youth",
+   "pos": "noun",
+   "group": "ka",
+   "say": "ka-ba-TA-an"
+  },
+  {
+   "id": "tanda-l40",
+   "tl": "tandâ",
+   "en": "age",
+   "pos": "noun",
+   "group": "ka",
+   "say": "tan-daQ"
+  },
+  {
+   "id": "katandaan-l40",
+   "tl": "katandaán",
+   "en": "elders",
+   "pos": "noun",
+   "group": "ka",
+   "say": "ka-tan-da-AN"
+  },
+  {
+   "id": "mag-ina-l40",
+   "tl": "mag-iná",
+   "en": "mother and child",
+   "pos": "noun",
+   "group": "mag",
+   "say": "mag-i-NA"
+  },
+  {
+   "id": "mag-ama-l40",
+   "tl": "mag-amá",
+   "en": "father and child",
+   "pos": "noun",
+   "group": "mag",
+   "say": "mag-a-MA"
+  },
+  {
+   "id": "asawa-l40",
+   "tl": "asawa",
+   "en": "spouse",
+   "pos": "noun",
+   "group": "mag"
+  },
+  {
+   "id": "mag-asawa-l40",
+   "tl": "mag-asawa",
+   "en": "husband and wife",
+   "pos": "noun",
+   "group": "mag"
+  },
+  {
+   "id": "bigas-l40",
+   "tl": "bigás",
+   "en": "rice",
+   "pos": "noun",
+   "group": "mag",
+   "say": "bi-GAS"
+  },
+  {
+   "id": "magbibigas-l40",
+   "tl": "magbibigás",
+   "en": "rice merchant",
+   "pos": "noun",
+   "group": "mag",
+   "say": "mag-bi-bi-GAS"
+  },
+  {
+   "id": "saka-l40",
+   "tl": "saka",
+   "en": "farming",
+   "pos": "noun",
+   "group": "mag"
+  },
+  {
+   "id": "gamot-l40",
+   "tl": "gamót",
+   "en": "to cure",
+   "pos": "verb",
+   "group": "mag",
+   "say": "ga-MOT",
+   "note": "Lesson 7 glosses gamót as medicine."
+  },
+  {
+   "id": "manggagamot-l40",
+   "tl": "manggagamot",
+   "en": "doctor",
+   "pos": "noun",
+   "group": "mag"
+  },
+  {
+   "id": "manlalangoy-l40",
+   "tl": "manlalangoy",
+   "en": "swimmer",
+   "pos": "noun",
+   "group": "mag"
+  },
+  {
+   "id": "dagat-l40",
+   "tl": "dagat",
+   "en": "sea",
+   "pos": "noun",
+   "group": "mag",
+   "note": "Lesson 7 prints dágat."
+  },
+  {
+   "id": "mandaragat-l40",
+   "tl": "mandaragát",
+   "en": "seaman",
+   "pos": "noun",
+   "group": "mag",
+   "say": "man-da-ra-GAT"
+  },
+  {
+   "id": "digma-l40",
+   "tl": "digmâ",
+   "en": "war",
+   "pos": "noun",
+   "group": "mag",
+   "say": "dig-maQ"
+  },
+  {
+   "id": "mandirigma-l40",
+   "tl": "mandirigmâ",
+   "en": "warrior",
+   "pos": "noun",
+   "group": "mag",
+   "say": "man-di-rig-maQ"
+  },
+  {
+   "id": "laro-l40",
+   "tl": "larô",
+   "en": "to play, game",
+   "pos": "verb",
+   "group": "mag",
+   "say": "la-roQ"
+  },
+  {
+   "id": "manlalaro-l40",
+   "tl": "manlalarò",
+   "en": "player",
+   "pos": "noun",
+   "group": "mag",
+   "say": "man-la-LA-roQ",
+   "note": "Printed with a grave accent (ò), although larô has a circumflex."
+  },
+  {
+   "id": "umalis-l40",
+   "tl": "umalís",
+   "en": "left",
+   "pos": "verb",
+   "group": "pag",
+   "say": "u-ma-LIS",
+   "note": "Lesson 14 glosses umalís as to leave."
+  },
+  {
+   "id": "lumakad-l40",
+   "tl": "lumakad",
+   "en": "walked",
+   "pos": "verb",
+   "group": "pag",
+   "note": "Lesson 22 prints lumákad (to walk)."
+  },
+  {
+   "id": "paglakad-l40",
+   "tl": "paglakad",
+   "en": "walk",
+   "pos": "noun",
+   "group": "pag",
+   "note": "Lesson 38 glosses paglakad as walking."
+  },
+  {
+   "id": "umibig-l40",
+   "tl": "umibig",
+   "en": "loved",
+   "pos": "verb",
+   "group": "pag",
+   "note": "Lesson 38 prints umíbig (to love)."
+  },
+  {
+   "id": "maglaro-l40",
+   "tl": "maglarô",
+   "en": "to play",
+   "pos": "verb",
+   "group": "pag",
+   "say": "mag-la-roQ",
+   "note": "Lesson 14 prints maglaró."
+  },
+  {
+   "id": "pagsusulat-l40",
+   "tl": "pagsusulát",
+   "en": "writing",
+   "pos": "noun",
+   "group": "pag",
+   "say": "pag-su-su-LAT"
+  },
+  {
+   "id": "pulo-l40",
+   "tl": "pulô",
+   "en": "island",
+   "pos": "noun",
+   "group": "sang",
+   "say": "pu-loQ"
+  },
+  {
+   "id": "sangkapuluan-l40",
+   "tl": "sangkapuluán",
+   "en": "archipelago",
+   "pos": "noun",
+   "group": "sang",
+   "say": "sang-ka-pu-lu-AN"
+  },
+  {
+   "id": "langit-l40",
+   "tl": "langit",
+   "en": "heaven",
+   "pos": "noun",
+   "group": "sang",
+   "note": "Lesson 7 prints lángit (sky)."
+  },
+  {
+   "id": "sangkalangitan-l40",
+   "tl": "sangkalangitan",
+   "en": "heaven",
+   "pos": "noun",
+   "group": "sang"
+  },
+  {
+   "id": "sanggabi-l40",
+   "tl": "sanggabí",
+   "en": "one night",
+   "pos": "noun",
+   "group": "sang",
+   "say": "sang-ga-BI"
+  },
+  {
+   "id": "buwan-l40",
+   "tl": "buwan",
+   "en": "month",
+   "pos": "noun",
+   "group": "sang",
+   "note": "Lesson 13 prints buwán."
+  },
+  {
+   "id": "sambuwan-l40",
+   "tl": "sambuwán",
+   "en": "one month",
+   "pos": "noun",
+   "group": "sang",
+   "say": "sam-bu-WAN"
+  },
+  {
+   "id": "taon-l40",
+   "tl": "taon",
+   "en": "year",
+   "pos": "noun",
+   "group": "sang",
+   "note": "Lesson 13 prints taón."
+  },
+  {
+   "id": "santaon-l40",
+   "tl": "santaón",
+   "en": "one year",
+   "pos": "noun",
+   "group": "sang",
+   "say": "san-ta-ON"
+  },
+  {
+   "id": "araw-l40",
+   "tl": "araw",
+   "en": "sun, day",
+   "pos": "noun",
+   "group": "tag",
+   "note": "Lesson 3 prints áraw. In the tala- section the book glosses araw as day."
+  },
+  {
+   "id": "tag-araw-l40",
+   "tl": "tag-aráw",
+   "en": "dry season",
+   "pos": "noun",
+   "group": "tag",
+   "say": "tag-a-RAW"
+  },
+  {
+   "id": "tag-ulan-l40",
+   "tl": "tag-ulán",
+   "en": "wet season",
+   "pos": "noun",
+   "group": "tag",
+   "say": "tag-u-LAN"
+  },
+  {
+   "id": "lamig-l40",
+   "tl": "lamíg",
+   "en": "cold",
+   "pos": "noun",
+   "group": "tag",
+   "say": "la-MIG"
+  },
+  {
+   "id": "taglamig-l40",
+   "tl": "taglamíg",
+   "en": "cold season",
+   "pos": "noun",
+   "group": "tag",
+   "say": "tag-la-MIG"
+  },
+  {
+   "id": "gutom-l40",
+   "tl": "gutom",
+   "en": "hunger",
+   "pos": "noun",
+   "group": "tag"
+  },
+  {
+   "id": "taggutom-l40",
+   "tl": "taggutóm",
+   "en": "famine",
+   "pos": "noun",
+   "group": "tag",
+   "say": "tag-gu-TOM"
+  },
+  {
+   "id": "tag-ani-l40",
+   "tl": "tag-ani",
+   "en": "harvest time",
+   "pos": "noun",
+   "group": "tag"
+  },
+  {
+   "id": "taga-batangas-l40",
+   "tl": "taga-Batangas",
+   "en": "from Batangas",
+   "pos": "phrase",
+   "group": "taga",
+   "note": "Si Laurel ay taga-Batangas = Laurel is from Batangas."
+  },
+  {
+   "id": "taga-mindanao-l40",
+   "tl": "taga-Mindanao",
+   "en": "from Mindanao",
+   "pos": "phrase",
+   "group": "taga",
+   "note": "Ang mga Muslim ay taga-Mindanao = Muslims are from Mindanao."
+  },
+  {
+   "id": "mga-taga-baryo-l40",
+   "tl": "mga taga-baryo",
+   "en": "those from the barrio",
+   "pos": "phrase",
+   "group": "taga",
+   "note": "Ang mga taga-baryo ay marúnong magtaním = Those from the barrio know how to plant."
+  },
+  {
+   "id": "dala-l40",
+   "tl": "dalá",
+   "en": "bring",
+   "pos": "verb",
+   "group": "taga",
+   "say": "da-LA"
+  },
+  {
+   "id": "tagadala-l40",
+   "tl": "tagadalá",
+   "en": "one who brings",
+   "pos": "noun",
+   "group": "taga",
+   "say": "ta-ga-da-LA"
+  },
+  {
+   "id": "kartero-l40",
+   "tl": "kartéro",
+   "en": "postman",
+   "pos": "noun",
+   "group": "taga",
+   "say": "kar-TE-ro"
+  },
+  {
+   "id": "turo-l40",
+   "tl": "turò",
+   "en": "teach",
+   "pos": "verb",
+   "group": "taga",
+   "say": "TU-roQ"
+  },
+  {
+   "id": "tagaturo-l40",
+   "tl": "tagaturò",
+   "en": "one who teaches",
+   "pos": "noun",
+   "group": "taga",
+   "say": "ta-ga-TU-roQ"
+  },
+  {
+   "id": "bili-l40",
+   "tl": "bilí",
+   "en": "buy",
+   "pos": "verb",
+   "group": "taga",
+   "say": "bi-LI"
+  },
+  {
+   "id": "tagabili-l40",
+   "tl": "tagabilí",
+   "en": "one who buys",
+   "pos": "noun",
+   "group": "taga",
+   "say": "ta-ga-bi-LI"
+  },
+  {
+   "id": "tagaluto-l40",
+   "tl": "tagalutò",
+   "en": "one who cooks",
+   "pos": "noun",
+   "group": "taga",
+   "say": "ta-ga-LU-toQ"
+  },
+  {
+   "id": "tinig-l40",
+   "tl": "tinig",
+   "en": "voice",
+   "pos": "noun",
+   "group": "tala"
+  },
+  {
+   "id": "talatinigan-l40",
+   "tl": "talátinígan",
+   "en": "dictionary",
+   "pos": "noun",
+   "group": "tala",
+   "say": "ta-LA-ti-NI-gan"
+  },
+  {
+   "id": "talaaklatan-l40",
+   "tl": "taláaklatan",
+   "en": "catalogue of books",
+   "pos": "noun",
+   "group": "tala",
+   "say": "ta-LA-ak-la-tan"
+  },
+  {
+   "id": "talaarawan-l40",
+   "tl": "taláarawán",
+   "en": "diary or journal",
+   "pos": "noun",
+   "group": "tala",
+   "say": "ta-LA-a-ra-WAN"
+  },
+  {
+   "id": "upa-l40",
+   "tl": "upa",
+   "en": "rent",
+   "pos": "noun",
+   "group": "tala",
+   "note": "Lesson 14 prints úpa."
+  },
+  {
+   "id": "talaupahan-l40",
+   "tl": "taláupahán",
+   "en": "payroll",
+   "pos": "noun",
+   "group": "tala",
+   "say": "ta-LA-u-pa-HAN"
+  },
+  {
+   "id": "ilan-l40",
+   "tl": "ilán",
+   "en": "a few",
+   "pos": "adj",
+   "group": "plural",
+   "say": "i-LAN",
+   "note": "Lesson 9 uses ilán for how many. Before a noun: iláng táo (a few men)."
+  },
+  {
+   "id": "marami-l40",
+   "tl": "marami",
+   "en": "many",
+   "pos": "adj",
+   "group": "plural",
+   "note": "Lesson 6 prints marámi. Before a noun: maraming táo (many men)."
+  },
+  {
+   "id": "magaganda-l40",
+   "tl": "magagandá",
+   "en": "pretty (plural)",
+   "pos": "adj",
+   "group": "plural",
+   "say": "ma-ga-gan-DA",
+   "note": "Printed with the ligature: Magagandáng dalaga ang áming panaúhin = Our visitors are pretty ladies."
+  },
+  {
+   "id": "mababait-l40",
+   "tl": "mababaít",
+   "en": "good (plural)",
+   "pos": "adj",
+   "group": "plural",
+   "say": "ma-ba-ba-IT",
+   "note": "Mababaít na batà ang inyóng mga anák = Your children are good."
+  },
+  {
+   "id": "malalaki-l40",
+   "tl": "malalakí",
+   "en": "big (plural)",
+   "pos": "adj",
+   "group": "plural",
+   "say": "ma-la-la-KI",
+   "note": "Báhay na malalakí ang nákita námin = We saw big houses."
+  },
+  {
+   "id": "panauhin-l40",
+   "tl": "panaúhin",
+   "en": "visitors",
+   "pos": "noun",
+   "group": "plural",
+   "say": "pa-na-U-hin"
+  },
+  {
+   "id": "bahay-bahay-l40",
+   "tl": "baháy-baháy",
+   "en": "from house to house",
+   "pos": "noun",
+   "group": "plural",
+   "say": "ba-HAY-ba-HAY",
+   "note": "Pumaroón kamí sa mga baháy-baháy sa Lingayen = We went from house to house in Lingayen."
+  },
+  {
+   "id": "bagay-bagay-l40",
+   "tl": "bágay-bágay",
+   "en": "several things",
+   "pos": "noun",
+   "group": "plural",
+   "say": "BA-gay-BA-gay",
+   "note": "Bumilí kamí ng mga bágay-bágay para sa kusína = We bought several things for the kitchen."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "What does aklátan mean?",
+   "options": [
+    "library",
+    "woodpile",
+    "piggery"
+   ],
+   "answer": "library",
+   "explain": "aklát (book) + -an = a place where books are kept."
+  },
+  {
+   "type": "choice",
+   "q": "In anihán, pasukán and tániman, what does -an refer to?",
+   "options": [
+    "a season",
+    "a miniature version",
+    "a relationship"
+   ],
+   "answer": "a season",
+   "explain": "harvest time, school day, planting season."
+  },
+  {
+   "type": "choice",
+   "q": "What is an inúman?",
+   "options": [
+    "something to drink from",
+    "something to ride in",
+    "something to write on"
+   ],
+   "answer": "something to drink from",
+   "explain": "inóm (to drink) + -an."
+  },
+  {
+   "type": "choice",
+   "q": "What does baháy-baháyan mean?",
+   "options": [
+    "playhouse",
+    "group of houses",
+    "from house to house"
+   ],
+   "answer": "playhouse",
+   "explain": "A doubled root + -an can mean a miniature version."
+  },
+  {
+   "type": "choice",
+   "q": "What does harí-harían mean?",
+   "options": [
+    "acting like a king",
+    "king",
+    "not a real priest"
+   ],
+   "answer": "acting like a king",
+   "explain": "A doubled root + -an can mean an imitator or copycat."
+  },
+  {
+   "type": "choice",
+   "q": "What does kaligayáhan mean?",
+   "options": [
+    "happiness",
+    "livelihood",
+    "goodness"
+   ],
+   "answer": "happiness",
+   "explain": "ka- + ligaya (happy) + -han."
+  },
+  {
+   "type": "choice",
+   "q": "Why is it kabukirán and not kabukidán?",
+   "options": [
+    "Roots ending in d change d to r when a suffix is added",
+    "The o changes to u",
+    "Sang- changes to san-"
+   ],
+   "answer": "Roots ending in d change d to r when a suffix is added",
+   "explain": "bukid → kabukirán."
+  },
+  {
+   "type": "choice",
+   "q": "Why does lutò become lutuán?",
+   "options": [
+    "The o changes to u when a suffix is added",
+    "The d changes to r",
+    "The root is said twice"
+   ],
+   "answer": "The o changes to u when a suffix is added",
+   "explain": "Also barò → barú-barúan and inóm → inúman."
+  },
+  {
+   "type": "choice",
+   "q": "What does mag-asawa mean?",
+   "options": [
+    "husband and wife",
+    "mother and child",
+    "brothers or sisters"
+   ],
+   "answer": "husband and wife",
+   "explain": "mag- + asawa (spouse)."
+  },
+  {
+   "type": "choice",
+   "q": "Which word means \"rice merchant\"?",
+   "options": [
+    "magbibigás",
+    "magsasaká",
+    "manggagamot"
+   ],
+   "answer": "magbibigás",
+   "explain": "mag- + bi + bigás (rice)."
+  },
+  {
+   "type": "choice",
+   "q": "Why is it mandirigmâ and not mang-?",
+   "options": [
+    "The root digmâ starts with d",
+    "The root ends in a glottal stop",
+    "The noun is plural"
+   ],
+   "answer": "The root digmâ starts with d",
+   "explain": "Roots starting with d, l, r, s and t take man-."
+  },
+  {
+   "type": "choice",
+   "q": "Which verbal noun comes from umalís (left)?",
+   "options": [
+    "pag-alís",
+    "paglalarô",
+    "pagtáwag"
+   ],
+   "answer": "pag-alís",
+   "explain": "Pag- replaces -um-, with a hyphen before a vowel."
+  },
+  {
+   "type": "choice",
+   "q": "What does sang- + ka- + root + -an mean?",
+   "options": [
+    "the whole of",
+    "one",
+    "season or time of"
+   ],
+   "answer": "the whole of",
+   "explain": "sangkapuluán = archipelago, from pulô (island)."
+  },
+  {
+   "type": "choice",
+   "q": "What does santaón mean?",
+   "options": [
+    "one year",
+    "one month",
+    "one night"
+   ],
+   "answer": "one year",
+   "explain": "sang- + taon, with san- before t."
+  },
+  {
+   "type": "choice",
+   "q": "What does tag-ulán mean?",
+   "options": [
+    "wet season",
+    "dry season",
+    "cold season"
+   ],
+   "answer": "wet season",
+   "explain": "tag- + ulán (rain)."
+  },
+  {
+   "type": "choice",
+   "q": "What does \"Si Laurel ay taga-Batangas\" mean?",
+   "options": [
+    "Laurel is from Batangas.",
+    "Laurel teaches in Batangas.",
+    "Laurel buys food in Batangas."
+   ],
+   "answer": "Laurel is from Batangas.",
+   "explain": "taga- + a place = a native or resident of that place."
+  },
+  {
+   "type": "choice",
+   "q": "What does tagaturò mean?",
+   "options": [
+    "one who teaches",
+    "one who cooks",
+    "one who buys"
+   ],
+   "answer": "one who teaches",
+   "explain": "taga- + turò (teach)."
+  },
+  {
+   "type": "choice",
+   "q": "Which word means \"dictionary\"?",
+   "options": [
+    "talátinígan",
+    "taláarawán",
+    "taláupahán"
+   ],
+   "answer": "talátinígan",
+   "explain": "tala- + tinig (voice) + -an."
+  },
+  {
+   "type": "choice",
+   "q": "Which word means \"a few\"?",
+   "options": [
+    "ilán",
+    "marami",
+    "sampû"
+   ],
+   "answer": "ilán",
+   "explain": "Iláng táo ang umalís = A few men left."
+  },
+  {
+   "type": "listen",
+   "tl": "manggagamot",
+   "options": [
+    "doctor",
+    "swimmer",
+    "seaman"
+   ],
+   "answer": "doctor",
+   "explain": "mang- + ga + gamót (to cure)."
+  },
+  {
+   "type": "listen",
+   "tl": "taláarawán",
+   "options": [
+    "diary or journal",
+    "catalogue of books",
+    "payroll"
+   ],
+   "answer": "diary or journal",
+   "explain": "tala- + araw (day) + -an."
+  },
+  {
+   "type": "listen",
+   "tl": "bágay-bágay",
+   "options": [
+    "several things",
+    "from house to house",
+    "playhouse"
+   ],
+   "answer": "several things",
+   "explain": "Bumilí kamí ng mga bágay-bágay para sa kusína."
+  },
+  {
+   "type": "build",
+   "en": "Laurel is from Batangas.",
+   "tl": "Si Laurel ay taga-Batangas.",
+   "tokens": [
+    "si",
+    "laurel",
+    "ay",
+    "taga-batangas"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Those from the barrio know how to plant.",
+   "tl": "Ang mga taga-baryo ay marúnong magtaním.",
+   "tokens": [
+    "ang",
+    "mga",
+    "taga-baryo",
+    "ay",
+    "marúnong",
+    "magtaním"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Many men left.",
+   "tl": "Maraming táo ang umalís.",
+   "tokens": [
+    "maraming",
+    "táo",
+    "ang",
+    "umalís"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Your children are good.",
+   "tl": "Mababaít na batà ang inyóng mga anák.",
+   "tokens": [
+    "mababaít",
+    "na",
+    "batà",
+    "ang",
+    "inyóng",
+    "mga",
+    "anák"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "We went from house to house in Lingayen.",
+   "tl": "Pumaroón kamí sa mga baháy-baháy sa Lingayen.",
+   "tokens": [
+    "pumaroón",
+    "kamí",
+    "sa",
+    "mga",
+    "baháy-baháy",
+    "sa",
+    "lingayen"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match each tag- word to its season.",
+   "pairs": [
+    [
+     "tag-aráw",
+     "dry season"
+    ],
+    [
+     "tag-ulán",
+     "wet season"
+    ],
+    [
+     "taglamíg",
+     "cold season"
+    ],
+    [
+     "tag-ani",
+     "harvest time"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each mag- word to its meaning.",
+   "pairs": [
+    [
+     "mag-iná",
+     "mother and child"
+    ],
+    [
+     "mag-amá",
+     "father and child"
+    ],
+    [
+     "mag-asawa",
+     "husband and wife"
+    ],
+    [
+     "magkapatíd",
+     "brothers or sisters"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each job to its meaning.",
+   "pairs": [
+    [
+     "manlalangoy",
+     "swimmer"
+    ],
+    [
+     "mandaragát",
+     "seaman"
+    ],
+    [
+     "mandirigmâ",
+     "warrior"
+    ],
+    [
+     "manlalarò",
+     "player"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "-an makes a place (aklátan), a season (anihán) or a thing you use (inúman); a doubled root + -an makes a miniature (baháy-baháyan) or a copycat (harí-harían).",
+  "Ka-…-an makes an idea (kaligayáhan) or a group (kabukirán). Before a suffix, o becomes u and a final d becomes r.",
+  "Mag- names a pair (mag-asawa) or a job (magbibigás); mang-/man- names a job (manggagamot, mandaragát).",
+  "Pag- makes verbal nouns: pag-alís, pagsusulát, pagbása.",
+  "Sang- = the whole of / one (sangkapuluán, santaón); tag- = a season (tag-ulán); taga- = from a place or one who does (tagaturò); tala-…-an = a list (talátinígan).",
+  "Plural nouns: siná / ang mga, a number or ilán / marami, a plural adjective (mababaít), or a doubled root (baháy-baháy)."
+ ]
+}

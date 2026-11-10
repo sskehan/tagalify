@@ -1,0 +1,1412 @@
+{
+ "id": "l44",
+ "label": "44",
+ "title": "Colors",
+ "summary": "Basic colors (pulá, asúl, diláw, bérde…), dark colors (asúl na asúl), light colors with murá, shades (mapúla-púla, pulahán) and colors named after things (bérdeng mansánas, gintô)",
+ "minutes": 30,
+ "goals": [
+  "Name the basic colors, including black and white",
+  "Talk about brown things and brown skin the Tagalog way",
+  "Make dark or bright colors by repeating the color word with a ligature",
+  "Make light or pale colors with murá",
+  "Make shades with ma- (or mang-) and with -an / -han"
+ ],
+ "sections": [
+  {
+   "title": "Brown: a gap in Tagalog",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Tagalog does not have a word for every English color. For example, it has **no equivalent for brown** or its shades, such as golden brown. In cooking, golden brown is usually expressed with **pulá** (*red*):"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Prituhin mo ang isdâ hanggáng pumulá.",
+       "en": "Fry the fish until it turns golden brown.",
+       "parts": [
+        [
+         "Prituhin",
+         "fry",
+         "pred"
+        ],
+        [
+         "mo",
+         "you",
+         "pron"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "isdâ",
+         "fish",
+         "noun"
+        ],
+        [
+         "hanggáng",
+         "until",
+         "other"
+        ],
+        [
+         "pumulá",
+         "turns golden brown",
+         "pred"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "p",
+     "t": "**Kayumanggí** is used for the color of the **Filipino race and their skin** (sometimes called **morena**, a word of Spanish origin). It is only used for race and skin color, **not for brown things**."
+    },
+    {
+     "type": "p",
+     "t": "For a brown thing or object, use a descriptive phrase with **kulay**:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Tagalog",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[kulay kapé|pred]]",
+       "coffee-colored"
+      ],
+      [
+       "[[kulay tsokoláte|pred]]",
+       "chocolate-colored"
+      ]
+     ],
+     "title": "Brown things"
+    },
+    {
+     "type": "vocab",
+     "group": "brown",
+     "title": "Brown"
+    }
+   ]
+  },
+  {
+   "title": "Basic colors",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The word for black is **itím** and the word for white is **putî**. Here are the primary and secondary colors:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "English",
+      "Tagalog"
+     ],
+     "rows": [
+      [
+       "red",
+       "[[pulá|pred]]"
+      ],
+      [
+       "blue",
+       "[[asúl|pred]] or [[bugháw|pred]]"
+      ],
+      [
+       "yellow",
+       "[[diláw|pred]]"
+      ],
+      [
+       "green",
+       "[[bérde|pred]] or [[luntían|pred]]"
+      ],
+      [
+       "violet",
+       "[[ube|pred]]"
+      ],
+      [
+       "orange",
+       "[[kulay kahél|pred]]"
+      ],
+      [
+       "black",
+       "[[itím|pred]]"
+      ],
+      [
+       "white",
+       "[[putî|pred]]"
+      ]
+     ],
+     "title": "Basic colors"
+    },
+    {
+     "type": "table",
+     "head": [
+      "English",
+      "Tagalog"
+     ],
+     "rows": [
+      [
+       "purple",
+       "[[lila|pred]]"
+      ],
+      [
+       "pink",
+       "[[rósas|pred]]"
+      ],
+      [
+       "gray",
+       "[[abó|pred]] (literally *ash*)"
+      ]
+     ],
+     "title": "Purple, pink and gray"
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Book spellings",
+     "items": [
+      "The vocabulary list prints **asul/bughaw** without accent marks; the color list prints **asúl** and **bugháw**.",
+      "The notes in the shades section print **pula**, **puti** and **itim** without accent marks."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "basic",
+     "title": "Basic colors"
+    }
+   ]
+  },
+  {
+   "title": "Dark and bright colors",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "For darker, solid or brilliant shades, **say the color twice**, joined by the ligature **na** or **-ng** (Lesson 7)."
+    },
+    {
+     "type": "pattern",
+     "title": "color + na / -ng + color",
+     "rows": [
+      {
+       "label": "na",
+       "chips": [
+        {
+         "t": "asúl",
+         "r": "pred"
+        },
+        {
+         "t": "na",
+         "r": "link"
+        },
+        {
+         "t": "asúl",
+         "r": "pred"
+        }
+       ]
+      },
+      {
+       "label": "-ng",
+       "chips": [
+        {
+         "t": "bérde",
+         "r": "pred"
+        },
+        {
+         "t": "-ng",
+         "r": "link"
+        },
+        {
+         "t": "bérde",
+         "r": "pred"
+        },
+        {
+         "t": "→ bérdeng-bérde",
+         "r": "pred"
+        }
+       ]
+      }
+     ],
+     "note": "navy blue · dark green"
+    },
+    {
+     "type": "table",
+     "head": [
+      "English",
+      "Tagalog"
+     ],
+     "rows": [
+      [
+       "navy blue",
+       "[[asúl na asúl|pred]]"
+      ],
+      [
+       "bright yellow",
+       "[[diláw na diláw|pred]]"
+      ],
+      [
+       "dark green",
+       "[[bérdeng-bérde|pred]]"
+      ],
+      [
+       "very black",
+       "[[itím na itím|pred]]"
+      ]
+     ],
+     "title": "Dark colors"
+    },
+    {
+     "type": "vocab",
+     "group": "dark",
+     "title": "Dark colors"
+    }
+   ]
+  },
+  {
+   "title": "Light colors with murá",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Lighter colors (unless they have their own Tagalog name) take the word **murá**, placed either **before or after** the color."
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "Three meanings of murá",
+     "items": [
+      "**pale** or **light** (for colors)",
+      "an **unripe fruit**",
+      "something that is **cheap or not expensive**"
+     ]
+    },
+    {
+     "type": "table",
+     "head": [
+      "English",
+      "Tagalog"
+     ],
+     "rows": [
+      [
+       "pale blue",
+       "[[asúl na murá|pred]]"
+      ],
+      [
+       "light green",
+       "[[muráng bérde|pred]]"
+      ],
+      [
+       "pale yellow",
+       "[[diláw na murá|pred]]"
+      ]
+     ],
+     "title": "Light colors"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Before or after",
+     "t": "After the color, use **na**: asúl **na** murá. Before the color, murá takes **-ng**: murá**ng** bérde."
+    },
+    {
+     "type": "vocab",
+     "group": "light",
+     "title": "Light colors"
+    }
+   ]
+  },
+  {
+   "title": "Shades",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "There are two ways to show a **shade** of a primary or secondary color:"
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "Two formulas",
+     "items": [
+      "**ma- + the root repeated**, with a hyphen between: mabérde-bérde.",
+      "**root + -an** (or **-han**): pulahán, dilawán.",
+      "**Asul** and **itim** take **mang-** instead of ma-. In mangasúl-ngasúl, the **ng** of mang- is repeated in the second half after the hyphen."
+     ]
+    },
+    {
+     "type": "table",
+     "head": [
+      "Color",
+      "ma- / mang- form",
+      "-an form"
+     ],
+     "rows": [
+      [
+       "blue",
+       "[[mangasúl-ngasúl|pred]]",
+       "[[asúlan|pred]]"
+      ],
+      [
+       "green",
+       "[[mabérde-bérde|pred]]",
+       "[[luntían|pred]]"
+      ],
+      [
+       "red",
+       "[[mapúla-púla|pred]] / [[mamúla-múla|pred]]",
+       "[[pulahán|pred]]"
+      ],
+      [
+       "white",
+       "[[maputî-putî|pred]] / [[mamutî-mutî|pred]]",
+       "[[putián|pred]]"
+      ],
+      [
+       "yellow",
+       "[[maniláw-niláw|pred]]",
+       "[[dilawán|pred]]"
+      ]
+     ],
+     "title": "Shades of color"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Sound changes",
+     "t": "After a prefix such as ma-, the first **d** of diláw changes to **n** (maniláw-niláw), and the **p** of pula and puti can change to **m** (mamúla-múla, mamutî-mutî). These changes were covered in earlier lessons."
+    },
+    {
+     "type": "vocab",
+     "group": "shade",
+     "title": "Shades"
+    }
+   ]
+  },
+  {
+   "title": "Colors named after things",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Some color names point to a common material, so just naming the material suggests the color."
+    },
+    {
+     "type": "table",
+     "head": [
+      "English",
+      "Tagalog"
+     ],
+     "rows": [
+      [
+       "apple green",
+       "[[bérdeng mansánas|pred]]"
+      ],
+      [
+       "moss green",
+       "[[bérdeng lúmot|pred]]"
+      ],
+      [
+       "gold/golden",
+       "[[gintô|pred]] / [[ginintuán|pred]]"
+      ],
+      [
+       "silver",
+       "[[pilak|pred]] / [[pinilakan|pred]]"
+      ]
+     ],
+     "title": "Other colors"
+    },
+    {
+     "type": "vocab",
+     "group": "other",
+     "title": "Other colors"
+    }
+   ]
+  },
+  {
+   "title": "Sample sentences",
+   "blocks": [
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Puláng-pulá ang kanyáng sapatos.",
+       "en": "His/her shoes are bright red.",
+       "parts": [
+        [
+         "Puláng-pulá",
+         "bright red",
+         "pred"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "kanyáng",
+         "his/her",
+         "poss"
+        ],
+        [
+         "sapatos",
+         "shoes",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang mga luntíang dáhon ay malamíg sa matá.",
+       "en": "Green leaves are refreshing to the eyes.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "mga",
+         "plural",
+         "marker"
+        ],
+        [
+         "luntíang",
+         "green (+ ligature)",
+         "pred"
+        ],
+        [
+         "dáhon",
+         "leaves",
+         "noun"
+        ],
+        [
+         "ay",
+         "are",
+         "ay"
+        ],
+        [
+         "malamíg",
+         "refreshing",
+         "pred"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "matá",
+         "eyes",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang diláw na murá ay bagay sa maputíng balát.",
+       "en": "Pale yellow is suited to those who are fair skinned.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "diláw",
+         "yellow",
+         "noun"
+        ],
+        [
+         "na",
+         "(ligature)",
+         "link"
+        ],
+        [
+         "murá",
+         "pale",
+         "pred"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "bagay",
+         "suited",
+         "pred"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "maputíng balát",
+         "fair skin",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Marami ákong baróng tagalog na kulay-abó.",
+       "en": "I have many ash-colored barong tagalog (formal wear for men).",
+       "parts": [
+        [
+         "Marami",
+         "many",
+         "pred"
+        ],
+        [
+         "ákong",
+         "I (+ ligature)",
+         "pron"
+        ],
+        [
+         "baróng tagalog",
+         "barong tagalog",
+         "noun"
+        ],
+        [
+         "na",
+         "(ligature)",
+         "link"
+        ],
+        [
+         "kulay-abó",
+         "ash-colored",
+         "pred"
+        ]
+       ]
+      }
+     ],
+     "title": "The book's sample sentences"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Spot the ligatures",
+     "t": "Look for **na** and **-ng** joining the colors to other words: luntían**g** dáhon, diláw **na** murá, **na** kulay-abó, and pulá**ng**-pulá (bright red, a doubled color)."
+    },
+    {
+     "type": "vocab",
+     "group": "sent",
+     "title": "Words from the sample sentences"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "No Tagalog word for brown: kayumanggí is for skin and race only; things are kulay kapé or kulay tsokoláte.",
+      "Basic colors: pulá, asúl/bugháw, diláw, bérde/luntían, ube, kulay kahél, itím, putî.",
+      "Dark: repeat the color with na or -ng (asúl na asúl, bérdeng-bérde).",
+      "Light: add murá (asúl na murá, muráng bérde).",
+      "Shades: ma- + repeated root (mang- for asúl), or root + -an (pulahán)."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "pumula-l44",
+   "tl": "pumulá",
+   "en": "turns golden brown (in cooking)",
+   "pos": "verb",
+   "group": "brown",
+   "say": "pu-mu-LA",
+   "note": "Prituhin mo ang isdâ hanggáng pumulá = Fry the fish until it turns golden brown."
+  },
+  {
+   "id": "prituhin-l44",
+   "tl": "prituhin",
+   "en": "fry",
+   "pos": "verb",
+   "group": "brown",
+   "note": "Prituhin mo… = Fry…"
+  },
+  {
+   "id": "kayumanggi-l44",
+   "tl": "kayumanggí",
+   "en": "brown (referring to race or color of skin)",
+   "pos": "adj",
+   "group": "brown",
+   "say": "ka-yu-mang-GI",
+   "note": "Not used for brown things"
+  },
+  {
+   "id": "morena-l44",
+   "tl": "morena",
+   "en": "brown skin color (Spanish in origin)",
+   "pos": "adj",
+   "group": "brown"
+  },
+  {
+   "id": "kulay-kape-l44",
+   "tl": "kulay kapé",
+   "en": "coffee-colored",
+   "pos": "phrase",
+   "group": "brown",
+   "say": "ku-lay ka-PE"
+  },
+  {
+   "id": "kulay-tsokolate-l44",
+   "tl": "kulay tsokoláte",
+   "en": "chocolate-colored",
+   "pos": "phrase",
+   "group": "brown",
+   "say": "ku-lay tso-ko-LA-te"
+  },
+  {
+   "id": "pula-l44",
+   "tl": "pulá",
+   "en": "red",
+   "pos": "adj",
+   "group": "basic",
+   "say": "pu-LA"
+  },
+  {
+   "id": "asul-l44",
+   "tl": "asúl",
+   "en": "blue",
+   "pos": "adj",
+   "group": "basic",
+   "say": "a-SUL",
+   "note": "The vocabulary list prints asul."
+  },
+  {
+   "id": "bughaw-l44",
+   "tl": "bugháw",
+   "en": "blue",
+   "pos": "adj",
+   "group": "basic",
+   "say": "bug-HAW",
+   "note": "The vocabulary list prints bughaw."
+  },
+  {
+   "id": "dilaw-l44",
+   "tl": "diláw",
+   "en": "yellow",
+   "pos": "adj",
+   "group": "basic",
+   "say": "di-LAW"
+  },
+  {
+   "id": "berde-l44",
+   "tl": "bérde",
+   "en": "green",
+   "pos": "adj",
+   "group": "basic",
+   "say": "BER-de"
+  },
+  {
+   "id": "luntian-l44",
+   "tl": "luntían",
+   "en": "green",
+   "pos": "adj",
+   "group": "basic",
+   "say": "lun-TI-an",
+   "note": "Also listed as a shade of green"
+  },
+  {
+   "id": "ube-l44",
+   "tl": "ube",
+   "en": "violet",
+   "pos": "adj",
+   "group": "basic"
+  },
+  {
+   "id": "kulay-kahel-l44",
+   "tl": "kulay kahél",
+   "en": "orange",
+   "pos": "adj",
+   "group": "basic",
+   "say": "ku-lay ka-HEL"
+  },
+  {
+   "id": "itim-l44",
+   "tl": "itím",
+   "en": "black",
+   "pos": "adj",
+   "group": "basic",
+   "say": "i-TIM"
+  },
+  {
+   "id": "puti-l44",
+   "tl": "putî",
+   "en": "white",
+   "pos": "adj",
+   "group": "basic",
+   "say": "pu-tiQ"
+  },
+  {
+   "id": "lila-l44",
+   "tl": "lila",
+   "en": "purple",
+   "pos": "adj",
+   "group": "basic"
+  },
+  {
+   "id": "rosas-l44",
+   "tl": "rósas",
+   "en": "pink",
+   "pos": "adj",
+   "group": "basic",
+   "say": "RO-sas"
+  },
+  {
+   "id": "abo-l44",
+   "tl": "abó",
+   "en": "gray (literally ash)",
+   "pos": "adj",
+   "group": "basic",
+   "say": "a-BO"
+  },
+  {
+   "id": "asul-na-asul-l44",
+   "tl": "asúl na asúl",
+   "en": "navy blue",
+   "pos": "phrase",
+   "group": "dark",
+   "say": "a-SUL na a-SUL"
+  },
+  {
+   "id": "dilaw-na-dilaw-l44",
+   "tl": "diláw na diláw",
+   "en": "bright yellow",
+   "pos": "phrase",
+   "group": "dark",
+   "say": "di-LAW na di-LAW"
+  },
+  {
+   "id": "berdeng-berde-l44",
+   "tl": "bérdeng-bérde",
+   "en": "dark green",
+   "pos": "phrase",
+   "group": "dark",
+   "say": "BER-deng BER-de"
+  },
+  {
+   "id": "itim-na-itim-l44",
+   "tl": "itím na itím",
+   "en": "very black",
+   "pos": "phrase",
+   "group": "dark",
+   "say": "i-TIM na i-TIM"
+  },
+  {
+   "id": "pulang-pula-l44",
+   "tl": "puláng-pulá",
+   "en": "bright red",
+   "pos": "phrase",
+   "group": "dark",
+   "say": "pu-LANG pu-LA",
+   "note": "From the sample sentence: Puláng-pulá ang kanyáng sapatos."
+  },
+  {
+   "id": "mura-l44",
+   "tl": "murá",
+   "en": "pale; light (color); unripe fruit; cheap, not expensive",
+   "pos": "adj",
+   "group": "light",
+   "say": "mu-RA",
+   "note": "Lesson 4 prints múra (cheap)."
+  },
+  {
+   "id": "asul-na-mura-l44",
+   "tl": "asúl na murá",
+   "en": "pale blue",
+   "pos": "phrase",
+   "group": "light",
+   "say": "a-SUL na mu-RA"
+  },
+  {
+   "id": "murang-berde-l44",
+   "tl": "muráng bérde",
+   "en": "light green",
+   "pos": "phrase",
+   "group": "light",
+   "say": "mu-RANG BER-de"
+  },
+  {
+   "id": "dilaw-na-mura-l44",
+   "tl": "diláw na murá",
+   "en": "pale yellow",
+   "pos": "phrase",
+   "group": "light",
+   "say": "di-LAW na mu-RA"
+  },
+  {
+   "id": "mangasul-ngasul-l44",
+   "tl": "mangasúl-ngasúl",
+   "en": "a shade of blue",
+   "pos": "adj",
+   "group": "shade",
+   "say": "ma-nga-SUL nga-SUL"
+  },
+  {
+   "id": "asulan-l44",
+   "tl": "asúlan",
+   "en": "a shade of blue",
+   "pos": "adj",
+   "group": "shade",
+   "say": "a-SU-lan"
+  },
+  {
+   "id": "maberde-berde-l44",
+   "tl": "mabérde-bérde",
+   "en": "a shade of green",
+   "pos": "adj",
+   "group": "shade",
+   "say": "ma-BER-de BER-de"
+  },
+  {
+   "id": "mapula-pula-l44",
+   "tl": "mapúla-púla",
+   "en": "a shade of red",
+   "pos": "adj",
+   "group": "shade",
+   "say": "ma-PU-la PU-la",
+   "note": "Also mamúla-múla"
+  },
+  {
+   "id": "mamula-mula-l44",
+   "tl": "mamúla-múla",
+   "en": "a shade of red",
+   "pos": "adj",
+   "group": "shade",
+   "say": "ma-MU-la MU-la",
+   "note": "The p of pula changes to m"
+  },
+  {
+   "id": "pulahan-l44",
+   "tl": "pulahán",
+   "en": "a shade of red",
+   "pos": "adj",
+   "group": "shade",
+   "say": "pu-la-HAN"
+  },
+  {
+   "id": "maputi-puti-l44",
+   "tl": "maputî-putî",
+   "en": "a shade of white",
+   "pos": "adj",
+   "group": "shade",
+   "say": "ma-pu-tiQ pu-tiQ",
+   "note": "Also mamutî-mutî"
+  },
+  {
+   "id": "mamuti-muti-l44",
+   "tl": "mamutî-mutî",
+   "en": "a shade of white",
+   "pos": "adj",
+   "group": "shade",
+   "say": "ma-mu-tiQ mu-tiQ",
+   "note": "The p of puti changes to m"
+  },
+  {
+   "id": "putian-l44",
+   "tl": "putián",
+   "en": "a shade of white",
+   "pos": "adj",
+   "group": "shade",
+   "say": "pu-ti-AN"
+  },
+  {
+   "id": "manilaw-nilaw-l44",
+   "tl": "maniláw-niláw",
+   "en": "a shade of yellow",
+   "pos": "adj",
+   "group": "shade",
+   "say": "ma-ni-LAW ni-LAW",
+   "note": "The d of diláw changes to n"
+  },
+  {
+   "id": "dilawan-l44",
+   "tl": "dilawán",
+   "en": "a shade of yellow",
+   "pos": "adj",
+   "group": "shade",
+   "say": "di-la-WAN"
+  },
+  {
+   "id": "berdeng-mansanas-l44",
+   "tl": "bérdeng mansánas",
+   "en": "apple green",
+   "pos": "phrase",
+   "group": "other",
+   "say": "BER-deng man-SA-nas"
+  },
+  {
+   "id": "berdeng-lumot-l44",
+   "tl": "bérdeng lúmot",
+   "en": "moss green",
+   "pos": "phrase",
+   "group": "other",
+   "say": "BER-deng LU-mot"
+  },
+  {
+   "id": "ginintuan-l44",
+   "tl": "ginintuán",
+   "en": "golden",
+   "pos": "adj",
+   "group": "other",
+   "say": "gi-nin-tu-AN",
+   "note": "Gold is gintô (Lesson 2)."
+  },
+  {
+   "id": "pilak-l44",
+   "tl": "pilak",
+   "en": "silver",
+   "pos": "noun",
+   "group": "other"
+  },
+  {
+   "id": "pinilakan-l44",
+   "tl": "pinilakan",
+   "en": "silver",
+   "pos": "adj",
+   "group": "other",
+   "note": "Listed with pilak: silver = pilak/pinilakan"
+  },
+  {
+   "id": "sapatos-l44",
+   "tl": "sapatos",
+   "en": "shoes",
+   "pos": "noun",
+   "group": "sent",
+   "note": "Lesson 4 prints sapátos."
+  },
+  {
+   "id": "dahon-l44",
+   "tl": "dáhon",
+   "en": "leaves",
+   "pos": "noun",
+   "group": "sent",
+   "say": "DA-hon",
+   "note": "Lesson 7 prints dahon (leaf)."
+  },
+  {
+   "id": "malamig-sa-mata-l44",
+   "tl": "malamíg sa matá",
+   "en": "refreshing to the eyes",
+   "pos": "phrase",
+   "group": "sent",
+   "say": "ma-la-MIG sa ma-TA",
+   "note": "Malamíg alone means cold (Lesson 4)."
+  },
+  {
+   "id": "mata-l44",
+   "tl": "matá",
+   "en": "eyes",
+   "pos": "noun",
+   "group": "sent",
+   "say": "ma-TA"
+  },
+  {
+   "id": "bagay-sa-l44",
+   "tl": "bagay sa",
+   "en": "suited to",
+   "pos": "phrase",
+   "group": "sent"
+  },
+  {
+   "id": "maputing-balat-l44",
+   "tl": "maputíng balát",
+   "en": "fair skinned",
+   "pos": "phrase",
+   "group": "sent",
+   "say": "ma-pu-TING ba-LAT",
+   "note": "Bagay sa maputíng balát = suited to those who are fair skinned"
+  },
+  {
+   "id": "barong-tagalog-l44",
+   "tl": "baróng tagalog",
+   "en": "barong tagalog (formal wear for men)",
+   "pos": "noun",
+   "group": "sent",
+   "say": "ba-RONG ta-ga-log"
+  },
+  {
+   "id": "kulay-abo-l44",
+   "tl": "kulay-abó",
+   "en": "ash-colored",
+   "pos": "adj",
+   "group": "sent",
+   "say": "ku-lay a-BO"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Does Tagalog have its own word for brown things?",
+   "options": [
+    "No: descriptive words such as kulay kapé are used",
+    "Yes: kayumanggí for anything brown",
+    "Yes: rósas"
+   ],
+   "answer": "No: descriptive words such as kulay kapé are used",
+   "explain": "Kayumanggí is only for race and skin color."
+  },
+  {
+   "type": "choice",
+   "q": "When is kayumanggí used?",
+   "options": [
+    "For the color of the Filipino race and skin",
+    "For brown furniture",
+    "For fried fish"
+   ],
+   "answer": "For the color of the Filipino race and skin",
+   "explain": "It does not apply to anything else that is brown."
+  },
+  {
+   "type": "choice",
+   "q": "In cooking, which color word is used for golden brown?",
+   "options": [
+    "pulá",
+    "diláw",
+    "itím"
+   ],
+   "answer": "pulá",
+   "explain": "Prituhin mo ang isdâ hanggáng pumulá."
+  },
+  {
+   "type": "choice",
+   "q": "What does kulay tsokoláte mean?",
+   "options": [
+    "chocolate-colored",
+    "coffee-colored",
+    "orange"
+   ],
+   "answer": "chocolate-colored",
+   "explain": "Kulay kapé is coffee-colored."
+  },
+  {
+   "type": "choice",
+   "q": "Which word means white?",
+   "options": [
+    "putî",
+    "itím",
+    "abó"
+   ],
+   "answer": "putî",
+   "explain": "Itím is black; abó is gray."
+  },
+  {
+   "type": "choice",
+   "q": "Which word means yellow?",
+   "options": [
+    "diláw",
+    "pulá",
+    "ube"
+   ],
+   "answer": "diláw",
+   "explain": "Pulá is red; ube is violet."
+  },
+  {
+   "type": "choice",
+   "q": "Which is a word for blue?",
+   "options": [
+    "bugháw",
+    "bérde",
+    "lila"
+   ],
+   "answer": "bugháw",
+   "explain": "Blue is asúl or bugháw."
+  },
+  {
+   "type": "choice",
+   "q": "How do you say orange?",
+   "options": [
+    "kulay kahél",
+    "kulay kapé",
+    "rósas"
+   ],
+   "answer": "kulay kahél",
+   "explain": "Rósas is pink."
+  },
+  {
+   "type": "choice",
+   "q": "How are dark or bright colors made?",
+   "options": [
+    "Repeat the color with na or -ng",
+    "Add murá",
+    "Add the prefix ma-"
+   ],
+   "answer": "Repeat the color with na or -ng",
+   "explain": "asúl na asúl, bérdeng-bérde."
+  },
+  {
+   "type": "choice",
+   "q": "What does asúl na asúl mean?",
+   "options": [
+    "navy blue",
+    "pale blue",
+    "a shade of blue"
+   ],
+   "answer": "navy blue",
+   "explain": "Pale blue is asúl na murá."
+  },
+  {
+   "type": "choice",
+   "q": "Which word makes a color light or pale?",
+   "options": [
+    "murá",
+    "kulay",
+    "na"
+   ],
+   "answer": "murá",
+   "explain": "Murá also means unripe fruit, and cheap."
+  },
+  {
+   "type": "choice",
+   "q": "How do you say light green?",
+   "options": [
+    "muráng bérde",
+    "bérdeng-bérde",
+    "bérdeng lúmot"
+   ],
+   "answer": "muráng bérde",
+   "explain": "Bérdeng-bérde is dark green; bérdeng lúmot is moss green."
+  },
+  {
+   "type": "choice",
+   "q": "Which two colors use mang- instead of ma- for shades?",
+   "options": [
+    "asul and itim",
+    "pula and puti",
+    "dilaw and berde"
+   ],
+   "answer": "asul and itim",
+   "explain": "mangasúl-ngasúl."
+  },
+  {
+   "type": "choice",
+   "q": "Why is it maniláw-niláw and not madiláw-diláw?",
+   "options": [
+    "After ma-, the d of diláw changes to n",
+    "It is a dark color",
+    "It is the plural"
+   ],
+   "answer": "After ma-, the d of diláw changes to n",
+   "explain": "The p of pula and puti can likewise change to m."
+  },
+  {
+   "type": "choice",
+   "q": "Which is a shade of red made with -an?",
+   "options": [
+    "pulahán",
+    "dilawán",
+    "putián"
+   ],
+   "answer": "pulahán",
+   "explain": "dilawán is yellow; putián is white."
+  },
+  {
+   "type": "choice",
+   "q": "\"Puláng-pulá ang kanyáng sapatos.\" What does it mean?",
+   "options": [
+    "His/her shoes are bright red.",
+    "His/her shoes are pale red.",
+    "His/her shoes are new."
+   ],
+   "answer": "His/her shoes are bright red.",
+   "explain": "Doubling with -ng gives the bright shade."
+  },
+  {
+   "type": "listen",
+   "tl": "lila",
+   "options": [
+    "purple",
+    "pink",
+    "gray"
+   ],
+   "answer": "purple",
+   "explain": "Rósas is pink; abó is gray."
+  },
+  {
+   "type": "listen",
+   "tl": "abó",
+   "options": [
+    "gray (literally ash)",
+    "black",
+    "silver"
+   ],
+   "answer": "gray (literally ash)",
+   "explain": "Kulay-abó = ash-colored."
+  },
+  {
+   "type": "listen",
+   "tl": "bérdeng mansánas",
+   "options": [
+    "apple green",
+    "moss green",
+    "dark green"
+   ],
+   "answer": "apple green",
+   "explain": "Bérdeng lúmot is moss green."
+  },
+  {
+   "type": "listen",
+   "tl": "kayumanggí",
+   "options": [
+    "brown (referring to race or color of skin)",
+    "coffee-colored",
+    "golden"
+   ],
+   "answer": "brown (referring to race or color of skin)",
+   "explain": "Not used for things."
+  },
+  {
+   "type": "build",
+   "en": "Fry the fish until it turns golden brown.",
+   "tl": "Prituhin mo ang isdâ hanggáng pumulá.",
+   "tokens": [
+    "prituhin",
+    "mo",
+    "ang",
+    "isdâ",
+    "hanggáng",
+    "pumulá"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "His/her shoes are bright red.",
+   "tl": "Puláng-pulá ang kanyáng sapatos.",
+   "tokens": [
+    "puláng-pulá",
+    "ang",
+    "kanyáng",
+    "sapatos"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Green leaves are refreshing to the eyes.",
+   "tl": "Ang mga luntíang dáhon ay malamíg sa matá.",
+   "tokens": [
+    "ang",
+    "mga",
+    "luntíang",
+    "dáhon",
+    "ay",
+    "malamíg",
+    "sa",
+    "matá"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Pale yellow is suited to those who are fair skinned.",
+   "tl": "Ang diláw na murá ay bagay sa maputíng balát.",
+   "tokens": [
+    "ang",
+    "diláw",
+    "na",
+    "murá",
+    "ay",
+    "bagay",
+    "sa",
+    "maputíng",
+    "balát"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "I have many ash-colored barong tagalog (formal wear for men).",
+   "tl": "Marami ákong baróng tagalog na kulay-abó.",
+   "tokens": [
+    "marami",
+    "ákong",
+    "baróng",
+    "tagalog",
+    "na",
+    "kulay-abó"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match the color to its Tagalog name.",
+   "pairs": [
+    [
+     "red",
+     "pulá"
+    ],
+    [
+     "black",
+     "itím"
+    ],
+    [
+     "violet",
+     "ube"
+    ],
+    [
+     "pink",
+     "rósas"
+    ],
+    [
+     "green",
+     "bérde"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the color phrase to its meaning.",
+   "pairs": [
+    [
+     "diláw na diláw",
+     "bright yellow"
+    ],
+    [
+     "diláw na murá",
+     "pale yellow"
+    ],
+    [
+     "itím na itím",
+     "very black"
+    ],
+    [
+     "bérdeng lúmot",
+     "moss green"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each word to its color meaning.",
+   "pairs": [
+    [
+     "gintô",
+     "gold"
+    ],
+    [
+     "pilak",
+     "silver"
+    ],
+    [
+     "kulay kapé",
+     "coffee-colored"
+    ],
+    [
+     "kulay-abó",
+     "ash-colored"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "Tagalog has no word for brown things: say kulay kapé or kulay tsokoláte. Kayumanggí is for skin and race only.",
+  "Basic colors: pulá, asúl/bugháw, diláw, bérde/luntían, ube, kulay kahél, itím, putî, lila, rósas, abó.",
+  "Dark or bright: repeat the color with na or -ng: asúl na asúl, bérdeng-bérde, puláng-pulá.",
+  "Light or pale: add murá: asúl na murá, muráng bérde, diláw na murá.",
+  "Shades: ma- + repeated root (mapúla-púla; mang- for asúl) or root + -an (pulahán, dilawán).",
+  "Colors from materials: bérdeng mansánas, bérdeng lúmot, gintô/ginintuán, pilak/pinilakan."
+ ]
+}

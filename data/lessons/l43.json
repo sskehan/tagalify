@@ -1,0 +1,1566 @@
+{
+ "id": "l43",
+ "label": "43",
+ "title": "Contractions",
+ "summary": "Everyday shortened words: téka (wait!), téna (let's go!), ayóko (I don't like), pénge (give me), 'dî, 'nó, ikámo and more",
+ "minutes": 30,
+ "goals": [
+  "Understand what a Tagalog contraction is and how to spot one",
+  "Know the ten common contractions that can stand alone as a reply or command",
+  "Use 'dî and 'nó as tag questions (right?)",
+  "Recognise ikámo / ikáko (you said / I said) and when they are used",
+  "Know three more ways to say give me: pénge, éka and kaná"
+ ],
+ "sections": [
+  {
+   "title": "Saying more with less",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "When we talk or write to someone we know very well, we often **skip words or syllables** or **press them together** instead of saying them in full. Contractions let us say or write more in less time. A contraction is made by shortening a word, a syllable or a group of words, or by leaving out some letters, to make a **new, shorter word**."
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "English has contractions too",
+     "t": "*Don't*, *let's*, *isn't*, *we're* and *he's* are English contractions, and they follow certain rules. In Tagalog, the letters and syllables that are left out or changed can **vary from speaker to speaker**."
+    },
+    {
+     "type": "p",
+     "t": "Here is how the book takes apart **téka** (wait!), which comes from **hintáy ka**:"
+    },
+    {
+     "type": "pattern",
+     "title": "hintáy ka → téka",
+     "rows": [
+      {
+       "label": "Full",
+       "chips": [
+        {
+         "t": "hin",
+         "r": "other"
+        },
+        {
+         "t": "táy",
+         "r": "pred"
+        },
+        {
+         "t": "ka",
+         "r": "pron"
+        }
+       ]
+      },
+      {
+       "label": "Step 1",
+       "chips": [
+        {
+         "t": "(hin dropped)",
+         "r": "other"
+        },
+        {
+         "t": "tay",
+         "r": "pred"
+        },
+        {
+         "t": "ka",
+         "r": "pron"
+        }
+       ]
+      },
+      {
+       "label": "Step 2",
+       "chips": [
+        {
+         "t": "tay → te",
+         "r": "pred"
+        },
+        {
+         "t": "+ ka",
+         "r": "pron"
+        }
+       ]
+      },
+      {
+       "label": "Result",
+       "chips": [
+        {
+         "t": "téka",
+         "r": "pred"
+        }
+       ]
+      }
+     ],
+     "note": "The syllable hin is left out, and tay changes to te and joins ka."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "How to spot a contraction",
+     "t": "A simple rule: Tagalog contractions are **not regular words** with affixes or root words you can recognise. If a short everyday word has no root you know and no prefix or suffix, it may be a contraction."
+    },
+    {
+     "type": "box",
+     "kind": "culture",
+     "title": "Language keeps changing",
+     "t": "Once you have learned the common contractions below, look out for **new ones used by the younger generation**. Some of them may creep into the language and become accepted."
+    }
+   ]
+  },
+  {
+   "title": "Ten contractions that can stand alone",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The first ten contractions can be used **on their own**: as a reply to a question, or as a **one-word command** (such as dalíka and 'lika)."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Contraction",
+      "From",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[téka|pred]]",
+       "hintáy ka",
+       "Wait!"
+      ],
+      [
+       "[[dalíka|pred]]",
+       "magmadalî ka",
+       "Be quick!"
+      ],
+      [
+       "[[téna|pred]]",
+       "táyo na",
+       "Let's go!"
+      ],
+      [
+       "[[tamó|pred]]",
+       "nákita mo",
+       "You see? or See?"
+      ],
+      [
+       "[[hámo|pred]]",
+       "hayaán mo",
+       "Let her/him/it be."
+      ],
+      [
+       "[[ayóko|pred]]",
+       "ayaw ko",
+       "I don't like."
+      ],
+      [
+       "[['lika|pred]]",
+       "hali ka",
+       "Come or Come here."
+      ],
+      [
+       "[[méron|pred]]",
+       "mayroón",
+       "has or have"
+      ],
+      [
+       "[['lâ|pred]]",
+       "walâ",
+       "nothing or None."
+      ],
+      [
+       "[[pénge|pred]]",
+       "pahingî",
+       "Give me."
+      ]
+     ],
+     "title": "Contractions 1 to 10"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Téka sandalî, kakain muna akó.",
+       "en": "Wait a moment, I will just eat.",
+       "parts": [
+        [
+         "Téka",
+         "wait",
+         "pred"
+        ],
+        [
+         "sandalî",
+         "a moment",
+         "other"
+        ],
+        [
+         "kakain",
+         "will eat",
+         "pred"
+        ],
+        [
+         "muna",
+         "just (first)",
+         "part"
+        ],
+        [
+         "akó",
+         "I",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Dalíka, mahúhulí táyo.",
+       "en": "Be quick, we will be late.",
+       "parts": [
+        [
+         "Dalíka",
+         "be quick",
+         "pred"
+        ],
+        [
+         "mahúhulí",
+         "will be late",
+         "pred"
+        ],
+        [
+         "táyo",
+         "we",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Téna, hulí na táyo.",
+       "en": "Let's go, we are already late.",
+       "parts": [
+        [
+         "Téna",
+         "let's go",
+         "pred"
+        ],
+        [
+         "hulí",
+         "late",
+         "pred"
+        ],
+        [
+         "na",
+         "already",
+         "part"
+        ],
+        [
+         "táyo",
+         "we",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Tamó, bágay sa iyó iyán!",
+       "en": "You see? That suits you!",
+       "parts": [
+        [
+         "Tamó",
+         "you see?",
+         "pred"
+        ],
+        [
+         "bágay",
+         "suits",
+         "pred"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "iyó",
+         "you",
+         "pron"
+        ],
+        [
+         "iyán",
+         "that",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Hámo siyá, ayaw siyáng makiníg.",
+       "en": "Let him be, he does not like to listen.",
+       "parts": [
+        [
+         "Hámo",
+         "let … be",
+         "pred"
+        ],
+        [
+         "siyá",
+         "him",
+         "pron"
+        ],
+        [
+         "ayaw",
+         "does not like",
+         "pred"
+        ],
+        [
+         "siyáng",
+         "he (+ ligature)",
+         "pron"
+        ],
+        [
+         "makiníg",
+         "to listen",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Hámo, makakalimútan mo rin iyán.",
+       "en": "Let it be, you will soon forget it.",
+       "parts": [
+        [
+         "Hámo",
+         "let it be",
+         "pred"
+        ],
+        [
+         "makakalimútan",
+         "will forget",
+         "pred"
+        ],
+        [
+         "mo",
+         "you",
+         "pron"
+        ],
+        [
+         "rin",
+         "also (soon)",
+         "part"
+        ],
+        [
+         "iyán",
+         "it (that)",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Ayóko ng biruán.",
+       "en": "I do not like jokes.",
+       "parts": [
+        [
+         "Ayóko",
+         "I don't like",
+         "pred"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "biruán",
+         "jokes",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Contractions 1 to 6 in sentences"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "'Lika, alis na tayo.",
+       "en": "Come, we're leaving now.",
+       "parts": [
+        [
+         "'Lika",
+         "come",
+         "pred"
+        ],
+        [
+         "alis",
+         "leaving",
+         "pred"
+        ],
+        [
+         "na",
+         "now",
+         "part"
+        ],
+        [
+         "tayo",
+         "we",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Méron akong anak.",
+       "en": "I have a child.",
+       "parts": [
+        [
+         "Méron",
+         "have",
+         "pred"
+        ],
+        [
+         "akong",
+         "I (+ ligature)",
+         "pron"
+        ],
+        [
+         "anak",
+         "child",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "'Lâ ákong pera.",
+       "en": "I don't have money.",
+       "parts": [
+        [
+         "'Lâ",
+         "none",
+         "pred"
+        ],
+        [
+         "ákong",
+         "I (+ ligature)",
+         "pron"
+        ],
+        [
+         "pera",
+         "money",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Pénge ng tinapay, gutóm ako.",
+       "en": "Give me bread, I am hungry.",
+       "parts": [
+        [
+         "Pénge",
+         "give me",
+         "pred"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "tinapay",
+         "bread",
+         "noun"
+        ],
+        [
+         "gutóm",
+         "hungry",
+         "pred"
+        ],
+        [
+         "ako",
+         "I",
+         "pron"
+        ]
+       ]
+      }
+     ],
+     "title": "Contractions 7 to 10 in sentences"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Old friends in new clothes",
+     "items": [
+      "**Méron** is short for **mayroón** (has, have) from Lesson 12, and **'lâ** is short for **walâ**.",
+      "Compare 'Lâ ákong pera (I don't have money) with Méron akong anak (I have a child): the same pattern, opposite meaning."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "ten",
+     "title": "Contractions 1 to 10"
+    }
+   ]
+  },
+  {
+   "title": "Words missing their first letters",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Contractions that have lost their **first syllables or letters** are very common in Tagalog. The book prints some of these with an apostrophe at the start ('dî, 'nó)."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Contraction",
+      "From",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[['dî|pred]]",
+       "hindî",
+       "not, or Right? (use as a tag question)"
+      ],
+      [
+       "[['nó|pred]]",
+       "anó",
+       "Right? (use as a tag question)"
+      ],
+      [
+       "[[ikámo|pred]]",
+       "wiká mo",
+       "you said"
+      ],
+      [
+       "[[ikáko|pred]]",
+       "wiká ko",
+       "I said"
+      ]
+     ],
+     "title": "Contractions 11 to 14"
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "Tag questions",
+     "t": "A tag question is a little question added to the end of a statement to ask for agreement, like English *…, isn't it?* or *…, right?* Tagalog uses **'dî ba?** and **'nó?** this way."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "'Dî siyá sásáma.",
+       "en": "He/She is not coming along.",
+       "parts": [
+        [
+         "'Dî",
+         "not",
+         "pred"
+        ],
+        [
+         "siyá",
+         "he/she",
+         "pron"
+        ],
+        [
+         "sásáma",
+         "coming along",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Ákin 'yán, 'dî ba?",
+       "en": "That is mine, isn't it (right)?",
+       "parts": [
+        [
+         "Ákin",
+         "mine",
+         "poss"
+        ],
+        [
+         "'yán",
+         "that",
+         "pron"
+        ],
+        [
+         "'dî ba",
+         "isn't it (right)?",
+         "part"
+        ]
+       ]
+      },
+      {
+       "tl": "Tamà itó, 'nó?",
+       "en": "This is correct, right?",
+       "parts": [
+        [
+         "Tamà",
+         "correct",
+         "pred"
+        ],
+        [
+         "itó",
+         "this",
+         "pron"
+        ],
+        [
+         "'nó",
+         "right?",
+         "part"
+        ]
+       ]
+      },
+      {
+       "tl": "Ikámo [ay] mánonoód tayó ng pelíkulá.",
+       "en": "You said we are going to see a movie.",
+       "parts": [
+        [
+         "Ikámo",
+         "you said",
+         "pred"
+        ],
+        [
+         "[ay]",
+         "(may be left out)",
+         "ay"
+        ],
+        [
+         "mánonoód",
+         "are going to see",
+         "pred"
+        ],
+        [
+         "tayó",
+         "we",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "pelíkulá",
+         "movie",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ikáko ay bukas na táyo aalís.",
+       "en": "I said we are going tomorrow.",
+       "parts": [
+        [
+         "Ikáko",
+         "I said",
+         "pred"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "bukas",
+         "tomorrow",
+         "other"
+        ],
+        [
+         "na",
+         "(ligature)",
+         "link"
+        ],
+        [
+         "táyo",
+         "we",
+         "pron"
+        ],
+        [
+         "aalís",
+         "are going",
+         "pred"
+        ]
+       ]
+      }
+     ],
+     "title": "Contractions 11 to 14 in sentences"
+    },
+    {
+     "type": "box",
+     "kind": "culture",
+     "title": "Who says ikámo?",
+     "items": [
+      "**Ikámo** and **ikáko** (or **kámo** and **káko** in some areas) are used more by **older people in rural areas**.",
+      "**Younger people** more often say **sabi ko** (*I said*) or **sabi nilá** (*they said*)."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "said",
+     "title": "Contractions 11 to 14, and ways to say \"said\""
+    }
+   ]
+  },
+  {
+   "title": "More ways to say give me",
+   "blocks": [
+    {
+     "type": "table",
+     "head": [
+      "Contraction",
+      "From",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[éka|pred]]",
+       "pahingî ka",
+       "give me"
+      ],
+      [
+       "[[tangkó|pred]]",
+       "tingnán ko",
+       "let me see or let me have a look"
+      ],
+      [
+       "[[kaná|pred]]",
+       "ákin na",
+       "give me (used as a command)"
+      ]
+     ],
+     "title": "Contractions 15 to 17"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Eka ng mais.",
+       "en": "Give me a cob of corn.",
+       "parts": [
+        [
+         "Eka",
+         "give me",
+         "pred"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "mais",
+         "a cob of corn",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Tangkó nga, ngayón ko lang nákítà iyán.",
+       "en": "Let me have a look, I have not seen that yet.",
+       "parts": [
+        [
+         "Tangkó",
+         "let me have a look",
+         "pred"
+        ],
+        [
+         "nga",
+         "(softener)",
+         "part"
+        ],
+        [
+         "ngayón",
+         "now",
+         "other"
+        ],
+        [
+         "ko",
+         "I",
+         "pron"
+        ],
+        [
+         "lang",
+         "only",
+         "part"
+        ],
+        [
+         "nákítà",
+         "seen",
+         "pred"
+        ],
+        [
+         "iyán",
+         "that",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Kaná ang aklát ko.",
+       "en": "Give me my book.",
+       "parts": [
+        [
+         "Kaná",
+         "give me",
+         "pred"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "aklát",
+         "book",
+         "noun"
+        ],
+        [
+         "ko",
+         "my",
+         "poss"
+        ]
+       ]
+      }
+     ],
+     "title": "Contractions 15 to 17 in sentences"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Three kinds of give me",
+     "items": [
+      "**Pénge** (from pahingî) = Give me.",
+      "**Éka** (from pahingî ka) = give me.",
+      "**Kaná** (from ákin na) = give me, used as a **command**."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "give",
+     "title": "Contractions 15 to 17"
+    },
+    {
+     "type": "vocab",
+     "group": "full",
+     "title": "The full forms behind the contractions"
+    },
+    {
+     "type": "vocab",
+     "group": "sentence",
+     "title": "Other words from the example sentences"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "A contraction is a shortened word or word group. Tagalog contractions vary by speaker and have no recognisable root or affix.",
+      "Téka, dalíka, téna, tamó, hámo, ayóko, 'lika, méron, 'lâ and pénge can stand alone as replies or commands.",
+      "'Dî ba? and 'nó? are tag questions: right?",
+      "Ikámo / ikáko (you said / I said) are used more by older rural speakers; younger people say sabi ko, sabi nilá.",
+      "Pénge, éka and kaná all mean give me; tangkó means let me see."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "biruan-l43",
+   "tl": "biruán",
+   "en": "jokes",
+   "pos": "noun",
+   "group": "sentence",
+   "note": "From: Ayóko ng biruán. = I do not like jokes."
+  },
+  {
+   "id": "mahuhuli-l43",
+   "tl": "mahúhulí",
+   "en": "will be late",
+   "pos": "verb",
+   "group": "sentence",
+   "note": "From: Dalíka, mahúhulí táyo. = Be quick, we will be late."
+  },
+  {
+   "id": "makakalimutan-l43",
+   "tl": "makakalimútan",
+   "en": "will forget",
+   "pos": "verb",
+   "group": "sentence",
+   "note": "From: Hámo, makakalimútan mo rin iyán. = Let it be, you will soon forget it."
+  },
+  {
+   "id": "muna-l43",
+   "tl": "muna",
+   "en": "just (first)",
+   "pos": "adv",
+   "group": "sentence",
+   "note": "From: Téka sandalî, kakain muna akó. = Wait a moment, I will just eat."
+  },
+  {
+   "id": "mais-l43",
+   "tl": "mais",
+   "en": "corn",
+   "pos": "noun",
+   "group": "sentence",
+   "note": "From: Eka ng mais. = Give me a cob of corn."
+  },
+  {
+   "id": "manonood-l43",
+   "tl": "mánonoód",
+   "en": "going to see",
+   "pos": "verb",
+   "group": "sentence",
+   "note": "From: Ikámo [ay] mánonoód tayó ng pelíkulá. = You said we are going to see a movie."
+  },
+  {
+   "id": "nakita-l43",
+   "tl": "nákítà",
+   "en": "seen",
+   "pos": "verb",
+   "group": "sentence",
+   "note": "From: …ngayón ko lang nákítà iyán. = …I have not seen that yet."
+  },
+  {
+   "id": "gutom-l43",
+   "tl": "gutóm",
+   "en": "hungry",
+   "pos": "adj",
+   "group": "sentence",
+   "say": "gu-TOM",
+   "note": "From: Pénge ng tinapay, gutóm ako. = Give me bread, I am hungry. (Lesson 40 lists gutom = hunger.)"
+  },
+  {
+   "id": "bagay-l43",
+   "tl": "bágay",
+   "en": "suits",
+   "pos": "verb",
+   "group": "sentence",
+   "note": "From: Tamó, bágay sa iyó iyán! = You see? That suits you!"
+  },
+  {
+   "id": "teka-l43",
+   "tl": "téka",
+   "en": "Wait!",
+   "pos": "expr",
+   "group": "ten",
+   "say": "TE-ka",
+   "note": "The vocabulary list gives: wait. From hintáy ka."
+  },
+  {
+   "id": "dalika-l43",
+   "tl": "dalíka",
+   "en": "Be quick!",
+   "pos": "expr",
+   "group": "ten",
+   "say": "da-LI-ka",
+   "note": "From magmadalî ka. The book also writes dalika."
+  },
+  {
+   "id": "tena-l43",
+   "tl": "téna",
+   "en": "Let's go!",
+   "pos": "expr",
+   "group": "ten",
+   "say": "TE-na",
+   "note": "From táyo na."
+  },
+  {
+   "id": "tamo-l43",
+   "tl": "tamó",
+   "en": "You see? or See?",
+   "pos": "expr",
+   "group": "ten",
+   "say": "ta-MO",
+   "note": "From nákita mo."
+  },
+  {
+   "id": "hamo-l43",
+   "tl": "hámo",
+   "en": "Let her/him/it be.",
+   "pos": "expr",
+   "group": "ten",
+   "say": "HA-mo",
+   "note": "The vocabulary list gives: let it be. From hayaán mo."
+  },
+  {
+   "id": "ayoko-l43",
+   "tl": "ayóko",
+   "en": "I don't like.",
+   "pos": "expr",
+   "group": "ten",
+   "say": "a-YO-ko",
+   "note": "From ayaw ko."
+  },
+  {
+   "id": "lika-l43",
+   "tl": "'lika",
+   "en": "Come or Come here.",
+   "pos": "expr",
+   "group": "ten",
+   "note": "From hali ka."
+  },
+  {
+   "id": "meron-l43",
+   "tl": "méron",
+   "en": "has or have",
+   "pos": "verb",
+   "group": "ten",
+   "say": "ME-ron",
+   "note": "From mayroón. Lesson 12 prints meron."
+  },
+  {
+   "id": "la-l43",
+   "tl": "'lâ",
+   "en": "nothing or None.",
+   "pos": "expr",
+   "group": "ten",
+   "say": "laQ",
+   "note": "From walâ."
+  },
+  {
+   "id": "penge-l43",
+   "tl": "pénge",
+   "en": "Give me.",
+   "pos": "expr",
+   "group": "ten",
+   "say": "PE-nge",
+   "note": "From pahingî."
+  },
+  {
+   "id": "di-l43",
+   "tl": "'dî",
+   "en": "not or Right? (use as a tag question)",
+   "pos": "part",
+   "group": "said",
+   "say": "diQ",
+   "note": "From hindî. Lesson 37 prints dî (no). As a tag question: 'dî ba?"
+  },
+  {
+   "id": "no-l43",
+   "tl": "'nó",
+   "en": "Right? (use as a tag question)",
+   "pos": "part",
+   "group": "said",
+   "say": "NO",
+   "note": "From anó."
+  },
+  {
+   "id": "ikamo-l43",
+   "tl": "ikámo",
+   "en": "you said",
+   "pos": "expr",
+   "group": "said",
+   "say": "i-KA-mo",
+   "note": "From wiká mo."
+  },
+  {
+   "id": "ikako-l43",
+   "tl": "ikáko",
+   "en": "I said",
+   "pos": "expr",
+   "group": "said",
+   "say": "i-KA-ko",
+   "note": "From wiká ko."
+  },
+  {
+   "id": "kamo-l43",
+   "tl": "kámo",
+   "en": "you said (same meaning as ikámo)",
+   "pos": "expr",
+   "group": "said",
+   "say": "KA-mo",
+   "note": "Used instead of ikámo in some areas."
+  },
+  {
+   "id": "kako-l43",
+   "tl": "káko",
+   "en": "I said (same meaning as ikáko)",
+   "pos": "expr",
+   "group": "said",
+   "say": "KA-ko",
+   "note": "Used instead of ikáko in some areas."
+  },
+  {
+   "id": "sabi-ko-l43",
+   "tl": "sabi ko",
+   "en": "I said",
+   "pos": "phrase",
+   "group": "said",
+   "note": "More commonly used by younger people."
+  },
+  {
+   "id": "sabi-nila-l43",
+   "tl": "sabi nilá",
+   "en": "they said",
+   "pos": "phrase",
+   "group": "said",
+   "note": "More commonly used by younger people."
+  },
+  {
+   "id": "eka-l43",
+   "tl": "éka",
+   "en": "give me",
+   "pos": "expr",
+   "group": "give",
+   "say": "E-ka",
+   "note": "From pahingî ka. The sample sentence prints it at the start as Eka."
+  },
+  {
+   "id": "tangko-l43",
+   "tl": "tangkó",
+   "en": "let me see or let me have a look",
+   "pos": "expr",
+   "group": "give",
+   "say": "tang-KO",
+   "note": "From tingnán ko."
+  },
+  {
+   "id": "kana-l43",
+   "tl": "kaná",
+   "en": "give me (used as a command)",
+   "pos": "expr",
+   "group": "give",
+   "say": "ka-NA",
+   "note": "From ákin na."
+  },
+  {
+   "id": "hintay-ka-l43",
+   "tl": "hintáy ka",
+   "en": "wait (full form of téka)",
+   "pos": "phrase",
+   "group": "full",
+   "say": "hin-TAY ka"
+  },
+  {
+   "id": "magmadali-ka-l43",
+   "tl": "magmadalî ka",
+   "en": "full form of dalíka (Be quick!)",
+   "pos": "phrase",
+   "group": "full",
+   "say": "mag-ma-da-liQ ka"
+  },
+  {
+   "id": "tayo-na-l43",
+   "tl": "táyo na",
+   "en": "full form of téna (Let's go!)",
+   "pos": "phrase",
+   "group": "full",
+   "say": "TA-yo na"
+  },
+  {
+   "id": "nakita-mo-l43",
+   "tl": "nákita mo",
+   "en": "full form of tamó (You see?)",
+   "pos": "phrase",
+   "group": "full",
+   "say": "NA-ki-ta mo"
+  },
+  {
+   "id": "hayaan-mo-l43",
+   "tl": "hayaán mo",
+   "en": "full form of hámo (Let her/him/it be.)",
+   "pos": "phrase",
+   "group": "full",
+   "say": "ha-ya-AN mo"
+  },
+  {
+   "id": "ayaw-ko-l43",
+   "tl": "ayaw ko",
+   "en": "full form of ayóko (I don't like.)",
+   "pos": "phrase",
+   "group": "full"
+  },
+  {
+   "id": "hali-ka-l43",
+   "tl": "hali ka",
+   "en": "full form of 'lika (Come here.)",
+   "pos": "phrase",
+   "group": "full"
+  },
+  {
+   "id": "pahingi-l43",
+   "tl": "pahingî",
+   "en": "full form of pénge (Give me.)",
+   "pos": "expr",
+   "group": "full",
+   "say": "pa-hi-ngiQ"
+  },
+  {
+   "id": "wika-mo-l43",
+   "tl": "wiká mo",
+   "en": "full form of ikámo (you said)",
+   "pos": "phrase",
+   "group": "full",
+   "say": "wi-KA mo"
+  },
+  {
+   "id": "wika-ko-l43",
+   "tl": "wiká ko",
+   "en": "full form of ikáko (I said)",
+   "pos": "phrase",
+   "group": "full",
+   "say": "wi-KA ko"
+  },
+  {
+   "id": "pahingi-ka-l43",
+   "tl": "pahingî ka",
+   "en": "full form of éka (give me)",
+   "pos": "phrase",
+   "group": "full",
+   "say": "pa-hi-ngiQ ka"
+  },
+  {
+   "id": "tingnan-ko-l43",
+   "tl": "tingnán ko",
+   "en": "full form of tangkó (let me see)",
+   "pos": "phrase",
+   "group": "full",
+   "say": "ting-NAN ko"
+  },
+  {
+   "id": "akin-na-l43",
+   "tl": "ákin na",
+   "en": "full form of kaná (give me)",
+   "pos": "phrase",
+   "group": "full",
+   "say": "A-kin na"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "What is a contraction?",
+   "options": [
+    "A shortened word or word group",
+    "A word with a new prefix",
+    "A plural form of a verb"
+   ],
+   "answer": "A shortened word or word group",
+   "explain": "It is made by shortening a word, syllable or word group, or leaving out letters."
+  },
+  {
+   "type": "choice",
+   "q": "In hintáy ka → téka, which syllable is left out?",
+   "options": [
+    "hin",
+    "tay",
+    "ka"
+   ],
+   "answer": "hin",
+   "explain": "Hin is dropped; tay changes to te and joins ka."
+  },
+  {
+   "type": "choice",
+   "q": "A simple way to spot a Tagalog contraction:",
+   "options": [
+    "It has no recognisable root word or affix",
+    "It always ends in -ka",
+    "It always starts with ma-"
+   ],
+   "answer": "It has no recognisable root word or affix",
+   "explain": "Contractions are not regular words with noticeable affixes or roots."
+  },
+  {
+   "type": "choice",
+   "q": "Téka comes from…",
+   "options": [
+    "hintáy ka",
+    "táyo na",
+    "hali ka"
+   ],
+   "answer": "hintáy ka",
+   "explain": "Téka = Wait!"
+  },
+  {
+   "type": "choice",
+   "q": "Téna comes from…",
+   "options": [
+    "táyo na",
+    "hintáy ka",
+    "ákin na"
+   ],
+   "answer": "táyo na",
+   "explain": "Téna = Let's go!"
+  },
+  {
+   "type": "choice",
+   "q": "Ayóko comes from…",
+   "options": [
+    "ayaw ko",
+    "ákin na",
+    "wiká ko"
+   ],
+   "answer": "ayaw ko",
+   "explain": "Ayóko = I don't like."
+  },
+  {
+   "type": "choice",
+   "q": "Méron is short for…",
+   "options": [
+    "mayroón",
+    "walâ",
+    "hindî"
+   ],
+   "answer": "mayroón",
+   "explain": "Méron = has or have."
+  },
+  {
+   "type": "choice",
+   "q": "'Lâ is short for…",
+   "options": [
+    "walâ",
+    "hali ka",
+    "anó"
+   ],
+   "answer": "walâ",
+   "explain": "'Lâ = nothing or None."
+  },
+  {
+   "type": "choice",
+   "q": "Kaná comes from…",
+   "options": [
+    "ákin na",
+    "pahingî ka",
+    "tingnán ko"
+   ],
+   "answer": "ákin na",
+   "explain": "Kaná = give me (used as a command)."
+  },
+  {
+   "type": "choice",
+   "q": "How do you say \"Be quick!\"?",
+   "options": [
+    "Dalíka!",
+    "Téna!",
+    "Hámo!"
+   ],
+   "answer": "Dalíka!",
+   "explain": "Dalíka, from magmadalî ka."
+  },
+  {
+   "type": "choice",
+   "q": "Which word turns \"Tamà itó\" into \"This is correct, right?\"",
+   "options": [
+    "'nó",
+    "tamó",
+    "téka"
+   ],
+   "answer": "'nó",
+   "explain": "Tamà itó, 'nó?"
+  },
+  {
+   "type": "choice",
+   "q": "Who more commonly uses ikámo and ikáko?",
+   "options": [
+    "Older people in rural areas",
+    "Younger people",
+    "Only children"
+   ],
+   "answer": "Older people in rural areas",
+   "explain": "Younger people more often say sabi ko or sabi nilá."
+  },
+  {
+   "type": "choice",
+   "q": "What does sabi nilá mean?",
+   "options": [
+    "they said",
+    "I said",
+    "you said"
+   ],
+   "answer": "they said",
+   "explain": "Sabi ko = I said; sabi nilá = they said."
+  },
+  {
+   "type": "choice",
+   "q": "What does tangkó mean?",
+   "options": [
+    "let me see or let me have a look",
+    "Let her/him/it be.",
+    "You see? or See?"
+   ],
+   "answer": "let me see or let me have a look",
+   "explain": "Tangkó, from tingnán ko."
+  },
+  {
+   "type": "listen",
+   "tl": "hámo",
+   "options": [
+    "Let her/him/it be.",
+    "Wait!",
+    "Come or Come here."
+   ],
+   "answer": "Let her/him/it be.",
+   "explain": "Hámo, from hayaán mo."
+  },
+  {
+   "type": "listen",
+   "tl": "tamó",
+   "options": [
+    "You see? or See?",
+    "Let's go!",
+    "I said"
+   ],
+   "answer": "You see? or See?",
+   "explain": "Tamó, from nákita mo."
+  },
+  {
+   "type": "listen",
+   "tl": "'lika",
+   "options": [
+    "Come or Come here.",
+    "nothing or None.",
+    "Be quick!"
+   ],
+   "answer": "Come or Come here.",
+   "explain": "'Lika, from hali ka."
+  },
+  {
+   "type": "listen",
+   "tl": "ikámo",
+   "options": [
+    "you said",
+    "I said",
+    "they said"
+   ],
+   "answer": "you said",
+   "explain": "Ikámo, from wiká mo."
+  },
+  {
+   "type": "build",
+   "en": "Wait a moment, I will just eat.",
+   "tl": "Téka sandalî, kakain muna akó.",
+   "tokens": [
+    "téka",
+    "sandalî",
+    "kakain",
+    "muna",
+    "akó"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Let's go, we are already late.",
+   "tl": "Téna, hulí na táyo.",
+   "tokens": [
+    "téna",
+    "hulí",
+    "na",
+    "táyo"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "I do not like jokes.",
+   "tl": "Ayóko ng biruán.",
+   "tokens": [
+    "ayóko",
+    "ng",
+    "biruán"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "I have a child.",
+   "tl": "Méron akong anak.",
+   "tokens": [
+    "méron",
+    "akong",
+    "anak"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Give me bread, I am hungry.",
+   "tl": "Pénge ng tinapay, gutóm ako.",
+   "tokens": [
+    "pénge",
+    "ng",
+    "tinapay",
+    "gutóm",
+    "ako"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "This is correct, right?",
+   "tl": "Tamà itó, 'nó?",
+   "tokens": [
+    "tamà",
+    "itó",
+    "'nó"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Give me my book.",
+   "tl": "Kaná ang aklát ko.",
+   "tokens": [
+    "kaná",
+    "ang",
+    "aklát",
+    "ko"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match each contraction to its full form.",
+   "pairs": [
+    [
+     "téka",
+     "hintáy ka"
+    ],
+    [
+     "dalíka",
+     "magmadalî ka"
+    ],
+    [
+     "tamó",
+     "nákita mo"
+    ],
+    [
+     "hámo",
+     "hayaán mo"
+    ],
+    [
+     "pénge",
+     "pahingî"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each contraction to its meaning.",
+   "pairs": [
+    [
+     "téna",
+     "Let's go!"
+    ],
+    [
+     "ayóko",
+     "I don't like."
+    ],
+    [
+     "méron",
+     "has or have"
+    ],
+    [
+     "ikáko",
+     "I said"
+    ],
+    [
+     "tangkó",
+     "let me have a look"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "Contractions shorten words or word groups; in Tagalog the dropped letters vary from speaker to speaker.",
+  "Spot them: they have no recognisable root or affix (téka from hintáy ka).",
+  "Stand-alone replies and commands: téka, dalíka, téna, tamó, hámo, ayóko, 'lika, méron, 'lâ, pénge.",
+  "Tag questions: 'dî ba? and 'nó? (right?).",
+  "Ikámo / ikáko (kámo / káko) = you said / I said, used more by older rural speakers; younger people say sabi ko, sabi nilá.",
+  "Give me: pénge, éka, kaná (a command); tangkó = let me see."
+ ]
+}

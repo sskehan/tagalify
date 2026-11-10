@@ -1,0 +1,1702 @@
+{
+ "id": "l41",
+ "label": "41",
+ "title": "Formation of adjectives",
+ "summary": "Turning root words into describing words with ma-, ka-, kay-, maka-, pang-/pam-/pan-, mapag- and pala-",
+ "minutes": 35,
+ "goals": [
+  "Use ma- + root for having a quality (magandá) or having plenty of something (mabulaklák)",
+  "Use ka- for a shared relationship (kabalát) and kay- for exclamations (kaygandá!)",
+  "Use maka- for being in favor of someone or something (makabágo)",
+  "Choose pang-, pam- or pan- to show what something is used for",
+  "Use mapag- and pala- to describe what someone does habitually"
+ ],
+ "sections": [
+  {
+   "title": "Making describing words",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Many Tagalog adjectives (describing words) are built from a **root word** plus a **prefix** (a piece added to the front). Each prefix gives the new word a particular kind of meaning. This lesson goes through the prefixes the book lists, one group at a time."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Prefix",
+      "What the new word means",
+      "Example"
+     ],
+     "rows": [
+      [
+       "[[ma-|pred]] (abstract root)",
+       "having the quality of the root",
+       "[[magandá|pred]]  beautiful"
+      ],
+      [
+       "[[ma-|pred]] (concrete root)",
+       "having many or much of the root",
+       "[[mabulaklák|pred]]  many flowers"
+      ],
+      [
+       "[[ka-|pred]]",
+       "a reciprocal (shared) relationship",
+       "[[kabalát|pred]]  of the same skin"
+      ],
+      [
+       "[[kay-|pred]]",
+       "an exclamation: *how …!*",
+       "[[kaygandá|pred]]  how beautiful!"
+      ],
+      [
+       "[[maka-|pred]]",
+       "in favor of someone or something",
+       "[[makabágo|pred]]  modern"
+      ],
+      [
+       "[[pang-|pred]], [[pam-|pred]], [[pan-|pred]]",
+       "for a specific use",
+       "[[pambáyad|pred]]  for payment"
+      ],
+      [
+       "[[mapag-|pred]], [[pala-|pred]]",
+       "does something habitually or frequently",
+       "[[palatawá|pred]]  laughs frequently"
+      ]
+     ],
+     "title": "The adjective prefixes at a glance"
+    }
+   ]
+  },
+  {
+   "title": "Ma-: having a quality",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Ma- + root** means *having the quality* expressed by the root. Use it with **abstract nouns**: things you cannot touch, such as beauty or knowledge. (You met this idea with **may** in Lesson 12: the book shows each ma- word as the same as **may** + the root.)"
+    },
+    {
+     "type": "pattern",
+     "title": "ma- + abstract root",
+     "rows": [
+      {
+       "label": "Root",
+       "chips": [
+        {
+         "t": "gandá",
+         "r": "noun"
+        },
+        {
+         "t": "beauty",
+         "r": "other"
+        }
+       ]
+      },
+      {
+       "label": "Adjective",
+       "chips": [
+        {
+         "t": "ma-",
+         "r": "pred"
+        },
+        {
+         "t": "gandá",
+         "r": "noun"
+        },
+        {
+         "t": "→ magandá",
+         "r": "pred"
+        }
+       ]
+      }
+     ],
+     "note": "magandá = beautiful (may ganda)"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Root",
+      "Adjective"
+     ],
+     "rows": [
+      [
+       "[[gandá|noun]]  beauty",
+       "[[magandá|pred]]  beautiful (may ganda)"
+      ],
+      [
+       "[[baít|noun]]  goodness",
+       "[[mabaít|pred]]  good (may bait)"
+      ],
+      [
+       "[[tamís|noun]]  sweetness",
+       "[[matamís|pred]]  sweet (may tamis)"
+      ],
+      [
+       "[[dúnong|noun]]  knowledge",
+       "[[marúnong|pred]]  learned (may dunong)"
+      ]
+     ],
+     "title": "Ma- with abstract nouns"
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "D changes to R",
+     "t": "Look at the last one. When **ma-** is added, a root that starts with **d** changes that **d** to **r**: ma- + **d**únong becomes ma**r**únong."
+    },
+    {
+     "type": "vocab",
+     "group": "ma1",
+     "title": "Ma-: having a quality"
+    }
+   ]
+  },
+  {
+   "title": "Ma-: having plenty",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "With **concrete nouns** (things you can see and touch), **ma- + root** means having *many* or *much* of the thing named by the root."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Root",
+      "Adjective"
+     ],
+     "rows": [
+      [
+       "[[bulaklák|noun]]  flower",
+       "[[mabulaklák|pred]]  many flowers"
+      ],
+      [
+       "[[táo|noun]]  person",
+       "[[matáo|pred]]  many people"
+      ],
+      [
+       "[[bigás|noun]]  rice",
+       "[[mabigás|pred]]  plenty of rice"
+      ],
+      [
+       "[[búnga|noun]]  fruit",
+       "[[mabúnga|pred]]  plenty of fruits or fruitful"
+      ]
+     ],
+     "title": "Ma- with concrete nouns"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Abstract or concrete?",
+     "items": [
+      "Abstract root (beauty, sweetness): ma- gives the **quality**. Magandá = beautiful.",
+      "Concrete root (flower, rice): ma- gives **plenty of** it. Mabigás = plenty of rice."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "ma2",
+     "title": "Ma-: having plenty"
+    }
+   ]
+  },
+  {
+   "title": "Ka- and kay-",
+   "blocks": [
+    {
+     "type": "h",
+     "t": "Ka-: a shared relationship"
+    },
+    {
+     "type": "p",
+     "t": "**Ka- + root** refers to a **reciprocal relationship**: something that two people share or do together."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Root",
+      "Adjective"
+     ],
+     "rows": [
+      [
+       "[[balát|noun]]  skin",
+       "[[kabalát|pred]]  of the same skin"
+      ],
+      [
+       "[[sama|pred]]  to go along",
+       "[[kasama|pred]]  accompanied"
+      ]
+     ],
+     "title": "Ka-"
+    },
+    {
+     "type": "h",
+     "t": "Kay-: how …!"
+    },
+    {
+     "type": "p",
+     "t": "**Kay- + root** makes an **exclamation** about the trait named by the root. Kay- literally translates to *how*."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Root",
+      "Exclamation"
+     ],
+     "rows": [
+      [
+       "[[gandá|noun]]  beauty",
+       "[[kaygandá|pred]]  how beautiful!"
+      ],
+      [
+       "[[ága|noun]]  early",
+       "[[kay-ága|pred]]  how early!"
+      ],
+      [
+       "[[buti|noun]]  goodness",
+       "[[kaybúti|pred]]  how good!"
+      ]
+     ],
+     "title": "Kay-"
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "Like English *how*",
+     "t": "*How beautiful!* and *How early!* are exactly what kaygandá and kay-ága say. The whole exclamation is one Tagalog word."
+    },
+    {
+     "type": "vocab",
+     "group": "ka",
+     "title": "Ka- and kay-"
+    }
+   ]
+  },
+  {
+   "title": "Maka-: in favor of",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Maka- + root** means *in favor of someone over another*, or *inclined to believe in someone or something*. The root may even be a **proper name**."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Root",
+      "Adjective"
+     ],
+     "rows": [
+      [
+       "Rizal  Philippines' national hero",
+       "[[maka-Rizal|pred]]  in favor of Rizal"
+      ],
+      [
+       "[[bago|pred]]  new",
+       "[[makabágo|pred]]  (in favor of new); modern"
+      ],
+      [
+       "[[lumà|pred]]  old",
+       "[[makalumà|pred]]  (in favor of old); old fashioned"
+      ]
+     ],
+     "title": "Maka-"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Read the literal meaning first",
+     "t": "Makabágo is literally *in favor of the new*, which is why it means **modern**. Makalumà is *in favor of the old*, so it means **old fashioned**."
+    },
+    {
+     "type": "vocab",
+     "group": "maka",
+     "title": "Maka-"
+    }
+   ]
+  },
+  {
+   "title": "Pang-, pam- and pan-: what it is for",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Pang- + root** refers to the **specific use** expressed by the root: what something is *for*. The prefix changes its ending to suit the first letter of the root."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Prefix",
+      "Use it when the root starts with",
+      "Hyphen?"
+     ],
+     "rows": [
+      [
+       "[[pang-|pred]]",
+       "a vowel (a, e, i, o, u) or k, g, h, m, n, ng, w, y",
+       "yes, before a vowel: pang-umága"
+      ],
+      [
+       "[[pam-|pred]]",
+       "b or p",
+       "no"
+      ],
+      [
+       "[[pan-|pred]]",
+       "d, l, r, s or t",
+       "no"
+      ]
+     ],
+     "title": "Choosing the prefix"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Root",
+      "Adjective",
+      "Prefix rule"
+     ],
+     "rows": [
+      [
+       "[[umága|noun]]  morning",
+       "[[pang-umága|pred]]  of the morning",
+       "vowel → pang- with a hyphen"
+      ],
+      [
+       "[[báyad|noun]]  pay",
+       "[[pambáyad|pred]]  for payment",
+       "b → pam-"
+      ],
+      [
+       "[[salà|noun]]  filter",
+       "[[pansála|pred]]  for straining",
+       "s → pan-"
+      ],
+      [
+       "[[kayod|pred]]  scrape",
+       "[[pangkáyod|pred]]  for scraping",
+       "k → pang-"
+      ],
+      [
+       "[[walís|pred]]  sweep",
+       "[[pangwalís|pred]]  for sweeping",
+       "w → pang-"
+      ],
+      [
+       "[[hila|pred]]  pull",
+       "[[panghila|pred]]  for pulling",
+       "h → pang-"
+      ],
+      [
+       "[[tulog|pred]]  sleep",
+       "[[pantúlog|pred]]  for sleeping",
+       "t → pan-"
+      ],
+      [
+       "[[lakad|pred]]  walk",
+       "[[panlakad|pred]]  for walking",
+       "l → pan-"
+      ],
+      [
+       "[[pasok|pred]]  enter",
+       "[[pampások|pred]]  uniform (used for going to office or school)",
+       "p → pam-"
+      ]
+     ],
+     "title": "Pang-, pam-, pan- examples"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ang sapatos na pambáhay ay sirâ na.",
+       "en": "The shoes for [use in] the house are already worn out.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "sapatos",
+         "shoes",
+         "noun"
+        ],
+        [
+         "na",
+         "(ligature)",
+         "link"
+        ],
+        [
+         "pambáhay",
+         "for [use in] the house",
+         "pred"
+        ],
+        [
+         "ay",
+         "are",
+         "ay"
+        ],
+        [
+         "sirâ",
+         "worn out",
+         "pred"
+        ],
+        [
+         "na",
+         "already",
+         "part"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang kláse ko ay pang-umága.",
+       "en": "My class is in the morning. (literal) I have a morning class.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "kláse",
+         "class",
+         "noun"
+        ],
+        [
+         "ko",
+         "my",
+         "poss"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "pang-umága",
+         "in the morning",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang pérang itó ay pambáyad sa útang.",
+       "en": "This money is for payment of debts.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "pérang",
+         "money (+ ligature)",
+         "noun"
+        ],
+        [
+         "itó",
+         "this",
+         "pron"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "pambáyad",
+         "for payment",
+         "pred"
+        ],
+        [
+         "sa",
+         "of",
+         "marker"
+        ],
+        [
+         "útang",
+         "debts",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang plúmang pansúlat ay nawalâ.",
+       "en": "The pen for writing was lost.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "plúmang",
+         "pen (+ ligature)",
+         "noun"
+        ],
+        [
+         "pansúlat",
+         "for writing",
+         "pred"
+        ],
+        [
+         "ay",
+         "was",
+         "ay"
+        ],
+        [
+         "nawalâ",
+         "lost",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang pang-ospital na uniporme ay puti.",
+       "en": "The hospital uniform is white.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "pang-ospital",
+         "hospital (for the hospital)",
+         "pred"
+        ],
+        [
+         "na",
+         "(ligature)",
+         "link"
+        ],
+        [
+         "uniporme",
+         "uniform",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "puti",
+         "white",
+         "pred"
+        ]
+       ]
+      }
+     ],
+     "title": "Pang- words in sentences"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Linking a pang- word to its noun",
+     "t": "A pang- word describes a noun, so it joins the noun with a ligature (Lesson 7), before or after it: sapatos **na** pambáhay, plúma**ng** pansúlat, pang-ospital **na** uniporme."
+    },
+    {
+     "type": "vocab",
+     "group": "pang",
+     "title": "Pang-, pam- and pan-"
+    }
+   ]
+  },
+  {
+   "title": "Mapag- and pala-: doing it habitually",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The prefixes **mapag-** and **pala-**, attached to a root, describe the **habitual and frequent action** of the doer, as expressed by the root word."
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "Mapag- or pala-?",
+     "items": [
+      "The two prefixes are **interchangeable**, except when attached to adjectives.",
+      "**Pala-** only goes with **action** roots.",
+      "**Mapag-** may go with both **action** and **describing** words.",
+      "The resulting words are always **accented on the last syllable**: palatawá, mapag-arál."
+     ]
+    },
+    {
+     "type": "table",
+     "head": [
+      "Root",
+      "Pala- / mapag- word"
+     ],
+     "rows": [
+      [
+       "[[tawa|pred]]  laugh",
+       "[[palatawá|pred]] or [[mapagtawá|pred]]  laughs frequently"
+      ],
+      [
+       "[[aral|pred]]  study",
+       "[[palaarál|pred]] or [[mapag-arál|pred]]  studies frequently"
+      ],
+      [
+       "[[inóm|pred]]  drink",
+       "[[palainóm|pred]] or [[mapag-inóm|pred]]  drinks frequently"
+      ],
+      [
+       "[[isip|pred]]  think",
+       "[[palaisíp|pred]] or [[mapag-isíp|pred]]  deep in thought"
+      ],
+      [
+       "[[mahál|pred]]  beloved",
+       "[[mapagmahál|pred]]  loving or affectionate"
+      ]
+     ],
+     "title": "Mapag- and pala-"
+    },
+    {
+     "type": "p",
+     "t": "For **mahál** (beloved) the book gives only the **mapag-** form: **mapagmahál**, loving or affectionate."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ayaw ang binatà sa dalagang palatawá / mapagtawá.",
+       "en": "The young man does not like a girl who laughs frequently.",
+       "parts": [
+        [
+         "Ayaw",
+         "does not like",
+         "pred"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "binatà",
+         "young man",
+         "noun"
+        ],
+        [
+         "sa",
+         "(object)",
+         "marker"
+        ],
+        [
+         "dalagang",
+         "girl (+ ligature)",
+         "noun"
+        ],
+        [
+         "palatawá / mapagtawá",
+         "laughs frequently",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang batáng palaarál / mapag-arál ay magíging marúnong.",
+       "en": "A child who studies habitually becomes learned.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "batáng",
+         "child (+ ligature)",
+         "noun"
+        ],
+        [
+         "palaarál / mapag-arál",
+         "studies habitually",
+         "pred"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "magíging",
+         "becomes",
+         "pred"
+        ],
+        [
+         "marúnong",
+         "learned",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Si Edwin ay palainóm / mapag-inóm ng tubig.",
+       "en": "Edwin is fond of drinking water.",
+       "parts": [
+        [
+         "Si",
+         "(name marker)",
+         "marker"
+        ],
+        [
+         "Edwin",
+         "Edwin",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "palainóm / mapag-inóm",
+         "fond of drinking",
+         "pred"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "tubig",
+         "water",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Madalíng tumandâ ang mga táong palaisíp / mapag-isíp.",
+       "en": "Deep thinkers get old faster.",
+       "parts": [
+        [
+         "Madalíng",
+         "fast (+ ligature)",
+         "pred"
+        ],
+        [
+         "tumandâ",
+         "get old",
+         "pred"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "mga",
+         "(plural)",
+         "marker"
+        ],
+        [
+         "táong",
+         "people (+ ligature)",
+         "noun"
+        ],
+        [
+         "palaisíp / mapag-isíp",
+         "deep in thought",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Gustó ni Claudette ang mapagmahál na si Pepeng.",
+       "en": "Claudette likes the affectionate Pepeng.",
+       "parts": [
+        [
+         "Gustó",
+         "likes",
+         "pred"
+        ],
+        [
+         "ni",
+         "(by)",
+         "marker"
+        ],
+        [
+         "Claudette",
+         "Claudette",
+         "noun"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "mapagmahál",
+         "affectionate",
+         "pred"
+        ],
+        [
+         "na",
+         "(ligature)",
+         "link"
+        ],
+        [
+         "si",
+         "(name marker)",
+         "marker"
+        ],
+        [
+         "Pepeng",
+         "Pepeng",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Either prefix fits (the book shows both)"
+    },
+    {
+     "type": "vocab",
+     "group": "mapag",
+     "title": "Mapag- and pala-"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "ma- + abstract root = having the quality (magandá); ma- + concrete root = plenty of it (mabigás). A d at the start of the root becomes r (marúnong).",
+      "ka- = shared relationship (kabalát); kay- = how …! (kaygandá).",
+      "maka- = in favor of (maka-Rizal, makabágo).",
+      "pang- before vowels and k, g, h, m, n, ng, w, y; pam- before b, p; pan- before d, l, r, s, t.",
+      "mapag- and pala- = does it habitually; pala- only with action roots; always stressed on the last syllable."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Practise like the book",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book's own exercises ask you to (1) write five adjectives, using a variety of affixes, to describe **New York**, a **gurò** (teacher) and a **babáe** (woman), and (2) add **pang-**, **pam-** or **pan-** to these roots: bansâ, gámit, aral, bása, lahát, langóy, batà, kain, barò, ilaw."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "How to work them out",
+     "t": "For the second exercise, look only at the **first letter** of each root and use the table in the pang- section: vowel or k, g, h, m, n, ng, w, y → pang- (with a hyphen before a vowel); b or p → pam-; d, l, r, s or t → pan-. The book does not print the answers, so check them with a teacher or a Tagalog speaker."
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "ganda-l41",
+   "tl": "gandá",
+   "en": "beauty",
+   "pos": "noun",
+   "group": "ma1",
+   "say": "gan-DA"
+  },
+  {
+   "id": "bait-l41",
+   "tl": "baít",
+   "en": "goodness",
+   "pos": "noun",
+   "group": "ma1",
+   "say": "ba-IT",
+   "note": "Lesson 19 gives baít as kindness."
+  },
+  {
+   "id": "tamis-l41",
+   "tl": "tamís",
+   "en": "sweetness",
+   "pos": "noun",
+   "group": "ma1",
+   "say": "ta-MIS"
+  },
+  {
+   "id": "dunong-l41",
+   "tl": "dúnong",
+   "en": "knowledge",
+   "pos": "noun",
+   "group": "ma1",
+   "say": "DU-nong",
+   "note": "With ma- the d becomes r: marúnong (learned)."
+  },
+  {
+   "id": "mabulaklak-l41",
+   "tl": "mabulaklák",
+   "en": "many flowers",
+   "pos": "adj",
+   "group": "ma2",
+   "say": "ma-bu-lak-LAK"
+  },
+  {
+   "id": "matao-l41",
+   "tl": "matáo",
+   "en": "many people",
+   "pos": "adj",
+   "group": "ma2",
+   "say": "ma-TA-o"
+  },
+  {
+   "id": "mabigas-l41",
+   "tl": "mabigás",
+   "en": "plenty of rice",
+   "pos": "adj",
+   "group": "ma2",
+   "say": "ma-bi-GAS"
+  },
+  {
+   "id": "mabunga-l41",
+   "tl": "mabúnga",
+   "en": "plenty of fruits or fruitful",
+   "pos": "adj",
+   "group": "ma2",
+   "say": "ma-BU-nga",
+   "note": "The vocabulary list gives: with plenty of fruits."
+  },
+  {
+   "id": "balat-l41",
+   "tl": "balát",
+   "en": "skin",
+   "pos": "noun",
+   "group": "ka",
+   "say": "ba-LAT"
+  },
+  {
+   "id": "kabalat-l41",
+   "tl": "kabalát",
+   "en": "of the same skin",
+   "pos": "adj",
+   "group": "ka",
+   "say": "ka-ba-LAT"
+  },
+  {
+   "id": "sama-l41",
+   "tl": "sama",
+   "en": "to go along",
+   "pos": "verb",
+   "group": "ka",
+   "note": "Lesson 14 prints sáma (go with)."
+  },
+  {
+   "id": "kasama-l41",
+   "tl": "kasama",
+   "en": "accompanied",
+   "pos": "adj",
+   "group": "ka",
+   "note": "Lesson 10 prints kasáma (companion)."
+  },
+  {
+   "id": "kayganda-l41",
+   "tl": "kaygandá",
+   "en": "how beautiful!",
+   "pos": "expr",
+   "group": "ka",
+   "say": "kay-gan-DA"
+  },
+  {
+   "id": "aga-l41",
+   "tl": "ága",
+   "en": "early",
+   "pos": "adj",
+   "group": "ka",
+   "say": "A-ga"
+  },
+  {
+   "id": "kay-aga-l41",
+   "tl": "kay-ága",
+   "en": "how early!",
+   "pos": "expr",
+   "group": "ka",
+   "say": "kay-A-ga"
+  },
+  {
+   "id": "buti-l41",
+   "tl": "buti",
+   "en": "goodness",
+   "pos": "noun",
+   "group": "ka",
+   "note": "Lesson 40 gives buti as good."
+  },
+  {
+   "id": "kaybuti-l41",
+   "tl": "kaybúti",
+   "en": "how good!",
+   "pos": "expr",
+   "group": "ka",
+   "say": "kay-BU-ti",
+   "note": "The vocabulary list prints it as an exclamation: Kaybúti! = How good!"
+  },
+  {
+   "id": "maka-rizal-l41",
+   "tl": "maka-Rizal",
+   "en": "in favor of Rizal",
+   "pos": "adj",
+   "group": "maka",
+   "note": "Rizal = the Philippines' national hero."
+  },
+  {
+   "id": "bago-l41",
+   "tl": "bago",
+   "en": "new",
+   "pos": "adj",
+   "group": "maka",
+   "note": "Lesson 4 prints bágo."
+  },
+  {
+   "id": "makaluma-l41",
+   "tl": "makalumà",
+   "en": "(in favor of old); old fashioned",
+   "pos": "adj",
+   "group": "maka",
+   "say": "ma-ka-LU-maQ"
+  },
+  {
+   "id": "pang-umaga-l41",
+   "tl": "pang-umága",
+   "en": "of the morning",
+   "pos": "adj",
+   "group": "pang",
+   "say": "pang-u-MA-ga",
+   "note": "The vocabulary list gives: for morning (literal). In the sample sentence it means in the morning."
+  },
+  {
+   "id": "bayad-l41",
+   "tl": "báyad",
+   "en": "pay",
+   "pos": "noun",
+   "group": "pang",
+   "say": "BA-yad"
+  },
+  {
+   "id": "pambayad-l41",
+   "tl": "pambáyad",
+   "en": "for payment",
+   "pos": "adj",
+   "group": "pang",
+   "say": "pam-BA-yad"
+  },
+  {
+   "id": "sala-l41",
+   "tl": "salà",
+   "en": "filter",
+   "pos": "noun",
+   "group": "pang",
+   "say": "SA-laQ"
+  },
+  {
+   "id": "pansala-l41",
+   "tl": "pansála",
+   "en": "for straining",
+   "pos": "adj",
+   "group": "pang",
+   "say": "pan-SA-la"
+  },
+  {
+   "id": "kayod-l41",
+   "tl": "kayod",
+   "en": "scrape",
+   "pos": "verb",
+   "group": "pang"
+  },
+  {
+   "id": "pangkayod-l41",
+   "tl": "pangkáyod",
+   "en": "for scraping",
+   "pos": "adj",
+   "group": "pang",
+   "say": "pang-KA-yod"
+  },
+  {
+   "id": "walis-l41",
+   "tl": "walís",
+   "en": "sweep",
+   "pos": "verb",
+   "group": "pang",
+   "say": "wa-LIS"
+  },
+  {
+   "id": "pangwalis-l41",
+   "tl": "pangwalís",
+   "en": "for sweeping",
+   "pos": "adj",
+   "group": "pang",
+   "say": "pang-wa-LIS"
+  },
+  {
+   "id": "hila-l41",
+   "tl": "hila",
+   "en": "pull",
+   "pos": "verb",
+   "group": "pang"
+  },
+  {
+   "id": "panghila-l41",
+   "tl": "panghila",
+   "en": "for pulling",
+   "pos": "adj",
+   "group": "pang"
+  },
+  {
+   "id": "tulog-l41",
+   "tl": "tulog",
+   "en": "sleep",
+   "pos": "verb",
+   "group": "pang"
+  },
+  {
+   "id": "pantulog-l41",
+   "tl": "pantúlog",
+   "en": "for sleeping",
+   "pos": "adj",
+   "group": "pang",
+   "say": "pan-TU-log"
+  },
+  {
+   "id": "lakad-l41",
+   "tl": "lakad",
+   "en": "walk",
+   "pos": "verb",
+   "group": "pang"
+  },
+  {
+   "id": "panlakad-l41",
+   "tl": "panlakad",
+   "en": "for walking",
+   "pos": "adj",
+   "group": "pang"
+  },
+  {
+   "id": "pasok-l41",
+   "tl": "pasok",
+   "en": "enter",
+   "pos": "verb",
+   "group": "pang",
+   "note": "Lesson 14 prints pások."
+  },
+  {
+   "id": "pampasok-l41",
+   "tl": "pampások",
+   "en": "uniform (used for going to office or school)",
+   "pos": "noun",
+   "group": "pang",
+   "say": "pam-PA-sok"
+  },
+  {
+   "id": "pambahay-l41",
+   "tl": "pambáhay",
+   "en": "for [use in] the house",
+   "pos": "adj",
+   "group": "pang",
+   "say": "pam-BA-hay"
+  },
+  {
+   "id": "pansulat-l41",
+   "tl": "pansúlat",
+   "en": "for writing",
+   "pos": "adj",
+   "group": "pang",
+   "say": "pan-SU-lat"
+  },
+  {
+   "id": "pang-ospital-l41",
+   "tl": "pang-ospital",
+   "en": "hospital (as in hospital uniform)",
+   "pos": "adj",
+   "group": "pang",
+   "note": "Ang pang-ospital na uniporme = the hospital uniform."
+  },
+  {
+   "id": "tawa-l41",
+   "tl": "tawa",
+   "en": "laugh",
+   "pos": "verb",
+   "group": "mapag",
+   "note": "Lesson 14 prints táwa."
+  },
+  {
+   "id": "palatawa-l41",
+   "tl": "palatawá",
+   "en": "laughs frequently",
+   "pos": "adj",
+   "group": "mapag",
+   "say": "pa-la-ta-WA"
+  },
+  {
+   "id": "mapagtawa-l41",
+   "tl": "mapagtawá",
+   "en": "laughs frequently",
+   "pos": "adj",
+   "group": "mapag",
+   "say": "ma-pag-ta-WA"
+  },
+  {
+   "id": "aral-l41",
+   "tl": "aral",
+   "en": "study",
+   "pos": "verb",
+   "group": "mapag",
+   "note": "Lesson 14 prints áral."
+  },
+  {
+   "id": "palaaral-l41",
+   "tl": "palaarál",
+   "en": "studies frequently",
+   "pos": "adj",
+   "group": "mapag",
+   "say": "pa-la-a-RAL"
+  },
+  {
+   "id": "mapag-aral-l41",
+   "tl": "mapag-arál",
+   "en": "studies frequently",
+   "pos": "adj",
+   "group": "mapag",
+   "say": "ma-pag-a-RAL"
+  },
+  {
+   "id": "palainom-l41",
+   "tl": "palainóm",
+   "en": "drinks frequently",
+   "pos": "adj",
+   "group": "mapag",
+   "say": "pa-la-i-NOM"
+  },
+  {
+   "id": "mapag-inom-l41",
+   "tl": "mapag-inóm",
+   "en": "drinks frequently",
+   "pos": "adj",
+   "group": "mapag",
+   "say": "ma-pag-i-NOM"
+  },
+  {
+   "id": "isip-l41",
+   "tl": "isip",
+   "en": "think",
+   "pos": "verb",
+   "group": "mapag",
+   "note": "Lesson 14 prints ísip."
+  },
+  {
+   "id": "palaisip-l41",
+   "tl": "palaisíp",
+   "en": "deep in thought",
+   "pos": "adj",
+   "group": "mapag",
+   "say": "pa-la-i-SIP"
+  },
+  {
+   "id": "mapag-isip-l41",
+   "tl": "mapag-isíp",
+   "en": "deep in thought",
+   "pos": "adj",
+   "group": "mapag",
+   "say": "ma-pag-i-SIP"
+  },
+  {
+   "id": "mahal-l41",
+   "tl": "mahál",
+   "en": "beloved",
+   "pos": "adj",
+   "group": "mapag",
+   "say": "ma-HAL",
+   "note": "Lesson 4 gives mahál as dear; expensive."
+  },
+  {
+   "id": "mapagmahal-l41",
+   "tl": "mapagmahál",
+   "en": "loving or affectionate",
+   "pos": "adj",
+   "group": "mapag",
+   "say": "ma-pag-ma-HAL"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Ma- + an abstract root (like gandá, beauty) means…",
+   "options": [
+    "having the quality of the root",
+    "having plenty of the root",
+    "how …!"
+   ],
+   "answer": "having the quality of the root",
+   "explain": "Magandá = beautiful (may ganda)."
+  },
+  {
+   "type": "choice",
+   "q": "Ma- + a concrete root (like bigás, rice) means…",
+   "options": [
+    "having many or much of it",
+    "in favor of it",
+    "used for it"
+   ],
+   "answer": "having many or much of it",
+   "explain": "Mabigás = plenty of rice."
+  },
+  {
+   "type": "choice",
+   "q": "With ma-, a root that starts with d (like dúnong) changes the d to…",
+   "options": [
+    "r",
+    "l",
+    "t"
+   ],
+   "answer": "r",
+   "explain": "Ma- + dúnong becomes marúnong."
+  },
+  {
+   "type": "choice",
+   "q": "What does matáo mean?",
+   "options": [
+    "many people",
+    "person",
+    "how early!"
+   ],
+   "answer": "many people",
+   "explain": "Ma- + táo (person) = many people."
+  },
+  {
+   "type": "choice",
+   "q": "What does kabalát mean?",
+   "options": [
+    "of the same skin",
+    "skin",
+    "how beautiful!"
+   ],
+   "answer": "of the same skin",
+   "explain": "Ka- shows a reciprocal relationship."
+  },
+  {
+   "type": "choice",
+   "q": "The prefix kay- literally translates to…",
+   "options": [
+    "how",
+    "many",
+    "for"
+   ],
+   "answer": "how",
+   "explain": "Kaygandá = how beautiful!"
+  },
+  {
+   "type": "choice",
+   "q": "How do you say \"How early!\"?",
+   "options": [
+    "kay-ága",
+    "kaygandá",
+    "kaybúti"
+   ],
+   "answer": "kay-ága",
+   "explain": "Kay- + ága (early)."
+  },
+  {
+   "type": "choice",
+   "q": "Makabágo means modern. Literally it is…",
+   "options": [
+    "in favor of new",
+    "plenty of new things",
+    "for new things"
+   ],
+   "answer": "in favor of new",
+   "explain": "Maka- = in favor of."
+  },
+  {
+   "type": "choice",
+   "q": "What does makalumà mean?",
+   "options": [
+    "old fashioned",
+    "modern",
+    "in favor of Rizal"
+   ],
+   "answer": "old fashioned",
+   "explain": "Maka- + lumà (old): in favor of old."
+  },
+  {
+   "type": "choice",
+   "q": "Which prefix goes with roots that start with b or p?",
+   "options": [
+    "pam-",
+    "pan-",
+    "pang-"
+   ],
+   "answer": "pam-",
+   "explain": "Báyad → pambáyad, pasok → pampások."
+  },
+  {
+   "type": "choice",
+   "q": "Which prefix goes with roots that start with d, l, r, s or t?",
+   "options": [
+    "pan-",
+    "pam-",
+    "pang-"
+   ],
+   "answer": "pan-",
+   "explain": "Tulog → pantúlog, lakad → panlakad."
+  },
+  {
+   "type": "choice",
+   "q": "When is pang- written with a hyphen?",
+   "options": [
+    "Before a root that starts with a vowel",
+    "Before every root",
+    "Before a root that starts with k"
+   ],
+   "answer": "Before a root that starts with a vowel",
+   "explain": "Pang-umága, pang-ospital."
+  },
+  {
+   "type": "choice",
+   "q": "What does pampások mean?",
+   "options": [
+    "uniform (used for going to office or school)",
+    "for straining",
+    "for walking"
+   ],
+   "answer": "uniform (used for going to office or school)",
+   "explain": "Pam- + pasok (enter)."
+  },
+  {
+   "type": "choice",
+   "q": "Which prefix can ONLY be used with action roots?",
+   "options": [
+    "pala-",
+    "mapag-",
+    "ma-"
+   ],
+   "answer": "pala-",
+   "explain": "Mapag- may go with both action and describing words."
+  },
+  {
+   "type": "choice",
+   "q": "What does mapagmahál mean?",
+   "options": [
+    "loving or affectionate",
+    "deep in thought",
+    "studies frequently"
+   ],
+   "answer": "loving or affectionate",
+   "explain": "Mapag- + mahál (beloved)."
+  },
+  {
+   "type": "choice",
+   "q": "Where is a mapag- or pala- word always accented?",
+   "options": [
+    "on the last syllable",
+    "on the first syllable",
+    "on the prefix"
+   ],
+   "answer": "on the last syllable",
+   "explain": "Palatawá, mapag-arál, palainóm."
+  },
+  {
+   "type": "listen",
+   "tl": "mabúnga",
+   "options": [
+    "plenty of fruits or fruitful",
+    "many flowers",
+    "plenty of rice"
+   ],
+   "answer": "plenty of fruits or fruitful",
+   "explain": "Ma- + búnga (fruit)."
+  },
+  {
+   "type": "listen",
+   "tl": "kaybúti",
+   "options": [
+    "how good!",
+    "how beautiful!",
+    "goodness"
+   ],
+   "answer": "how good!",
+   "explain": "Kay- + buti (goodness)."
+  },
+  {
+   "type": "listen",
+   "tl": "palaisíp",
+   "options": [
+    "deep in thought",
+    "drinks frequently",
+    "laughs frequently"
+   ],
+   "answer": "deep in thought",
+   "explain": "Pala- + isip (think)."
+  },
+  {
+   "type": "listen",
+   "tl": "pansúlat",
+   "options": [
+    "for writing",
+    "for sweeping",
+    "for pulling"
+   ],
+   "answer": "for writing",
+   "explain": "Ang plúmang pansúlat = the pen for writing."
+  },
+  {
+   "type": "build",
+   "en": "I have a morning class.",
+   "tl": "Ang kláse ko ay pang-umága.",
+   "tokens": [
+    "ang",
+    "kláse",
+    "ko",
+    "ay",
+    "pang-umága"
+   ],
+   "explain": "Literally: My class is in the morning."
+  },
+  {
+   "type": "build",
+   "en": "This money is for payment of debts.",
+   "tl": "Ang pérang itó ay pambáyad sa útang.",
+   "tokens": [
+    "ang",
+    "pérang",
+    "itó",
+    "ay",
+    "pambáyad",
+    "sa",
+    "útang"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The pen for writing was lost.",
+   "tl": "Ang plúmang pansúlat ay nawalâ.",
+   "tokens": [
+    "ang",
+    "plúmang",
+    "pansúlat",
+    "ay",
+    "nawalâ"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The hospital uniform is white.",
+   "tl": "Ang pang-ospital na uniporme ay puti.",
+   "tokens": [
+    "ang",
+    "pang-ospital",
+    "na",
+    "uniporme",
+    "ay",
+    "puti"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Edwin is fond of drinking water.",
+   "tl": "Si Edwin ay palainóm ng tubig.",
+   "tokens": [
+    "si",
+    "edwin",
+    "ay",
+    "palainóm",
+    "ng",
+    "tubig"
+   ],
+   "explain": "The book also allows mapag-inóm here."
+  },
+  {
+   "type": "build",
+   "en": "Claudette likes the affectionate Pepeng.",
+   "tl": "Gustó ni Claudette ang mapagmahál na si Pepeng.",
+   "tokens": [
+    "gustó",
+    "ni",
+    "claudette",
+    "ang",
+    "mapagmahál",
+    "na",
+    "si",
+    "pepeng"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match each ma- word to its meaning.",
+   "pairs": [
+    [
+     "magandá",
+     "beautiful"
+    ],
+    [
+     "matamís",
+     "sweet"
+    ],
+    [
+     "marúnong",
+     "learned"
+    ],
+    [
+     "mabulaklák",
+     "many flowers"
+    ],
+    [
+     "mabigás",
+     "plenty of rice"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each pang- word to its meaning.",
+   "pairs": [
+    [
+     "pangwalís",
+     "for sweeping"
+    ],
+    [
+     "panghila",
+     "for pulling"
+    ],
+    [
+     "pantúlog",
+     "for sleeping"
+    ],
+    [
+     "pansála",
+     "for straining"
+    ],
+    [
+     "pangkáyod",
+     "for scraping"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each prefix to its meaning.",
+   "pairs": [
+    [
+     "ka-",
+     "a reciprocal relationship"
+    ],
+    [
+     "kay-",
+     "how …!"
+    ],
+    [
+     "maka-",
+     "in favor of"
+    ],
+    [
+     "mapag-",
+     "does it habitually"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "Ma- + abstract root = having the quality (magandá, beautiful); ma- + concrete root = plenty of it (matáo, many people).",
+  "With ma-, a first d becomes r: dúnong → marúnong.",
+  "Ka- = shared relationship (kabalát); kay- = how …! (kaygandá, kay-ága, kaybúti).",
+  "Maka- = in favor of: maka-Rizal, makabágo (modern), makalumà (old fashioned).",
+  "Pang- / pam- (b, p) / pan- (d, l, r, s, t) = for a specific use: pambáyad, pantúlog, pang-umága.",
+  "Mapag- and pala- = does it habitually (palatawá, mapag-arál); pala- only with action roots."
+ ]
+}

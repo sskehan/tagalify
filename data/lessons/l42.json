@@ -1,0 +1,1973 @@
+{
+ "id": "l42",
+ "label": "42",
+ "title": "Plural forms of verbs",
+ "summary": "Plural verbs for plural doers and receivers: magsi- (magsikáin), magsipag- (magsipaglakád), pag- + -in (paglutuín) and pag- + -an (paghuhugasán)",
+ "minutes": 40,
+ "goals": [
+  "Know that plural verbs are optional with plural subjects",
+  "Make the plural of -um- verbs with magsi- in all forms and tenses",
+  "Make the plural of mag- verbs with magsipag-",
+  "Make the plural of passive -in verbs with pag- + -in",
+  "Make the plural of passive -an verbs with pag- + -an, including irregular roots"
+ ],
+ "sections": [
+  {
+   "title": "Plural verbs: useful, not compulsory",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "You met the **plurality rule** back in Lesson 4: when the subject is plural, other words in the sentence can take plural forms too. Verbs have plural forms as well."
+    },
+    {
+     "type": "p",
+     "t": "The grammar book **Balarila ng Wikang Pambansa**, written by Lope K. Santos in 1939 as head of the Institute of National Language, says that using plural verbs with plural subjects is **not compulsory**. A plural subject with a singular verb **does not make the sentence wrong**."
+    },
+    {
+     "type": "p",
+     "t": "Native speakers can easily say long plural verbs such as **mangagsikáin**, **mangagkaín**, **magsipagkaín**, **mangágsipagkáinan** and **mangagkaínan**, but learners find them very hard to pronounce. So this lesson sticks to **four simpler plural affixes**, two for each voice:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Voice",
+      "Singular verb type",
+      "Plural affix"
+     ],
+     "rows": [
+      [
+       "Active (focus on the doer or the act)",
+       "-um- (Lesson 14)",
+       "[[magsi-|pred]]"
+      ],
+      [
+       "Active (focus on the doer or the act)",
+       "mag- (Lesson 14)",
+       "[[magsipag-|pred]]"
+      ],
+      [
+       "Passive (focus on the receiver)",
+       "-in (Lesson 15)",
+       "[[pag- + -in|pred]] (or pag- + -hin)"
+      ],
+      [
+       "Passive (focus on the receiver)",
+       "-an (Lesson 33)",
+       "[[pag- + -an|pred]] (or pag- + -han)"
+      ]
+     ],
+     "title": "The four plural affixes in this lesson"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Enough for real conversation",
+     "t": "The book says these four affixes are enough to give a learner the plural verbs needed for an advanced Tagalog conversation."
+    }
+   ]
+  },
+  {
+   "title": "Magsi-: plural of -um- verbs",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Magsi-** makes the plural of **-um- verbs**. It works like mag-: **m** changes to **n** for the past and present, and the present and future repeat **si**, the second syllable of magsi-."
+    },
+    {
+     "type": "pattern",
+     "title": "magsi- + root",
+     "rows": [
+      {
+       "label": "Infinitive",
+       "chips": [
+        {
+         "t": "magsi-",
+         "r": "pred"
+        },
+        {
+         "t": "kain",
+         "r": "pred"
+        },
+        {
+         "t": "→ magsikáin",
+         "r": "pred"
+        }
+       ]
+      },
+      {
+       "label": "Past",
+       "chips": [
+        {
+         "t": "nagsi-",
+         "r": "pred"
+        },
+        {
+         "t": "kain",
+         "r": "pred"
+        },
+        {
+         "t": "→ nagsikáin",
+         "r": "pred"
+        }
+       ]
+      },
+      {
+       "label": "Present",
+       "chips": [
+        {
+         "t": "nagsi-",
+         "r": "pred"
+        },
+        {
+         "t": "+ si",
+         "r": "pred"
+        },
+        {
+         "t": "kain",
+         "r": "pred"
+        },
+        {
+         "t": "→ nagsísikáin",
+         "r": "pred"
+        }
+       ]
+      },
+      {
+       "label": "Future",
+       "chips": [
+        {
+         "t": "magsi-",
+         "r": "pred"
+        },
+        {
+         "t": "+ si",
+         "r": "pred"
+        },
+        {
+         "t": "kain",
+         "r": "pred"
+        },
+        {
+         "t": "→ magsísikáin",
+         "r": "pred"
+        }
+       ]
+      }
+     ],
+     "note": "to eat · ate · are eating · will eat"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Verb",
+      "How",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[kain|pred]]",
+       "",
+       "eat"
+      ],
+      [
+       "Infinitive",
+       "[[magsikáin|pred]]",
+       "magsi- + root",
+       "to eat"
+      ],
+      [
+       "Imperative",
+       "[[magsikáin|pred]]",
+       "magsi- + root",
+       "eat"
+      ],
+      [
+       "Past",
+       "[[nagsikáin|pred]]",
+       "magsi- becomes nagsi- + root",
+       "ate"
+      ],
+      [
+       "Present",
+       "[[nagsísikáin|pred]]",
+       "nagsi- + repeated si + root",
+       "are eating"
+      ],
+      [
+       "Future",
+       "[[magsísikáin|pred]]",
+       "magsi- + repeated si + root",
+       "will eat"
+      ]
+     ],
+     "title": "Kain (eat)"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Verb",
+      "How",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[alís|pred]]",
+       "",
+       "leave"
+      ],
+      [
+       "Infinitive",
+       "[[magsialís|pred]]",
+       "magsi- + root",
+       "to leave"
+      ],
+      [
+       "Imperative",
+       "[[magsialís|pred]]",
+       "magsi- + root",
+       "leave"
+      ],
+      [
+       "Past",
+       "[[nagsialís|pred]]",
+       "magsi- becomes nagsi- + root",
+       "left"
+      ],
+      [
+       "Present",
+       "[[nagsísialís|pred]]",
+       "nagsi- + repeated si + root",
+       "are leaving"
+      ],
+      [
+       "Future",
+       "[[magsísialís|pred]]",
+       "magsi- + repeated si + root",
+       "will leave"
+      ]
+     ],
+     "title": "Alís (leave)"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Compare with -um- (Lesson 14)",
+     "items": [
+      "Singular: kumain, kumakain, kakain.",
+      "Plural: magsikáin, nagsísikáin, magsísikáin.",
+      "With magsi-, the **root never changes**: only the prefix does."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "magsi",
+     "title": "Magsi- verbs"
+    }
+   ]
+  },
+  {
+   "title": "Magsipag-: plural of mag- verbs",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Magsipag-** makes the plural of **mag- verbs**. It changes the same way as magsi-: **nagsipag-** for the past, and the present and future repeat **si**."
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "Hyphen before a vowel",
+     "t": "Put a **hyphen** after magsipag- when the root starts with a vowel, as with [[aral|pred]] (*study*) and [[akyat|pred]] (*climb*): **magsipag-áral**, **magsipag-akyát**. This is the same as mag-áral in Lesson 14."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Verb",
+      "How",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[lakad|pred]]",
+       "",
+       "walk"
+      ],
+      [
+       "Infinitive",
+       "[[magsipaglakád|pred]]",
+       "magsipag- + root",
+       "to walk"
+      ],
+      [
+       "Imperative",
+       "[[magsipaglakád|pred]]",
+       "magsipag- + root",
+       "walk"
+      ],
+      [
+       "Past",
+       "[[nagsipaglakád|pred]]",
+       "magsipag- becomes nagsipag- + root",
+       "walked"
+      ],
+      [
+       "Present",
+       "[[nagsísipaglakád|pred]]",
+       "nagsipag- with si repeated + root",
+       "are walking"
+      ],
+      [
+       "Future",
+       "[[magsísipaglakád|pred]]",
+       "magsipag- with si repeated + root",
+       "will walk"
+      ]
+     ],
+     "title": "Lakad (walk)"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Verb",
+      "How",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[dasál|pred]]",
+       "",
+       "prayer"
+      ],
+      [
+       "Infinitive",
+       "[[magsipagdasál|pred]]",
+       "magsipag- + root",
+       "to pray"
+      ],
+      [
+       "Imperative",
+       "[[magsipagdasál|pred]]",
+       "magsipag- + root",
+       "pray"
+      ],
+      [
+       "Past",
+       "[[nagsipagdasál|pred]]",
+       "magsipag- becomes nagsipag- + root",
+       "prayed"
+      ],
+      [
+       "Present",
+       "[[nagsísipagdasál|pred]]",
+       "nagsipag- with si repeated + root",
+       "are praying"
+      ],
+      [
+       "Future",
+       "[[magsísipagdasál|pred]]",
+       "magsipag- with si repeated + root",
+       "will pray"
+      ]
+     ],
+     "title": "Dasál (prayer)"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Where the repeat goes",
+     "t": "Only the **si** inside the prefix is repeated: nag**sí**sipaglakád. The root lakad stays as it is."
+    },
+    {
+     "type": "vocab",
+     "group": "magsipag",
+     "title": "Magsipag- verbs"
+    }
+   ]
+  },
+  {
+   "title": "Sample sentences: active plural verbs",
+   "blocks": [
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Nagsísibása ba kayó ng Bibliya?",
+       "en": "Do you read the Bible?",
+       "parts": [
+        [
+         "Nagsísibása",
+         "read (plural, present)",
+         "pred"
+        ],
+        [
+         "ba",
+         "question word",
+         "part"
+        ],
+        [
+         "kayó",
+         "you (plural)",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "Bibliya",
+         "Bible",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Magsilakád na kayó sa páaralán.",
+       "en": "You all go now to school.",
+       "parts": [
+        [
+         "Magsilakád",
+         "go (plural, imperative)",
+         "pred"
+        ],
+        [
+         "na",
+         "now",
+         "part"
+        ],
+        [
+         "kayó",
+         "you (plural)",
+         "pron"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "páaralán",
+         "school",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nagsísikáin na ang mga batà ng hapúnan.",
+       "en": "The children are eating their supper already.",
+       "parts": [
+        [
+         "Nagsísikáin",
+         "are eating (plural)",
+         "pred"
+        ],
+        [
+         "na",
+         "already",
+         "part"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "mga",
+         "plural",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "hapúnan",
+         "supper",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nagsísipag-áral nang mabuti ang áking mga anák.",
+       "en": "My children study well.",
+       "parts": [
+        [
+         "Nagsísipag-áral",
+         "study (plural, present)",
+         "pred"
+        ],
+        [
+         "nang mabuti",
+         "well",
+         "other"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "áking",
+         "my",
+         "poss"
+        ],
+        [
+         "mga",
+         "plural",
+         "marker"
+        ],
+        [
+         "anák",
+         "children",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nagsísipagdasál ang mga babáe sa simbáhan.",
+       "en": "The women pray in church.",
+       "parts": [
+        [
+         "Nagsísipagdasál",
+         "pray (plural, present)",
+         "pred"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "mga",
+         "plural",
+         "marker"
+        ],
+        [
+         "babáe",
+         "woman",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "simbáhan",
+         "church",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "The book's sample sentences"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Spot the plural doer",
+     "t": "Every sentence has a plural doer: **kayó**, **ang mga batà**, **ang áking mga anák**, **ang mga babáe**. The magsi- or magsipag- verb agrees with it."
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Same verb, two spellings",
+     "t": "The examples list prints **magsilákad** (*to go*), but the sample sentence prints **Magsilakád**. Both are copied here exactly as the book prints them."
+    },
+    {
+     "type": "vocab",
+     "group": "sent",
+     "title": "Words from the sample sentences"
+    }
+   ]
+  },
+  {
+   "title": "Pag- + -in: plural of -in verbs",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The passive forms put the focus on the **receiver** of the action (Lessons 15 and 33). **Pag- + -in** (or its variant **pag- + -hin**) makes the plural of a passive **-in verb**."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Verb",
+      "How",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[lutò|pred]]",
+       "",
+       "cooking"
+      ],
+      [
+       "Infinitive",
+       "[[paglutuín|pred]]",
+       "pag- + root + -in",
+       "to cook"
+      ],
+      [
+       "Imperative",
+       "[[paglutuín|pred]]",
+       "pag- + root + -in",
+       "cook"
+      ],
+      [
+       "Past",
+       "[[pinaglutò|pred]]",
+       "-in- after the p of pag- + root",
+       "were cooked"
+      ],
+      [
+       "Present",
+       "[[pinaglulutò|pred]]",
+       "-in- after the p of pag- + repeated lu + root",
+       "are being cooked"
+      ],
+      [
+       "Future",
+       "[[paglúlutuín|pred]]",
+       "pag- + repeated lu + root + -in",
+       "will be cooked"
+      ]
+     ],
+     "title": "Lutò (cooking)"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Verb",
+      "How",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[sulat|pred]]",
+       "",
+       "writing"
+      ],
+      [
+       "Infinitive",
+       "[[pagsulatín|pred]]",
+       "pag- + root + -in",
+       "to write"
+      ],
+      [
+       "Imperative",
+       "[[pagsulatín|pred]]",
+       "pag- + root + -in",
+       "write"
+      ],
+      [
+       "Past",
+       "[[pinagsulát|pred]]",
+       "-in- after the p of pag- + root",
+       "were made to write"
+      ],
+      [
+       "Present",
+       "[[pinagsusulát|pred]]",
+       "-in- after the p of pag- + repeated su + root",
+       "are being made to write"
+      ],
+      [
+       "Future",
+       "[[pagsúsulatín|pred]]",
+       "pag- + repeated su + root + -in",
+       "will be made to write"
+      ]
+     ],
+     "title": "Sulat (writing)"
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "O changes to u",
+     "t": "The **o** in luto changes to **u** when the -in ending is added (the infinitive, imperative and future): lutò → paglut**u**ín, paglúlut**u**ín. Other verbs that end in the vowel **o** make the same change."
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Look back at Lesson 15",
+     "t": "Lesson 15 explains how -in verbs behave when the root ends in a vowel, with or without a glottal catch, and when to use **-hin** instead of -in. The same applies here: pagbasa**hín**."
+    },
+    {
+     "type": "vocab",
+     "group": "pagin",
+     "title": "Pag- + -in verbs"
+    }
+   ]
+  },
+  {
+   "title": "Everyday speech: an extra repeat",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "In conversational language, people may **repeat the first syllable of the root** in every form and tense of pag- + -in and pag- + -an verbs. Here is lutò:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Standard",
+      "Conversational"
+     ],
+     "rows": [
+      [
+       "Infinitive and imperative",
+       "[[paglutuín|pred]]",
+       "[[paglúlutuín|pred]]"
+      ],
+      [
+       "Past",
+       "[[pinaglutò|pred]]",
+       "[[pinaglulutò|pred]]"
+      ],
+      [
+       "Present",
+       "[[pinaglulutò|pred]]",
+       "[[pinaglúlulutò|pred]]"
+      ],
+      [
+       "Future",
+       "[[paglúlutuín|pred]]",
+       "[[paglúlulutuín|pred]]"
+      ]
+     ],
+     "title": "Conversational forms of lutò"
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Watch out",
+     "t": "Because of this extra repeat, the conversational infinitive **paglúlutuín** looks exactly like the standard future, and the conversational past **pinaglulutò** looks like the standard present. Context tells you which is meant."
+    }
+   ]
+  },
+  {
+   "title": "Pag- + -an: plural of -an verbs",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Pag- + -an** (or its variant **pag- + -han**) makes the plural of a passive **-an verb**. Notice that these verbs repeat the first syllable of the root **even in the infinitive**, and the present and future repeat it a **third** time."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Verb",
+      "How",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[hugas|pred]]",
+       "",
+       "washing"
+      ],
+      [
+       "Infinitive",
+       "[[paghuhugasán|pred]]",
+       "pag- + repeated hu + root + -an",
+       "to wash"
+      ],
+      [
+       "Imperative",
+       "[[paghuhugasán|pred]]",
+       "pag- + repeated hu + root + -an",
+       "wash"
+      ],
+      [
+       "Past",
+       "[[pinaghúhugasán|pred]]",
+       "-in- after the p of pag- + repeated hu + root + -an",
+       "were washed"
+      ],
+      [
+       "Present",
+       "[[pinaghúhuhugasán|pred]]",
+       "-in- after the p of pag- + hu three times + root + -an",
+       "are being washed"
+      ],
+      [
+       "Future",
+       "[[paghúhuhugasán|pred]]",
+       "pag- + hu three times + root + -an",
+       "will be washed"
+      ]
+     ],
+     "title": "Hugas (washing)"
+    },
+    {
+     "type": "h",
+     "t": "An irregular root: bukás"
+    },
+    {
+     "type": "p",
+     "t": "Some -an verbs come from **irregular roots** (Lesson 33). With **bukás**, the root loses its last vowel before -an: bukas → **buks**-án."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Verb",
+      "How",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[bukás|pred]] (irregular)",
+       "",
+       "open"
+      ],
+      [
+       "Infinitive",
+       "[[pagbubuksán|pred]]",
+       "pag- + repeated bu + root without its last vowel + -an",
+       "to open"
+      ],
+      [
+       "Imperative",
+       "[[pagbubuksán|pred]]",
+       "pag- + repeated bu + root without its last vowel + -an",
+       "open"
+      ],
+      [
+       "Past",
+       "[[pinagbúbuksán|pred]]",
+       "-in- after the p of pag- + repeated bu + buks + -an",
+       "were opened"
+      ],
+      [
+       "Present",
+       "[[pinagbububuksan|pred]]",
+       "-in- after the p of pag- + bu three times + buks + -an",
+       "are being opened"
+      ],
+      [
+       "Future",
+       "[[pagbububuksan|pred]]",
+       "pag- + bu three times + buks + -an",
+       "will be opened"
+      ]
+     ],
+     "title": "Bukás (open)",
+     "note": "The book prints the present and future of bukás without accent marks."
+    },
+    {
+     "type": "h",
+     "t": "Irregular roots to memorise"
+    },
+    {
+     "type": "p",
+     "t": "Usually the **second vowel** of the root is dropped. In others, the **second syllable** is deleted. The book advises learning these roots by heart."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Root",
+      "Plural verb",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "bukás",
+       "[[pagbubuksán|pred]]",
+       "to open"
+      ],
+      [
+       "labá",
+       "[[paglalabhán|pred]]",
+       "to wash clothes"
+      ],
+      [
+       "lagáy",
+       "[[paglalagyáan|pred]]",
+       "to put something"
+      ]
+     ],
+     "title": "Irregular -an roots"
+    },
+    {
+     "type": "vocab",
+     "group": "pagan",
+     "title": "Pag- + -an verbs"
+    }
+   ]
+  },
+  {
+   "title": "Sample sentences: passive plural verbs",
+   "blocks": [
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Paghuhugasán na ninyó ang mga pinggán.",
+       "en": "You (plural) have the plates washed.",
+       "parts": [
+        [
+         "Paghuhugasán",
+         "wash (plural, imperative)",
+         "pred"
+        ],
+        [
+         "na",
+         "now",
+         "part"
+        ],
+        [
+         "ninyó",
+         "by you (plural)",
+         "pron"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "mga",
+         "plural",
+         "marker"
+        ],
+        [
+         "pinggán",
+         "plates",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Pinagbúbuksán niyá ang lahat ng mga bintana.",
+       "en": "The windows are being opened by her/him.",
+       "parts": [
+        [
+         "Pinagbúbuksán",
+         "opened (plural)",
+         "pred"
+        ],
+        [
+         "niyá",
+         "by her/him",
+         "pron"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "lahat",
+         "all",
+         "other"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "mga",
+         "plural",
+         "marker"
+        ],
+        [
+         "bintana",
+         "window",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Pag-áaayusán námin ng buhók ang mga batà.",
+       "en": "We will fix the children's hair.",
+       "parts": [
+        [
+         "Pag-áaayusán",
+         "will fix (plural)",
+         "pred"
+        ],
+        [
+         "námin",
+         "by us",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "buhók",
+         "hair",
+         "noun"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "mga",
+         "plural",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Pinagpípintahán ng laláki ang mga pasô.",
+       "en": "The pots are being painted by the man.",
+       "parts": [
+        [
+         "Pinagpípintahán",
+         "are being painted (plural)",
+         "pred"
+        ],
+        [
+         "ng",
+         "by",
+         "marker"
+        ],
+        [
+         "laláki",
+         "man",
+         "noun"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "mga",
+         "plural",
+         "marker"
+        ],
+        [
+         "pasô",
+         "pot",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "The book's sample sentences"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Plural receivers",
+     "t": "Here the **receivers** are plural: ang mga pinggán, ang mga bintana, ang mga batà, ang mga pasô. That is why the pag- + -an verb is used."
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Book spellings",
+     "items": [
+      "This sentence prints **bintana**; the vocabulary list (and Lesson 26) prints **bintanà**.",
+      "**Pinagbúbuksán** is the past form in the table (*were opened*), but the book translates this sentence with *are being opened*. Both are copied as printed."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Try the book's exercise",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book asks you to change the verbs in these sentences into their **plural forms**, then translate the sentences into English. It does **not** print answers or translations, so use them as practice with a teacher or a Tagalog speaker."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Exercise sentences (as printed)",
+     "items": [
+      "1. Bumasa ang batà ng páhayagán sa kanyáng lola.",
+      "2. Naglutò ang babáe ng isdâ sa kawalì.",
+      "3. Nagbayad siyá ng dalawáng libong piso sa ákin para sa sapatos.",
+      "4. Maglalágay siyá ng tubig sa mga baso.",
+      "5. Magtakíp ka ng panyô sa mukhâ."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "Plural verbs with plural subjects are not compulsory, but they are good Tagalog.",
+      "-um- → magsi-: magsikáin, nagsikáin, nagsísikáin, magsísikáin.",
+      "mag- → magsipag-: magsipaglakád, nagsipaglakád, nagsísipaglakád, magsísipaglakád.",
+      "-in → pag- + -in: paglutuín, pinaglutò, pinaglulutò, paglúlutuín.",
+      "-an → pag- + -an: paghuhugasán, pinaghúhugasán, pinaghúhuhugasán, paghúhuhugasán."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "kain-magsi-l42",
+   "tl": "magsikáin",
+   "en": "to eat (plural)",
+   "pos": "verb",
+   "group": "magsi",
+   "say": "mag-si-KA-in",
+   "note": "Also the imperative: eat. Plural of kumain."
+  },
+  {
+   "id": "nagsikain-l42",
+   "tl": "nagsikáin",
+   "en": "ate (plural)",
+   "pos": "verb",
+   "group": "magsi",
+   "say": "nag-si-KA-in"
+  },
+  {
+   "id": "nagsisikain-l42",
+   "tl": "nagsísikáin",
+   "en": "are eating (plural)",
+   "pos": "verb",
+   "group": "magsi",
+   "say": "nag-SI-si-KA-in"
+  },
+  {
+   "id": "magsisikain-l42",
+   "tl": "magsísikáin",
+   "en": "will eat (plural)",
+   "pos": "verb",
+   "group": "magsi",
+   "say": "mag-SI-si-KA-in"
+  },
+  {
+   "id": "magsialis-l42",
+   "tl": "magsialís",
+   "en": "to leave (plural)",
+   "pos": "verb",
+   "group": "magsi",
+   "say": "mag-si-a-LIS",
+   "note": "Also the imperative: leave"
+  },
+  {
+   "id": "nagsialis-l42",
+   "tl": "nagsialís",
+   "en": "left (plural)",
+   "pos": "verb",
+   "group": "magsi",
+   "say": "nag-si-a-LIS"
+  },
+  {
+   "id": "nagsisialis-l42",
+   "tl": "nagsísialís",
+   "en": "are leaving (plural)",
+   "pos": "verb",
+   "group": "magsi",
+   "say": "nag-SI-si-a-LIS"
+  },
+  {
+   "id": "magsisialis-l42",
+   "tl": "magsísialís",
+   "en": "will leave (plural)",
+   "pos": "verb",
+   "group": "magsi",
+   "say": "mag-SI-si-a-LIS"
+  },
+  {
+   "id": "magsilakad-l42",
+   "tl": "magsilákad",
+   "en": "to go (plural)",
+   "pos": "verb",
+   "group": "magsi",
+   "say": "mag-si-LA-kad",
+   "note": "The sample sentence prints Magsilakád (You all go now to school)."
+  },
+  {
+   "id": "magsibasa-l42",
+   "tl": "magsibása",
+   "en": "to read (plural)",
+   "pos": "verb",
+   "group": "magsi",
+   "say": "mag-si-BA-sa",
+   "note": "Present in the sample sentence: Nagsísibása"
+  },
+  {
+   "id": "magsisulat-l42",
+   "tl": "magsisúlat",
+   "en": "to write (plural)",
+   "pos": "verb",
+   "group": "magsi",
+   "say": "mag-si-SU-lat"
+  },
+  {
+   "id": "akyat-l42",
+   "tl": "akyat",
+   "en": "climb",
+   "pos": "verb",
+   "group": "magsipag"
+  },
+  {
+   "id": "magsipaglakad-l42",
+   "tl": "magsipaglakád",
+   "en": "to walk (plural)",
+   "pos": "verb",
+   "group": "magsipag",
+   "say": "mag-si-pag-la-KAD",
+   "note": "Also the imperative: walk"
+  },
+  {
+   "id": "nagsipaglakad-l42",
+   "tl": "nagsipaglakád",
+   "en": "walked (plural)",
+   "pos": "verb",
+   "group": "magsipag",
+   "say": "nag-si-pag-la-KAD"
+  },
+  {
+   "id": "nagsisipaglakad-l42",
+   "tl": "nagsísipaglakád",
+   "en": "are walking (plural)",
+   "pos": "verb",
+   "group": "magsipag",
+   "say": "nag-SI-si-pag-la-KAD"
+  },
+  {
+   "id": "magsisipaglakad-l42",
+   "tl": "magsísipaglakád",
+   "en": "will walk (plural)",
+   "pos": "verb",
+   "group": "magsipag",
+   "say": "mag-SI-si-pag-la-KAD"
+  },
+  {
+   "id": "dasal-l42",
+   "tl": "dasál",
+   "en": "prayer",
+   "pos": "noun",
+   "group": "magsipag",
+   "say": "da-SAL"
+  },
+  {
+   "id": "magsipagdasal-l42",
+   "tl": "magsipagdasál",
+   "en": "to pray (plural)",
+   "pos": "verb",
+   "group": "magsipag",
+   "say": "mag-si-pag-da-SAL",
+   "note": "Also the imperative: pray"
+  },
+  {
+   "id": "nagsipagdasal-l42",
+   "tl": "nagsipagdasál",
+   "en": "prayed (plural)",
+   "pos": "verb",
+   "group": "magsipag",
+   "say": "nag-si-pag-da-SAL"
+  },
+  {
+   "id": "nagsisipagdasal-l42",
+   "tl": "nagsísipagdasál",
+   "en": "are praying (plural)",
+   "pos": "verb",
+   "group": "magsipag",
+   "say": "nag-SI-si-pag-da-SAL",
+   "note": "The vocabulary list prints nagsísipagdasal (no accent on the last syllable)."
+  },
+  {
+   "id": "magsisipagdasal-l42",
+   "tl": "magsísipagdasál",
+   "en": "will pray (plural)",
+   "pos": "verb",
+   "group": "magsipag",
+   "say": "mag-SI-si-pag-da-SAL"
+  },
+  {
+   "id": "magsipagbait-l42",
+   "tl": "magsipagbaít",
+   "en": "to be good (plural)",
+   "pos": "verb",
+   "group": "magsipag",
+   "say": "mag-si-pag-ba-IT"
+  },
+  {
+   "id": "magsipagpasyal-l42",
+   "tl": "magsipagpasyál",
+   "en": "to take a walk (plural)",
+   "pos": "verb",
+   "group": "magsipag",
+   "say": "mag-si-pag-pas-YAL"
+  },
+  {
+   "id": "magsipag-aral-l42",
+   "tl": "magsipag-áral",
+   "en": "to study (plural)",
+   "pos": "verb",
+   "group": "magsipag",
+   "say": "mag-si-pag-A-ral",
+   "note": "Present in the sample sentence: Nagsísipag-áral"
+  },
+  {
+   "id": "magsipag-akyat-l42",
+   "tl": "magsipag-akyát",
+   "en": "to go up (plural)",
+   "pos": "verb",
+   "group": "magsipag",
+   "say": "mag-si-pag-ak-YAT"
+  },
+  {
+   "id": "luto-l42",
+   "tl": "lutò",
+   "en": "cooking",
+   "pos": "noun",
+   "group": "pagin",
+   "say": "LU-toQ",
+   "note": "Root of paglutuín. Lesson 7 glosses lutò as cooked."
+  },
+  {
+   "id": "paglutuin-l42",
+   "tl": "paglutuín",
+   "en": "to cook (plural)",
+   "pos": "verb",
+   "group": "pagin",
+   "say": "pag-lu-tu-IN",
+   "note": "Also the imperative: cook"
+  },
+  {
+   "id": "pinagluto-l42",
+   "tl": "pinaglutò",
+   "en": "were cooked",
+   "pos": "verb",
+   "group": "pagin",
+   "say": "pi-nag-LU-toQ"
+  },
+  {
+   "id": "pinagluluto-l42",
+   "tl": "pinaglulutò",
+   "en": "are being cooked",
+   "pos": "verb",
+   "group": "pagin",
+   "say": "pi-nag-lu-LU-toQ"
+  },
+  {
+   "id": "paglulutuin-l42",
+   "tl": "paglúlutuín",
+   "en": "will be cooked",
+   "pos": "verb",
+   "group": "pagin",
+   "say": "pag-LU-lu-tu-IN"
+  },
+  {
+   "id": "sulat-l42",
+   "tl": "sulat",
+   "en": "writing",
+   "pos": "noun",
+   "group": "pagin",
+   "note": "Root of pagsulatín. Lesson 15 prints súlat, letter."
+  },
+  {
+   "id": "pagsulatin-l42",
+   "tl": "pagsulatín",
+   "en": "to write (plural)",
+   "pos": "verb",
+   "group": "pagin",
+   "say": "pag-su-la-TIN",
+   "note": "Also the imperative: write"
+  },
+  {
+   "id": "pinagsulat-l42",
+   "tl": "pinagsulát",
+   "en": "were made to write",
+   "pos": "verb",
+   "group": "pagin",
+   "say": "pi-nag-su-LAT"
+  },
+  {
+   "id": "pinagsusulat-l42",
+   "tl": "pinagsusulát",
+   "en": "are being made to write",
+   "pos": "verb",
+   "group": "pagin",
+   "say": "pi-nag-su-su-LAT"
+  },
+  {
+   "id": "pagsusulatin-l42",
+   "tl": "pagsúsulatín",
+   "en": "will be made to write",
+   "pos": "verb",
+   "group": "pagin",
+   "say": "pag-SU-su-la-TIN"
+  },
+  {
+   "id": "pag-alisin-l42",
+   "tl": "pag-alisín",
+   "en": "to remove (plural)",
+   "pos": "verb",
+   "group": "pagin",
+   "say": "pag-a-li-SIN"
+  },
+  {
+   "id": "paglinisin-l42",
+   "tl": "paglinisín",
+   "en": "to clean (plural)",
+   "pos": "verb",
+   "group": "pagin",
+   "say": "pag-li-ni-SIN"
+  },
+  {
+   "id": "pagbasahin-l42",
+   "tl": "pagbasahín",
+   "en": "to read (plural)",
+   "pos": "verb",
+   "group": "pagin",
+   "say": "pag-ba-sa-HIN"
+  },
+  {
+   "id": "hugas-l42",
+   "tl": "hugas",
+   "en": "washing",
+   "pos": "noun",
+   "group": "pagan",
+   "note": "Root of paghuhugasán"
+  },
+  {
+   "id": "paghuhugasan-l42",
+   "tl": "paghuhugasán",
+   "en": "to wash (plural)",
+   "pos": "verb",
+   "group": "pagan",
+   "say": "pag-hu-hu-ga-SAN",
+   "note": "Also the imperative: wash"
+  },
+  {
+   "id": "pinaghuhugasan-l42",
+   "tl": "pinaghúhugasán",
+   "en": "were washed",
+   "pos": "verb",
+   "group": "pagan",
+   "say": "pi-nag-HU-hu-ga-SAN"
+  },
+  {
+   "id": "pinaghuhuhugasan-l42",
+   "tl": "pinaghúhuhugasán",
+   "en": "are being washed",
+   "pos": "verb",
+   "group": "pagan",
+   "say": "pi-nag-HU-hu-hu-ga-SAN"
+  },
+  {
+   "id": "paghuhuhugasan-l42",
+   "tl": "paghúhuhugasán",
+   "en": "will be washed",
+   "pos": "verb",
+   "group": "pagan",
+   "say": "pag-HU-hu-hu-ga-SAN"
+  },
+  {
+   "id": "bukas-l42",
+   "tl": "bukás",
+   "en": "open",
+   "pos": "verb",
+   "group": "pagan",
+   "say": "bu-KAS",
+   "note": "An irregular root. Not the same word as bukas, tomorrow (Lesson 28)."
+  },
+  {
+   "id": "pagbubuksan-l42",
+   "tl": "pagbubuksán",
+   "en": "to open (plural)",
+   "pos": "verb",
+   "group": "pagan",
+   "say": "pag-bu-buk-SAN",
+   "note": "Also the imperative: open"
+  },
+  {
+   "id": "pinagbubuksan-past-l42",
+   "tl": "pinagbúbuksán",
+   "en": "were opened",
+   "pos": "verb",
+   "group": "pagan",
+   "say": "pi-nag-BU-buk-SAN"
+  },
+  {
+   "id": "pinagbububuksan-l42",
+   "tl": "pinagbububuksan",
+   "en": "are being opened",
+   "pos": "verb",
+   "group": "pagan",
+   "note": "Printed without accent marks"
+  },
+  {
+   "id": "pagbububuksan-l42",
+   "tl": "pagbububuksan",
+   "en": "will be opened",
+   "pos": "verb",
+   "group": "pagan",
+   "note": "Printed without accent marks"
+  },
+  {
+   "id": "paglalabhan-l42",
+   "tl": "paglalabhán",
+   "en": "to wash clothes (plural)",
+   "pos": "verb",
+   "group": "pagan",
+   "say": "pag-la-lab-HAN",
+   "note": "Irregular root: labá"
+  },
+  {
+   "id": "paglalagyaan-l42",
+   "tl": "paglalagyáan",
+   "en": "to put something (plural)",
+   "pos": "verb",
+   "group": "pagan",
+   "say": "pag-la-lag-YA-an",
+   "note": "Irregular root: lagáy"
+  },
+  {
+   "id": "pag-aayusan-l42",
+   "tl": "pag-aayusán",
+   "en": "to arrange (plural)",
+   "pos": "verb",
+   "group": "pagan",
+   "say": "pag-a-a-yu-SAN",
+   "note": "Future in the sample sentence: Pag-áaayusán (will fix)"
+  },
+  {
+   "id": "pagpipintahan-l42",
+   "tl": "pagpipintahán",
+   "en": "to paint (plural)",
+   "pos": "verb",
+   "group": "pagan",
+   "say": "pag-pi-pin-ta-HAN",
+   "note": "Present in the sample sentence: Pinagpípintahán (are being painted)"
+  },
+  {
+   "id": "pagbibihisan-l42",
+   "tl": "pagbibihisán",
+   "en": "to change clothes (plural)",
+   "pos": "verb",
+   "group": "pagan",
+   "say": "pag-bi-bi-hi-SAN"
+  },
+  {
+   "id": "hapunan-l42",
+   "tl": "hapúnan",
+   "en": "supper",
+   "pos": "noun",
+   "group": "sent",
+   "say": "ha-PU-nan"
+  },
+  {
+   "id": "bibliya-l42",
+   "tl": "Bibliya",
+   "en": "Bible",
+   "pos": "noun",
+   "group": "sent"
+  },
+  {
+   "id": "nang-mabuti-l42",
+   "tl": "nang mabuti",
+   "en": "well",
+   "pos": "phrase",
+   "group": "sent",
+   "note": "Nagsísipag-áral nang mabuti ang áking mga anák = My children study well."
+  },
+  {
+   "id": "simbahan-l42",
+   "tl": "simbáhan",
+   "en": "church",
+   "pos": "noun",
+   "group": "sent",
+   "say": "sim-BA-han",
+   "note": "Lesson 4 prints simbahan"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Are plural verbs compulsory with plural subjects?",
+   "options": [
+    "No: a singular verb with a plural subject is not wrong",
+    "Yes: a singular verb is always wrong",
+    "Only in questions"
+   ],
+   "answer": "No: a singular verb with a plural subject is not wrong",
+   "explain": "Lope K. Santos's grammar says plural verbs are not compulsory."
+  },
+  {
+   "type": "choice",
+   "q": "Which prefix makes the plural of -um- verbs?",
+   "options": [
+    "magsi-",
+    "magsipag-",
+    "pag- + -an"
+   ],
+   "answer": "magsi-",
+   "explain": "kumain → magsikáin."
+  },
+  {
+   "type": "choice",
+   "q": "Which prefix makes the plural of mag- verbs?",
+   "options": [
+    "magsipag-",
+    "magsi-",
+    "pag- + -in"
+   ],
+   "answer": "magsipag-",
+   "explain": "maglakád → magsipaglakád."
+  },
+  {
+   "type": "choice",
+   "q": "Pag- + -in is the plural of which verb type?",
+   "options": [
+    "-in verbs",
+    "-um- verbs",
+    "mag- verbs"
+   ],
+   "answer": "-in verbs",
+   "explain": "pagsulatín, paglutuín."
+  },
+  {
+   "type": "choice",
+   "q": "Pag- + -an is the plural of which verb type?",
+   "options": [
+    "-an verbs",
+    "-in verbs",
+    "-um- verbs"
+   ],
+   "answer": "-an verbs",
+   "explain": "paghuhugasán, pagbubuksán."
+  },
+  {
+   "type": "choice",
+   "q": "What is the past tense of magsikáin?",
+   "options": [
+    "nagsikáin",
+    "nagsísikáin",
+    "magsísikáin"
+   ],
+   "answer": "nagsikáin",
+   "explain": "magsi- becomes nagsi-."
+  },
+  {
+   "type": "choice",
+   "q": "Nagsísialís means…",
+   "options": [
+    "are leaving",
+    "left",
+    "will leave"
+   ],
+   "answer": "are leaving",
+   "explain": "nagsi- + repeated si + root = present."
+  },
+  {
+   "type": "choice",
+   "q": "Magsísipaglakád means…",
+   "options": [
+    "will walk",
+    "walked",
+    "are walking"
+   ],
+   "answer": "will walk",
+   "explain": "magsipag- with si repeated = future."
+  },
+  {
+   "type": "choice",
+   "q": "Why is there a hyphen in magsipag-áral?",
+   "options": [
+    "The root starts with a vowel",
+    "It is the past tense",
+    "It is a passive verb"
+   ],
+   "answer": "The root starts with a vowel",
+   "explain": "Also magsipag-akyát."
+  },
+  {
+   "type": "choice",
+   "q": "Which syllable is repeated in the present and future of magsi- and magsipag- verbs?",
+   "options": [
+    "si, from the prefix",
+    "the first syllable of the root",
+    "pag"
+   ],
+   "answer": "si, from the prefix",
+   "explain": "nagsísikáin, magsísipaglakád."
+  },
+  {
+   "type": "choice",
+   "q": "Pinaglutò means…",
+   "options": [
+    "were cooked",
+    "are being cooked",
+    "will be cooked"
+   ],
+   "answer": "were cooked",
+   "explain": "-in- after the p of pag- + root."
+  },
+  {
+   "type": "choice",
+   "q": "Why does lutò become paglutuín?",
+   "options": [
+    "A root ending in o changes it to u before the -in ending",
+    "Because it is irregular",
+    "Because it is the past tense"
+   ],
+   "answer": "A root ending in o changes it to u before the -in ending",
+   "explain": "Also paglúlutuín."
+  },
+  {
+   "type": "choice",
+   "q": "Which is the future of pagsulatín?",
+   "options": [
+    "pagsúsulatín",
+    "pinagsusulát",
+    "pinagsulát"
+   ],
+   "answer": "pagsúsulatín",
+   "explain": "will be made to write"
+  },
+  {
+   "type": "choice",
+   "q": "In bukás → pagbubuksán, what happens to the root?",
+   "options": [
+    "It loses its last vowel",
+    "It adds -h-",
+    "It changes o to u"
+   ],
+   "answer": "It loses its last vowel",
+   "explain": "bukas → buks + -an."
+  },
+  {
+   "type": "choice",
+   "q": "Pinaghúhuhugasán means…",
+   "options": [
+    "are being washed",
+    "were washed",
+    "to wash"
+   ],
+   "answer": "are being washed",
+   "explain": "The first syllable hu appears three times."
+  },
+  {
+   "type": "choice",
+   "q": "Which verb means \"to wash clothes (plural)\"?",
+   "options": [
+    "paglalabhán",
+    "paghuhugasán",
+    "pagbibihisán"
+   ],
+   "answer": "paglalabhán",
+   "explain": "From the irregular root labá."
+  },
+  {
+   "type": "listen",
+   "tl": "magsipagbaít",
+   "options": [
+    "to be good (plural)",
+    "to take a walk (plural)",
+    "to go up (plural)"
+   ],
+   "answer": "to be good (plural)",
+   "explain": "From baít."
+  },
+  {
+   "type": "listen",
+   "tl": "magsipag-akyát",
+   "options": [
+    "to go up (plural)",
+    "to study (plural)",
+    "to pray (plural)"
+   ],
+   "answer": "to go up (plural)",
+   "explain": "From akyat, climb."
+  },
+  {
+   "type": "listen",
+   "tl": "hapúnan",
+   "options": [
+    "supper",
+    "church",
+    "window"
+   ],
+   "answer": "supper",
+   "explain": "From the vocabulary list."
+  },
+  {
+   "type": "listen",
+   "tl": "pagpipintahán",
+   "options": [
+    "to paint (plural)",
+    "to arrange (plural)",
+    "to change clothes (plural)"
+   ],
+   "answer": "to paint (plural)",
+   "explain": "A pag- + -an verb."
+  },
+  {
+   "type": "build",
+   "en": "You all go now to school.",
+   "tl": "Magsilakád na kayó sa páaralán.",
+   "tokens": [
+    "magsilakád",
+    "na",
+    "kayó",
+    "sa",
+    "páaralán"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The children are eating their supper already.",
+   "tl": "Nagsísikáin na ang mga batà ng hapúnan.",
+   "tokens": [
+    "nagsísikáin",
+    "na",
+    "ang",
+    "mga",
+    "batà",
+    "ng",
+    "hapúnan"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The women pray in church.",
+   "tl": "Nagsísipagdasál ang mga babáe sa simbáhan.",
+   "tokens": [
+    "nagsísipagdasál",
+    "ang",
+    "mga",
+    "babáe",
+    "sa",
+    "simbáhan"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "You (plural) have the plates washed.",
+   "tl": "Paghuhugasán na ninyó ang mga pinggán.",
+   "tokens": [
+    "paghuhugasán",
+    "na",
+    "ninyó",
+    "ang",
+    "mga",
+    "pinggán"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The pots are being painted by the man.",
+   "tl": "Pinagpípintahán ng laláki ang mga pasô.",
+   "tokens": [
+    "pinagpípintahán",
+    "ng",
+    "laláki",
+    "ang",
+    "mga",
+    "pasô"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match each singular verb type to its plural affix.",
+   "pairs": [
+    [
+     "-um-",
+     "magsi-"
+    ],
+    [
+     "mag-",
+     "magsipag-"
+    ],
+    [
+     "-in",
+     "pag- + -in"
+    ],
+    [
+     "-an",
+     "pag- + -an"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each form of kain to its meaning.",
+   "pairs": [
+    [
+     "magsikáin",
+     "to eat (plural)"
+    ],
+    [
+     "nagsikáin",
+     "ate (plural)"
+    ],
+    [
+     "nagsísikáin",
+     "are eating (plural)"
+    ],
+    [
+     "magsísikáin",
+     "will eat (plural)"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the plural verb to its meaning.",
+   "pairs": [
+    [
+     "pag-alisín",
+     "to remove"
+    ],
+    [
+     "paglinisín",
+     "to clean"
+    ],
+    [
+     "pag-aayusán",
+     "to arrange"
+    ],
+    [
+     "pagbibihisán",
+     "to change clothes"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "Plural verbs with plural subjects are optional, but they agree with plural doers or receivers.",
+  "-um- verbs → magsi-: magsikáin, nagsikáin, nagsísikáin, magsísikáin.",
+  "mag- verbs → magsipag- (hyphen before a vowel): magsipaglakád, magsipag-áral.",
+  "-in verbs → pag- + -in: paglutuín, pinaglutò, pinaglulutò, paglúlutuín (o changes to u before -in).",
+  "-an verbs → pag- + -an: paghuhugasán, pinaghúhugasán, pinaghúhuhugasán, paghúhuhugasán.",
+  "Irregular -an roots drop a vowel or syllable: bukás → pagbubuksán, labá → paglalabhán, lagáy → paglalagyáan."
+ ]
+}
