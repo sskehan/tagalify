@@ -1,0 +1,970 @@
+{
+ "id": "l39",
+ "label": "39",
+ "title": "Forming participles using naka-",
+ "summary": "Naka- + a noun or verb root describes how someone is: nakaupô (seated), nakatayô (standing), nakasapatos (in shoes), nakakotse (in a car)",
+ "minutes": 25,
+ "goals": [
+  "Understand the difference between a gerund and a participle",
+  "Form participles with naka- + root word",
+  "Use naka- words to describe a state, condition or appearance",
+  "Tell a naka- participle apart from the past tense of a maka- verb"
+ ],
+ "sections": [
+  {
+   "title": "Gerund or participle?",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Both the English **gerund** and the **participle** are made from verbs, but they do different jobs. In Lesson 38 you saw that a gerund works like a **noun**. A **participle** works like an **adjective**: it describes a noun or pronoun."
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "Participles in English",
+     "items": [
+      "**Present** participles end in **-ing**: *the man **lying down***.",
+      "**Past** participles end in **-ed**, **-n** or **-t**: *the child is **seated***."
+     ]
+    },
+    {
+     "type": "p",
+     "t": "In Tagalog, a participle is formed by adding the prefix **naka-** to a **root word**. The root can be a **noun** or a **verb**."
+    },
+    {
+     "type": "pattern",
+     "title": "naka- + root word",
+     "rows": [
+      {
+       "label": "Verb root",
+       "chips": [
+        {
+         "t": "naka-",
+         "r": "other"
+        },
+        {
+         "t": "upô",
+         "r": "pred"
+        },
+        {
+         "t": "→ nakaupô",
+         "r": "pred"
+        }
+       ]
+      },
+      {
+       "label": "Noun root",
+       "chips": [
+        {
+         "t": "naka-",
+         "r": "other"
+        },
+        {
+         "t": "sapátos",
+         "r": "noun"
+        },
+        {
+         "t": "→ nakasapatos",
+         "r": "pred"
+        }
+       ]
+      }
+     ],
+     "note": "seated · in shoes"
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "What a naka- word does",
+     "items": [
+      "It expresses the **state, condition or appearance** of a person or thing, based on the root.",
+      "It has **no tense forms**: it is descriptive, just like an adjective."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample sentences",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Read each sentence and find the **naka-** word. The English for it is shown in brackets."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ang batà ay nakaupô sa mataás na sílya.",
+       "en": "The child is seated on a high chair. (nakaupô = is seated)",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "nakaupô",
+         "is seated",
+         "pred"
+        ],
+        [
+         "sa",
+         "on",
+         "marker"
+        ],
+        [
+         "mataás na sílya",
+         "high chair",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nakatayô sa tabí ng pintô ang áking iná.",
+       "en": "My mother is standing by the door. (nakatayô = is standing)",
+       "parts": [
+        [
+         "Nakatayô",
+         "is standing",
+         "pred"
+        ],
+        [
+         "sa",
+         "(place)",
+         "marker"
+        ],
+        [
+         "tabí",
+         "by, beside",
+         "other"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "pintô",
+         "door",
+         "noun"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "áking",
+         "my",
+         "poss"
+        ],
+        [
+         "iná",
+         "mother",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang laláking nakahigâ ay tamád.",
+       "en": "The man lying down is lazy. (nakahigâ = lying down)",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "laláking",
+         "man (+ ligature)",
+         "noun"
+        ],
+        [
+         "nakahigâ",
+         "lying down",
+         "pred"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "tamád",
+         "lazy",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Bulág ang táong nakasalamíng iyón.",
+       "en": "That man with eyeglasses is blind. (nakasalamíng = with eyeglasses)",
+       "parts": [
+        [
+         "Bulág",
+         "blind",
+         "pred"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "táong",
+         "man (+ ligature)",
+         "noun"
+        ],
+        [
+         "nakasalamíng",
+         "with eyeglasses (+ ligature)",
+         "pred"
+        ],
+        [
+         "iyón",
+         "that",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Kailángang nakasapatos ang batà sa paglalarô.",
+       "en": "Children need to be in shoes on when playing. (nakasapatos = to be in shoes)",
+       "parts": [
+        [
+         "Kailángang",
+         "need (+ ligature)",
+         "pred"
+        ],
+        [
+         "nakasapatos",
+         "in shoes",
+         "pred"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "paglalarô",
+         "playing",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Silá ay nakakotse nang dumatíng.",
+       "en": "They were in a car when they arrived. (nakakotse = in a car)",
+       "parts": [
+        [
+         "Silá",
+         "they",
+         "pron"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "nakakotse",
+         "in a car",
+         "pred"
+        ],
+        [
+         "nang",
+         "when",
+         "other"
+        ],
+        [
+         "dumatíng",
+         "arrived",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Nakatulalâ si Miriam nang dumatíng akó.",
+       "en": "Miriam is in shock when I arrived. (nakatulalâ = in shock)",
+       "parts": [
+        [
+         "Nakatulalâ",
+         "in shock",
+         "pred"
+        ],
+        [
+         "si",
+         "(name marker)",
+         "marker"
+        ],
+        [
+         "Miriam",
+         "Miriam",
+         "noun"
+        ],
+        [
+         "nang",
+         "when",
+         "other"
+        ],
+        [
+         "dumatíng",
+         "arrived",
+         "pred"
+        ],
+        [
+         "akó",
+         "I",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Puwéde ka sumama pero dápat nakamaóng ka.",
+       "en": "You may come along but you should be in jeans. (nakamaóng = in jeans)",
+       "parts": [
+        [
+         "Puwéde",
+         "may",
+         "pred"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ],
+        [
+         "sumama",
+         "come along",
+         "pred"
+        ],
+        [
+         "pero",
+         "but",
+         "other"
+        ],
+        [
+         "dápat",
+         "should",
+         "pred"
+        ],
+        [
+         "nakamaóng",
+         "in jeans",
+         "pred"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ]
+       ]
+      }
+     ],
+     "title": "The book's sample sentences"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Spot the gerund",
+     "t": "In *Kailángang nakasapatos ang batà sa **paglalarô***, the last word is a gerund from Lesson 38 (maglarô → paglalarô, playing). The naka- word describes the child; the gerund names the activity."
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "No tense",
+     "t": "Notice that the same naka- word fits *is* (nakaupô: the child **is** seated) and *were* (nakakotse: they **were** in a car). The naka- word itself never changes for tense."
+    },
+    {
+     "type": "vocab",
+     "group": "naka",
+     "title": "Naka- participles in this lesson"
+    }
+   ]
+  },
+  {
+   "title": "Naka- participle or maka- verb?",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Do not confuse the participle prefix naka- with the **past tense of a maka- verb** (Lesson 18). Maka- verbs show the **capability to do something** (to be able to), and they are purely **action** words."
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "Naka- participle",
+      "Past tense of a maka- verb"
+     ],
+     "rows": [
+      [
+       "What it is",
+       "a describing word, like an adjective",
+       "an action word"
+      ],
+      [
+       "What it tells you",
+       "a state, condition or appearance",
+       "that someone was able to do something"
+      ],
+      [
+       "Tense",
+       "no tense forms",
+       "past tense of maka- (Lesson 18)"
+      ],
+      [
+       "Example",
+       "Ang laláking **nakahigâ** ay tamád. (The man lying down is lazy.)",
+       "**Nakatúlog** kagabi ang maysakít. (The sick person was able to sleep last night. Lesson 18)"
+      ]
+     ],
+     "title": "Two kinds of naka- words"
+    },
+    {
+     "type": "p",
+     "t": "The book's exercise asks you to translate these sentences into English to find out whether each naka- word is a **participle** or a **maka- verb** in the past tense. Ask yourself: does it **describe** someone, or say what someone **was able to do**?"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Sentence"
+     ],
+     "rows": [
+      [
+       "Nakapások kamí sa sinehán kagabí."
+      ],
+      [
+       "Nakalákad na ang matandáng maysakít."
+      ],
+      [
+       "Nakabása na siyá ng mga aklát ni Romulo."
+      ],
+      [
+       "Nakatúlog din akó kahit na maingay."
+      ]
+     ],
+     "title": "Participle or maka- verb?",
+     "note": "The book does not print the answers."
+    },
+    {
+     "type": "vocab",
+     "group": "list",
+     "title": "Vocabulary list"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Word",
+      "Meaning",
+      "First met"
+     ],
+     "rows": [
+      [
+       "[[kagabí|other]]",
+       "last night",
+       "Lesson 28"
+      ],
+      [
+       "[[sinehán|noun]]",
+       "movie house",
+       "Lesson 1 (this vocabulary list writes sinehan)"
+      ],
+      [
+       "[[tamád|pred]]",
+       "lazy",
+       "Lesson 7"
+      ],
+      [
+       "[[pintô|noun]]",
+       "door",
+       "Lesson 33"
+      ],
+      [
+       "[[maingay|pred]]",
+       "noisy",
+       "Lesson 7 (written maíngay there)"
+      ],
+      [
+       "[[nakahigâ|pred]]",
+       "lying down",
+       "Lesson 18"
+      ]
+     ],
+     "title": "Words from this lesson's list you already know"
+    }
+   ]
+  },
+  {
+   "title": "Practice: naka- words",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book asks you to use these naka- participles in your own sentences. Each one is **naka- + a root word**. The book does not give their meanings, so the table only shows roots you have already met."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Naka- word",
+      "Root you know"
+     ],
+     "rows": [
+      [
+       "nakasumbréro",
+       ""
+      ],
+      [
+       "nakaunipórme",
+       ""
+      ],
+      [
+       "nakaputî",
+       ""
+      ],
+      [
+       "nakakotse",
+       "kótse (car, Lesson 1)"
+      ],
+      [
+       "nakakabáyo",
+       ""
+      ],
+      [
+       "nakasigarílyo",
+       "sigarílyo (cigarette, Lesson 1)"
+      ],
+      [
+       "nakaitím",
+       ""
+      ],
+      [
+       "nakabús",
+       ""
+      ],
+      [
+       "nakasingsíng",
+       ""
+      ],
+      [
+       "nakapáyong",
+       ""
+      ]
+     ],
+     "title": "The book's practice list"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "A participle describes a noun or pronoun, like an adjective.",
+      "Tagalog participles: **naka- + root word** (a noun or a verb).",
+      "They show a **state, condition or appearance**: nakaupô, nakatayô, nakasapatos.",
+      "Naka- participles have **no tense forms**.",
+      "Do not confuse them with the past tense of **maka-** verbs, which show ability (Lesson 18)."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "mataas-na-silya-l39",
+   "tl": "mataás na sílya",
+   "en": "high chair",
+   "pos": "phrase",
+   "group": "list",
+   "say": "ma-ta-AS na SIL-ya"
+  },
+  {
+   "id": "nakaupo-l39",
+   "tl": "nakaupô",
+   "en": "is seated",
+   "pos": "adj",
+   "group": "naka",
+   "say": "na-ka-u-poQ",
+   "note": "Ang batà ay nakaupô sa mataás na sílya = The child is seated on a high chair."
+  },
+  {
+   "id": "nakatayo-l39",
+   "tl": "nakatayô",
+   "en": "is standing",
+   "pos": "adj",
+   "group": "naka",
+   "say": "na-ka-ta-yoQ"
+  },
+  {
+   "id": "nakasalaming-l39",
+   "tl": "nakasalamíng",
+   "en": "with eyeglasses",
+   "pos": "adj",
+   "group": "naka",
+   "say": "na-ka-sa-la-MING",
+   "note": "Printed with the ligature -ng: táong nakasalamíng iyón (that man with eyeglasses)."
+  },
+  {
+   "id": "nakasapatos-l39",
+   "tl": "nakasapatos",
+   "en": "to be in shoes",
+   "pos": "adj",
+   "group": "naka"
+  },
+  {
+   "id": "nakakotse-l39",
+   "tl": "nakakotse",
+   "en": "in a car",
+   "pos": "adj",
+   "group": "naka"
+  },
+  {
+   "id": "nakatulala-l39",
+   "tl": "nakatulalâ",
+   "en": "in shock",
+   "pos": "adj",
+   "group": "naka",
+   "say": "na-ka-tu-la-laQ"
+  },
+  {
+   "id": "nakamaong-l39",
+   "tl": "nakamaóng",
+   "en": "in jeans",
+   "pos": "adj",
+   "group": "naka",
+   "say": "na-ka-ma-ONG"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "How does a participle work in a sentence?",
+   "options": [
+    "Like an adjective: it describes a noun or pronoun",
+    "Like a noun",
+    "Like a question word"
+   ],
+   "answer": "Like an adjective: it describes a noun or pronoun",
+   "explain": "A gerund works like a noun; a participle works like an adjective."
+  },
+  {
+   "type": "choice",
+   "q": "How is a Tagalog participle formed?",
+   "options": [
+    "naka- + root word",
+    "pag- + root",
+    "paki- + root"
+   ],
+   "answer": "naka- + root word",
+   "explain": "Pag- makes gerunds (Lesson 38); naka- makes participles."
+  },
+  {
+   "type": "choice",
+   "q": "What kind of root can take naka-?",
+   "options": [
+    "A noun or a verb",
+    "Only a verb",
+    "Only an adjective"
+   ],
+   "answer": "A noun or a verb",
+   "explain": "nakaupô (from a verb root), nakasapatos (from a noun)."
+  },
+  {
+   "type": "choice",
+   "q": "What does a naka- participle express?",
+   "options": [
+    "The state, condition or appearance of a person or thing",
+    "The ability to do something",
+    "A command"
+   ],
+   "answer": "The state, condition or appearance of a person or thing",
+   "explain": "Ability is shown by maka- verbs (Lesson 18)."
+  },
+  {
+   "type": "choice",
+   "q": "How many tense forms does a naka- participle have?",
+   "options": [
+    "None",
+    "Three",
+    "Two"
+   ],
+   "answer": "None",
+   "explain": "It is descriptive, just like an adjective."
+  },
+  {
+   "type": "choice",
+   "q": "The past tense of a maka- verb shows…",
+   "options": [
+    "capability to do something",
+    "how someone is dressed",
+    "the appearance of a thing"
+   ],
+   "answer": "capability to do something",
+   "explain": "Maka- verbs are purely action words (Lesson 18)."
+  },
+  {
+   "type": "choice",
+   "q": "In Lesson 18, what did nakatúlog mean?",
+   "options": [
+    "was/were able to sleep",
+    "lying down",
+    "in shock"
+   ],
+   "answer": "was/were able to sleep",
+   "explain": "Nakatúlog is the past tense of the maka- verb makatúlog."
+  },
+  {
+   "type": "choice",
+   "q": "What does nakaupô mean in \"Ang batà ay nakaupô sa mataás na sílya\"?",
+   "options": [
+    "is seated",
+    "is standing",
+    "lying down"
+   ],
+   "answer": "is seated",
+   "explain": "The child is seated on a high chair."
+  },
+  {
+   "type": "choice",
+   "q": "What does nakatayô mean?",
+   "options": [
+    "is standing",
+    "is seated",
+    "in a car"
+   ],
+   "answer": "is standing",
+   "explain": "Nakatayô sa tabí ng pintô ang áking iná = My mother is standing by the door."
+  },
+  {
+   "type": "choice",
+   "q": "\"Silá ay nakakotse nang dumatíng.\" What does it mean?",
+   "options": [
+    "They were in a car when they arrived.",
+    "They were able to buy a car.",
+    "They arrived by bus."
+   ],
+   "answer": "They were in a car when they arrived.",
+   "explain": "Nakakotse = in a car."
+  },
+  {
+   "type": "choice",
+   "q": "Which word means \"in jeans\"?",
+   "options": [
+    "nakamaóng",
+    "nakasapatos",
+    "nakasalamíng"
+   ],
+   "answer": "nakamaóng",
+   "explain": "Dápat nakamaóng ka = you should be in jeans."
+  },
+  {
+   "type": "choice",
+   "q": "\"Bulág ang táong nakasalamíng iyón.\" What does nakasalamíng describe?",
+   "options": [
+    "the man, who has eyeglasses on",
+    "the man's blindness",
+    "a mirror on the wall"
+   ],
+   "answer": "the man, who has eyeglasses on",
+   "explain": "That man with eyeglasses is blind."
+  },
+  {
+   "type": "choice",
+   "q": "In \"Kailángang nakasapatos ang batà sa paglalarô\", which word is a gerund (Lesson 38)?",
+   "options": [
+    "paglalarô",
+    "nakasapatos",
+    "Kailángang"
+   ],
+   "answer": "paglalarô",
+   "explain": "Paglalarô (playing) comes from maglarô; nakasapatos is a participle."
+  },
+  {
+   "type": "listen",
+   "tl": "nakatulalâ",
+   "options": [
+    "in shock",
+    "in jeans",
+    "is standing"
+   ],
+   "answer": "in shock",
+   "explain": "Nakatulalâ si Miriam = Miriam is in shock."
+  },
+  {
+   "type": "listen",
+   "tl": "mataás na sílya",
+   "options": [
+    "high chair",
+    "door",
+    "movie house"
+   ],
+   "answer": "high chair",
+   "explain": "Mataás na sílya = high chair."
+  },
+  {
+   "type": "listen",
+   "tl": "nakasapatos",
+   "options": [
+    "to be in shoes",
+    "in a car",
+    "with eyeglasses"
+   ],
+   "answer": "to be in shoes",
+   "explain": "Naka- + sapatos (shoes)."
+  },
+  {
+   "type": "build",
+   "en": "The child is seated on a high chair.",
+   "tl": "Ang batà ay nakaupô sa mataás na sílya.",
+   "tokens": [
+    "ang",
+    "batà",
+    "ay",
+    "nakaupô",
+    "sa",
+    "mataás",
+    "na",
+    "sílya"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "My mother is standing by the door.",
+   "tl": "Nakatayô sa tabí ng pintô ang áking iná.",
+   "tokens": [
+    "nakatayô",
+    "sa",
+    "tabí",
+    "ng",
+    "pintô",
+    "ang",
+    "áking",
+    "iná"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The man lying down is lazy.",
+   "tl": "Ang laláking nakahigâ ay tamád.",
+   "tokens": [
+    "ang",
+    "laláking",
+    "nakahigâ",
+    "ay",
+    "tamád"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "They were in a car when they arrived.",
+   "tl": "Silá ay nakakotse nang dumatíng.",
+   "tokens": [
+    "silá",
+    "ay",
+    "nakakotse",
+    "nang",
+    "dumatíng"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "That man with eyeglasses is blind.",
+   "tl": "Bulág ang táong nakasalamíng iyón.",
+   "tokens": [
+    "bulág",
+    "ang",
+    "táong",
+    "nakasalamíng",
+    "iyón"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Miriam is in shock when I arrived.",
+   "tl": "Nakatulalâ si Miriam nang dumatíng akó.",
+   "tokens": [
+    "nakatulalâ",
+    "si",
+    "miriam",
+    "nang",
+    "dumatíng",
+    "akó"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match each naka- word to its meaning.",
+   "pairs": [
+    [
+     "nakaupô",
+     "is seated"
+    ],
+    [
+     "nakatayô",
+     "is standing"
+    ],
+    [
+     "nakahigâ",
+     "lying down"
+    ],
+    [
+     "nakakotse",
+     "in a car"
+    ],
+    [
+     "nakamaóng",
+     "in jeans"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match gerund or participle to its job.",
+   "pairs": [
+    [
+     "gerund",
+     "works like a noun"
+    ],
+    [
+     "participle",
+     "works like an adjective"
+    ],
+    [
+     "maka- verb",
+     "shows ability to do something"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "A participle describes a noun or pronoun, like an adjective; a gerund works like a noun.",
+  "Tagalog participles are naka- + a root word, which can be a noun or a verb.",
+  "They show a state, condition or appearance: nakaupô (seated), nakasapatos (in shoes), nakakotse (in a car).",
+  "Naka- participles have no tense forms.",
+  "Do not confuse them with the past tense of maka- verbs, which show ability (nakatúlog = was able to sleep)."
+ ]
+}

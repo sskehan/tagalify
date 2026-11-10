@@ -1,0 +1,1616 @@
+{
+ "id": "l38",
+ "label": "38",
+ "title": "Forming nouns from verbs",
+ "summary": "Gerunds: turn -um-, mag-, -in, paki-, ma- and -an verbs into nouns such as pag-alís (leaving), pagbása (reading) and paghuhúgas (washing)",
+ "minutes": 35,
+ "goals": [
+  "Understand what a gerund (verbal noun) is",
+  "Form nouns from -um- and -in verbs with pag- + root",
+  "Form nouns from mag- and -an verbs with pag- + duplicated first syllable + root",
+  "Form nouns from paki- verbs by repeating the last syllable of paki-",
+  "Choose pag- (actions) or pagka- (feelings) for ma- verbs",
+  "Use the new nouns with ang in a sentence"
+ ],
+ "sections": [
+  {
+   "title": "What is a gerund?",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "A **gerund** is a **verbal noun**: a noun made from a verb. In English it usually ends in **-ing** (or is a phrase with an -ing verb), and it does the job of a noun in the sentence."
+    },
+    {
+     "type": "p",
+     "t": "Take *Writing calms my mind*. Here **writing** is a gerund. You can prove it: a pronoun can replace it in the next sentence (*It calms my mind*), and only nouns can be replaced by pronouns."
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "Spot the gerund",
+     "items": [
+      "*He left* → verb (an action).",
+      "*His leaving made me sad* → gerund (a thing you can talk about).",
+      "In Tagalog the gerund is a different word from the verb: [[umalís|pred]] (left) but [[pag-alís|noun]] (leaving, departure)."
+     ]
+    },
+    {
+     "type": "p",
+     "t": "In Lesson 31 you saw that [[ang|marker]], [[ng|marker]] and [[sa|marker]] can turn a verb or adjective into a noun. In this lesson only [[ang|marker]] is needed (or [[ang mga|marker]] if the verbal noun is plural), together with **six affixes**, one pattern for each kind of verb."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Verb type",
+      "Formula for the noun",
+      "Example"
+     ],
+     "rows": [
+      [
+       "-um-",
+       "pag- + root",
+       "umalís → **pag-alís**"
+      ],
+      [
+       "mag-",
+       "pag- + duplicated first syllable + root",
+       "maglarô → **paglalarô**"
+      ],
+      [
+       "-in",
+       "pag- + root",
+       "basáhin → **pagbása**"
+      ],
+      [
+       "paki-",
+       "paki- + duplicated last syllable of paki- + root",
+       "pakisúlat → **pakíkisúlat**"
+      ],
+      [
+       "ma-",
+       "pag- + root (actions); pagka- + root (feelings)",
+       "maligò → **pagligò**; magálit → **pagkagálit**"
+      ],
+      [
+       "-an",
+       "pag- + duplicated first syllable + root",
+       "hugasan → **paghuhugas**"
+      ]
+     ],
+     "title": "The six patterns at a glance"
+    }
+   ]
+  },
+  {
+   "title": "From -um- verbs: pag- + root",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Take away the **-um-** and put **pag-** in front of the root. When the root begins with a vowel, a hyphen is written after pag- (pag-alís, pag-ibig), as you learned in Lesson 2."
+    },
+    {
+     "type": "pattern",
+     "title": "pag- + root",
+     "rows": [
+      {
+       "label": "umalís",
+       "chips": [
+        {
+         "t": "pag-",
+         "r": "other"
+        },
+        {
+         "t": "alís",
+         "r": "noun"
+        },
+        {
+         "t": "→ pag-alís",
+         "r": "noun"
+        }
+       ]
+      },
+      {
+       "label": "lumakad",
+       "chips": [
+        {
+         "t": "pag",
+         "r": "other"
+        },
+        {
+         "t": "lakad",
+         "r": "noun"
+        },
+        {
+         "t": "→ paglakad",
+         "r": "noun"
+        }
+       ]
+      }
+     ],
+     "note": "leaving · walking"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Verb",
+      "Noun",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[umalís|pred]]",
+       "[[pag-alís|noun]]",
+       "leaving"
+      ],
+      [
+       "[[lumakad|pred]]",
+       "[[paglakad|noun]]",
+       "walking"
+      ],
+      [
+       "[[umibig|pred]]",
+       "[[pag-ibig|noun]]",
+       "love"
+      ]
+     ],
+     "title": "-um- verbs"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Siyá ay umalís patungong Estados Unidos.",
+       "en": "He left for the United States. (verb)",
+       "parts": [
+        [
+         "Siyá",
+         "he",
+         "pron"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "umalís",
+         "left",
+         "pred"
+        ],
+        [
+         "patungong",
+         "for, heading to",
+         "other"
+        ],
+        [
+         "Estados Unidos",
+         "United States",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang kanyáng pag-alís ay ikinalungkót ko.",
+       "en": "His departure made me sad. (gerund)",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "kanyáng",
+         "his",
+         "poss"
+        ],
+        [
+         "pag-alís",
+         "departure",
+         "noun"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "ikinalungkót",
+         "made sad",
+         "pred"
+        ],
+        [
+         "ko",
+         "me (by me)",
+         "pron"
+        ]
+       ]
+      }
+     ],
+     "title": "Verb and gerund"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Possessives work with gerunds",
+     "t": "Because the gerund is a noun, it can take a possessive just like any noun from Lesson 8: [[kanyáng|poss]] pag-alís (his departure)."
+    }
+   ]
+  },
+  {
+   "title": "From mag- verbs: pag- + duplicated first syllable + root",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Change **mag-** to **pag-**, then **repeat the first syllable of the root** before the root."
+    },
+    {
+     "type": "pattern",
+     "title": "pag- + repeated syllable + root",
+     "rows": [
+      {
+       "label": "maglarô",
+       "chips": [
+        {
+         "t": "pag",
+         "r": "other"
+        },
+        {
+         "t": "la",
+         "r": "other"
+        },
+        {
+         "t": "larô",
+         "r": "noun"
+        },
+        {
+         "t": "→ paglalarô",
+         "r": "noun"
+        }
+       ]
+      },
+      {
+       "label": "magtaním",
+       "chips": [
+        {
+         "t": "pag",
+         "r": "other"
+        },
+        {
+         "t": "ta",
+         "r": "other"
+        },
+        {
+         "t": "taním",
+         "r": "noun"
+        },
+        {
+         "t": "→ pagtataním",
+         "r": "noun"
+        }
+       ]
+      }
+     ],
+     "note": "playing · planting"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Verb",
+      "Noun",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[maglarô|pred]]",
+       "[[paglalarô|noun]]",
+       "playing"
+      ],
+      [
+       "[[magtaním|pred]]",
+       "[[pagtataním|noun]]",
+       "planting"
+      ]
+     ],
+     "title": "Mag- verbs"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Gustó kong magtaním ng hasmín sa áming bakuran.",
+       "en": "I like to plant jasmine in our yard. (verb)",
+       "parts": [
+        [
+         "Gustó",
+         "like",
+         "pred"
+        ],
+        [
+         "kong",
+         "I (+ ligature)",
+         "pron"
+        ],
+        [
+         "magtaním",
+         "to plant",
+         "pred"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "hasmín",
+         "jasmine",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "áming",
+         "our",
+         "poss"
+        ],
+        [
+         "bakuran",
+         "yard",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang pagtataním ng hasmín ay mahirap.",
+       "en": "Planting jasmine is difficult. (gerund)",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "pagtataním",
+         "planting",
+         "noun"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "hasmín",
+         "jasmine",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "mahirap",
+         "difficult",
+         "pred"
+        ]
+       ]
+      }
+     ],
+     "title": "Verb and gerund"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Compare with -um-",
+     "t": "-um- verbs: **no** repeated syllable (paglakad). Mag- verbs: **repeat** the first syllable (paglalarô)."
+    }
+   ]
+  },
+  {
+   "title": "From -in verbs: pag- + root",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Put **pag-** in front of the **root** (the verb without its -in or -hin ending): basáhin → pag**bása**, tawágin → pag**táwag**."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Verb",
+      "Noun",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[basáhin|pred]]",
+       "[[pagbása|noun]]",
+       "reading"
+      ],
+      [
+       "[[tawágin|pred]]",
+       "[[pagtáwag|noun]]",
+       "[act of] calling"
+      ]
+     ],
+     "title": "-in verbs"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Basáhin mo ang buhay ni Rizal.",
+       "en": "I read the life of Rizal. (verb; translation as printed in the book)",
+       "parts": [
+        [
+         "Basáhin",
+         "read",
+         "pred"
+        ],
+        [
+         "mo",
+         "you",
+         "pron"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "buhay",
+         "life",
+         "noun"
+        ],
+        [
+         "ni",
+         "of",
+         "marker"
+        ],
+        [
+         "Rizal",
+         "Rizal",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang pagbása ko ng buhay ni Rizal ay hindî nilá gustó.",
+       "en": "They did not approve of my reading of Rizal's life. (gerund)",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "pagbása",
+         "reading",
+         "noun"
+        ],
+        [
+         "ko",
+         "my",
+         "poss"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "buhay",
+         "life",
+         "noun"
+        ],
+        [
+         "ni",
+         "of",
+         "marker"
+        ],
+        [
+         "Rizal",
+         "Rizal",
+         "noun"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "hindî",
+         "not",
+         "other"
+        ],
+        [
+         "nilá",
+         "they",
+         "pron"
+        ],
+        [
+         "gustó",
+         "like, approve",
+         "pred"
+        ]
+       ]
+      }
+     ],
+     "title": "Verb and gerund"
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "About the first sentence",
+     "t": "The book translates *Basáhin mo ang buhay ni Rizal* as *I read the life of Rizal*. Remember from Lesson 15 that **basáhin** is both the infinitive and the **imperative** (command) form, and **mo** means *you*, just like *Hugásan mo ang mga pinggán* (Wash the dishes) later in this lesson."
+    }
+   ]
+  },
+  {
+   "title": "From paki- verbs: repeat the ki",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Keep **paki-**, then **repeat its last syllable (ki)** before the root: paki + **ki** + root. The book marks the stress on the first ki: pa**kí**ki-."
+    },
+    {
+     "type": "pattern",
+     "title": "paki- + ki + root",
+     "rows": [
+      {
+       "label": "pakihirám",
+       "chips": [
+        {
+         "t": "paki",
+         "r": "other"
+        },
+        {
+         "t": "ki",
+         "r": "other"
+        },
+        {
+         "t": "hirám",
+         "r": "noun"
+        },
+        {
+         "t": "→ pakíkihirám",
+         "r": "noun"
+        }
+       ]
+      },
+      {
+       "label": "pakisúlat",
+       "chips": [
+        {
+         "t": "paki",
+         "r": "other"
+        },
+        {
+         "t": "ki",
+         "r": "other"
+        },
+        {
+         "t": "súlat",
+         "r": "noun"
+        },
+        {
+         "t": "→ pakíkisúlat",
+         "r": "noun"
+        }
+       ]
+      }
+     ],
+     "note": "borrowing · writing"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Verb",
+      "Noun",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[pakihirám|pred]]",
+       "[[pakíkihirám|noun]]",
+       "borrowing"
+      ],
+      [
+       "[[pakisúlat|pred]]",
+       "[[pakíkisúlat|noun]]",
+       "writing"
+      ]
+     ],
+     "title": "Paki- verbs"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Pinakisúlat ko ang áking takdáng-aralín sa kanyá.",
+       "en": "I requested her to write my homework for me. (verb)",
+       "parts": [
+        [
+         "Pinakisúlat",
+         "requested to write",
+         "pred"
+        ],
+        [
+         "ko",
+         "I (by me)",
+         "pron"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "áking",
+         "my",
+         "poss"
+        ],
+        [
+         "takdáng-aralín",
+         "homework",
+         "noun"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "kanyá",
+         "her",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang pakíkisúlat ko ng takdáng-aralín sa kanya ay dî-mabuti.",
+       "en": "My request that she write my homework is not good. (gerund)",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "pakíkisúlat",
+         "request to write",
+         "noun"
+        ],
+        [
+         "ko",
+         "my",
+         "poss"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "takdáng-aralín",
+         "homework",
+         "noun"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "kanya",
+         "her",
+         "pron"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "dî-mabuti",
+         "not good",
+         "pred"
+        ]
+       ]
+      }
+     ],
+     "title": "Verb and gerund"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "A request turned into a noun",
+     "t": "Paki- is the polite *please* form you met in Lesson 24. The noun pakíkisúlat names the *asking someone to write*, which is why the book translates it as *my request that she write*."
+    }
+   ]
+  },
+  {
+   "title": "From ma- verbs: pag- or pagka-",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Ma- verbs have **two** patterns. Use **pag- + root** for **actions**, and **pagka- + root** for **feelings**."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Verb",
+      "Noun",
+      "Meaning",
+      "Kind"
+     ],
+     "rows": [
+      [
+       "[[maligò|pred]]",
+       "[[pagligò|noun]]",
+       "bathing",
+       "action → pag-"
+      ],
+      [
+       "[[magálit|pred]]",
+       "[[pagkagálit|noun]]",
+       "being angry; anger",
+       "feeling → pagka-"
+      ]
+     ],
+     "title": "Ma- verbs"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Madalás ang kanyáng pagligò.",
+       "en": "His bathing is frequent.",
+       "parts": [
+        [
+         "Madalás",
+         "frequent, often",
+         "pred"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "kanyáng",
+         "his",
+         "poss"
+        ],
+        [
+         "pagligò",
+         "bathing",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Natákot akó sa kanyáng pagkagálit.",
+       "en": "I was afraid of his being angry. (gerund)",
+       "parts": [
+        [
+         "Natákot",
+         "was afraid",
+         "pred"
+        ],
+        [
+         "akó",
+         "I",
+         "pron"
+        ],
+        [
+         "sa",
+         "of",
+         "marker"
+        ],
+        [
+         "kanyáng",
+         "his",
+         "poss"
+        ],
+        [
+         "pagkagálit",
+         "being angry",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Action and feeling"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Action or feeling?",
+     "items": [
+      "Bathing is something you **do**: **pag**ligò.",
+      "Anger is something you **feel**: **pagka**gálit."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "From -an verbs: pag- + duplicated first syllable + root",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Drop the **-an** ending, put **pag-** in front and **repeat the first syllable of the root**, the same way as mag- verbs."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Verb",
+      "Noun",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[tawanan|pred]]",
+       "[[pagtatawa|noun]]",
+       "laughing"
+      ],
+      [
+       "[[hugasan|pred]]",
+       "[[paghuhugas|noun]]",
+       "washing"
+      ]
+     ],
+     "title": "-an verbs"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Hugásan mo ang mga pinggán.",
+       "en": "Wash the dishes. (verb)",
+       "parts": [
+        [
+         "Hugásan",
+         "wash",
+         "pred"
+        ],
+        [
+         "mo",
+         "you",
+         "pron"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "mga",
+         "plural",
+         "marker"
+        ],
+        [
+         "pinggán",
+         "dishes",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang paghuhúgas ng pinggán ay mahirap na trabaho.",
+       "en": "Washing dishes is a tough job. (gerund)",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "paghuhúgas",
+         "washing",
+         "noun"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "pinggán",
+         "dishes",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "mahirap",
+         "tough",
+         "pred"
+        ],
+        [
+         "na",
+         "(ligature)",
+         "link"
+        ],
+        [
+         "trabaho",
+         "job",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Verb and gerund"
+    },
+    {
+     "type": "vocab",
+     "group": "gerunds",
+     "title": "The verbal nouns in this lesson"
+    },
+    {
+     "type": "vocab",
+     "group": "words",
+     "title": "Vocabulary list"
+    }
+   ]
+  },
+  {
+   "title": "Practice: which pattern?",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book ends with ten verbs and asks you to give their verbal nouns, then make sentences with them. First decide the **verb type**, then use the matching formula."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Verb",
+      "Meaning",
+      "Type",
+      "Formula"
+     ],
+     "rows": [
+      [
+       "[[mag-isíp|pred]]",
+       "to think",
+       "mag-",
+       "pag- + duplicated first syllable + root"
+      ],
+      [
+       "[[umiyák|pred]]",
+       "to cry",
+       "-um-",
+       "pag- + root"
+      ],
+      [
+       "[[buksán|pred]]",
+       "to open",
+       "-an",
+       "pag- + duplicated first syllable + root"
+      ],
+      [
+       "[[maglakbáy|pred]]",
+       "to travel",
+       "mag-",
+       "pag- + duplicated first syllable + root"
+      ],
+      [
+       "[[umíbig|pred]]",
+       "to love",
+       "-um-",
+       "pag- + root (the book's example: pag-ibig)"
+      ],
+      [
+       "[[tugtugín|pred]]",
+       "to play an instrument",
+       "-in",
+       "pag- + root"
+      ],
+      [
+       "[[umáwit|pred]]",
+       "to sing",
+       "-um-",
+       "pag- + root"
+      ],
+      [
+       "[[magsalitâ|pred]]",
+       "to speak",
+       "mag-",
+       "pag- + duplicated first syllable + root"
+      ],
+      [
+       "[[mag-alís|pred]]",
+       "to remove",
+       "mag-",
+       "pag- + duplicated first syllable + root"
+      ],
+      [
+       "[[sakyán|pred]]",
+       "to ride",
+       "-an",
+       "pag- + duplicated first syllable + root"
+      ]
+     ],
+     "title": "The book's practice verbs",
+     "note": "The book does not print the answers, so work them out with the formulas and check them with a Tagalog speaker."
+    },
+    {
+     "type": "vocab",
+     "group": "verbs",
+     "title": "New verbs from the practice list"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "A gerund is a verb used as a noun: *leaving, reading, washing*.",
+      "-um- and -in verbs: **pag- + root** (pag-alís, pagbása).",
+      "Mag- and -an verbs: **pag- + repeated first syllable + root** (paglalarô, paghuhugas).",
+      "Paki- verbs: **paki + ki + root** (pakíkisúlat).",
+      "Ma- verbs: **pag-** for actions (pagligò), **pagka-** for feelings (pagkagálit).",
+      "Use **ang** (or **ang mga**) in front of the gerund."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "pag-alis-l38",
+   "tl": "pag-alís",
+   "en": "departure",
+   "pos": "noun",
+   "group": "words",
+   "say": "pagQ-a-LIS",
+   "note": "Also glossed leaving (from umalís)"
+  },
+  {
+   "id": "takdang-aralin-l38",
+   "tl": "takdáng-aralín",
+   "en": "homework",
+   "pos": "noun",
+   "group": "words",
+   "say": "tak-DANG-a-ra-LIN"
+  },
+  {
+   "id": "bakuran-l38",
+   "tl": "bakuran",
+   "en": "yard",
+   "pos": "noun",
+   "group": "words"
+  },
+  {
+   "id": "buhay-l38",
+   "tl": "buhay",
+   "en": "life",
+   "pos": "noun",
+   "group": "words"
+  },
+  {
+   "id": "hasmin-l38",
+   "tl": "hasmín",
+   "en": "jasmine",
+   "pos": "noun",
+   "group": "words",
+   "say": "has-MIN",
+   "note": "From the sentence Gustó kong magtaním ng hasmín (I like to plant jasmine)."
+  },
+  {
+   "id": "pinggan-l38",
+   "tl": "pinggán",
+   "en": "dishes",
+   "pos": "noun",
+   "group": "words",
+   "say": "ping-GAN",
+   "note": "From Hugásan mo ang mga pinggán (Wash the dishes)."
+  },
+  {
+   "id": "paglakad-l38",
+   "tl": "paglakad",
+   "en": "walking",
+   "pos": "noun",
+   "group": "gerunds",
+   "note": "From lumakad (-um- verb)"
+  },
+  {
+   "id": "pag-ibig-l38",
+   "tl": "pag-ibig",
+   "en": "love",
+   "pos": "noun",
+   "group": "gerunds",
+   "note": "From umibig (-um- verb)"
+  },
+  {
+   "id": "paglalaro-l38",
+   "tl": "paglalarô",
+   "en": "playing",
+   "pos": "noun",
+   "group": "gerunds",
+   "say": "pag-la-la-roQ",
+   "note": "From maglarô (mag- verb)"
+  },
+  {
+   "id": "pagtatanim-l38",
+   "tl": "pagtataním",
+   "en": "planting",
+   "pos": "noun",
+   "group": "gerunds",
+   "say": "pag-ta-ta-NIM",
+   "note": "From magtaním (mag- verb)"
+  },
+  {
+   "id": "pagbasa-l38",
+   "tl": "pagbása",
+   "en": "reading",
+   "pos": "noun",
+   "group": "gerunds",
+   "say": "pag-BA-sa",
+   "note": "From basáhin (-in verb)"
+  },
+  {
+   "id": "pagtawag-l38",
+   "tl": "pagtáwag",
+   "en": "[act of] calling",
+   "pos": "noun",
+   "group": "gerunds",
+   "say": "pag-TA-wag",
+   "note": "From tawágin (-in verb)"
+  },
+  {
+   "id": "pakikihiram-l38",
+   "tl": "pakíkihirám",
+   "en": "borrowing",
+   "pos": "noun",
+   "group": "gerunds",
+   "say": "pa-KI-ki-hi-RAM",
+   "note": "From pakihirám (paki- verb)"
+  },
+  {
+   "id": "pakikisulat-l38",
+   "tl": "pakíkisúlat",
+   "en": "writing",
+   "pos": "noun",
+   "group": "gerunds",
+   "say": "pa-KI-ki-SU-lat",
+   "note": "From pakisúlat (paki- verb). In the example it means a request that someone write."
+  },
+  {
+   "id": "pagligo-l38",
+   "tl": "pagligò",
+   "en": "bathing",
+   "pos": "noun",
+   "group": "gerunds",
+   "say": "pag-LI-goQ",
+   "note": "From maligò (ma- verb, an action)"
+  },
+  {
+   "id": "pagkagalit-l38",
+   "tl": "pagkagálit",
+   "en": "being angry; anger",
+   "pos": "noun",
+   "group": "gerunds",
+   "say": "pag-ka-GA-lit",
+   "note": "From magálit (ma- verb, a feeling)"
+  },
+  {
+   "id": "pagtatawa-l38",
+   "tl": "pagtatawa",
+   "en": "laughing",
+   "pos": "noun",
+   "group": "gerunds",
+   "note": "From tawanan (-an verb)"
+  },
+  {
+   "id": "paghuhugas-l38",
+   "tl": "paghuhugas",
+   "en": "washing",
+   "pos": "noun",
+   "group": "gerunds",
+   "note": "From hugasan (-an verb). The book also writes paghuhúgas."
+  },
+  {
+   "id": "umibig-l38",
+   "tl": "umíbig",
+   "en": "to love",
+   "pos": "verb",
+   "group": "verbs",
+   "say": "u-MI-big",
+   "note": "The book also writes umibig."
+  },
+  {
+   "id": "maglakbay-l38",
+   "tl": "maglakbáy",
+   "en": "to travel",
+   "pos": "verb",
+   "group": "verbs",
+   "say": "mag-lak-BAY"
+  },
+  {
+   "id": "tugtugin-l38",
+   "tl": "tugtugín",
+   "en": "to play an instrument",
+   "pos": "verb",
+   "group": "verbs",
+   "say": "tug-tu-GIN"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "What is a gerund?",
+   "options": [
+    "A noun made from a verb",
+    "A verb in the past tense",
+    "An adjective made from a noun"
+   ],
+   "answer": "A noun made from a verb",
+   "explain": "A gerund is a verbal noun, like writing in Writing calms my mind."
+  },
+  {
+   "type": "choice",
+   "q": "In \"Writing calms my mind\", how can you prove writing is a gerund?",
+   "options": [
+    "A pronoun can replace it: It calms my mind",
+    "It ends in a vowel",
+    "It comes after the verb"
+   ],
+   "answer": "A pronoun can replace it: It calms my mind",
+   "explain": "Only a noun can be replaced by a pronoun."
+  },
+  {
+   "type": "choice",
+   "q": "Which article goes in front of a plural verbal noun?",
+   "options": [
+    "ang mga",
+    "si",
+    "niná"
+   ],
+   "answer": "ang mga",
+   "explain": "Ang (singular) or ang mga (plural) is used to form gerunds."
+  },
+  {
+   "type": "choice",
+   "q": "How is a noun formed from an -um- verb?",
+   "options": [
+    "pag- + root",
+    "pag- + duplicated first syllable + root",
+    "pagka- + root"
+   ],
+   "answer": "pag- + root",
+   "explain": "umalís → pag-alís, lumakad → paglakad."
+  },
+  {
+   "type": "choice",
+   "q": "How is a noun formed from a mag- verb?",
+   "options": [
+    "pag- + duplicated first syllable + root",
+    "pag- + root",
+    "paki- + root"
+   ],
+   "answer": "pag- + duplicated first syllable + root",
+   "explain": "maglarô → paglalarô, magtaním → pagtataním."
+  },
+  {
+   "type": "choice",
+   "q": "How is a noun formed from a paki- verb?",
+   "options": [
+    "paki- + duplicated last syllable of paki- + root",
+    "pag- + root",
+    "pagka- + root"
+   ],
+   "answer": "paki- + duplicated last syllable of paki- + root",
+   "explain": "pakisúlat → pakíkisúlat."
+  },
+  {
+   "type": "choice",
+   "q": "For ma- verbs, when do you use pagka- instead of pag-?",
+   "options": [
+    "For feelings",
+    "For actions",
+    "For plural nouns"
+   ],
+   "answer": "For feelings",
+   "explain": "pagligò (bathing, an action) but pagkagálit (being angry, a feeling)."
+  },
+  {
+   "type": "choice",
+   "q": "What is the verbal noun of umalís?",
+   "options": [
+    "pag-alís",
+    "paglakad",
+    "pagbása"
+   ],
+   "answer": "pag-alís",
+   "explain": "-um- verb: pag- + root."
+  },
+  {
+   "type": "choice",
+   "q": "What is the verbal noun of magtaním?",
+   "options": [
+    "pagtataním",
+    "paglalarô",
+    "pagtáwag"
+   ],
+   "answer": "pagtataním",
+   "explain": "Mag- verb: the first syllable ta is repeated."
+  },
+  {
+   "type": "choice",
+   "q": "What is the verbal noun of tawágin?",
+   "options": [
+    "pagtáwag",
+    "pagtatawa",
+    "pagbása"
+   ],
+   "answer": "pagtáwag",
+   "explain": "-in verb: pag- + root. It means [act of] calling."
+  },
+  {
+   "type": "choice",
+   "q": "What is the verbal noun of hugasan?",
+   "options": [
+    "paghuhugas",
+    "pagligò",
+    "paglakad"
+   ],
+   "answer": "paghuhugas",
+   "explain": "-an verb: pag- + repeated first syllable + root."
+  },
+  {
+   "type": "choice",
+   "q": "What is the verbal noun of magálit?",
+   "options": [
+    "pagkagálit",
+    "pagligò",
+    "pag-alís"
+   ],
+   "answer": "pagkagálit",
+   "explain": "Anger is a feeling, so pagka- is used."
+  },
+  {
+   "type": "choice",
+   "q": "What is the verbal noun of umíbig (to love)?",
+   "options": [
+    "pag-ibig",
+    "pag-alís",
+    "pakíkihirám"
+   ],
+   "answer": "pag-ibig",
+   "explain": "The book gives umibig = pag-ibig = love."
+  },
+  {
+   "type": "choice",
+   "q": "Maglakbáy (to travel) is a mag- verb. Which formula makes its noun?",
+   "options": [
+    "pag- + duplicated first syllable + root",
+    "pag- + root",
+    "pagka- + root"
+   ],
+   "answer": "pag- + duplicated first syllable + root",
+   "explain": "Mag- verbs repeat the first syllable of the root."
+  },
+  {
+   "type": "choice",
+   "q": "Sakyán (to ride) is an -an verb. Which formula makes its noun?",
+   "options": [
+    "pag- + duplicated first syllable + root",
+    "pag- + root",
+    "paki- + duplicated last syllable of paki- + root"
+   ],
+   "answer": "pag- + duplicated first syllable + root",
+   "explain": "-an verbs work like mag- verbs."
+  },
+  {
+   "type": "choice",
+   "q": "Tugtugín (to play an instrument) is an -in verb. Which formula makes its noun?",
+   "options": [
+    "pag- + root",
+    "pag- + duplicated first syllable + root",
+    "pagka- + root"
+   ],
+   "answer": "pag- + root",
+   "explain": "-in verbs: pag- + root, like basáhin → pagbása."
+  },
+  {
+   "type": "choice",
+   "q": "In \"Ang kanyáng pag-alís ay ikinalungkót ko\", which word is the gerund?",
+   "options": [
+    "pag-alís",
+    "ikinalungkót",
+    "kanyáng"
+   ],
+   "answer": "pag-alís",
+   "explain": "Pag-alís (departure) is the noun made from umalís."
+  },
+  {
+   "type": "choice",
+   "q": "Which sentence uses a verb, not a gerund?",
+   "options": [
+    "Gustó kong magtaním ng hasmín sa áming bakuran.",
+    "Ang pagtataním ng hasmín ay mahirap.",
+    "Ang paghuhúgas ng pinggán ay mahirap na trabaho."
+   ],
+   "answer": "Gustó kong magtaním ng hasmín sa áming bakuran.",
+   "explain": "Magtaním is the verb; pagtataním and paghuhúgas are gerunds."
+  },
+  {
+   "type": "listen",
+   "tl": "pag-alís",
+   "options": [
+    "departure",
+    "homework",
+    "yard"
+   ],
+   "answer": "departure",
+   "explain": "Pag-alís = departure, leaving."
+  },
+  {
+   "type": "listen",
+   "tl": "takdáng-aralín",
+   "options": [
+    "homework",
+    "life",
+    "job"
+   ],
+   "answer": "homework",
+   "explain": "Takdáng-aralín = homework."
+  },
+  {
+   "type": "listen",
+   "tl": "madalás",
+   "options": [
+    "often",
+    "difficult",
+    "sad"
+   ],
+   "answer": "often",
+   "explain": "Madalás = often."
+  },
+  {
+   "type": "listen",
+   "tl": "pagkagálit",
+   "options": [
+    "being angry; anger",
+    "bathing",
+    "borrowing"
+   ],
+   "answer": "being angry; anger",
+   "explain": "Pagka- + gálit, for a feeling."
+  },
+  {
+   "type": "build",
+   "en": "His departure made me sad.",
+   "tl": "Ang kanyáng pag-alís ay ikinalungkót ko.",
+   "tokens": [
+    "ang",
+    "kanyáng",
+    "pag-alís",
+    "ay",
+    "ikinalungkót",
+    "ko"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Planting jasmine is difficult.",
+   "tl": "Ang pagtataním ng hasmín ay mahirap.",
+   "tokens": [
+    "ang",
+    "pagtataním",
+    "ng",
+    "hasmín",
+    "ay",
+    "mahirap"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Washing dishes is a tough job.",
+   "tl": "Ang paghuhúgas ng pinggán ay mahirap na trabaho.",
+   "tokens": [
+    "ang",
+    "paghuhúgas",
+    "ng",
+    "pinggán",
+    "ay",
+    "mahirap",
+    "na",
+    "trabaho"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "I was afraid of his being angry.",
+   "tl": "Natákot akó sa kanyáng pagkagálit.",
+   "tokens": [
+    "natákot",
+    "akó",
+    "sa",
+    "kanyáng",
+    "pagkagálit"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "His bathing is frequent.",
+   "tl": "Madalás ang kanyáng pagligò.",
+   "tokens": [
+    "madalás",
+    "ang",
+    "kanyáng",
+    "pagligò"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match each verb to its verbal noun.",
+   "pairs": [
+    [
+     "lumakad",
+     "paglakad"
+    ],
+    [
+     "maglarô",
+     "paglalarô"
+    ],
+    [
+     "basáhin",
+     "pagbása"
+    ],
+    [
+     "pakihirám",
+     "pakíkihirám"
+    ],
+    [
+     "tawanan",
+     "pagtatawa"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the word to its meaning.",
+   "pairs": [
+    [
+     "bakuran",
+     "yard"
+    ],
+    [
+     "buhay",
+     "life"
+    ],
+    [
+     "pakíkisúlat",
+     "writing"
+    ],
+    [
+     "pagligò",
+     "bathing"
+    ],
+    [
+     "pagtatawa",
+     "laughing"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "A gerund is a verbal noun: a verb used as a noun (leaving, reading, washing).",
+  "-um- and -in verbs: pag- + root (umalís → pag-alís, basáhin → pagbása).",
+  "Mag- and -an verbs: pag- + repeated first syllable + root (maglarô → paglalarô, hugasan → paghuhugas).",
+  "Paki- verbs: repeat ki (pakisúlat → pakíkisúlat).",
+  "Ma- verbs: pag- for actions (pagligò), pagka- for feelings (pagkagálit).",
+  "Put ang (or ang mga) in front: Ang pagtataním ng hasmín ay mahirap."
+ ]
+}

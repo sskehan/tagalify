@@ -1,0 +1,2170 @@
+{
+ "id": "l35",
+ "label": "35",
+ "title": "Conjunctions and interjections",
+ "summary": "Joining words such as at, o, péro, kung, nang, kundî, dáhil sa, sapagká't, and emotion words such as Abá!, Aráy!, Nakú! and Sáyang!",
+ "minutes": 35,
+ "goals": [
+  "Understand what conjunctions and interjections do",
+  "Join words and ideas with at, o, péro and nguni't",
+  "Say if, while and so that with kung (pag), samantalá (habang) and nang",
+  "Say except, because of, because and therefore",
+  "Use kung anó … siyá rin and at sa wakás",
+  "Show feelings with Ay!, Abá!, Aráy!, Nakú!, Sáyang! and Mabúhay!"
+ ],
+ "sections": [
+  {
+   "title": "Joining words and showing feelings",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "This lesson covers two small but very important kinds of words."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Kind",
+      "What it does"
+     ],
+     "rows": [
+      [
+       "**Conjunctions**",
+       "join two clauses, phrases or words to show how they are related"
+      ],
+      [
+       "**Interjections**",
+       "are added to a sentence to show a particular emotion"
+      ]
+     ],
+     "title": "Two kinds of words"
+    },
+    {
+     "type": "p",
+     "t": "A conjunction shows the relationship between the parts it joins. It points out that one thought (in a word, phrase or clause) is **less important than**, or **as important as**, the other one."
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "In English",
+     "t": "English conjunctions are words like *and*, *or*, *but*, *if* and *because*. English interjections are words like *Oh!* and *Ouch!*"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "The most common one",
+     "t": "The most common Tagalog conjunction is [[at|other]], which means **and**. You met it in Lesson 5."
+    }
+   ]
+  },
+  {
+   "title": "And, or, but",
+   "blocks": [
+    {
+     "type": "h",
+     "t": "1. at: and"
+    },
+    {
+     "type": "p",
+     "t": "[[at|other]] means **and**. When the word before it **ends in a vowel**, at may be shortened to **'t** and joined to that word."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Nagsúsulat siyá, gabí at áraw.",
+       "en": "He writes night and day.",
+       "parts": [
+        [
+         "Nagsúsulat",
+         "writes",
+         "pred"
+        ],
+        [
+         "siyá",
+         "he",
+         "pron"
+        ],
+        [
+         "gabí",
+         "night",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "áraw",
+         "day",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nagsúsulat siyá, gabi't áraw.",
+       "en": "He writes night and day.",
+       "parts": [
+        [
+         "Nagsúsulat",
+         "writes",
+         "pred"
+        ],
+        [
+         "siyá",
+         "he",
+         "pron"
+        ],
+        [
+         "gabi't",
+         "night and",
+         "noun"
+        ],
+        [
+         "áraw",
+         "day",
+         "noun"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Gabí ends in a vowel",
+     "t": "Gabí ends in the vowel **i**, so **gabí at áraw** can become **gabi't áraw**. Both sentences mean the same."
+    },
+    {
+     "type": "h",
+     "t": "2. o: or"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Akó ba o siyá ang ibig mo?",
+       "en": "Do you like me or him/her?",
+       "parts": [
+        [
+         "Akó",
+         "me",
+         "pron"
+        ],
+        [
+         "ba",
+         "(question)",
+         "part"
+        ],
+        [
+         "o",
+         "or",
+         "other"
+        ],
+        [
+         "siyá",
+         "him/her",
+         "pron"
+        ],
+        [
+         "ang",
+         "the one",
+         "marker"
+        ],
+        [
+         "ibig",
+         "like",
+         "pred"
+        ],
+        [
+         "mo",
+         "you",
+         "poss"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "t": "3. péro, nguni't, datapuwa't, subali't: but"
+    },
+    {
+     "type": "p",
+     "t": "All four words mean **but**. The last two, **datapuwa't** and **subali't**, are **not to be used in ordinary conversation**."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ibig kong umalís péro umúulan.",
+       "en": "I like to leave but it is raining.",
+       "parts": [
+        [
+         "Ibig",
+         "like",
+         "pred"
+        ],
+        [
+         "kong",
+         "I (+ -ng)",
+         "poss"
+        ],
+        [
+         "umalís",
+         "to leave",
+         "pred"
+        ],
+        [
+         "péro",
+         "but",
+         "other"
+        ],
+        [
+         "umúulan",
+         "it is raining",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Akó'y matabâ nguni't siyá'y payát.",
+       "en": "I am fat but he/she is thin.",
+       "parts": [
+        [
+         "Akó'y",
+         "I am",
+         "pron"
+        ],
+        [
+         "matabâ",
+         "fat",
+         "pred"
+        ],
+        [
+         "nguni't",
+         "but",
+         "other"
+        ],
+        [
+         "siyá'y",
+         "he/she is",
+         "pron"
+        ],
+        [
+         "payát",
+         "thin",
+         "pred"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "head": [
+      "Word",
+      "Meaning",
+      "Use"
+     ],
+     "rows": [
+      [
+       "[[péro|other]]",
+       "but",
+       "everyday conversation"
+      ],
+      [
+       "[[nguni't|other]]",
+       "but",
+       ""
+      ],
+      [
+       "[[datapuwa't|other]]",
+       "but",
+       "not in ordinary conversation"
+      ],
+      [
+       "[[subali't|other]]",
+       "but",
+       "not in ordinary conversation"
+      ]
+     ],
+     "title": "Four ways to say but"
+    },
+    {
+     "type": "vocab",
+     "group": "join",
+     "title": "And, or, but"
+    }
+   ]
+  },
+  {
+   "title": "If, while, so that",
+   "blocks": [
+    {
+     "type": "h",
+     "t": "4. kung: if"
+    },
+    {
+     "type": "p",
+     "t": "[[kung|other]] means **if**. It is synonymous with [[pag|other]]. In Lesson 29 you saw kung and kapág (shortened to pag) used for an action in the present or future."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Aalís áko kung sásama ka.",
+       "en": "I will leave, if you are coming along.",
+       "parts": [
+        [
+         "Aalís",
+         "will leave",
+         "pred"
+        ],
+        [
+         "áko",
+         "I",
+         "pron"
+        ],
+        [
+         "kung",
+         "if",
+         "other"
+        ],
+        [
+         "sásama",
+         "will come along",
+         "pred"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Kung umulán, hindî áko lálakad.",
+       "en": "If it rains, I shall not go.",
+       "parts": [
+        [
+         "Kung",
+         "if",
+         "other"
+        ],
+        [
+         "umulán",
+         "it rains",
+         "pred"
+        ],
+        [
+         "hindî",
+         "not",
+         "other"
+        ],
+        [
+         "áko",
+         "I",
+         "pron"
+        ],
+        [
+         "lálakad",
+         "shall go",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Pag umulán, hindî áko lálakad.",
+       "en": "If it rains, I shall not go.",
+       "parts": [
+        [
+         "Pag",
+         "if",
+         "other"
+        ],
+        [
+         "umulán",
+         "it rains",
+         "pred"
+        ],
+        [
+         "hindî",
+         "not",
+         "other"
+        ],
+        [
+         "áko",
+         "I",
+         "pron"
+        ],
+        [
+         "lálakad",
+         "shall go",
+         "pred"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "t": "5. samantalá, habang: meanwhile, while"
+    },
+    {
+     "type": "p",
+     "t": "[[samantalá|other]] and [[habang|other]] mean **meanwhile, while**. Use them with the **present tense** of verbs. In the book's examples it appears as **samantaláng**, with the ligature -ng."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Táyo ay umáwit samantaláng naghihintáy sa kanilá.",
+       "en": "Let us sing while waiting for them.",
+       "parts": [
+        [
+         "Táyo",
+         "us",
+         "pron"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "umáwit",
+         "sing",
+         "pred"
+        ],
+        [
+         "samantaláng",
+         "while (+ -ng)",
+         "other"
+        ],
+        [
+         "naghihintáy",
+         "waiting",
+         "pred"
+        ],
+        [
+         "sa",
+         "for",
+         "marker"
+        ],
+        [
+         "kanilá",
+         "them",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Samantaláng natútúlog ang sanggól, akó'y maglalabá.",
+       "en": "While the baby sleeps, I shall do the laundry.",
+       "parts": [
+        [
+         "Samantaláng",
+         "while (+ -ng)",
+         "other"
+        ],
+        [
+         "natútúlog",
+         "sleeps",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "sanggól",
+         "baby",
+         "noun"
+        ],
+        [
+         "akó'y",
+         "I",
+         "pron"
+        ],
+        [
+         "maglalabá",
+         "shall do the laundry",
+         "pred"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Spellings in the book",
+     "t": "This lesson prints **samantalá** (stress on the last syllable). Lesson 34 printed it as **samantála**. Both lessons give the same meaning and the same rule (use with the present tense)."
+    },
+    {
+     "type": "h",
+     "t": "6. nang: in order that, so that, so"
+    },
+    {
+     "type": "p",
+     "t": "Here [[nang|other]] joins an action to its **purpose**: *so that* something can happen."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Huwág kang maingay nang áko'y makatúlog.",
+       "en": "Do not be noisy so I can sleep.",
+       "parts": [
+        [
+         "Huwág",
+         "do not",
+         "other"
+        ],
+        [
+         "kang",
+         "you (+ -ng)",
+         "pron"
+        ],
+        [
+         "maingay",
+         "noisy",
+         "pred"
+        ],
+        [
+         "nang",
+         "so",
+         "other"
+        ],
+        [
+         "áko'y",
+         "I",
+         "pron"
+        ],
+        [
+         "makatúlog",
+         "can sleep",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Kumáin ka nang hindî ka magútom.",
+       "en": "You eat so that you'll not go hungry.",
+       "parts": [
+        [
+         "Kumáin",
+         "eat",
+         "pred"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ],
+        [
+         "nang",
+         "so that",
+         "other"
+        ],
+        [
+         "hindî",
+         "not",
+         "other"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ],
+        [
+         "magútom",
+         "go hungry",
+         "pred"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Nang has several jobs",
+     "t": "You have already met **nang** meaning *when* (for the past, Lesson 29) and introducing an adverb of manner (Lesson 34). In this lesson it means **so that**."
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Spellings in the book",
+     "t": "The book prints **maingay** here without an accent mark. Lesson 7 printed it as **maíngay** (noisy)."
+    },
+    {
+     "type": "vocab",
+     "group": "purpose",
+     "title": "So that"
+    }
+   ]
+  },
+  {
+   "title": "Except, because, therefore",
+   "blocks": [
+    {
+     "type": "h",
+     "t": "7. kung hindî (kundî): except, but"
+    },
+    {
+     "type": "p",
+     "t": "[[kung hindî|other]] literally means **if not**. It is shortened to [[kundî|other]] and means **except, but**."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Waláng naparíto kundî si Mary.",
+       "en": "Nobody came except Mary.",
+       "parts": [
+        [
+         "Waláng",
+         "nobody",
+         "other"
+        ],
+        [
+         "naparíto",
+         "came",
+         "pred"
+        ],
+        [
+         "kundî",
+         "except",
+         "other"
+        ],
+        [
+         "si",
+         "(name marker)",
+         "marker"
+        ],
+        [
+         "Mary",
+         "Mary",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Síno ang tútulong sa ákin kundí ikáw?",
+       "en": "Who will help me but you?",
+       "parts": [
+        [
+         "Síno",
+         "who",
+         "pron"
+        ],
+        [
+         "ang",
+         "the one",
+         "marker"
+        ],
+        [
+         "tútulong",
+         "will help",
+         "pred"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "ákin",
+         "me",
+         "pron"
+        ],
+        [
+         "kundí",
+         "but",
+         "other"
+        ],
+        [
+         "ikáw",
+         "you",
+         "pron"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Spellings in the book",
+     "t": "The book prints **kundî** (circumflex) in the heading and in *Waláng naparíto kundî si Mary*, but **kundí** (acute) in *Síno ang tútulong sa ákin kundí ikáw?* The sentences here are copied as printed."
+    },
+    {
+     "type": "h",
+     "t": "8. dáhil sa: because of"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Dáhil sa iyó, áko ay dádalo sa pagdiríwang.",
+       "en": "Because of you, I shall attend the celebration.",
+       "parts": [
+        [
+         "Dáhil sa",
+         "because of",
+         "other"
+        ],
+        [
+         "iyó",
+         "you",
+         "pron"
+        ],
+        [
+         "áko",
+         "I",
+         "pron"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "dádalo",
+         "shall attend",
+         "pred"
+        ],
+        [
+         "sa",
+         "the",
+         "marker"
+        ],
+        [
+         "pagdiríwang",
+         "celebration",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Umiyák siyá dáhil sa ákin.",
+       "en": "He cried because of me.",
+       "parts": [
+        [
+         "Umiyák",
+         "cried",
+         "pred"
+        ],
+        [
+         "siyá",
+         "he",
+         "pron"
+        ],
+        [
+         "dáhil sa",
+         "because of",
+         "other"
+        ],
+        [
+         "ákin",
+         "me",
+         "pron"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "t": "9. sapagká't, mangyári: because"
+    },
+    {
+     "type": "p",
+     "t": "[[sapagká't|other]] and [[mangyári|other]] mean **because**. They are used to **answer the question bakit** (*why*)."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Bakit ka ba malungkót?",
+       "en": "Why are you sad?",
+       "parts": [
+        [
+         "Bakit",
+         "why",
+         "other"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ],
+        [
+         "ba",
+         "(question)",
+         "part"
+        ],
+        [
+         "malungkót",
+         "sad",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Mangyári áko'y may sakít.",
+       "en": "Because I am sick.",
+       "parts": [
+        [
+         "Mangyári",
+         "because",
+         "other"
+        ],
+        [
+         "áko'y",
+         "I am",
+         "pron"
+        ],
+        [
+         "may",
+         "have",
+         "pred"
+        ],
+        [
+         "sakít",
+         "sickness",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Sapagká't áko'y may sakít.",
+       "en": "Because I am sick.",
+       "parts": [
+        [
+         "Sapagká't",
+         "because",
+         "other"
+        ],
+        [
+         "áko'y",
+         "I am",
+         "pron"
+        ],
+        [
+         "may",
+         "have",
+         "pred"
+        ],
+        [
+         "sakít",
+         "sickness",
+         "noun"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Because or because of?",
+     "items": [
+      "**dáhil sa** = *because of*, followed by a person or thing: dáhil sa iyó, dáhil sa ákin.",
+      "**sapagká't** and **mangyári** = *because*, used to answer **bakit**: Mangyári áko'y may sakít."
+     ]
+    },
+    {
+     "type": "h",
+     "t": "10. samakatuwíd / samakatwíd: therefore"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Hindî ka mabaít, samakatuwíd, ayoko sa iyó.",
+       "en": "You are not nice, therefore, I do not like you.",
+       "parts": [
+        [
+         "Hindî",
+         "not",
+         "other"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ],
+        [
+         "mabaít",
+         "nice",
+         "pred"
+        ],
+        [
+         "samakatuwíd",
+         "therefore",
+         "other"
+        ],
+        [
+         "ayoko",
+         "I do not like",
+         "pred"
+        ],
+        [
+         "sa",
+         "(to)",
+         "marker"
+        ],
+        [
+         "iyó",
+         "you",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Samakatwíd, áyaw mong mag-áral?",
+       "en": "Therefore, you do not like to study?",
+       "parts": [
+        [
+         "Samakatwíd",
+         "therefore",
+         "other"
+        ],
+        [
+         "áyaw",
+         "do not like",
+         "pred"
+        ],
+        [
+         "mong",
+         "you (+ -ng)",
+         "poss"
+        ],
+        [
+         "mag-áral",
+         "to study",
+         "pred"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "reason",
+     "title": "Except, because, therefore"
+    }
+   ]
+  },
+  {
+   "title": "Like … like; finally",
+   "blocks": [
+    {
+     "type": "h",
+     "t": "11. kung anó … siyá rin: as … so is …; like … like …"
+    },
+    {
+     "type": "p",
+     "t": "This pair compares two things: whatever the first is, the second is the same."
+    },
+    {
+     "type": "pattern",
+     "title": "kung anó … ay siyá rin …",
+     "rows": [
+      {
+       "label": "Pattern",
+       "chips": [
+        {
+         "t": "Kung anó",
+         "r": "other"
+        },
+        {
+         "t": "ang",
+         "r": "marker"
+        },
+        {
+         "t": "FIRST",
+         "r": "noun"
+        },
+        {
+         "t": "ay",
+         "r": "ay"
+        },
+        {
+         "t": "siyá ring",
+         "r": "other"
+        },
+        {
+         "t": "SECOND",
+         "r": "noun"
+        }
+       ]
+      },
+      {
+       "label": "Example",
+       "chips": [
+        {
+         "t": "Kung anó",
+         "r": "other"
+        },
+        {
+         "t": "ang",
+         "r": "marker"
+        },
+        {
+         "t": "amá",
+         "r": "noun"
+        },
+        {
+         "t": "ay",
+         "r": "ay"
+        },
+        {
+         "t": "siyá ring",
+         "r": "other"
+        },
+        {
+         "t": "anák",
+         "r": "noun"
+        }
+       ]
+      }
+     ],
+     "note": "Like father, like son."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Kung anó ang amá ay siyá ring anák.",
+       "en": "Like father, like son.",
+       "parts": [
+        [
+         "Kung anó",
+         "like (as)",
+         "other"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "amá",
+         "father",
+         "noun"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "siyá ring",
+         "like (so is)",
+         "other"
+        ],
+        [
+         "anák",
+         "son",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Kung anó ang punò ay siyá ring búnga.",
+       "en": "As the tree is, so is the fruit.",
+       "parts": [
+        [
+         "Kung anó",
+         "as",
+         "other"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "punò",
+         "tree",
+         "noun"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "siyá ring",
+         "so is",
+         "other"
+        ],
+        [
+         "búnga",
+         "fruit",
+         "noun"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "t": "12. at sa wakás: finally, at last"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "At sa wakás, pagpaláin kayó ng Diyós.",
+       "en": "Finally, may God bless you.",
+       "parts": [
+        [
+         "At sa wakás",
+         "finally",
+         "other"
+        ],
+        [
+         "pagpaláin",
+         "may bless",
+         "pred"
+        ],
+        [
+         "kayó",
+         "you",
+         "pron"
+        ],
+        [
+         "ng",
+         "by",
+         "marker"
+        ],
+        [
+         "Diyós",
+         "God",
+         "noun"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "head": [
+      "Conjunction",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[at|other]] ('t)",
+       "and"
+      ],
+      [
+       "[[o|other]]",
+       "or"
+      ],
+      [
+       "[[péro|other]], [[nguni't|other]], [[datapuwa't|other]], [[subali't|other]]",
+       "but"
+      ],
+      [
+       "[[kung|other]] ([[pag|other]])",
+       "if"
+      ],
+      [
+       "[[samantalá|other]], [[habang|other]]",
+       "meanwhile, while"
+      ],
+      [
+       "[[nang|other]]",
+       "in order that, so that, so"
+      ],
+      [
+       "[[kung hindî|other]] ([[kundî|other]])",
+       "except, but"
+      ],
+      [
+       "[[dáhil sa|other]]",
+       "because of"
+      ],
+      [
+       "[[sapagká't|other]], [[mangyári|other]]",
+       "because"
+      ],
+      [
+       "[[samakatuwíd|other]] / [[samakatwíd|other]]",
+       "therefore"
+      ],
+      [
+       "[[kung anó|other]] … [[siyá rin|other]]",
+       "as … so is …; like … like …"
+      ],
+      [
+       "[[at sa wakás|other]]",
+       "finally, at last"
+      ]
+     ],
+     "title": "All twelve conjunctions"
+    },
+    {
+     "type": "vocab",
+     "group": "more",
+     "title": "More joining words"
+    }
+   ]
+  },
+  {
+   "title": "Interjections: showing feelings",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Emotions are shown in Tagalog by using an **interjection** such as [[Nakú|other]], followed by an **exclamation mark**."
+    },
+    {
+     "type": "box",
+     "kind": "culture",
+     "title": "Where the words come from",
+     "items": [
+      "**Nakú** is a shortened form of **Ináy ko pô!** (*Oh my mother!*). It shows surprise, amazement or disbelief.",
+      "Two interjections reflect the Spanish heritage of faith: **Susmaryosep!** (shortened from Jesus, Maria y Jose, or *Jesus, Mary and Joseph*) and **Sus!** (shortened form of *Jesus*)."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "How interjections behave",
+     "items": [
+      "An interjection is **not related to or dependent on** any other part of the sentence.",
+      "It can **stand alone** or be **added to a sentence**.",
+      "It is common in **conversation** but not in formal writing."
+     ]
+    },
+    {
+     "type": "table",
+     "head": [
+      "Interjection",
+      "Expresses"
+     ],
+     "rows": [
+      [
+       "[[Ay!|other]]",
+       "despair"
+      ],
+      [
+       "[[Abá!|other]]",
+       "surprise"
+      ],
+      [
+       "[[Aráy!|other]]",
+       "pain"
+      ],
+      [
+       "[[Nakú!|other]]",
+       "surprise; disbelief"
+      ],
+      [
+       "[[Sáyang!|other]]",
+       "pity"
+      ],
+      [
+       "[[Mabúhay!|other]]",
+       "welcome; adoration"
+      ]
+     ],
+     "title": "Common interjections"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ay! Ang hírap ng búhay.",
+       "en": "What a hard life!",
+       "parts": [
+        [
+         "Ay",
+         "(despair)",
+         "other"
+        ],
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "hírap",
+         "hardship",
+         "pred"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "búhay",
+         "life",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Abá! Kailán ka dumatíng?",
+       "en": "When did you arrive?",
+       "parts": [
+        [
+         "Abá",
+         "(surprise)",
+         "other"
+        ],
+        [
+         "Kailán",
+         "when",
+         "other"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ],
+        [
+         "dumatíng",
+         "arrived",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Aráy! Masakít ang ulo ko.",
+       "en": "My head is aching!",
+       "parts": [
+        [
+         "Aráy",
+         "(pain)",
+         "other"
+        ],
+        [
+         "Masakít",
+         "aching",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "ulo",
+         "head",
+         "noun"
+        ],
+        [
+         "ko",
+         "my",
+         "poss"
+        ]
+       ]
+      },
+      {
+       "tl": "Nakú! Ang gandá ng báhay mo!",
+       "en": "Your house is beautiful!",
+       "parts": [
+        [
+         "Nakú",
+         "(surprise)",
+         "other"
+        ],
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "gandá",
+         "beauty",
+         "pred"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "báhay",
+         "house",
+         "noun"
+        ],
+        [
+         "mo",
+         "your",
+         "poss"
+        ]
+       ]
+      },
+      {
+       "tl": "Nakú! Totoó ba?",
+       "en": "Is it true?",
+       "parts": [
+        [
+         "Nakú",
+         "(disbelief)",
+         "other"
+        ],
+        [
+         "Totoó",
+         "true",
+         "pred"
+        ],
+        [
+         "ba",
+         "(question)",
+         "part"
+        ]
+       ]
+      }
+     ],
+     "title": "Interjections in sentences"
+    },
+    {
+     "type": "h",
+     "t": "Before or after"
+    },
+    {
+     "type": "p",
+     "t": "Note where interjections are usually placed. **Sáyang!** can come **after** or **before** the rest of the sentence:"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Nawalâ ang pera ko. Sáyang!",
+       "en": "My money was lost. What a pity!",
+       "parts": [
+        [
+         "Nawalâ",
+         "was lost",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "pera",
+         "money",
+         "noun"
+        ],
+        [
+         "ko",
+         "my",
+         "poss"
+        ],
+        [
+         "Sáyang",
+         "what a pity",
+         "other"
+        ]
+       ]
+      },
+      {
+       "tl": "Sáyang! Nawalâ ang pera ko.",
+       "en": "My money was lost. What a pity!",
+       "parts": [
+        [
+         "Sáyang",
+         "what a pity",
+         "other"
+        ],
+        [
+         "Nawalâ",
+         "was lost",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "pera",
+         "money",
+         "noun"
+        ],
+        [
+         "ko",
+         "my",
+         "poss"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "h",
+     "t": "Mabúhay!"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Use",
+      "Example",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "welcome",
+       "Mabúhay!",
+       "a welcome greeting to foreign visitors"
+      ],
+      [
+       "adoration",
+       "Mabúhay si Pacquiao!",
+       "Long live Pacquiao! (a Filipino boxing champion)"
+      ]
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "feel",
+     "title": "Interjections"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "at (and) can shrink to 't after a vowel: gabi't áraw.",
+      "péro is the everyday but; datapuwa't and subali't are not for ordinary conversation.",
+      "samantalá and habang go with the present tense.",
+      "dáhil sa = because of; sapagká't and mangyári = because (answering bakit).",
+      "Interjections stand alone or join a sentence, and are for conversation, not formal writing."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "o-l35",
+   "tl": "o",
+   "en": "or",
+   "pos": "other",
+   "group": "join"
+  },
+  {
+   "id": "pero-l35",
+   "tl": "péro",
+   "en": "but",
+   "pos": "other",
+   "group": "join",
+   "say": "PE-ro",
+   "note": "Used in everyday conversation"
+  },
+  {
+   "id": "nguni-t-l35",
+   "tl": "nguni't",
+   "en": "but",
+   "pos": "other",
+   "group": "join"
+  },
+  {
+   "id": "datapuwa-t-l35",
+   "tl": "datapuwa't",
+   "en": "but",
+   "pos": "other",
+   "group": "join",
+   "note": "Not to be used in ordinary conversation"
+  },
+  {
+   "id": "subali-t-l35",
+   "tl": "subali't",
+   "en": "but",
+   "pos": "other",
+   "group": "join",
+   "note": "Not to be used in ordinary conversation"
+  },
+  {
+   "id": "nang-sothat-l35",
+   "tl": "nang",
+   "en": "in order that, so that, so",
+   "pos": "other",
+   "group": "purpose",
+   "note": "Kumáin ka nang hindî ka magútom. You eat so that you'll not go hungry."
+  },
+  {
+   "id": "naghihintay-l35",
+   "tl": "naghihintáy",
+   "en": "waiting",
+   "pos": "verb",
+   "group": "purpose",
+   "say": "nag-hi-hin-TAY",
+   "note": "Táyo ay umáwit samantaláng naghihintáy sa kanilá. Let us sing while waiting for them."
+  },
+  {
+   "id": "kung-hindi-l35",
+   "tl": "kung hindî",
+   "en": "except, but (literally, if not)",
+   "pos": "phrase",
+   "group": "reason",
+   "say": "kung hin-diQ",
+   "note": "Shortened to kundî"
+  },
+  {
+   "id": "kundi-l35",
+   "tl": "kundî",
+   "en": "except, but",
+   "pos": "other",
+   "group": "reason",
+   "say": "kun-diQ",
+   "note": "Shortened from kung hindî. The book also writes kundí (Síno ang tútulong sa ákin kundí ikáw?)."
+  },
+  {
+   "id": "dahil-sa-l35",
+   "tl": "dáhil sa",
+   "en": "because of",
+   "pos": "phrase",
+   "group": "reason",
+   "say": "DA-hil sa"
+  },
+  {
+   "id": "sapagkat-l35",
+   "tl": "sapagká't",
+   "en": "because",
+   "pos": "other",
+   "group": "reason",
+   "say": "sa-pag-KAT",
+   "note": "Used to answer the question bakit (why)"
+  },
+  {
+   "id": "mangyari-l35",
+   "tl": "mangyári",
+   "en": "because",
+   "pos": "other",
+   "group": "reason",
+   "say": "mang-YA-ri",
+   "note": "Used to answer the question bakit (why)"
+  },
+  {
+   "id": "samakatuwid-l35",
+   "tl": "samakatuwíd",
+   "en": "therefore",
+   "pos": "other",
+   "group": "reason",
+   "say": "sa-ma-ka-tu-WID",
+   "note": "The book also writes samakatwíd"
+  },
+  {
+   "id": "pagdiriwang-l35",
+   "tl": "pagdiríwang",
+   "en": "celebration",
+   "pos": "noun",
+   "group": "reason",
+   "say": "pag-di-RI-wang"
+  },
+  {
+   "id": "kung-ano-siya-rin-l35",
+   "tl": "kung anó … siyá rin",
+   "en": "as … so is …; like … like …",
+   "pos": "phrase",
+   "group": "more",
+   "say": "kung a-NO … si-YA rin"
+  },
+  {
+   "id": "bunga-l35",
+   "tl": "búnga",
+   "en": "fruit",
+   "pos": "noun",
+   "group": "more",
+   "say": "BU-nga"
+  },
+  {
+   "id": "at-sa-wakas-l35",
+   "tl": "at sa wakás",
+   "en": "finally, at last",
+   "pos": "phrase",
+   "group": "more",
+   "say": "at sa wa-KAS"
+  },
+  {
+   "id": "ay-interj-l35",
+   "tl": "Ay!",
+   "en": "expresses despair",
+   "pos": "expr",
+   "group": "feel",
+   "note": "Ay! Ang hírap ng búhay. What a hard life!"
+  },
+  {
+   "id": "aba-l35",
+   "tl": "Abá!",
+   "en": "expresses surprise",
+   "pos": "expr",
+   "group": "feel",
+   "say": "a-BA"
+  },
+  {
+   "id": "aray-l35",
+   "tl": "Aráy!",
+   "en": "expresses pain",
+   "pos": "expr",
+   "group": "feel",
+   "say": "a-RAY"
+  },
+  {
+   "id": "naku-l35",
+   "tl": "Nakú!",
+   "en": "expresses surprise; expresses disbelief",
+   "pos": "expr",
+   "group": "feel",
+   "say": "na-KU",
+   "note": "A shortened term for Ináy ko pô! (Oh my mother!)"
+  },
+  {
+   "id": "sayang-l35",
+   "tl": "sáyang",
+   "en": "what a pity",
+   "pos": "expr",
+   "group": "feel",
+   "say": "SA-yang",
+   "note": "Sáyang! expresses pity"
+  },
+  {
+   "id": "mabuhay-l35",
+   "tl": "Mabúhay!",
+   "en": "expresses welcome; expresses adoration",
+   "pos": "expr",
+   "group": "feel",
+   "say": "ma-BU-hay",
+   "note": "A welcome greeting to foreign visitors; Mabúhay si Pacquiao! Long live Pacquiao!"
+  },
+  {
+   "id": "inay-ko-po-l35",
+   "tl": "Ináy ko pô!",
+   "en": "Oh my mother!",
+   "pos": "expr",
+   "group": "feel",
+   "say": "i-NAY ko poQ"
+  },
+  {
+   "id": "susmaryosep-l35",
+   "tl": "Susmaryosep!",
+   "en": "shortened form of Jesus, Maria y Jose (Jesus, Mary and Joseph)",
+   "pos": "expr",
+   "group": "feel"
+  },
+  {
+   "id": "sus-l35",
+   "tl": "Sus!",
+   "en": "shortened form of Jesus",
+   "pos": "expr",
+   "group": "feel"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "What do conjunctions do?",
+   "options": [
+    "They join clauses, phrases or words",
+    "They express a particular emotion",
+    "They point to where something is"
+   ],
+   "answer": "They join clauses, phrases or words",
+   "explain": "Interjections are the ones that express emotion."
+  },
+  {
+   "type": "choice",
+   "q": "What do interjections do?",
+   "options": [
+    "They express a particular emotion",
+    "They join two clauses",
+    "They mark the subject"
+   ],
+   "answer": "They express a particular emotion",
+   "explain": "Ay!, Abá!, Aráy!, Nakú!…"
+  },
+  {
+   "type": "choice",
+   "q": "When can at be shortened to 't?",
+   "options": [
+    "When the word before it ends in a vowel",
+    "When the word before it ends in a consonant",
+    "Only at the start of a sentence"
+   ],
+   "answer": "When the word before it ends in a vowel",
+   "explain": "gabí at áraw → gabi't áraw."
+  },
+  {
+   "type": "choice",
+   "q": "Which word for but should NOT be used in ordinary conversation?",
+   "options": [
+    "datapuwa't",
+    "péro",
+    "nguni't"
+   ],
+   "answer": "datapuwa't",
+   "explain": "Datapuwa't and subali't are not for ordinary conversation."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: Akó ba ___ siyá ang ibig mo? (Do you like me or him/her?)",
+   "options": [
+    "o",
+    "at",
+    "kung"
+   ],
+   "answer": "o",
+   "explain": "o = or."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: Ibig kong umalís ___ umúulan. (I like to leave but it is raining.)",
+   "options": [
+    "péro",
+    "kung",
+    "nang"
+   ],
+   "answer": "péro",
+   "explain": "péro = but."
+  },
+  {
+   "type": "choice",
+   "q": "Kung (if) is synonymous with…",
+   "options": [
+    "pag",
+    "nang",
+    "o"
+   ],
+   "answer": "pag",
+   "explain": "Kung umulán… = Pag umulán…"
+  },
+  {
+   "type": "choice",
+   "q": "Samantalá and habang are used with which tense of verbs?",
+   "options": [
+    "the present tense",
+    "the past tense",
+    "the future tense"
+   ],
+   "answer": "the present tense",
+   "explain": "Samantaláng natútúlog ang sanggól…"
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: Kumáin ka ___ hindî ka magútom. (You eat so that you'll not go hungry.)",
+   "options": [
+    "nang",
+    "kung",
+    "o"
+   ],
+   "answer": "nang",
+   "explain": "nang = in order that, so that, so."
+  },
+  {
+   "type": "choice",
+   "q": "\"Waláng naparíto kundî si Mary\" means…",
+   "options": [
+    "Nobody came except Mary.",
+    "Mary came because of you.",
+    "If Mary comes, nobody will go."
+   ],
+   "answer": "Nobody came except Mary.",
+   "explain": "kundî = except, but."
+  },
+  {
+   "type": "choice",
+   "q": "Kundî is the shortened form of…",
+   "options": [
+    "kung hindî",
+    "kung anó",
+    "dáhil sa"
+   ],
+   "answer": "kung hindî",
+   "explain": "Kung hindî literally means if not."
+  },
+  {
+   "type": "choice",
+   "q": "Which conjunction means \"because of\"?",
+   "options": [
+    "dáhil sa",
+    "sapagká't",
+    "samakatuwíd"
+   ],
+   "answer": "dáhil sa",
+   "explain": "Umiyák siyá dáhil sa ákin. He cried because of me."
+  },
+  {
+   "type": "choice",
+   "q": "Sapagká't and mangyári are used to answer which question word?",
+   "options": [
+    "bakit",
+    "kailán",
+    "síno"
+   ],
+   "answer": "bakit",
+   "explain": "Bakit ka ba malungkót? Mangyári áko'y may sakít."
+  },
+  {
+   "type": "choice",
+   "q": "Which word means \"therefore\"?",
+   "options": [
+    "samakatuwíd",
+    "samantalá",
+    "subali't"
+   ],
+   "answer": "samakatuwíd",
+   "explain": "It is also written samakatwíd."
+  },
+  {
+   "type": "choice",
+   "q": "\"Kung anó ang amá ay siyá ring anák\" means…",
+   "options": [
+    "Like father, like son.",
+    "As the tree is, so is the fruit.",
+    "Because of you, I shall attend the celebration."
+   ],
+   "answer": "Like father, like son.",
+   "explain": "kung anó … siyá rin = as … so is …; like … like …"
+  },
+  {
+   "type": "choice",
+   "q": "Which interjection expresses pain?",
+   "options": [
+    "Aráy!",
+    "Abá!",
+    "Mabúhay!"
+   ],
+   "answer": "Aráy!",
+   "explain": "Aráy! Masakít ang ulo ko. My head is aching!"
+  },
+  {
+   "type": "choice",
+   "q": "Nakú is a shortened term for…",
+   "options": [
+    "Ináy ko pô!",
+    "Susmaryosep!",
+    "Mabúhay!"
+   ],
+   "answer": "Ináy ko pô!",
+   "explain": "Ináy ko pô! = Oh my mother!"
+  },
+  {
+   "type": "choice",
+   "q": "Which interjection is a shortened form of Jesus?",
+   "options": [
+    "Sus!",
+    "Ay!",
+    "Abá!"
+   ],
+   "answer": "Sus!",
+   "explain": "Susmaryosep! is short for Jesus, Maria y Jose."
+  },
+  {
+   "type": "choice",
+   "q": "Where are interjections common?",
+   "options": [
+    "In conversations",
+    "In formal writing",
+    "Only in questions"
+   ],
+   "answer": "In conversations",
+   "explain": "They are common in conversations but not in formal writing."
+  },
+  {
+   "type": "choice",
+   "q": "\"Mabúhay si Pacquiao!\" means…",
+   "options": [
+    "Long live Pacquiao!",
+    "Goodbye, Pacquiao!",
+    "What a pity, Pacquiao!"
+   ],
+   "answer": "Long live Pacquiao!",
+   "explain": "Here Mabúhay expresses adoration."
+  },
+  {
+   "type": "listen",
+   "tl": "sáyang",
+   "options": [
+    "what a pity",
+    "fruit",
+    "waiting"
+   ],
+   "answer": "what a pity",
+   "explain": "From the vocabulary list."
+  },
+  {
+   "type": "listen",
+   "tl": "pagdiríwang",
+   "options": [
+    "celebration",
+    "waiting",
+    "fruit"
+   ],
+   "answer": "celebration",
+   "explain": "Dáhil sa iyó, áko ay dádalo sa pagdiríwang."
+  },
+  {
+   "type": "listen",
+   "tl": "at sa wakás",
+   "options": [
+    "finally, at last",
+    "because of",
+    "therefore"
+   ],
+   "answer": "finally, at last",
+   "explain": "At sa wakás, pagpaláin kayó ng Diyós."
+  },
+  {
+   "type": "listen",
+   "tl": "búnga",
+   "options": [
+    "fruit",
+    "tree",
+    "celebration"
+   ],
+   "answer": "fruit",
+   "explain": "Kung anó ang punò ay siyá ring búnga."
+  },
+  {
+   "type": "build",
+   "en": "He writes night and day.",
+   "tl": "Nagsúsulat siyá, gabí at áraw.",
+   "tokens": [
+    "nagsúsulat",
+    "siyá",
+    "gabí",
+    "at",
+    "áraw"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "I am fat but he/she is thin.",
+   "tl": "Akó'y matabâ nguni't siyá'y payát.",
+   "tokens": [
+    "akó'y",
+    "matabâ",
+    "nguni't",
+    "siyá'y",
+    "payát"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "If it rains, I shall not go.",
+   "tl": "Kung umulán, hindî áko lálakad.",
+   "tokens": [
+    "kung",
+    "umulán",
+    "hindî",
+    "áko",
+    "lálakad"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "He cried because of me.",
+   "tl": "Umiyák siyá dáhil sa ákin.",
+   "tokens": [
+    "umiyák",
+    "siyá",
+    "dáhil",
+    "sa",
+    "ákin"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "As the tree is, so is the fruit.",
+   "tl": "Kung anó ang punò ay siyá ring búnga.",
+   "tokens": [
+    "kung",
+    "anó",
+    "ang",
+    "punò",
+    "ay",
+    "siyá",
+    "ring",
+    "búnga"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "My head is aching!",
+   "tl": "Aráy! Masakít ang ulo ko.",
+   "tokens": [
+    "aráy",
+    "masakít",
+    "ang",
+    "ulo",
+    "ko"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match each conjunction to its meaning.",
+   "pairs": [
+    [
+     "o",
+     "or"
+    ],
+    [
+     "kung",
+     "if"
+    ],
+    [
+     "dáhil sa",
+     "because of"
+    ],
+    [
+     "samakatuwíd",
+     "therefore"
+    ],
+    [
+     "at sa wakás",
+     "finally, at last"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each interjection to the feeling it expresses.",
+   "pairs": [
+    [
+     "Ay!",
+     "despair"
+    ],
+    [
+     "Abá!",
+     "surprise"
+    ],
+    [
+     "Aráy!",
+     "pain"
+    ],
+    [
+     "Sáyang!",
+     "pity"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "Conjunctions join words, phrases and clauses; interjections express an emotion.",
+  "at (and, 't after a vowel), o (or), péro / nguni't / datapuwa't / subali't (but).",
+  "kung or pag (if), samantalá or habang (while, with the present tense), nang (so that).",
+  "kundî (except, but), dáhil sa (because of), sapagká't / mangyári (because), samakatuwíd (therefore).",
+  "kung anó … siyá rin (like … like …) and at sa wakás (finally).",
+  "Ay! despair, Abá! surprise, Aráy! pain, Nakú! surprise or disbelief, Sáyang! pity, Mabúhay! welcome."
+ ]
+}
