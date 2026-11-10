@@ -1,6 +1,6 @@
 {
  "app": "Tagalify",
- "version": "1.07",
+ "version": "1.08",
  "units": [
   {
    "id": "start",
@@ -102,6 +102,17 @@
     "l32",
     "l33",
     "l34"
+   ]
+  },
+  {
+   "id": "joining-ideas",
+   "title": "Joining ideas and agreeing",
+   "lessons": [
+    "l35",
+    "l36",
+    "l37",
+    "l38",
+    "l39"
    ]
   }
  ],
@@ -465,6 +476,56 @@
    "file": "data/lessons/l34.json",
    "words": 37,
    "exercises": 33
+  },
+  {
+   "id": "l35",
+   "label": "35",
+   "title": "Conjunctions and interjections",
+   "summary": "Joining words such as at, o, péro, kung, nang, kundî, dáhil sa, sapagká't, and emotion words such as Abá!, Aráy!, Nakú! and Sáyang!",
+   "minutes": 35,
+   "file": "data/lessons/l35.json",
+   "words": 26,
+   "exercises": 32
+  },
+  {
+   "id": "l36",
+   "label": "36",
+   "title": "Magpa- and pa- + -in verb forms",
+   "summary": "Verbs for having something done by someone else: magpakáin, pakaínin (feed someone), magpabása, pabasáhin (order someone to read)",
+   "minutes": 40,
+   "file": "data/lessons/l36.json",
+   "words": 23,
+   "exercises": 30
+  },
+  {
+   "id": "l37",
+   "label": "37",
+   "title": "Expressing Disagreement, Agreement or Doubt",
+   "summary": "Saying no, don't and I don't like (hindî, huwág, ayaw), yes and that's true (oô, siyangâ, totoó, talagá), and maybe (maráhil, tíla, sigúro, bakâ, maáarì)",
+   "minutes": 40,
+   "file": "data/lessons/l37.json",
+   "words": 14,
+   "exercises": 30
+  },
+  {
+   "id": "l38",
+   "label": "38",
+   "title": "Forming nouns from verbs",
+   "summary": "Gerunds: turn -um-, mag-, -in, paki-, ma- and -an verbs into nouns such as pag-alís (leaving), pagbása (reading) and paghuhúgas (washing)",
+   "minutes": 35,
+   "file": "data/lessons/l38.json",
+   "words": 21,
+   "exercises": 29
+  },
+  {
+   "id": "l39",
+   "label": "39",
+   "title": "Forming participles using naka-",
+   "summary": "Naka- + a noun or verb root describes how someone is: nakaupô (seated), nakatayô (standing), nakasapatos (in shoes), nakakotse (in a car)",
+   "minutes": 25,
+   "file": "data/lessons/l39.json",
+   "words": 8,
+   "exercises": 24
   }
  ]
 }
