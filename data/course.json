@@ -1,6 +1,6 @@
 {
  "app": "Tagalify",
- "version": "1.09",
+ "version": "1.11",
  "units": [
   {
    "id": "start",
@@ -145,7 +145,7 @@
    "summary": "Where the language comes from, how it became the national language, and the people who speak it",
    "minutes": 10,
    "file": "data/lessons/background.json",
-   "words": 6,
+   "words": 10,
    "exercises": 11
   },
   {
@@ -155,7 +155,7 @@
    "summary": "Letters, vowels, the ng and r sounds, and how borrowed words are spelled",
    "minutes": 25,
    "file": "data/lessons/l01.json",
-   "words": 55,
+   "words": 88,
    "exercises": 17
   },
   {
@@ -165,7 +165,7 @@
    "summary": "How to break words into beats, and why the stressed syllable matters",
    "minutes": 25,
    "file": "data/lessons/l02.json",
-   "words": 24,
+   "words": 74,
    "exercises": 23
   },
   {
@@ -175,7 +175,7 @@
    "summary": "Pô and opô, greetings through the day, how are you, five ways to say excuse me, and everyday expressions",
    "minutes": 30,
    "file": "data/lessons/l03.json",
-   "words": 64,
+   "words": 107,
    "exercises": 33
   },
   {
@@ -185,7 +185,7 @@
    "summary": "The little words that go before the subject, and how to show more than one",
    "minutes": 30,
    "file": "data/lessons/l04.json",
-   "words": 35,
+   "words": 45,
    "exercises": 27
   },
   {
@@ -195,7 +195,7 @@
    "summary": "The two basic word orders, and how to turn one into the other",
    "minutes": 25,
    "file": "data/lessons/l05.json",
-   "words": 4,
+   "words": 7,
    "exercises": 23
   },
   {
@@ -205,7 +205,7 @@
    "summary": "I, we, you, he, she, they, and this and that",
    "minutes": 35,
    "file": "data/lessons/l06.json",
-   "words": 19,
+   "words": 45,
    "exercises": 27
   },
   {
@@ -215,7 +215,7 @@
    "summary": "The ligatures -ng, -g and na that join two words when one describes the other",
    "minutes": 35,
    "file": "data/lessons/l07.json",
-   "words": 34,
+   "words": 89,
    "exercises": 28
   },
   {
@@ -225,7 +225,7 @@
    "summary": "Ni and ng, the possessive pronouns (ákin, ko…), and nitó, niyán, niyón",
    "minutes": 35,
    "file": "data/lessons/l08.json",
-   "words": 26,
+   "words": 50,
    "exercises": 29
   },
   {
@@ -235,7 +235,7 @@
    "summary": "The 14 question words, their plural forms, short forms like 'yan and 'to, and everyday questions",
    "minutes": 35,
    "file": "data/lessons/l09.json",
-   "words": 31,
+   "words": 52,
    "exercises": 28
   },
   {
@@ -245,7 +245,7 @@
    "summary": "Ba, the spoken question mark: where it goes, ba'y, the particles na, pa, din, daw and nga, and bang",
    "minutes": 35,
    "file": "data/lessons/l10.json",
-   "words": 13,
+   "words": 25,
    "exercises": 28
   },
   {
@@ -255,7 +255,7 @@
    "summary": "As … as (kasíng-, magkasíng-), like (parého, gáya), more than (mas … káysa), very (nápaka-) and most (pinaká-)",
    "minutes": 35,
    "file": "data/lessons/l11.json",
-   "words": 30,
+   "words": 51,
    "exercises": 27
   },
   {
@@ -265,7 +265,7 @@
    "summary": "Saying there is / there are and has / have with may and mayroón, and saying none with walâ",
    "minutes": 30,
    "file": "data/lessons/l12.json",
-   "words": 11,
+   "words": 20,
    "exercises": 28
   },
   {
@@ -275,7 +275,7 @@
    "summary": "Counting in Tagalog and Spanish, ordinals (first, second…), fractions, and prices",
    "minutes": 40,
    "file": "data/lessons/l13.json",
-   "words": 47,
+   "words": 161,
    "exercises": 29
   },
   {
@@ -285,7 +285,7 @@
    "summary": "Doer-focused verbs: making the -um- and mag- forms in every tense, and the two sentence patterns",
    "minutes": 40,
    "file": "data/lessons/l14.json",
-   "words": 61,
+   "words": 85,
    "exercises": 31
   },
   {
@@ -295,7 +295,7 @@
    "summary": "Passive verbs that put the spotlight on the thing acted upon: alisín, basáhin, kánin…",
    "minutes": 40,
    "file": "data/lessons/l15.json",
-   "words": 41,
+   "words": 77,
    "exercises": 29
   },
   {
@@ -305,7 +305,7 @@
    "summary": "When to use ang (the main character) and when to use ng (the other characters), and their plurals",
    "minutes": 25,
    "file": "data/lessons/l16.json",
-   "words": 8,
+   "words": 21,
    "exercises": 28
   },
   {
@@ -315,7 +315,7 @@
    "summary": "Must, can, need, like and don't like: dápat, maáarì, puwéde, kailángan, ibig, gustó and áyaw",
    "minutes": 35,
    "file": "data/lessons/l17.json",
-   "words": 13,
+   "words": 27,
    "exercises": 28
   },
   {
@@ -325,7 +325,7 @@
    "summary": "Ma- and maka- verbs that show ability, and stressed má- and maká- verbs for accidental actions",
    "minutes": 45,
    "file": "data/lessons/l18.json",
-   "words": 57,
+   "words": 127,
    "exercises": 28
   },
   {
@@ -335,7 +335,7 @@
    "summary": "Using magíng before a noun or adjective to talk about changing from one state to another",
    "minutes": 30,
    "file": "data/lessons/l19.json",
-   "words": 8,
+   "words": 24,
    "exercises": 26
   },
   {
@@ -345,7 +345,7 @@
    "summary": "Magkaroón ng + noun and the short magka- + noun, in the past, present and future",
    "minutes": 35,
    "file": "data/lessons/l20.json",
-   "words": 14,
+   "words": 37,
    "exercises": 27
   },
   {
@@ -355,7 +355,7 @@
    "summary": "Saying what you think with tila, sa akalà, sa palagáy and isip, and saying where you go and what you did with pumuntá and other verbs",
    "minutes": 35,
    "file": "data/lessons/l21.json",
-   "words": 20,
+   "words": 43,
    "exercises": 30
   },
   {
@@ -365,7 +365,7 @@
    "summary": "Two words for love (mahál and ibig) and when to use each, and saying what you like with gustó and ibig",
    "minutes": 30,
    "file": "data/lessons/l22.json",
-   "words": 13,
+   "words": 21,
    "exercises": 29
   },
   {
@@ -375,7 +375,7 @@
    "summary": "Using the ligatures -ng, -g and na to say the child who is eating, the house which was burned, the food that was cooked",
    "minutes": 25,
    "file": "data/lessons/l23.json",
-   "words": 11,
+   "words": 15,
    "exercises": 26
   },
   {
@@ -385,7 +385,7 @@
    "summary": "Paki- and maki- request verbs, softening with ngâ and namán, and asking with maáarì bang",
    "minutes": 35,
    "file": "data/lessons/l24.json",
-   "words": 18,
+   "words": 33,
    "exercises": 28
   },
   {
@@ -405,7 +405,7 @@
    "summary": "One small word for in, to, from, for, on, into, over, through and at; position words; gáling, mulâ, búhat and hanggáng",
    "minutes": 35,
    "file": "data/lessons/l26.json",
-   "words": 47,
+   "words": 64,
    "exercises": 30
   },
   {
@@ -415,7 +415,7 @@
    "summary": "Spotting the indirect object: para sa and para kay (for), sa and kay (to), and kina for two or more names",
    "minutes": 30,
    "file": "data/lessons/l27.json",
-   "words": 12,
+   "words": 16,
    "exercises": 28
   },
   {
@@ -425,7 +425,7 @@
    "summary": "Anóng oras na? The hours with ika-, their Spanish equivalents, and words for past, present and future",
    "minutes": 35,
    "file": "data/lessons/l28.json",
-   "words": 38,
+   "words": 80,
    "exercises": 31
   },
   {
@@ -435,7 +435,7 @@
    "summary": "Kailán in questions, nang / noóng for the past, kung / kapág (pag) for the present and future, and kung + question words",
    "minutes": 30,
    "file": "data/lessons/l29.json",
-   "words": 19,
+   "words": 25,
    "exercises": 30
   },
   {
@@ -445,7 +445,7 @@
    "summary": "The root is the basic form of a verb: add affixes to make verbs and adjectives, or put ang before it to make a noun",
    "minutes": 30,
    "file": "data/lessons/l30.json",
-   "words": 23,
+   "words": 36,
    "exercises": 29
   },
   {
@@ -455,7 +455,7 @@
    "summary": "Put ang, ng or sa in front of a verb or adjective and it becomes a noun: the one who, the thing that, what is",
    "minutes": 30,
    "file": "data/lessons/l31.json",
-   "words": 6,
+   "words": 19,
    "exercises": 27
   },
   {
@@ -465,7 +465,7 @@
    "summary": "The prefix i- makes passive verbs for doing something for someone or using something: isúlat, ilutò, ibigáy",
    "minutes": 35,
    "file": "data/lessons/l32.json",
-   "words": 22,
+   "words": 54,
    "exercises": 29
   },
   {
@@ -475,7 +475,7 @@
    "summary": "The suffix -an (or -han): places like aklátan, and passive verbs like basáhan, lagyán and buksán",
    "minutes": 40,
    "file": "data/lessons/l33.json",
-   "words": 49,
+   "words": 78,
    "exercises": 33
   },
   {
@@ -485,7 +485,7 @@
    "summary": "Words that say how, where, when and how much: nang paupô, dáhan-dáhan, díto, saanmán, lagí, kung mínsan, kauntî…",
    "minutes": 40,
    "file": "data/lessons/l34.json",
-   "words": 37,
+   "words": 72,
    "exercises": 33
   },
   {
@@ -495,7 +495,7 @@
    "summary": "Joining words such as at, o, péro, kung, nang, kundî, dáhil sa, sapagká't, and emotion words such as Abá!, Aráy!, Nakú! and Sáyang!",
    "minutes": 35,
    "file": "data/lessons/l35.json",
-   "words": 26,
+   "words": 48,
    "exercises": 32
   },
   {
@@ -505,7 +505,7 @@
    "summary": "Verbs for having something done by someone else: magpakáin, pakaínin (feed someone), magpabása, pabasáhin (order someone to read)",
    "minutes": 40,
    "file": "data/lessons/l36.json",
-   "words": 23,
+   "words": 26,
    "exercises": 30
   },
   {
@@ -515,7 +515,7 @@
    "summary": "Saying no, don't and I don't like (hindî, huwág, ayaw), yes and that's true (oô, siyangâ, totoó, talagá), and maybe (maráhil, tíla, sigúro, bakâ, maáarì)",
    "minutes": 40,
    "file": "data/lessons/l37.json",
-   "words": 14,
+   "words": 53,
    "exercises": 30
   },
   {
@@ -525,7 +525,7 @@
    "summary": "Gerunds: turn -um-, mag-, -in, paki-, ma- and -an verbs into nouns such as pag-alís (leaving), pagbása (reading) and paghuhúgas (washing)",
    "minutes": 35,
    "file": "data/lessons/l38.json",
-   "words": 21,
+   "words": 32,
    "exercises": 29
   },
   {
@@ -535,7 +535,7 @@
    "summary": "Naka- + a noun or verb root describes how someone is: nakaupô (seated), nakatayô (standing), nakasapatos (in shoes), nakakotse (in a car)",
    "minutes": 25,
    "file": "data/lessons/l39.json",
-   "words": 8,
+   "words": 12,
    "exercises": 24
   },
   {
