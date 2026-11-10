@@ -1,6 +1,6 @@
 {
  "app": "Tagalify",
- "version": "1.08",
+ "version": "1.09",
  "units": [
   {
    "id": "start",
@@ -113,6 +113,17 @@
     "l37",
     "l38",
     "l39"
+   ]
+  },
+  {
+   "id": "word-building",
+   "title": "Building words, and colours",
+   "lessons": [
+    "l40",
+    "l41",
+    "l42",
+    "l43",
+    "l44"
    ]
   }
  ],
@@ -526,6 +537,56 @@
    "file": "data/lessons/l39.json",
    "words": 8,
    "exercises": 24
+  },
+  {
+   "id": "l40",
+   "label": "40",
+   "title": "Noun affixes",
+   "summary": "Affixes that make new nouns: -an (aklátan), ka-…-an (kaligayáhan), mag- (mag-asawa), mang- (manggagamot), pag-, sang-, tag- (tag-ulán), taga- (tagaturò), tala-…-an (talátinígan), plus ways to make nouns plural",
+   "minutes": 40,
+   "file": "data/lessons/l40.json",
+   "words": 100,
+   "exercises": 30
+  },
+  {
+   "id": "l41",
+   "label": "41",
+   "title": "Formation of adjectives",
+   "summary": "Turning root words into describing words with ma-, ka-, kay-, maka-, pang-/pam-/pan-, mapag- and pala-",
+   "minutes": 35,
+   "file": "data/lessons/l41.json",
+   "words": 53,
+   "exercises": 29
+  },
+  {
+   "id": "l42",
+   "label": "42",
+   "title": "Plural forms of verbs",
+   "summary": "Plural verbs for plural doers and receivers: magsi- (magsikáin), magsipag- (magsipaglakád), pag- + -in (paglutuín) and pag- + -an (paghuhugasán)",
+   "minutes": 40,
+   "file": "data/lessons/l42.json",
+   "words": 57,
+   "exercises": 28
+  },
+  {
+   "id": "l43",
+   "label": "43",
+   "title": "Contractions",
+   "summary": "Everyday shortened words: téka (wait!), téna (let's go!), ayóko (I don't like), pénge (give me), 'dî, 'nó, ikámo and more",
+   "minutes": 30,
+   "file": "data/lessons/l43.json",
+   "words": 43,
+   "exercises": 27
+  },
+  {
+   "id": "l44",
+   "label": "44",
+   "title": "Colors",
+   "summary": "Basic colors (pulá, asúl, diláw, bérde…), dark colors (asúl na asúl), light colors with murá, shades (mapúla-púla, pulahán) and colors named after things (bérdeng mansánas, gintô)",
+   "minutes": 30,
+   "file": "data/lessons/l44.json",
+   "words": 52,
+   "exercises": 28
   }
  ]
 }
