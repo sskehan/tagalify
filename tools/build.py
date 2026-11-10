@@ -143,6 +143,7 @@ def main():
         {"id": "express", "title": "Thoughts, feelings and requests", "lessons": ["l21", "l22", "l23", "l24", "l25"]},
         {"id": "where-when", "title": "Where, for whom and when", "lessons": ["l26", "l27", "l28", "l29", "l30"]},
         {"id": "making-words", "title": "Nouns, more verbs and adverbs", "lessons": ["l31", "l32", "l33", "l34"]},
+        {"id": "joining-ideas", "title": "Joining ideas and agreeing", "lessons": ["l35", "l36", "l37", "l38", "l39"]},
     ]
     by = {L["id"]: L for L in lessons}
     for u in units:
@@ -151,7 +152,7 @@ def main():
             warns.append(f"unit lesson {lid} missing (skipped)")
         u["lessons"] = [lid for lid in u["lessons"] if lid in by]
     units = [u for u in units if u["lessons"]]
-    index = {"app": "Tagalify", "version": "1.07", "units": [], "lessons": []}
+    index = {"app": "Tagalify", "version": "1.08", "units": [], "lessons": []}
     for u in units:
         index["units"].append({"id": u["id"], "title": u["title"], "lessons": u["lessons"]})
     for L in lessons:
