@@ -1,0 +1,1339 @@
+{
+ "id": "l29",
+ "label": "29",
+ "title": "The word when in Tagalog",
+ "summary": "Kailán in questions, nang / noóng for the past, kung / kapág (pag) for the present and future, and kung + question words",
+ "minutes": 30,
+ "goals": [
+  "Use kailán to ask when",
+  "Use nang or noóng for a past action",
+  "Use kung or kapág (pag) for a present or future action, like English if",
+  "Pair kung with question words: kung síno, kung anó, kung saán…"
+ ],
+ "sections": [
+  {
+   "title": "Many ways to say when",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "English has one word, *when*. Tagalog translates it in **several ways**, depending on what you mean:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Tagalog",
+      "Used for",
+      "Example"
+     ],
+     "rows": [
+      [
+       "[[kailán|other]]",
+       "a **question**",
+       "Kailán ka áalis? *When will you leave?*"
+      ],
+      [
+       "[[nang|other]] or [[noón|other]]",
+       "an action in the **past**",
+       "Nang ako'y maliít… *When I was small…*"
+      ],
+      [
+       "[[kung|other]] or [[kapág|other]]",
+       "an action in the **present or future**, similar to English *if*",
+       "Kung áalis ka… *When / If you leave…*"
+      ]
+     ],
+     "title": "Which when?"
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "Think about the time",
+     "t": "Ask yourself: is it a **question**? Use kailán. Did it already happen? Use nang or noóng. Is it happening now, or still to come? Use kung or kapág."
+    }
+   ]
+  },
+  {
+   "title": "I. Kailán",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "When *when* starts a **question**, it is translated with **kailán** (see Lesson 9)."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Kailán ka áalis?",
+       "en": "When will you leave?",
+       "parts": [
+        [
+         "Kailán",
+         "when",
+         "other"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ],
+        [
+         "áalis",
+         "will leave",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Kailán ka dumatíng?",
+       "en": "When did you arrive?",
+       "parts": [
+        [
+         "Kailán",
+         "when",
+         "other"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ],
+        [
+         "dumatíng",
+         "arrived",
+         "pred"
+        ]
+       ]
+      }
+     ],
+     "title": "Kailán questions"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Any tense",
+     "t": "Kailán works with a future verb (áalis, *will leave*) and with a past verb (dumatíng, *arrived*)."
+    }
+   ]
+  },
+  {
+   "title": "II. Nang or noóng",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "To show an action that happened in the **indefinite or vague past**, *when* is translated with either **nang** or **noóng** (**noón** + ligature **-g**). Both mean the same here, so the book gives each sentence with either word."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Nang ako'y maliít, ako'y may aso.",
+       "en": "When I was small, I had a dog.",
+       "parts": [
+        [
+         "Nang",
+         "when (past)",
+         "other"
+        ],
+        [
+         "ako'y",
+         "I (+ ay)",
+         "pron"
+        ],
+        [
+         "maliít",
+         "small",
+         "pred"
+        ],
+        [
+         "ako'y",
+         "I (+ ay)",
+         "pron"
+        ],
+        [
+         "may",
+         "had",
+         "pred"
+        ],
+        [
+         "aso",
+         "dog",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Noóng ako'y maliít, ako'y may aso.",
+       "en": "When I was small, I had a dog.",
+       "parts": [
+        [
+         "Noóng",
+         "when (past)",
+         "other"
+        ],
+        [
+         "ako'y",
+         "I (+ ay)",
+         "pron"
+        ],
+        [
+         "maliít",
+         "small",
+         "pred"
+        ],
+        [
+         "ako'y",
+         "I (+ ay)",
+         "pron"
+        ],
+        [
+         "may",
+         "had",
+         "pred"
+        ],
+        [
+         "aso",
+         "dog",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nakita ko siyá nang ako ay nasa Estados Unidos.",
+       "en": "I saw him when I was in the United States.",
+       "parts": [
+        [
+         "Nakita",
+         "saw",
+         "pred"
+        ],
+        [
+         "ko",
+         "I",
+         "pron"
+        ],
+        [
+         "siyá",
+         "him",
+         "pron"
+        ],
+        [
+         "nang",
+         "when (past)",
+         "other"
+        ],
+        [
+         "ako",
+         "I",
+         "pron"
+        ],
+        [
+         "ay",
+         "(link)",
+         "ay"
+        ],
+        [
+         "nasa",
+         "in",
+         "pred"
+        ],
+        [
+         "Estados Unidos",
+         "the United States",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nakita ko siyá noóng ako ay nasa Estados Unidos.",
+       "en": "I saw him when I was in the United States.",
+       "parts": [
+        [
+         "Nakita",
+         "saw",
+         "pred"
+        ],
+        [
+         "ko",
+         "I",
+         "pron"
+        ],
+        [
+         "siyá",
+         "him",
+         "pron"
+        ],
+        [
+         "noóng",
+         "when (past)",
+         "other"
+        ],
+        [
+         "ako",
+         "I",
+         "pron"
+        ],
+        [
+         "ay",
+         "(link)",
+         "ay"
+        ],
+        [
+         "nasa",
+         "in",
+         "pred"
+        ],
+        [
+         "Estados Unidos",
+         "the United States",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Nang / noóng"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Ako'y",
+     "t": "**Ako'y** is **ako + ay** run together, the shortening of ay you met in Lesson 6. You can see both forms in these sentences."
+    }
+   ]
+  },
+  {
+   "title": "III. Kung or kapág",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "To show an action that is **happening in the present** or **will still happen in the future**, *when* is translated with **kung** or **kapág**. The shortened form of kapág is **pag**."
+    },
+    {
+     "type": "p",
+     "t": "In this sense the English word **if** has a similar meaning, so one Tagalog sentence can be translated both ways."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Kung áalis ka, sásáma ako sa iyó.",
+       "en": "When you leave, I shall go with you. / If you leave, I shall go with you.",
+       "parts": [
+        [
+         "Kung",
+         "when / if",
+         "other"
+        ],
+        [
+         "áalis",
+         "will leave",
+         "pred"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ],
+        [
+         "sásáma",
+         "shall go with",
+         "pred"
+        ],
+        [
+         "ako",
+         "I",
+         "pron"
+        ],
+        [
+         "sa",
+         "(with)",
+         "marker"
+        ],
+        [
+         "iyó",
+         "you",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Naghihilík siya kapág natutulog.",
+       "en": "He snores when he is sleeping.",
+       "parts": [
+        [
+         "Naghihilík",
+         "snores",
+         "pred"
+        ],
+        [
+         "siya",
+         "he",
+         "pron"
+        ],
+        [
+         "kapág",
+         "when",
+         "other"
+        ],
+        [
+         "natutulog",
+         "is sleeping",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Magtatampó ako pag aalís ka.",
+       "en": "I will be displeased if you leave.",
+       "parts": [
+        [
+         "Magtatampó",
+         "will be displeased",
+         "pred"
+        ],
+        [
+         "ako",
+         "I",
+         "pron"
+        ],
+        [
+         "pag",
+         "if (short for kapág)",
+         "other"
+        ],
+        [
+         "aalís",
+         "will leave",
+         "pred"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ]
+       ]
+      }
+     ],
+     "title": "Kung / kapág / pag"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Spelling",
+     "t": "The book writes **áalis** in the first sentence and **aalís** in the third. Both mean *will leave*."
+    },
+    {
+     "type": "vocab",
+     "group": "when",
+     "title": "The words for when"
+    },
+    {
+     "type": "vocab",
+     "group": "list",
+     "title": "Vocabulary list"
+    }
+   ]
+  },
+  {
+   "title": "Kung with question words",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Besides showing the time of an action, **kung** can be paired with **question words** (Lesson 9) to make phrases that start with *as to*. When you translate them into English, *as to* may be left out."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Phrase",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[kung síno|other]]",
+       "as to who"
+      ],
+      [
+       "[[kung anó|other]]",
+       "as to what"
+      ],
+      [
+       "[[kung saán|other]]",
+       "as to where"
+      ],
+      [
+       "[[kung alín|other]]",
+       "as to which"
+      ],
+      [
+       "[[kung kailán|other]]",
+       "as to when"
+      ],
+      [
+       "[[kung paáno|other]]",
+       "as to how"
+      ],
+      [
+       "[[kung kaníno|other]]",
+       "as to whom"
+      ]
+     ],
+     "title": "Kung + question word"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ewan ko kung síno siyá.",
+       "en": "I do not know who he/she is.",
+       "parts": [
+        [
+         "Ewan ko",
+         "I do not know",
+         "other"
+        ],
+        [
+         "kung síno",
+         "as to who",
+         "other"
+        ],
+        [
+         "siyá",
+         "he/she",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Sabihin mo kung anó ang iyóng gustó.",
+       "en": "Say what you like.",
+       "parts": [
+        [
+         "Sabihin",
+         "say",
+         "pred"
+        ],
+        [
+         "mo",
+         "you",
+         "pron"
+        ],
+        [
+         "kung anó",
+         "as to what",
+         "other"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "iyóng",
+         "your",
+         "poss"
+        ],
+        [
+         "gustó",
+         "like",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Pupuntá tayo kung saán mo gustó.",
+       "en": "We shall go to where you like.",
+       "parts": [
+        [
+         "Pupuntá",
+         "shall go",
+         "pred"
+        ],
+        [
+         "tayo",
+         "we",
+         "pron"
+        ],
+        [
+         "kung saán",
+         "as to where",
+         "other"
+        ],
+        [
+         "mo",
+         "you",
+         "pron"
+        ],
+        [
+         "gustó",
+         "like",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Hindî ko alám kung alín ang pipilíin ko.",
+       "en": "I do not know which to choose.",
+       "parts": [
+        [
+         "Hindî ko alám",
+         "I do not know",
+         "other"
+        ],
+        [
+         "kung alín",
+         "as to which",
+         "other"
+        ],
+        [
+         "ang",
+         "the (one)",
+         "marker"
+        ],
+        [
+         "pipilíin",
+         "to choose",
+         "pred"
+        ],
+        [
+         "ko",
+         "I",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Alám mo ba kung kailán siyá bábalík?",
+       "en": "Do you know when he will return?",
+       "parts": [
+        [
+         "Alám",
+         "know",
+         "pred"
+        ],
+        [
+         "mo",
+         "you",
+         "pron"
+        ],
+        [
+         "ba",
+         "(question)",
+         "part"
+        ],
+        [
+         "kung kailán",
+         "as to when",
+         "other"
+        ],
+        [
+         "siyá",
+         "he",
+         "pron"
+        ],
+        [
+         "bábalík",
+         "will return",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Hindî ko alám kung paáno magsayáw ng Tinikling.",
+       "en": "I do not know how to dance the Tinikling.",
+       "parts": [
+        [
+         "Hindî ko alám",
+         "I do not know",
+         "other"
+        ],
+        [
+         "kung paáno",
+         "as to how",
+         "other"
+        ],
+        [
+         "magsayáw",
+         "to dance",
+         "pred"
+        ],
+        [
+         "ng",
+         "(the)",
+         "marker"
+        ],
+        [
+         "Tinikling",
+         "Tinikling (a folk dance)",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Sasabihin ko kung kaníno iyón.",
+       "en": "I shall tell to whom that belongs.",
+       "parts": [
+        [
+         "Sasabihin",
+         "shall tell",
+         "pred"
+        ],
+        [
+         "ko",
+         "I",
+         "pron"
+        ],
+        [
+         "kung kaníno",
+         "as to whom",
+         "other"
+        ],
+        [
+         "iyón",
+         "that",
+         "pron"
+        ]
+       ]
+      }
+     ],
+     "title": "Sentences with kung + question word"
+    },
+    {
+     "type": "box",
+     "kind": "culture",
+     "title": "Tinikling",
+     "t": "The **Tinikling** is a Philippine folk dance."
+    },
+    {
+     "type": "vocab",
+     "group": "kung",
+     "title": "Kung + question word"
+    },
+    {
+     "type": "vocab",
+     "group": "words",
+     "title": "More words from the sentences"
+    }
+   ]
+  },
+  {
+   "title": "Practice from the book",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book asks you to translate these sentences into Tagalog. It prints no answers, so here the task is to choose the right Tagalog word for **when / if / as to**, using the rules of this lesson."
+    },
+    {
+     "type": "table",
+     "head": [
+      "#",
+      "English",
+      "Word to use"
+     ],
+     "rows": [
+      [
+       "1",
+       "We shall study Tagalog if you like.",
+       "kung or kapág (if, future)"
+      ],
+      [
+       "2",
+       "We shall study Tagalog when you like to.",
+       "kung or kapág (future)"
+      ],
+      [
+       "3",
+       "Are you coming with us if we go to Tagaytay?",
+       "kung or kapág (if, future)"
+      ],
+      [
+       "4",
+       "I asked him (as to) who his father is.",
+       "kung síno (as to who)"
+      ],
+      [
+       "5",
+       "We eat when we are hungry.",
+       "kung or kapág (present)"
+      ],
+      [
+       "6",
+       "I know when he will speak.",
+       "kung kailán (as to when)"
+      ],
+      [
+       "7",
+       "She cries when she is angry.",
+       "kung or kapág (present)"
+      ],
+      [
+       "8",
+       "If you eat much you will be sick.",
+       "kung or kapág (if)"
+      ],
+      [
+       "9",
+       "We were friends when we were young.",
+       "nang or noóng (past)"
+      ],
+      [
+       "10",
+       "I shall eat if she eats.",
+       "kung or kapág (if)"
+      ]
+     ],
+     "title": "Translate into Tagalog"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Writing task",
+     "items": [
+      "Make your own sentences using *when* as **kailán**, as **nang**, as **noón**, as **kung**, and as **pag** or **kapág**.",
+      "Then make sentences using **kung** with all the question words."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "Question: kailán. Kailán ka áalis?",
+      "Past action: nang or noóng (noón + -g). Nang / Noóng ako'y maliít…",
+      "Present or future action: kung or kapág (short form pag), similar to English if.",
+      "Kung + question word = as to who / what / where / which / when / how / whom; as to may be left out in English."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "nang-l29",
+   "tl": "nang",
+   "en": "when (for an action in the indefinite or vague past)",
+   "pos": "other",
+   "group": "when"
+  },
+  {
+   "id": "noon-l29",
+   "tl": "noón",
+   "en": "when (for an action in the past); noóng = noón + ligature -g",
+   "pos": "other",
+   "group": "when",
+   "say": "no-ON"
+  },
+  {
+   "id": "kung-l29",
+   "tl": "kung",
+   "en": "when; if (for an action in the present or future)",
+   "pos": "other",
+   "group": "when"
+  },
+  {
+   "id": "kapag-l29",
+   "tl": "kapág",
+   "en": "when; if (for an action in the present or future)",
+   "pos": "other",
+   "group": "when",
+   "say": "ka-PAG",
+   "note": "Shortened form: pag."
+  },
+  {
+   "id": "pag-l29",
+   "tl": "pag",
+   "en": "shortened form of kapág",
+   "pos": "other",
+   "group": "when"
+  },
+  {
+   "id": "naghihilik-l29",
+   "tl": "naghihilík",
+   "en": "snores",
+   "pos": "verb",
+   "group": "list",
+   "say": "nag-hi-hi-LIK"
+  },
+  {
+   "id": "magtatampo-l29",
+   "tl": "magtatampó",
+   "en": "will be displeased",
+   "pos": "verb",
+   "group": "list",
+   "say": "mag-ta-tam-PO"
+  },
+  {
+   "id": "babalik-l29",
+   "tl": "bábalík",
+   "en": "will return",
+   "pos": "verb",
+   "group": "list",
+   "say": "BA-ba-LIK"
+  },
+  {
+   "id": "sabihin-l29",
+   "tl": "sabihin",
+   "en": "say",
+   "pos": "verb",
+   "group": "list",
+   "note": "Lesson 15 writes sabíhin (to tell)."
+  },
+  {
+   "id": "kung-sino-l29",
+   "tl": "kung síno",
+   "en": "as to who",
+   "pos": "phrase",
+   "group": "list",
+   "say": "kung SI-no"
+  },
+  {
+   "id": "kung-kailan-l29",
+   "tl": "kung kailán",
+   "en": "as to when",
+   "pos": "phrase",
+   "group": "list",
+   "say": "kung ka-i-LAN"
+  },
+  {
+   "id": "kung-ano-l29",
+   "tl": "kung anó",
+   "en": "as to what",
+   "pos": "phrase",
+   "group": "kung",
+   "say": "kung a-NO"
+  },
+  {
+   "id": "kung-saan-l29",
+   "tl": "kung saán",
+   "en": "as to where",
+   "pos": "phrase",
+   "group": "kung",
+   "say": "kung sa-AN"
+  },
+  {
+   "id": "kung-alin-l29",
+   "tl": "kung alín",
+   "en": "as to which",
+   "pos": "phrase",
+   "group": "kung",
+   "say": "kung a-LIN"
+  },
+  {
+   "id": "kung-paano-l29",
+   "tl": "kung paáno",
+   "en": "as to how",
+   "pos": "phrase",
+   "group": "kung",
+   "say": "kung pa-A-no"
+  },
+  {
+   "id": "kung-kanino-l29",
+   "tl": "kung kaníno",
+   "en": "as to whom",
+   "pos": "phrase",
+   "group": "kung",
+   "say": "kung ka-NI-no"
+  },
+  {
+   "id": "sasama-l29",
+   "tl": "sásáma",
+   "en": "shall go with",
+   "pos": "verb",
+   "group": "words",
+   "say": "SA-SA-ma"
+  },
+  {
+   "id": "sasabihin-l29",
+   "tl": "sasabihin",
+   "en": "shall tell",
+   "pos": "verb",
+   "group": "words"
+  },
+  {
+   "id": "tinikling-l29",
+   "tl": "Tinikling",
+   "en": "a Philippine folk dance",
+   "pos": "noun",
+   "group": "words"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Which word translates when in a QUESTION?",
+   "options": [
+    "kailán",
+    "nang",
+    "kapág"
+   ],
+   "answer": "kailán",
+   "explain": "Kailán ka áalis? When will you leave?"
+  },
+  {
+   "type": "choice",
+   "q": "Which words translate when for an action in the PAST?",
+   "options": [
+    "nang or noóng",
+    "kung or kapág",
+    "kailán"
+   ],
+   "answer": "nang or noóng",
+   "explain": "For the indefinite or vague past."
+  },
+  {
+   "type": "choice",
+   "q": "Which words translate when for an action in the present or future?",
+   "options": [
+    "kung or kapág",
+    "nang or noóng",
+    "kailán"
+   ],
+   "answer": "kung or kapág",
+   "explain": "In this sense when is similar to if."
+  },
+  {
+   "type": "choice",
+   "q": "What is the shortened form of kapág?",
+   "options": [
+    "pag",
+    "kap",
+    "nang"
+   ],
+   "answer": "pag",
+   "explain": "Magtatampó ako pag aalís ka."
+  },
+  {
+   "type": "choice",
+   "q": "Noóng is noón + …",
+   "options": [
+    "the ligature -g",
+    "the ligature -ng",
+    "the word ang"
+   ],
+   "answer": "the ligature -g",
+   "explain": "Noón + -g = noóng."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: ___ ka áalis? (When will you leave?)",
+   "options": [
+    "Kailán",
+    "Noóng",
+    "Kapág"
+   ],
+   "answer": "Kailán",
+   "explain": "It is a question."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: ___ ako'y maliít, ako'y may aso. (When I was small, I had a dog.)",
+   "options": [
+    "Noóng",
+    "Kung",
+    "Kailán"
+   ],
+   "answer": "Noóng",
+   "explain": "A past action: nang or noóng."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: Naghihilík siya ___ natutulog. (He snores when he is sleeping.)",
+   "options": [
+    "kapág",
+    "nang",
+    "kailán"
+   ],
+   "answer": "kapág",
+   "explain": "Something that happens in the present: kung or kapág."
+  },
+  {
+   "type": "choice",
+   "q": "\"Kung áalis ka, sásáma ako sa iyó\" can mean…",
+   "options": [
+    "When (or if) you leave, I shall go with you.",
+    "When you left, I went with you.",
+    "When will you leave?"
+   ],
+   "answer": "When (or if) you leave, I shall go with you.",
+   "explain": "Kung is like if for the future."
+  },
+  {
+   "type": "choice",
+   "q": "What does kung síno mean?",
+   "options": [
+    "as to who",
+    "as to which",
+    "as to whom"
+   ],
+   "answer": "as to who",
+   "explain": "Ewan ko kung síno siyá."
+  },
+  {
+   "type": "choice",
+   "q": "What does kung kaníno mean?",
+   "options": [
+    "as to whom",
+    "as to who",
+    "as to how"
+   ],
+   "answer": "as to whom",
+   "explain": "Sasabihin ko kung kaníno iyón."
+  },
+  {
+   "type": "choice",
+   "q": "What does kung paáno mean?",
+   "options": [
+    "as to how",
+    "as to where",
+    "as to what"
+   ],
+   "answer": "as to how",
+   "explain": "Hindî ko alám kung paáno magsayáw ng Tinikling."
+  },
+  {
+   "type": "choice",
+   "q": "When kung + question word is put into English, the words as to…",
+   "options": [
+    "may be left out",
+    "must always be kept",
+    "become if"
+   ],
+   "answer": "may be left out",
+   "explain": "Say what you like (not: say as to what you like)."
+  },
+  {
+   "type": "choice",
+   "q": "Book exercise: \"We were friends when we were young.\" Which word for when?",
+   "options": [
+    "nang or noóng",
+    "kung or kapág",
+    "kailán"
+   ],
+   "answer": "nang or noóng",
+   "explain": "It happened in the past."
+  },
+  {
+   "type": "choice",
+   "q": "Book exercise: \"I know when he will speak.\" Which phrase?",
+   "options": [
+    "kung kailán",
+    "kailán",
+    "noóng"
+   ],
+   "answer": "kung kailán",
+   "explain": "Not a question, so kung + kailán (as to when)."
+  },
+  {
+   "type": "choice",
+   "q": "Book exercise: \"If you eat much you will be sick.\" Which word for if?",
+   "options": [
+    "kung or kapág",
+    "nang or noóng",
+    "kailán"
+   ],
+   "answer": "kung or kapág",
+   "explain": "A future action, similar to English if."
+  },
+  {
+   "type": "listen",
+   "tl": "naghihilík",
+   "options": [
+    "snores",
+    "will return",
+    "will be displeased"
+   ],
+   "answer": "snores",
+   "explain": "Naghihilík siya kapág natutulog."
+  },
+  {
+   "type": "listen",
+   "tl": "magtatampó",
+   "options": [
+    "will be displeased",
+    "snores",
+    "shall go with"
+   ],
+   "answer": "will be displeased",
+   "explain": "Magtatampó ako pag aalís ka."
+  },
+  {
+   "type": "listen",
+   "tl": "bábalík",
+   "options": [
+    "will return",
+    "will leave",
+    "shall tell"
+   ],
+   "answer": "will return",
+   "explain": "Alám mo ba kung kailán siyá bábalík?"
+  },
+  {
+   "type": "listen",
+   "tl": "kung saán",
+   "options": [
+    "as to where",
+    "as to when",
+    "as to which"
+   ],
+   "answer": "as to where",
+   "explain": "Pupuntá tayo kung saán mo gustó."
+  },
+  {
+   "type": "build",
+   "en": "When will you leave?",
+   "tl": "Kailán ka áalis?",
+   "tokens": [
+    "kailán",
+    "ka",
+    "áalis"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "When did you arrive?",
+   "tl": "Kailán ka dumatíng?",
+   "tokens": [
+    "kailán",
+    "ka",
+    "dumatíng"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "When you leave, I shall go with you.",
+   "tl": "Kung áalis ka, sásáma ako sa iyó.",
+   "tokens": [
+    "kung",
+    "áalis",
+    "ka",
+    "sásáma",
+    "ako",
+    "sa",
+    "iyó"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "He snores when he is sleeping.",
+   "tl": "Naghihilík siya kapág natutulog.",
+   "tokens": [
+    "naghihilík",
+    "siya",
+    "kapág",
+    "natutulog"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "I will be displeased if you leave.",
+   "tl": "Magtatampó ako pag aalís ka.",
+   "tokens": [
+    "magtatampó",
+    "ako",
+    "pag",
+    "aalís",
+    "ka"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "I do not know who he/she is.",
+   "tl": "Ewan ko kung síno siyá.",
+   "tokens": [
+    "ewan",
+    "ko",
+    "kung",
+    "síno",
+    "siyá"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "We shall go to where you like.",
+   "tl": "Pupuntá tayo kung saán mo gustó.",
+   "tokens": [
+    "pupuntá",
+    "tayo",
+    "kung",
+    "saán",
+    "mo",
+    "gustó"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Do you know when he will return?",
+   "tl": "Alám mo ba kung kailán siyá bábalík?",
+   "tokens": [
+    "alám",
+    "mo",
+    "ba",
+    "kung",
+    "kailán",
+    "siyá",
+    "bábalík"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match each kung phrase to its meaning.",
+   "pairs": [
+    [
+     "kung síno",
+     "as to who"
+    ],
+    [
+     "kung anó",
+     "as to what"
+    ],
+    [
+     "kung saán",
+     "as to where"
+    ],
+    [
+     "kung alín",
+     "as to which"
+    ],
+    [
+     "kung kailán",
+     "as to when"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each word to when it is used.",
+   "pairs": [
+    [
+     "kailán",
+     "a question"
+    ],
+    [
+     "nang / noóng",
+     "a past action"
+    ],
+    [
+     "kung / kapág",
+     "a present or future action"
+    ],
+    [
+     "pag",
+     "short form of kapág"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "English when has several Tagalog translations.",
+  "Kailán asks a question: Kailán ka áalis?",
+  "Nang or noóng (noón + -g) show an action in the vague past: Nang / Noóng ako'y maliít, ako'y may aso.",
+  "Kung or kapág (short form pag) show an action now or in the future, much like English if.",
+  "Kung + question word gives as to who / what / where / which / when / how / whom: Ewan ko kung síno siyá."
+ ]
+}

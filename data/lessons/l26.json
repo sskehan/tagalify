@@ -1,0 +1,2643 @@
+{
+ "id": "l26",
+ "label": "26",
+ "title": "The preposition sa",
+ "summary": "One small word for in, to, from, for, on, into, over, through and at; position words; gáling, mulâ, búhat and hanggáng",
+ "minutes": 35,
+ "goals": [
+  "See how sa does the work of many English prepositions",
+  "Use sa with position words: sa loób, sa labás, sa itaás…",
+  "Use sa may for near or about",
+  "Say where someone comes from with gáling sa, mulâ sa and búhat sa",
+  "Talk about periods of time with mulâ, búhat and hanggáng"
+ ],
+ "sections": [
+  {
+   "title": "One word, many prepositions",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "A **preposition** is a small word that links a phrase to the rest of a sentence, such as *in*, *to*, *from*, *into*, *on*, *for*, *through* and *at*. English has many of them. Tagalog has one very flexible word, **[[sa|marker]]**, that does most of their jobs."
+    },
+    {
+     "type": "p",
+     "t": "You met **sa** in Lesson 6 (in, at, on, to) and Lesson 25 (sa + place answers a saán question). This lesson shows all the English words it can stand for."
+    },
+    {
+     "type": "table",
+     "head": [
+      "English",
+      "Book example with sa"
+     ],
+     "rows": [
+      [
+       "in",
+       "Nag-áaral kamí **sa** silíd-aralán."
+      ],
+      [
+       "to",
+       "Pupuntá kamí **sa** Tagaytay búkas."
+      ],
+      [
+       "from",
+       "Gáling kamí **sa** Baguio."
+      ],
+      [
+       "for",
+       "Ang damít na itó ay para **sa** kanyá."
+      ],
+      [
+       "on",
+       "Ang aklát **sa** mesa ay bago."
+      ],
+      [
+       "into",
+       "Tumalón ang aso **sa** ilog."
+      ],
+      [
+       "over",
+       "Aawit siya **sa** radyo."
+      ],
+      [
+       "through",
+       "Nagdaán siyá **sa** bintanà."
+      ],
+      [
+       "at",
+       "Nagsúsulát ako **sa** gabí."
+      ]
+     ],
+     "title": "The main uses of sa"
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "Think of it this way",
+     "t": "When you translate into English, choose the preposition that fits the sentence. When you speak Tagalog, you only need **sa**."
+    },
+    {
+     "type": "box",
+     "kind": "culture",
+     "title": "Why Filipinos mix up English prepositions",
+     "t": "Because sa is used for all of these in Tagalog and other Philippine languages, the book suggests this may be why Filipinos find the many English prepositions hard to learn."
+    }
+   ]
+  },
+  {
+   "title": "Sa as in, to, from, for, on",
+   "blocks": [
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Nag-áaral kamí sa silíd-aralán.",
+       "en": "We are studying in the classroom.",
+       "parts": [
+        [
+         "Nag-áaral",
+         "are studying",
+         "pred"
+        ],
+        [
+         "kamí",
+         "we",
+         "pron"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "silíd-aralán",
+         "classroom",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Aáwit siyá sa áming palátuntunan.",
+       "en": "She will sing in our program.",
+       "parts": [
+        [
+         "Aáwit",
+         "will sing",
+         "pred"
+        ],
+        [
+         "siyá",
+         "she",
+         "pron"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "áming",
+         "our",
+         "poss"
+        ],
+        [
+         "palátuntunan",
+         "program",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "1. As in"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Pupuntá kamí sa Tagaytay búkas.",
+       "en": "We shall go to Tagaytay tomorrow.",
+       "parts": [
+        [
+         "Pupuntá",
+         "shall go",
+         "pred"
+        ],
+        [
+         "kamí",
+         "we",
+         "pron"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "Tagaytay",
+         "Tagaytay",
+         "noun"
+        ],
+        [
+         "búkas",
+         "tomorrow",
+         "other"
+        ]
+       ]
+      },
+      {
+       "tl": "Ibíbigáy ko itó sa kanyá.",
+       "en": "I shall give this to her.",
+       "parts": [
+        [
+         "Ibíbigáy",
+         "shall give",
+         "pred"
+        ],
+        [
+         "ko",
+         "I",
+         "pron"
+        ],
+        [
+         "itó",
+         "this",
+         "pron"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "kanyá",
+         "her",
+         "poss"
+        ]
+       ]
+      }
+     ],
+     "title": "2. As to"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Gáling kamí sa Baguio.",
+       "en": "We came from Baguio.",
+       "parts": [
+        [
+         "Gáling",
+         "came from",
+         "pred"
+        ],
+        [
+         "kamí",
+         "we",
+         "pron"
+        ],
+        [
+         "sa",
+         "from",
+         "marker"
+        ],
+        [
+         "Baguio",
+         "Baguio",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Sa nabása ko, iyán ay hindî totoó.",
+       "en": "From what I read, that is not true.",
+       "parts": [
+        [
+         "Sa",
+         "from",
+         "marker"
+        ],
+        [
+         "nabása",
+         "what was read",
+         "pred"
+        ],
+        [
+         "ko",
+         "I",
+         "pron"
+        ],
+        [
+         "iyán",
+         "that",
+         "pron"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "hindî",
+         "not",
+         "part"
+        ],
+        [
+         "totoó",
+         "true",
+         "pred"
+        ]
+       ]
+      }
+     ],
+     "title": "3. As from"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Nagbigáy ako ng sálu-salo para sa áking kaibígan.",
+       "en": "I gave a party for my friend.",
+       "parts": [
+        [
+         "Nagbigáy",
+         "gave",
+         "pred"
+        ],
+        [
+         "ako",
+         "I",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "sálu-salo",
+         "party",
+         "noun"
+        ],
+        [
+         "para",
+         "for",
+         "marker"
+        ],
+        [
+         "sa",
+         "(sa)",
+         "marker"
+        ],
+        [
+         "áking",
+         "my",
+         "poss"
+        ],
+        [
+         "kaibígan",
+         "friend",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang damít na itó ay para sa kanyá.",
+       "en": "This dress is for her.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "damít",
+         "dress",
+         "noun"
+        ],
+        [
+         "na",
+         "ligature",
+         "link"
+        ],
+        [
+         "itó",
+         "this",
+         "pron"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "para",
+         "for",
+         "marker"
+        ],
+        [
+         "sa",
+         "(sa)",
+         "marker"
+        ],
+        [
+         "kanyá",
+         "her",
+         "poss"
+        ]
+       ]
+      }
+     ],
+     "title": "4. As for"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ang aklát sa mesa ay bago.",
+       "en": "The book on the table is new.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "aklát",
+         "book",
+         "noun"
+        ],
+        [
+         "sa",
+         "on",
+         "marker"
+        ],
+        [
+         "mesa",
+         "table",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "bago",
+         "new",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Nakatirá ako sa Taft Avenue.",
+       "en": "I live on Taft Avenue.",
+       "parts": [
+        [
+         "Nakatirá",
+         "live",
+         "pred"
+        ],
+        [
+         "ako",
+         "I",
+         "pron"
+        ],
+        [
+         "sa",
+         "on",
+         "marker"
+        ],
+        [
+         "Taft Avenue",
+         "Taft Avenue",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "5. As on"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "For uses para sa",
+     "t": "In the *for* examples, sa comes after **para**: para sa áking kaibígan, para sa kanyá. Lesson 27 looks at para sa closely."
+    }
+   ]
+  },
+  {
+   "title": "Sa as into, over, through, at",
+   "blocks": [
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Tumalón ang aso sa ilog.",
+       "en": "The dog jumped into the river.",
+       "parts": [
+        [
+         "Tumalón",
+         "jumped",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "aso",
+         "dog",
+         "noun"
+        ],
+        [
+         "sa",
+         "into",
+         "marker"
+        ],
+        [
+         "ilog",
+         "river",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Itinápon ko ang basúra sa lata.",
+       "en": "I dumped the garbage into the can.",
+       "parts": [
+        [
+         "Itinápon",
+         "dumped",
+         "pred"
+        ],
+        [
+         "ko",
+         "I",
+         "pron"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "basúra",
+         "garbage",
+         "noun"
+        ],
+        [
+         "sa",
+         "into",
+         "marker"
+        ],
+        [
+         "lata",
+         "can",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "6. As into"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Aawit siya sa radyo.",
+       "en": "She will sing over the radio.",
+       "parts": [
+        [
+         "Aawit",
+         "will sing",
+         "pred"
+        ],
+        [
+         "siya",
+         "she",
+         "pron"
+        ],
+        [
+         "sa",
+         "over",
+         "marker"
+        ],
+        [
+         "radyo",
+         "radio",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "7. As over"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Siyá ang pangulo námin sa taóng itó.",
+       "en": "She is our president through this year.",
+       "parts": [
+        [
+         "Siyá",
+         "she",
+         "pron"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "pangulo",
+         "president",
+         "noun"
+        ],
+        [
+         "námin",
+         "our",
+         "poss"
+        ],
+        [
+         "sa",
+         "through",
+         "marker"
+        ],
+        [
+         "taóng",
+         "year +ng",
+         "noun"
+        ],
+        [
+         "itó",
+         "this",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Nagdaán siyá sa bintanà.",
+       "en": "He passed through the window.",
+       "parts": [
+        [
+         "Nagdaán",
+         "passed",
+         "pred"
+        ],
+        [
+         "siyá",
+         "he",
+         "pron"
+        ],
+        [
+         "sa",
+         "through",
+         "marker"
+        ],
+        [
+         "bintanà",
+         "window",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "8. As through"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Nililinis niyá ang mga bintanà sa páaralán.",
+       "en": "She cleans the windows at school.",
+       "parts": [
+        [
+         "Nililinis",
+         "cleans",
+         "pred"
+        ],
+        [
+         "niyá",
+         "she",
+         "pron"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "mga",
+         "(plural)",
+         "marker"
+        ],
+        [
+         "bintanà",
+         "windows",
+         "noun"
+        ],
+        [
+         "sa",
+         "at",
+         "marker"
+        ],
+        [
+         "páaralán",
+         "school",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nagsúsulát ako sa gabí.",
+       "en": "I usually write at night.",
+       "parts": [
+        [
+         "Nagsúsulát",
+         "usually write",
+         "pred"
+        ],
+        [
+         "ako",
+         "I",
+         "pron"
+        ],
+        [
+         "sa",
+         "at",
+         "marker"
+        ],
+        [
+         "gabí",
+         "night",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "9. As at"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Spelling in the book",
+     "items": [
+      "The book prints **Aáwit siyá** in use 1 but **Aawit siya** (no accent marks) in use 7. They are the same words.",
+      "The vocabulary list writes **bintana**; the sentences write **bintanà**. This app uses bintanà."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "list",
+     "title": "Vocabulary list"
+    },
+    {
+     "type": "vocab",
+     "group": "words",
+     "title": "More words from the sentences"
+    }
+   ]
+  },
+  {
+   "title": "Sa with position words",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Sa can be followed by a noun that names a **position**. Together they show the direction or location of a person or thing. Often **ng** + another noun follows, to say *inside of what*, *in front of what*, and so on."
+    },
+    {
+     "type": "pattern",
+     "title": "Sa + position word + ng + noun",
+     "rows": [
+      {
+       "label": "Inside the house",
+       "chips": [
+        {
+         "t": "sa",
+         "r": "marker"
+        },
+        {
+         "t": "loób",
+         "r": "noun"
+        },
+        {
+         "t": "ng",
+         "r": "marker"
+        },
+        {
+         "t": "báhay",
+         "r": "noun"
+        }
+       ]
+      },
+      {
+       "label": "In front of our school",
+       "chips": [
+        {
+         "t": "sa",
+         "r": "marker"
+        },
+        {
+         "t": "haráp",
+         "r": "noun"
+        },
+        {
+         "t": "ng",
+         "r": "marker"
+        },
+        {
+         "t": "áming",
+         "r": "poss"
+        },
+        {
+         "t": "páaralán",
+         "r": "noun"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "head": [
+      "Phrase",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[sa loób|marker]]",
+       "inside"
+      ],
+      [
+       "[[sa labás|marker]]",
+       "outside"
+      ],
+      [
+       "[[sa haráp|marker]]",
+       "in front"
+      ],
+      [
+       "[[sa tabí|marker]]",
+       "beside"
+      ],
+      [
+       "[[sa itaás|marker]]",
+       "above, up"
+      ],
+      [
+       "[[sa gitnâ|marker]]",
+       "in the middle"
+      ],
+      [
+       "[[sa pagítan|marker]]",
+       "between"
+      ],
+      [
+       "[[sa likurán|marker]]",
+       "behind"
+      ],
+      [
+       "[[sa ibabâ|marker]]",
+       "below / downstairs"
+      ]
+     ],
+     "title": "Position phrases"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ang iná ay pumások sa loób ng báhay.",
+       "en": "The mother went inside the house.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "iná",
+         "mother",
+         "noun"
+        ],
+        [
+         "ay",
+         "(ay)",
+         "ay"
+        ],
+        [
+         "pumások",
+         "went in",
+         "pred"
+        ],
+        [
+         "sa",
+         "(sa)",
+         "marker"
+        ],
+        [
+         "loób",
+         "inside",
+         "noun"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "báhay",
+         "house",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Kamí ay kumáin sa labás ng báhay.",
+       "en": "We ate outside the house.",
+       "parts": [
+        [
+         "Kamí",
+         "we",
+         "pron"
+        ],
+        [
+         "ay",
+         "(ay)",
+         "ay"
+        ],
+        [
+         "kumáin",
+         "ate",
+         "pred"
+        ],
+        [
+         "sa",
+         "(sa)",
+         "marker"
+        ],
+        [
+         "labás",
+         "outside",
+         "noun"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "báhay",
+         "house",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Silá ay nakatirá sa haráp ng áming páaralán.",
+       "en": "They live in front of our school.",
+       "parts": [
+        [
+         "Silá",
+         "they",
+         "pron"
+        ],
+        [
+         "ay",
+         "(ay)",
+         "ay"
+        ],
+        [
+         "nakatirá",
+         "live",
+         "pred"
+        ],
+        [
+         "sa",
+         "(sa)",
+         "marker"
+        ],
+        [
+         "haráp",
+         "in front",
+         "noun"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "áming",
+         "our",
+         "poss"
+        ],
+        [
+         "páaralán",
+         "school",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Umupô ka sa tabí ko.",
+       "en": "Sit beside me.",
+       "parts": [
+        [
+         "Umupô",
+         "sit",
+         "pred"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ],
+        [
+         "sa",
+         "(sa)",
+         "marker"
+        ],
+        [
+         "tabí",
+         "beside",
+         "noun"
+        ],
+        [
+         "ko",
+         "me",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Umakyát siyá sa itaás.",
+       "en": "He/She went up.",
+       "parts": [
+        [
+         "Umakyát",
+         "climbed, went up",
+         "pred"
+        ],
+        [
+         "siyá",
+         "he/she",
+         "pron"
+        ],
+        [
+         "sa",
+         "(sa)",
+         "marker"
+        ],
+        [
+         "itaás",
+         "up",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang batà ay umupô sa gitnâ.",
+       "en": "The child sat in the middle.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ],
+        [
+         "ay",
+         "(ay)",
+         "ay"
+        ],
+        [
+         "umupô",
+         "sat",
+         "pred"
+        ],
+        [
+         "sa",
+         "(sa)",
+         "marker"
+        ],
+        [
+         "gitnâ",
+         "middle",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Táyo ay nása pagítan ng lángit at lupà.",
+       "en": "We are between heaven and earth.",
+       "parts": [
+        [
+         "Táyo",
+         "we",
+         "pron"
+        ],
+        [
+         "ay",
+         "(ay)",
+         "ay"
+        ],
+        [
+         "nása",
+         "are in/at",
+         "pred"
+        ],
+        [
+         "pagítan",
+         "between",
+         "noun"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "lángit",
+         "heaven",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "lupà",
+         "earth",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Lumákad sa likurán ng dyip ang tao.",
+       "en": "The person walked behind the jeepney.",
+       "parts": [
+        [
+         "Lumákad",
+         "walked",
+         "pred"
+        ],
+        [
+         "sa",
+         "(sa)",
+         "marker"
+        ],
+        [
+         "likurán",
+         "behind",
+         "noun"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "dyip",
+         "jeepney",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "tao",
+         "person",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nagpuntá sa ibabâ ang laláki.",
+       "en": "The man went downstairs.",
+       "parts": [
+        [
+         "Nagpuntá",
+         "went",
+         "pred"
+        ],
+        [
+         "sa",
+         "(sa)",
+         "marker"
+        ],
+        [
+         "ibabâ",
+         "downstairs",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "laláki",
+         "man",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Position phrases in sentences"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Notice",
+     "items": [
+      "The book explains **umakyát** in this sentence as *climb* or *go up*.",
+      "In the last sentence the book prints the word with an extra mark (ìbabâ); its heading writes **ibabâ**, which is used here."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "place",
+     "title": "Position words"
+    }
+   ]
+  },
+  {
+   "title": "Nása and sa may",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "When you answer a question that starts with **násaán** (where is…?), **sa** changes to **nása** to show where a person or thing is: **nása loób** (inside), **nása likurán** (behind). This is the same nása you met in Lesson 25. The sentence *Táyo ay nása pagítan ng lángit at lupà* above is an example."
+    },
+    {
+     "type": "p",
+     "t": "**Sa + may** means *near* or *about*. Use it when you are not quite sure exactly where someone or something is."
+    },
+    {
+     "type": "pattern",
+     "title": "Sa may + place",
+     "rows": [
+      {
+       "label": "Near a place",
+       "chips": [
+        {
+         "t": "Siyá",
+         "r": "pron"
+        },
+        {
+         "t": "ay",
+         "r": "ay"
+        },
+        {
+         "t": "nakatirá",
+         "r": "pred"
+        },
+        {
+         "t": "sa may",
+         "r": "marker"
+        },
+        {
+         "t": "Roxas Boulevard",
+         "r": "noun"
+        }
+       ]
+      }
+     ],
+     "note": "She lives near Roxas Boulevard."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Siyá ay nakatirá sa may Roxas Boulevard.",
+       "en": "She lives near Roxas Boulevard.",
+       "parts": [
+        [
+         "Siyá",
+         "she",
+         "pron"
+        ],
+        [
+         "ay",
+         "(ay)",
+         "ay"
+        ],
+        [
+         "nakatirá",
+         "lives",
+         "pred"
+        ],
+        [
+         "sa may",
+         "near",
+         "marker"
+        ],
+        [
+         "Roxas Boulevard",
+         "Roxas Boulevard",
+         "noun"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "near"
+    }
+   ]
+  },
+  {
+   "title": "Coming from a place",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "To say where a person **has been** (where they came from), it is clearer to use **gáling sa**, **mulâ sa** or **búhat sa** than sa alone. All three mean *from*."
+    },
+    {
+     "type": "p",
+     "t": "In fact gáling, mulâ and búhat already mean *from* by themselves, so word for word these phrases say *from from*. After the sa phrase comes the name of a place (as in Lesson 25)."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Gáling sa Baguio ang mga bágong kasál.",
+       "en": "The newlyweds came from Baguio.",
+       "parts": [
+        [
+         "Gáling sa",
+         "came from",
+         "marker"
+        ],
+        [
+         "Baguio",
+         "Baguio",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "mga",
+         "(plural)",
+         "marker"
+        ],
+        [
+         "bágong",
+         "new +ng",
+         "pred"
+        ],
+        [
+         "kasál",
+         "married",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Mulâ sa Maynila ang áking sapátos.",
+       "en": "My shoes are from Manila.",
+       "parts": [
+        [
+         "Mulâ sa",
+         "from",
+         "marker"
+        ],
+        [
+         "Maynila",
+         "Manila",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "áking",
+         "my",
+         "poss"
+        ],
+        [
+         "sapátos",
+         "shoes",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Búhat sa Tagaytay, kamí ay nagbús.",
+       "en": "From Tagaytay, we rode on a bus.",
+       "parts": [
+        [
+         "Búhat sa",
+         "from",
+         "marker"
+        ],
+        [
+         "Tagaytay",
+         "Tagaytay",
+         "noun"
+        ],
+        [
+         "kamí",
+         "we",
+         "pron"
+        ],
+        [
+         "ay",
+         "(ay)",
+         "ay"
+        ],
+        [
+         "nagbús",
+         "rode on a bus",
+         "pred"
+        ]
+       ]
+      }
+     ],
+     "title": "Gáling sa, mulâ sa, búhat sa"
+    },
+    {
+     "type": "h",
+     "t": "Someone's hometown"
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "Native of a place",
+     "t": "To point out someone's **hometown** (*a native of* or *belonging to a place*), only **mulâ sa** and **búhat sa** may be used, not gáling sa."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Siyá ay mulâ sa áming náyon.",
+       "en": "He/She is from our town.",
+       "parts": [
+        [
+         "Siyá",
+         "he/she",
+         "pron"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "mulâ sa",
+         "from",
+         "marker"
+        ],
+        [
+         "áming",
+         "our",
+         "poss"
+        ],
+        [
+         "náyon",
+         "town",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang áking iná ay búhat sa Maynila.",
+       "en": "My mother is from Manila.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "áking",
+         "my",
+         "poss"
+        ],
+        [
+         "iná",
+         "mother",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "búhat sa",
+         "from",
+         "marker"
+        ],
+        [
+         "Maynila",
+         "Manila",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang áking iná ay taga-Maynila.",
+       "en": "My mother is from Manila.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "áking",
+         "my",
+         "poss"
+        ],
+        [
+         "iná",
+         "mother",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "taga-Maynila",
+         "from Manila",
+         "pred"
+        ]
+       ]
+      }
+     ],
+     "title": "Where someone is from"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Notice",
+     "t": "The book gives a second way to say *My mother is from Manila*: **taga-Maynila**, with no sa at all."
+    },
+    {
+     "type": "vocab",
+     "group": "from",
+     "title": "From and until"
+    }
+   ]
+  },
+  {
+   "title": "Periods of time",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Just like gáling sa, mulâ sa and búhat sa, sa can also show a **period of time**. But for time, only **mulâ** and **búhat** work (not gáling). A third word joins them: **hanggáng** (*until*)."
+    },
+    {
+     "type": "p",
+     "t": "These three are paired with **noón** (literally *then*), **sa**, **ngayón** (now), and with hours or dates."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Phrase",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[mulâ noón hanggáng sa ngayón|other]]",
+       "since then until now"
+      ],
+      [
+       "[[mulâ sa|marker]] / [[búhat sa|marker]] + time, date or period",
+       "from + time, date or period"
+      ],
+      [
+       "[[hanggáng sa ngayón|other]]",
+       "until now"
+      ],
+      [
+       "[[hanggáng sa|marker]] + time, date or period",
+       "until + time, date or period"
+      ]
+     ],
+     "title": "Time combinations"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Native speakers often drop sa",
+     "t": "Learners may notice that native speakers usually **leave out sa** in time phrases: *Mulâ Lunes…* instead of *Mulâ sa Lunes…*. It is still widely understood."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Mulâ sa Lunes, sa umaga na ang klase námin.",
+       "en": "From Monday, our classes will be in the morning.",
+       "parts": [
+        [
+         "Mulâ sa",
+         "from",
+         "marker"
+        ],
+        [
+         "Lunes",
+         "Monday",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "umaga",
+         "morning",
+         "noun"
+        ],
+        [
+         "na",
+         "now, already",
+         "part"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "klase",
+         "class",
+         "noun"
+        ],
+        [
+         "námin",
+         "our",
+         "poss"
+        ]
+       ]
+      },
+      {
+       "tl": "Mulâ Lunes, umaga na ang klase námin.",
+       "en": "From Monday, our classes will be in the morning.",
+       "parts": [
+        [
+         "Mulâ",
+         "from",
+         "marker"
+        ],
+        [
+         "Lunes",
+         "Monday",
+         "noun"
+        ],
+        [
+         "umaga",
+         "morning",
+         "noun"
+        ],
+        [
+         "na",
+         "now, already",
+         "part"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "klase",
+         "class",
+         "noun"
+        ],
+        [
+         "námin",
+         "our",
+         "poss"
+        ]
+       ]
+      },
+      {
+       "tl": "Búhat sa isang linggó, kamí ay magkasama na.",
+       "en": "From next week, we will be together.",
+       "parts": [
+        [
+         "Búhat sa",
+         "from",
+         "marker"
+        ],
+        [
+         "isang",
+         "one +ng",
+         "noun"
+        ],
+        [
+         "linggó",
+         "week",
+         "noun"
+        ],
+        [
+         "kamí",
+         "we",
+         "pron"
+        ],
+        [
+         "ay",
+         "(ay)",
+         "ay"
+        ],
+        [
+         "magkasama",
+         "together",
+         "pred"
+        ],
+        [
+         "na",
+         "now, already",
+         "part"
+        ]
+       ]
+      },
+      {
+       "tl": "Mulâ sa Lunes hanggáng Biyernes, walâ kamíng klase.",
+       "en": "From Monday to Friday, we will not have classes.",
+       "parts": [
+        [
+         "Mulâ sa",
+         "from",
+         "marker"
+        ],
+        [
+         "Lunes",
+         "Monday",
+         "noun"
+        ],
+        [
+         "hanggáng",
+         "until, to",
+         "marker"
+        ],
+        [
+         "Biyernes",
+         "Friday",
+         "noun"
+        ],
+        [
+         "walâ",
+         "none",
+         "pred"
+        ],
+        [
+         "kamíng",
+         "we +ng",
+         "pron"
+        ],
+        [
+         "klase",
+         "class",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Mulâ Lunes hanggáng Biyernes, walâ kamíng klase.",
+       "en": "From Monday to Friday, we will not have classes.",
+       "parts": [
+        [
+         "Mulâ",
+         "from",
+         "marker"
+        ],
+        [
+         "Lunes",
+         "Monday",
+         "noun"
+        ],
+        [
+         "hanggáng",
+         "until, to",
+         "marker"
+        ],
+        [
+         "Biyernes",
+         "Friday",
+         "noun"
+        ],
+        [
+         "walâ",
+         "none",
+         "pred"
+        ],
+        [
+         "kamíng",
+         "we +ng",
+         "pron"
+        ],
+        [
+         "klase",
+         "class",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Búhat sa Oktubre hanggáng Pebrero, magiging malamíg na.",
+       "en": "From October to February, it will be cool.",
+       "parts": [
+        [
+         "Búhat sa",
+         "from",
+         "marker"
+        ],
+        [
+         "Oktubre",
+         "October",
+         "noun"
+        ],
+        [
+         "hanggáng",
+         "until, to",
+         "marker"
+        ],
+        [
+         "Pebrero",
+         "February",
+         "noun"
+        ],
+        [
+         "magiging",
+         "will be",
+         "pred"
+        ],
+        [
+         "malamíg",
+         "cool",
+         "pred"
+        ],
+        [
+         "na",
+         "now, already",
+         "part"
+        ]
+       ]
+      }
+     ],
+     "title": "Time phrases in sentences"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Spelling",
+     "t": "The book nearly always writes **mulâ**, but once writes **mula** in its explanation. They are the same word."
+    }
+   ]
+  },
+  {
+   "title": "Practice from the book",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book's exercise is a short story about a trip to Tagaytay City, written in English. You translate it into Tagalog, then underline every phrase with **sa**. The book prints no answer, so use it as free practice."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "The story (in brief)",
+     "items": [
+      "A group goes to Tagaytay for a picnic; the trip (**biyahe**) from Manila takes 45 minutes by car.",
+      "They buy pineapples, bananas and oranges, see smoke on top of Taal volcano, and walk down to Taal Lake.",
+      "The scenery (**tánáwin**) is beautiful; some sit on the grass (**damó**).",
+      "They drink juice from young coconuts (**tubig ng niyóg**) at Taal Vista Lodge and go home to Manila at four in the afternoon."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "trip",
+     "title": "Vocabulary for the story"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "Sa can mean in, to, from, for, on, into, over, through or at.",
+      "Sa + position word: sa loób, sa labás, sa haráp, sa tabí, sa itaás, sa gitnâ, sa pagítan, sa likurán, sa ibabâ.",
+      "Sa becomes nása when answering násaán. Sa may = near or about.",
+      "Gáling sa, mulâ sa, búhat sa = from. For a hometown, only mulâ sa or búhat sa.",
+      "For time: mulâ / búhat (from) and hanggáng (until). Native speakers often drop sa."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "silid-aralan-l26",
+   "tl": "silíd-aralán",
+   "en": "classroom",
+   "pos": "noun",
+   "group": "list",
+   "say": "si-LID-a-ra-LAN"
+  },
+  {
+   "id": "hindi-totoo-l26",
+   "tl": "hindî totoó",
+   "en": "not true",
+   "pos": "phrase",
+   "group": "list",
+   "say": "hin-diQ to-to-O"
+  },
+  {
+   "id": "tumalon-l26",
+   "tl": "tumalón",
+   "en": "jumped",
+   "pos": "verb",
+   "group": "list",
+   "say": "tu-ma-LON"
+  },
+  {
+   "id": "dyip-l26",
+   "tl": "dyip",
+   "en": "jeepney (a mass transport)",
+   "pos": "noun",
+   "group": "list"
+  },
+  {
+   "id": "palatuntunan-l26",
+   "tl": "palátuntunan",
+   "en": "program",
+   "pos": "noun",
+   "group": "list",
+   "say": "pa-LA-tun-tu-nan"
+  },
+  {
+   "id": "salu-salo-l26",
+   "tl": "sálu-salo",
+   "en": "party",
+   "pos": "noun",
+   "group": "list",
+   "say": "SA-lu-sa-lo"
+  },
+  {
+   "id": "bintana-l26",
+   "tl": "bintanà",
+   "en": "window",
+   "pos": "noun",
+   "group": "list",
+   "say": "bin-TA-naQ",
+   "note": "The vocabulary list writes bintana; the sample sentences write bintanà."
+  },
+  {
+   "id": "umakyat-l26",
+   "tl": "umakyát",
+   "en": "climbed",
+   "pos": "verb",
+   "group": "list",
+   "say": "u-mak-YAT",
+   "note": "The book also explains it as climb or go up."
+  },
+  {
+   "id": "aawit-l26",
+   "tl": "aáwit",
+   "en": "will sing",
+   "pos": "verb",
+   "group": "words",
+   "say": "a-A-wit",
+   "note": "The book also writes Aawit with no accent marks."
+  },
+  {
+   "id": "ibibigay-l26",
+   "tl": "ibíbigáy",
+   "en": "shall give",
+   "pos": "verb",
+   "group": "words",
+   "say": "i-BI-bi-GAY"
+  },
+  {
+   "id": "nagbigay-l26",
+   "tl": "nagbigáy",
+   "en": "gave",
+   "pos": "verb",
+   "group": "words",
+   "say": "nag-bi-GAY"
+  },
+  {
+   "id": "itinapon-l26",
+   "tl": "itinápon",
+   "en": "dumped",
+   "pos": "verb",
+   "group": "words",
+   "say": "i-ti-NA-pon"
+  },
+  {
+   "id": "basura-l26",
+   "tl": "basúra",
+   "en": "garbage",
+   "pos": "noun",
+   "group": "words",
+   "say": "ba-SU-ra"
+  },
+  {
+   "id": "lata-l26",
+   "tl": "lata",
+   "en": "can",
+   "pos": "noun",
+   "group": "words"
+  },
+  {
+   "id": "pangulo-l26",
+   "tl": "pangulo",
+   "en": "president",
+   "pos": "noun",
+   "group": "words"
+  },
+  {
+   "id": "nagdaan-l26",
+   "tl": "nagdaán",
+   "en": "passed (through)",
+   "pos": "verb",
+   "group": "words",
+   "say": "nag-da-AN"
+  },
+  {
+   "id": "nagsusulat-l26",
+   "tl": "nagsúsulát",
+   "en": "usually write",
+   "pos": "verb",
+   "group": "words",
+   "say": "nag-SU-su-LAT"
+  },
+  {
+   "id": "pumasok-l26",
+   "tl": "pumások",
+   "en": "went (inside)",
+   "pos": "verb",
+   "group": "words",
+   "say": "pu-MA-sok"
+  },
+  {
+   "id": "bagong-kasal-l26",
+   "tl": "bágong kasál",
+   "en": "newlyweds",
+   "pos": "phrase",
+   "group": "words",
+   "say": "BA-gong ka-SAL"
+  },
+  {
+   "id": "nagbus-l26",
+   "tl": "nagbús",
+   "en": "rode on a bus",
+   "pos": "verb",
+   "group": "words",
+   "say": "nag-BUS"
+  },
+  {
+   "id": "nayon-l26",
+   "tl": "náyon",
+   "en": "town",
+   "pos": "noun",
+   "group": "words",
+   "say": "NA-yon"
+  },
+  {
+   "id": "sa-loob-l26",
+   "tl": "sa loób",
+   "en": "inside",
+   "pos": "phrase",
+   "group": "place",
+   "say": "sa lo-OB"
+  },
+  {
+   "id": "sa-harap-l26",
+   "tl": "sa haráp",
+   "en": "in front",
+   "pos": "phrase",
+   "group": "place",
+   "say": "sa ha-RAP"
+  },
+  {
+   "id": "sa-tabi-l26",
+   "tl": "sa tabí",
+   "en": "beside",
+   "pos": "phrase",
+   "group": "place",
+   "say": "sa ta-BI"
+  },
+  {
+   "id": "sa-itaas-l26",
+   "tl": "sa itaás",
+   "en": "above, up",
+   "pos": "phrase",
+   "group": "place",
+   "say": "sa i-ta-AS"
+  },
+  {
+   "id": "sa-gitna-l26",
+   "tl": "sa gitnâ",
+   "en": "in the middle",
+   "pos": "phrase",
+   "group": "place",
+   "say": "sa git-naQ"
+  },
+  {
+   "id": "sa-pagitan-l26",
+   "tl": "sa pagítan",
+   "en": "between",
+   "pos": "phrase",
+   "group": "place",
+   "say": "sa pa-GI-tan"
+  },
+  {
+   "id": "sa-likuran-l26",
+   "tl": "sa likurán",
+   "en": "behind",
+   "pos": "phrase",
+   "group": "place",
+   "say": "sa li-ku-RAN"
+  },
+  {
+   "id": "sa-ibaba-l26",
+   "tl": "sa ibabâ",
+   "en": "below / downstairs",
+   "pos": "phrase",
+   "group": "place",
+   "say": "sa i-ba-baQ"
+  },
+  {
+   "id": "sa-may-l26",
+   "tl": "sa may",
+   "en": "near, about (sa + may)",
+   "pos": "phrase",
+   "group": "near"
+  },
+  {
+   "id": "galing-sa-l26",
+   "tl": "gáling sa",
+   "en": "from (where a person has been)",
+   "pos": "phrase",
+   "group": "from",
+   "say": "GA-ling sa"
+  },
+  {
+   "id": "mula-sa-l26",
+   "tl": "mulâ sa",
+   "en": "from (also for a hometown, and for time)",
+   "pos": "phrase",
+   "group": "from",
+   "say": "mu-laQ sa",
+   "note": "The book once writes mula without the mark."
+  },
+  {
+   "id": "buhat-sa-l26",
+   "tl": "búhat sa",
+   "en": "from (also for a hometown, and for time)",
+   "pos": "phrase",
+   "group": "from",
+   "say": "BU-hat sa"
+  },
+  {
+   "id": "hanggang-l26",
+   "tl": "hanggáng",
+   "en": "until",
+   "pos": "other",
+   "group": "from",
+   "say": "hang-GANG"
+  },
+  {
+   "id": "noon-l26",
+   "tl": "noón",
+   "en": "then (literally)",
+   "pos": "other",
+   "group": "from",
+   "say": "no-ON"
+  },
+  {
+   "id": "minuto-l26",
+   "tl": "minuto",
+   "en": "minute",
+   "pos": "noun",
+   "group": "trip"
+  },
+  {
+   "id": "pinya-l26",
+   "tl": "pinyá",
+   "en": "pineapple",
+   "pos": "noun",
+   "group": "trip",
+   "say": "pin-YA"
+  },
+  {
+   "id": "lawa-l26",
+   "tl": "lawà",
+   "en": "lake",
+   "pos": "noun",
+   "group": "trip",
+   "say": "LA-waQ"
+  },
+  {
+   "id": "buko-l26",
+   "tl": "buko",
+   "en": "young coconut",
+   "pos": "noun",
+   "group": "trip"
+  },
+  {
+   "id": "larawan-l26",
+   "tl": "laráwan",
+   "en": "pictures",
+   "pos": "noun",
+   "group": "trip",
+   "say": "la-RA-wan"
+  },
+  {
+   "id": "usok-l26",
+   "tl": "úsok",
+   "en": "smoke",
+   "pos": "noun",
+   "group": "trip",
+   "say": "U-sok"
+  },
+  {
+   "id": "tuktok-l26",
+   "tl": "tuktók",
+   "en": "top",
+   "pos": "noun",
+   "group": "trip",
+   "say": "tuk-TOK",
+   "note": "The book's list gives tuktók; itaás for top."
+  },
+  {
+   "id": "daan-l26",
+   "tl": "daán",
+   "en": "road",
+   "pos": "noun",
+   "group": "trip",
+   "say": "da-AN"
+  },
+  {
+   "id": "biyahe-l26",
+   "tl": "biyahe",
+   "en": "travel",
+   "pos": "noun",
+   "group": "trip"
+  },
+  {
+   "id": "tanawin-l26",
+   "tl": "tánáwin",
+   "en": "scenery",
+   "pos": "noun",
+   "group": "trip",
+   "say": "TA-NA-win"
+  },
+  {
+   "id": "damo-l26",
+   "tl": "damó",
+   "en": "grass",
+   "pos": "noun",
+   "group": "trip",
+   "say": "da-MO"
+  },
+  {
+   "id": "tubig-ng-niyog-l26",
+   "tl": "tubig ng niyóg",
+   "en": "juice (from young coconuts)",
+   "pos": "phrase",
+   "group": "trip"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "How many English prepositions can sa stand for in this lesson's main list?",
+   "options": [
+    "nine",
+    "three",
+    "one"
+   ],
+   "answer": "nine",
+   "explain": "In, to, from, for, on, into, over, through and at."
+  },
+  {
+   "type": "choice",
+   "q": "\"Tumalón ang aso sa ilog.\" Here sa means…",
+   "options": [
+    "into",
+    "from",
+    "at"
+   ],
+   "answer": "into",
+   "explain": "The dog jumped into the river."
+  },
+  {
+   "type": "choice",
+   "q": "\"Gáling kamí sa Baguio.\" Here sa means…",
+   "options": [
+    "from",
+    "into",
+    "over"
+   ],
+   "answer": "from",
+   "explain": "We came from Baguio."
+  },
+  {
+   "type": "choice",
+   "q": "\"Aawit siya sa radyo.\" Here sa means…",
+   "options": [
+    "over",
+    "beside",
+    "from"
+   ],
+   "answer": "over",
+   "explain": "She will sing over the radio."
+  },
+  {
+   "type": "choice",
+   "q": "\"Nagdaán siyá sa bintanà.\" Here sa means…",
+   "options": [
+    "through",
+    "from",
+    "for"
+   ],
+   "answer": "through",
+   "explain": "He passed through the window."
+  },
+  {
+   "type": "choice",
+   "q": "\"Ang aklát sa mesa ay bago.\" Here sa means…",
+   "options": [
+    "on",
+    "from",
+    "through"
+   ],
+   "answer": "on",
+   "explain": "The book on the table is new."
+  },
+  {
+   "type": "choice",
+   "q": "Which phrase means behind?",
+   "options": [
+    "sa likurán",
+    "sa haráp",
+    "sa loób"
+   ],
+   "answer": "sa likurán",
+   "explain": "Lumákad sa likurán ng dyip ang tao."
+  },
+  {
+   "type": "choice",
+   "q": "Which phrase means in the middle?",
+   "options": [
+    "sa gitnâ",
+    "sa tabí",
+    "sa labás"
+   ],
+   "answer": "sa gitnâ",
+   "explain": "Ang batà ay umupô sa gitnâ."
+  },
+  {
+   "type": "choice",
+   "q": "Which phrase means between?",
+   "options": [
+    "sa pagítan",
+    "sa itaás",
+    "sa ibabâ"
+   ],
+   "answer": "sa pagítan",
+   "explain": "Táyo ay nása pagítan ng lángit at lupà."
+  },
+  {
+   "type": "choice",
+   "q": "What does sa may mean?",
+   "options": [
+    "near or about",
+    "inside",
+    "until"
+   ],
+   "answer": "near or about",
+   "explain": "Use it when you are not sure exactly where someone or something is."
+  },
+  {
+   "type": "choice",
+   "q": "When answering a násaán question, sa changes to…",
+   "options": [
+    "nása",
+    "may",
+    "kay"
+   ],
+   "answer": "nása",
+   "explain": "Nása loób, nása likurán."
+  },
+  {
+   "type": "choice",
+   "q": "To point out someone's hometown, which pair may be used?",
+   "options": [
+    "mulâ sa and búhat sa",
+    "gáling sa and mulâ sa",
+    "gáling sa and búhat sa"
+   ],
+   "answer": "mulâ sa and búhat sa",
+   "explain": "Siyá ay mulâ sa áming náyon."
+  },
+  {
+   "type": "choice",
+   "q": "Which word is NOT used for periods of time?",
+   "options": [
+    "gáling",
+    "mulâ",
+    "búhat"
+   ],
+   "answer": "gáling",
+   "explain": "For time, only mulâ and búhat apply, with hanggáng (until)."
+  },
+  {
+   "type": "choice",
+   "q": "What does hanggáng mean?",
+   "options": [
+    "until",
+    "from",
+    "then"
+   ],
+   "answer": "until",
+   "explain": "Mulâ sa Lunes hanggáng Biyernes: from Monday to Friday."
+  },
+  {
+   "type": "choice",
+   "q": "\"mulâ noón hanggáng sa ngayón\" means…",
+   "options": [
+    "since then until now",
+    "until now",
+    "from next week"
+   ],
+   "answer": "since then until now",
+   "explain": "Noón literally means then; ngayón means now."
+  },
+  {
+   "type": "choice",
+   "q": "\"Mulâ Lunes, umaga na ang klase námin.\" What has been left out?",
+   "options": [
+    "sa",
+    "ng",
+    "ay"
+   ],
+   "answer": "sa",
+   "explain": "Native speakers often omit sa in time phrases; it is still understood."
+  },
+  {
+   "type": "listen",
+   "tl": "sa loób",
+   "options": [
+    "inside",
+    "outside",
+    "beside"
+   ],
+   "answer": "inside",
+   "explain": "Ang iná ay pumások sa loób ng báhay."
+  },
+  {
+   "type": "listen",
+   "tl": "sa haráp",
+   "options": [
+    "in front",
+    "behind",
+    "between"
+   ],
+   "answer": "in front",
+   "explain": "Silá ay nakatirá sa haráp ng áming páaralán."
+  },
+  {
+   "type": "listen",
+   "tl": "sa ibabâ",
+   "options": [
+    "below / downstairs",
+    "above, up",
+    "in the middle"
+   ],
+   "answer": "below / downstairs",
+   "explain": "Nagpuntá sa ibabâ ang laláki."
+  },
+  {
+   "type": "listen",
+   "tl": "tumalón",
+   "options": [
+    "jumped",
+    "climbed",
+    "dumped"
+   ],
+   "answer": "jumped",
+   "explain": "Tumalón ang aso sa ilog."
+  },
+  {
+   "type": "listen",
+   "tl": "sálu-salo",
+   "options": [
+    "party",
+    "program",
+    "classroom"
+   ],
+   "answer": "party",
+   "explain": "Nagbigáy ako ng sálu-salo para sa áking kaibígan."
+  },
+  {
+   "type": "listen",
+   "tl": "tánáwin",
+   "options": [
+    "scenery",
+    "smoke",
+    "grass"
+   ],
+   "answer": "scenery",
+   "explain": "The scenery (tánáwin) was very beautiful."
+  },
+  {
+   "type": "build",
+   "en": "We came from Baguio.",
+   "tl": "Gáling kamí sa Baguio.",
+   "tokens": [
+    "gáling",
+    "kamí",
+    "sa",
+    "baguio"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Sit beside me.",
+   "tl": "Umupô ka sa tabí ko.",
+   "tokens": [
+    "umupô",
+    "ka",
+    "sa",
+    "tabí",
+    "ko"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The dog jumped into the river.",
+   "tl": "Tumalón ang aso sa ilog.",
+   "tokens": [
+    "tumalón",
+    "ang",
+    "aso",
+    "sa",
+    "ilog"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "She lives near Roxas Boulevard.",
+   "tl": "Siyá ay nakatirá sa may Roxas Boulevard.",
+   "tokens": [
+    "siyá",
+    "ay",
+    "nakatirá",
+    "sa",
+    "may",
+    "roxas",
+    "boulevard"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "He/She is from our town.",
+   "tl": "Siyá ay mulâ sa áming náyon.",
+   "tokens": [
+    "siyá",
+    "ay",
+    "mulâ",
+    "sa",
+    "áming",
+    "náyon"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "We are studying in the classroom.",
+   "tl": "Nag-áaral kamí sa silíd-aralán.",
+   "tokens": [
+    "nag-áaral",
+    "kamí",
+    "sa",
+    "silíd-aralán"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match each position phrase to its meaning.",
+   "pairs": [
+    [
+     "sa loób",
+     "inside"
+    ],
+    [
+     "sa labás",
+     "outside"
+    ],
+    [
+     "sa itaás",
+     "above, up"
+    ],
+    [
+     "sa tabí",
+     "beside"
+    ],
+    [
+     "sa likurán",
+     "behind"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each word to its meaning.",
+   "pairs": [
+    [
+     "pinyá",
+     "pineapple"
+    ],
+    [
+     "lawà",
+     "lake"
+    ],
+    [
+     "úsok",
+     "smoke"
+    ],
+    [
+     "damó",
+     "grass"
+    ],
+    [
+     "buko",
+     "young coconut"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "Sa does the job of many English prepositions: in, to, from, for, on, into, over, through, at.",
+  "Sa + position word shows where: sa loób, sa labás, sa haráp, sa tabí, sa itaás, sa gitnâ, sa pagítan, sa likurán, sa ibabâ.",
+  "Sa turns into nása when answering násaán; sa may means near or about.",
+  "Gáling sa, mulâ sa and búhat sa mean from; only mulâ sa and búhat sa give a hometown.",
+  "For time use mulâ or búhat (from) with hanggáng (until); sa is often dropped."
+ ]
+}

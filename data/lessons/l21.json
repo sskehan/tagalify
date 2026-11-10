@@ -1,0 +1,1560 @@
+{
+ "id": "l21",
+ "label": "21",
+ "title": "Expressing thoughts and actions",
+ "summary": "Saying what you think with tila, sa akalà, sa palagáy and isip, and saying where you go and what you did with pumuntá and other verbs",
+ "minutes": 35,
+ "goals": [
+  "Use tila (it seems) at the start of a sentence",
+  "Give an opinion with sa akalà ko and sa palagáy ko",
+  "Know the difference in feeling between sa akalà and sa palagáy",
+  "Use umisip, mag-isíp and isípin for real thinking",
+  "Use pumuntá for going to a place, and the plain verb for go swimming, go to sleep"
+ ],
+ "sections": [
+  {
+   "title": "Three ways to say I think",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "When Filipinos express their thoughts and actions, they use the words **tila**, **akalà** and **isip**, which all simply mean *to think* in English. For actions they use **pumuntá** (*to go*) and many other verbs to say what they **did**, **are doing** and **will do**."
+    },
+    {
+     "type": "p",
+     "t": "The English *to think* can be translated in **three ways**. All three show opinions, ideas and assumptions, and in a sentence they all mean much the same: *I think, he/she thinks, they/we think*. On their own, though, each has its own meaning:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Word",
+      "What it is",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[tila|other]]",
+       "an adverb",
+       "*it seems*"
+      ],
+      [
+       "[[sa|marker]] [[akalà|noun]]",
+       "a preposition",
+       "*to my thinking* (literal); *to assume*"
+      ],
+      [
+       "[[sa|marker]] [[palagáy|noun]]",
+       "a preposition",
+       "*to my thinking* (literal); *to have an opinion*"
+      ]
+     ],
+     "title": "Tila, sa akalà and sa palagáy"
+    },
+    {
+     "type": "h",
+     "t": "How the phrases are built"
+    },
+    {
+     "type": "pattern",
+     "title": "Two patterns",
+     "rows": [
+      {
+       "label": "Tila",
+       "chips": [
+        {
+         "t": "tila",
+         "r": "other"
+        },
+        {
+         "t": "verb / adjective / pronoun",
+         "r": "pred"
+        }
+       ]
+      },
+      {
+       "label": "Sa akalà / sa palagáy",
+       "chips": [
+        {
+         "t": "sa",
+         "r": "marker"
+        },
+        {
+         "t": "akalà / palagáy",
+         "r": "noun"
+        },
+        {
+         "t": "ko, niyá, ni Jay…",
+         "r": "poss"
+        }
+       ]
+      }
+     ],
+     "note": "Tila + a verb, an adjective or a nominative pronoun such as silá or ikáw. Sa + akalà or palagáy + a possessive noun or pronoun."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Owner word",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[ni|marker]] Jay",
+       "of Jay"
+      ],
+      [
+       "[[ko|poss]]",
+       "my"
+      ],
+      [
+       "[[niyá|poss]]",
+       "his/her"
+      ],
+      [
+       "[[nilá|poss]]",
+       "their"
+      ],
+      [
+       "[[mo|poss]]",
+       "your"
+      ],
+      [
+       "[[ng|marker]] [[lahat|other]]",
+       "of everybody"
+      ]
+     ],
+     "title": "Possessive words that can follow sa akalà / sa palagáy",
+     "note": "These are the possessive forms from Lesson 8."
+    },
+    {
+     "type": "vocab",
+     "group": "think",
+     "title": "Words for thinking"
+    }
+   ]
+  },
+  {
+   "title": "Tila: it seems",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Tila** is mostly placed at the **beginning of a sentence** in everyday conversation. It always shows the **speaker's own perception**: this is how things look to me."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Tila úulan.",
+       "en": "It seems it will rain.",
+       "parts": [
+        [
+         "Tila",
+         "it seems",
+         "other"
+        ],
+        [
+         "úulan",
+         "will rain",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang sagot niyá ay tila mali.",
+       "en": "His/her answer seems wrong.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "sagot",
+         "answer",
+         "noun"
+        ],
+        [
+         "niyá",
+         "his/her",
+         "poss"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "tila",
+         "seems",
+         "other"
+        ],
+        [
+         "mali",
+         "wrong",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Tila siya'y lalong magandá ngayon.",
+       "en": "She seems prettier now.",
+       "parts": [
+        [
+         "Tila",
+         "it seems",
+         "other"
+        ],
+        [
+         "siya'y",
+         "she + ay",
+         "pron"
+        ],
+        [
+         "lalong",
+         "more +ng",
+         "other"
+        ],
+        [
+         "magandá",
+         "pretty",
+         "pred"
+        ],
+        [
+         "ngayon",
+         "now",
+         "other"
+        ]
+       ]
+      }
+     ],
+     "title": "Tila"
+    }
+   ]
+  },
+  {
+   "title": "Sa akalà and sa palagáy: to my thinking",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Sa akalà** and **sa palagáy** are followed by a **noun or pronoun in the possessive form**, such as **ni Coi**, **niyá** or **mo**. The book gives a literal translation (*to my thinking*) and a natural one (*I think*)."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Sa akalà ko ikaw ay matalíno.",
+       "en": "To my thinking, you are an intelligent man. (literal) I think you are an intelligent man.",
+       "parts": [
+        [
+         "Sa",
+         "to",
+         "marker"
+        ],
+        [
+         "akalà",
+         "thinking",
+         "noun"
+        ],
+        [
+         "ko",
+         "my",
+         "poss"
+        ],
+        [
+         "ikaw",
+         "you",
+         "pron"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "matalíno",
+         "intelligent",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Sa palagáy ko ay mananálo tayo.",
+       "en": "To my thinking, we will win. (literal) I think we will win.",
+       "parts": [
+        [
+         "Sa",
+         "to",
+         "marker"
+        ],
+        [
+         "palagáy",
+         "opinion",
+         "noun"
+        ],
+        [
+         "ko",
+         "my",
+         "poss"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "mananálo",
+         "will win",
+         "pred"
+        ],
+        [
+         "tayo",
+         "we (incl. you)",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Sa akalà nila, siyá'y may sakít.",
+       "en": "To their thinking, he is sick. (literal) They think he is sick.",
+       "parts": [
+        [
+         "Sa",
+         "to",
+         "marker"
+        ],
+        [
+         "akalà",
+         "thinking",
+         "noun"
+        ],
+        [
+         "nila",
+         "their",
+         "poss"
+        ],
+        [
+         "siyá'y",
+         "he + ay",
+         "pron"
+        ],
+        [
+         "may",
+         "has",
+         "other"
+        ],
+        [
+         "sakít",
+         "sickness",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Sa palagáy ni Gem ay tama ako.",
+       "en": "To Gem's thinking, I am right. (literal) Gem thinks I am right.",
+       "parts": [
+        [
+         "Sa",
+         "to",
+         "marker"
+        ],
+        [
+         "palagáy",
+         "opinion",
+         "noun"
+        ],
+        [
+         "ni",
+         "of",
+         "marker"
+        ],
+        [
+         "Gem",
+         "Gem",
+         "noun"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "tama",
+         "right",
+         "pred"
+        ],
+        [
+         "ako",
+         "I",
+         "pron"
+        ]
+       ]
+      }
+     ],
+     "title": "Sa akalà and sa palagáy"
+    },
+    {
+     "type": "h",
+     "t": "Two different feelings"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Phrase",
+      "What it suggests to a Tagalog speaker"
+     ],
+     "rows": [
+      [
+       "[[sa akalà|noun]]",
+       "An **assumption** that may be proven wrong. It leaves room for someone to agree or disagree."
+      ],
+      [
+       "[[sa palagáy|noun]]",
+       "A **personal opinion**."
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "t": "Because of this, **Sa akalà ko ikaw ay matalíno** can mean *I thought you were intelligent*, which somehow takes away from the person's intelligence as the speaker saw it. In the same way, **Akalà ko Amerikáno siyá** (*I thought he is an American*) cancels an earlier assumption."
+    },
+    {
+     "type": "h",
+     "t": "Shorter ways to say it"
+    },
+    {
+     "type": "p",
+     "t": "Tagalog speakers sometimes **leave out sa** before akalà, **replace sa with ang**, and **leave out the linking word ay**. These shorter sentences are still correct:"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Sa akalà ko ay Amerikáno siyá.",
+       "en": "To my thinking, he is an American.",
+       "parts": [
+        [
+         "Sa",
+         "to",
+         "marker"
+        ],
+        [
+         "akalà",
+         "thinking",
+         "noun"
+        ],
+        [
+         "ko",
+         "my",
+         "poss"
+        ],
+        [
+         "ay",
+         "(links)",
+         "ay"
+        ],
+        [
+         "Amerikáno",
+         "American",
+         "pred"
+        ],
+        [
+         "siyá",
+         "he",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Akalà ko Amerikáno siyá.",
+       "en": "To my thinking, he is an American.",
+       "parts": [
+        [
+         "Akalà",
+         "thinking",
+         "noun"
+        ],
+        [
+         "ko",
+         "my",
+         "poss"
+        ],
+        [
+         "Amerikáno",
+         "American",
+         "pred"
+        ],
+        [
+         "siyá",
+         "he",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang akalà ko Amerikáno siyá.",
+       "en": "My assumption is that he is an American.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "akalà",
+         "assumption",
+         "noun"
+        ],
+        [
+         "ko",
+         "my",
+         "poss"
+        ],
+        [
+         "Amerikáno",
+         "American",
+         "pred"
+        ],
+        [
+         "siyá",
+         "he",
+         "pron"
+        ]
+       ]
+      }
+     ],
+     "title": "From full to short"
+    },
+    {
+     "type": "box",
+     "kind": "culture",
+     "title": "In my view",
+     "t": "An informal way to say *to think*, close to **sa palagáy [ko]**, is **sa tingín [ko]**, which roughly means *in [my] view*."
+    }
+   ]
+  },
+  {
+   "title": "Isip: real thinking",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "When *to think* means **to do some real thinking** or **to ponder over something**, Tagalog uses **umisip** or **mag-isíp** (active forms) or **isípin** (passive form). You met -um-, mag- and -in verbs in Lessons 14 and 15."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Word",
+      "Type"
+     ],
+     "rows": [
+      [
+       "-um- verb",
+       "[[umisip|pred]]",
+       "active"
+      ],
+      [
+       "mag- verb",
+       "[[mag-isíp|pred]]",
+       "active"
+      ],
+      [
+       "-in verb",
+       "[[isípin|pred]]",
+       "passive"
+      ]
+     ],
+     "title": "To think, to ponder"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Umiísip siyá ng lálong mabúting paraán.",
+       "en": "He is thinking of a better way.",
+       "parts": [
+        [
+         "Umiísip",
+         "is thinking",
+         "pred"
+        ],
+        [
+         "siyá",
+         "he",
+         "pron"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "lálong",
+         "more +ng",
+         "other"
+        ],
+        [
+         "mabúting",
+         "good +ng",
+         "pred"
+        ],
+        [
+         "paraán",
+         "way",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Iniísip niyá ang kanyáng mga sinásabi.",
+       "en": "She thinks about what she says.",
+       "parts": [
+        [
+         "Iniísip",
+         "thinks about",
+         "pred"
+        ],
+        [
+         "niyá",
+         "she",
+         "poss"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "kanyáng",
+         "her",
+         "poss"
+        ],
+        [
+         "mga",
+         "plural",
+         "marker"
+        ],
+        [
+         "sinásabi",
+         "things said",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Mag-isíp ka ng magagawâ.",
+       "en": "(You) Think of what can be done.",
+       "parts": [
+        [
+         "Mag-isíp",
+         "think",
+         "pred"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "magagawâ",
+         "what can be done",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Isip in sentences"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Active and passive",
+     "items": [
+      "**Umiísip siyá** (active): the doer siyá is the subject.",
+      "**Iniísip niyá** (passive): the doer becomes niyá, and the thing thought about takes **ang**.",
+      "**Mag-isíp ka** is an order: Think!"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Pumuntá: to go to a place",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "To simply show **direction** or where someone is going, **pumuntá** is the exact translation of *to go*. It can also mean **to come**, as in the first example below. Used this way, pumuntá has an **imperative form** and all the tenses of the **-um-** and **mag-** forms."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Pumuntá ka díto.",
+       "en": "Come here. (imperative)",
+       "parts": [
+        [
+         "Pumuntá",
+         "go / come",
+         "pred"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ],
+        [
+         "díto",
+         "here",
+         "other"
+        ]
+       ]
+      },
+      {
+       "tl": "Pumuntá ka doón.",
+       "en": "Go there. (imperative)",
+       "parts": [
+        [
+         "Pumuntá",
+         "go",
+         "pred"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ],
+        [
+         "doón",
+         "there",
+         "other"
+        ]
+       ]
+      },
+      {
+       "tl": "Pupuntá kamí sa simbáhan.",
+       "en": "We will go to church. (future)",
+       "parts": [
+        [
+         "Pupuntá",
+         "will go",
+         "pred"
+        ],
+        [
+         "kamí",
+         "we (not you)",
+         "pron"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "simbáhan",
+         "church",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Pumuntá silá sa tabíng-dágat.",
+       "en": "They went to the beach. (past)",
+       "parts": [
+        [
+         "Pumuntá",
+         "went",
+         "pred"
+        ],
+        [
+         "silá",
+         "they",
+         "pron"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "tabíng-dágat",
+         "beach",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Pumupuntá siyá sa Mayníla áraw-áraw.",
+       "en": "He/She goes to Manila everyday. (present)",
+       "parts": [
+        [
+         "Pumupuntá",
+         "goes",
+         "pred"
+        ],
+        [
+         "siyá",
+         "he/she",
+         "pron"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "Mayníla",
+         "Manila",
+         "noun"
+        ],
+        [
+         "áraw-áraw",
+         "everyday",
+         "other"
+        ]
+       ]
+      }
+     ],
+     "title": "Pumuntá in every tense"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Tense",
+      "Form"
+     ],
+     "rows": [
+      [
+       "Imperative / past",
+       "[[pumuntá|pred]]"
+      ],
+      [
+       "Present",
+       "[[pumupuntá|pred]]"
+      ],
+      [
+       "Future",
+       "[[pupuntá|pred]]"
+      ]
+     ],
+     "title": "The forms of pumuntá in the examples"
+    },
+    {
+     "type": "vocab",
+     "group": "go",
+     "title": "Going places"
+    }
+   ]
+  },
+  {
+   "title": "Go plus another verb",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "English also uses *go* in front of another verb: *went swimming*, *will go to sleep*. Tagalog has **no exact translation** for this. Instead, it uses the **second verb only**, in the right tense or in the imperative."
+    },
+    {
+     "type": "table",
+     "head": [
+      "English",
+      "Tagalog"
+     ],
+     "rows": [
+      [
+       "went swimming",
+       "[[lumangóy|pred]] only"
+      ],
+      [
+       "will go to sleep",
+       "[[matutulog|pred]]"
+      ]
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "No auxiliary go",
+     "t": "Tagalog does **not** really use pumuntá together with another verb the way English uses *to go* as a helper verb. The English sentence shows the tense on *go*; the Tagalog sentence shows the tense on the main verb only."
+    },
+    {
+     "type": "p",
+     "t": "Sentences like these are the usual answers to questions such as:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Question",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Anó ang ginawâ mo?",
+       "What did you do?"
+      ],
+      [
+       "Anó ang ginágawâ mo?",
+       "What are you doing?"
+      ],
+      [
+       "Anó ang gágawin mo?",
+       "What will you do?"
+      ]
+     ],
+     "title": "What did / are / will you do?"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Maglákad ka.",
+       "en": "You go to walk (or You walk). (imperative)",
+       "parts": [
+        [
+         "Maglákad",
+         "walk",
+         "pred"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Lalangóy kamí.",
+       "en": "We will go swimming. (future)",
+       "parts": [
+        [
+         "Lalangóy",
+         "will swim",
+         "pred"
+        ],
+        [
+         "kamí",
+         "we (not you)",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Dumálaw kamí sa isáng kaibígan.",
+       "en": "We went to visit a friend. (past)",
+       "parts": [
+        [
+         "Dumálaw",
+         "visited",
+         "pred"
+        ],
+        [
+         "kamí",
+         "we (not you)",
+         "pron"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "isáng",
+         "one/a +ng",
+         "other"
+        ],
+        [
+         "kaibígan",
+         "friend",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Natútúlog sila sa kabilâng kuwarto.",
+       "en": "They are sleeping in the next room. (present)",
+       "parts": [
+        [
+         "Natútúlog",
+         "are sleeping",
+         "pred"
+        ],
+        [
+         "sila",
+         "they",
+         "pron"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "kabilâng",
+         "next +ng",
+         "other"
+        ],
+        [
+         "kuwarto",
+         "room",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Only the main verb changes"
+    },
+    {
+     "type": "vocab",
+     "group": "ask",
+     "title": "Asking about actions"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "Tila (it seems) usually starts a sentence and shows the speaker's own perception.",
+      "Sa akalà / sa palagáy + a possessive: sa akalà ko, sa palagáy ni Gem.",
+      "Sa akalà is an assumption that may be wrong; sa palagáy is a personal opinion. Informal: sa tingín ko.",
+      "Real thinking: umisip, mag-isíp (active), isípin (passive).",
+      "Pumuntá = go to a place (also come). For go + verb, use the second verb alone: lumangóy, matutulog."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "tila-l21",
+   "tl": "tila",
+   "en": "it seems (an adverb)",
+   "pos": "adv",
+   "group": "think",
+   "note": "The book also writes tíla (in the exercise instructions)."
+  },
+  {
+   "id": "sa-akala-l21",
+   "tl": "sa akalà",
+   "en": "to my thinking (literal); to assume",
+   "pos": "phrase",
+   "group": "think",
+   "say": "sa a-KA-laQ",
+   "note": "The book also writes akalá and akala. Ang akalà ko = my assumption."
+  },
+  {
+   "id": "sa-palagay-l21",
+   "tl": "sa palagáy",
+   "en": "to my thinking (literal); to have an opinion",
+   "pos": "phrase",
+   "group": "think",
+   "say": "sa pa-la-GAY",
+   "note": "The book also writes sa palágay once."
+  },
+  {
+   "id": "palagay-l21",
+   "tl": "palagáy",
+   "en": "opinion",
+   "pos": "noun",
+   "group": "think",
+   "say": "pa-la-GAY"
+  },
+  {
+   "id": "sa-tingin-l21",
+   "tl": "sa tingín",
+   "en": "in (my) view (informal, like sa palagáy)",
+   "pos": "phrase",
+   "group": "think",
+   "say": "sa ti-NGIN"
+  },
+  {
+   "id": "umisip-l21",
+   "tl": "umisip",
+   "en": "to think (active form)",
+   "pos": "verb",
+   "group": "think"
+  },
+  {
+   "id": "isipin-l21",
+   "tl": "isípin",
+   "en": "to think (passive form)",
+   "pos": "verb",
+   "group": "think",
+   "say": "i-SI-pin"
+  },
+  {
+   "id": "amerikano-l21",
+   "tl": "Amerikáno",
+   "en": "American",
+   "pos": "noun",
+   "group": "think",
+   "say": "a-me-ri-KA-no"
+  },
+  {
+   "id": "paraan-l21",
+   "tl": "paraán",
+   "en": "way",
+   "pos": "noun",
+   "group": "think",
+   "say": "pa-ra-AN"
+  },
+  {
+   "id": "mananalo-l21",
+   "tl": "mananálo",
+   "en": "will win",
+   "pos": "verb",
+   "group": "think",
+   "say": "ma-na-NA-lo"
+  },
+  {
+   "id": "pupunta-l21",
+   "tl": "pupuntá",
+   "en": "will go",
+   "pos": "verb",
+   "group": "go",
+   "say": "pu-pun-TA"
+  },
+  {
+   "id": "pumupunta-l21",
+   "tl": "pumupuntá",
+   "en": "goes (present tense of pumuntá)",
+   "pos": "verb",
+   "group": "go",
+   "say": "pu-mu-pun-TA"
+  },
+  {
+   "id": "tabing-dagat-l21",
+   "tl": "tabíng-dágat",
+   "en": "beach",
+   "pos": "noun",
+   "group": "go",
+   "say": "ta-BING-DA-gat"
+  },
+  {
+   "id": "langoy-l21",
+   "tl": "langóy",
+   "en": "to swim",
+   "pos": "verb",
+   "group": "go",
+   "say": "la-NGOY"
+  },
+  {
+   "id": "lalangoy-l21",
+   "tl": "lalangóy",
+   "en": "will go swimming",
+   "pos": "verb",
+   "group": "go",
+   "say": "la-la-NGOY"
+  },
+  {
+   "id": "matutulog-l21",
+   "tl": "matutulog",
+   "en": "will go to sleep",
+   "pos": "verb",
+   "group": "go"
+  },
+  {
+   "id": "dumalaw-l21",
+   "tl": "dumálaw",
+   "en": "visited",
+   "pos": "verb",
+   "group": "go",
+   "say": "du-MA-law"
+  },
+  {
+   "id": "ano-ginawa-l21",
+   "tl": "Anó ang ginawâ mo?",
+   "en": "What did you do?",
+   "pos": "expr",
+   "group": "ask"
+  },
+  {
+   "id": "ano-ginagawa-l21",
+   "tl": "Anó ang ginágawâ mo?",
+   "en": "What are you doing?",
+   "pos": "expr",
+   "group": "ask"
+  },
+  {
+   "id": "ano-gagawin-l21",
+   "tl": "Anó ang gágawin mo?",
+   "en": "What will you do?",
+   "pos": "expr",
+   "group": "ask"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Which word is an adverb meaning \"it seems\"?",
+   "options": [
+    "tila",
+    "palagáy",
+    "isípin"
+   ],
+   "answer": "tila",
+   "explain": "Tila = it seems."
+  },
+  {
+   "type": "choice",
+   "q": "Where is tila mostly placed in everyday conversation?",
+   "options": [
+    "At the beginning of the sentence",
+    "At the end of the sentence",
+    "After ko"
+   ],
+   "answer": "At the beginning of the sentence",
+   "explain": "Tila úulan. It seems it will rain."
+  },
+  {
+   "type": "choice",
+   "q": "Tila always shows…",
+   "options": [
+    "the speaker's own perception",
+    "someone else's opinion",
+    "an order"
+   ],
+   "answer": "the speaker's own perception",
+   "explain": "Tila is how things seem to the speaker."
+  },
+  {
+   "type": "choice",
+   "q": "What follows sa akalà or sa palagáy?",
+   "options": [
+    "a possessive noun or pronoun",
+    "a nominative pronoun such as ikáw",
+    "a verb in the future"
+   ],
+   "answer": "a possessive noun or pronoun",
+   "explain": "Sa akalà ko, sa palagáy ni Gem."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: Sa palagáy ___ ay mananálo tayo. (I think we will win.)",
+   "options": [
+    "ko",
+    "akó",
+    "ikaw"
+   ],
+   "answer": "ko",
+   "explain": "Ko is the possessive form needed after palagáy."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: Sa palagáy ___ Gem ay tama ako. (Gem thinks I am right.)",
+   "options": [
+    "ni",
+    "si",
+    "ng"
+   ],
+   "answer": "ni",
+   "explain": "Ni goes before a name in the possessive."
+  },
+  {
+   "type": "choice",
+   "q": "\"Sa akalà nila, siyá'y may sakít\" means…",
+   "options": [
+    "They think he is sick.",
+    "He thinks they are sick.",
+    "It seems he will be sick."
+   ],
+   "answer": "They think he is sick.",
+   "explain": "Nila = their: to their thinking."
+  },
+  {
+   "type": "choice",
+   "q": "Which phrase leaves room for the assumption to be proven wrong?",
+   "options": [
+    "sa akalà",
+    "sa palagáy",
+    "sa tingín"
+   ],
+   "answer": "sa akalà",
+   "explain": "Sa akalà is an assumption; sa palagáy is a personal opinion."
+  },
+  {
+   "type": "choice",
+   "q": "\"Akalà ko Amerikáno siyá\" is best understood as…",
+   "options": [
+    "I thought he is an American.",
+    "He thinks I am an American.",
+    "He seems to be an American."
+   ],
+   "answer": "I thought he is an American.",
+   "explain": "It cancels a previous assumption."
+  },
+  {
+   "type": "choice",
+   "q": "\"Ang akalà ko Amerikáno siyá\" means…",
+   "options": [
+    "My assumption is that he is an American.",
+    "My American is here.",
+    "He is my American friend."
+   ],
+   "answer": "My assumption is that he is an American.",
+   "explain": "Sa is replaced by ang, and ay is left out."
+  },
+  {
+   "type": "choice",
+   "q": "Which informal phrase is similar to sa palagáy ko?",
+   "options": [
+    "sa tingín ko",
+    "tila ko",
+    "mag-isíp ko"
+   ],
+   "answer": "sa tingín ko",
+   "explain": "Sa tingín ko roughly means in my view."
+  },
+  {
+   "type": "choice",
+   "q": "Which is the passive form of \"to think\"?",
+   "options": [
+    "isípin",
+    "umisip",
+    "mag-isíp"
+   ],
+   "answer": "isípin",
+   "explain": "Umisip and mag-isíp are active; isípin is passive."
+  },
+  {
+   "type": "choice",
+   "q": "\"Mag-isíp ka ng magagawâ\" means…",
+   "options": [
+    "(You) Think of what can be done.",
+    "He is thinking of a better way.",
+    "She thinks about what she says."
+   ],
+   "answer": "(You) Think of what can be done.",
+   "explain": "Mag-isíp ka is an order."
+  },
+  {
+   "type": "choice",
+   "q": "\"Pumuntá ka díto\" means…",
+   "options": [
+    "Come here.",
+    "Go there.",
+    "We will go to church."
+   ],
+   "answer": "Come here.",
+   "explain": "Pumuntá can also mean to come."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: ___ kamí sa simbáhan. (We will go to church.)",
+   "options": [
+    "Pupuntá",
+    "Pumuntá",
+    "Pumupuntá"
+   ],
+   "answer": "Pupuntá",
+   "explain": "Pupuntá is the future."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: ___ siyá sa Mayníla áraw-áraw. (He/She goes to Manila everyday.)",
+   "options": [
+    "Pumupuntá",
+    "Pupuntá",
+    "Pumuntá"
+   ],
+   "answer": "Pumupuntá",
+   "explain": "Pumupuntá is the present."
+  },
+  {
+   "type": "choice",
+   "q": "How does Tagalog say \"went swimming\"?",
+   "options": [
+    "lumangóy",
+    "pumuntá lumangóy",
+    "pupuntá langóy"
+   ],
+   "answer": "lumangóy",
+   "explain": "Only the second verb is used, in the right tense."
+  },
+  {
+   "type": "choice",
+   "q": "How does Tagalog say \"will go to sleep\"?",
+   "options": [
+    "matutulog",
+    "pupuntá matulog",
+    "pumuntá natútúlog"
+   ],
+   "answer": "matutulog",
+   "explain": "Tagalog does not use pumuntá as a helper verb."
+  },
+  {
+   "type": "choice",
+   "q": "\"Anó ang gágawin mo?\" means…",
+   "options": [
+    "What will you do?",
+    "What did you do?",
+    "What are you doing?"
+   ],
+   "answer": "What will you do?",
+   "explain": "Gágawin is the future."
+  },
+  {
+   "type": "listen",
+   "tl": "tabíng-dágat",
+   "options": [
+    "beach",
+    "church",
+    "room"
+   ],
+   "answer": "beach",
+   "explain": "Pumuntá silá sa tabíng-dágat."
+  },
+  {
+   "type": "listen",
+   "tl": "mananálo",
+   "options": [
+    "will win",
+    "will go",
+    "visited"
+   ],
+   "answer": "will win",
+   "explain": "Sa palagáy ko ay mananálo tayo."
+  },
+  {
+   "type": "listen",
+   "tl": "paraán",
+   "options": [
+    "way",
+    "opinion",
+    "friend"
+   ],
+   "answer": "way",
+   "explain": "Umiísip siyá ng lálong mabúting paraán."
+  },
+  {
+   "type": "listen",
+   "tl": "Tila úulan.",
+   "options": [
+    "It seems it will rain.",
+    "His/her answer seems wrong.",
+    "She seems prettier now."
+   ],
+   "answer": "It seems it will rain.",
+   "explain": "Tila = it seems."
+  },
+  {
+   "type": "build",
+   "en": "I think we will win.",
+   "tl": "Sa palagáy ko ay mananálo tayo.",
+   "tokens": [
+    "sa",
+    "palagáy",
+    "ko",
+    "ay",
+    "mananálo",
+    "tayo"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "His/her answer seems wrong.",
+   "tl": "Ang sagot niyá ay tila mali.",
+   "tokens": [
+    "ang",
+    "sagot",
+    "niyá",
+    "ay",
+    "tila",
+    "mali"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "They went to the beach.",
+   "tl": "Pumuntá silá sa tabíng-dágat.",
+   "tokens": [
+    "pumuntá",
+    "silá",
+    "sa",
+    "tabíng-dágat"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "We went to visit a friend.",
+   "tl": "Dumálaw kamí sa isáng kaibígan.",
+   "tokens": [
+    "dumálaw",
+    "kamí",
+    "sa",
+    "isáng",
+    "kaibígan"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "He is thinking of a better way.",
+   "tl": "Umiísip siyá ng lálong mabúting paraán.",
+   "tokens": [
+    "umiísip",
+    "siyá",
+    "ng",
+    "lálong",
+    "mabúting",
+    "paraán"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match each question to its meaning.",
+   "pairs": [
+    [
+     "Anó ang ginawâ mo?",
+     "What did you do?"
+    ],
+    [
+     "Anó ang ginágawâ mo?",
+     "What are you doing?"
+    ],
+    [
+     "Anó ang gágawin mo?",
+     "What will you do?"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each word to its meaning.",
+   "pairs": [
+    [
+     "tila",
+     "it seems"
+    ],
+    [
+     "palagáy",
+     "opinion"
+    ],
+    [
+     "dumálaw",
+     "visited"
+    ],
+    [
+     "pupuntá",
+     "will go"
+    ],
+    [
+     "lalangóy",
+     "will go swimming"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "Tila (it seems) usually starts a sentence: Tila úulan.",
+  "Sa akalà / sa palagáy + a possessive word = I think, he thinks…: Sa palagáy ko ay mananálo tayo.",
+  "Sa akalà is an assumption that may be wrong; sa palagáy is a personal opinion; sa tingín ko = in my view.",
+  "Real thinking: umisip or mag-isíp (active), isípin (passive).",
+  "Pumuntá = to go (or come) to a place: pumuntá, pumupuntá, pupuntá.",
+  "Go + verb uses the second verb only: Lalangóy kamí. We will go swimming."
+ ]
+}

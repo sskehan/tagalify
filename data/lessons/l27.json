@@ -1,0 +1,1492 @@
+{
+ "id": "l27",
+ "label": "27",
+ "title": "Para sa and para kay: for and to",
+ "summary": "Spotting the indirect object: para sa and para kay (for), sa and kay (to), and kina for two or more names",
+ "minutes": 30,
+ "goals": [
+  "Know what an indirect object is",
+  "Use para sa / sa before a pronoun, and para kay / kay before a person's name",
+  "Make sentences with no verb using itó and iyán",
+  "Use kina and para kina for two or more names"
+ ],
+ "sections": [
+  {
+   "title": "What is an indirect object?",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "An **indirect object** is a noun or pronoun. In English it answers one of these questions: *to whom?*, *to what?*, *for whom?* or *for what?*. In *He bought a book for me*, the indirect object is *me*."
+    },
+    {
+     "type": "p",
+     "t": "In Tagalog the indirect object is easy to spot, because it is always introduced by one of four prepositions: **[[para kay|marker]]**, **[[para sa|marker]]**, **[[kay|marker]]** and **[[sa|marker]]**."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Preposition",
+      "Means"
+     ],
+     "rows": [
+      [
+       "[[para sa|marker]], [[para kay|marker]]",
+       "for"
+      ],
+      [
+       "[[sa|marker]], [[kay|marker]]",
+       "to"
+      ]
+     ],
+     "title": "For and to"
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "Sa and kay are not interchangeable",
+     "items": [
+      "**para sa / sa** + possessive pronoun (+ ligature **-g** + noun, optional)",
+      "**para kay / kay** + proper name of a person"
+     ]
+    },
+    {
+     "type": "pattern",
+     "title": "The two formulas",
+     "rows": [
+      {
+       "label": "Pronoun",
+       "chips": [
+        {
+         "t": "para sa",
+         "r": "marker"
+        },
+        {
+         "t": "ákin",
+         "r": "poss"
+        }
+       ]
+      },
+      {
+       "label": "Pronoun + -g + noun",
+       "chips": [
+        {
+         "t": "para sa",
+         "r": "marker"
+        },
+        {
+         "t": "áking",
+         "r": "poss"
+        },
+        {
+         "t": "iná",
+         "r": "noun"
+        }
+       ]
+      },
+      {
+       "label": "Name",
+       "chips": [
+        {
+         "t": "para kay",
+         "r": "marker"
+        },
+        {
+         "t": "Mary",
+         "r": "noun"
+        }
+       ]
+      }
+     ],
+     "note": "for me / for my mother / for Mary"
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "Seen before",
+     "t": "You met the same split in Lesson 11: **káysa kay** goes before the name of a person, **káysa sa** before a place or thing."
+    }
+   ]
+  },
+  {
+   "title": "Sample sentences",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "In each sentence the indirect object phrase is the part with para sa, para kay, sa or kay."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Bumilí siyá ng aklát para sa ákin.",
+       "en": "He/She bought a book for me.",
+       "parts": [
+        [
+         "Bumilí",
+         "bought",
+         "pred"
+        ],
+        [
+         "siyá",
+         "he/she",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "aklát",
+         "book",
+         "noun"
+        ],
+        [
+         "para sa",
+         "for",
+         "marker"
+        ],
+        [
+         "ákin",
+         "me",
+         "poss"
+        ]
+       ]
+      },
+      {
+       "tl": "Bumilí siyá ng aklát para sa áking iná.",
+       "en": "He/She bought a book for my mother.",
+       "parts": [
+        [
+         "Bumilí",
+         "bought",
+         "pred"
+        ],
+        [
+         "siyá",
+         "he/she",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "aklát",
+         "book",
+         "noun"
+        ],
+        [
+         "para sa",
+         "for",
+         "marker"
+        ],
+        [
+         "áking",
+         "my",
+         "poss"
+        ],
+        [
+         "iná",
+         "mother",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Sumulat ako ng kuwento para sa mga batà.",
+       "en": "I wrote a story for the children.",
+       "parts": [
+        [
+         "Sumulat",
+         "wrote",
+         "pred"
+        ],
+        [
+         "ako",
+         "I",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "kuwento",
+         "story",
+         "noun"
+        ],
+        [
+         "para sa",
+         "for",
+         "marker"
+        ],
+        [
+         "mga",
+         "(plural)",
+         "marker"
+        ],
+        [
+         "batà",
+         "children",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Bumilí siyá ng aklát para kay Mary.",
+       "en": "He/She bought a book for Mary.",
+       "parts": [
+        [
+         "Bumilí",
+         "bought",
+         "pred"
+        ],
+        [
+         "siyá",
+         "he/she",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "aklát",
+         "book",
+         "noun"
+        ],
+        [
+         "para kay",
+         "for",
+         "marker"
+        ],
+        [
+         "Mary",
+         "Mary",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Magbayad kayó ng útang sa kanyá.",
+       "en": "Pay your debt to him.",
+       "parts": [
+        [
+         "Magbayad",
+         "pay",
+         "pred"
+        ],
+        [
+         "kayó",
+         "you",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "útang",
+         "debt",
+         "noun"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "kanyá",
+         "him",
+         "poss"
+        ]
+       ]
+      },
+      {
+       "tl": "Bumasa siyá sa ákin ng isang kuwento.",
+       "en": "He/She read to me a story.",
+       "parts": [
+        [
+         "Bumasa",
+         "read",
+         "pred"
+        ],
+        [
+         "siyá",
+         "he/she",
+         "pron"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "ákin",
+         "me",
+         "poss"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "isang",
+         "one +ng",
+         "noun"
+        ],
+        [
+         "kuwento",
+         "story",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Binasa niya ang páhayagan sa kanyáng amá.",
+       "en": "He/She read the newspaper to his father.",
+       "parts": [
+        [
+         "Binasa",
+         "read",
+         "pred"
+        ],
+        [
+         "niya",
+         "he/she",
+         "pron"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "páhayagan",
+         "newspaper",
+         "noun"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "kanyáng",
+         "his +ng",
+         "poss"
+        ],
+        [
+         "amá",
+         "father",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Dinalá ko ang aklát sa gurò.",
+       "en": "I brought the book to the teacher.",
+       "parts": [
+        [
+         "Dinalá",
+         "brought",
+         "pred"
+        ],
+        [
+         "ko",
+         "I",
+         "pron"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "aklát",
+         "book",
+         "noun"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "gurò",
+         "teacher",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Sumulat siyá kay Bob kahapon.",
+       "en": "He wrote to Bob yesterday.",
+       "parts": [
+        [
+         "Sumulat",
+         "wrote",
+         "pred"
+        ],
+        [
+         "siyá",
+         "he",
+         "pron"
+        ],
+        [
+         "kay",
+         "to",
+         "marker"
+        ],
+        [
+         "Bob",
+         "Bob",
+         "noun"
+        ],
+        [
+         "kahapon",
+         "yesterday",
+         "other"
+        ]
+       ]
+      }
+     ],
+     "title": "Para sa, para kay, sa, kay"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Notice",
+     "items": [
+      "**Para sa ákin** (for me) but **para kay Mary** (for Mary): pronoun → sa, name → kay.",
+      "**Áking iná**, **kanyáng amá**: the pronoun takes the ligature **-g** (áki**ng**, kanyá**ng**) before a noun.",
+      "The book's examples also put sa before nouns: **para sa mga batà**, **sa gurò**.",
+      "The book writes **kanyá** here; Lesson 8 wrote **kaniyá**. They are the same word."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "list",
+     "title": "Vocabulary list"
+    },
+    {
+     "type": "vocab",
+     "group": "words",
+     "title": "More words from the sentences"
+    }
+   ]
+  },
+  {
+   "title": "No verb needed",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Unlike English, a Tagalog sentence with an indirect object **does not need a verb**. Often the action is only implied, as in these sentences with the demonstrative pronouns **itó** (this) and **iyán** (that)."
+    },
+    {
+     "type": "p",
+     "t": "Each pair below shows two word orders. In either order the meaning stays the same, and there is still no verb."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Itó ay regalo ko para sa iyó.",
+       "en": "This is my gift for you.",
+       "parts": [
+        [
+         "Itó",
+         "this",
+         "pron"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "regalo",
+         "gift",
+         "noun"
+        ],
+        [
+         "ko",
+         "my",
+         "poss"
+        ],
+        [
+         "para sa",
+         "for",
+         "marker"
+        ],
+        [
+         "iyó",
+         "you",
+         "poss"
+        ]
+       ]
+      },
+      {
+       "tl": "Regalo ko itó para sa iyó.",
+       "en": "This is my gift for you.",
+       "parts": [
+        [
+         "Regalo",
+         "gift",
+         "noun"
+        ],
+        [
+         "ko",
+         "my",
+         "poss"
+        ],
+        [
+         "itó",
+         "this",
+         "pron"
+        ],
+        [
+         "para sa",
+         "for",
+         "marker"
+        ],
+        [
+         "iyó",
+         "you",
+         "poss"
+        ]
+       ]
+      },
+      {
+       "tl": "Iyán ay para sa kanilá.",
+       "en": "That is for them.",
+       "parts": [
+        [
+         "Iyán",
+         "that",
+         "pron"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "para sa",
+         "for",
+         "marker"
+        ],
+        [
+         "kanilá",
+         "them",
+         "poss"
+        ]
+       ]
+      },
+      {
+       "tl": "Para sa kanilá iyán.",
+       "en": "That is for them.",
+       "parts": [
+        [
+         "Para sa",
+         "for",
+         "marker"
+        ],
+        [
+         "kanilá",
+         "them",
+         "poss"
+        ],
+        [
+         "iyán",
+         "that",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Itó ay regalo ko kay Helen.",
+       "en": "This is my gift to Helen.",
+       "parts": [
+        [
+         "Itó",
+         "this",
+         "pron"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "regalo",
+         "gift",
+         "noun"
+        ],
+        [
+         "ko",
+         "my",
+         "poss"
+        ],
+        [
+         "kay",
+         "to",
+         "marker"
+        ],
+        [
+         "Helen",
+         "Helen",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Regalo ko itó kay Helen.",
+       "en": "This is my gift to Helen.",
+       "parts": [
+        [
+         "Regalo",
+         "gift",
+         "noun"
+        ],
+        [
+         "ko",
+         "my",
+         "poss"
+        ],
+        [
+         "itó",
+         "this",
+         "pron"
+        ],
+        [
+         "kay",
+         "to",
+         "marker"
+        ],
+        [
+         "Helen",
+         "Helen",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Sentences without a verb"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Two orders, one meaning",
+     "t": "**Itó ay regalo ko…** uses the ay order (Lesson 5). **Regalo ko itó…** puts the predicate first. Both mean *This is my gift…*."
+    }
+   ]
+  },
+  {
+   "title": "More than one person: kina",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "When the indirect object is **plural**, the plurality rule from Lesson 4 applies. With names, **para kay** and **kay** change to **[[para kina|marker]]** and **[[kina|marker]]**."
+    },
+    {
+     "type": "p",
+     "t": "Nothing changes with **para sa** or **sa**, because the pronouns already have plural forms of their own, such as **para sa kanila** or **sa amin**."
+    },
+    {
+     "type": "table",
+     "head": [
+      "One person",
+      "Two or more persons",
+      "Pronoun (no change)"
+     ],
+     "rows": [
+      [
+       "[[kay|marker]] Mary",
+       "[[kina|marker]] Peter at Johnny",
+       "[[sa|marker]] amin"
+      ],
+      [
+       "[[para kay|marker]] Mary",
+       "[[para kina|marker]] …",
+       "[[para sa|marker]] kanila"
+      ]
+     ],
+     "title": "Kay becomes kina"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Magbayad kayó kina G. at Gng. Smith.",
+       "en": "You pay to Mr. and Mrs. Smith.",
+       "parts": [
+        [
+         "Magbayad",
+         "pay",
+         "pred"
+        ],
+        [
+         "kayó",
+         "you",
+         "pron"
+        ],
+        [
+         "kina",
+         "to (2+ names)",
+         "marker"
+        ],
+        [
+         "G.",
+         "Mr.",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "Gng. Smith",
+         "Mrs. Smith",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Bumasa siyá kina Peter at Johnny.",
+       "en": "He read to Peter and Johnny.",
+       "parts": [
+        [
+         "Bumasa",
+         "read",
+         "pred"
+        ],
+        [
+         "siyá",
+         "he",
+         "pron"
+        ],
+        [
+         "kina",
+         "to (2+ names)",
+         "marker"
+        ],
+        [
+         "Peter",
+         "Peter",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "Johnny",
+         "Johnny",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Kina with two names"
+    },
+    {
+     "type": "h",
+     "t": "What you may hear informally"
+    },
+    {
+     "type": "p",
+     "t": "In informal speech some Filipinos say **sa kay**, **para sa kay**, **sa kina** and **para sa kina**. In the two pairs below, it is acceptable to leave out the **sa**."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Magbayad ka sa kina G. at Gng. Smith.",
+       "en": "You pay to Mr. and Mrs. Smith.",
+       "parts": [
+        [
+         "Magbayad",
+         "pay",
+         "pred"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ],
+        [
+         "sa kina",
+         "to (2+ names, informal)",
+         "marker"
+        ],
+        [
+         "G.",
+         "Mr.",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "Gng. Smith",
+         "Mrs. Smith",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Magbayad ka kina G. at Gng. Smith.",
+       "en": "You pay to Mr. and Mrs. Smith.",
+       "parts": [
+        [
+         "Magbayad",
+         "pay",
+         "pred"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ],
+        [
+         "kina",
+         "to (2+ names)",
+         "marker"
+        ],
+        [
+         "G.",
+         "Mr.",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "Gng. Smith",
+         "Mrs. Smith",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Bumasa siya sa kina Peter at Johnny.",
+       "en": "He read to Peter and Johnny.",
+       "parts": [
+        [
+         "Bumasa",
+         "read",
+         "pred"
+        ],
+        [
+         "siya",
+         "he",
+         "pron"
+        ],
+        [
+         "sa kina",
+         "to (2+ names, informal)",
+         "marker"
+        ],
+        [
+         "Peter",
+         "Peter",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "Johnny",
+         "Johnny",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Bumasa siya kina Peter at Johnny.",
+       "en": "He read to Peter and Johnny.",
+       "parts": [
+        [
+         "Bumasa",
+         "read",
+         "pred"
+        ],
+        [
+         "siya",
+         "he",
+         "pron"
+        ],
+        [
+         "kina",
+         "to (2+ names)",
+         "marker"
+        ],
+        [
+         "Peter",
+         "Peter",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "Johnny",
+         "Johnny",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "With and without sa"
+    },
+    {
+     "type": "vocab",
+     "group": "prep",
+     "title": "The prepositions"
+    }
+   ]
+  },
+  {
+   "title": "Practice from the book",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book asks you to find the whole prepositional phrase in each English sentence, then translate the sentence into Tagalog. It prints no answers, so the table only shows which formula from this lesson each phrase needs."
+    },
+    {
+     "type": "table",
+     "head": [
+      "English sentence",
+      "Phrase",
+      "Formula to use"
+     ],
+     "rows": [
+      [
+       "He wrote to me.",
+       "to me",
+       "sa + pronoun"
+      ],
+      [
+       "She cooked for us.",
+       "for us",
+       "para sa + pronoun"
+      ],
+      [
+       "The mother cooks the food for her children.",
+       "for her children",
+       "para sa + pronoun + -g + noun"
+      ],
+      [
+       "The boy brought the book to his mother.",
+       "to his mother",
+       "sa + pronoun + -g + noun"
+      ],
+      [
+       "These flowers are for Annie.",
+       "for Annie",
+       "para kay + name"
+      ],
+      [
+       "You sing for us.",
+       "for us",
+       "para sa + pronoun"
+      ],
+      [
+       "I shall sing for Mr. and Mrs. Brown.",
+       "for Mr. and Mrs. Brown",
+       "para kina + names"
+      ]
+     ],
+     "title": "Which formula?"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Also in the book's list",
+     "t": "The list also includes *He sold the shoes of John* and *She went with Charles to the Post Office*. Look for the phrases in them too. The book also asks you to write ten sentences with pronouns as indirect objects, then change the pronouns to names of persons (sa → kay, para sa → para kay)."
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "Para sa and para kay mean for; sa and kay mean to.",
+      "Sa / para sa + pronoun (+ -g + noun). Kay / para kay + a person's name.",
+      "A sentence with an indirect object may have no verb: Regalo ko itó para sa iyó.",
+      "Two or more names: kina / para kina. Pronouns already have plural forms, so sa / para sa stay the same.",
+      "Informally you may hear sa kay, sa kina; the sa can be left out."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "regalo-l27",
+   "tl": "regalo",
+   "en": "gift",
+   "pos": "noun",
+   "group": "list"
+  },
+  {
+   "id": "kapatid-na-babae-l27",
+   "tl": "kapatíd na babáe",
+   "en": "sister",
+   "pos": "phrase",
+   "group": "list",
+   "say": "ka-pa-TID na ba-BA-e"
+  },
+  {
+   "id": "utang-l27",
+   "tl": "útang",
+   "en": "debt",
+   "pos": "noun",
+   "group": "words",
+   "say": "U-tang"
+  },
+  {
+   "id": "dinala-l27",
+   "tl": "dinalá",
+   "en": "brought",
+   "pos": "verb",
+   "group": "words",
+   "say": "di-na-LA"
+  },
+  {
+   "id": "binasa-l27",
+   "tl": "binasa",
+   "en": "read (past)",
+   "pos": "verb",
+   "group": "words"
+  },
+  {
+   "id": "g-l27",
+   "tl": "G.",
+   "en": "Mr.",
+   "pos": "other",
+   "group": "words"
+  },
+  {
+   "id": "gng-l27",
+   "tl": "Gng.",
+   "en": "Mrs.",
+   "pos": "other",
+   "group": "words"
+  },
+  {
+   "id": "para-sa-l27",
+   "tl": "para sa",
+   "en": "for (before a pronoun)",
+   "pos": "marker",
+   "group": "prep"
+  },
+  {
+   "id": "para-kay-l27",
+   "tl": "para kay",
+   "en": "for (before a person's name)",
+   "pos": "marker",
+   "group": "prep"
+  },
+  {
+   "id": "kay-l27",
+   "tl": "kay",
+   "en": "to (before a person's name)",
+   "pos": "marker",
+   "group": "prep"
+  },
+  {
+   "id": "kina-l27",
+   "tl": "kina",
+   "en": "to (before two or more names)",
+   "pos": "marker",
+   "group": "prep"
+  },
+  {
+   "id": "para-kina-l27",
+   "tl": "para kina",
+   "en": "for (before two or more names)",
+   "pos": "marker",
+   "group": "prep"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Which two prepositions mean for?",
+   "options": [
+    "para sa and para kay",
+    "sa and kay",
+    "kay and kina"
+   ],
+   "answer": "para sa and para kay",
+   "explain": "Sa and kay both mean to."
+  },
+  {
+   "type": "choice",
+   "q": "Which two prepositions mean to?",
+   "options": [
+    "sa and kay",
+    "para sa and para kay",
+    "para sa and kina"
+   ],
+   "answer": "sa and kay",
+   "explain": "Dinalá ko ang aklát sa gurò. Sumulat siyá kay Bob kahapon."
+  },
+  {
+   "type": "choice",
+   "q": "Kay is followed by…",
+   "options": [
+    "the proper name of a person",
+    "a possessive pronoun",
+    "a place"
+   ],
+   "answer": "the proper name of a person",
+   "explain": "Para kay / kay + proper name of a person."
+  },
+  {
+   "type": "choice",
+   "q": "Para sa is followed by…",
+   "options": [
+    "a possessive pronoun (+ -g + noun, optional)",
+    "the proper name of a person"
+   ],
+   "answer": "a possessive pronoun (+ -g + noun, optional)",
+   "explain": "Para sa ákin, para sa áking iná."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: Bumilí siyá ng aklát ___ Mary.",
+   "options": [
+    "para kay",
+    "para sa",
+    "para kina"
+   ],
+   "answer": "para kay",
+   "explain": "Mary is one person's name."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: Bumilí siyá ng aklát ___ ákin.",
+   "options": [
+    "para sa",
+    "para kay",
+    "kina"
+   ],
+   "answer": "para sa",
+   "explain": "Ákin is a pronoun."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: Sumulat siyá ___ Bob kahapon.",
+   "options": [
+    "kay",
+    "sa",
+    "kina"
+   ],
+   "answer": "kay",
+   "explain": "He wrote to Bob yesterday."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: Bumasa siyá ___ Peter at Johnny.",
+   "options": [
+    "kina",
+    "kay",
+    "sa"
+   ],
+   "answer": "kina",
+   "explain": "Two names take kina."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: Itó ay regalo ko ___ Helen.",
+   "options": [
+    "kay",
+    "sa",
+    "kina"
+   ],
+   "answer": "kay",
+   "explain": "This is my gift to Helen."
+  },
+  {
+   "type": "choice",
+   "q": "What does \"Para sa kanilá iyán\" mean?",
+   "options": [
+    "That is for them.",
+    "This is my gift for you.",
+    "Pay your debt to him."
+   ],
+   "answer": "That is for them.",
+   "explain": "Same meaning as Iyán ay para sa kanilá."
+  },
+  {
+   "type": "choice",
+   "q": "\"Regalo ko itó para sa iyó\" has…",
+   "options": [
+    "no verb",
+    "a past-tense verb",
+    "a future-tense verb"
+   ],
+   "answer": "no verb",
+   "explain": "The action is implied; a verb is not needed."
+  },
+  {
+   "type": "choice",
+   "q": "Why don't para sa and sa change for plurals?",
+   "options": [
+    "The pronouns already have plural forms.",
+    "Sa is only used with names.",
+    "Plurals always use kina."
+   ],
+   "answer": "The pronouns already have plural forms.",
+   "explain": "For example para sa kanila, sa amin."
+  },
+  {
+   "type": "choice",
+   "q": "Which informal form might you hear for kina?",
+   "options": [
+    "sa kina",
+    "para kay",
+    "kay sa"
+   ],
+   "answer": "sa kina",
+   "explain": "Magbayad ka sa kina G. at Gng. Smith. Leaving out sa is acceptable."
+  },
+  {
+   "type": "choice",
+   "q": "\"He wrote to me.\" Which formula does to me need?",
+   "options": [
+    "sa + pronoun",
+    "kay + name",
+    "para kina + names"
+   ],
+   "answer": "sa + pronoun",
+   "explain": "Me is a pronoun, and to is sa."
+  },
+  {
+   "type": "choice",
+   "q": "\"These flowers are for Annie.\" Which formula does for Annie need?",
+   "options": [
+    "para kay + name",
+    "sa + pronoun",
+    "kina + names"
+   ],
+   "answer": "para kay + name",
+   "explain": "For + one person's name."
+  },
+  {
+   "type": "listen",
+   "tl": "regalo",
+   "options": [
+    "gift",
+    "debt",
+    "newspaper"
+   ],
+   "answer": "gift",
+   "explain": "Itó ay regalo ko para sa iyó."
+  },
+  {
+   "type": "listen",
+   "tl": "kapatíd na babáe",
+   "options": [
+    "sister",
+    "mother",
+    "teacher"
+   ],
+   "answer": "sister",
+   "explain": "From the vocabulary list."
+  },
+  {
+   "type": "listen",
+   "tl": "útang",
+   "options": [
+    "debt",
+    "gift",
+    "story"
+   ],
+   "answer": "debt",
+   "explain": "Magbayad kayó ng útang sa kanyá."
+  },
+  {
+   "type": "listen",
+   "tl": "dinalá",
+   "options": [
+    "brought",
+    "read",
+    "wrote"
+   ],
+   "answer": "brought",
+   "explain": "Dinalá ko ang aklát sa gurò."
+  },
+  {
+   "type": "build",
+   "en": "He/She bought a book for me.",
+   "tl": "Bumilí siyá ng aklát para sa ákin.",
+   "tokens": [
+    "bumilí",
+    "siyá",
+    "ng",
+    "aklát",
+    "para",
+    "sa",
+    "ákin"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "He/She bought a book for Mary.",
+   "tl": "Bumilí siyá ng aklát para kay Mary.",
+   "tokens": [
+    "bumilí",
+    "siyá",
+    "ng",
+    "aklát",
+    "para",
+    "kay",
+    "mary"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "I brought the book to the teacher.",
+   "tl": "Dinalá ko ang aklát sa gurò.",
+   "tokens": [
+    "dinalá",
+    "ko",
+    "ang",
+    "aklát",
+    "sa",
+    "gurò"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "He wrote to Bob yesterday.",
+   "tl": "Sumulat siyá kay Bob kahapon.",
+   "tokens": [
+    "sumulat",
+    "siyá",
+    "kay",
+    "bob",
+    "kahapon"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "This is my gift for you.",
+   "tl": "Itó ay regalo ko para sa iyó.",
+   "tokens": [
+    "itó",
+    "ay",
+    "regalo",
+    "ko",
+    "para",
+    "sa",
+    "iyó"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "That is for them.",
+   "tl": "Para sa kanilá iyán.",
+   "tokens": [
+    "para",
+    "sa",
+    "kanilá",
+    "iyán"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "He read to Peter and Johnny.",
+   "tl": "Bumasa siyá kina Peter at Johnny.",
+   "tokens": [
+    "bumasa",
+    "siyá",
+    "kina",
+    "peter",
+    "at",
+    "johnny"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match each preposition to its use.",
+   "pairs": [
+    [
+     "para sa",
+     "for + pronoun"
+    ],
+    [
+     "para kay",
+     "for + one name"
+    ],
+    [
+     "kay",
+     "to + one name"
+    ],
+    [
+     "kina",
+     "to + two or more names"
+    ],
+    [
+     "sa",
+     "to + pronoun"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each sentence to its meaning.",
+   "pairs": [
+    [
+     "Bumilí siyá ng aklát para sa áking iná.",
+     "He/She bought a book for my mother."
+    ],
+    [
+     "Sumulat ako ng kuwento para sa mga batà.",
+     "I wrote a story for the children."
+    ],
+    [
+     "Binasa niya ang páhayagan sa kanyáng amá.",
+     "He/She read the newspaper to his father."
+    ],
+    [
+     "Magbayad kayó ng útang sa kanyá.",
+     "Pay your debt to him."
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "The indirect object answers to whom, to what, for whom or for what.",
+  "Para sa and para kay mean for; sa and kay mean to.",
+  "Sa / para sa go before pronouns; kay / para kay go before a person's name.",
+  "A sentence with an indirect object can have no verb: Regalo ko itó kay Helen.",
+  "For two or more names use kina / para kina; informal sa kay and sa kina may drop the sa."
+ ]
+}

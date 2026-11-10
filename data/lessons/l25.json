@@ -1,0 +1,1296 @@
+{
+ "id": "l25",
+ "label": "25",
+ "title": "Saán and násaán: where",
+ "summary": "Saán for where an action happens, násaán for where a person or thing is, and how to answer each",
+ "minutes": 30,
+ "goals": [
+  "Choose between saán and násaán",
+  "Answer a saán question with sa + place, or díto, díyan, doón",
+  "Answer a násaán question with nása + place, or nárito, náriyan, nároón",
+  "Place a pronoun between saán and the verb"
+ ],
+ "sections": [
+  {
+   "title": "Two words for where",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Lesson 9 listed **saán** and **násaán** among the 14 question words. Both mean *where*, but each one needs its own kind of answer."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Question word",
+      "Asks for…",
+      "Answer with"
+     ],
+     "rows": [
+      [
+       "[[saán|other]]",
+       "the location of an **action**",
+       "**sa** + name of place, or díto / díyan / doón"
+      ],
+      [
+       "[[násaán|other]]",
+       "the location of a **person or thing**",
+       "**nása** + name of place, or nárito / náriyan / nároón"
+      ]
+     ],
+     "title": "Saán or násaán?"
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "A quick test",
+     "t": "Is there an action (went, eat, read, speak)? Use **saán**. Are you only asking where someone or something *is*? Use **násaán**."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Spelling",
+     "t": "Lesson 9 and this lesson's vocabulary list write **nasaán**. The rest of this lesson (title, explanations and sentences) writes **násaán**. Both are the same word."
+    }
+   ]
+  },
+  {
+   "title": "Using saán",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Saán** asks *where* an action happens. It is followed by a **verb** in any of the three tenses: past, present or future."
+    },
+    {
+     "type": "p",
+     "t": "A pronoun such as **táyo** or **silá** may be placed **between saán and the verb**."
+    },
+    {
+     "type": "pattern",
+     "title": "Saán questions",
+     "rows": [
+      {
+       "label": "Saán + verb",
+       "chips": [
+        {
+         "t": "Saán",
+         "r": "other"
+        },
+        {
+         "t": "pumuntá",
+         "r": "pred"
+        },
+        {
+         "t": "si",
+         "r": "marker"
+        },
+        {
+         "t": "Peter",
+         "r": "noun"
+        }
+       ]
+      },
+      {
+       "label": "Saán + pronoun + verb",
+       "chips": [
+        {
+         "t": "Saán",
+         "r": "other"
+        },
+        {
+         "t": "táyo",
+         "r": "pron"
+        },
+        {
+         "t": "kákain",
+         "r": "pred"
+        }
+       ]
+      }
+     ],
+     "note": "Where did Peter go? / Where shall we eat?"
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "Answering saán",
+     "items": [
+      "Use **sa + name of place**. The answer tells where an act was, is, or will be performed.",
+      "Or answer with one of these words: **díto**, **díyan**, **doón**."
+     ]
+    },
+    {
+     "type": "table",
+     "head": [
+      "Word",
+      "Means",
+      "The place is…"
+     ],
+     "rows": [
+      [
+       "[[díto|other]]",
+       "here",
+       "near the person speaking"
+      ],
+      [
+       "[[díyan|other]]",
+       "there",
+       "near the person spoken to"
+      ],
+      [
+       "[[doón|other]]",
+       "there",
+       "far from both speaker and listener"
+      ]
+     ],
+     "title": "Here and there (for saán)"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Saán pumuntá si Peter?",
+       "en": "Where did Peter go?",
+       "parts": [
+        [
+         "Saán",
+         "where (action)",
+         "other"
+        ],
+        [
+         "pumuntá",
+         "went",
+         "pred"
+        ],
+        [
+         "si",
+         "article",
+         "marker"
+        ],
+        [
+         "Peter",
+         "Peter",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Pumuntá si Peter sa Baguio.",
+       "en": "Peter went to Baguio.",
+       "parts": [
+        [
+         "Pumuntá",
+         "went",
+         "pred"
+        ],
+        [
+         "si",
+         "article",
+         "marker"
+        ],
+        [
+         "Peter",
+         "Peter",
+         "noun"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "Baguio",
+         "Baguio",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Saán magsásalitâ si Dr. Smith?",
+       "en": "Where will Dr. Smith speak?",
+       "parts": [
+        [
+         "Saán",
+         "where (action)",
+         "other"
+        ],
+        [
+         "magsásalitâ",
+         "will speak",
+         "pred"
+        ],
+        [
+         "si",
+         "article",
+         "marker"
+        ],
+        [
+         "Dr. Smith",
+         "Dr. Smith",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Magsásalitâ si Dr. Smith sa ospital.",
+       "en": "Dr. Smith will speak in the hospital.",
+       "parts": [
+        [
+         "Magsásalitâ",
+         "will speak",
+         "pred"
+        ],
+        [
+         "si",
+         "article",
+         "marker"
+        ],
+        [
+         "Dr. Smith",
+         "Dr. Smith",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "ospital",
+         "hospital",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Saán táyo kákain?",
+       "en": "Where shall we eat?",
+       "parts": [
+        [
+         "Saán",
+         "where (action)",
+         "other"
+        ],
+        [
+         "táyo",
+         "we",
+         "pron"
+        ],
+        [
+         "kákain",
+         "shall eat",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Díto táyo kákain.",
+       "en": "We shall eat here.",
+       "parts": [
+        [
+         "Díto",
+         "here",
+         "other"
+        ],
+        [
+         "táyo",
+         "we",
+         "pron"
+        ],
+        [
+         "kákain",
+         "shall eat",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Saán silá magbábasá?",
+       "en": "Where will they read?",
+       "parts": [
+        [
+         "Saán",
+         "where (action)",
+         "other"
+        ],
+        [
+         "silá",
+         "they",
+         "pron"
+        ],
+        [
+         "magbábasá",
+         "will read",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Doón silá magbábasá.",
+       "en": "They will read there.",
+       "parts": [
+        [
+         "Doón",
+         "there (far)",
+         "other"
+        ],
+        [
+         "silá",
+         "they",
+         "pron"
+        ],
+        [
+         "magbábasá",
+         "will read",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Saán kayó nagpaskó?",
+       "en": "Where did you spend Christmas?",
+       "parts": [
+        [
+         "Saán",
+         "where (action)",
+         "other"
+        ],
+        [
+         "kayó",
+         "you (plural)",
+         "pron"
+        ],
+        [
+         "nagpaskó",
+         "spent Christmas",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Sa Tagaytay kamí nagpaskó.",
+       "en": "We spent Christmas in Tagaytay.",
+       "parts": [
+        [
+         "Sa",
+         "in",
+         "marker"
+        ],
+        [
+         "Tagaytay",
+         "Tagaytay",
+         "noun"
+        ],
+        [
+         "kamí",
+         "we",
+         "pron"
+        ],
+        [
+         "nagpaskó",
+         "spent Christmas",
+         "pred"
+        ]
+       ]
+      }
+     ],
+     "title": "Questions and answers with saán"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Notice",
+     "items": [
+      "Every saán question has a verb: pumuntá (past), magsásalitâ (future), kákain, magbábasá, nagpaskó.",
+      "The answer can start with the place: **Díto** táyo kákain. **Sa Tagaytay** kamí nagpaskó."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "list",
+     "title": "Vocabulary list"
+    },
+    {
+     "type": "vocab",
+     "group": "words",
+     "title": "More words from the sentences"
+    }
+   ]
+  },
+  {
+   "title": "Using násaán",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Násaán** asks where a **person or thing** is. It is always followed by a noun or pronoun introduced by the article **si** or **ang**. When the noun or pronoun is plural, use **siná** or **ang mga**."
+    },
+    {
+     "type": "pattern",
+     "title": "Násaán questions",
+     "rows": [
+      {
+       "label": "Thing",
+       "chips": [
+        {
+         "t": "Násaán",
+         "r": "other"
+        },
+        {
+         "t": "ang",
+         "r": "marker"
+        },
+        {
+         "t": "batà",
+         "r": "noun"
+        }
+       ]
+      },
+      {
+       "label": "Person",
+       "chips": [
+        {
+         "t": "Násaán",
+         "r": "other"
+        },
+        {
+         "t": "si",
+         "r": "marker"
+        },
+        {
+         "t": "Mary",
+         "r": "noun"
+        }
+       ]
+      }
+     ],
+     "note": "Where is the child? / Where is Mary?"
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "Answering násaán",
+     "items": [
+      "Use **nása + name of place**. The answer tells where a person or thing is.",
+      "Or answer with one word: **nárito**, **náriyan**, **nároón**."
+     ]
+    },
+    {
+     "type": "table",
+     "head": [
+      "Word",
+      "Means",
+      "The place is…"
+     ],
+     "rows": [
+      [
+       "[[nárito|other]]",
+       "here",
+       "near the person speaking"
+      ],
+      [
+       "[[náriyan|other]]",
+       "there",
+       "near the person spoken to"
+      ],
+      [
+       "[[nároón|other]]",
+       "there",
+       "far from both"
+      ]
+     ],
+     "title": "Here and there (for násaán)"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Násaán ang batà?",
+       "en": "Where is the child?",
+       "parts": [
+        [
+         "Násaán",
+         "where (person/thing)",
+         "other"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nása páaralán ang batà.",
+       "en": "The child is in school.",
+       "parts": [
+        [
+         "Nása",
+         "is in",
+         "pred"
+        ],
+        [
+         "páaralán",
+         "school",
+         "noun"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Násaán ang aking sapátos?",
+       "en": "Where are my shoes?",
+       "parts": [
+        [
+         "Násaán",
+         "where (person/thing)",
+         "other"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "aking",
+         "my",
+         "poss"
+        ],
+        [
+         "sapátos",
+         "shoes",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nása silid ang iyóng sapátos.",
+       "en": "Your shoes are in the room.",
+       "parts": [
+        [
+         "Nása",
+         "are in",
+         "pred"
+        ],
+        [
+         "silid",
+         "room",
+         "noun"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "iyóng",
+         "your",
+         "poss"
+        ],
+        [
+         "sapátos",
+         "shoes",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Násaán ang báhay ninyó?",
+       "en": "Where is your house?",
+       "parts": [
+        [
+         "Násaán",
+         "where (person/thing)",
+         "other"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "báhay",
+         "house",
+         "noun"
+        ],
+        [
+         "ninyó",
+         "your (plural)",
+         "poss"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang báhay namin ay nása Fairview.",
+       "en": "Our house is in Fairview.",
+       "parts": [
+        [
+         "Ang",
+         "article",
+         "marker"
+        ],
+        [
+         "báhay",
+         "house",
+         "noun"
+        ],
+        [
+         "namin",
+         "our",
+         "poss"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "nása",
+         "in",
+         "pred"
+        ],
+        [
+         "Fairview",
+         "Fairview",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Násaán si Mary?",
+       "en": "Where is Mary?",
+       "parts": [
+        [
+         "Násaán",
+         "where (person/thing)",
+         "other"
+        ],
+        [
+         "si",
+         "article",
+         "marker"
+        ],
+        [
+         "Mary",
+         "Mary",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nása báhay si Mary.",
+       "en": "Mary is in the house.",
+       "parts": [
+        [
+         "Nása",
+         "is in",
+         "pred"
+        ],
+        [
+         "báhay",
+         "house",
+         "noun"
+        ],
+        [
+         "si",
+         "article",
+         "marker"
+        ],
+        [
+         "Mary",
+         "Mary",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Násaán sila?",
+       "en": "Where are they?",
+       "parts": [
+        [
+         "Násaán",
+         "where (person/thing)",
+         "other"
+        ],
+        [
+         "sila",
+         "they",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Nása páaralán silá.",
+       "en": "They are in school.",
+       "parts": [
+        [
+         "Nása",
+         "are in",
+         "pred"
+        ],
+        [
+         "páaralán",
+         "school",
+         "noun"
+        ],
+        [
+         "silá",
+         "they",
+         "pron"
+        ]
+       ]
+      }
+     ],
+     "title": "Questions and answers with násaán"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Notice",
+     "items": [
+      "No action verb is needed: **Nása** báhay si Mary already means *Mary is in the house*.",
+      "The ay order works too: Ang báhay namin **ay** nása Fairview."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "nasaan",
+     "title": "Nása and its one-word answers"
+    }
+   ]
+  },
+  {
+   "title": "Practice from the book",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book asks you to answer these questions out loud. It prints no answers, so first decide which pattern each one needs, then say your own answer."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Question",
+      "Starts with",
+      "Answer pattern"
+     ],
+     "rows": [
+      [
+       "Násaán ang iyóng lápis?",
+       "násaán",
+       "nása + place"
+      ],
+      [
+       "Saán nagpuntá ang kaibígan mo?",
+       "saán",
+       "sa + place"
+      ],
+      [
+       "Saán nakatirá ang iyóng mga magúlang?",
+       "saán",
+       "sa + place"
+      ],
+      [
+       "Saán siyá gáling?",
+       "saán",
+       "sa + place"
+      ],
+      [
+       "Násaán ang batàng nag-áaral?",
+       "násaán",
+       "nása + place"
+      ],
+      [
+       "Saán kayó kumáin kanína?",
+       "saán",
+       "sa + place"
+      ],
+      [
+       "Saán pumuntá ang mga báta?",
+       "saán",
+       "sa + place"
+      ],
+      [
+       "Saán kayó nag-áaral ng Tagalog?",
+       "saán",
+       "sa + place"
+      ],
+      [
+       "Násaán ang páaralán ninyó?",
+       "násaán",
+       "nása + place"
+      ],
+      [
+       "Násaán ang inyóng gurò?",
+       "násaán",
+       "nása + place"
+      ]
+     ],
+     "title": "Answer orally"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Writing task",
+     "t": "The book also asks you to write ten sentences about your city or hometown using **sa** and **nása**."
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "Saán + verb asks where an action happens. Answer: sa + place, or díto, díyan, doón.",
+      "A pronoun may sit between saán and the verb: Saán táyo kákain?",
+      "Násaán + si/ang (siná/ang mga) asks where a person or thing is. Answer: nása + place, or nárito, náriyan, nároón.",
+      "Díto / nárito: near the speaker. Díyan / náriyan: near the listener. Doón / nároón: far from both."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "magsasalita-l25",
+   "tl": "magsásalita",
+   "en": "will talk",
+   "pos": "verb",
+   "group": "list",
+   "say": "mag-SA-sa-li-ta",
+   "note": "The book also writes magsásalitâ in the sample sentences."
+  },
+  {
+   "id": "dito-l25",
+   "tl": "díto",
+   "en": "here, place is near the person speaking",
+   "pos": "other",
+   "group": "list",
+   "say": "DI-to"
+  },
+  {
+   "id": "diyan-l25",
+   "tl": "díyan",
+   "en": "there, place is near the person spoken to",
+   "pos": "other",
+   "group": "list",
+   "say": "DI-yan",
+   "note": "Lesson 3's phrase Diyán lámang writes it diyán."
+  },
+  {
+   "id": "doon-l25",
+   "tl": "doón",
+   "en": "there, place is far from both speaker and listener",
+   "pos": "other",
+   "group": "list",
+   "say": "do-ON"
+  },
+  {
+   "id": "nasa-l25",
+   "tl": "nása",
+   "en": "in, at (nása + name of place tells where a person or thing is)",
+   "pos": "other",
+   "group": "nasaan",
+   "say": "NA-sa"
+  },
+  {
+   "id": "narito-l25",
+   "tl": "nárito",
+   "en": "here, place is near the person speaking",
+   "pos": "other",
+   "group": "nasaan",
+   "say": "NA-ri-to"
+  },
+  {
+   "id": "nariyan-l25",
+   "tl": "náriyan",
+   "en": "there, place is near the person spoken to",
+   "pos": "other",
+   "group": "nasaan",
+   "say": "NA-ri-yan"
+  },
+  {
+   "id": "naroon-l25",
+   "tl": "nároón",
+   "en": "there, place is far from both",
+   "pos": "other",
+   "group": "nasaan",
+   "say": "NA-ro-ON"
+  },
+  {
+   "id": "kakain-l25",
+   "tl": "kákain",
+   "en": "shall eat",
+   "pos": "verb",
+   "group": "words",
+   "say": "KA-ka-in"
+  },
+  {
+   "id": "magbabasa-l25",
+   "tl": "magbábasá",
+   "en": "will read",
+   "pos": "verb",
+   "group": "words",
+   "say": "mag-BA-ba-SA"
+  },
+  {
+   "id": "nagpasko-l25",
+   "tl": "nagpaskó",
+   "en": "spent Christmas",
+   "pos": "verb",
+   "group": "words",
+   "say": "nag-pas-KO"
+  },
+  {
+   "id": "ospital-l25",
+   "tl": "ospital",
+   "en": "hospital",
+   "pos": "noun",
+   "group": "words"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Saán asks for the location of…",
+   "options": [
+    "an action",
+    "a person or thing"
+   ],
+   "answer": "an action",
+   "explain": "Saán is followed by a verb."
+  },
+  {
+   "type": "choice",
+   "q": "Násaán asks for the location of…",
+   "options": [
+    "a person or thing",
+    "an action"
+   ],
+   "answer": "a person or thing",
+   "explain": "Násaán ang batà? Where is the child?"
+  },
+  {
+   "type": "choice",
+   "q": "How do you answer a saán question?",
+   "options": [
+    "sa + name of place",
+    "nása + name of place",
+    "ang + name of place"
+   ],
+   "answer": "sa + name of place",
+   "explain": "Pumuntá si Peter sa Baguio."
+  },
+  {
+   "type": "choice",
+   "q": "How do you answer a násaán question?",
+   "options": [
+    "nása + name of place",
+    "sa + name of place",
+    "si + name of place"
+   ],
+   "answer": "nása + name of place",
+   "explain": "Nása páaralán ang batà."
+  },
+  {
+   "type": "choice",
+   "q": "What always follows saán?",
+   "options": [
+    "a verb (any tense), sometimes after a pronoun",
+    "a noun introduced by si or ang"
+   ],
+   "answer": "a verb (any tense), sometimes after a pronoun",
+   "explain": "Saán pumuntá si Peter? Saán táyo kákain?"
+  },
+  {
+   "type": "choice",
+   "q": "What always follows násaán?",
+   "options": [
+    "a noun or pronoun introduced by si or ang",
+    "a verb in the future tense"
+   ],
+   "answer": "a noun or pronoun introduced by si or ang",
+   "explain": "Násaán si Mary? Násaán ang batà?"
+  },
+  {
+   "type": "choice",
+   "q": "Which article goes after násaán for two or more names?",
+   "options": [
+    "siná",
+    "si",
+    "ni"
+   ],
+   "answer": "siná",
+   "explain": "Siná or ang mga is used when the noun is plural."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: ___ ang batà? (Where is the child?)",
+   "options": [
+    "Násaán",
+    "Saán"
+   ],
+   "answer": "Násaán",
+   "explain": "Asking where a person is."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: ___ pumuntá si Peter? (Where did Peter go?)",
+   "options": [
+    "Saán",
+    "Násaán"
+   ],
+   "answer": "Saán",
+   "explain": "Asking where an action happened."
+  },
+  {
+   "type": "choice",
+   "q": "Best answer to \"Saán táyo kákain?\"",
+   "options": [
+    "Díto táyo kákain.",
+    "Nása báhay si Mary.",
+    "Nása páaralán silá."
+   ],
+   "answer": "Díto táyo kákain.",
+   "explain": "A saán question is answered with díto, díyan, doón or sa + place."
+  },
+  {
+   "type": "choice",
+   "q": "Best answer to \"Násaán si Mary?\"",
+   "options": [
+    "Nása báhay si Mary.",
+    "Pumuntá si Peter sa Baguio.",
+    "Doón silá magbábasá."
+   ],
+   "answer": "Nása báhay si Mary.",
+   "explain": "Nása + place answers a násaán question."
+  },
+  {
+   "type": "choice",
+   "q": "Which one-word answer to a saán question means here, near the person speaking?",
+   "options": [
+    "díto",
+    "nárito",
+    "doón"
+   ],
+   "answer": "díto",
+   "explain": "Nárito means the same, but it answers a násaán question."
+  },
+  {
+   "type": "choice",
+   "q": "Which one-word answer to a násaán question means there, far from both?",
+   "options": [
+    "nároón",
+    "doón",
+    "náriyan"
+   ],
+   "answer": "nároón",
+   "explain": "Doón is the saán answer; nároón is the násaán answer."
+  },
+  {
+   "type": "choice",
+   "q": "Book question: \"Násaán ang iyóng lápis?\" Which answer pattern?",
+   "options": [
+    "nása + name of place",
+    "sa + name of place"
+   ],
+   "answer": "nása + name of place",
+   "explain": "Násaán asks where a thing is."
+  },
+  {
+   "type": "choice",
+   "q": "Book question: \"Saán nagpuntá ang kaibígan mo?\" Which answer pattern?",
+   "options": [
+    "sa + name of place",
+    "nása + name of place"
+   ],
+   "answer": "sa + name of place",
+   "explain": "Saán asks where an action happened."
+  },
+  {
+   "type": "listen",
+   "tl": "doón",
+   "options": [
+    "there, far from both speaker and listener",
+    "here, near the person speaking",
+    "there, near the person spoken to"
+   ],
+   "answer": "there, far from both speaker and listener",
+   "explain": "Doón silá magbábasá."
+  },
+  {
+   "type": "listen",
+   "tl": "díyan",
+   "options": [
+    "there, near the person spoken to",
+    "here, near the person speaking",
+    "there, far from both speaker and listener"
+   ],
+   "answer": "there, near the person spoken to",
+   "explain": "Díyan answers a saán question."
+  },
+  {
+   "type": "listen",
+   "tl": "magsásalita",
+   "options": [
+    "will talk",
+    "will read",
+    "shall eat"
+   ],
+   "answer": "will talk",
+   "explain": "Saán magsásalitâ si Dr. Smith?"
+  },
+  {
+   "type": "listen",
+   "tl": "nagpaskó",
+   "options": [
+    "spent Christmas",
+    "went",
+    "will read"
+   ],
+   "answer": "spent Christmas",
+   "explain": "Saán kayó nagpaskó?"
+  },
+  {
+   "type": "build",
+   "en": "Where did Peter go?",
+   "tl": "Saán pumuntá si Peter?",
+   "tokens": [
+    "saán",
+    "pumuntá",
+    "si",
+    "peter"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "We shall eat here.",
+   "tl": "Díto táyo kákain.",
+   "tokens": [
+    "díto",
+    "táyo",
+    "kákain"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "They will read there.",
+   "tl": "Doón silá magbábasá.",
+   "tokens": [
+    "doón",
+    "silá",
+    "magbábasá"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Where is the child?",
+   "tl": "Násaán ang batà?",
+   "tokens": [
+    "násaán",
+    "ang",
+    "batà"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The child is in school.",
+   "tl": "Nása páaralán ang batà.",
+   "tokens": [
+    "nása",
+    "páaralán",
+    "ang",
+    "batà"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Mary is in the house.",
+   "tl": "Nása báhay si Mary.",
+   "tokens": [
+    "nása",
+    "báhay",
+    "si",
+    "mary"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "We spent Christmas in Tagaytay.",
+   "tl": "Sa Tagaytay kamí nagpaskó.",
+   "tokens": [
+    "sa",
+    "tagaytay",
+    "kamí",
+    "nagpaskó"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match each saán answer to its násaán partner.",
+   "pairs": [
+    [
+     "díto",
+     "nárito"
+    ],
+    [
+     "díyan",
+     "náriyan"
+    ],
+    [
+     "doón",
+     "nároón"
+    ],
+    [
+     "sa + place",
+     "nása + place"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each question to its answer.",
+   "pairs": [
+    [
+     "Saán kayó nagpaskó?",
+     "Sa Tagaytay kamí nagpaskó."
+    ],
+    [
+     "Násaán sila?",
+     "Nása páaralán silá."
+    ],
+    [
+     "Saán magsásalitâ si Dr. Smith?",
+     "Magsásalitâ si Dr. Smith sa ospital."
+    ],
+    [
+     "Násaán ang aking sapátos?",
+     "Nása silid ang iyóng sapátos."
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "Saán and násaán both mean where.",
+  "Saán + verb asks where an action happens; answer with sa + place, or díto, díyan, doón.",
+  "A pronoun such as táyo or silá may come between saán and the verb.",
+  "Násaán + si/ang (siná/ang mga for plurals) asks where a person or thing is; answer with nása + place, or nárito, náriyan, nároón.",
+  "Díto/nárito: near the speaker. Díyan/náriyan: near the listener. Doón/nároón: far from both."
+ ]
+}

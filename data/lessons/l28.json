@@ -1,0 +1,1884 @@
+{
+ "id": "l28",
+ "label": "28",
+ "title": "Telling time",
+ "summary": "Anóng oras na? The hours with ika-, their Spanish equivalents, and words for past, present and future",
+ "minutes": 35,
+ "goals": [
+  "Ask the time with Anóng oras na?",
+  "Learn the basic time words: umaga, tangháli, hápon, gabí, oras, minuto…",
+  "Tell the hour with ika- + number, and know the Spanish way",
+  "Read the short forms n.u., n.t., n.h. and n.g.",
+  "Answer kailán questions with words for the present, past and future"
+ ],
+ "sections": [
+  {
+   "title": "Anóng oras na?",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Tagalogs love to ask the time. You will often hear strangers ask **Anóng oras na?** (*What time is it?*). Knowing how to tell the time lets you answer in the asker's own language."
+    },
+    {
+     "type": "p",
+     "t": "The book asks you to **memorize** these basic words and phrases. Some of them you already met in Lesson 3."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Tagalog",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[umaga|noun]]",
+       "morning"
+      ],
+      [
+       "[[tangháli|noun]]",
+       "noon (basically 11 a.m. to 1 p.m.)"
+      ],
+      [
+       "[[hápon|noun]]",
+       "afternoon"
+      ],
+      [
+       "[[gabí|noun]]",
+       "night"
+      ],
+      [
+       "[[hátinggabí|noun]]",
+       "midnight"
+      ],
+      [
+       "[[oras|noun]]",
+       "hour"
+      ],
+      [
+       "[[kalahatí|noun]]",
+       "half"
+      ],
+      [
+       "[[minuto|noun]]",
+       "minute"
+      ],
+      [
+       "[[beses|noun]]",
+       "frequency"
+      ],
+      [
+       "[[ilang beses|other]]",
+       "few times"
+      ],
+      [
+       "[[hanggáng|other]]",
+       "until"
+      ],
+      [
+       "[[madalíng-áraw|noun]]",
+       "dawn"
+      ],
+      [
+       "[[sandalî|noun]]",
+       "second, moment (as a response, it means *for a while*)"
+      ]
+     ],
+     "title": "Basic time words",
+     "note": "Lesson 3 wrote umága and tanghálì, and Lesson 13 wrote kalahatì. This lesson prints them as shown here."
+    },
+    {
+     "type": "h",
+     "t": "From… until…"
+    },
+    {
+     "type": "p",
+     "t": "**Mulâ** … **hanggáng** gives *from … until*. The book shows one phrase for the present or future and one for the past:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Phrase",
+      "Meaning",
+      "Used for"
+     ],
+     "rows": [
+      [
+       "[[mulâ sa umaga hanggáng gabí|other]]",
+       "from morning until evening",
+       "present or future activities"
+      ],
+      [
+       "[[mulâ noóng Enero hanggáng ngayón|other]]",
+       "from last January until now",
+       "past activities"
+      ]
+     ],
+     "title": "Mulâ … hanggáng"
+    },
+    {
+     "type": "vocab",
+     "group": "list",
+     "title": "Vocabulary list"
+    },
+    {
+     "type": "vocab",
+     "group": "time",
+     "title": "More time words"
+    }
+   ]
+  },
+  {
+   "title": "Telling the hour",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "To tell the time in Tagalog, the prefix **ika-** is placed before the **cardinal numbers** (the counting numbers from Lesson 13)."
+    },
+    {
+     "type": "p",
+     "t": "The **Spanish** way of telling time (written in Tagalog spelling) is shown next to it, because it is still very widely used, by Tagalogs and non-Tagalogs alike."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "One o'clock is different",
+     "t": "For one o'clock the book uses **unang oras** (*first hour*): **unang oras ng umaga** is 1:00 a.m. and **únang oras ng hápon** is 1:00 p.m. The Spanish also uses **a la una** (not a las)."
+    },
+    {
+     "type": "table",
+     "head": [
+      "English",
+      "Tagalog",
+      "Spanish"
+     ],
+     "rows": [
+      [
+       "1:00 a.m.",
+       "unang oras ng umaga",
+       "a la una ng umaga"
+      ],
+      [
+       "2:00 a.m.",
+       "ikalawá ng umaga",
+       "a las dos ng umaga"
+      ],
+      [
+       "3:00 a.m.",
+       "ikatló ng umaga",
+       "a las tres ng umaga"
+      ],
+      [
+       "4:00 a.m.",
+       "ika-ápat ng umaga",
+       "a las kuwatro ng umaga"
+      ],
+      [
+       "5:00 a.m.",
+       "ikalimá ng umaga",
+       "a las sinko ng umaga"
+      ],
+      [
+       "6:00 a.m.",
+       "ikaánim ng umaga",
+       "a las seis ng umaga"
+      ],
+      [
+       "7:00 a.m.",
+       "ikapitó ng umaga",
+       "a las siyete ng umaga"
+      ],
+      [
+       "8:00 a.m.",
+       "ikawaló ng umaga",
+       "a las otso ng umaga"
+      ],
+      [
+       "9:00 a.m.",
+       "ikasiyám ng umaga",
+       "a las nuwebe ng umaga"
+      ],
+      [
+       "10:00 a.m.",
+       "ikasampû ng umaga",
+       "a las diyes ng umaga"
+      ],
+      [
+       "11:00 a.m.",
+       "ikalabing-isá ng umaga",
+       "a las onse ng umaga"
+      ],
+      [
+       "12:00 nn",
+       "ikalabindalawá ng tánghali",
+       "a las dose ng tánghali"
+      ]
+     ],
+     "title": "Morning to noon"
+    },
+    {
+     "type": "table",
+     "head": [
+      "English",
+      "Tagalog",
+      "Spanish"
+     ],
+     "rows": [
+      [
+       "1:00 p.m.",
+       "únang oras ng hápon",
+       "a la una ng hápon"
+      ],
+      [
+       "2:00 p.m.",
+       "ikalawá ng hápon",
+       "a las dos ng hápon"
+      ],
+      [
+       "3:30 p.m.",
+       "ikatló at kalahatí ng hápon",
+       "a las tres y medya ng hápon"
+      ],
+      [
+       "4:00 p.m.*",
+       "ika-ápat ng hápon",
+       "a las kuwatro ng hápon"
+      ],
+      [
+       "5:15 p.m.",
+       "ikalimá at labinlimang minuto ng hápon",
+       "a las sinko y kuwarto ng hápon"
+      ],
+      [
+       "6:40 p.m.",
+       "ikaánim at apatnápung minuto ng gabí",
+       "a las seis kuwarenta ng gabí"
+      ],
+      [
+       "7:00 p.m.",
+       "ikapitó ng gabí",
+       "a las siyete ng gabí"
+      ],
+      [
+       "8:00 p.m.",
+       "ikawaló ng gabí",
+       "a las otso ng gabí"
+      ],
+      [
+       "9:10 p.m.",
+       "ikasiyám at sampúng minuto ng gabí",
+       "a las nuwebe diyes ng gabí"
+      ],
+      [
+       "10:00 p.m.",
+       "ikasampû ng gabí",
+       "a las diyes ng gabí"
+      ],
+      [
+       "11:00 p.m.",
+       "ikalabíng-isá ng gabí",
+       "a las onse ng gabí"
+      ],
+      [
+       "12:00 midnight",
+       "ikalabíndalawá ng hátinggabí",
+       "a las dose ng hátinggabí"
+      ]
+     ],
+     "title": "Afternoon to midnight",
+     "note": "*The book prints \"4:00 a.m.\" on this row, but the row says ng hápon (in the afternoon), so it is 4:00 p.m. The book writes ikalabing-isá / ikalabindalawá in the morning rows and ikalabíng-isá / ikalabíndalawá in the evening rows; it also writes tánghali here and tangháli elsewhere."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Reading the table",
+     "items": [
+      "The hour comes first, then **ng umaga**, **ng tánghali**, **ng hápon** or **ng gabí** for the part of the day.",
+      "Minutes are joined with **at** (and): ikalimá **at** labinlimang minuto (5:15), ikasiyám **at** sampúng minuto (9:10).",
+      "Half past uses **at kalahatí**: ikatló at kalahatí ng hápon (3:30). The Spanish says **y medya**.",
+      "In the table, 5:15 is still ng hápon, while 6:40 is already ng gabí."
+     ]
+    },
+    {
+     "type": "h",
+     "t": "Short forms"
+    },
+    {
+     "type": "p",
+     "t": "The shortened forms of time are the most common in **writing**:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Short form",
+      "Stands for",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "n.u.",
+       "ng umaga",
+       "a.m."
+      ],
+      [
+       "n.t.",
+       "ng tangháli",
+       "noon"
+      ],
+      [
+       "n.h.",
+       "ng hápon",
+       "p.m."
+      ],
+      [
+       "n.g.",
+       "ng gabí",
+       "evening"
+      ]
+     ],
+     "title": "n.u., n.t., n.h., n.g."
+    },
+    {
+     "type": "p",
+     "t": "The book writes times like this: **ika-7:00 n.g.** You read it aloud as **ikapitó ng gabí**."
+    }
+   ]
+  },
+  {
+   "title": "Kailán? Present, past and future",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Lesson 9 introduced **kailán** (*when*) as a question word. Kailán questions ask what time something happened, happens or will happen, or what time someone did, does or will do something."
+    },
+    {
+     "type": "p",
+     "t": "You can answer them with the words and phrases below. Each group (present, past and future) has its **own** words for time. These words can also be joined to dates to give a specific time:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Word",
+      "Made from",
+      "Group"
+     ],
+     "rows": [
+      [
+       "[[ngayón|other]]",
+       "",
+       "present"
+      ],
+      [
+       "[[noóng|other]]",
+       "noón + ligature -g",
+       "past"
+      ],
+      [
+       "[[kaninang|other]]",
+       "kanina + ligature -ng",
+       "past"
+      ],
+      [
+       "[[sa|marker]] or [[sa isáng|other]]",
+       "isá + ligature -ng",
+       "future"
+      ],
+      [
+       "[[sa susunod na|other]]",
+       "",
+       "future"
+      ]
+     ],
+     "title": "Words that attach to dates",
+     "note": "The book writes kanínang and susunód in the lists below."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Tagalog",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[ngayón|other]]",
+       "now"
+      ],
+      [
+       "[[ngayóng áraw|other]]",
+       "today"
+      ],
+      [
+       "[[ngayóng umaga|other]]",
+       "this morning (assume that it is still morning)"
+      ]
+     ],
+     "title": "Present"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Tagalog",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[kanína|other]]",
+       "a moment ago"
+      ],
+      [
+       "[[kahápon|other]]",
+       "yesterday"
+      ],
+      [
+       "[[kagabí|other]]",
+       "last night"
+      ],
+      [
+       "[[kamakalawá|other]]",
+       "day before yesterday"
+      ],
+      [
+       "[[noóng áraw|other]]",
+       "in the olden times"
+      ],
+      [
+       "[[noóng unang panahón|other]]",
+       "a long time ago"
+      ],
+      [
+       "[[noóng Linggo|other]]",
+       "last Sunday"
+      ],
+      [
+       "[[noóng Martes|other]]",
+       "last Tuesday"
+      ],
+      [
+       "[[noóng isáng linggó|other]]",
+       "last week (as opposed to Linggó, Sunday)"
+      ],
+      [
+       "[[noóng isáng buwán|other]]",
+       "last month"
+      ],
+      [
+       "[[noóng isáng taón|other]]",
+       "last year"
+      ],
+      [
+       "[[noóng Enero|other]]",
+       "last January"
+      ],
+      [
+       "[[kanínang umága|other]]",
+       "this morning (assume that it is now afternoon)"
+      ]
+     ],
+     "title": "Past"
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Noón(g) with kahapon and kagabi",
+     "t": "**Noón(g)** cannot be paired with the more recent **kahapon** nor **kagabi**. However, **noóng isáng hapon** and **noóng isáng gabí** are acceptable."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Tagalog",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[mámayâ|other]]",
+       "later within the day"
+      ],
+      [
+       "[[mámayâng hapon|other]]",
+       "later this afternoon"
+      ],
+      [
+       "[[mámayâng gabí|other]]",
+       "later this evening"
+      ],
+      [
+       "[[bukas|other]]",
+       "tomorrow"
+      ],
+      [
+       "[[samakalawá|other]]",
+       "day after tomorrow"
+      ],
+      [
+       "[[sa Linggó|other]]",
+       "next Sunday"
+      ],
+      [
+       "[[sa Martes|other]]",
+       "next Tuesday"
+      ],
+      [
+       "[[sa isáng linggó|other]]",
+       "next week"
+      ],
+      [
+       "[[sa isáng buwán|other]]",
+       "next month"
+      ],
+      [
+       "[[sa isáng taón|other]]",
+       "next year"
+      ],
+      [
+       "[[sa Enero|other]]",
+       "next January"
+      ],
+      [
+       "[[sa susunód na Lunes|other]]",
+       "next Monday"
+      ],
+      [
+       "[[sa susunód na buwán|other]]",
+       "next month"
+      ]
+     ],
+     "title": "Future"
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "Sa bukas? No.",
+     "t": "**Sa bukas** is an exception: you do not add sa, because **bukas** alone is enough."
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "Same word, different time",
+     "items": [
+      "**noóng** isáng buwán = *last* month, but **sa** isáng buwán = *next* month.",
+      "**noóng** Martes = *last* Tuesday, but **sa** Martes = *next* Tuesday.",
+      "**ngayóng** umaga = this morning (it is still morning), but **kanínang** umága = this morning (it is now afternoon).",
+      "**kamakalawá** = day *before yesterday*, but **samakalawá** = day *after tomorrow*."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "present",
+     "title": "Present and past words"
+    },
+    {
+     "type": "vocab",
+     "group": "future",
+     "title": "Future words"
+    }
+   ]
+  },
+  {
+   "title": "Sample sentences",
+   "blocks": [
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Anóng oras na?",
+       "en": "What time is it?",
+       "parts": [
+        [
+         "Anóng",
+         "what (+ ligature)",
+         "other"
+        ],
+        [
+         "oras",
+         "hour, time",
+         "noun"
+        ],
+        [
+         "na",
+         "(particle)",
+         "part"
+        ]
+       ]
+      },
+      {
+       "tl": "Ngayón ay ika-ápat ng hapon.",
+       "en": "It is four p.m.",
+       "parts": [
+        [
+         "Ngayón",
+         "now",
+         "other"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "ika-ápat",
+         "four (o'clock)",
+         "pred"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "hapon",
+         "afternoon",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Anóng áraw at oras ka ba áalis?",
+       "en": "What day and time are you leaving?",
+       "parts": [
+        [
+         "Anóng",
+         "what (+ ligature)",
+         "other"
+        ],
+        [
+         "áraw",
+         "day",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "oras",
+         "time",
+         "noun"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ],
+        [
+         "ba",
+         "(question)",
+         "part"
+        ],
+        [
+         "áalis",
+         "will leave",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Áalis ka ba mámayâ?",
+       "en": "Will you leave later (within the day)?",
+       "parts": [
+        [
+         "Áalis",
+         "will leave",
+         "pred"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ],
+        [
+         "ba",
+         "(question)",
+         "part"
+        ],
+        [
+         "mámayâ",
+         "later within the day",
+         "other"
+        ]
+       ]
+      },
+      {
+       "tl": "Oo, mámayâng ikalima ng hapon.",
+       "en": "Yes, later at five in the afternoon.",
+       "parts": [
+        [
+         "Oo",
+         "yes",
+         "part"
+        ],
+        [
+         "mámayâng",
+         "later (+ ligature)",
+         "other"
+        ],
+        [
+         "ikalima",
+         "five (o'clock)",
+         "pred"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "hapon",
+         "afternoon",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Púpunta kamí sa kapilya búkas sa ikapitó ng umaga.",
+       "en": "We will go to the chapel tomorrow at seven in the morning.",
+       "parts": [
+        [
+         "Púpunta",
+         "will go",
+         "pred"
+        ],
+        [
+         "kamí",
+         "we",
+         "pron"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "kapilya",
+         "chapel",
+         "noun"
+        ],
+        [
+         "búkas",
+         "tomorrow",
+         "other"
+        ],
+        [
+         "sa",
+         "at",
+         "marker"
+        ],
+        [
+         "ikapitó",
+         "seven (o'clock)",
+         "pred"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "umaga",
+         "morning",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Dádalaw kamí sa amíng kaibígan sa ikalimá ng hapon.",
+       "en": "We shall visit our friend at five in the afternoon.",
+       "parts": [
+        [
+         "Dádalaw",
+         "shall visit",
+         "pred"
+        ],
+        [
+         "kamí",
+         "we",
+         "pron"
+        ],
+        [
+         "sa",
+         "(to)",
+         "marker"
+        ],
+        [
+         "amíng",
+         "our",
+         "poss"
+        ],
+        [
+         "kaibígan",
+         "friend",
+         "noun"
+        ],
+        [
+         "sa",
+         "at",
+         "marker"
+        ],
+        [
+         "ikalimá",
+         "five (o'clock)",
+         "pred"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "hapon",
+         "afternoon",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang mga batà ay áawit sa Luneta búkas ng hapon.",
+       "en": "The children will sing at the Luneta tomorrow afternoon.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "mga",
+         "(plural)",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ],
+        [
+         "ay",
+         "(link)",
+         "ay"
+        ],
+        [
+         "áawit",
+         "will sing",
+         "pred"
+        ],
+        [
+         "sa",
+         "at",
+         "marker"
+        ],
+        [
+         "Luneta",
+         "the Luneta",
+         "noun"
+        ],
+        [
+         "búkas",
+         "tomorrow",
+         "other"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "hapon",
+         "afternoon",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Tútugtóg ang bánda sa gabí.",
+       "en": "The band will play in the evening.",
+       "parts": [
+        [
+         "Tútugtóg",
+         "will play",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "bánda",
+         "musical band",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "gabí",
+         "evening",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Sa isáng linggó, kamí ay púpuntá sa Tagaytay.",
+       "en": "Next week, we shall go to Tagaytay.",
+       "parts": [
+        [
+         "Sa",
+         "(future)",
+         "other"
+        ],
+        [
+         "isáng",
+         "one (+ ligature)",
+         "other"
+        ],
+        [
+         "linggó",
+         "week",
+         "other"
+        ],
+        [
+         "kamí",
+         "we",
+         "pron"
+        ],
+        [
+         "ay",
+         "(link)",
+         "ay"
+        ],
+        [
+         "púpuntá",
+         "shall go",
+         "pred"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "Tagaytay",
+         "Tagaytay",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Noóng isáng buwán, pumuntá kamí sa Baguio.",
+       "en": "Last month, we went to Baguio.",
+       "parts": [
+        [
+         "Noóng",
+         "(past)",
+         "other"
+        ],
+        [
+         "isáng",
+         "one (+ ligature)",
+         "other"
+        ],
+        [
+         "buwán",
+         "month",
+         "other"
+        ],
+        [
+         "pumuntá",
+         "went",
+         "pred"
+        ],
+        [
+         "kamí",
+         "we",
+         "pron"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "Baguio",
+         "Baguio",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Sample sentences"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Notice",
+     "items": [
+      "The future sentences use future verbs (áalis, púpunta, dádalaw, áawit, tútugtóg) with future words (mámayâ, búkas, sa isáng linggó).",
+      "The past sentence uses a past verb (pumuntá) with a past phrase (noóng isáng buwán).",
+      "**Sa** + time says *at* that time: sa ikapitó ng umaga, *at seven in the morning*.",
+      "The sentences write búkas and hapon, while the lists write bukas and hápon. They are the same words."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "words",
+     "title": "Words from the sentences"
+    }
+   ]
+  },
+  {
+   "title": "Practice from the book",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book prints these exercises without answers. Use the tables in this lesson to work them out out loud."
+    },
+    {
+     "type": "table",
+     "head": [
+      "#",
+      "Time"
+     ],
+     "rows": [
+      [
+       "1",
+       "8:00 pm"
+      ],
+      [
+       "2",
+       "10:00 am"
+      ],
+      [
+       "3",
+       "5:30 pm"
+      ],
+      [
+       "4",
+       "6:00 am"
+      ],
+      [
+       "5",
+       "1:00 pm"
+      ],
+      [
+       "6",
+       "6:15 am"
+      ],
+      [
+       "7",
+       "3:00 pm"
+      ],
+      [
+       "8",
+       "6:30 pm"
+      ],
+      [
+       "9",
+       "7:45 pm"
+      ],
+      [
+       "10",
+       "12:00 am"
+      ]
+     ],
+     "title": "Tell these times in Tagalog, then in Spanish"
+    },
+    {
+     "type": "table",
+     "head": [
+      "#",
+      "Question"
+     ],
+     "rows": [
+      [
+       "1",
+       "Anóng oras ka ba áalis búkas?"
+      ],
+      [
+       "2",
+       "Anó bang áraw ngayón?"
+      ],
+      [
+       "3",
+       "Anóng áraw búkas?"
+      ],
+      [
+       "4",
+       "Anóng oras ka ba pupuntá sa ospitál?"
+      ],
+      [
+       "5",
+       "Anóng oras ka ba pupuntá sa kapílya?"
+      ],
+      [
+       "6",
+       "Iláng oras ang inyóng pag-aáral sa Tagalog?"
+      ],
+      [
+       "7",
+       "Anóng oras kayo nag-aáral?"
+      ],
+      [
+       "8",
+       "Iláng beses (*how many times*) ang inyóng pag-aáral sa isáng linggó?"
+      ],
+      [
+       "9",
+       "Iláng oras ang inyóng pag-aáral áraw-áraw?"
+      ],
+      [
+       "10",
+       "Iláng oras ang inyóng pag-aáral sa isáng linggó?"
+      ]
+     ],
+     "title": "Answer in complete Tagalog sentences"
+    },
+    {
+     "type": "table",
+     "head": [
+      "#",
+      "Written",
+      "Read the parts as"
+     ],
+     "rows": [
+      [
+       "1",
+       "ika-6:00 n.h.",
+       "ika- + 6:00 + ng hápon"
+      ],
+      [
+       "2",
+       "ika-2:30 n.u.",
+       "ika- + 2:30 + ng umaga"
+      ],
+      [
+       "3",
+       "ika-12:00 n.t.",
+       "ika- + 12:00 + ng tangháli"
+      ],
+      [
+       "4",
+       "ika-8:15 n.u.",
+       "ika- + 8:15 + ng umaga"
+      ],
+      [
+       "5",
+       "ika-7:00 n.g.",
+       "ika- + 7:00 + ng gabí"
+      ],
+      [
+       "6",
+       "ika-6:45 n.g.",
+       "ika- + 6:45 + ng gabí"
+      ],
+      [
+       "7",
+       "ika-2:15 n.g.",
+       "ika- + 2:15 + ng gabí"
+      ],
+      [
+       "8",
+       "ika-10:00 n.u.",
+       "ika- + 10:00 + ng umaga"
+      ]
+     ],
+     "title": "Read the following aloud"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "Anóng oras na? What time is it?",
+      "Tell the hour with ika- + number: ikalawá ng umaga, ikapitó ng gabí. One o'clock is unang oras.",
+      "Minutes join with at: ikalimá at labinlimang minuto. Half past: at kalahatí.",
+      "The Spanish way is still widely used: a la una, a las dos, y medya, y kuwarto.",
+      "Short forms: n.u. (a.m.), n.t. (noon), n.h. (p.m.), n.g. (evening).",
+      "Past: kanína, kahápon, kagabí, noóng… Future: mámayâ, bukas, samakalawá, sa… Never sa bukas."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "madaling-araw-l28",
+   "tl": "madalíng-áraw",
+   "en": "dawn",
+   "pos": "noun",
+   "group": "list",
+   "say": "ma-da-LING-A-raw"
+  },
+  {
+   "id": "samakalawa-l28",
+   "tl": "samakalawá",
+   "en": "day after tomorrow",
+   "pos": "adv",
+   "group": "list",
+   "say": "sa-ma-ka-la-WA"
+  },
+  {
+   "id": "oras-l28",
+   "tl": "oras",
+   "en": "hour",
+   "pos": "noun",
+   "group": "list"
+  },
+  {
+   "id": "noong-martes-l28",
+   "tl": "noóng Martes",
+   "en": "last Tuesday",
+   "pos": "phrase",
+   "group": "list"
+  },
+  {
+   "id": "sa-isang-buwan-l28",
+   "tl": "sa isáng buwán",
+   "en": "next month",
+   "pos": "phrase",
+   "group": "list",
+   "say": "sa i-SANG bu-WAN"
+  },
+  {
+   "id": "hatinggabi-l28",
+   "tl": "hátinggabí",
+   "en": "midnight",
+   "pos": "noun",
+   "group": "time",
+   "say": "HA-ting-ga-BI"
+  },
+  {
+   "id": "beses-l28",
+   "tl": "beses",
+   "en": "frequency",
+   "pos": "noun",
+   "group": "time"
+  },
+  {
+   "id": "ilang-beses-l28",
+   "tl": "ilang beses",
+   "en": "few times",
+   "pos": "phrase",
+   "group": "time",
+   "note": "The exercises use Iláng beses? for how many times?"
+  },
+  {
+   "id": "sandali-l28",
+   "tl": "sandalî",
+   "en": "second, moment (as a response, it means for a while)",
+   "pos": "noun",
+   "group": "time",
+   "say": "san-da-liQ"
+  },
+  {
+   "id": "mula-umaga-gabi-l28",
+   "tl": "mulâ sa umaga hanggáng gabí",
+   "en": "from morning until evening (for present or future activities)",
+   "pos": "phrase",
+   "group": "time"
+  },
+  {
+   "id": "mula-enero-ngayon-l28",
+   "tl": "mulâ noóng Enero hanggáng ngayón",
+   "en": "from last January until now (for past activities)",
+   "pos": "phrase",
+   "group": "time"
+  },
+  {
+   "id": "ngayong-araw-l28",
+   "tl": "ngayóng áraw",
+   "en": "today",
+   "pos": "phrase",
+   "group": "present",
+   "say": "nga-YONG A-raw"
+  },
+  {
+   "id": "ngayong-umaga-l28",
+   "tl": "ngayóng umaga",
+   "en": "this morning (assume that it is still morning)",
+   "pos": "phrase",
+   "group": "present"
+  },
+  {
+   "id": "kanina-l28",
+   "tl": "kanína",
+   "en": "a moment ago",
+   "pos": "adv",
+   "group": "present",
+   "say": "ka-NI-na"
+  },
+  {
+   "id": "kagabi-l28",
+   "tl": "kagabí",
+   "en": "last night",
+   "pos": "adv",
+   "group": "present",
+   "say": "ka-ga-BI"
+  },
+  {
+   "id": "kamakalawa-l28",
+   "tl": "kamakalawá",
+   "en": "day before yesterday",
+   "pos": "adv",
+   "group": "present",
+   "say": "ka-ma-ka-la-WA"
+  },
+  {
+   "id": "noong-araw-l28",
+   "tl": "noóng áraw",
+   "en": "in the olden times",
+   "pos": "phrase",
+   "group": "present",
+   "say": "no-ONG A-raw"
+  },
+  {
+   "id": "noong-unang-panahon-l28",
+   "tl": "noóng unang panahón",
+   "en": "a long time ago",
+   "pos": "phrase",
+   "group": "present"
+  },
+  {
+   "id": "noong-linggo-l28",
+   "tl": "noóng Linggo",
+   "en": "last Sunday",
+   "pos": "phrase",
+   "group": "present"
+  },
+  {
+   "id": "noong-isang-linggo-l28",
+   "tl": "noóng isáng linggó",
+   "en": "last week",
+   "pos": "phrase",
+   "group": "present",
+   "say": "no-ONG i-SANG ling-GO"
+  },
+  {
+   "id": "noong-isang-taon-l28",
+   "tl": "noóng isáng taón",
+   "en": "last year",
+   "pos": "phrase",
+   "group": "present",
+   "say": "no-ONG i-SANG ta-ON"
+  },
+  {
+   "id": "noong-enero-l28",
+   "tl": "noóng Enero",
+   "en": "last January",
+   "pos": "phrase",
+   "group": "present"
+  },
+  {
+   "id": "kaninang-umaga-l28",
+   "tl": "kanínang umága",
+   "en": "this morning (assume that it is now afternoon)",
+   "pos": "phrase",
+   "group": "present",
+   "say": "ka-NI-nang u-MA-ga"
+  },
+  {
+   "id": "mamaya-l28",
+   "tl": "mámayâ",
+   "en": "later within the day",
+   "pos": "adv",
+   "group": "future",
+   "say": "MA-ma-yaQ"
+  },
+  {
+   "id": "mamayang-hapon-l28",
+   "tl": "mámayâng hapon",
+   "en": "later this afternoon",
+   "pos": "phrase",
+   "group": "future"
+  },
+  {
+   "id": "mamayang-gabi-l28",
+   "tl": "mámayâng gabí",
+   "en": "later this evening",
+   "pos": "phrase",
+   "group": "future"
+  },
+  {
+   "id": "bukas-l28",
+   "tl": "bukas",
+   "en": "tomorrow",
+   "pos": "adv",
+   "group": "future",
+   "note": "The sample sentences write búkas."
+  },
+  {
+   "id": "sa-linggo-l28",
+   "tl": "sa Linggó",
+   "en": "next Sunday",
+   "pos": "phrase",
+   "group": "future"
+  },
+  {
+   "id": "sa-martes-l28",
+   "tl": "sa Martes",
+   "en": "next Tuesday",
+   "pos": "phrase",
+   "group": "future"
+  },
+  {
+   "id": "sa-isang-linggo-l28",
+   "tl": "sa isáng linggó",
+   "en": "next week",
+   "pos": "phrase",
+   "group": "future",
+   "say": "sa i-SANG ling-GO"
+  },
+  {
+   "id": "sa-isang-taon-l28",
+   "tl": "sa isáng taón",
+   "en": "next year",
+   "pos": "phrase",
+   "group": "future",
+   "say": "sa i-SANG ta-ON"
+  },
+  {
+   "id": "sa-enero-l28",
+   "tl": "sa Enero",
+   "en": "next January",
+   "pos": "phrase",
+   "group": "future"
+  },
+  {
+   "id": "sa-susunod-na-lunes-l28",
+   "tl": "sa susunód na Lunes",
+   "en": "next Monday",
+   "pos": "phrase",
+   "group": "future"
+  },
+  {
+   "id": "aalis-l28",
+   "tl": "áalis",
+   "en": "will leave",
+   "pos": "verb",
+   "group": "words",
+   "say": "A-a-lis"
+  },
+  {
+   "id": "dadalaw-l28",
+   "tl": "dádalaw",
+   "en": "shall visit",
+   "pos": "verb",
+   "group": "words",
+   "say": "DA-da-law"
+  },
+  {
+   "id": "aawit-l28",
+   "tl": "áawit",
+   "en": "will sing",
+   "pos": "verb",
+   "group": "words",
+   "say": "A-a-wit"
+  },
+  {
+   "id": "tutugtog-l28",
+   "tl": "tútugtóg",
+   "en": "will play",
+   "pos": "verb",
+   "group": "words",
+   "say": "TU-tug-TOG"
+  },
+  {
+   "id": "banda-l28",
+   "tl": "bánda",
+   "en": "musical band",
+   "pos": "noun",
+   "group": "words",
+   "say": "BAN-da"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "How do you ask \"What time is it?\"",
+   "options": [
+    "Anóng oras na?",
+    "Anóng áraw búkas?",
+    "Kailán ka áalis?"
+   ],
+   "answer": "Anóng oras na?",
+   "explain": "Tagalogs often ask strangers this."
+  },
+  {
+   "type": "choice",
+   "q": "To tell time, which prefix goes before the cardinal numbers?",
+   "options": [
+    "ika-",
+    "mag-",
+    "ma-"
+   ],
+   "answer": "ika-",
+   "explain": "ikalawá, ikatló, ika-ápat…"
+  },
+  {
+   "type": "choice",
+   "q": "How does the book say 1:00 a.m.?",
+   "options": [
+    "unang oras ng umaga",
+    "ikalawá ng umaga",
+    "ikatló ng umaga"
+   ],
+   "answer": "unang oras ng umaga",
+   "explain": "One o'clock is the first hour: unang oras."
+  },
+  {
+   "type": "choice",
+   "q": "Tell 8:00 p.m. in Tagalog.",
+   "options": [
+    "ikawaló ng gabí",
+    "ikawaló ng umaga",
+    "ikapitó ng gabí"
+   ],
+   "answer": "ikawaló ng gabí",
+   "explain": "From the table: 8:00 p.m. = ikawaló ng gabí (a las otso ng gabí)."
+  },
+  {
+   "type": "choice",
+   "q": "Tell 10:00 a.m. in Tagalog.",
+   "options": [
+    "ikasampû ng umaga",
+    "ikasampû ng gabí",
+    "ikasiyám ng umaga"
+   ],
+   "answer": "ikasampû ng umaga",
+   "explain": "Spanish: a las diyes ng umaga."
+  },
+  {
+   "type": "choice",
+   "q": "Tell 6:00 a.m. in Tagalog.",
+   "options": [
+    "ikaánim ng umaga",
+    "ikaánim ng gabí",
+    "ikalimá ng umaga"
+   ],
+   "answer": "ikaánim ng umaga",
+   "explain": "Spanish: a las seis ng umaga."
+  },
+  {
+   "type": "choice",
+   "q": "Tell 12:00 midnight in Tagalog.",
+   "options": [
+    "ikalabíndalawá ng hátinggabí",
+    "ikalabindalawá ng tánghali",
+    "ikalabíng-isá ng gabí"
+   ],
+   "answer": "ikalabíndalawá ng hátinggabí",
+   "explain": "Hátinggabí means midnight."
+  },
+  {
+   "type": "choice",
+   "q": "What is 3:30 p.m. the Spanish way?",
+   "options": [
+    "a las tres y medya ng hápon",
+    "a las tres ng umaga",
+    "a las sinko y kuwarto ng hápon"
+   ],
+   "answer": "a las tres y medya ng hápon",
+   "explain": "In Tagalog: ikatló at kalahatí ng hápon."
+  },
+  {
+   "type": "choice",
+   "q": "\"ikalimá at labinlimang minuto ng hápon\" is…",
+   "options": [
+    "5:15 p.m.",
+    "5:00 a.m.",
+    "6:40 p.m."
+   ],
+   "answer": "5:15 p.m.",
+   "explain": "Five and fifteen minutes in the afternoon."
+  },
+  {
+   "type": "choice",
+   "q": "What does n.u. stand for?",
+   "options": [
+    "ng umaga, a.m.",
+    "ng hápon, p.m.",
+    "ng gabí, evening"
+   ],
+   "answer": "ng umaga, a.m.",
+   "explain": "n.u. = ng umaga."
+  },
+  {
+   "type": "choice",
+   "q": "What does n.t. stand for?",
+   "options": [
+    "ng tangháli, noon",
+    "ng umaga, a.m.",
+    "ng gabí, evening"
+   ],
+   "answer": "ng tangháli, noon",
+   "explain": "n.t. = ng tangháli."
+  },
+  {
+   "type": "choice",
+   "q": "Read aloud: ika-7:00 n.g.",
+   "options": [
+    "ikapitó ng gabí",
+    "ikapitó ng umaga",
+    "ikawaló ng gabí"
+   ],
+   "answer": "ikapitó ng gabí",
+   "explain": "n.g. = ng gabí."
+  },
+  {
+   "type": "choice",
+   "q": "Which of these is a PAST time word?",
+   "options": [
+    "kanína",
+    "mámayâ",
+    "bukas"
+   ],
+   "answer": "kanína",
+   "explain": "Kanína means a moment ago."
+  },
+  {
+   "type": "choice",
+   "q": "How do you say \"last week\"?",
+   "options": [
+    "noóng isáng linggó",
+    "sa isáng linggó",
+    "noóng Linggo"
+   ],
+   "answer": "noóng isáng linggó",
+   "explain": "Noóng Linggo is last Sunday; sa isáng linggó is next week."
+  },
+  {
+   "type": "choice",
+   "q": "How do you say \"next month\"?",
+   "options": [
+    "sa isáng buwán",
+    "noóng isáng buwán",
+    "ngayóng áraw"
+   ],
+   "answer": "sa isáng buwán",
+   "explain": "Sa (future) + isáng buwán."
+  },
+  {
+   "type": "choice",
+   "q": "It is now afternoon. How do you say \"this morning\"?",
+   "options": [
+    "kanínang umága",
+    "ngayóng umaga",
+    "mámayâ"
+   ],
+   "answer": "kanínang umága",
+   "explain": "Ngayóng umaga is used while it is still morning."
+  },
+  {
+   "type": "choice",
+   "q": "Which pairing is NOT acceptable?",
+   "options": [
+    "noóng kahapon",
+    "noóng isáng hapon",
+    "noóng isáng gabí"
+   ],
+   "answer": "noóng kahapon",
+   "explain": "Noón(g) cannot be paired with kahapon nor kagabi."
+  },
+  {
+   "type": "choice",
+   "q": "Why don't you say \"sa bukas\"?",
+   "options": [
+    "Bukas alone is enough",
+    "Bukas is a past word",
+    "Sa is only for names"
+   ],
+   "answer": "Bukas alone is enough",
+   "explain": "Sa bukas is an exception."
+  },
+  {
+   "type": "listen",
+   "tl": "hátinggabí",
+   "options": [
+    "midnight",
+    "noon",
+    "dawn"
+   ],
+   "answer": "midnight",
+   "explain": "12:00 midnight = ikalabíndalawá ng hátinggabí."
+  },
+  {
+   "type": "listen",
+   "tl": "samakalawá",
+   "options": [
+    "day after tomorrow",
+    "day before yesterday",
+    "tomorrow"
+   ],
+   "answer": "day after tomorrow",
+   "explain": "A future word."
+  },
+  {
+   "type": "listen",
+   "tl": "kamakalawá",
+   "options": [
+    "day before yesterday",
+    "day after tomorrow",
+    "last night"
+   ],
+   "answer": "day before yesterday",
+   "explain": "A past word."
+  },
+  {
+   "type": "listen",
+   "tl": "madalíng-áraw",
+   "options": [
+    "dawn",
+    "midnight",
+    "afternoon"
+   ],
+   "answer": "dawn",
+   "explain": "From the vocabulary list."
+  },
+  {
+   "type": "listen",
+   "tl": "mámayâ",
+   "options": [
+    "later within the day",
+    "a moment ago",
+    "tomorrow"
+   ],
+   "answer": "later within the day",
+   "explain": "Áalis ka ba mámayâ?"
+  },
+  {
+   "type": "build",
+   "en": "What time is it?",
+   "tl": "Anóng oras na?",
+   "tokens": [
+    "anóng",
+    "oras",
+    "na"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "It is four p.m.",
+   "tl": "Ngayón ay ika-ápat ng hapon.",
+   "tokens": [
+    "ngayón",
+    "ay",
+    "ika-ápat",
+    "ng",
+    "hapon"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Will you leave later (within the day)?",
+   "tl": "Áalis ka ba mámayâ?",
+   "tokens": [
+    "áalis",
+    "ka",
+    "ba",
+    "mámayâ"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The band will play in the evening.",
+   "tl": "Tútugtóg ang bánda sa gabí.",
+   "tokens": [
+    "tútugtóg",
+    "ang",
+    "bánda",
+    "sa",
+    "gabí"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Last month, we went to Baguio.",
+   "tl": "Noóng isáng buwán, pumuntá kamí sa Baguio.",
+   "tokens": [
+    "noóng",
+    "isáng",
+    "buwán",
+    "pumuntá",
+    "kamí",
+    "sa",
+    "baguio"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Next week, we shall go to Tagaytay.",
+   "tl": "Sa isáng linggó, kamí ay púpuntá sa Tagaytay.",
+   "tokens": [
+    "sa",
+    "isáng",
+    "linggó",
+    "kamí",
+    "ay",
+    "púpuntá",
+    "sa",
+    "tagaytay"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match each word to its meaning.",
+   "pairs": [
+    [
+     "kahápon",
+     "yesterday"
+    ],
+    [
+     "bukas",
+     "tomorrow"
+    ],
+    [
+     "kagabí",
+     "last night"
+    ],
+    [
+     "kanína",
+     "a moment ago"
+    ],
+    [
+     "ngayón",
+     "now"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each short form to its meaning.",
+   "pairs": [
+    [
+     "n.u.",
+     "a.m."
+    ],
+    [
+     "n.t.",
+     "noon"
+    ],
+    [
+     "n.h.",
+     "p.m."
+    ],
+    [
+     "n.g.",
+     "evening"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "Anóng oras na? asks the time. Tell the hour with ika- + number: ikalawá ng umaga; one o'clock is unang oras.",
+  "Add minutes with at (ikalimá at labinlimang minuto) and half past with at kalahatí.",
+  "The Spanish way (a la una, a las dos, y medya) is still widely used.",
+  "Written short forms: n.u. a.m., n.t. noon, n.h. p.m., n.g. evening.",
+  "Kailán questions are answered with present (ngayón…), past (kanína, kahápon, noóng…) or future (mámayâ, bukas, sa…) words.",
+  "Noón(g) never goes with kahapon or kagabi, and bukas never takes sa."
+ ]
+}

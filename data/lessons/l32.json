@@ -1,0 +1,2223 @@
+{
+ "id": "l32",
+ "label": "32",
+ "title": "I- verb forms",
+ "summary": "The prefix i- makes passive verbs for doing something for someone or using something: isúlat, ilutò, ibigáy",
+ "minutes": 35,
+ "goals": [
+  "Understand what the prefix i- adds to a word",
+  "Form the tenses of i- verbs (and the variant ipag-)",
+  "Use the three sentence patterns that turn -um- and mag- sentences into i- sentences",
+  "Learn common i- verbs and avoid the common mistakes"
+ ],
+ "sections": [
+  {
+   "title": "What does i- do?",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The prefix [[i-|pred]] is added to words to make **passive verbs**. It shows that something is **used** to do something. For example, add i- to the noun **sulat** (letter) and you get the verb **isulat** (*to write down something*)."
+    },
+    {
+     "type": "p",
+     "t": "When i- is added to a verb, it can also show that something is done **for someone else**, as well as doing the action of the root word on or for the subject:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Tagalog",
+      "English"
+     ],
+     "rows": [
+      [
+       "[[isulat|pred]] [[mo|poss]] [[ako|pron]]",
+       "you write for me"
+      ],
+      [
+       "[[ihulog|pred]] [[ang|marker]] [[sulat|noun]]",
+       "post the mail for someone"
+      ]
+     ],
+     "title": "Doing it for someone"
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "In general",
+     "t": "The meaning of an i- verb is usually **to do something for another person**."
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Active and passive",
+     "t": "In Lesson 14 you met **-um-** and **mag-** verbs, which are **active**: the subject does the action. An **i-** verb is **passive**: the subject is the thing or person the action is done to or for."
+    }
+   ]
+  },
+  {
+   "title": "When to use an i- verb",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Use the i- form only when an active **-um-** or **mag-** sentence has a **direct object**: the noun or pronoun that receives the action of the verb."
+    },
+    {
+     "type": "p",
+     "t": "To find the direct object in an -um- or mag- sentence: take the verb on its own, put *whom* (**sino**) or *what* (**ano**) after it, and make it a question."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Bumilí ng isdâ ang babáe para sa kanyáng iná.",
+       "en": "The woman bought fish for her mother.",
+       "parts": [
+        [
+         "Bumilí",
+         "bought",
+         "pred"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "isdâ",
+         "fish",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "babáe",
+         "woman",
+         "noun"
+        ],
+        [
+         "para sa",
+         "for",
+         "marker"
+        ],
+        [
+         "kanyáng",
+         "her",
+         "poss"
+        ],
+        [
+         "iná",
+         "mother",
+         "noun"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "head": [
+      "Part",
+      "In this sentence"
+     ],
+     "rows": [
+      [
+       "Ask: *Bumilí what?*",
+       "the answer [[isdâ|noun]] is the **direct object**"
+      ],
+      [
+       "[[ang babáe|noun]]",
+       "the **subject**"
+      ],
+      [
+       "[[para sa kanyáng iná|noun]]",
+       "the **indirect object**"
+      ]
+     ],
+     "title": "Finding the direct object"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Mostly mag- verbs",
+     "items": [
+      "An i- verb is **usually** the passive form of a **mag-** verb, and **seldom** of an -um- verb.",
+      "Sometimes, instead of an i- verb, a mag- verb takes the variant **ipag-**, which means doing something for another. It normally follows the **first sentence pattern** (below)."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Forming i- verbs: roots starting with a consonant",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "For roots that begin with a **consonant**, the prefix **i-** (or its variant **ipag-**) goes on **all forms and tenses**, and the infix **-in-** is added in the **past** and **present**."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Tagalog",
+      "How it is made",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[sulat|noun]]",
+       "",
+       "letter"
+      ],
+      [
+       "Infinitive",
+       "[[isulat|pred]]",
+       "i- + root",
+       "to write for another"
+      ],
+      [
+       "Imperative",
+       "[[isulat|pred]]",
+       "i- + root",
+       "write for another"
+      ],
+      [
+       "Past",
+       "[[isinúlat|pred]]",
+       "i- + -in- after the first letter of the root",
+       "wrote for another"
+      ],
+      [
+       "Present",
+       "[[isinusúlat|pred]]",
+       "i- + -in- + first syllable repeated + root",
+       "writes for another"
+      ],
+      [
+       "Future",
+       "[[isusúlat|pred]]",
+       "i- + first syllable repeated + root",
+       "will write for another"
+      ]
+     ],
+     "title": "sulat → isulat"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Tagalog",
+      "How it is made",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[sama|noun]]",
+       "",
+       "accompany"
+      ],
+      [
+       "Infinitive",
+       "[[isáma|pred]]",
+       "i- + root",
+       "to take someone along"
+      ],
+      [
+       "Imperative",
+       "[[isáma|pred]]",
+       "i- + root",
+       "take someone along"
+      ],
+      [
+       "Past",
+       "[[isináma|pred]]",
+       "i- + -in- after the first letter of the root",
+       "took someone along"
+      ],
+      [
+       "Present",
+       "[[isinasáma|pred]]",
+       "i- + -in- + first syllable repeated + root",
+       "takes someone along"
+      ],
+      [
+       "Future",
+       "[[isasáma|pred]]",
+       "i- + first syllable repeated + root",
+       "will take someone along"
+      ]
+     ],
+     "title": "sama → isáma"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Tagalog",
+      "How it is made",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[sulat|noun]]",
+       "",
+       "write"
+      ],
+      [
+       "Infinitive",
+       "[[ipagsulát|pred]]",
+       "ipag- + root",
+       "to write for another"
+      ],
+      [
+       "Imperative",
+       "[[ipagsulát|pred]]",
+       "ipag- + root",
+       "write for another"
+      ],
+      [
+       "Past",
+       "[[ipinagsulát|pred]]",
+       "-in- after the first two letters of ipag- + root",
+       "wrote for another"
+      ],
+      [
+       "Present",
+       "[[ipinagsusulát|pred]]",
+       "-in- after the first two letters of ipag- + first syllable repeated + root",
+       "writes for another"
+      ],
+      [
+       "Future",
+       "[[ipagsusulát|pred]]",
+       "ipag- + first syllable repeated + root",
+       "will write for another"
+      ]
+     ],
+     "title": "The variant ipag-: sulat → ipagsulát"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Spot the pattern",
+     "items": [
+      "Past: **-in-** goes in after the first letter: s**in**úlat, s**in**áma; with ipag-: **ip-in-ag**sulát.",
+      "Present: **-in-** plus the **first syllable repeated**: isinu**sú**lat, isina**sá**ma.",
+      "Future: just repeat the **first syllable**: isu**sú**lat, isa**sá**ma, ipagsu**su**lát."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Spelling",
+     "t": "The book writes **isulat** for the infinitive and imperative, but **isúlat** in its list of i- verbs."
+    }
+   ]
+  },
+  {
+   "title": "Forming i- verbs: roots starting with a vowel or h, l, y, w",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "For roots that begin with a **vowel** or with the consonants **h, l, y** and **w**, the prefix **i-** still goes on all forms and tenses, but the infix **-in-** becomes **-ni-**, added in the **past** and **present**."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Tagalog",
+      "How it is made",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[hanap|noun]]",
+       "",
+       "search"
+      ],
+      [
+       "Infinitive",
+       "[[ihánap|pred]]",
+       "i- + root",
+       "to have someone look for something"
+      ],
+      [
+       "Imperative",
+       "[[ihánap|pred]]",
+       "i- + root",
+       "have someone look for something"
+      ],
+      [
+       "Past",
+       "[[inihánap|pred]]",
+       "i- + -ni- + root",
+       "had someone look for something"
+      ],
+      [
+       "Present",
+       "[[inihahánap|pred]]",
+       "i- + -ni- + first syllable repeated + root",
+       "having someone look for something"
+      ],
+      [
+       "Future",
+       "[[ihahánap|pred]]",
+       "i- + first syllable repeated + root",
+       "will have someone look for something"
+      ]
+     ],
+     "title": "hanap → ihánap"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Tagalog",
+      "How it is made",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[lutò|noun]]",
+       "",
+       "cook"
+      ],
+      [
+       "Infinitive",
+       "[[ilutò|pred]]",
+       "i- + root",
+       "to cook something"
+      ],
+      [
+       "Imperative",
+       "[[ilutò|pred]]",
+       "i- + root",
+       "cook something"
+      ],
+      [
+       "Past",
+       "[[inilutò|pred]]",
+       "i- + -ni- + root",
+       "cooked something"
+      ],
+      [
+       "Present",
+       "[[inilúlutò|pred]]",
+       "i- + -ni- + first syllable repeated + root",
+       "is cooking something"
+      ],
+      [
+       "Future",
+       "[[iluluto|pred]]",
+       "i- + first syllable repeated + root",
+       "will cook something"
+      ]
+     ],
+     "title": "lutò → ilutò",
+     "note": "The book prints the future iluluto without accent marks."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "-in- or -ni-?",
+     "items": [
+      "Root starts with a consonant (not h, l, y, w): **-in-** → is**in**úlat.",
+      "Root starts with a vowel or h, l, y, w: **-ni-** → i**ni**hánap, i**ni**lutò."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sentence pattern 1: from -um-",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "When the i- verb's active form uses **-um-**, the **indirect object** becomes the **subject** of the i- sentence. The indirect object is the part introduced by **sa**, **para sa**, **kay** or **para kay** (see Lesson 27)."
+    },
+    {
+     "type": "p",
+     "t": "Watch the article **ang** move: in the -um- sentence it marks the doer, but in the i- sentence it moves to **iná**, making **ang kanyáng iná** the subject. Remember (Lesson 4): **ang** and **si** introduce the subject."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Bumilí ng isdâ ang babáe para sa kanyáng iná.",
+       "en": "The woman bought fish for her mother.",
+       "parts": [
+        [
+         "Bumilí",
+         "bought",
+         "pred"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "isdâ",
+         "fish",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "babáe",
+         "woman",
+         "noun"
+        ],
+        [
+         "para sa",
+         "for",
+         "marker"
+        ],
+        [
+         "kanyáng",
+         "her",
+         "poss"
+        ],
+        [
+         "iná",
+         "mother",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ibinilí ng babáe ng isdâ ang kanyáng iná.",
+       "en": "The woman bought fish for her mother.",
+       "parts": [
+        [
+         "Ibinilí",
+         "bought for",
+         "pred"
+        ],
+        [
+         "ng",
+         "by",
+         "marker"
+        ],
+        [
+         "babáe",
+         "woman",
+         "noun"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "isdâ",
+         "fish",
+         "noun"
+        ],
+        [
+         "ang",
+         "the (subject)",
+         "marker"
+        ],
+        [
+         "kanyáng",
+         "her",
+         "poss"
+        ],
+        [
+         "iná",
+         "mother",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Example 1: -um- sentence, then i- sentence"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Bumása ng aklát ang gurò para kay Joe.",
+       "en": "(The book prints \"The woman bought fish for her mother\" here again by mistake. Compare pattern 3 below: The teacher read the book to the child.)",
+       "parts": [
+        [
+         "Bumása",
+         "read",
+         "pred"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "aklát",
+         "book",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "gurò",
+         "teacher",
+         "noun"
+        ],
+        [
+         "para kay",
+         "for",
+         "marker"
+        ],
+        [
+         "Joe",
+         "Joe",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ibinása ng gurò ng aklát si Joe.",
+       "en": "(Same meaning as the sentence above.)",
+       "parts": [
+        [
+         "Ibinása",
+         "read for",
+         "pred"
+        ],
+        [
+         "ng",
+         "by",
+         "marker"
+        ],
+        [
+         "gurò",
+         "teacher",
+         "noun"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "aklát",
+         "book",
+         "noun"
+        ],
+        [
+         "si",
+         "(subject, name)",
+         "marker"
+        ],
+        [
+         "Joe",
+         "Joe",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Example 2: with a person's name"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "si for names",
+     "t": "Joe is a person's name, so the i- sentence uses **si**, not **ang**. **Ang** introduces names of places and things."
+    }
+   ]
+  },
+  {
+   "title": "Sentence pattern 2: from mag-",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "When the i- verb's active form uses **mag-** (or **nag-** in the past), the **direct object** becomes the **subject** of the i- sentence, introduced by **si** or **ang**."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Naglutò siyá ng pagkain para sa anák.",
+       "en": "She/He cooked the food for her/his child.",
+       "parts": [
+        [
+         "Naglutò",
+         "cooked",
+         "pred"
+        ],
+        [
+         "siyá",
+         "she/he",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "pagkain",
+         "food",
+         "noun"
+        ],
+        [
+         "para sa",
+         "for",
+         "marker"
+        ],
+        [
+         "anák",
+         "child",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Inilutò niyá ang pagkain para sa anák.",
+       "en": "She/He cooked the food for her/his child.",
+       "parts": [
+        [
+         "Inilutò",
+         "cooked",
+         "pred"
+        ],
+        [
+         "niyá",
+         "by her/him",
+         "poss"
+        ],
+        [
+         "ang",
+         "the (subject)",
+         "marker"
+        ],
+        [
+         "pagkain",
+         "food",
+         "noun"
+        ],
+        [
+         "para sa",
+         "for",
+         "marker"
+        ],
+        [
+         "anák",
+         "child",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nag-áyos ng silíd si Benjamin.",
+       "en": "Benjamin arranged the room.",
+       "parts": [
+        [
+         "Nag-áyos",
+         "arranged",
+         "pred"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "silíd",
+         "room",
+         "noun"
+        ],
+        [
+         "si",
+         "(subject, name)",
+         "marker"
+        ],
+        [
+         "Benjamin",
+         "Benjamin",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Iniáyos ni Benjamin ang silíd.",
+       "en": "Benjamin arranged the room.",
+       "parts": [
+        [
+         "Iniáyos",
+         "arranged",
+         "pred"
+        ],
+        [
+         "ni",
+         "by",
+         "marker"
+        ],
+        [
+         "Benjamin",
+         "Benjamin",
+         "noun"
+        ],
+        [
+         "ang",
+         "the (subject)",
+         "marker"
+        ],
+        [
+         "silíd",
+         "room",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "mag- sentence, then i- sentence"
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "The doer changes form",
+     "items": [
+      "A personal pronoun in the mag- sentence becomes a **possessive** pronoun in the i- sentence: **siyá** → **niyá**.",
+      "A person's name changes the same way: **si Benjamin** → **ni Benjamin**."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sentence pattern 3: -um- and mag- with the same meaning",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "When the **-um-** and **mag-** verbs have **similar meanings** (see Lesson 14), the i- verb follows the **first** sentence pattern: the indirect object becomes the subject."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Bumása ng aklát ang gurò para sa batà.",
+       "en": "The teacher read the book to the child.",
+       "parts": [
+        [
+         "Bumása",
+         "read",
+         "pred"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "aklát",
+         "book",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "gurò",
+         "teacher",
+         "noun"
+        ],
+        [
+         "para sa",
+         "for",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nagbasá ng aklát ang gurò para sa batà.",
+       "en": "The teacher read the book to the child.",
+       "parts": [
+        [
+         "Nagbasá",
+         "read",
+         "pred"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "aklát",
+         "book",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "gurò",
+         "teacher",
+         "noun"
+        ],
+        [
+         "para sa",
+         "for",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ibinása ng aklát ng gurò ang batà.",
+       "en": "The teacher read the book to the child.",
+       "parts": [
+        [
+         "Ibinása",
+         "read for",
+         "pred"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "aklát",
+         "book",
+         "noun"
+        ],
+        [
+         "ng",
+         "by",
+         "marker"
+        ],
+        [
+         "gurò",
+         "teacher",
+         "noun"
+        ],
+        [
+         "ang",
+         "the (subject)",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Bumása / Nagbasá → Ibinása"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "The three patterns",
+     "items": [
+      "**1. From -um-:** the indirect object (sa, para sa, kay, para kay) becomes the subject.",
+      "**2. From mag-:** the direct object becomes the subject; siyá → niyá, si → ni.",
+      "**3. -um- and mag- mean the same:** follow pattern 1."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Examples of i- verbs",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "In this list, the article in brackets is the one used to introduce the **receiver of the action** in the i- sentence."
+    },
+    {
+     "type": "table",
+     "head": [
+      "i- verb",
+      "Article",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[ihánap|pred]]",
+       "(ng)",
+       "to have someone look for something"
+      ],
+      [
+       "[[ibilí|pred]]",
+       "(ng)",
+       "to have someone buy something"
+      ],
+      [
+       "[[ibása|pred]]",
+       "(ng)",
+       "to read for another"
+      ],
+      [
+       "[[ihirám|pred]]",
+       "(ng)",
+       "to borrow for someone else"
+      ],
+      [
+       "[[isúlat|pred]]",
+       "(ng)",
+       "to write for another"
+      ],
+      [
+       "[[ilutò|pred]]",
+       "(ang)",
+       "to cook"
+      ],
+      [
+       "[[iturò|pred]]",
+       "(ang)",
+       "to teach"
+      ],
+      [
+       "[[ihúlog|pred]]",
+       "(ang)",
+       "to let something fall"
+      ],
+      [
+       "[[itápon|pred]]",
+       "(ang)",
+       "to throw away"
+      ],
+      [
+       "[[ibigáy|pred]]",
+       "(ang)",
+       "to give something to someone"
+      ],
+      [
+       "[[iwalâ|pred]]",
+       "(ang)",
+       "to lose"
+      ],
+      [
+       "[[idagdág|pred]]",
+       "(ang)",
+       "to add"
+      ],
+      [
+       "[[ibalità|pred]]",
+       "(ang)",
+       "to give information"
+      ],
+      [
+       "[[ilagáy|pred]]",
+       "(ang)",
+       "to place"
+      ],
+      [
+       "[[ibilád|pred]]",
+       "(ang)",
+       "to place under the sun"
+      ]
+     ],
+     "title": "I- verbs",
+     "note": "The book's text says the first four verbs take a subject introduced by si or ang and the rest by ni or ng, but the list marks the first five (ng) and the rest (ang). The list is shown here as printed."
+    },
+    {
+     "type": "vocab",
+     "group": "list",
+     "title": "Vocabulary list"
+    },
+    {
+     "type": "vocab",
+     "group": "iverbs",
+     "title": "More i- verbs"
+    }
+   ]
+  },
+  {
+   "title": "Sample sentences",
+   "blocks": [
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ihahánap ko siyá ng bagong aklát.",
+       "en": "I shall look for a new book for him/her.",
+       "parts": [
+        [
+         "Ihahánap",
+         "shall look for (for someone)",
+         "pred"
+        ],
+        [
+         "ko",
+         "I",
+         "poss"
+        ],
+        [
+         "siyá",
+         "him/her",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "bagong",
+         "new",
+         "other"
+        ],
+        [
+         "aklát",
+         "book",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ilutò mo ang isdâ ngayong gabí.",
+       "en": "You cook the fish tonight.",
+       "parts": [
+        [
+         "Ilutò",
+         "cook",
+         "pred"
+        ],
+        [
+         "mo",
+         "you",
+         "poss"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "isdâ",
+         "fish",
+         "noun"
+        ],
+        [
+         "ngayong gabí",
+         "tonight",
+         "other"
+        ]
+       ]
+      },
+      {
+       "tl": "Ibigáy mo sa ákin ang páhayagan.",
+       "en": "Give me the newspaper.",
+       "parts": [
+        [
+         "Ibigáy",
+         "give",
+         "pred"
+        ],
+        [
+         "mo",
+         "you",
+         "poss"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "ákin",
+         "me",
+         "pron"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "páhayagan",
+         "newspaper",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Iniwalâ ni Peter ang áking bóla.",
+       "en": "Was lost by Peter my ball. (literal) / Peter lost my ball.",
+       "parts": [
+        [
+         "Iniwalâ",
+         "was lost",
+         "pred"
+        ],
+        [
+         "ni",
+         "by",
+         "marker"
+        ],
+        [
+         "Peter",
+         "Peter",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "áking",
+         "my",
+         "poss"
+        ],
+        [
+         "bóla",
+         "ball",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ihuhúlog ko ang sulat sa koreo.",
+       "en": "I will drop the letter at the Post Office.",
+       "parts": [
+        [
+         "Ihuhúlog",
+         "will drop",
+         "pred"
+        ],
+        [
+         "ko",
+         "I",
+         "poss"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "sulat",
+         "letter",
+         "noun"
+        ],
+        [
+         "sa",
+         "at",
+         "marker"
+        ],
+        [
+         "koreo",
+         "Post Office",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Sample sentences (1)"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Itinuturò niyá sa ámin ang wíkang Tagálog.",
+       "en": "She/He is teaching us the Tagalog language.",
+       "parts": [
+        [
+         "Itinuturò",
+         "is teaching",
+         "pred"
+        ],
+        [
+         "niyá",
+         "she/he",
+         "poss"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "ámin",
+         "us",
+         "pron"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "wíkang",
+         "language (+ ligature)",
+         "noun"
+        ],
+        [
+         "Tagálog",
+         "Tagalog",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ibinilí ako ng baró ng áking iná.",
+       "en": "Bought for me a dress by my mother. (literal) / My mother bought a dress for me.",
+       "parts": [
+        [
+         "Ibinilí",
+         "bought for",
+         "pred"
+        ],
+        [
+         "ako",
+         "me",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "baró",
+         "dress",
+         "noun"
+        ],
+        [
+         "ng",
+         "by",
+         "marker"
+        ],
+        [
+         "áking",
+         "my",
+         "poss"
+        ],
+        [
+         "iná",
+         "mother",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ibíbilád ko ang sapátos.",
+       "en": "Will put under the sun by me the shoes. (literal) / I shall put the shoes under the sun.",
+       "parts": [
+        [
+         "Ibíbilád",
+         "will put under the sun",
+         "pred"
+        ],
+        [
+         "ko",
+         "by me",
+         "poss"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "sapátos",
+         "shoes",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Itátaním ng áming katúlong ang ságing.",
+       "en": "Will be planted by our helper the banana tree. (literal) / Our helper will plant the banana.",
+       "parts": [
+        [
+         "Itátaním",
+         "will be planted",
+         "pred"
+        ],
+        [
+         "ng",
+         "by",
+         "marker"
+        ],
+        [
+         "áming",
+         "our",
+         "poss"
+        ],
+        [
+         "katúlong",
+         "helper",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "ságing",
+         "banana tree",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Itinápon niyá ang lúmang tinápay.",
+       "en": "Thrown away by him/her the stale bread. (literal) / He threw away the stale bread.",
+       "parts": [
+        [
+         "Itinápon",
+         "thrown away",
+         "pred"
+        ],
+        [
+         "niyá",
+         "by him/her",
+         "poss"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "lúmang",
+         "stale (+ ligature)",
+         "other"
+        ],
+        [
+         "tinápay",
+         "bread",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Sample sentences (2)"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Look closely",
+     "items": [
+      "The doer is shown with **ko, mo, niyá** or **ni / ng**, and the thing acted on takes **ang**.",
+      "Many literal translations sound odd in English, so the book also gives a natural one.",
+      "This lesson writes **baró** (dress); Lesson 4 wrote **barò**."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Common errors with i- verbs",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Some words look as if they should exist, but they **do not** exist in Tagalog. Use the i- verb instead:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Not a word",
+      "From",
+      "Use instead",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "balitain",
+       "balità",
+       "[[ibalità|pred]]",
+       "to relay or give out news"
+      ],
+      [
+       "hulugin",
+       "húlog",
+       "[[ihúlog|pred]]",
+       "to let something fall or drop"
+      ],
+      [
+       "tanimin",
+       "taním",
+       "[[itaním|pred]]",
+       "to plant"
+      ],
+      [
+       "punasin",
+       "púnas",
+       "[[ipúnas|pred]]",
+       "to use something to wipe with"
+      ],
+      [
+       "turuin",
+       "turò",
+       "[[iturò|pred]]",
+       "to teach"
+      ],
+      [
+       "tapunin",
+       "tápon",
+       "[[itápon|pred]]",
+       "to throw away"
+      ],
+      [
+       "walain",
+       "walâ",
+       "[[iwalâ|pred]]",
+       "to lose"
+      ],
+      [
+       "balikin",
+       "balík",
+       "[[ibalík|pred]]",
+       "to return"
+      ],
+      [
+       "bukasin",
+       "búkas",
+       "[[ibukás|pred]]",
+       "to cause to open"
+      ],
+      [
+       "sarahin",
+       "sará",
+       "[[isará|pred]]",
+       "to shut"
+      ]
+     ],
+     "title": "Wrong → right"
+    },
+    {
+     "type": "p",
+     "t": "So the **past** forms are:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Correct past",
+      "Not"
+     ],
+     "rows": [
+      [
+       "[[ibinalità|pred]]",
+       "binalita"
+      ],
+      [
+       "[[inihúlog|pred]]",
+       "hinulog"
+      ],
+      [
+       "[[itinaním|pred]]",
+       "tinanim"
+      ],
+      [
+       "[[ipinúnas|pred]]",
+       "pinunas"
+      ],
+      [
+       "[[iturò|pred]]",
+       "tinuro"
+      ],
+      [
+       "[[itinápon|pred]]",
+       "tinapon"
+      ],
+      [
+       "[[iniwalâ|pred]]",
+       "niwala"
+      ],
+      [
+       "[[ibinalík|pred]]",
+       "binalik"
+      ],
+      [
+       "[[ibinukás|pred]]",
+       "binukas"
+      ],
+      [
+       "[[isinará|pred]]",
+       "sinara"
+      ]
+     ],
+     "title": "Past forms",
+     "note": "The book prints iturò in this past list. Its sample sentence uses the present form itinuturò."
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Don't use -in on these roots",
+     "t": "With these roots, do not add **-in** (balitain, tapunin…). Put **i-** in front instead, and add the infix for the past: **ibinalík**, **itinápon**, **isinará**."
+    },
+    {
+     "type": "vocab",
+     "group": "correct",
+     "title": "Correct derivatives"
+    }
+   ]
+  },
+  {
+   "title": "Practice from the book",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book asks you to **pick out the i- verb** you would need, and translate each sentence into Tagalog. It prints no answers; use the lists and patterns above."
+    },
+    {
+     "type": "table",
+     "head": [
+      "#",
+      "Sentence"
+     ],
+     "rows": [
+      [
+       "1",
+       "Peter lost his ball."
+      ],
+      [
+       "2",
+       "Cook the meat for us."
+      ],
+      [
+       "3",
+       "He returned the book to the library."
+      ],
+      [
+       "4",
+       "Open the door."
+      ],
+      [
+       "5",
+       "He closed the windows."
+      ],
+      [
+       "6",
+       "She taught me Tagalog at the Philippine Women's University."
+      ],
+      [
+       "7",
+       "I shall buy a dress for my child."
+      ],
+      [
+       "8",
+       "He gave me a pretty flower."
+      ],
+      [
+       "9",
+       "Get some food for the old man."
+      ],
+      [
+       "10",
+       "The woman planted the tree in the garden."
+      ]
+     ],
+     "title": "Translate into Tagalog"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "More practice from the book",
+     "items": [
+      "Make your own sentences with the other i- verbs in the list.",
+      "Change your i- sentences back into **mag-** or **-um-** sentences using the three patterns. The subject of the i- sentence becomes the direct or indirect object.",
+      "Say the different tense forms of as many i- verbs as you can, out loud."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "i- makes passive verbs; it usually means doing something for another person.",
+      "Consonant roots: -in- in past and present (isinúlat, isinusúlat). Vowel or h, l, y, w roots: -ni- (inihánap, inilutò).",
+      "Future: repeat the first syllable (isusúlat, ihahánap).",
+      "Pattern 1 (-um-): indirect object → subject. Pattern 2 (mag-): direct object → subject. Pattern 3: like pattern 1.",
+      "Say ibalík, itápon, isará, not balikin, tapunin, sarahin."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "ihanap-l32",
+   "tl": "ihánap",
+   "en": "to have someone look for something",
+   "pos": "verb",
+   "group": "list",
+   "say": "i-HA-nap",
+   "note": "Article: (ng). Root: hanap (search)."
+  },
+  {
+   "id": "ihulog-l32",
+   "tl": "ihúlog",
+   "en": "to let something fall",
+   "pos": "verb",
+   "group": "list",
+   "say": "i-HU-log",
+   "note": "Article: (ang). The common-errors list gives: to let something fall or drop."
+  },
+  {
+   "id": "idagdag-l32",
+   "tl": "idagdág",
+   "en": "to add",
+   "pos": "verb",
+   "group": "list",
+   "say": "i-dag-DAG",
+   "note": "Article: (ang)."
+  },
+  {
+   "id": "ihiram-l32",
+   "tl": "ihirám",
+   "en": "to borrow for someone else",
+   "pos": "verb",
+   "group": "list",
+   "say": "i-hi-RAM",
+   "note": "Article: (ng)."
+  },
+  {
+   "id": "ilagay-l32",
+   "tl": "ilagáy",
+   "en": "to place in or on",
+   "pos": "verb",
+   "group": "list",
+   "say": "i-la-GAY",
+   "note": "Article: (ang). The list of i- verbs gives: to place."
+  },
+  {
+   "id": "ibili-l32",
+   "tl": "ibilí",
+   "en": "to have someone buy something",
+   "pos": "verb",
+   "group": "iverbs",
+   "say": "i-bi-LI",
+   "note": "Article: (ng)."
+  },
+  {
+   "id": "ibasa-l32",
+   "tl": "ibása",
+   "en": "to read for another",
+   "pos": "verb",
+   "group": "iverbs",
+   "say": "i-BA-sa",
+   "note": "Article: (ng)."
+  },
+  {
+   "id": "isulat-l32",
+   "tl": "isúlat",
+   "en": "to write for another",
+   "pos": "verb",
+   "group": "iverbs",
+   "say": "i-SU-lat",
+   "note": "Article: (ng). The book also writes isulat."
+  },
+  {
+   "id": "iluto-l32",
+   "tl": "ilutò",
+   "en": "to cook",
+   "pos": "verb",
+   "group": "iverbs",
+   "say": "i-LU-toQ",
+   "note": "Article: (ang). The verb table gives: to cook something."
+  },
+  {
+   "id": "ituro-l32",
+   "tl": "iturò",
+   "en": "to teach",
+   "pos": "verb",
+   "group": "iverbs",
+   "say": "i-TU-roQ",
+   "note": "Article: (ang)."
+  },
+  {
+   "id": "itapon-l32",
+   "tl": "itápon",
+   "en": "to throw away",
+   "pos": "verb",
+   "group": "iverbs",
+   "say": "i-TA-pon",
+   "note": "Article: (ang)."
+  },
+  {
+   "id": "ibigay-l32",
+   "tl": "ibigáy",
+   "en": "to give something to someone",
+   "pos": "verb",
+   "group": "iverbs",
+   "say": "i-bi-GAY",
+   "note": "Article: (ang)."
+  },
+  {
+   "id": "iwala-l32",
+   "tl": "iwalâ",
+   "en": "to lose",
+   "pos": "verb",
+   "group": "iverbs",
+   "say": "i-wa-laQ",
+   "note": "Article: (ang)."
+  },
+  {
+   "id": "ibalita-l32",
+   "tl": "ibalità",
+   "en": "to give information",
+   "pos": "verb",
+   "group": "iverbs",
+   "say": "i-ba-LI-taQ",
+   "note": "Article: (ang). The common-errors list gives: to relay or give out news."
+  },
+  {
+   "id": "ibilad-l32",
+   "tl": "ibilád",
+   "en": "to place under the sun",
+   "pos": "verb",
+   "group": "iverbs",
+   "say": "i-bi-LAD",
+   "note": "Article: (ang)."
+  },
+  {
+   "id": "isama-l32",
+   "tl": "isáma",
+   "en": "to take someone along",
+   "pos": "verb",
+   "group": "iverbs",
+   "say": "i-SA-ma",
+   "note": "Root: sama (accompany)."
+  },
+  {
+   "id": "ipagsulat-l32",
+   "tl": "ipagsulát",
+   "en": "to write for another",
+   "pos": "verb",
+   "group": "iverbs",
+   "say": "i-pag-su-LAT",
+   "note": "The ipag- variant of isulat."
+  },
+  {
+   "id": "itanim-l32",
+   "tl": "itaním",
+   "en": "to plant",
+   "pos": "verb",
+   "group": "correct",
+   "say": "i-ta-NIM",
+   "note": "Not tanimin."
+  },
+  {
+   "id": "ipunas-l32",
+   "tl": "ipúnas",
+   "en": "to use something to wipe with",
+   "pos": "verb",
+   "group": "correct",
+   "say": "i-PU-nas",
+   "note": "Not punasin."
+  },
+  {
+   "id": "ibalik-l32",
+   "tl": "ibalík",
+   "en": "to return",
+   "pos": "verb",
+   "group": "correct",
+   "say": "i-ba-LIK",
+   "note": "Not balikin."
+  },
+  {
+   "id": "ibukas-l32",
+   "tl": "ibukás",
+   "en": "to cause to open",
+   "pos": "verb",
+   "group": "correct",
+   "say": "i-bu-KAS",
+   "note": "Not bukasin."
+  },
+  {
+   "id": "isara-l32",
+   "tl": "isará",
+   "en": "to shut",
+   "pos": "verb",
+   "group": "correct",
+   "say": "i-sa-RA",
+   "note": "Not sarahin."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "What does the prefix i- usually add to a verb's meaning?",
+   "options": [
+    "to do something for another person",
+    "to do something by accident",
+    "to be able to do something"
+   ],
+   "answer": "to do something for another person",
+   "explain": "Isulat mo ako = you write for me."
+  },
+  {
+   "type": "choice",
+   "q": "Is an i- verb active or passive?",
+   "options": [
+    "passive",
+    "active"
+   ],
+   "answer": "passive",
+   "explain": "The prefix i- forms passive verbs."
+  },
+  {
+   "type": "choice",
+   "q": "When is the i- form used?",
+   "options": [
+    "When an active -um- or mag- verb has a direct object",
+    "Only with names of people",
+    "Only in the past tense"
+   ],
+   "answer": "When an active -um- or mag- verb has a direct object",
+   "explain": "Ask 'Bumilí what?' to find the direct object."
+  },
+  {
+   "type": "choice",
+   "q": "\"Bumilí ng isdâ ang babáe para sa kanyáng iná.\" What is the direct object?",
+   "options": [
+    "isdâ",
+    "ang babáe",
+    "para sa kanyáng iná"
+   ],
+   "answer": "isdâ",
+   "explain": "Ang babáe is the subject; para sa kanyáng iná is the indirect object."
+  },
+  {
+   "type": "choice",
+   "q": "An i- verb is usually the passive form of which kind of verb?",
+   "options": [
+    "mag-",
+    "-um-",
+    "ma-"
+   ],
+   "answer": "mag-",
+   "explain": "Seldom of an -um- verb."
+  },
+  {
+   "type": "choice",
+   "q": "What is the PAST of isulat?",
+   "options": [
+    "isinúlat",
+    "isusúlat",
+    "isinusúlat"
+   ],
+   "answer": "isinúlat",
+   "explain": "i- + -in- after the first letter of the root."
+  },
+  {
+   "type": "choice",
+   "q": "What is the FUTURE of isáma?",
+   "options": [
+    "isasáma",
+    "isináma",
+    "isinasáma"
+   ],
+   "answer": "isasáma",
+   "explain": "i- + first syllable repeated + root."
+  },
+  {
+   "type": "choice",
+   "q": "What is the PRESENT of ihánap?",
+   "options": [
+    "inihahánap",
+    "inihánap",
+    "ihahánap"
+   ],
+   "answer": "inihahánap",
+   "explain": "Roots starting with h take -ni-."
+  },
+  {
+   "type": "choice",
+   "q": "Roots beginning with a vowel or h, l, y, w use which infix in the past and present?",
+   "options": [
+    "-ni-",
+    "-in-",
+    "-um-"
+   ],
+   "answer": "-ni-",
+   "explain": "inihánap, inilutò."
+  },
+  {
+   "type": "choice",
+   "q": "What is the past of ipagsulát?",
+   "options": [
+    "ipinagsulát",
+    "ipagsusulát",
+    "isinúlat"
+   ],
+   "answer": "ipinagsulát",
+   "explain": "-in- goes after the first two letters of ipag-."
+  },
+  {
+   "type": "choice",
+   "q": "Pattern 1 (-um- verb): what becomes the subject of the i- sentence?",
+   "options": [
+    "the indirect object",
+    "the direct object",
+    "the doer"
+   ],
+   "answer": "the indirect object",
+   "explain": "Ibinilí ng babáe ng isdâ ang kanyáng iná."
+  },
+  {
+   "type": "choice",
+   "q": "Pattern 2 (mag- verb): what becomes the subject of the i- sentence?",
+   "options": [
+    "the direct object",
+    "the indirect object",
+    "the doer"
+   ],
+   "answer": "the direct object",
+   "explain": "Inilutò niyá ang pagkain para sa anák."
+  },
+  {
+   "type": "choice",
+   "q": "In pattern 2, siyá in the mag- sentence becomes…",
+   "options": [
+    "niyá",
+    "ako",
+    "sila"
+   ],
+   "answer": "niyá",
+   "explain": "Naglutò siyá… → Inilutò niyá…"
+  },
+  {
+   "type": "choice",
+   "q": "Which is a real Tagalog word for 'to return'?",
+   "options": [
+    "ibalík",
+    "balikin"
+   ],
+   "answer": "ibalík",
+   "explain": "Balikin does not exist."
+  },
+  {
+   "type": "choice",
+   "q": "Which is a real Tagalog word for 'to shut'?",
+   "options": [
+    "isará",
+    "sarahin"
+   ],
+   "answer": "isará",
+   "explain": "Sarahin does not exist; past isinará."
+  },
+  {
+   "type": "listen",
+   "tl": "itápon",
+   "options": [
+    "to throw away",
+    "to place under the sun",
+    "to add"
+   ],
+   "answer": "to throw away",
+   "explain": "Itinápon niyá ang lúmang tinápay."
+  },
+  {
+   "type": "listen",
+   "tl": "ibigáy",
+   "options": [
+    "to give something to someone",
+    "to borrow for someone else",
+    "to lose"
+   ],
+   "answer": "to give something to someone",
+   "explain": "Ibigáy mo sa ákin ang páhayagan."
+  },
+  {
+   "type": "listen",
+   "tl": "iwalâ",
+   "options": [
+    "to lose",
+    "to teach",
+    "to plant"
+   ],
+   "answer": "to lose",
+   "explain": "Iniwalâ ni Peter ang áking bóla."
+  },
+  {
+   "type": "listen",
+   "tl": "idagdág",
+   "options": [
+    "to add",
+    "to place in or on",
+    "to return"
+   ],
+   "answer": "to add",
+   "explain": "From the vocabulary list."
+  },
+  {
+   "type": "listen",
+   "tl": "ibilád",
+   "options": [
+    "to place under the sun",
+    "to throw away",
+    "to shut"
+   ],
+   "answer": "to place under the sun",
+   "explain": "Ibíbilád ko ang sapátos."
+  },
+  {
+   "type": "build",
+   "en": "You cook the fish tonight.",
+   "tl": "Ilutò mo ang isdâ ngayong gabí.",
+   "tokens": [
+    "ilutò",
+    "mo",
+    "ang",
+    "isdâ",
+    "ngayong",
+    "gabí"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Give me the newspaper.",
+   "tl": "Ibigáy mo sa ákin ang páhayagan.",
+   "tokens": [
+    "ibigáy",
+    "mo",
+    "sa",
+    "ákin",
+    "ang",
+    "páhayagan"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Peter lost my ball.",
+   "tl": "Iniwalâ ni Peter ang áking bóla.",
+   "tokens": [
+    "iniwalâ",
+    "ni",
+    "peter",
+    "ang",
+    "áking",
+    "bóla"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "I will drop the letter at the Post Office.",
+   "tl": "Ihuhúlog ko ang sulat sa koreo.",
+   "tokens": [
+    "ihuhúlog",
+    "ko",
+    "ang",
+    "sulat",
+    "sa",
+    "koreo"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "I shall put the shoes under the sun.",
+   "tl": "Ibíbilád ko ang sapátos.",
+   "tokens": [
+    "ibíbilád",
+    "ko",
+    "ang",
+    "sapátos"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Benjamin arranged the room.",
+   "tl": "Iniáyos ni Benjamin ang silíd.",
+   "tokens": [
+    "iniáyos",
+    "ni",
+    "benjamin",
+    "ang",
+    "silíd"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "He threw away the stale bread.",
+   "tl": "Itinápon niyá ang lúmang tinápay.",
+   "tokens": [
+    "itinápon",
+    "niyá",
+    "ang",
+    "lúmang",
+    "tinápay"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match the i- verb to its meaning.",
+   "pairs": [
+    [
+     "ihánap",
+     "to have someone look for something"
+    ],
+    [
+     "ihirám",
+     "to borrow for someone else"
+    ],
+    [
+     "ilagáy",
+     "to place in or on"
+    ],
+    [
+     "ihúlog",
+     "to let something fall"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the correct verb to its meaning.",
+   "pairs": [
+    [
+     "itaním",
+     "to plant"
+    ],
+    [
+     "ipúnas",
+     "to use something to wipe with"
+    ],
+    [
+     "ibukás",
+     "to cause to open"
+    ],
+    [
+     "iturò",
+     "to teach"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "The prefix i- makes passive verbs, usually meaning to do something for another person.",
+  "Use an i- verb only when the -um- or mag- sentence has a direct object.",
+  "Consonant roots: isulat, isinúlat, isinusúlat, isusúlat. Vowel or h, l, y, w roots: ihánap, inihánap, inihahánap, ihahánap.",
+  "Pattern 1 (-um-): indirect object → subject. Pattern 2 (mag-): direct object → subject, siyá → niyá. Pattern 3: like pattern 1.",
+  "Say ibalità, ihúlog, itaním, ibalík, isará; not balitain, hulugin, tanimin, balikin, sarahin."
+ ]
+}

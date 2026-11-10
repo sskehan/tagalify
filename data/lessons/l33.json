@@ -1,0 +1,2641 @@
+{
+ "id": "l33",
+ "label": "33",
+ "title": "-An verb forms",
+ "summary": "The suffix -an (or -han): places like aklátan, and passive verbs like basáhan, lagyán and buksán",
+ "minutes": 40,
+ "goals": [
+  "Know the jobs the suffix -an does: a place, a passive action, size and quality",
+  "Choose between -an and its variant -han",
+  "Build the infinitive, imperative, past, present and future of an -an verb",
+  "Recognise the irregular -an verbs (lagyán, buksán, hipan…)",
+  "Change an -um- or mag- sentence into an -an sentence"
+ ],
+ "sections": [
+  {
+   "title": "What -an does",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**-an** is a **suffix**: it is attached to the **end** of a root word. The new -an word can do several different jobs."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Job",
+      "Root",
+      "-an word"
+     ],
+     "rows": [
+      [
+       "A **place** linked to the root",
+       "[[aklát|noun]] (book)",
+       "[[aklátan|noun]] (a library)"
+      ],
+      [
+       "A **place** linked to the root",
+       "[[gupít|pred]] (to cut)",
+       "[[gúpítan|noun]] (a place where they cut: a barber shop or beauty salon)"
+      ],
+      [
+       "An **action** in the passive form, like the -in verbs",
+       "[[sulat|noun]] (writing)",
+       "[[sulatan|pred]] (to write, or the act of writing)"
+      ],
+      [
+       "A description of **size**",
+       "[[dami|other]] (many)",
+       "[[damihan|pred]] (to increase the number)"
+      ],
+      [
+       "A description of **quality**",
+       "[[putik|noun]] (mud)",
+       "[[putikan|pred]] (muddy)"
+      ]
+     ],
+     "title": "One suffix, several jobs"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "What this lesson focuses on",
+     "t": "The book says this lesson focuses on **how -an words are formed**, more than on what they mean in context."
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "Like -in, but different",
+     "t": "In Lesson 15 the **-in** verbs were **passive**: the thing acted upon became the subject. The **-an** verbs are passive too, but the subject is usually the **person or place** the action is aimed at (*to read **to someone***, *to write **on** the book*). Section 6 shows this."
+    }
+   ]
+  },
+  {
+   "title": "-an or -han?",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Two forms of the suffix are used. Which one depends on how the root word **ends**. (The glottal catch is the stress written with a circumflex ^, from Lesson 2.)"
+    },
+    {
+     "type": "table",
+     "head": [
+      "The root ends in…",
+      "Suffix",
+      "Example root"
+     ],
+     "rows": [
+      [
+       "a **consonant**",
+       "**-an**",
+       "[[alís|pred]] (remove)"
+      ],
+      [
+       "a **vowel with a glottal catch**",
+       "**-an**",
+       "[[hingî|pred]] (to request)"
+      ],
+      [
+       "a **vowel without a glottal catch**",
+       "**-han** (the variant form)",
+       "[[sama|pred]] (to accompany)"
+      ]
+     ],
+     "title": "Choosing the suffix"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Same rule as Lesson 15",
+     "t": "This is the same idea as **-in** and **-hin** in Lesson 15: the extra **h** comes in after a vowel that has no glottal catch."
+    }
+   ]
+  },
+  {
+   "title": "Forming the tenses",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Like the -in verbs, an -an verb has an **infinitive**, an **imperative** and three tenses. The book calls these forms the **derivatives** of the verb."
+    },
+    {
+     "type": "h",
+     "t": "I. Verb roots ending in consonants"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Tagalog",
+      "How it is made",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[alís|pred]]",
+       "",
+       "remove"
+      ],
+      [
+       "Infinitive",
+       "[[alisán|pred]]",
+       "root word + -an",
+       "to remove something from someone"
+      ],
+      [
+       "Imperative",
+       "[[alisán|pred]]",
+       "root word + -an",
+       "remove something from someone"
+      ],
+      [
+       "Past",
+       "[[inalisán|pred]]",
+       "prefix in- + root word + -an",
+       "was/were removed"
+      ],
+      [
+       "Present",
+       "[[ináalisán|pred]]",
+       "prefix in- + duplicate first syllable + root word + -an",
+       "is/are being removed"
+      ],
+      [
+       "Future",
+       "[[áalisán|pred]]",
+       "duplicate first syllable + root word + -an",
+       "will be removed"
+      ]
+     ],
+     "title": "alís (remove)"
+    },
+    {
+     "type": "h",
+     "t": "II. Verb roots ending in vowels"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Tagalog",
+      "How it is made",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[basa|pred]]",
+       "",
+       "read"
+      ],
+      [
+       "Infinitive",
+       "[[basáhan|pred]]",
+       "root word + -han",
+       "to read to someone"
+      ],
+      [
+       "Imperative",
+       "[[basáhan|pred]]",
+       "root word + -han",
+       "Read to someone"
+      ],
+      [
+       "Past",
+       "[[bínasáhan|pred]]",
+       "infix -in- after first letter of first syllable + -han",
+       "was/were read to someone"
+      ],
+      [
+       "Present",
+       "[[binábasahan|pred]]",
+       "infix -in- after first letter of first syllable + root word + -han",
+       "is/are being read to someone"
+      ],
+      [
+       "Future",
+       "[[bábasahan|pred]]",
+       "duplicate first syllable + root word + -han",
+       "will be read to someone"
+      ]
+     ],
+     "title": "basa (read)"
+    },
+    {
+     "type": "pattern",
+     "title": "How basa becomes binábasahan",
+     "rows": [
+      {
+       "label": "Past",
+       "chips": [
+        {
+         "t": "b",
+         "r": "other"
+        },
+        {
+         "t": "in",
+         "r": "pred"
+        },
+        {
+         "t": "asá",
+         "r": "other"
+        },
+        {
+         "t": "han",
+         "r": "pred"
+        }
+       ]
+      },
+      {
+       "label": "Present",
+       "chips": [
+        {
+         "t": "b",
+         "r": "other"
+        },
+        {
+         "t": "in",
+         "r": "pred"
+        },
+        {
+         "t": "á",
+         "r": "other"
+        },
+        {
+         "t": "basa",
+         "r": "other"
+        },
+        {
+         "t": "han",
+         "r": "pred"
+        }
+       ]
+      },
+      {
+       "label": "Future",
+       "chips": [
+        {
+         "t": "bá",
+         "r": "other"
+        },
+        {
+         "t": "basa",
+         "r": "other"
+        },
+        {
+         "t": "han",
+         "r": "pred"
+        }
+       ]
+      }
+     ],
+     "note": "-in- slips in after the first letter; the present and future double the first syllable; -han goes on the end every time."
+    },
+    {
+     "type": "h",
+     "t": "III. Irregular verb roots"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Tagalog",
+      "How it is made",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "Root",
+       "[[lagay|pred]]",
+       "",
+       "put"
+      ],
+      [
+       "Infinitive",
+       "[[lagyán|pred]]",
+       "root word without the last vowel + -an",
+       "to put in something"
+      ],
+      [
+       "Imperative",
+       "[[lagyán|pred]]",
+       "root word without the last vowel + -an",
+       "put in something"
+      ],
+      [
+       "Past",
+       "[[nilagyán|pred]]",
+       "ni- + root word without the last vowel + -an",
+       "was/were put in"
+      ],
+      [
+       "Present",
+       "[[nilálagyán|pred]]",
+       "ni- + duplicate first syllable + root word without the last vowel + -an",
+       "is/are being put in"
+      ],
+      [
+       "Future",
+       "[[lálagyán|pred]]",
+       "duplicate first syllable + root word without the last vowel + -an",
+       "will be put in"
+      ]
+     ],
+     "title": "lagay (put)"
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "ni- instead of -in-",
+     "t": "With roots beginning with the consonants **l, w** and **y**, the infix **-in-** becomes the prefix **ni-**. You met this in Lesson 15 (lutò → nilutò). So lagay gives **nilagyán**, not *linagyán*."
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "The pattern",
+     "items": [
+      "**Infinitive and imperative** look the same: root + **-an** or **-han**.",
+      "**Past**: **in-** is added (inalisán), or **-in-** goes after the first letter (bínasáhan), or **ni-** for lagay (nilagyán). Nothing is doubled.",
+      "**Present**: like the past, with the **first syllable doubled**.",
+      "**Future**: the **first syllable doubled**, with no in-, -in- or ni-.",
+      "-an or -han stays on the end in **every** form."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Spellings in the book",
+     "t": "The book prints the future of basa as **bábasahan** in this table, but as **Bábasahán** in its sample sentences. It also writes **sulatan** in the opening paragraph and **sulátan** in the list of verbs."
+    }
+   ]
+  },
+  {
+   "title": "Regular -an verbs",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "These verbs follow the regular patterns above. Tap a word to hear it."
+    },
+    {
+     "type": "table",
+     "head": [
+      "-an verb",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[bawásan|pred]]",
+       "to diminish or reduce"
+      ],
+      [
+       "[[butásan|pred]]",
+       "to bore a hole"
+      ],
+      [
+       "[[bantayán|pred]]",
+       "to watch"
+      ],
+      [
+       "[[halikán|pred]]",
+       "to kiss"
+      ],
+      [
+       "[[damitán|pred]]",
+       "to dress up someone"
+      ],
+      [
+       "[[bayáran|pred]]",
+       "to pay"
+      ],
+      [
+       "[[sabúgan|pred]]",
+       "to scatter"
+      ],
+      [
+       "[[abután|pred]]",
+       "to hand someone something"
+      ],
+      [
+       "[[alagáan|pred]]",
+       "to care for"
+      ],
+      [
+       "[[anyayáhan|pred]]",
+       "to invite someone"
+      ],
+      [
+       "[[ayawán|pred]]",
+       "to be refused"
+      ],
+      [
+       "[[upáhan|pred]]",
+       "to rent"
+      ],
+      [
+       "[[sulátan|pred]]",
+       "to write to"
+      ],
+      [
+       "[[upuán|pred]]",
+       "to seat on"
+      ],
+      [
+       "[[bihísan|pred]]",
+       "to change someone's dress"
+      ],
+      [
+       "[[samáhan|pred]]",
+       "to accompany"
+      ],
+      [
+       "[[hugásan|pred]]",
+       "to wash (not referring to clothes)"
+      ]
+     ],
+     "title": "Examples of regular -an verbs"
+    },
+    {
+     "type": "vocab",
+     "group": "regular",
+     "title": "Regular -an verbs"
+    },
+    {
+     "type": "vocab",
+     "group": "list",
+     "title": "The lesson's vocabulary list"
+    }
+   ]
+  },
+  {
+   "title": "Irregular -an verbs",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "In the **irregular** -an verbs, the **second vowel** of the root word is **dropped**. The book shows in brackets what the regular form *would have been*, so you can see what dropped out."
+    },
+    {
+     "type": "pattern",
+     "title": "labahan → labhán",
+     "rows": [
+      {
+       "label": "Regular would be",
+       "chips": [
+        {
+         "t": "la",
+         "r": "other"
+        },
+        {
+         "t": "ba",
+         "r": "other"
+        },
+        {
+         "t": "han",
+         "r": "pred"
+        }
+       ]
+      },
+      {
+       "label": "The second vowel drops",
+       "chips": [
+        {
+         "t": "lab",
+         "r": "other"
+        },
+        {
+         "t": "hán",
+         "r": "pred"
+        }
+       ]
+      }
+     ],
+     "note": "labahan → labhán (to wash clothes)"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Irregular verb",
+      "(Regular would be)",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[labhán|pred]]",
+       "labahan",
+       "to wash (clothes)"
+      ],
+      [
+       "[[lagyán|pred]]",
+       "lagayan",
+       "to put in something"
+      ],
+      [
+       "[[sundán|pred]]",
+       "sunuran",
+       "to follow someone"
+      ],
+      [
+       "[[lakhán|pred]]",
+       "lakihan",
+       "to enlarge something"
+      ],
+      [
+       "[[bigyán|pred]]",
+       "bigayan",
+       "to give someone something"
+      ],
+      [
+       "[[tamnán|pred]]",
+       "taniman",
+       "to have a place planted with"
+      ],
+      [
+       "[[takpán|pred]]",
+       "takipan",
+       "to cover"
+      ],
+      [
+       "[[hingán|pred]]",
+       "hingian",
+       "to ask someone for something"
+      ],
+      [
+       "[[asnán|pred]]",
+       "asinan",
+       "to mix with salt"
+      ],
+      [
+       "[[tirhán|pred]]",
+       "tirahan",
+       "to leave remains for someone"
+      ],
+      [
+       "[[tingnán|pred]]",
+       "tinginan",
+       "to look at"
+      ],
+      [
+       "[[higán|pred]]",
+       "higaan",
+       "to lie down on something"
+      ],
+      [
+       "[[sakyán|pred]]",
+       "sakayan",
+       "to go aboard"
+      ],
+      [
+       "[[saktán|pred]]",
+       "sakitan",
+       "to hurt"
+      ],
+      [
+       "[[buksán|pred]]",
+       "bukasan",
+       "to open"
+      ],
+      [
+       "[[tawánan|pred]]",
+       "tawahan",
+       "to laugh at"
+      ],
+      [
+       "[[kúnan|pred]]",
+       "kuhanan",
+       "to take from"
+      ],
+      [
+       "[[dalhán|pred]]",
+       "dalahan",
+       "to bring someone something"
+      ],
+      [
+       "[[bilhán|pred]]",
+       "bilihan",
+       "to buy from"
+      ],
+      [
+       "[[hipan|pred]]",
+       "hihipan",
+       "to blow into or on something (from the root hihip, which means blow)"
+      ]
+     ],
+     "title": "Examples of irregular -an verbs"
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Other changes too",
+     "t": "Some irregular verbs change in other ways as well. In the last example, **hipan** (from **hihip**, blow), the second syllable **hi** is deleted altogether: *hihipan* → **hipan**. Compare each verb with its bracketed form to see what changed."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Two kinds of washing",
+     "t": "**labhán** is to wash **clothes**; **hugásan** is to wash something that is **not** clothes."
+    },
+    {
+     "type": "vocab",
+     "group": "irregular",
+     "title": "Irregular -an verbs"
+    }
+   ]
+  },
+  {
+   "title": "Sentence patterns",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "To change an **-um-** or **mag-** sentence (Lesson 14) into an **-an** sentence, follow these guidelines."
+    },
+    {
+     "type": "h",
+     "t": "I. Without a direct object"
+    },
+    {
+     "type": "p",
+     "t": "If the -um- or mag- sentence has **no direct object**, the **indirect object** (introduced by **para kay**, **kay**, **para sa** or **sa**) or the **place** (introduced by **sa**) becomes the **subject** of the -an sentence. The **doer** then takes a possessive article: **ni** or **ng**."
+    },
+    {
+     "type": "pattern",
+     "title": "-um- sentence → -an sentence",
+     "rows": [
+      {
+       "label": "Active",
+       "chips": [
+        {
+         "t": "Sumúlat",
+         "r": "pred"
+        },
+        {
+         "t": "ang batà",
+         "r": "noun"
+        },
+        {
+         "t": "sa aklát",
+         "r": "noun"
+        }
+       ]
+      },
+      {
+       "label": "Roles",
+       "chips": [
+        {
+         "t": "verb",
+         "r": "pred"
+        },
+        {
+         "t": "doer",
+         "r": "noun"
+        },
+        {
+         "t": "place",
+         "r": "marker"
+        }
+       ]
+      },
+      {
+       "label": "-an",
+       "chips": [
+        {
+         "t": "Sinulátan",
+         "r": "pred"
+        },
+        {
+         "t": "ng batà",
+         "r": "poss"
+        },
+        {
+         "t": "ang aklát",
+         "r": "noun"
+        }
+       ]
+      },
+      {
+       "label": "Roles",
+       "chips": [
+        {
+         "t": "verb",
+         "r": "pred"
+        },
+        {
+         "t": "doer",
+         "r": "poss"
+        },
+        {
+         "t": "subject",
+         "r": "noun"
+        }
+       ]
+      }
+     ],
+     "note": "The child wrote on the book."
+    },
+    {
+     "type": "pattern",
+     "title": "mag- sentence → -an sentence",
+     "rows": [
+      {
+       "label": "Active",
+       "chips": [
+        {
+         "t": "Magbasá",
+         "r": "pred"
+        },
+        {
+         "t": "ka",
+         "r": "pron"
+        },
+        {
+         "t": "sa ákin",
+         "r": "pron"
+        }
+       ]
+      },
+      {
+       "label": "Roles",
+       "chips": [
+        {
+         "t": "verb",
+         "r": "pred"
+        },
+        {
+         "t": "doer",
+         "r": "pron"
+        },
+        {
+         "t": "indirect object",
+         "r": "marker"
+        }
+       ]
+      },
+      {
+       "label": "-an",
+       "chips": [
+        {
+         "t": "Basáhan",
+         "r": "pred"
+        },
+        {
+         "t": "mo",
+         "r": "poss"
+        },
+        {
+         "t": "akó",
+         "r": "pron"
+        }
+       ]
+      },
+      {
+       "label": "Roles",
+       "chips": [
+        {
+         "t": "verb",
+         "r": "pred"
+        },
+        {
+         "t": "doer",
+         "r": "poss"
+        },
+        {
+         "t": "subject",
+         "r": "pron"
+        }
+       ]
+      }
+     ],
+     "note": "You read to me."
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "The pronouns change too",
+     "t": "The indirect object **sa ákin** in the mag- sentence becomes the subject **ako** in the -an sentence, and the doer **ka** becomes **mo** (see Lesson 6 on personal and demonstrative pronouns)."
+    },
+    {
+     "type": "h",
+     "t": "II. With a direct object"
+    },
+    {
+     "type": "p",
+     "t": "If the -um- or mag- sentence **has a direct object** (the noun or pronoun that receives the action), that object is preceded by the possessive article **ng** in the -an sentence. The indirect object and the doer follow rule I."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Sumúlat ang batà ng pangalan niyá sa aklát.",
+       "en": "The child wrote his name on the book. (active)",
+       "parts": [
+        [
+         "Sumúlat",
+         "wrote",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "batà",
+         "child (doer)",
+         "noun"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "pangalan",
+         "name (direct object)",
+         "noun"
+        ],
+        [
+         "niyá",
+         "his",
+         "poss"
+        ],
+        [
+         "sa",
+         "on",
+         "marker"
+        ],
+        [
+         "aklát",
+         "book (place)",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Sinulátan ng batà ng pangalan niyá ang aklát.",
+       "en": "The child wrote his name on the book. (-an)",
+       "parts": [
+        [
+         "Sinulátan",
+         "was written on",
+         "pred"
+        ],
+        [
+         "ng",
+         "by",
+         "marker"
+        ],
+        [
+         "batà",
+         "child (doer)",
+         "noun"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "pangalan",
+         "name (direct object)",
+         "noun"
+        ],
+        [
+         "niyá",
+         "his",
+         "poss"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "aklát",
+         "book (subject)",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Magbasá ka ng kuwento sa ákin.",
+       "en": "You read to me a story. (active)",
+       "parts": [
+        [
+         "Magbasá",
+         "read",
+         "pred"
+        ],
+        [
+         "ka",
+         "you (doer)",
+         "pron"
+        ],
+        [
+         "ng",
+         "a",
+         "marker"
+        ],
+        [
+         "kuwento",
+         "story (direct object)",
+         "noun"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "ákin",
+         "me (indirect object)",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Basáhan mo ako ng kuwento.",
+       "en": "You read to me a story. (-an)",
+       "parts": [
+        [
+         "Basáhan",
+         "read to",
+         "pred"
+        ],
+        [
+         "mo",
+         "you (doer)",
+         "poss"
+        ],
+        [
+         "ako",
+         "me (subject)",
+         "pron"
+        ],
+        [
+         "ng",
+         "a",
+         "marker"
+        ],
+        [
+         "kuwento",
+         "story (direct object)",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "With a direct object"
+    },
+    {
+     "type": "h",
+     "t": "III. Without -in- verbs"
+    },
+    {
+     "type": "p",
+     "t": "When an -um- or mag- verb has **no -in- form**, the **direct object** becomes the **subject** in the -an sentence."
+    },
+    {
+     "type": "pattern",
+     "title": "No -in- form: the object becomes the subject",
+     "rows": [
+      {
+       "label": "Active",
+       "chips": [
+        {
+         "t": "Magbukás",
+         "r": "pred"
+        },
+        {
+         "t": "ka",
+         "r": "pron"
+        },
+        {
+         "t": "ng pintô",
+         "r": "noun"
+        }
+       ]
+      },
+      {
+       "label": "Roles",
+       "chips": [
+        {
+         "t": "verb",
+         "r": "pred"
+        },
+        {
+         "t": "doer",
+         "r": "pron"
+        },
+        {
+         "t": "direct object",
+         "r": "marker"
+        }
+       ]
+      },
+      {
+       "label": "-an",
+       "chips": [
+        {
+         "t": "Buksán",
+         "r": "pred"
+        },
+        {
+         "t": "mo",
+         "r": "poss"
+        },
+        {
+         "t": "ang pintô",
+         "r": "noun"
+        }
+       ]
+      },
+      {
+       "label": "Roles",
+       "chips": [
+        {
+         "t": "verb",
+         "r": "pred"
+        },
+        {
+         "t": "doer",
+         "r": "poss"
+        },
+        {
+         "t": "subject",
+         "r": "noun"
+        }
+       ]
+      }
+     ],
+     "note": "Open the door."
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Summary",
+     "items": [
+      "The -an verb comes **first**.",
+      "The **doer** takes the possessive form: **ng batà**, **ni** + name, **mo**, **ko**, **ninyó**.",
+      "The person or place the action is aimed at becomes the **subject** (ang, or a pronoun like ako).",
+      "A direct object keeps **ng**.",
+      "No -in- form? Then the direct object becomes the subject (Buksán mo ang pintô)."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Spelling",
+     "t": "The book prints the subject as **akó** in *Basáhan mo akó* and as **ako** in *Basáhan mo ako ng kuwento*."
+    }
+   ]
+  },
+  {
+   "title": "Sample sentences",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Every verb below is an -an verb. Tap the words to see their parts."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Lagyán mo ng álak ang báso.",
+       "en": "Fill the glass with wine.",
+       "parts": [
+        [
+         "Lagyán",
+         "put in",
+         "pred"
+        ],
+        [
+         "mo",
+         "you (doer)",
+         "poss"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "álak",
+         "wine",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "báso",
+         "glass (subject)",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Sundán ninyó ang itinuturò ko.",
+       "en": "Follow what I am teaching.",
+       "parts": [
+        [
+         "Sundán",
+         "follow",
+         "pred"
+        ],
+        [
+         "ninyó",
+         "you, plural (doer)",
+         "poss"
+        ],
+        [
+         "ang",
+         "what",
+         "marker"
+        ],
+        [
+         "itinuturò",
+         "is being taught",
+         "noun"
+        ],
+        [
+         "ko",
+         "by me",
+         "poss"
+        ]
+       ]
+      },
+      {
+       "tl": "Pakinggán ninyó ako.",
+       "en": "Listen to me.",
+       "parts": [
+        [
+         "Pakinggán",
+         "listen to",
+         "pred"
+        ],
+        [
+         "ninyó",
+         "you, plural (doer)",
+         "poss"
+        ],
+        [
+         "ako",
+         "me (subject)",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Buksán mo ang bintanà.",
+       "en": "Open the window.",
+       "parts": [
+        [
+         "Buksán",
+         "open",
+         "pred"
+        ],
+        [
+         "mo",
+         "you (doer)",
+         "poss"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "bintanà",
+         "window (subject)",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Súsulatan ko ang áking iná.",
+       "en": "I will write to my mother.",
+       "parts": [
+        [
+         "Súsulatan",
+         "will write to",
+         "pred"
+        ],
+        [
+         "ko",
+         "I (doer)",
+         "poss"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "áking",
+         "my",
+         "poss"
+        ],
+        [
+         "iná",
+         "mother (subject)",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Bayáran mo ang iyóng útang sa ákin.",
+       "en": "Pay your debt to me.",
+       "parts": [
+        [
+         "Bayáran",
+         "pay",
+         "pred"
+        ],
+        [
+         "mo",
+         "you (doer)",
+         "poss"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "iyóng",
+         "your",
+         "poss"
+        ],
+        [
+         "útang",
+         "debt",
+         "noun"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "ákin",
+         "me",
+         "pron"
+        ]
+       ]
+      }
+     ],
+     "title": "Short sentences"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "A pa- + -an verb",
+     "t": "The book points out that **Pakinggán** is a **pa- + -an** verb: it has a prefix **pa-** as well as the suffix -an."
+    },
+    {
+     "type": "p",
+     "t": "For the next four, the book gives a word-for-word (literal) translation first, then the normal English."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Inalisán ng babáe ng pagkain ang anák.",
+       "en": "Removed by the woman the food from her child. (literal) / The woman removed the food from her child.",
+       "parts": [
+        [
+         "Inalisán",
+         "was removed from",
+         "pred"
+        ],
+        [
+         "ng",
+         "by",
+         "marker"
+        ],
+        [
+         "babáe",
+         "woman (doer)",
+         "noun"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "pagkain",
+         "food",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "anák",
+         "child (subject)",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Hinalikán ng batà ang kamáy ng kanyáng lóla.",
+       "en": "Was kissed by the child the hand of her grandmother. (literal) / The child kissed the hand of her grandmother.",
+       "parts": [
+        [
+         "Hinalikán",
+         "was kissed",
+         "pred"
+        ],
+        [
+         "ng",
+         "by",
+         "marker"
+        ],
+        [
+         "batà",
+         "child (doer)",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "kamáy",
+         "hand (subject)",
+         "noun"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "kanyáng",
+         "her",
+         "poss"
+        ],
+        [
+         "lóla",
+         "grandmother",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Bábasahán ko ng magandáng kuwento ang áking amá.",
+       "en": "Will be read by me a nice story for my father. (literal) / I will read a nice story to my father.",
+       "parts": [
+        [
+         "Bábasahán",
+         "will be read to",
+         "pred"
+        ],
+        [
+         "ko",
+         "by me",
+         "poss"
+        ],
+        [
+         "ng",
+         "a",
+         "marker"
+        ],
+        [
+         "magandáng",
+         "nice (+ -ng)",
+         "pred"
+        ],
+        [
+         "kuwento",
+         "story",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "áking",
+         "my",
+         "poss"
+        ],
+        [
+         "amá",
+         "father (subject)",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nilabhán ng katúlong ko ang áming damít.",
+       "en": "Were washed by my helper our clothes. (literal) / My helper washed our clothes.",
+       "parts": [
+        [
+         "Nilabhán",
+         "were washed",
+         "pred"
+        ],
+        [
+         "ng",
+         "by",
+         "marker"
+        ],
+        [
+         "katúlong",
+         "helper (doer)",
+         "noun"
+        ],
+        [
+         "ko",
+         "my",
+         "poss"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "áming",
+         "our",
+         "poss"
+        ],
+        [
+         "damít",
+         "clothes (subject)",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Literal and normal English"
+    },
+    {
+     "type": "h",
+     "t": "Find the tense"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Verb in the sentence",
+      "-an verb",
+      "Form"
+     ],
+     "rows": [
+      [
+       "[[Inalisán|pred]]",
+       "alisán",
+       "past (prefix in-)"
+      ],
+      [
+       "[[Hinalikán|pred]]",
+       "halikán",
+       "past (-in- after the first letter)"
+      ],
+      [
+       "[[Súsulatan|pred]]",
+       "sulátan",
+       "future (doubled first syllable)"
+      ],
+      [
+       "[[Bábasahán|pred]]",
+       "basáhan",
+       "future (doubled first syllable)"
+      ],
+      [
+       "[[Nilabhán|pred]]",
+       "labhán",
+       "past (ni- because the root begins with l)"
+      ]
+     ],
+     "title": "How each verb was built"
+    },
+    {
+     "type": "vocab",
+     "group": "words",
+     "title": "Words from this lesson"
+    }
+   ]
+  },
+  {
+   "title": "Practice from the book",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book's exercise asks you to find the **subject** of each passive sample sentence (is it an **indirect object** or a **place**?) and then change the sentence back into its **active** form. It works the first one for you:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "Sentence"
+     ],
+     "rows": [
+      [
+       "Passive",
+       "Inalisán ng babáe ng pagkain ang anák."
+      ],
+      [
+       "Subject",
+       "anak (indirect object)"
+      ],
+      [
+       "Active",
+       "Nag-alís ang babáe ng pagkain sa anák."
+      ]
+     ],
+     "title": "Worked example"
+    },
+    {
+     "type": "p",
+     "t": "The book also asks you to change these **active** sentences into passive sentences using both **i-** (Lesson 32) and **-an** verbs. It does not print the answers, so try them yourself."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Bumása ang batà ng páhayagan sa kanyáng lóla.",
+       "en": "The child read the newspaper to her grandmother.",
+       "parts": [
+        [
+         "Bumása",
+         "read",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ],
+        [
+         "ng",
+         "the",
+         "marker"
+        ],
+        [
+         "páhayagan",
+         "newspaper",
+         "noun"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "kanyáng",
+         "her",
+         "poss"
+        ],
+        [
+         "lóla",
+         "grandmother",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Naglutò ang babáe ng isdâ sa kawalí.",
+       "en": "The woman cooked the fish in the pan.",
+       "parts": [
+        [
+         "Naglutò",
+         "cooked",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "babáe",
+         "woman",
+         "noun"
+        ],
+        [
+         "ng",
+         "the",
+         "marker"
+        ],
+        [
+         "isdâ",
+         "fish",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "kawalí",
+         "pan",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Nagbáyad siyá ng dalawáng libong piso sa ákin para sa sapatos.",
+       "en": "He paid me two thousand pesos for the shoes.",
+       "parts": [
+        [
+         "Nagbáyad",
+         "paid",
+         "pred"
+        ],
+        [
+         "siyá",
+         "he",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "dalawáng",
+         "two (+ -ng)",
+         "noun"
+        ],
+        [
+         "libong",
+         "thousand (+ -ng)",
+         "noun"
+        ],
+        [
+         "piso",
+         "pesos",
+         "noun"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "ákin",
+         "me",
+         "pron"
+        ],
+        [
+         "para sa",
+         "for",
+         "marker"
+        ],
+        [
+         "sapatos",
+         "shoes",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Maglálagay siyá ng tubig sa mga baso.",
+       "en": "She/He will put water into the glasses.",
+       "parts": [
+        [
+         "Maglálagay",
+         "will put",
+         "pred"
+        ],
+        [
+         "siyá",
+         "she/he",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "tubig",
+         "water",
+         "noun"
+        ],
+        [
+         "sa",
+         "into",
+         "marker"
+        ],
+        [
+         "mga",
+         "(plural)",
+         "marker"
+        ],
+        [
+         "baso",
+         "glasses",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Magtakíp ka ng panyô sa mukhâ.",
+       "en": "Cover your face with a handkerchief.",
+       "parts": [
+        [
+         "Magtakíp",
+         "cover",
+         "pred"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ],
+        [
+         "ng",
+         "a",
+         "marker"
+        ],
+        [
+         "panyô",
+         "handkerchief",
+         "noun"
+        ],
+        [
+         "sa",
+         "on",
+         "marker"
+        ],
+        [
+         "mukhâ",
+         "face",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Active sentences to change"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "More practice",
+     "items": [
+      "Form the derivatives (infinitive, imperative, past, present, future) of all the regular and irregular -an verbs in this lesson.",
+      "Use the three patterns in Section 6 to decide what becomes the subject."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "-an after a consonant or a glottal catch (alisán, hingán); -han after a vowel without one (basáhan, samáhan).",
+      "Tenses: alisán / inalisán / ináalisán / áalisán and basáhan / bínasáhan / binábasahan / bábasahan.",
+      "Irregular verbs drop the second vowel of the root: lagyán, buksán, labhán. Roots with l, w, y take ni- (nilagyán).",
+      "In an -an sentence the doer takes ng / ni / mo / ko, and the person or place the action is aimed at becomes the subject."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "anyayahan-l33",
+   "tl": "anyayáhan",
+   "en": "to invite",
+   "pos": "verb",
+   "group": "list",
+   "say": "an-ya-YA-han",
+   "note": "The verb list glosses it as to invite someone"
+  },
+  {
+   "id": "hingan-l33",
+   "tl": "hingán",
+   "en": "to ask",
+   "pos": "verb",
+   "group": "list",
+   "say": "hi-NGAN",
+   "note": "Irregular (regular would be hingian): to ask someone for something. Root: hingî, to request"
+  },
+  {
+   "id": "pakinggan-l33",
+   "tl": "pakinggán",
+   "en": "to listen",
+   "pos": "verb",
+   "group": "list",
+   "say": "pa-king-GAN",
+   "note": "A pa- + -an verb. Pakinggán ninyó ako. Listen to me."
+  },
+  {
+   "id": "halikan-l33",
+   "tl": "halikán",
+   "en": "to kiss",
+   "pos": "verb",
+   "group": "list",
+   "say": "ha-li-KAN",
+   "note": "Past: hinalikán"
+  },
+  {
+   "id": "hugasan-l33",
+   "tl": "hugásan",
+   "en": "to wash",
+   "pos": "verb",
+   "group": "list",
+   "say": "hu-GA-san",
+   "note": "Not referring to clothes (for clothes, use labhán)"
+  },
+  {
+   "id": "tawanan-l33",
+   "tl": "tawánan",
+   "en": "to laugh at",
+   "pos": "verb",
+   "group": "list",
+   "say": "ta-WA-nan",
+   "note": "Irregular (regular would be tawahan)"
+  },
+  {
+   "id": "mukha-l33",
+   "tl": "mukhâ",
+   "en": "face",
+   "pos": "noun",
+   "group": "list",
+   "say": "muk-haQ"
+  },
+  {
+   "id": "bawasan-l33",
+   "tl": "bawásan",
+   "en": "to diminish or reduce",
+   "pos": "verb",
+   "group": "regular",
+   "say": "ba-WA-san"
+  },
+  {
+   "id": "butasan-l33",
+   "tl": "butásan",
+   "en": "to bore a hole",
+   "pos": "verb",
+   "group": "regular",
+   "say": "bu-TA-san"
+  },
+  {
+   "id": "bantayan-l33",
+   "tl": "bantayán",
+   "en": "to watch",
+   "pos": "verb",
+   "group": "regular",
+   "say": "ban-ta-YAN"
+  },
+  {
+   "id": "damitan-l33",
+   "tl": "damitán",
+   "en": "to dress up someone",
+   "pos": "verb",
+   "group": "regular",
+   "say": "da-mi-TAN"
+  },
+  {
+   "id": "bayaran-l33",
+   "tl": "bayáran",
+   "en": "to pay",
+   "pos": "verb",
+   "group": "regular",
+   "say": "ba-YA-ran"
+  },
+  {
+   "id": "sabugan-l33",
+   "tl": "sabúgan",
+   "en": "to scatter",
+   "pos": "verb",
+   "group": "regular",
+   "say": "sa-BU-gan"
+  },
+  {
+   "id": "abutan-l33",
+   "tl": "abután",
+   "en": "to hand someone something",
+   "pos": "verb",
+   "group": "regular",
+   "say": "a-bu-TAN"
+  },
+  {
+   "id": "alagaan-l33",
+   "tl": "alagáan",
+   "en": "to care for",
+   "pos": "verb",
+   "group": "regular",
+   "say": "a-la-GA-an"
+  },
+  {
+   "id": "ayawan-l33",
+   "tl": "ayawán",
+   "en": "to be refused",
+   "pos": "verb",
+   "group": "regular",
+   "say": "a-ya-WAN"
+  },
+  {
+   "id": "upahan-l33",
+   "tl": "upáhan",
+   "en": "to rent",
+   "pos": "verb",
+   "group": "regular",
+   "say": "u-PA-han"
+  },
+  {
+   "id": "sulatan-l33",
+   "tl": "sulátan",
+   "en": "to write to",
+   "pos": "verb",
+   "group": "regular",
+   "say": "su-LA-tan",
+   "note": "The opening paragraph writes sulatan: to write, or the act of writing, from the root sulat (writing)"
+  },
+  {
+   "id": "upuan-l33",
+   "tl": "upuán",
+   "en": "to seat on",
+   "pos": "verb",
+   "group": "regular",
+   "say": "u-pu-AN"
+  },
+  {
+   "id": "bihisan-l33",
+   "tl": "bihísan",
+   "en": "to change someone's dress",
+   "pos": "verb",
+   "group": "regular",
+   "say": "bi-HI-san"
+  },
+  {
+   "id": "samahan-l33",
+   "tl": "samáhan",
+   "en": "to accompany",
+   "pos": "verb",
+   "group": "regular",
+   "say": "sa-MA-han",
+   "note": "Root: sama (to accompany), which takes -han"
+  },
+  {
+   "id": "alisan-l33",
+   "tl": "alisán",
+   "en": "to remove something from someone",
+   "pos": "verb",
+   "group": "regular",
+   "say": "a-li-SAN",
+   "note": "Root: alís. Past inalisán, present ináalisán, future áalisán"
+  },
+  {
+   "id": "basahan-l33",
+   "tl": "basáhan",
+   "en": "to read to someone",
+   "pos": "verb",
+   "group": "regular",
+   "say": "ba-SA-han",
+   "note": "Root: basa. Past bínasáhan, present binábasahan, future bábasahan"
+  },
+  {
+   "id": "labhan-l33",
+   "tl": "labhán",
+   "en": "to wash (clothes)",
+   "pos": "verb",
+   "group": "irregular",
+   "say": "lab-HAN",
+   "note": "Regular would be labahan. Past: nilabhán"
+  },
+  {
+   "id": "lagyan-l33",
+   "tl": "lagyán",
+   "en": "to put in something",
+   "pos": "verb",
+   "group": "irregular",
+   "say": "lag-YAN",
+   "note": "Root: lagay (put). Past nilagyán, present nilálagyán, future lálagyán"
+  },
+  {
+   "id": "sundan-l33",
+   "tl": "sundán",
+   "en": "to follow someone",
+   "pos": "verb",
+   "group": "irregular",
+   "say": "sun-DAN",
+   "note": "Regular would be sunuran"
+  },
+  {
+   "id": "lakhan-l33",
+   "tl": "lakhán",
+   "en": "to enlarge something",
+   "pos": "verb",
+   "group": "irregular",
+   "say": "lak-HAN",
+   "note": "Regular would be lakihan"
+  },
+  {
+   "id": "bigyan-l33",
+   "tl": "bigyán",
+   "en": "to give someone something",
+   "pos": "verb",
+   "group": "irregular",
+   "say": "big-YAN",
+   "note": "Regular would be bigayan"
+  },
+  {
+   "id": "tamnan-l33",
+   "tl": "tamnán",
+   "en": "to have a place planted with",
+   "pos": "verb",
+   "group": "irregular",
+   "say": "tam-NAN",
+   "note": "Regular would be taniman"
+  },
+  {
+   "id": "takpan-l33",
+   "tl": "takpán",
+   "en": "to cover",
+   "pos": "verb",
+   "group": "irregular",
+   "say": "tak-PAN",
+   "note": "Regular would be takipan"
+  },
+  {
+   "id": "asnan-l33",
+   "tl": "asnán",
+   "en": "to mix with salt",
+   "pos": "verb",
+   "group": "irregular",
+   "say": "as-NAN",
+   "note": "Regular would be asinan"
+  },
+  {
+   "id": "tirhan-l33",
+   "tl": "tirhán",
+   "en": "to leave remains for someone",
+   "pos": "verb",
+   "group": "irregular",
+   "say": "tir-HAN",
+   "note": "Regular would be tirahan"
+  },
+  {
+   "id": "tingnan-l33",
+   "tl": "tingnán",
+   "en": "to look at",
+   "pos": "verb",
+   "group": "irregular",
+   "say": "ting-NAN",
+   "note": "Regular would be tinginan"
+  },
+  {
+   "id": "higan-l33",
+   "tl": "higán",
+   "en": "to lie down on something",
+   "pos": "verb",
+   "group": "irregular",
+   "say": "hi-GAN",
+   "note": "Regular would be higaan"
+  },
+  {
+   "id": "sakyan-l33",
+   "tl": "sakyán",
+   "en": "to go aboard",
+   "pos": "verb",
+   "group": "irregular",
+   "say": "sak-YAN",
+   "note": "Regular would be sakayan"
+  },
+  {
+   "id": "saktan-l33",
+   "tl": "saktán",
+   "en": "to hurt",
+   "pos": "verb",
+   "group": "irregular",
+   "say": "sak-TAN",
+   "note": "Regular would be sakitan"
+  },
+  {
+   "id": "buksan-l33",
+   "tl": "buksán",
+   "en": "to open",
+   "pos": "verb",
+   "group": "irregular",
+   "say": "buk-SAN",
+   "note": "Regular would be bukasan. Buksán mo ang pintô. Open the door."
+  },
+  {
+   "id": "kunan-l33",
+   "tl": "kúnan",
+   "en": "to take from",
+   "pos": "verb",
+   "group": "irregular",
+   "say": "KU-nan",
+   "note": "Regular would be kuhanan"
+  },
+  {
+   "id": "dalhan-l33",
+   "tl": "dalhán",
+   "en": "to bring someone something",
+   "pos": "verb",
+   "group": "irregular",
+   "say": "dal-HAN",
+   "note": "Regular would be dalahan"
+  },
+  {
+   "id": "bilhan-l33",
+   "tl": "bilhán",
+   "en": "to buy from",
+   "pos": "verb",
+   "group": "irregular",
+   "say": "bil-HAN",
+   "note": "Regular would be bilihan"
+  },
+  {
+   "id": "hipan-l33",
+   "tl": "hipan",
+   "en": "to blow into or on something",
+   "pos": "verb",
+   "group": "irregular",
+   "note": "From the root hihip, which means blow. The second syllable hi is deleted: hihipan → hipan"
+  },
+  {
+   "id": "aklatan-l33",
+   "tl": "aklátan",
+   "en": "library",
+   "pos": "noun",
+   "group": "words",
+   "say": "ak-LA-tan",
+   "note": "From aklát, book"
+  },
+  {
+   "id": "gupitan-l33",
+   "tl": "gúpítan",
+   "en": "a place where they cut; a barber shop or beauty salon",
+   "pos": "noun",
+   "group": "words",
+   "note": "From gupít, to cut. The book prints two accent marks on this word"
+  },
+  {
+   "id": "alak-l33",
+   "tl": "álak",
+   "en": "wine",
+   "pos": "noun",
+   "group": "words",
+   "say": "A-lak"
+  },
+  {
+   "id": "baso-l33",
+   "tl": "báso",
+   "en": "glass",
+   "pos": "noun",
+   "group": "words",
+   "say": "BA-so",
+   "note": "The exercise page also writes baso"
+  },
+  {
+   "id": "pinto-l33",
+   "tl": "pintô",
+   "en": "door",
+   "pos": "noun",
+   "group": "words",
+   "say": "pin-toQ"
+  },
+  {
+   "id": "kamay-l33",
+   "tl": "kamáy",
+   "en": "hand",
+   "pos": "noun",
+   "group": "words",
+   "say": "ka-MAY"
+  },
+  {
+   "id": "panyo-l33",
+   "tl": "panyô",
+   "en": "handkerchief",
+   "pos": "noun",
+   "group": "words",
+   "say": "pan-yoQ"
+  },
+  {
+   "id": "kawali-l33",
+   "tl": "kawalí",
+   "en": "pan",
+   "pos": "noun",
+   "group": "words",
+   "say": "ka-wa-LI"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "What does aklátan mean?",
+   "options": [
+    "library",
+    "book",
+    "to read"
+   ],
+   "answer": "library",
+   "explain": "An -an word can be a place linked to the root: aklát (book) → aklátan (library)."
+  },
+  {
+   "type": "choice",
+   "q": "What is gúpítan?",
+   "options": [
+    "a barber shop or beauty salon",
+    "to cut",
+    "a library"
+   ],
+   "answer": "a barber shop or beauty salon",
+   "explain": "From gupít (to cut): a place where they cut."
+  },
+  {
+   "type": "choice",
+   "q": "Putikan (from putik, mud) describes…",
+   "options": [
+    "a quality: muddy",
+    "a place: a mud shop",
+    "an action: to throw mud"
+   ],
+   "answer": "a quality: muddy",
+   "explain": "The book gives -an for size (damihan) and quality (putikan)."
+  },
+  {
+   "type": "choice",
+   "q": "Which suffix goes on a root that ends in a vowel WITHOUT a glottal catch, like sama?",
+   "options": [
+    "-han",
+    "-an"
+   ],
+   "answer": "-han",
+   "explain": "-Han is the variant form used after a vowel without a glottal catch: samáhan."
+  },
+  {
+   "type": "choice",
+   "q": "Hingî ends in a vowel WITH a glottal catch. Which suffix does it take?",
+   "options": [
+    "-an",
+    "-han"
+   ],
+   "answer": "-an",
+   "explain": "-An goes after consonants and after vowels with a glottal catch."
+  },
+  {
+   "type": "choice",
+   "q": "Which form of alís means \"was/were removed\"?",
+   "options": [
+    "inalisán",
+    "ináalisán",
+    "áalisán"
+   ],
+   "answer": "inalisán",
+   "explain": "Past: prefix in- + root word + -an."
+  },
+  {
+   "type": "choice",
+   "q": "Which form of alís means \"will be removed\"?",
+   "options": [
+    "áalisán",
+    "inalisán",
+    "alisán"
+   ],
+   "answer": "áalisán",
+   "explain": "Future: duplicate first syllable + root word + -an."
+  },
+  {
+   "type": "choice",
+   "q": "Which form of basa means \"is/are being read to someone\"?",
+   "options": [
+    "binábasahan",
+    "bínasáhan",
+    "bábasahan"
+   ],
+   "answer": "binábasahan",
+   "explain": "Present: infix -in- after the first letter, plus a doubled first syllable."
+  },
+  {
+   "type": "choice",
+   "q": "Why is the past of lagay nilagyán and not with -in- inside?",
+   "options": [
+    "The root begins with l, so -in- becomes the prefix ni-",
+    "The root ends in a glottal catch",
+    "It is a pa- + -an verb"
+   ],
+   "answer": "The root begins with l, so -in- becomes the prefix ni-",
+   "explain": "With l, w and y, the infix -in- becomes the prefix ni- (Lesson 15)."
+  },
+  {
+   "type": "choice",
+   "q": "What happens to the root in most irregular -an verbs?",
+   "options": [
+    "The second vowel of the root is dropped",
+    "The first syllable is doubled",
+    "-han replaces -an"
+   ],
+   "answer": "The second vowel of the root is dropped",
+   "explain": "labahan → labhán, bukasan → buksán."
+  },
+  {
+   "type": "choice",
+   "q": "In which irregular verb is a whole syllable (hi) deleted?",
+   "options": [
+    "hipan",
+    "labhán",
+    "buksán"
+   ],
+   "answer": "hipan",
+   "explain": "From hihip (blow): hihipan → hipan."
+  },
+  {
+   "type": "choice",
+   "q": "Which verb is for washing CLOTHES?",
+   "options": [
+    "labhán",
+    "hugásan"
+   ],
+   "answer": "labhán",
+   "explain": "Hugásan is to wash something that is not clothes."
+  },
+  {
+   "type": "choice",
+   "q": "In \"Sinulátan ng batà ang aklát\", what is the subject?",
+   "options": [
+    "ang aklát",
+    "ng batà",
+    "Sinulátan"
+   ],
+   "answer": "ang aklát",
+   "explain": "The place (sa aklát) in the -um- sentence becomes the subject (ang aklát)."
+  },
+  {
+   "type": "choice",
+   "q": "In an -an sentence, the doer is preceded by…",
+   "options": [
+    "a possessive article (ni or ng)",
+    "ang or si",
+    "sa"
+   ],
+   "answer": "a possessive article (ni or ng)",
+   "explain": "Sinulátan ng batà ang aklát."
+  },
+  {
+   "type": "choice",
+   "q": "How does \"Magbasá ka sa ákin\" become an -an sentence?",
+   "options": [
+    "Basáhan mo akó.",
+    "Basáhan ka sa ákin.",
+    "Basáhan mo sa ákin."
+   ],
+   "answer": "Basáhan mo akó.",
+   "explain": "Sa ákin becomes the subject ako, and ka becomes mo."
+  },
+  {
+   "type": "choice",
+   "q": "How does \"Magbukás ka ng pintô\" become an -an sentence?",
+   "options": [
+    "Buksán mo ang pintô.",
+    "Buksán mo ng pintô.",
+    "Buksán ka ng pintô."
+   ],
+   "answer": "Buksán mo ang pintô.",
+   "explain": "With no -in- form, the direct object becomes the subject."
+  },
+  {
+   "type": "choice",
+   "q": "In an -an sentence that keeps a direct object, the direct object is preceded by…",
+   "options": [
+    "ng",
+    "ang",
+    "sa"
+   ],
+   "answer": "ng",
+   "explain": "Basáhan mo ako ng kuwento."
+  },
+  {
+   "type": "choice",
+   "q": "In \"Inalisán ng babáe ng pagkain ang anák\", the subject is…",
+   "options": [
+    "anák, an indirect object",
+    "pagkain, the direct object",
+    "babáe, the doer"
+   ],
+   "answer": "anák, an indirect object",
+   "explain": "This is the book's own worked example."
+  },
+  {
+   "type": "choice",
+   "q": "What is the active form of \"Inalisán ng babáe ng pagkain ang anák\"?",
+   "options": [
+    "Nag-alís ang babáe ng pagkain sa anák.",
+    "Nag-alís ng babáe ang pagkain sa anák.",
+    "Nag-alís ang babáe ang pagkain ng anák."
+   ],
+   "answer": "Nag-alís ang babáe ng pagkain sa anák.",
+   "explain": "The doer takes ang, the food keeps ng, and the child takes sa."
+  },
+  {
+   "type": "choice",
+   "q": "\"Nilabhán ng katúlong ko ang áming damít\" means…",
+   "options": [
+    "My helper washed our clothes.",
+    "My helper will wash our clothes.",
+    "I washed my helper's clothes."
+   ],
+   "answer": "My helper washed our clothes.",
+   "explain": "Nilabhán is the past (ni- + labhán)."
+  },
+  {
+   "type": "choice",
+   "q": "\"Bábasahán ko ng magandáng kuwento ang áking amá\" means…",
+   "options": [
+    "I will read a nice story to my father.",
+    "My father read me a nice story.",
+    "I read a nice story to my father."
+   ],
+   "answer": "I will read a nice story to my father.",
+   "explain": "Bábasahán doubles the first syllable: the future."
+  },
+  {
+   "type": "listen",
+   "tl": "anyayáhan",
+   "options": [
+    "to invite",
+    "to accompany",
+    "to listen"
+   ],
+   "answer": "to invite",
+   "explain": "From the vocabulary list."
+  },
+  {
+   "type": "listen",
+   "tl": "tawánan",
+   "options": [
+    "to laugh at",
+    "to look at",
+    "to take from"
+   ],
+   "answer": "to laugh at",
+   "explain": "Irregular (regular would be tawahan)."
+  },
+  {
+   "type": "listen",
+   "tl": "takpán",
+   "options": [
+    "to cover",
+    "to open",
+    "to hurt"
+   ],
+   "answer": "to cover",
+   "explain": "Irregular (regular would be takipan)."
+  },
+  {
+   "type": "listen",
+   "tl": "mukhâ",
+   "options": [
+    "face",
+    "hand",
+    "door"
+   ],
+   "answer": "face",
+   "explain": "Magtakíp ka ng panyô sa mukhâ."
+  },
+  {
+   "type": "build",
+   "en": "Fill the glass with wine.",
+   "tl": "Lagyán mo ng álak ang báso.",
+   "tokens": [
+    "lagyán",
+    "mo",
+    "ng",
+    "álak",
+    "ang",
+    "báso"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Open the window.",
+   "tl": "Buksán mo ang bintanà.",
+   "tokens": [
+    "buksán",
+    "mo",
+    "ang",
+    "bintanà"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Listen to me.",
+   "tl": "Pakinggán ninyó ako.",
+   "tokens": [
+    "pakinggán",
+    "ninyó",
+    "ako"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "I will write to my mother.",
+   "tl": "Súsulatan ko ang áking iná.",
+   "tokens": [
+    "súsulatan",
+    "ko",
+    "ang",
+    "áking",
+    "iná"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Pay your debt to me.",
+   "tl": "Bayáran mo ang iyóng útang sa ákin.",
+   "tokens": [
+    "bayáran",
+    "mo",
+    "ang",
+    "iyóng",
+    "útang",
+    "sa",
+    "ákin"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The child kissed the hand of her grandmother.",
+   "tl": "Hinalikán ng batà ang kamáy ng kanyáng lóla.",
+   "tokens": [
+    "hinalikán",
+    "ng",
+    "batà",
+    "ang",
+    "kamáy",
+    "ng",
+    "kanyáng",
+    "lóla"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match each form of basa (read) to its tense.",
+   "pairs": [
+    [
+     "basáhan",
+     "infinitive / imperative"
+    ],
+    [
+     "bínasáhan",
+     "past"
+    ],
+    [
+     "binábasahan",
+     "present"
+    ],
+    [
+     "bábasahan",
+     "future"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each irregular verb to what its regular form would have been.",
+   "pairs": [
+    [
+     "labhán",
+     "labahan"
+    ],
+    [
+     "buksán",
+     "bukasan"
+    ],
+    [
+     "sundán",
+     "sunuran"
+    ],
+    [
+     "bigyán",
+     "bigayan"
+    ],
+    [
+     "hipan",
+     "hihipan"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "-an makes places (aklátan, gúpítan), passive actions (sulatan), size (damihan) and quality (putikan).",
+  "-an after a consonant or a glottal catch; -han after a vowel without one (basáhan, samáhan).",
+  "Tenses: alisán / inalisán / ináalisán / áalisán; basáhan / bínasáhan / binábasahan / bábasahan; lagyán / nilagyán / nilálagyán / lálagyán.",
+  "Irregular -an verbs drop the second vowel of the root: labhán, sundán, buksán, tingnán; hipan drops a whole syllable.",
+  "-an sentences: verb + doer (ng, ni, mo, ko) + subject. The indirect object or place becomes the subject; a direct object keeps ng."
+ ]
+}

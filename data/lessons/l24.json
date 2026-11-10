@@ -1,0 +1,1513 @@
+{
+ "id": "l24",
+ "label": "24",
+ "title": "Saying please",
+ "summary": "Paki- and maki- request verbs, softening with ngâ and namán, and asking with maáarì bang",
+ "minutes": 35,
+ "goals": [
+  "Make a polite request with a paki- verb and a maki- verb",
+  "Know which doer form each one needs (mo or ka)",
+  "Recognise the tenses of paki- and maki- verbs",
+  "Soften a request with ngâ or namán",
+  "Ask politely with Maáarì bang…? and answer Opô, maáarì"
+ ],
+ "sections": [
+  {
+   "title": "Two prefixes for please",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Tagalog has no single word for *please*. Instead, you add a prefix to an action root to make a special **request verb**. The two prefixes are **paki-** and **maki-**."
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "Paki- or maki-?",
+     "items": [
+      "A **paki-** verb is **passive**, like an **-in-** verb (Lesson 15). The doer is in the **possessive form**, such as [[niyá|poss]] and [[mo|poss]].",
+      "A **maki-** verb is **active**, like an **-um-** verb (Lesson 14). The doer is in the **nominative form**, such as [[si|marker]] Nestor, [[ako|pron]], [[siyá|pron]] and [[ikáw|pron]].",
+      "These verbs have tenses, but the **imperative** (command) form is the one mostly used.",
+      "Tagalogs prefer to speak in the passive, so **paki-** verbs are used more widely for requests."
+     ]
+    },
+    {
+     "type": "pattern",
+     "title": "Paki- takes mo, maki- takes ka",
+     "rows": [
+      {
+       "label": "Paki-",
+       "chips": [
+        {
+         "t": "Pakikúha",
+         "r": "pred"
+        },
+        {
+         "t": "mo",
+         "r": "poss"
+        },
+        {
+         "t": "ang",
+         "r": "marker"
+        },
+        {
+         "t": "aking",
+         "r": "poss"
+        },
+        {
+         "t": "baró",
+         "r": "noun"
+        }
+       ]
+      },
+      {
+       "label": "Maki-",
+       "chips": [
+        {
+         "t": "Makitáwag",
+         "r": "pred"
+        },
+        {
+         "t": "ka",
+         "r": "pron"
+        },
+        {
+         "t": "ng",
+         "r": "marker"
+        },
+        {
+         "t": "doktór",
+         "r": "noun"
+        },
+        {
+         "t": "para sa ákin",
+         "r": "other"
+        }
+       ]
+      }
+     ],
+     "note": "(You) Please get my dress. / (You) Please call a doctor for me."
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "Think of it this way",
+     "t": "With a paki- verb the sentence is built around the thing you want done (**ang** aking baró), and the person doing it is shown with **mo**. With a maki- verb the person doing it is the focus (**ka**), and the thing takes **ng**."
+    }
+   ]
+  },
+  {
+   "title": "Forming paki- and maki- verbs",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book uses the root **kúha** (*to get*) to show every tense. Notice that the root never changes. Only the front part changes."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Maki- verb",
+      "How it is made"
+     ],
+     "rows": [
+      [
+       "Infinitive",
+       "[[makikúha|pred]]  (to please get)",
+       "maki- + root"
+      ],
+      [
+       "Imperative",
+       "[[makikúha|pred]]",
+       "maki- + root"
+      ],
+      [
+       "Past",
+       "[[nakikúha|pred]]",
+       "naki- + root"
+      ],
+      [
+       "Present",
+       "[[nakikikúha|pred]]",
+       "nakiki- + root"
+      ],
+      [
+       "Future",
+       "[[makikikúha|pred]]",
+       "makiki- + root"
+      ]
+     ],
+     "title": "Maki- with kúha (to get)"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "Paki- verb",
+      "How it is made"
+     ],
+     "rows": [
+      [
+       "Infinitive",
+       "[[pakikúha|pred]]  (to please get)",
+       "paki- + root"
+      ],
+      [
+       "Imperative",
+       "[[pakikúha|pred]]",
+       "paki- + root"
+      ],
+      [
+       "Past",
+       "[[pinakikúha|pred]]",
+       "pinaki- + root"
+      ],
+      [
+       "Present",
+       "[[pinakikikúha|pred]]",
+       "pinakiki- + root"
+      ],
+      [
+       "Future",
+       "[[pakikikúha|pred]]",
+       "pakiki- + root"
+      ]
+     ],
+     "title": "Paki- with kúha (to get)"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Spot the tense",
+     "items": [
+      "**Maki-** verbs: **m** → **n** for the past and present (**n**aki-, **n**akiki-).",
+      "**Paki-** verbs: add **-in-** after the p for the past and present (p**in**aki-, p**in**akiki-).",
+      "The present and future repeat **ki**: naki**ki**-, maki**ki**-, pinaki**ki**-, paki**ki**-."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "words",
+     "title": "Vocabulary list"
+    }
+   ]
+  },
+  {
+   "title": "Sample sentences",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Most of these are commands (imperative). The last four show other tenses, so they describe a request rather than make one."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Pakikúha mo ang aking baró.",
+       "en": "(You) Please get my dress.",
+       "parts": [
+        [
+         "Pakikúha",
+         "please get",
+         "pred"
+        ],
+        [
+         "mo",
+         "you (doer)",
+         "poss"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "aking",
+         "my",
+         "poss"
+        ],
+        [
+         "baró",
+         "dress",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Pakibása mo sa akin ang kuwénto.",
+       "en": "(You) Please read to me the story.",
+       "parts": [
+        [
+         "Pakibása",
+         "please read",
+         "pred"
+        ],
+        [
+         "mo",
+         "you (doer)",
+         "poss"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "akin",
+         "me",
+         "pron"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "kuwénto",
+         "story",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Pakisulat mo ang iyóng pangálan.",
+       "en": "(You) Please write your name.",
+       "parts": [
+        [
+         "Pakisulat",
+         "please write",
+         "pred"
+        ],
+        [
+         "mo",
+         "you (doer)",
+         "poss"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "iyóng",
+         "your",
+         "poss"
+        ],
+        [
+         "pangálan",
+         "name",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Pakidalá mo ang áking sulat sa koreo.",
+       "en": "(You) Please take my letter to the post office.",
+       "parts": [
+        [
+         "Pakidalá",
+         "please bring/take",
+         "pred"
+        ],
+        [
+         "mo",
+         "you (doer)",
+         "poss"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "áking",
+         "my",
+         "poss"
+        ],
+        [
+         "sulat",
+         "letter",
+         "noun"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "koreo",
+         "post office",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Makilutò ka ng adóbong manók.",
+       "en": "(You) Please cook the chicken adobo (a Filipino dish).",
+       "parts": [
+        [
+         "Makilutò",
+         "please cook",
+         "pred"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "adóbong",
+         "adobo + -ng",
+         "noun"
+        ],
+        [
+         "manók",
+         "chicken",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Makitáwag ka ng doktór para sa ákin.",
+       "en": "(You) Please call a doctor for me.",
+       "parts": [
+        [
+         "Makitáwag",
+         "please call",
+         "pred"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "doktór",
+         "doctor",
+         "noun"
+        ],
+        [
+         "para",
+         "for",
+         "other"
+        ],
+        [
+         "sa",
+         "(to)",
+         "marker"
+        ],
+        [
+         "ákin",
+         "me",
+         "pron"
+        ]
+       ]
+      }
+     ],
+     "title": "Requests (imperative)"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Pinakitáwag ko ang doktór sa kanyá.",
+       "en": "I requested him/her to call the doctor for me.",
+       "parts": [
+        [
+         "Pinakitáwag",
+         "requested to call (past)",
+         "pred"
+        ],
+        [
+         "ko",
+         "I (doer)",
+         "poss"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "doktór",
+         "doctor",
+         "noun"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "kanyá",
+         "him/her",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Makíkidala ako ng balútan sa iyó.",
+       "en": "I shall request you to carry a package for me.",
+       "parts": [
+        [
+         "Makíkidala",
+         "shall request to carry (future)",
+         "pred"
+        ],
+        [
+         "ako",
+         "I",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "balútan",
+         "package",
+         "noun"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "iyó",
+         "you",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Pakikikúha ko sa katúlong ang aking sapátos.",
+       "en": "I shall request the housemaid to get the shoes for me.",
+       "parts": [
+        [
+         "Pakikikúha",
+         "shall request to get (future)",
+         "pred"
+        ],
+        [
+         "ko",
+         "I (doer)",
+         "poss"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "katúlong",
+         "housemaid",
+         "noun"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "aking",
+         "my",
+         "poss"
+        ],
+        [
+         "sapátos",
+         "shoes",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Pinakíkisakáy niya ang batà sa aming kótse.",
+       "en": "She requests us to give the child a ride in our car.",
+       "parts": [
+        [
+         "Pinakíkisakáy",
+         "requests to give a ride (present)",
+         "pred"
+        ],
+        [
+         "niya",
+         "she (doer)",
+         "poss"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "aming",
+         "our",
+         "poss"
+        ],
+        [
+         "kótse",
+         "car",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Requests in other tenses"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Check the doer",
+     "items": [
+      "Paki- verbs: **mo**, **ko**, **niya** (possessive forms).",
+      "Maki- verbs: **ka**, **ako** (nominative forms).",
+      "The tense names in brackets above come from the book's tables: pinaki- (past), pinakiki- (present), makiki- and pakiki- (future)."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "culture",
+     "title": "Adobo",
+     "t": "*Adobo* is a Filipino dish. In **adóbong manók** (chicken adobo) the ligature **-ng** links adóbo to manók."
+    },
+    {
+     "type": "vocab",
+     "group": "extra",
+     "title": "More words from the sentences"
+    }
+   ]
+  },
+  {
+   "title": "Softening a request: ngâ and namán",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Using either **ngâ** or **namán** signals a request and softens an order, **even without** a paki- or maki- verb."
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "What the two words mean",
+     "items": [
+      "**Ngâ** means *truly* or *indeed*. It shows agreement (**Oô ngâ.** *Yes indeed / of course.*) or emphasis.",
+      "**Namán** means many things, including *also*, *too* and *instead*. In a command it does not translate into any particular word, but it softens the request and adds emphasis."
+     ]
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Pakikúha mo ngâ ang aking barò.",
+       "en": "(You) Please get my dress.",
+       "parts": [
+        [
+         "Pakikúha",
+         "please get",
+         "pred"
+        ],
+        [
+         "mo",
+         "you (doer)",
+         "poss"
+        ],
+        [
+         "ngâ",
+         "(softener)",
+         "part"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "aking",
+         "my",
+         "poss"
+        ],
+        [
+         "barò",
+         "dress",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Kúnin mo ngâ ang aking barò.",
+       "en": "(You) Please get my dress.",
+       "parts": [
+        [
+         "Kúnin",
+         "get",
+         "pred"
+        ],
+        [
+         "mo",
+         "you (doer)",
+         "poss"
+        ],
+        [
+         "ngâ",
+         "(softener)",
+         "part"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "aking",
+         "my",
+         "poss"
+        ],
+        [
+         "barò",
+         "dress",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Pakikúha mo namán ang aking barò.",
+       "en": "(You) Please get my dress.",
+       "parts": [
+        [
+         "Pakikúha",
+         "please get",
+         "pred"
+        ],
+        [
+         "mo",
+         "you (doer)",
+         "poss"
+        ],
+        [
+         "namán",
+         "(softener)",
+         "part"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "aking",
+         "my",
+         "poss"
+        ],
+        [
+         "barò",
+         "dress",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Kúnin mo namán ang aking baró.",
+       "en": "(You) Please get my dress.",
+       "parts": [
+        [
+         "Kúnin",
+         "get",
+         "pred"
+        ],
+        [
+         "mo",
+         "you (doer)",
+         "poss"
+        ],
+        [
+         "namán",
+         "(softener)",
+         "part"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "aking",
+         "my",
+         "poss"
+        ],
+        [
+         "baró",
+         "dress",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "All four mean (You) Please get my dress."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Where they go",
+     "t": "In every example, ngâ or namán comes **right after mo**. Kúnin simply means *get*, so **Kúnin mo ngâ…** is a request without any paki- verb."
+    },
+    {
+     "type": "vocab",
+     "group": "soft",
+     "title": "Softening words"
+    }
+   ]
+  },
+  {
+   "title": "Asking: Maáarì bang…?",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "You can also make a request as a question. Use **maáarì** (*possible*) followed by **ba**, with the ligature **-ng** attached: **Maáarì bang…?**"
+    },
+    {
+     "type": "pattern",
+     "title": "Request as a question",
+     "rows": [
+      {
+       "label": "Pattern",
+       "chips": [
+        {
+         "t": "Maáarì",
+         "r": "pred"
+        },
+        {
+         "t": "bang",
+         "r": "part"
+        },
+        {
+         "t": "kúnin",
+         "r": "pred"
+        },
+        {
+         "t": "mo",
+         "r": "poss"
+        },
+        {
+         "t": "ang aking damít",
+         "r": "noun"
+        }
+       ]
+      }
+     ],
+     "note": "May you get my dress?"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Maáarì bang kúnin mo ang aking damít?",
+       "en": "May you get my dress?",
+       "parts": [
+        [
+         "Maáarì",
+         "possible",
+         "pred"
+        ],
+        [
+         "bang",
+         "ba + -ng",
+         "part"
+        ],
+        [
+         "kúnin",
+         "get",
+         "pred"
+        ],
+        [
+         "mo",
+         "you (doer)",
+         "poss"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "aking",
+         "my",
+         "poss"
+        ],
+        [
+         "damít",
+         "dress",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Maáarì bang basahin mo ang kuwento?",
+       "en": "May you read the story?",
+       "parts": [
+        [
+         "Maáarì",
+         "possible",
+         "pred"
+        ],
+        [
+         "bang",
+         "ba + -ng",
+         "part"
+        ],
+        [
+         "basahin",
+         "read",
+         "pred"
+        ],
+        [
+         "mo",
+         "you (doer)",
+         "poss"
+        ],
+        [
+         "ang",
+         "article",
+         "marker"
+        ],
+        [
+         "kuwento",
+         "story",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Maáarì bang bumilí ka ng tsokoláte para sa ákin?",
+       "en": "May you buy a chocolate for me?",
+       "parts": [
+        [
+         "Maáarì",
+         "possible",
+         "pred"
+        ],
+        [
+         "bang",
+         "ba + -ng",
+         "part"
+        ],
+        [
+         "bumilí",
+         "buy",
+         "pred"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "tsokoláte",
+         "chocolate",
+         "noun"
+        ],
+        [
+         "para",
+         "for",
+         "other"
+        ],
+        [
+         "sa",
+         "(to)",
+         "marker"
+        ],
+        [
+         "ákin",
+         "me",
+         "pron"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Same doer rule",
+     "t": "Look at the doers after Maáarì bang: kúnin and basahin take **mo**, while the **-um-** verb bumilí takes **ka**."
+    },
+    {
+     "type": "h",
+     "t": "Saying yes"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Answer",
+      "When"
+     ],
+     "rows": [
+      [
+       "[[Opô|part]], maáarì.",
+       "The polite answer, which polite Filipino society demands"
+      ],
+      [
+       "[[Oô|part]], maáarì.",
+       "Also a positive answer"
+      ]
+     ],
+     "title": "Positive answers"
+    },
+    {
+     "type": "box",
+     "kind": "culture",
+     "title": "Be polite with elders",
+     "items": [
+      "Using only **ngâ** or **namán**, without a paki- or maki- verb, is considered **impolite** when talking to elders and the authorities.",
+      "Always add the polite extras from Lesson 3, such as **pô**, and the plural pronouns such as **silá** and **kayó**."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "answers",
+     "title": "Useful replies"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "Paki- verbs are passive (like -in-) and take mo / ko / niyá. Maki- verbs are active (like -um-) and take ka / ako / siyá.",
+      "Paki- tenses: pakikúha, pinakikúha, pinakikikúha, pakikikúha. Maki- tenses: makikúha, nakikúha, nakikikúha, makikikúha.",
+      "Ngâ or namán after mo softens a request, even with a plain verb: Kúnin mo ngâ ang aking barò.",
+      "Ask with Maáarì bang…? and answer Opô, maáarì.",
+      "With elders and authorities, use paki- or maki- with pô and polite plural pronouns."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "kunin-l24",
+   "tl": "kúnin",
+   "en": "get",
+   "pos": "verb",
+   "group": "words",
+   "say": "KU-nin"
+  },
+  {
+   "id": "maaari-l24",
+   "tl": "maáarì",
+   "en": "possible",
+   "pos": "adj",
+   "group": "words",
+   "say": "ma-A-a-riQ"
+  },
+  {
+   "id": "pakikuha-l24",
+   "tl": "pakikúha",
+   "en": "(please) get",
+   "pos": "verb",
+   "group": "words",
+   "say": "pa-ki-KU-ha"
+  },
+  {
+   "id": "pinakikisakay-l24",
+   "tl": "pinakíkisakáy",
+   "en": "(please) give a ride",
+   "pos": "verb",
+   "group": "words",
+   "say": "pi-na-KI-ki-sa-KAY"
+  },
+  {
+   "id": "pakibasa-l24",
+   "tl": "pakibása",
+   "en": "(please) read",
+   "pos": "verb",
+   "group": "words",
+   "say": "pa-ki-BA-sa"
+  },
+  {
+   "id": "pakidala-l24",
+   "tl": "pakidalá",
+   "en": "(please) bring",
+   "pos": "verb",
+   "group": "words",
+   "say": "pa-ki-da-LA"
+  },
+  {
+   "id": "makikuha-l24",
+   "tl": "makikúha",
+   "en": "to please get (maki- + root)",
+   "pos": "verb",
+   "group": "words",
+   "say": "ma-ki-KU-ha"
+  },
+  {
+   "id": "pakisulat-l24",
+   "tl": "pakisulat",
+   "en": "(please) write",
+   "pos": "verb",
+   "group": "extra"
+  },
+  {
+   "id": "makiluto-l24",
+   "tl": "makilutò",
+   "en": "(please) cook",
+   "pos": "verb",
+   "group": "extra",
+   "say": "ma-ki-LU-toQ"
+  },
+  {
+   "id": "makitawag-l24",
+   "tl": "makitáwag",
+   "en": "(please) call",
+   "pos": "verb",
+   "group": "extra",
+   "say": "ma-ki-TA-wag"
+  },
+  {
+   "id": "koreo-l24",
+   "tl": "koreo",
+   "en": "post office",
+   "pos": "noun",
+   "group": "extra"
+  },
+  {
+   "id": "balutan-l24",
+   "tl": "balútan",
+   "en": "package",
+   "pos": "noun",
+   "group": "extra",
+   "say": "ba-LU-tan"
+  },
+  {
+   "id": "tsokolate-l24",
+   "tl": "tsokoláte",
+   "en": "chocolate",
+   "pos": "noun",
+   "group": "extra",
+   "say": "tso-ko-LA-te"
+  },
+  {
+   "id": "nga-l24",
+   "tl": "ngâ",
+   "en": "truly; indeed (also softens a request)",
+   "pos": "part",
+   "group": "soft",
+   "say": "ngaQ"
+  },
+  {
+   "id": "naman-l24",
+   "tl": "namán",
+   "en": "also, too, instead (in a command it softens the request)",
+   "pos": "part",
+   "group": "soft",
+   "say": "na-MAN"
+  },
+  {
+   "id": "oo-nga-l24",
+   "tl": "Oô ngâ.",
+   "en": "Yes indeed/of course.",
+   "pos": "phrase",
+   "group": "soft"
+  },
+  {
+   "id": "opo-maaari-l24",
+   "tl": "Opô, maáarì.",
+   "en": "Yes (polite positive answer to a Maáarì bang…? request)",
+   "pos": "phrase",
+   "group": "answers"
+  },
+  {
+   "id": "oo-maaari-l24",
+   "tl": "Oô, maáarì.",
+   "en": "Yes (positive answer to a Maáarì bang…? request)",
+   "pos": "phrase",
+   "group": "answers"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Which prefix makes a passive request verb, like an -in- verb?",
+   "options": [
+    "paki-",
+    "maki-",
+    "mag-"
+   ],
+   "answer": "paki-",
+   "explain": "A paki- verb is passive like an -in- verb."
+  },
+  {
+   "type": "choice",
+   "q": "A maki- verb is active, like which kind of verb?",
+   "options": [
+    "-um- verb",
+    "-in- verb",
+    "paki- verb"
+   ],
+   "answer": "-um- verb",
+   "explain": "A maki- verb is active like an -um- verb."
+  },
+  {
+   "type": "choice",
+   "q": "A paki- verb needs its doer in which form?",
+   "options": [
+    "possessive (mo, niyá)",
+    "nominative (ka, ako)"
+   ],
+   "answer": "possessive (mo, niyá)",
+   "explain": "Pakikúha mo ang aking baró."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: Pakikúha ___ ang aking baró.",
+   "options": [
+    "mo",
+    "ka",
+    "ako"
+   ],
+   "answer": "mo",
+   "explain": "Paki- verbs take the possessive form mo."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: Makitáwag ___ ng doktór para sa ákin.",
+   "options": [
+    "ka",
+    "mo",
+    "ko"
+   ],
+   "answer": "ka",
+   "explain": "Maki- verbs take a nominative doer such as ka."
+  },
+  {
+   "type": "choice",
+   "q": "Why are paki- verbs used more widely for requests?",
+   "options": [
+    "Tagalogs prefer to speak in the passive",
+    "They have no tenses",
+    "They are shorter"
+   ],
+   "answer": "Tagalogs prefer to speak in the passive",
+   "explain": "Paki- verbs are passive."
+  },
+  {
+   "type": "choice",
+   "q": "Which form of these verbs is mostly used?",
+   "options": [
+    "imperative",
+    "past",
+    "future"
+   ],
+   "answer": "imperative",
+   "explain": "These verbs have tenses, but the imperative is mostly used."
+  },
+  {
+   "type": "choice",
+   "q": "What is the past of pakikúha?",
+   "options": [
+    "pinakikúha",
+    "pakikikúha",
+    "pinakikikúha"
+   ],
+   "answer": "pinakikúha",
+   "explain": "Past: pinaki- + root."
+  },
+  {
+   "type": "choice",
+   "q": "What is the present of pakikúha?",
+   "options": [
+    "pinakikikúha",
+    "pinakikúha",
+    "pakikikúha"
+   ],
+   "answer": "pinakikikúha",
+   "explain": "Present: pinakiki- + root."
+  },
+  {
+   "type": "choice",
+   "q": "What is the future of makikúha?",
+   "options": [
+    "makikikúha",
+    "nakikikúha",
+    "nakikúha"
+   ],
+   "answer": "makikikúha",
+   "explain": "Future: makiki- + root."
+  },
+  {
+   "type": "choice",
+   "q": "\"Pinakitáwag ko ang doktór sa kanyá\" means…",
+   "options": [
+    "I requested him/her to call the doctor for me.",
+    "(You) Please call a doctor for me.",
+    "I shall request you to carry a package for me."
+   ],
+   "answer": "I requested him/her to call the doctor for me.",
+   "explain": "Pinaki- is the past."
+  },
+  {
+   "type": "choice",
+   "q": "Ngâ means…",
+   "options": [
+    "truly or indeed",
+    "possible",
+    "instead of"
+   ],
+   "answer": "truly or indeed",
+   "explain": "Oô ngâ. Yes indeed/of course."
+  },
+  {
+   "type": "choice",
+   "q": "\"Kúnin mo ngâ ang aking barò\" means…",
+   "options": [
+    "(You) Please get my dress.",
+    "May you get my dress?",
+    "I got my dress."
+   ],
+   "answer": "(You) Please get my dress.",
+   "explain": "Ngâ softens the order, even without a paki- verb."
+  },
+  {
+   "type": "choice",
+   "q": "Fill in: Maáarì ___ kúnin mo ang aking damít?",
+   "options": [
+    "bang",
+    "ba",
+    "ng"
+   ],
+   "answer": "bang",
+   "explain": "Maáarì is followed by ba with the ligature -ng attached."
+  },
+  {
+   "type": "choice",
+   "q": "Which answer is demanded in polite Filipino society?",
+   "options": [
+    "Opô, maáarì.",
+    "Oô, maáarì.",
+    "Oô ngâ."
+   ],
+   "answer": "Opô, maáarì.",
+   "explain": "Oô, maáarì is also positive, but Opô is the polite form."
+  },
+  {
+   "type": "choice",
+   "q": "Using only ngâ or namán (no paki- or maki-) with elders and authorities is…",
+   "options": [
+    "impolite",
+    "very polite",
+    "required"
+   ],
+   "answer": "impolite",
+   "explain": "Add paki- or maki-, pô, and the plural pronouns silá and kayó."
+  },
+  {
+   "type": "listen",
+   "tl": "pakidalá",
+   "options": [
+    "(please) bring",
+    "(please) read",
+    "(please) get"
+   ],
+   "answer": "(please) bring",
+   "explain": "Pakidalá mo ang áking sulat sa koreo."
+  },
+  {
+   "type": "listen",
+   "tl": "maáarì",
+   "options": [
+    "possible",
+    "package",
+    "chocolate"
+   ],
+   "answer": "possible",
+   "explain": "Maáarì bang kúnin mo ang aking damít?"
+  },
+  {
+   "type": "listen",
+   "tl": "balútan",
+   "options": [
+    "package",
+    "post office",
+    "letter"
+   ],
+   "answer": "package",
+   "explain": "Makíkidala ako ng balútan sa iyó."
+  },
+  {
+   "type": "listen",
+   "tl": "pinakíkisakáy",
+   "options": [
+    "(please) give a ride",
+    "(please) call",
+    "(please) cook"
+   ],
+   "answer": "(please) give a ride",
+   "explain": "Pinakíkisakáy niya ang batà sa aming kótse."
+  },
+  {
+   "type": "build",
+   "en": "(You) Please get my dress.",
+   "tl": "Pakikúha mo ang aking baró.",
+   "tokens": [
+    "pakikúha",
+    "mo",
+    "ang",
+    "aking",
+    "baró"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "(You) Please write your name.",
+   "tl": "Pakisulat mo ang iyóng pangálan.",
+   "tokens": [
+    "pakisulat",
+    "mo",
+    "ang",
+    "iyóng",
+    "pangálan"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "(You) Please call a doctor for me.",
+   "tl": "Makitáwag ka ng doktór para sa ákin.",
+   "tokens": [
+    "makitáwag",
+    "ka",
+    "ng",
+    "doktór",
+    "para",
+    "sa",
+    "ákin"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "(You) Please read to me the story.",
+   "tl": "Pakibása mo sa akin ang kuwénto.",
+   "tokens": [
+    "pakibása",
+    "mo",
+    "sa",
+    "akin",
+    "ang",
+    "kuwénto"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "May you read the story?",
+   "tl": "Maáarì bang basahin mo ang kuwento?",
+   "tokens": [
+    "maáarì",
+    "bang",
+    "basahin",
+    "mo",
+    "ang",
+    "kuwento"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "May you buy a chocolate for me?",
+   "tl": "Maáarì bang bumilí ka ng tsokoláte para sa ákin?",
+   "tokens": [
+    "maáarì",
+    "bang",
+    "bumilí",
+    "ka",
+    "ng",
+    "tsokoláte",
+    "para",
+    "sa",
+    "ákin"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match each paki- form of kúha to its tense.",
+   "pairs": [
+    [
+     "pakikúha",
+     "infinitive / imperative"
+    ],
+    [
+     "pinakikúha",
+     "past"
+    ],
+    [
+     "pinakikikúha",
+     "present"
+    ],
+    [
+     "pakikikúha",
+     "future"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each word to its meaning.",
+   "pairs": [
+    [
+     "kúnin",
+     "get"
+    ],
+    [
+     "pakibása",
+     "(please) read"
+    ],
+    [
+     "koreo",
+     "post office"
+    ],
+    [
+     "tsokoláte",
+     "chocolate"
+    ],
+    [
+     "makilutò",
+     "(please) cook"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "Say please with a request verb: paki- (passive, doer mo/ko/niyá) or maki- (active, doer ka/ako/siyá).",
+  "Paki- verbs are used more, because Tagalogs prefer the passive. The imperative is the form mostly used.",
+  "Tenses with kúha: pakikúha, pinakikúha, pinakikikúha, pakikikúha; makikúha, nakikúha, nakikikúha, makikikúha.",
+  "Ngâ (truly, indeed) or namán (also, too, instead) softens a request: Kúnin mo ngâ ang aking barò.",
+  "Ask with Maáarì bang…? and answer Opô, maáarì (polite) or Oô, maáarì.",
+  "With elders and authorities, always use paki- or maki- with pô and polite plural pronouns."
+ ]
+}

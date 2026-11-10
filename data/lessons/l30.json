@@ -1,0 +1,1354 @@
+{
+ "id": "l30",
+ "label": "30",
+ "title": "Verb roots",
+ "summary": "The root is the basic form of a verb: add affixes to make verbs and adjectives, or put ang before it to make a noun",
+ "minutes": 30,
+ "goals": [
+  "Understand what a verb root is",
+  "See how affixes turn a root into tenses or adjectives",
+  "Learn twelve roots and the verbs made from them",
+  "Use ang (or ang mga) + root as the subject of a sentence"
+ ],
+ "sections": [
+  {
+   "title": "What is a verb root?",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "A **verb root** is the **basic form** of a verb, such as **áral** (*study*)."
+    },
+    {
+     "type": "p",
+     "t": "When an **affix** (a prefix or other added part) is attached, the root takes on different **tenses**, or it can become an **adjective**:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "What it is"
+     ],
+     "rows": [
+      [
+       "[[nag-aral|pred]]",
+       "the root in the **past tense**"
+      ],
+      [
+       "[[mag-aarál|pred]]",
+       "the root in the **future tense**"
+      ],
+      [
+       "[[arál na tao|other]]",
+       "the root as an **adjective**: educated person"
+      ],
+      [
+       "[[kilaláng guró|other]]",
+       "the root as an **adjective**: well-known teacher"
+      ]
+     ],
+     "title": "One root, many forms",
+     "note": "Lesson 14 showed this future as mag-aáral. The book writes guró here and gurò elsewhere."
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "You have seen this before",
+     "t": "In Lesson 14 you built -um- and mag- verbs from roots such as **alís** and **áral**: umalís, mag-áral. This lesson collects more roots and shows another use for them."
+    }
+   ]
+  },
+  {
+   "title": "Roots and their derivatives",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Here are verb roots, the verb forms made from them (their **derivatives**), and their meanings in English:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Verb root",
+      "Derivative",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "aral",
+       "[[mag-áral|pred]]",
+       "to study, to learn"
+      ],
+      [
+       "sábi",
+       "[[sabihin|pred]]",
+       "to say"
+      ],
+      [
+       "alám",
+       "[[málaman|pred]]",
+       "to know (things)"
+      ],
+      [
+       "kilála",
+       "[[mákilala|pred]]",
+       "to know (persons)"
+      ],
+      [
+       "dalá",
+       "[[dalhín|pred]]",
+       "to bring or carry"
+      ],
+      [
+       "tanóng",
+       "[[tanungín|pred]]",
+       "to ask"
+      ],
+      [
+       "sagót",
+       "[[sagutín|pred]]",
+       "to answer"
+      ],
+      [
+       "lakí",
+       "[[lumakí|pred]]",
+       "to grow"
+      ],
+      [
+       "ibig",
+       "[[ibígin|pred]]",
+       "to love or like"
+      ],
+      [
+       "galíng",
+       "[[manggáling|pred]]",
+       "to come from"
+      ],
+      [
+       "ayaw",
+       "[[umayáw|pred]]",
+       "to decline or dislike"
+      ],
+      [
+       "",
+       "or [[ayawán|pred]]",
+       "to be declined or disliked"
+      ],
+      [
+       "lakád",
+       "[[lumákad|pred]]",
+       "to walk"
+      ]
+     ],
+     "title": "Verb roots"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Two kinds of to know",
+     "items": [
+      "**málaman** (root **alám**): to know **things**.",
+      "**mákilala** (root **kilála**): to know **persons**."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Look closely",
+     "items": [
+      "Some roots change a little when the affix is added: dalá → **dalhín**, tanóng → **tanungín**, sagót → **sagutín**.",
+      "The same root can make more than one verb: ayaw → **umayáw** (to decline or dislike) and **ayawán** (to be declined or disliked)."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "roots",
+     "title": "Verbs made from roots"
+    }
+   ]
+  },
+  {
+   "title": "Roots used as nouns",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "When a verb root comes after the article **ang**, or its plural form **ang mga**, it becomes a **noun**, and it can be used as the **subject** of a sentence."
+    },
+    {
+     "type": "pattern",
+     "title": "Ang + root = a noun",
+     "rows": [
+      {
+       "label": "Subject",
+       "chips": [
+        {
+         "t": "Ang",
+         "r": "marker"
+        },
+        {
+         "t": "sagót",
+         "r": "noun"
+        },
+        {
+         "t": "ko",
+         "r": "poss"
+        },
+        {
+         "t": "ay",
+         "r": "ay"
+        },
+        {
+         "t": "tamà",
+         "r": "pred"
+        }
+       ]
+      }
+     ],
+     "note": "My answer is right. (sagót is the root of sagutín, to answer)"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ang aral niyá ay mabágal.",
+       "en": "His/Her study is slow.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "aral",
+         "study (root)",
+         "noun"
+        ],
+        [
+         "niyá",
+         "his/her",
+         "poss"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "mabágal",
+         "slow",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang sagót ko ay tamà.",
+       "en": "My answer is right.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "sagót",
+         "answer (root)",
+         "noun"
+        ],
+        [
+         "ko",
+         "my",
+         "poss"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "tamà",
+         "right",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang sabi niyá ang mas matimbáng sa sinábi mo.",
+       "en": "His/Her statement has more weight than yours.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "sabi",
+         "statement (root)",
+         "noun"
+        ],
+        [
+         "niyá",
+         "his/her",
+         "poss"
+        ],
+        [
+         "ang",
+         "(the one)",
+         "marker"
+        ],
+        [
+         "mas matimbáng",
+         "has more weight",
+         "pred"
+        ],
+        [
+         "sa",
+         "than",
+         "marker"
+        ],
+        [
+         "sinábi",
+         "what was said",
+         "noun"
+        ],
+        [
+         "mo",
+         "your",
+         "poss"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang alám ko lamang ay ang pangalan niyá.",
+       "en": "All I know is his name.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "alám",
+         "know (root)",
+         "noun"
+        ],
+        [
+         "ko",
+         "I",
+         "poss"
+        ],
+        [
+         "lamang",
+         "only",
+         "other"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "pangalan",
+         "name",
+         "noun"
+        ],
+        [
+         "niyá",
+         "his",
+         "poss"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang kilalá ko ay ang kanyáng amá.",
+       "en": "I know his father.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "kilalá",
+         "known (root)",
+         "noun"
+        ],
+        [
+         "ko",
+         "I",
+         "poss"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "kanyáng",
+         "his",
+         "poss"
+        ],
+        [
+         "amá",
+         "father",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang ayaw ng gurò ay tamád na estudyante.",
+       "en": "What is disliked by the teacher is a lazy student. (literal)",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "ayaw",
+         "dislike (root)",
+         "noun"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "gurò",
+         "teacher",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "tamád",
+         "lazy",
+         "pred"
+        ],
+        [
+         "na",
+         "(ligature)",
+         "link"
+        ],
+        [
+         "estudyante",
+         "student",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang dalá ni Peter ay bóla ng kanyáng kuya.",
+       "en": "Peter is carrying his brother's ball.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "dalá",
+         "carry (root)",
+         "noun"
+        ],
+        [
+         "ni",
+         "of",
+         "marker"
+        ],
+        [
+         "Peter",
+         "Peter",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "bóla",
+         "ball",
+         "pred"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "kanyáng",
+         "his",
+         "poss"
+        ],
+        [
+         "kuya",
+         "elder brother",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang tanóng ng batà ay mahírap sagutín.",
+       "en": "The question of the child is difficult to answer.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "tanóng",
+         "question (root)",
+         "noun"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "mahírap",
+         "difficult",
+         "pred"
+        ],
+        [
+         "sagutín",
+         "to answer",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang lakí ng báhay ko ay katamtaman lamang.",
+       "en": "The size of my house is average only.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "lakí",
+         "size (root)",
+         "noun"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "báhay",
+         "house",
+         "noun"
+        ],
+        [
+         "ko",
+         "my",
+         "poss"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "katamtaman",
+         "average",
+         "pred"
+        ],
+        [
+         "lamang",
+         "only",
+         "other"
+        ]
+       ]
+      },
+      {
+       "tl": "Ibig ng lalaki na makuha ang pagmámáhal ng babáe.",
+       "en": "The desire of the man is to get the love of the woman.",
+       "parts": [
+        [
+         "Ibig",
+         "desire",
+         "pred"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "lalaki",
+         "man",
+         "noun"
+        ],
+        [
+         "na",
+         "(ligature)",
+         "link"
+        ],
+        [
+         "makuha",
+         "to get",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "pagmámáhal",
+         "love",
+         "noun"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "babáe",
+         "woman",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Roots as subjects"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Notice",
+     "items": [
+      "In the book, the **ang + root** part of each sentence is underlined: ang aral, ang sagót, ang sabi, ang alám, ang kilalá, ang ayaw, ang dalá, ang tanóng, ang lakí.",
+      "In the last sentence the underlined part is **ang pagmámáhal** (the love).",
+      "Some sentences sound more natural in a free English translation: *Ang kilalá ko…* becomes *I know his father*."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Spelling",
+     "t": "The table writes **kilála**, the opening text writes **kilaláng** guró, and the sentence writes **kilalá**. The table writes **aral** and the text **áral** / **arál**; the vocabulary list writes **mahirap sagutin** with no accents and the sentence writes **mahírap sagutín**."
+    },
+    {
+     "type": "vocab",
+     "group": "list",
+     "title": "Vocabulary list"
+    },
+    {
+     "type": "vocab",
+     "group": "words",
+     "title": "More words"
+    }
+   ]
+  },
+  {
+   "title": "Practice from the book",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book asks you to write down the **verb root** in each sentence, and then translate the sentence into Tagalog. It prints no answers. Some roots match the table above (for example *walk* → lakád, *came from* → galíng); others are new words you can look up."
+    },
+    {
+     "type": "table",
+     "head": [
+      "#",
+      "Sentence"
+     ],
+     "rows": [
+      [
+       "1",
+       "I know that he is good."
+      ],
+      [
+       "2",
+       "What was said by you?"
+      ],
+      [
+       "3",
+       "Is he liked by the woman?"
+      ],
+      [
+       "4",
+       "He does not like the life in the province (**lalawigan**)."
+      ],
+      [
+       "5",
+       "Our walk last Saturday was fun."
+      ],
+      [
+       "6",
+       "This gift came from my sister."
+      ],
+      [
+       "7",
+       "Let us listen to his complaint."
+      ],
+      [
+       "8",
+       "The judgement (**hatol**) has been handed down."
+      ],
+      [
+       "9",
+       "The guard has left."
+      ],
+      [
+       "10",
+       "The hold of the child to his/her mother is tight."
+      ]
+     ],
+     "title": "Find the verb root"
+    },
+    {
+     "type": "p",
+     "t": "The book then asks you to write **five sentences** that use verb roots as subjects, after **ang** or **ang mga**. Its example:"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ang aral sa unibersidád ay mahírap.",
+       "en": "A university education (or study) is difficult.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "aral",
+         "education, study (root)",
+         "noun"
+        ],
+        [
+         "sa",
+         "at",
+         "marker"
+        ],
+        [
+         "unibersidád",
+         "university",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "mahírap",
+         "difficult",
+         "pred"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "A verb root is the basic form of a verb: áral, sábi, alám, kilála, dalá, tanóng, sagót, lakí, ibig, galíng, ayaw, lakád.",
+      "Add an affix to get tenses (nag-aral, mag-aarál) or adjectives (arál na tao, kilaláng guró).",
+      "Málaman is to know things; mákilala is to know persons.",
+      "Ang or ang mga + root makes a noun that can be the subject: Ang sagót ko ay tamà."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "tanong-l30",
+   "tl": "tanóng",
+   "en": "question",
+   "pos": "noun",
+   "group": "list",
+   "say": "ta-NONG",
+   "note": "Root of tanungín, to ask."
+  },
+  {
+   "id": "mabagal-l30",
+   "tl": "mabágal",
+   "en": "slow",
+   "pos": "adj",
+   "group": "list",
+   "say": "ma-BA-gal"
+  },
+  {
+   "id": "mas-matimbang-l30",
+   "tl": "mas matimbáng",
+   "en": "has more weight",
+   "pos": "phrase",
+   "group": "list",
+   "say": "mas ma-tim-BANG"
+  },
+  {
+   "id": "mahirap-sagutin-l30",
+   "tl": "mahirap sagutin",
+   "en": "difficult to answer",
+   "pos": "phrase",
+   "group": "list",
+   "note": "The sample sentence writes mahírap sagutín."
+  },
+  {
+   "id": "sagot-l30",
+   "tl": "sagót",
+   "en": "answer",
+   "pos": "noun",
+   "group": "list",
+   "say": "sa-GOT",
+   "note": "Root of sagutín, to answer."
+  },
+  {
+   "id": "katamtaman-l30",
+   "tl": "katamtaman",
+   "en": "average",
+   "pos": "adj",
+   "group": "list"
+  },
+  {
+   "id": "malaman-l30",
+   "tl": "málaman",
+   "en": "to know (things)",
+   "pos": "verb",
+   "group": "roots",
+   "say": "MA-la-man",
+   "note": "Root: alám. Lesson 9 writes maláman (to know)."
+  },
+  {
+   "id": "makilala-l30",
+   "tl": "mákilala",
+   "en": "to know (persons)",
+   "pos": "verb",
+   "group": "roots",
+   "say": "MA-ki-la-la",
+   "note": "Root: kilála."
+  },
+  {
+   "id": "dalhin-l30",
+   "tl": "dalhín",
+   "en": "to bring or carry",
+   "pos": "verb",
+   "group": "roots",
+   "say": "dal-HIN",
+   "note": "Root: dalá."
+  },
+  {
+   "id": "tanungin-l30",
+   "tl": "tanungín",
+   "en": "to ask",
+   "pos": "verb",
+   "group": "roots",
+   "say": "ta-nu-NGIN",
+   "note": "Root: tanóng."
+  },
+  {
+   "id": "sagutin-l30",
+   "tl": "sagutín",
+   "en": "to answer",
+   "pos": "verb",
+   "group": "roots",
+   "say": "sa-gu-TIN",
+   "note": "Root: sagót."
+  },
+  {
+   "id": "lumaki-l30",
+   "tl": "lumakí",
+   "en": "to grow",
+   "pos": "verb",
+   "group": "roots",
+   "say": "lu-ma-KI",
+   "note": "Root: lakí."
+  },
+  {
+   "id": "ibigin-l30",
+   "tl": "ibígin",
+   "en": "to love or like",
+   "pos": "verb",
+   "group": "roots",
+   "say": "i-BI-gin",
+   "note": "Root: ibig. Lesson 22 writes ibigin."
+  },
+  {
+   "id": "manggaling-l30",
+   "tl": "manggáling",
+   "en": "to come from",
+   "pos": "verb",
+   "group": "roots",
+   "say": "mang-GA-ling",
+   "note": "Root: galíng."
+  },
+  {
+   "id": "umayaw-l30",
+   "tl": "umayáw",
+   "en": "to decline or dislike",
+   "pos": "verb",
+   "group": "roots",
+   "say": "u-ma-YAW",
+   "note": "Root: ayaw."
+  },
+  {
+   "id": "ayawan-l30",
+   "tl": "ayawán",
+   "en": "to be declined or disliked",
+   "pos": "verb",
+   "group": "roots",
+   "say": "a-ya-WAN",
+   "note": "Root: ayaw."
+  },
+  {
+   "id": "laki-l30",
+   "tl": "lakí",
+   "en": "size (root of lumakí, to grow)",
+   "pos": "noun",
+   "group": "words",
+   "say": "la-KI"
+  },
+  {
+   "id": "aral-na-tao-l30",
+   "tl": "arál na tao",
+   "en": "educated person",
+   "pos": "phrase",
+   "group": "words"
+  },
+  {
+   "id": "kilalang-guro-l30",
+   "tl": "kilaláng guró",
+   "en": "well-known teacher",
+   "pos": "phrase",
+   "group": "words"
+  },
+  {
+   "id": "bola-l30",
+   "tl": "bóla",
+   "en": "ball",
+   "pos": "noun",
+   "group": "words",
+   "say": "BO-la"
+  },
+  {
+   "id": "unibersidad-l30",
+   "tl": "unibersidád",
+   "en": "university",
+   "pos": "noun",
+   "group": "words",
+   "say": "u-ni-ber-si-DAD"
+  },
+  {
+   "id": "lalawigan-l30",
+   "tl": "lalawigan",
+   "en": "province",
+   "pos": "noun",
+   "group": "words"
+  },
+  {
+   "id": "hatol-l30",
+   "tl": "hatol",
+   "en": "judgement",
+   "pos": "noun",
+   "group": "words"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "What is a verb root?",
+   "options": [
+    "The basic form of a verb",
+    "A verb in the past tense",
+    "A question word"
+   ],
+   "answer": "The basic form of a verb",
+   "explain": "For example áral."
+  },
+  {
+   "type": "choice",
+   "q": "Nag-aral is in which tense?",
+   "options": [
+    "past",
+    "future",
+    "present"
+   ],
+   "answer": "past",
+   "explain": "Nag-aral is in past tense."
+  },
+  {
+   "type": "choice",
+   "q": "Mag-aarál (from the root aral) is in which tense?",
+   "options": [
+    "future",
+    "past",
+    "present"
+   ],
+   "answer": "future",
+   "explain": "Mag-aarál is in the future tense."
+  },
+  {
+   "type": "choice",
+   "q": "What does arál na tao mean?",
+   "options": [
+    "educated person",
+    "well-known teacher",
+    "slow student"
+   ],
+   "answer": "educated person",
+   "explain": "Here the root works as an adjective."
+  },
+  {
+   "type": "choice",
+   "q": "What does kilaláng guró mean?",
+   "options": [
+    "well-known teacher",
+    "educated person",
+    "lazy student"
+   ],
+   "answer": "well-known teacher",
+   "explain": "Kilála + ligature -ng."
+  },
+  {
+   "type": "choice",
+   "q": "Which verb means to know PERSONS?",
+   "options": [
+    "mákilala",
+    "málaman",
+    "sabihin"
+   ],
+   "answer": "mákilala",
+   "explain": "Root kilála."
+  },
+  {
+   "type": "choice",
+   "q": "Which verb means to know THINGS?",
+   "options": [
+    "málaman",
+    "mákilala",
+    "dalhín"
+   ],
+   "answer": "málaman",
+   "explain": "Root alám."
+  },
+  {
+   "type": "choice",
+   "q": "What is the derivative of dalá (to bring or carry)?",
+   "options": [
+    "dalhín",
+    "lumakí",
+    "sagutín"
+   ],
+   "answer": "dalhín",
+   "explain": "dalá → dalhín."
+  },
+  {
+   "type": "choice",
+   "q": "Manggáling means…",
+   "options": [
+    "to come from",
+    "to walk",
+    "to grow"
+   ],
+   "answer": "to come from",
+   "explain": "Root galíng."
+  },
+  {
+   "type": "choice",
+   "q": "Ayawán means…",
+   "options": [
+    "to be declined or disliked",
+    "to decline or dislike",
+    "to answer"
+   ],
+   "answer": "to be declined or disliked",
+   "explain": "Umayáw is to decline or dislike."
+  },
+  {
+   "type": "choice",
+   "q": "What is the root of lumákad (to walk)?",
+   "options": [
+    "lakád",
+    "lakí",
+    "dalá"
+   ],
+   "answer": "lakád",
+   "explain": "lakád → lumákad."
+  },
+  {
+   "type": "choice",
+   "q": "What is the root of tanungín (to ask)?",
+   "options": [
+    "tanóng",
+    "sagót",
+    "sábi"
+   ],
+   "answer": "tanóng",
+   "explain": "tanóng → tanungín."
+  },
+  {
+   "type": "choice",
+   "q": "What happens to a root after ang or ang mga?",
+   "options": [
+    "It becomes a noun and can be the subject",
+    "It becomes a past-tense verb",
+    "It becomes a question"
+   ],
+   "answer": "It becomes a noun and can be the subject",
+   "explain": "Ang sagót ko ay tamà."
+  },
+  {
+   "type": "choice",
+   "q": "Book exercise: \"Our walk last Saturday was fun.\" Which root from the table means walk?",
+   "options": [
+    "lakád",
+    "lakí",
+    "galíng"
+   ],
+   "answer": "lakád",
+   "explain": "Lumákad, to walk, comes from lakád."
+  },
+  {
+   "type": "choice",
+   "q": "Book exercise: \"This gift came from my sister.\" Which root from the table means come from?",
+   "options": [
+    "galíng",
+    "dalá",
+    "ayaw"
+   ],
+   "answer": "galíng",
+   "explain": "Manggáling, to come from, comes from galíng."
+  },
+  {
+   "type": "choice",
+   "q": "What does \"Ang sagót ko ay tamà\" mean?",
+   "options": [
+    "My answer is right.",
+    "My question is difficult.",
+    "His/Her study is slow."
+   ],
+   "answer": "My answer is right.",
+   "explain": "Ang + root sagót = the answer."
+  },
+  {
+   "type": "listen",
+   "tl": "tanóng",
+   "options": [
+    "question",
+    "answer",
+    "average"
+   ],
+   "answer": "question",
+   "explain": "Ang tanóng ng batà ay mahírap sagutín."
+  },
+  {
+   "type": "listen",
+   "tl": "mabágal",
+   "options": [
+    "slow",
+    "average",
+    "difficult to answer"
+   ],
+   "answer": "slow",
+   "explain": "Ang aral niyá ay mabágal."
+  },
+  {
+   "type": "listen",
+   "tl": "katamtaman",
+   "options": [
+    "average",
+    "slow",
+    "has more weight"
+   ],
+   "answer": "average",
+   "explain": "Ang lakí ng báhay ko ay katamtaman lamang."
+  },
+  {
+   "type": "listen",
+   "tl": "sagutín",
+   "options": [
+    "to answer",
+    "to ask",
+    "to say"
+   ],
+   "answer": "to answer",
+   "explain": "Root: sagót."
+  },
+  {
+   "type": "listen",
+   "tl": "lumakí",
+   "options": [
+    "to grow",
+    "to walk",
+    "to come from"
+   ],
+   "answer": "to grow",
+   "explain": "Root: lakí."
+  },
+  {
+   "type": "build",
+   "en": "His/Her study is slow.",
+   "tl": "Ang aral niyá ay mabágal.",
+   "tokens": [
+    "ang",
+    "aral",
+    "niyá",
+    "ay",
+    "mabágal"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "My answer is right.",
+   "tl": "Ang sagót ko ay tamà.",
+   "tokens": [
+    "ang",
+    "sagót",
+    "ko",
+    "ay",
+    "tamà"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "I know his father.",
+   "tl": "Ang kilalá ko ay ang kanyáng amá.",
+   "tokens": [
+    "ang",
+    "kilalá",
+    "ko",
+    "ay",
+    "ang",
+    "kanyáng",
+    "amá"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The question of the child is difficult to answer.",
+   "tl": "Ang tanóng ng batà ay mahírap sagutín.",
+   "tokens": [
+    "ang",
+    "tanóng",
+    "ng",
+    "batà",
+    "ay",
+    "mahírap",
+    "sagutín"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The size of my house is average only.",
+   "tl": "Ang lakí ng báhay ko ay katamtaman lamang.",
+   "tokens": [
+    "ang",
+    "lakí",
+    "ng",
+    "báhay",
+    "ko",
+    "ay",
+    "katamtaman",
+    "lamang"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "A university education (or study) is difficult.",
+   "tl": "Ang aral sa unibersidád ay mahírap.",
+   "tokens": [
+    "ang",
+    "aral",
+    "sa",
+    "unibersidád",
+    "ay",
+    "mahírap"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match each root to its derivative.",
+   "pairs": [
+    [
+     "sábi",
+     "sabihin"
+    ],
+    [
+     "dalá",
+     "dalhín"
+    ],
+    [
+     "sagót",
+     "sagutín"
+    ],
+    [
+     "lakí",
+     "lumakí"
+    ],
+    [
+     "galíng",
+     "manggáling"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match each derivative to its meaning.",
+   "pairs": [
+    [
+     "tanungín",
+     "to ask"
+    ],
+    [
+     "ibígin",
+     "to love or like"
+    ],
+    [
+     "umayáw",
+     "to decline or dislike"
+    ],
+    [
+     "lumákad",
+     "to walk"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "A verb root is the basic form of a verb, such as áral.",
+  "Affixes give it tenses (nag-aral past, mag-aarál future) or make it an adjective (arál na tao, kilaláng guró).",
+  "Learn the root–verb pairs: sábi–sabihin, alám–málaman, kilála–mákilala, dalá–dalhín, tanóng–tanungín, sagót–sagutín…",
+  "Málaman is to know things; mákilala is to know persons.",
+  "After ang or ang mga, a root is a noun and can be the subject: Ang sagót ko ay tamà."
+ ]
+}
