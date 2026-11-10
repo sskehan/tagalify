@@ -173,3 +173,4 @@ body.full #nav{display:none}
 .fine{font-size:.85rem;color:var(--mute)}
 .keyin{font:inherit;padding:8px 10px;border:1px solid var(--line);border-radius:10px;background:var(--bg);color:var(--ink);max-width:60%}
 .howto{margin-top:10px}.howto summary{cursor:pointer;color:var(--pri);font-weight:600;padding:6px 0}.howto ol{padding-left:1.2rem;margin:6px 0}.howto li{margin:6px 0}
+.stxt b{display:block;font-weight:600}.stxt .sen{display:block;color:var(--mute);font-size:.85rem;margin-top:1px}

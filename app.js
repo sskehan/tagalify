@@ -465,7 +465,7 @@ function viewMore() {
       h('button', { class: 'btn danger block', onclick: resetAll }, 'Reset all progress')),
     h('div', { class: 'card about' },
       h('div', { class: 'about-top' }, h('img', { src: 'logo.png', alt: '', width: 64, height: 64 }), h('div', {}, h('b', {}, 'Tagalify v' + APP_VERSION), h('small', {}, 'Your Tagalog study guide'))),
-      h('p', {}, 'Lessons follow Paraluman S. Aspillera’s Basic Tagalog (Introduction and Lessons 1 to 20). Tagalog words, accent marks and meanings match the textbook.'),
+      h('p', {}, 'Lessons follow Paraluman S. Aspillera’s Basic Tagalog (Introduction and Lessons 1 to 34). Tagalog words, accent marks and meanings match the textbook.'),
       h('p', {}, 'Works offline once opened.')));
 }
 function download(name, blob) {
@@ -542,11 +542,11 @@ async function startRec(text, done) {
   return true;
 }
 function studioItems(L) {
-  const sents = [];
-  L.sections.forEach((s) => s.blocks.forEach((b) => { if (b.type === 'examples') b.items.forEach((i) => { if (!sents.includes(i.tl)) sents.push(i.tl); }); }));
+  const sents = [], en = new Map();
+  L.sections.forEach((s) => s.blocks.forEach((b) => { if (b.type === 'examples') b.items.forEach((i) => { if (!sents.includes(i.tl)) { sents.push(i.tl); en.set(i.tl, i.en); } }); }));
   const ws = [];
-  L.vocab.forEach((v) => { if (!ws.includes(v.tl)) ws.push(v.tl); });
-  return { ws, sents };
+  L.vocab.forEach((v) => { if (!ws.includes(v.tl)) { ws.push(v.tl); en.set(v.tl, v.en); } });
+  return { ws, sents, en };
 }
 function viewStudio(v) {
   if (!v.have) { v.have = new Set(); recKeys().then((ks) => { ks.forEach((k) => v.have.add(k)); if (stack[stack.length - 1] === v) render(true); }); }
@@ -559,7 +559,7 @@ function viewStudio(v) {
       const has = v.have.has(key), isRec = v.recording === key;
       el.replaceChildren(...[
         h('span', { class: 'dot' + (has ? ' on' : '') }),
-        h('span', { class: 'stxt' }, text),
+        h('span', { class: 'stxt' }, h('b', {}, text), it.en.get(text) ? h('small', { class: 'sen' }, it.en.get(text)) : null),
         has ? h('button', { class: 'ib', 'aria-label': 'Play recording', onclick: () => say(text) }, '▶') : null,
         h('button', { class: 'ib rec' + (isRec ? ' live' : ''), 'aria-label': isRec ? 'Stop recording' : 'Record ' + text, onclick: async () => {
           if (isRec) { recorder && recorder.stop(); return; }

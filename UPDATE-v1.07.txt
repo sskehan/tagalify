@@ -1,0 +1,21 @@
+TAGALIFY v1.07 CATCH-UP PACK  (from v1.03 straight to v1.07)
+==============================================================
+This pack holds every file that changed since v1.03, so you do NOT need the v1.04, v1.05 or v1.06 packs.
+Do not delete anything on GitHub.
+
+What's new since v1.03
+- Lessons 9 to 34 (book pages 52-151), in eight new units on the Course page.
+- Recording studio shows the English meaning under each Tagalog word and sentence.
+
+How to install
+1. Unzip this pack. Inside the "tagalify" folder are the changed files in their folders.
+2. On GitHub, open your Tagalify repository and upload each file into the SAME folder:
+   - top level:        core.js, sw.js, app.js, style.css, README.md
+   - data/:            course.json
+   - data/lessons/:    l09.json to l34.json (new files)
+   - tools/:           build.py and c11_l09.py to c36_l34.py (lesson sources, only needed for future updates)
+   Use "Add file > Upload files" inside each folder, drag the files in, and Commit. Replace when asked.
+3. Wait a minute, then open Tagalify on your phone. Close it fully and open it again once.
+   More > About should show v1.07.
+
+Your progress, Dropbox backup and recordings are not affected.
