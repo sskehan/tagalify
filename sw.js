@@ -1,6 +1,6 @@
 'use strict';
 // Bump VERSION whenever app code (index.html, core.js, app.js, style.css) changes so phones pick it up.
-const VERSION = 'tagalify-v1.10';
+const VERSION = 'tagalify-v1.11';
 const SHELL = ['./', 'index.html', 'style.css', 'core.js', 'sync.js', 'app.js', 'manifest.webmanifest',
   'icon-192.png', 'icon-512.png', 'icon-maskable-512.png', 'apple-touch-icon.png', 'logo.png',
   'data/course.json', 'data/reference.json', 'audio/manifest.json'];
@@ -48,7 +48,8 @@ self.addEventListener('fetch', (event) => {
       if (hit) return hit;
     }
     try {
-      const fresh = await fetch(req);
+      // no-cache: always ask GitHub whether the file changed (avoids the 10-minute browser cache delay)
+      const fresh = await fetch(req.mode === 'navigate' ? req.url : req, { cache: 'no-cache' });
       if (fresh && fresh.status === 200) cache.put(req, fresh.clone());
       return fresh;
     } catch (e) {

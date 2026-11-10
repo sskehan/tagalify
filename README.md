@@ -1,4 +1,4 @@
-# Tagalify v1.10
+# Tagalify v1.11
 
 A complete, offline study guide for learning Tagalog, built for native English speakers starting from zero. It installs on Android as an app (a Progressive Web App) and works without a connection after the first visit.
 
@@ -96,6 +96,11 @@ Then upload the changed files to GitHub. Your progress on the phone is kept.
 Progress and recordings are stored on the phone, and copied to your own Dropbox if you connect it. Nothing is sent anywhere else. You can also save a backup file of your progress from **More › Backup file**.
 
 ## Version history
+
+**1.11**
+- Vocabulary sweep of the Introduction and Lessons 1 to 39: every Tagalog word or phrase the book gives a meaning for is now in that lesson's word list (about 940 new words, shown at the end of each lesson under "More words from this lesson"). Every new word, accent mark and meaning checked against the page images by separate checkers.
+- Fixed the accents of magkaíbígan in Lesson 34 to match the book.
+- New versions now show up on the phone as soon as they are on GitHub (no more 10-minute wait).
 
 **1.10**
 - Recording studio: choose which microphone to record with (for example a RØDE Wireless PRO or other USB-C mic), a live level meter to test it, and an option to turn off the phone's noise filters for external mics. Falls back to the phone mic if the chosen one is unplugged.

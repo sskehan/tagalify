@@ -1,0 +1,12 @@
+Tagalify update 1.10 -> 1.11  (complete vocabulary for Lessons 1-39)
+
+Upload everything in this zip to GitHub, keeping the folders (data/lessons/..., tools/...),
+replacing the old files. Then close Tagalify completely and open it again.
+More > About should say 1.11.
+
+What's new:
+- About 940 more words: every Tagalog word or phrase the book gives a meaning for in
+  the Introduction and Lessons 1-39 is now in that lesson's word list, under
+  "More words from this lesson" at the end of each lesson. All checked against the book pages.
+- Your existing progress and learned words are kept.
+- Future updates appear on the phone straight away (no 10-minute wait).
