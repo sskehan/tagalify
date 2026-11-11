@@ -1,0 +1,918 @@
+{
+ "id": "r2",
+ "label": "R2",
+ "title": "Review: Parts III and IV – pronouns, describing words and ang, ng, sa",
+ "summary": "The book's review exercises Parts III and IV: filling in pronouns, missing words and describing words, answering ba questions, translating sentences, and choosing ang, ng or sa",
+ "minutes": 35,
+ "goals": [
+  "Choose the right pronoun form for each place in a sentence",
+  "Fill in missing nouns and describing words from the clues",
+  "Answer yes/no questions with ba in complete sentences",
+  "Translate short sentences about buying, reading, going and being clean",
+  "Fill in ang, ng and sa (and their plural forms)"
+ ],
+ "sections": [
+  {
+   "title": "About this review",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "This lesson covers **Part III** and **Part IV** of the book's Review Exercises. Each section is one lettered exercise, with the book's instruction and items exactly as printed, followed by the book's answer where the Answer key gives one."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "How to use this lesson",
+     "items": [
+      "Cover the answer, fill in each blank yourself, then open **The book's answer**.",
+      "When the book gives several answers separated by semicolons, any of them is correct.",
+      "Each section ends with a **Revise** line telling you which lesson teaches that point."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Part III A. Fill in the pronouns",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book's instruction: **Fill in the blanks with the correct pronouns:**"
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "Sentence"
+     ],
+     "rows": [
+      [
+       "1.",
+       "Ang kapatíd ko ay marúnong. ______ ay nag-áaral na mabúti."
+      ],
+      [
+       "2.",
+       "Ang mga batà ay kumákain. ______ ay nagúgutom."
+      ],
+      [
+       "3.",
+       "Maráming pera si Ramon. Iyón ay ibinigáy ng ______ amá."
+      ],
+      [
+       "4.",
+       "Halíka, Helen. Sumama ______ sa amin."
+      ],
+      [
+       "5.",
+       "Kúnin ______ ang aklát sa mesa."
+      ],
+      [
+       "6.",
+       "______ lahát ay ináanyayáhan niya."
+      ],
+      [
+       "7.",
+       "Mayróon ba kayong pagkáin para sa ______?"
+      ],
+      [
+       "8.",
+       "Hindi isináma si Peter sa sine. Umíiyak ______."
+      ],
+      [
+       "9.",
+       "Isáng aráw, ______ ay nagpasyál sa Luneta."
+      ],
+      [
+       "10.",
+       "Nákita ______ ang maráming bapór sa dágat."
+      ],
+      [
+       "11.",
+       "Kúnin ______ ang inyóng aklát."
+      ],
+      [
+       "12.",
+       "Isáma ninyó ako kung púpunta ______ sa Baguio."
+      ],
+      [
+       "13.",
+       "Ang báhay ______ ay nasa Pandácan."
+      ],
+      [
+       "14.",
+       "Nákita ______ na ba ang Tagaytáy?"
+      ],
+      [
+       "15.",
+       "______ ay mga tunay na kaibigan."
+      ],
+      [
+       "16.",
+       "Sila ay magbábakasyon sa ______ baháy."
+      ],
+      [
+       "17.",
+       "Gabí na nang ______ ay umalis."
+      ],
+      [
+       "18.",
+       "Huwág ______ magágalit sa akin."
+      ],
+      [
+       "19.",
+       "Nalúlungkot ba ______?"
+      ],
+      [
+       "20.",
+       "Marámi ______ bang kaibígan sa Maynila?"
+      ],
+      [
+       "21.",
+       "Magsalitâ ______ ng Tagalog sa áting kláse."
+      ]
+     ],
+     "title": "Part III A (page 220)"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "The book's answer",
+     "items": [
+      "Try it yourself first, then check.",
+      "1. siya",
+      "2. sila",
+      "3. kanyang",
+      "4. ka",
+      "5. mo",
+      "6. kaming",
+      "7. amin; akin; kanila",
+      "8. siya",
+      "9. kami; sila",
+      "10. namin; nila",
+      "11. mo; ninyo",
+      "12. kayo",
+      "13. ko; namin",
+      "14. mo",
+      "15. sila; kayo; kami",
+      "16. aming; ating; inyong",
+      "17. (any nominative pronoun)",
+      "18. kang; kayong",
+      "19. kayo; sila",
+      "20. ka",
+      "21. ka; kayo"
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "rule",
+     "title": "How to choose",
+     "items": [
+      "Before **ay**, or as the subject, use a subject pronoun: **siya**, **sila**, **kami**, **kayo** (Lesson 6).",
+      "**Ka** follows the predicate; **ikáw** starts a sentence (Lesson 6): **Sumama ka sa amin.**",
+      "The doer of an -in- verb takes the possessive form: **Kúnin mo ang aklát** (Lessons 8 and 15).",
+      "Before a noun, a possessive pronoun takes a ligature: **ng kanyang amá**, **sa aming baháy** (Lesson 8)."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Book spellings",
+     "items": [
+      "Item 13 prints **báhay** and item 16 prints **baháy**.",
+      "Item 17's answer is printed as *(any nominative pronoun)*: any subject pronoun such as siya, sila or kami fits."
+     ]
+    },
+    {
+     "type": "p",
+     "t": "*Revise: Lesson 6 (personal pronouns) and Lesson 8 (possessive pronouns).*"
+    }
+   ]
+  },
+  {
+   "title": "Part III B. The missing words",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book's instruction: **What are the missing words in the following sentences?**"
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "Sentence"
+     ],
+     "rows": [
+      [
+       "1.",
+       "Ang papél at plúma ay gámit sa ______."
+      ],
+      [
+       "2.",
+       "Sina Tom at Mary ay ______."
+      ],
+      [
+       "3.",
+       "Ang ______ ay para sa mga nagúgutom."
+      ],
+      [
+       "4.",
+       "Ang ______ ay mabangó at magandá."
+      ],
+      [
+       "5.",
+       "Si Mang Tomas ay nagtátanim. Siya ay ______."
+      ],
+      [
+       "6.",
+       "Si Gng. Cruz ay nagtúturo. Siya ay ______."
+      ],
+      [
+       "7.",
+       "Tayo ay umíinom ng ______ kapag naúuhaw."
+      ],
+      [
+       "8.",
+       "Maráming nábabasa sa mga ______."
+      ],
+      [
+       "9.",
+       "Ang bátang ______ ay nakatútuwâ."
+      ],
+      [
+       "10.",
+       "Ang bátang ______ ay nakagágalit."
+      ]
+     ],
+     "title": "Part III B (page 220)"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "The book's answer",
+     "items": [
+      "Try it yourself first, then check.",
+      "1. pagsúlat",
+      "2. magkaibígan; magkapatíd; etc.",
+      "3. pagkáin",
+      "4. bulaklák",
+      "5. magsasaká",
+      "6. gurò",
+      "7. túbig",
+      "8. páhayagan; aklát; mágasin",
+      "9. mabaít; magandá",
+      "10. masamâ"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Part III C. The right describing word",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book's instruction: **Fill in with the appropriate adjective.** Each short passage describes a person; the last line needs one adjective that sums them up."
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "Passage"
+     ],
+     "rows": [
+      [
+       "1.",
+       "Si John ay bása nang bása. Siya ay maraming nálalaman. Nasásagot niya ang lahát ng tinátanong ng gurò. Si John ay ______."
+      ],
+      [
+       "2.",
+       "Ang dálaga ay laging naglílinis ng kanilang baháy. Siya ang naglúlutò ng pagkáin. Siya ang naglálabá ng mga damít. Ang dalága ay ______."
+      ],
+      [
+       "3.",
+       "Ayaw niyáng magtrabáho. Gusto niya ay matúlog lamang. Siya ay hindî tumútulong sa kanyáng iná. Kung may gágawin sa báhay siya ay umáalis. Bumabalik lamang siyá kung kákain. Siya ay ______."
+      ],
+      [
+       "4.",
+       "Hindi niya mákita ang kanyang kaúsap. Ang lahát ay madilím. Ang mga bulaklák ay waláng kúlay para sa kanyá. Siya ay ______."
+      ],
+      [
+       "5.",
+       "Mahírap si Peter. Walâ siyáng pagkain. Walâ siyáng damít. Walâ siyáng mga magúlang. Si Peter ay ______."
+      ]
+     ],
+     "title": "Part III C (pages 220-221)"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "The book's answer",
+     "items": [
+      "Try it yourself first, then check.",
+      "1. marúnong",
+      "2. masípag",
+      "3. tamád",
+      "4. bulág",
+      "5. kaáwa-awà"
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Book spellings",
+     "items": [
+      "Passage 2 prints both **dálaga** and **dalága**.",
+      "Passage 2 prints **baháy**; passage 3 prints **báhay**.",
+      "Passage 4 prints **kanyang** and **kanyá**; passage 3 prints **kanyáng**."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Part III D. Five examples",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book's instruction: **Write five examples for each of the following categories.** The categories are **mga hayop**, **mga pagkain**, **mga gawain** and **mga hanapbuhay**."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Your turn",
+     "items": [
+      "Write five Tagalog words for each category, numbered 1 to 5.",
+      "The book gives no single answer for this exercise."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Part IV A. Answer in complete sentences",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book's instruction: **Answer the following questions in complete sentences.**"
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "Question"
+     ],
+     "rows": [
+      [
+       "1.",
+       "Pumunta ba kayo sa palengke kahapon?"
+      ],
+      [
+       "2.",
+       "Nagsasalita na ba kayo ng Tagalog?"
+      ],
+      [
+       "3.",
+       "Umiinom ka ba ng kape sa umaga? (in the morning)"
+      ],
+      [
+       "4.",
+       "Aalis na ba kayo? Hindi pa ako aalis."
+      ],
+      [
+       "5.",
+       "Sumulat ba kayo sa inyong kaibigan sa Amerika?"
+      ]
+     ],
+     "title": "Part IV A (page 221)"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Your turn",
+     "items": [
+      "Answer each question about yourself with **Oo** or **Hindi**, in a complete sentence.",
+      "The Answer key prints no answer for this exercise."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Book slip",
+     "t": "Item 4 prints a reply after the question: **Aalis na ba kayo? Hindi pa ako aalis.** It is shown as printed."
+    },
+    {
+     "type": "p",
+     "t": "*Revise: Lesson 10 (the question word ba).*"
+    },
+    {
+     "type": "vocab",
+     "group": "words",
+     "title": "Word from this page"
+    }
+   ]
+  },
+  {
+   "title": "Part IV B. Translate into Tagalog",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book's instruction: **Translate the following sentences into Tagalog.**"
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "English"
+     ],
+     "rows": [
+      [
+       "1.",
+       "I bought a big house in Quezon City."
+      ],
+      [
+       "2.",
+       "We read (or are reading) in the class."
+      ],
+      [
+       "3.",
+       "We shall go to your house tomorrow."
+      ],
+      [
+       "4.",
+       "Peter's clothes are clean."
+      ],
+      [
+       "5.",
+       "My dress is not clean."
+      ]
+     ],
+     "title": "Part IV B (page 221)"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "The book's answer",
+     "items": [
+      "Try it yourself first, then check.",
+      "1. Bumili ako ng isang malaking bahay sa Quezon City.",
+      "2. Bumabasa kami sa klase.",
+      "3. Pupunta kami sa inyong bahay bukas.",
+      "4. Malinis ang mga damit ni Peter.",
+      "5. Hindi malinis ang aking baro."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Book spelling",
+     "t": "These answers are printed without accent marks."
+    },
+    {
+     "type": "p",
+     "t": "*Revise: Lesson 14 (-um- and mag- verb forms).*"
+    }
+   ]
+  },
+  {
+   "title": "Part IV C. Ang, ng or sa",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book's instruction: **Fill in the blanks with ang, ng, sa or their plural forms.** **Ang** marks the main character, **ng** links an owner or the other characters, and **sa** marks the place."
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "Sentence"
+     ],
+     "rows": [
+      [
+       "1.",
+       "______ bisita ______ bagong kasal ay mga kaibigan at kamag-anak ______ kanilang bayan."
+      ],
+      [
+       "2.",
+       "Kami ang sumakay ______ kotse, kasama ______ katulong at ______ anak ko."
+      ],
+      [
+       "3.",
+       "______ bahay ______ aming kaibigan ay nasa Nueva Ecija."
+      ],
+      [
+       "4.",
+       "Umalis kami ______ Maynila nang ika – 10:00 ______ umaga."
+      ],
+      [
+       "5.",
+       "Maraming pagkain ______ mahabang mesa."
+      ],
+      [
+       "6.",
+       "Maganda ______ asawa ______ aking kaibigan."
+      ]
+     ],
+     "title": "Part IV C (page 221)"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "The book's answer",
+     "items": [
+      "Try it yourself first, then check.",
+      "1. Ang mga bisíta ng bágong kasál ay mga kaibígan at kamag-ának sa kanilang báyan.",
+      "2. Kami ay sumakay sa kotse, kasáma ang katúlong at ang anak ko.",
+      "3. Ang bahay ng aming kaibígan ay nasa Nueva Ecija.",
+      "4. Umalís kami sa Maynila nang ika-10:00 ng umaga.",
+      "5. Maraming pagkáin sa mahábang mesa.",
+      "6. Magandá ang asawa ng aking kaibígan."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Book slips",
+     "items": [
+      "In item 2 the question prints **Kami ang sumakay**, but the answer prints **Kami ay sumakay**. Item 2 is not used in the exercises.",
+      "The answers add accent marks that the questions do not have (bisíta, kaibígan, mahábang…), and item 4 prints **Umalis** in the question and **Umalís** in the answer."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "Subject or before ay: **siya**, **sila**, **kami**, **kayo**; after the predicate: **ka**.",
+      "Doer of an -in- verb: **mo**, **ninyo**, **namin**.",
+      "Possessive pronoun before a noun: **kanyang**, **aming**, **inyong**.",
+      "**Ang** for the main character, **ng** for the owner, **sa** for the place: **Ang bahay ng aming kaibígan ay nasa Nueva Ecija.**"
+     ]
+    },
+    {
+     "type": "p",
+     "t": "*Revise: Lesson 16 (the articles ang and ng) and Lesson 26 (the preposition sa).*"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "sa-umaga-r2",
+   "tl": "sa umaga",
+   "en": "in the morning",
+   "pos": "phrase",
+   "group": "words",
+   "note": "Printed in Part IV A: Umiinom ka ba ng kape sa umaga? (in the morning)"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Part III A 1. Fill in the pronoun: \"Ang kapatíd ko ay marúnong. ______ ay nag-áaral na mabúti.\"",
+   "options": [
+    "siya",
+    "niya",
+    "kanya"
+   ],
+   "answer": "siya",
+   "explain": "Before ay the subject pronoun is needed: Siya ay nag-áaral (Lesson 6)."
+  },
+  {
+   "type": "choice",
+   "q": "Part III A 2. Fill in the pronoun: \"Ang mga batà ay kumákain. ______ ay nagúgutom.\"",
+   "options": [
+    "sila",
+    "nila",
+    "kanila"
+   ],
+   "answer": "sila",
+   "explain": "Before ay the subject pronoun is needed: Sila ay nagúgutom."
+  },
+  {
+   "type": "choice",
+   "q": "Part III A 3. Fill in the pronoun: \"Maráming pera si Ramon. Iyón ay ibinigáy ng ______ amá.\"",
+   "options": [
+    "kanyang",
+    "kanya",
+    "siya"
+   ],
+   "answer": "kanyang",
+   "explain": "Before the noun amá the possessive pronoun needs the ligature -ng: ng kanyang amá (Lesson 8)."
+  },
+  {
+   "type": "choice",
+   "q": "Part III A 4. Fill in the pronoun: \"Halíka, Helen. Sumama ______ sa amin.\"",
+   "options": [
+    "ka",
+    "mo",
+    "ikaw"
+   ],
+   "answer": "ka",
+   "explain": "Helen is the one who goes along. After the verb, you is ka; ikáw starts a sentence (Lesson 6)."
+  },
+  {
+   "type": "choice",
+   "q": "Part III A 5. Fill in the pronoun: \"Kúnin ______ ang aklát sa mesa.\"",
+   "options": [
+    "mo",
+    "ka",
+    "ikaw"
+   ],
+   "answer": "mo",
+   "explain": "Kúnin is an -in- verb, so the doer takes the possessive form mo (Lesson 15)."
+  },
+  {
+   "type": "choice",
+   "q": "Part III A 12. Fill in the pronoun: \"Isáma ninyó ako kung púpunta ______ sa Baguio.\"",
+   "options": [
+    "kayo",
+    "ninyo",
+    "inyo"
+   ],
+   "answer": "kayo",
+   "explain": "The book's answer is kayo: you (plural) are the ones going."
+  },
+  {
+   "type": "choice",
+   "q": "Part III A 14. Fill in the pronoun: \"Nákita ______ na ba ang Tagaytáy?\"",
+   "options": [
+    "mo",
+    "ka",
+    "ikaw"
+   ],
+   "answer": "mo",
+   "explain": "The book's answer is mo, the possessive form, as with Kúnin mo."
+  },
+  {
+   "type": "choice",
+   "q": "Part III A 18. Fill in the pronoun: \"Huwág ______ magágalit sa akin.\"",
+   "options": [
+    "kang (or kayong)",
+    "mo",
+    "niya"
+   ],
+   "answer": "kang (or kayong)",
+   "explain": "The book's answer is kang or kayong: ka or kayo + the ligature -ng, as in Huwág kang umalís (Lesson 37)."
+  },
+  {
+   "type": "choice",
+   "q": "Part III A 21. Fill in the pronoun: \"Magsalitâ ______ ng Tagalog sa áting kláse.\"",
+   "options": [
+    "ka (or kayo)",
+    "mo",
+    "ninyo"
+   ],
+   "answer": "ka (or kayo)",
+   "explain": "The book's answer is ka or kayo: the one who speaks is the subject."
+  },
+  {
+   "type": "choice",
+   "q": "Part III B 1. \"Ang papél at plúma ay gámit sa ______.\"",
+   "options": [
+    "pagsúlat",
+    "túbig",
+    "bulaklák"
+   ],
+   "answer": "pagsúlat",
+   "explain": "The book's answer is pagsúlat."
+  },
+  {
+   "type": "choice",
+   "q": "Part III B 3. \"Ang ______ ay para sa mga nagúgutom.\"",
+   "options": [
+    "pagkáin",
+    "gurò",
+    "páhayagan"
+   ],
+   "answer": "pagkáin",
+   "explain": "The book's answer is pagkáin (food, Lesson 4)."
+  },
+  {
+   "type": "choice",
+   "q": "Part III B 4. \"Ang ______ ay mabangó at magandá.\"",
+   "options": [
+    "bulaklák",
+    "túbig",
+    "magsasaká"
+   ],
+   "answer": "bulaklák",
+   "explain": "The book's answer is bulaklák."
+  },
+  {
+   "type": "choice",
+   "q": "Part III B 5. \"Si Mang Tomas ay nagtátanim. Siya ay ______.\"",
+   "options": [
+    "magsasaká",
+    "gurò",
+    "bulaklák"
+   ],
+   "answer": "magsasaká",
+   "explain": "The book's answer is magsasaká (farmer, Lesson 15)."
+  },
+  {
+   "type": "choice",
+   "q": "Part III B 6. \"Si Gng. Cruz ay nagtúturo. Siya ay ______.\"",
+   "options": [
+    "gurò",
+    "magsasaká",
+    "túbig"
+   ],
+   "answer": "gurò",
+   "explain": "The book's answer is gurò (teacher, Lesson 7)."
+  },
+  {
+   "type": "choice",
+   "q": "Part III B 7. \"Tayo ay umíinom ng ______ kapag naúuhaw.\"",
+   "options": [
+    "túbig",
+    "aklát",
+    "bulaklák"
+   ],
+   "answer": "túbig",
+   "explain": "The book's answer is túbig (water, Lesson 4)."
+  },
+  {
+   "type": "choice",
+   "q": "Part III C 1. Si John ay bása nang bása… Nasásagot niya ang lahát ng tinátanong ng gurò. Si John ay ______.",
+   "options": [
+    "marúnong",
+    "tamád",
+    "bulág"
+   ],
+   "answer": "marúnong",
+   "explain": "The book's answer is marúnong (Lesson 4: intelligent; learned)."
+  },
+  {
+   "type": "choice",
+   "q": "Part III C 2. Ang dálaga ay laging naglílinis… Siya ang naglúlutò… Siya ang naglálabá… Ang dalága ay ______.",
+   "options": [
+    "masípag",
+    "tamád",
+    "bulág"
+   ],
+   "answer": "masípag",
+   "explain": "The book's answer is masípag (industrious, Lesson 6)."
+  },
+  {
+   "type": "choice",
+   "q": "Part III C 3. Ayaw niyáng magtrabáho. Gusto niya ay matúlog lamang… Siya ay ______.",
+   "options": [
+    "tamád",
+    "masípag",
+    "marúnong"
+   ],
+   "answer": "tamád",
+   "explain": "The book's answer is tamád (lazy, Lesson 7)."
+  },
+  {
+   "type": "choice",
+   "q": "Part III C 4. Hindi niya mákita ang kanyang kaúsap. Ang lahát ay madilím… Siya ay ______.",
+   "options": [
+    "bulág",
+    "masípag",
+    "tamád"
+   ],
+   "answer": "bulág",
+   "explain": "The book's answer is bulág (blind, Lesson 19)."
+  },
+  {
+   "type": "choice",
+   "q": "Part III C 5. Mahírap si Peter. Walâ siyáng pagkain. Walâ siyáng damít… Si Peter ay ______.",
+   "options": [
+    "kaáwa-awà",
+    "marúnong",
+    "masípag"
+   ],
+   "answer": "kaáwa-awà",
+   "explain": "The book's answer is kaáwa-awà."
+  },
+  {
+   "type": "build",
+   "en": "I bought a big house in Quezon City.",
+   "tl": "Bumili ako ng isang malaking bahay sa Quezon City.",
+   "tokens": [
+    "bumili",
+    "ako",
+    "ng",
+    "isang",
+    "malaking",
+    "bahay",
+    "sa",
+    "quezon",
+    "city"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "We read (or are reading) in the class.",
+   "tl": "Bumabasa kami sa klase.",
+   "tokens": [
+    "bumabasa",
+    "kami",
+    "sa",
+    "klase"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "We shall go to your house tomorrow.",
+   "tl": "Pupunta kami sa inyong bahay bukas.",
+   "tokens": [
+    "pupunta",
+    "kami",
+    "sa",
+    "inyong",
+    "bahay",
+    "bukas"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Peter's clothes are clean.",
+   "tl": "Malinis ang mga damit ni Peter.",
+   "tokens": [
+    "malinis",
+    "ang",
+    "mga",
+    "damit",
+    "ni",
+    "peter"
+   ],
+   "explain": "Malinis comes first, then ang mga damit, then ni Peter (the owner)."
+  },
+  {
+   "type": "build",
+   "en": "My dress is not clean.",
+   "tl": "Hindi malinis ang aking baro.",
+   "tokens": [
+    "hindi",
+    "malinis",
+    "ang",
+    "aking",
+    "baro"
+   ],
+   "explain": "Hindi goes before malinis."
+  },
+  {
+   "type": "choice",
+   "q": "Part IV C 1. \"______ bisita ______ bagong kasal ay mga kaibigan at kamag-anak ______ kanilang bayan.\"",
+   "options": [
+    "Ang mga / ng / sa",
+    "Ng mga / ang / ng",
+    "Sa / ang / ang"
+   ],
+   "answer": "Ang mga / ng / sa",
+   "explain": "Book's answer: Ang mga bisíta ng bágong kasál ay mga kaibígan at kamag-ának sa kanilang báyan."
+  },
+  {
+   "type": "choice",
+   "q": "Part IV C 3. \"______ bahay ______ aming kaibigan ay nasa Nueva Ecija.\"",
+   "options": [
+    "Ang / ng",
+    "Ng / ang",
+    "Sa / sa"
+   ],
+   "answer": "Ang / ng",
+   "explain": "Book's answer: Ang bahay ng aming kaibígan ay nasa Nueva Ecija."
+  },
+  {
+   "type": "choice",
+   "q": "Part IV C 4. \"Umalis kami ______ Maynila nang ika – 10:00 ______ umaga.\"",
+   "options": [
+    "sa / ng",
+    "ang / sa",
+    "ng / ang"
+   ],
+   "answer": "sa / ng",
+   "explain": "Book's answer: Umalís kami sa Maynila nang ika-10:00 ng umaga."
+  },
+  {
+   "type": "choice",
+   "q": "Part IV C 5. \"Maraming pagkain ______ mahabang mesa.\"",
+   "options": [
+    "sa",
+    "si",
+    "ni"
+   ],
+   "answer": "sa",
+   "explain": "Book's answer: Maraming pagkáin sa mahábang mesa. Si and ni are only for names."
+  },
+  {
+   "type": "choice",
+   "q": "Part IV C 6. \"Maganda ______ asawa ______ aking kaibigan.\"",
+   "options": [
+    "ang / ng",
+    "ng / ang",
+    "sa / sa"
+   ],
+   "answer": "ang / ng",
+   "explain": "Book's answer: Magandá ang asawa ng aking kaibígan."
+  }
+ ],
+ "recap": [
+  "Subject pronouns (siya, sila, kami, kayo) stand before ay; ka follows the predicate.",
+  "The doer of an -in- verb is in the possessive form: Kúnin mo ang aklát.",
+  "A possessive pronoun before a noun takes a ligature: ng kanyang amá.",
+  "Describing a person: marúnong, masípag, tamád, bulág, kaáwa-awà.",
+  "Ang (main character), ng (owner), sa (place): Maganda ang asawa ng aking kaibígan."
+ ]
+}

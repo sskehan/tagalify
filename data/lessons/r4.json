@@ -1,0 +1,1390 @@
+{
+ "id": "r4",
+ "label": "R4",
+ "title": "Review: Parts VII and VIII – particles, comparisons, can and should, causatives and passives",
+ "summary": "The book's review exercises on word order with ba and other particles, comparing and intensifying adjectives, can/should sentences, magpa- and pa- + -in verbs, plural adjectives, verbs and adjectives used as nouns, and passive sentences, with the book's answers",
+ "minutes": 35,
+ "goals": [
+  "Put ba, raw, rin, pô, na and pa in the right place",
+  "Say good, very good, how good and most industrious",
+  "Compare people and things: more than, as … as, of the same height",
+  "Say what someone can, should or needs to do",
+  "Understand magpa- and pa- + -in sentences, plural adjectives, and ang + verb or adjective",
+  "Translate passive sentences into English"
+ ],
+ "sections": [
+  {
+   "title": "About this review",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "This lesson is the book's own **review exercises, Parts VII and VIII**. Every item is copied exactly as the book prints it. After each exercise you will find **the book's answer** from its answer key (the book gives no answer for the two *create sentences* exercises)."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "How to use this review",
+     "items": [
+      "Say or write your own answer first. Then compare it with the book's answer.",
+      "Each exercise names the lesson to **revise** if you find it hard.",
+      "The exercises at the end of this lesson are built from the book's answers."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Part VII A. Put the words in order",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Book's instruction:** Arrange the words and particles in the following sentences, and replace with correct ones."
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "As printed"
+     ],
+     "rows": [
+      [
+       "1.",
+       "marumi ang bata ang raw ba"
+      ],
+      [
+       "2.",
+       "siya ay bata ba pa"
+      ],
+      [
+       "3.",
+       "siya ay kumain rin ay ba po"
+      ],
+      [
+       "4.",
+       "nakaalis nab a siya"
+      ],
+      [
+       "5.",
+       "nakapag-aral hindi siya pa"
+      ],
+      [
+       "6.",
+       "bakit siya hindi makatatakbo nang mabilis"
+      ],
+      [
+       "7.",
+       "ba ito ang aklat mo"
+      ]
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "The book's answer",
+     "items": [
+      "Try it yourself first, then check your answers here.",
+      "1. Marumi raw ba ang bata?",
+      "2. Siya ba ay bata pa?",
+      "3. Siya rin pô ba ay kumain?",
+      "4. Nakaalis na ba siya?",
+      "5. Hindi pa siya nakapag-aral.",
+      "6. Bakit hindi siya makatakbo ng mabilis?",
+      "7. Ito ba ang aklat mo?"
+     ]
+    },
+    {
+     "type": "pattern",
+     "title": "Particles follow the first word",
+     "rows": [
+      {
+       "label": "item 1",
+       "chips": [
+        {
+         "t": "Marumi",
+         "r": "pred"
+        },
+        {
+         "t": "raw",
+         "r": "part"
+        },
+        {
+         "t": "ba",
+         "r": "part"
+        },
+        {
+         "t": "ang",
+         "r": "marker"
+        },
+        {
+         "t": "bata",
+         "r": "noun"
+        }
+       ]
+      },
+      {
+       "label": "item 4",
+       "chips": [
+        {
+         "t": "Nakaalis",
+         "r": "pred"
+        },
+        {
+         "t": "na",
+         "r": "part"
+        },
+        {
+         "t": "ba",
+         "r": "part"
+        },
+        {
+         "t": "siya",
+         "r": "pron"
+        }
+       ]
+      }
+     ],
+     "note": "The book's answers to items 1 and 4."
+    },
+    {
+     "type": "p",
+     "t": "As Lesson 10 showed, little words such as **na, pa, rin, raw** and **pô** come after the question word or the predicate and push **ba** further back. **Raw** means *they say*; **rin** means *too, also*; **pa** means *still, yet*; **na** means *already*."
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Book slips",
+     "items": [
+      "Item 4 prints **nab a**: a misprint for **na ba**.",
+      "Items 1 and 3 have an extra word (a second **ang**, a second **ay**) that the answer drops.",
+      "Item 6: the answer also changes **makatatakbo** to **makatakbo** and **nang** to **ng**.",
+      "Item 3 prints **po**; the answer prints **pô**."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Revise",
+     "t": "Revise: Lesson 10 (The question word ba)."
+    }
+   ]
+  },
+  {
+   "title": "Part VII B. Good, very good, most industrious",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Book's instruction:** Give the Tagalog equivalent of the following words and phrases."
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "English"
+     ],
+     "rows": [
+      [
+       "1.",
+       "good"
+      ],
+      [
+       "2.",
+       "very good"
+      ],
+      [
+       "3.",
+       "how good"
+      ],
+      [
+       "4.",
+       "industrious"
+      ],
+      [
+       "5.",
+       "very industrious"
+      ],
+      [
+       "6.",
+       "most industrious"
+      ]
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "The book's answer",
+     "items": [
+      "Try it yourself first, then check your answers here.",
+      "1. good - **mabuti**",
+      "2. very good - **napakabuti**",
+      "3. how good - **kay buti** or **mabuting-mabuti**",
+      "4. industrious - **masipag**",
+      "5. very industrious - **napakasipag** or **masipag na masipag**",
+      "6. most industrious - **pinakamasipag**."
+     ]
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "mabuti (good)",
+      "masipag (industrious)"
+     ],
+     "rows": [
+      [
+       "very",
+       "napakabuti",
+       "napakasipag · masipag na masipag"
+      ],
+      [
+       "how",
+       "kay buti · mabuting-mabuti",
+       ""
+      ],
+      [
+       "most",
+       "",
+       "pinakamasipag"
+      ]
+     ],
+     "title": "The book's answer as a table",
+     "note": "napaka- = very; pinaka- = most; an adjective doubled with a ligature (masipag na masipag) is also very."
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Book spellings",
+     "items": [
+      "Lesson 11 writes **nápaka-** with an accent; this answer key prints **napaka-**.",
+      "Lesson 41 writes **kaybúti** (how good!) as one word; this answer key prints **kay buti**.",
+      "Lesson 11 gives a doubled adjective (magandáng-magandá) as *very*; here the book gives **mabuting-mabuti** for *how good*."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "degree",
+     "title": "New from this exercise"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Revise",
+     "t": "Revise: Lesson 11 (Making comparisons)."
+    }
+   ]
+  },
+  {
+   "title": "Part VII C. Comparisons",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Book's instruction:** Translate these sentences into Tagalog."
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "English"
+     ],
+     "rows": [
+      [
+       "1.",
+       "Peter is brighter than John."
+      ],
+      [
+       "2.",
+       "John is taller than his brother."
+      ],
+      [
+       "3.",
+       "My house is as beautiful as his."
+      ],
+      [
+       "4.",
+       "His child is small."
+      ],
+      [
+       "5.",
+       "His child is smaller than my child."
+      ],
+      [
+       "6.",
+       "His child is of the same height as mine."
+      ],
+      [
+       "7.",
+       "His dog is not as bad as his neighbor's."
+      ],
+      [
+       "8.",
+       "John and Peter are brothers."
+      ],
+      [
+       "9.",
+       "Jack and his friend are of the same color."
+      ],
+      [
+       "10.",
+       "My sister is more beautiful than I."
+      ]
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "The book's answer",
+     "items": [
+      "Try it yourself first, then check your answers here.",
+      "1. Lalong marunong si Peter kaysa kay John.",
+      "2. Lalong mataas si John kaysa sa kanyang kapatid na lalaki.",
+      "3. Ang aking bahay ay kasingganda ng kaniyang bahay.",
+      "4. Maliit ang kanyang anak.",
+      "5. Lalong maliit ang kanyang anak kaysa sa anak ko.",
+      "6. Magkasintaas ang anak niya at ang anak ko.",
+      "7. Ang kanyang aso ay hindi kasinsama ng aso ng kapitbahay niya.",
+      "8. Magkapatid sina John at Peter.",
+      "9. Si Jack at ang kanyang kaibigan ay magkasingkulay.",
+      "10. Lalong maganda ang aking kapatid kaysa sa akin."
+     ]
+    },
+    {
+     "type": "pattern",
+     "title": "More than: lalong + adjective + kaysa",
+     "rows": [
+      {
+       "label": "item 1",
+       "chips": [
+        {
+         "t": "Lalong",
+         "r": "other"
+        },
+        {
+         "t": "marunong",
+         "r": "pred"
+        },
+        {
+         "t": "si",
+         "r": "marker"
+        },
+        {
+         "t": "Peter",
+         "r": "noun"
+        },
+        {
+         "t": "kaysa",
+         "r": "other"
+        },
+        {
+         "t": "kay",
+         "r": "marker"
+        },
+        {
+         "t": "John",
+         "r": "noun"
+        }
+       ]
+      },
+      {
+       "label": "item 5",
+       "chips": [
+        {
+         "t": "Lalong",
+         "r": "other"
+        },
+        {
+         "t": "maliit",
+         "r": "pred"
+        },
+        {
+         "t": "ang",
+         "r": "marker"
+        },
+        {
+         "t": "kanyang",
+         "r": "poss"
+        },
+        {
+         "t": "anak",
+         "r": "noun"
+        },
+        {
+         "t": "kaysa",
+         "r": "other"
+        },
+        {
+         "t": "sa",
+         "r": "marker"
+        },
+        {
+         "t": "anak",
+         "r": "noun"
+        },
+        {
+         "t": "ko",
+         "r": "poss"
+        }
+       ]
+      }
+     ],
+     "note": "Kaysa kay before a person's name; kaysa sa before other nouns (Lesson 11)."
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "Which word for which idea?",
+     "items": [
+      "*more … than*: **lalong** + adjective + **kaysa kay / kaysa sa** (items 1, 2, 5, 10).",
+      "*as … as*: **kasing-** / **kasin-** + root (kasingganda, kasinsama) (items 3, 7).",
+      "*of the same …* for two people together: **magkasin-** / **magkasing-** (magkasintaas, magkasingkulay) (items 6, 9).",
+      "*brothers*: **magkapatid** (item 8)."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Book spellings",
+     "t": "Item 3 prints **kaniyang**; the other answers print **kanyang**. Lesson 11 writes lalóng, káysa and kasíng- with accents; this answer key prints them without."
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Revise",
+     "t": "Revise: Lesson 11 (Making comparisons)."
+    }
+   ]
+  },
+  {
+   "title": "Part VII D. Create sentences",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Book's instruction:** Create sentences using the following words."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Your turn",
+     "items": [
+      "1. **magandá**",
+      "2. **kay gandá**",
+      "3. **magandáng-magandá**",
+      "4. **nápakagandá**",
+      "5. **pinakamagandá**",
+      "6. **magkasintaás**",
+      "7. **hindî kasinggúlang**",
+      "8. **hindî kasimbaít**",
+      "Make one sentence with each. The book gives no single answer for this exercise."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Revise",
+     "t": "Revise: Lesson 11 (Making comparisons)."
+    }
+   ]
+  },
+  {
+   "title": "Part VII E. Can, should, need",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Book's instruction:** Translate the following into Tagalog."
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "English"
+     ],
+     "rows": [
+      [
+       "1.",
+       "Don't eat now."
+      ],
+      [
+       "2.",
+       "He cannot ride a horse."
+      ],
+      [
+       "3.",
+       "Can you swim?"
+      ],
+      [
+       "4.",
+       "Yes, I can swim."
+      ],
+      [
+       "5.",
+       "You should study Tagalog everyday."
+      ],
+      [
+       "6.",
+       "Why don't you eat your supper?"
+      ],
+      [
+       "7.",
+       "Do you know his name?"
+      ],
+      [
+       "8.",
+       "What do you need?"
+      ]
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "The book's answer",
+     "items": [
+      "Try it yourself first, then check your answers here.",
+      "1. Huwag kang kumain ngayon.",
+      "2. Hindi siya marunong sumakay sa kabayo.",
+      "3. Marunong ka bang lumangoy?",
+      "4. Oo, marunong akong lumangoy.",
+      "5. Kailangan mong mag-aral ng Tagalog araw-araw.",
+      "6. Bakit hindi ka kumain ng iyong hapunan?",
+      "7. Alam mo ba ang kanyang pangalan?",
+      "8. Ano ang kailangan mo?"
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "Notice",
+     "items": [
+      "Here *can swim* and *cannot ride* are said with **marunong** followed by the verb in the infinitive: **marunong akong lumangoy**, **marunong sumakay**.",
+      "Item 5 uses **Kailangan mong** (*you need to*) for *you should*.",
+      "**Huwag kang** + infinitive = *don't* (Lesson 37).",
+      "**Ba** goes after **ka** and **mo**: *Marunong ka bang…?*, *Alam mo ba…?* (Lesson 10)."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Revise",
+     "t": "Revise: Lesson 17 (Pseudo verbs) and Lesson 37 (huwág)."
+    }
+   ]
+  },
+  {
+   "title": "Part VIII A. Create sentences with pa- + -in and magpa-",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Book's instruction:** Create sentences from the following root words using the prefixes on the left. Afterwards, give the English translation of your sentences."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Your turn",
+     "items": [
+      "1. **lambót** using **pa-in**",
+      "2. **kain** using **magpa-**",
+      "3. **upo** using **pa_in**",
+      "4. **inom** using **magpa-**",
+      "The book gives no single answer for this exercise. Look at Part VIII B for model sentences."
+     ]
+    },
+    {
+     "type": "p",
+     "t": "Remember from Lesson 36: **magpa-** and **pa- + -in** verbs are about having something done: someone gives an order to have something done to another. **Magpa-** is active; **pa- + -in** is passive."
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Book slip",
+     "t": "Item 3 prints **pa_in** (an underscore): it means **pa-in**, as in item 1."
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Revise",
+     "t": "Revise: Lesson 36 (Magpa- and pa- + -in verb forms)."
+    }
+   ]
+  },
+  {
+   "title": "Part VIII B. Made to do it: into English",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Book's instruction:** Translate the following sentences into English."
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "Tagalog"
+     ],
+     "rows": [
+      [
+       "1.",
+       "Huwág mong sirain ang papel."
+      ],
+      [
+       "2.",
+       "Pinasulat ko siya ng liham."
+      ],
+      [
+       "3.",
+       "Siya'y pinaalis ng kanyang ama."
+      ],
+      [
+       "4.",
+       "Ang kanyang tákot ay nagpatakbó kay Juan."
+      ],
+      [
+       "5.",
+       "Pinabasa niya ako ng pahayagan."
+      ]
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "The book's answer",
+     "items": [
+      "Try it yourself first, then check your answers here.",
+      "1. Don't tear the paper.",
+      "2. I made him/her write a letter.",
+      "3. His father made him/her leave.",
+      "4. His fear made Juan run.",
+      "5. He/She made me read the newspaper."
+     ]
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Pinasulat ko siya ng liham.",
+       "en": "I made him/her write a letter.",
+       "parts": [
+        [
+         "Pinasulat",
+         "made … write",
+         "pred"
+        ],
+        [
+         "ko",
+         "I (doer)",
+         "poss"
+        ],
+        [
+         "siya",
+         "him/her",
+         "pron"
+        ],
+        [
+         "ng",
+         "a",
+         "marker"
+        ],
+        [
+         "liham",
+         "letter",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Pinabasa niya ako ng pahayagan.",
+       "en": "He/She made me read the newspaper.",
+       "parts": [
+        [
+         "Pinabasa",
+         "made … read",
+         "pred"
+        ],
+        [
+         "niya",
+         "he/she (doer)",
+         "poss"
+        ],
+        [
+         "ako",
+         "me",
+         "pron"
+        ],
+        [
+         "ng",
+         "the",
+         "marker"
+        ],
+        [
+         "pahayagan",
+         "newspaper",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Pa- + -in: made someone do it"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Revise",
+     "t": "Revise: Lesson 36 (Magpa- and pa- + -in verb forms) and Lesson 37 (huwág)."
+    }
+   ]
+  },
+  {
+   "title": "Part VIII C. Plural adjectives two ways",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Book's instruction:** Give the plural form of the following adjectives in two ways."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Adjective"
+     ],
+     "rows": [
+      [
+       "**magandá**"
+      ],
+      [
+       "**mabuti**"
+      ]
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "The book's answer",
+     "items": [
+      "Try it yourself first, then check your answers here.",
+      "1. **magaganda**; **mga maganda**",
+      "2. **mabubuti**; **mga mabuti**"
+     ]
+    },
+    {
+     "type": "p",
+     "t": "Way 1 is the one from Lesson 4: repeat the first syllable of the root (ma**ga**ganda, ma**bu**buti). Way 2 puts **mga** in front of the adjective."
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Book spellings",
+     "t": "The exercise prints **magandá**; the answer prints magaganda and mga maganda without accents. Lesson 4 writes **magagandá**."
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Revise",
+     "t": "Revise: Lesson 4 (Plurals: mga and plural adjectives)."
+    }
+   ]
+  },
+  {
+   "title": "Part VIII D. Ang + adjective or verb: into English",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Book's instruction:** Translate the following phrases into English."
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "Tagalog"
+     ],
+     "rows": [
+      [
+       "1.",
+       "ang mabaít"
+      ],
+      [
+       "2.",
+       "ang mabaít na tao"
+      ],
+      [
+       "3.",
+       "and bumábasa"
+      ],
+      [
+       "4.",
+       "ang binábasa"
+      ],
+      [
+       "5.",
+       "ang patakbó"
+      ],
+      [
+       "6.",
+       "ang maglabá"
+      ]
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "The book's answer",
+     "items": [
+      "Try it yourself first, then check your answers here.",
+      "1. the good one",
+      "2. the good man",
+      "3. the one reading",
+      "4. the thing being read",
+      "5. the manner of running or the running of (something such as a contest)",
+      "6. the washing of clothes"
+     ]
+    },
+    {
+     "type": "p",
+     "t": "As in Lesson 31, putting **ang** in front of an adjective or a verb turns it into a noun: **ang mabaít** is *the good one*. Compare item 3, an active verb (*the one reading*), with item 4, a passive -in verb (*the thing being read*)."
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Book slip",
+     "t": "Item 3 prints **and bumábasa**: a misprint for **ang bumábasa**."
+    },
+    {
+     "type": "vocab",
+     "group": "nouns",
+     "title": "New from this exercise"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Revise",
+     "t": "Revise: Lesson 31 (Forming nouns)."
+    }
+   ]
+  },
+  {
+   "title": "Part VIII E. Passive sentences: into English",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Book's instruction:** Translate the following sentences into English using the passive voice of verbs."
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "Tagalog"
+     ],
+     "rows": [
+      [
+       "1.",
+       "Kanyáng iniligtás ako."
+      ],
+      [
+       "2.",
+       "Siya'y pinalo ng kaibigan niya."
+      ],
+      [
+       "3.",
+       "Hindî niya ako sinulátan."
+      ],
+      [
+       "4.",
+       "Ako'y kanyang binigyán ng aklát niya."
+      ],
+      [
+       "5.",
+       "Ang iyong ibinigay ay akin na."
+      ],
+      [
+       "6.",
+       "Ang sa kanyá ay hindi magagámit ng ibá."
+      ]
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "The book's answer",
+     "items": [
+      "Try it yourself first, then check your answers here.",
+      "1. I was saved by him.",
+      "2. He was hit by his friend.",
+      "3. He had not written to me.",
+      "4. His/her book was given to me by him.",
+      "5. What you have given me is mine already.",
+      "6. What is his/hers cannot be used by another."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "Passive in English",
+     "items": [
+      "In items 1 to 4 the one who receives the action is the subject (**ako**, **siya**), and the doer is in the possessive form (**kanyáng**, **ng kaibigan niya**, **niya**, **kanyang**).",
+      "Item 3: the book's English (*He had not written to me*) is not in the passive voice."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Revise",
+     "t": "Revise: Lesson 15 (-in- verb forms), Lesson 32 (I- verb forms) and Lesson 33 (-An verb forms)."
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "napakabuti-r4",
+   "tl": "napakabuti",
+   "en": "very good",
+   "pos": "adj",
+   "group": "degree"
+  },
+  {
+   "id": "kay-buti-r4",
+   "tl": "kay buti",
+   "en": "how good",
+   "pos": "adj",
+   "group": "degree",
+   "note": "The book also gives mabuting-mabuti. Lesson 41 writes kaybúti (how good!)."
+  },
+  {
+   "id": "mabuting-mabuti-r4",
+   "tl": "mabuting-mabuti",
+   "en": "how good",
+   "pos": "adj",
+   "group": "degree",
+   "note": "The book also gives kay buti."
+  },
+  {
+   "id": "ang-mabait-r4",
+   "tl": "ang mabaít",
+   "en": "the good one",
+   "pos": "phrase",
+   "group": "nouns"
+  },
+  {
+   "id": "ang-mabait-na-tao-r4",
+   "tl": "ang mabaít na tao",
+   "en": "the good man",
+   "pos": "phrase",
+   "group": "nouns"
+  },
+  {
+   "id": "ang-binabasa-r4",
+   "tl": "ang binábasa",
+   "en": "the thing being read",
+   "pos": "phrase",
+   "group": "nouns"
+  },
+  {
+   "id": "ang-patakbo-r4",
+   "tl": "ang patakbó",
+   "en": "the manner of running or the running of (something such as a contest)",
+   "pos": "phrase",
+   "group": "nouns"
+  },
+  {
+   "id": "ang-maglaba-r4",
+   "tl": "ang maglabá",
+   "en": "the washing of clothes",
+   "pos": "phrase",
+   "group": "nouns"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "build",
+   "en": "Put in order: marumi ang bata ang raw ba",
+   "tl": "Marumi raw ba ang bata?",
+   "tokens": [
+    "marumi",
+    "raw",
+    "ba",
+    "ang",
+    "bata"
+   ],
+   "explain": "Raw and ba follow the first word; the second ang is not needed.",
+   "extra": [
+    "ang"
+   ]
+  },
+  {
+   "type": "build",
+   "en": "Put in order: siya ay bata ba pa",
+   "tl": "Siya ba ay bata pa?",
+   "tokens": [
+    "siya",
+    "ba",
+    "ay",
+    "bata",
+    "pa"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Put in order: siya ay kumain rin ay ba po",
+   "tl": "Siya rin pô ba ay kumain?",
+   "tokens": [
+    "siya",
+    "rin",
+    "pô",
+    "ba",
+    "ay",
+    "kumain"
+   ],
+   "explain": "Rin, pô and ba follow siya; only one ay is needed.",
+   "extra": [
+    "ay"
+   ]
+  },
+  {
+   "type": "build",
+   "en": "Put in order: nakaalis nab a siya",
+   "tl": "Nakaalis na ba siya?",
+   "tokens": [
+    "nakaalis",
+    "na",
+    "ba",
+    "siya"
+   ],
+   "explain": "The book's nab a is a misprint for na ba."
+  },
+  {
+   "type": "build",
+   "en": "Put in order: nakapag-aral hindi siya pa",
+   "tl": "Hindi pa siya nakapag-aral.",
+   "tokens": [
+    "hindi",
+    "pa",
+    "siya",
+    "nakapag-aral"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Put in order: ba ito ang aklat mo",
+   "tl": "Ito ba ang aklat mo?",
+   "tokens": [
+    "ito",
+    "ba",
+    "ang",
+    "aklat",
+    "mo"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match the English to the book's Tagalog.",
+   "pairs": [
+    [
+     "good",
+     "mabuti"
+    ],
+    [
+     "very good",
+     "napakabuti"
+    ],
+    [
+     "industrious",
+     "masipag"
+    ],
+    [
+     "most industrious",
+     "pinakamasipag"
+    ]
+   ]
+  },
+  {
+   "type": "choice",
+   "q": "\"How good\" in the book's answer?",
+   "options": [
+    "kay buti",
+    "pinakamasipag",
+    "napakasipag"
+   ],
+   "answer": "kay buti",
+   "explain": "The book also gives mabuting-mabuti. Pinakamasipag = most industrious; napakasipag = very industrious."
+  },
+  {
+   "type": "build",
+   "en": "Peter is brighter than John.",
+   "tl": "Lalong marunong si Peter kaysa kay John.",
+   "tokens": [
+    "lalong",
+    "marunong",
+    "si",
+    "peter",
+    "kaysa",
+    "kay",
+    "john"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "John is taller than his brother.",
+   "tl": "Lalong mataas si John kaysa sa kanyang kapatid na lalaki.",
+   "tokens": [
+    "lalong",
+    "mataas",
+    "si",
+    "john",
+    "kaysa",
+    "sa",
+    "kanyang",
+    "kapatid",
+    "na",
+    "lalaki"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "My house is as beautiful as his.",
+   "tl": "Ang aking bahay ay kasingganda ng kaniyang bahay.",
+   "tokens": [
+    "ang",
+    "aking",
+    "bahay",
+    "ay",
+    "kasingganda",
+    "ng",
+    "kaniyang",
+    "bahay"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "His child is of the same height as mine.",
+   "tl": "Magkasintaas ang anak niya at ang anak ko.",
+   "tokens": [
+    "magkasintaas",
+    "ang",
+    "anak",
+    "niya",
+    "at",
+    "ang",
+    "anak",
+    "ko"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "John and Peter are brothers.",
+   "tl": "Magkapatid sina John at Peter.",
+   "tokens": [
+    "magkapatid",
+    "sina",
+    "john",
+    "at",
+    "peter"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "My sister is more beautiful than I.",
+   "tl": "Lalong maganda ang aking kapatid kaysa sa akin.",
+   "tokens": [
+    "lalong",
+    "maganda",
+    "ang",
+    "aking",
+    "kapatid",
+    "kaysa",
+    "sa",
+    "akin"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Don't eat now.",
+   "tl": "Huwag kang kumain ngayon.",
+   "tokens": [
+    "huwag",
+    "kang",
+    "kumain",
+    "ngayon"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Can you swim?",
+   "tl": "Marunong ka bang lumangoy?",
+   "tokens": [
+    "marunong",
+    "ka",
+    "bang",
+    "lumangoy"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Yes, I can swim.",
+   "tl": "Oo, marunong akong lumangoy.",
+   "tokens": [
+    "oo",
+    "marunong",
+    "akong",
+    "lumangoy"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Do you know his name?",
+   "tl": "Alam mo ba ang kanyang pangalan?",
+   "tokens": [
+    "alam",
+    "mo",
+    "ba",
+    "ang",
+    "kanyang",
+    "pangalan"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "What do you need?",
+   "tl": "Ano ang kailangan mo?",
+   "tokens": [
+    "ano",
+    "ang",
+    "kailangan",
+    "mo"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "listen",
+   "tl": "Huwág mong sirain ang papel.",
+   "options": [
+    "Don't tear the paper.",
+    "I made him/her write a letter.",
+    "His fear made Juan run."
+   ],
+   "answer": "Don't tear the paper.",
+   "explain": "Huwág mong + verb = don't."
+  },
+  {
+   "type": "listen",
+   "tl": "Pinasulat ko siya ng liham.",
+   "options": [
+    "I made him/her write a letter.",
+    "He/She made me read the newspaper.",
+    "His father made him/her leave."
+   ],
+   "answer": "I made him/her write a letter.",
+   "explain": "Pa- + -in: made someone do it. Ko = I (the doer)."
+  },
+  {
+   "type": "listen",
+   "tl": "Siya'y pinaalis ng kanyang ama.",
+   "options": [
+    "His father made him/her leave.",
+    "His fear made Juan run.",
+    "Don't tear the paper."
+   ],
+   "answer": "His father made him/her leave.",
+   "explain": "Pinaalis = made to leave."
+  },
+  {
+   "type": "listen",
+   "tl": "Pinabasa niya ako ng pahayagan.",
+   "options": [
+    "He/She made me read the newspaper.",
+    "I made him/her write a letter.",
+    "His father made him/her leave."
+   ],
+   "answer": "He/She made me read the newspaper.",
+   "explain": "Pinabasa = made to read; niya = he/she (the doer)."
+  },
+  {
+   "type": "choice",
+   "q": "The book's two plural forms of mabuti?",
+   "options": [
+    "mabubuti; mga mabuti",
+    "magaganda; mga maganda",
+    "napakabuti; kay buti"
+   ],
+   "answer": "mabubuti; mga mabuti",
+   "explain": "Magaganda; mga maganda are the plurals of maganda. Napakabuti and kay buti mean very good and how good."
+  },
+  {
+   "type": "match",
+   "q": "Match the phrase to the book's English.",
+   "pairs": [
+    [
+     "ang mabaít",
+     "the good one"
+    ],
+    [
+     "ang mabaít na tao",
+     "the good man"
+    ],
+    [
+     "ang binábasa",
+     "the thing being read"
+    ],
+    [
+     "ang maglabá",
+     "the washing of clothes"
+    ]
+   ]
+  },
+  {
+   "type": "listen",
+   "tl": "ang patakbó",
+   "options": [
+    "the manner of running or the running of (something such as a contest)",
+    "the one reading",
+    "the washing of clothes"
+   ],
+   "answer": "the manner of running or the running of (something such as a contest)",
+   "explain": "Ang maglabá = the washing of clothes."
+  },
+  {
+   "type": "listen",
+   "tl": "Kanyáng iniligtás ako.",
+   "options": [
+    "I was saved by him.",
+    "He was hit by his friend.",
+    "He had not written to me."
+   ],
+   "answer": "I was saved by him.",
+   "explain": "Iniligtás = was saved; kanyáng = by him."
+  },
+  {
+   "type": "listen",
+   "tl": "Siya'y pinalo ng kaibigan niya.",
+   "options": [
+    "He was hit by his friend.",
+    "I was saved by him.",
+    "What you have given me is mine already."
+   ],
+   "answer": "He was hit by his friend.",
+   "explain": "Pinalo = was hit."
+  },
+  {
+   "type": "listen",
+   "tl": "Ang iyong ibinigay ay akin na.",
+   "options": [
+    "What you have given me is mine already.",
+    "What is his/hers cannot be used by another.",
+    "His/her book was given to me by him."
+   ],
+   "answer": "What you have given me is mine already.",
+   "explain": "Ang iyong ibinigay = what you have given."
+  }
+ ],
+ "recap": [
+  "Particles follow the first word and push ba back: Marumi raw ba ang bata? Nakaalis na ba siya?",
+  "mabuti, napakabuti, kay buti / mabuting-mabuti; masipag, napakasipag / masipag na masipag, pinakamasipag.",
+  "More than: Lalong marunong si Peter kaysa kay John. As … as: kasingganda. Same height: magkasintaas.",
+  "Can: marunong + -ng + infinitive (Marunong ka bang lumangoy?). Need/should: Kailangan mong mag-aral.",
+  "Made someone do it: Pinasulat ko siya ng liham. Plurals: magaganda / mga maganda. Ang + verb or adjective = a noun."
+ ]
+}

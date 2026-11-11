@@ -1,0 +1,1661 @@
+{
+ "id": "r3",
+ "label": "R3",
+ "title": "Review: Parts V and VI – verbs, saan/nasaan, time and ma-/maka-",
+ "summary": "The book's review exercises on -um-, mag- and -in verbs, saan and nasaan, time words and telling the time, and ma- and maka- verbs, with the book's answers",
+ "minutes": 35,
+ "goals": [
+  "Give the five forms of -um-, mag- and -in verbs",
+  "Turn active sentences into passive ones with -in verbs",
+  "Choose between saan and nasaan",
+  "Translate time words and tell the time the Tagalog and the Spanish way",
+  "Use ma- and maka- verbs in the past"
+ ],
+ "sections": [
+  {
+   "title": "About this review",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "This lesson is the book's own **review exercises, Parts V and VI**. Every item is copied exactly as the book prints it. After each exercise you will find **the book's answer** from its answer key."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "How to use this review",
+     "items": [
+      "Say or write your own answer first. Then compare it with the book's answer.",
+      "Each exercise names the lesson to **revise** if you find it hard.",
+      "The exercises at the end of this lesson are built from the book's answers.",
+      "The exercise pages print few accent marks; the answer key prints more. Both are shown as printed."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Part V A1. -um- and mag- verbs: the five forms",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Book's instruction:** Fill in the blanks with the **-um-** and **mag-** derivatives of the following words."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Root",
+      "Affix"
+     ],
+     "rows": [
+      [
+       "**takbó**",
+       "-um-"
+      ],
+      [
+       "**alís**",
+       "-um-"
+      ],
+      [
+       "**salitâ**",
+       "mag-"
+      ],
+      [
+       "**alagà**",
+       "mag-"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "t": "Remember from Lesson 14: each verb has five forms (infinitive, imperative, past, present and future). The infinitive and the imperative are the same."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "The book's answer",
+     "items": [
+      "Try it yourself first, then check your answers here.",
+      "**takbó:** tumakbó (infinitive), tumakbó (imperative), tumakbó (past), tumatakbó (present), tátakbo (future)",
+      "**alís:** umalís, umalís, umalís, umaalís, áalis",
+      "**salitâ:** magsalitâ, magsalitâ, nagsalitâ, nagsasalitâ, magsásalitâ",
+      "**alagà:** mag-alagà, mag-alagà, nag-alagà, nag-aalagà, mag-áalagà"
+     ]
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "takbó (-um-)",
+      "alís (-um-)",
+      "salitâ (mag-)",
+      "alagà (mag-)"
+     ],
+     "rows": [
+      [
+       "Infinitive",
+       "tumakbó",
+       "umalís",
+       "magsalitâ",
+       "mag-alagà"
+      ],
+      [
+       "Imperative",
+       "tumakbó",
+       "umalís",
+       "magsalitâ",
+       "mag-alagà"
+      ],
+      [
+       "Past",
+       "tumakbó",
+       "umalís",
+       "nagsalitâ",
+       "nag-alagà"
+      ],
+      [
+       "Present",
+       "tumatakbó",
+       "umaalís",
+       "nagsasalitâ",
+       "nag-aalagà"
+      ],
+      [
+       "Future",
+       "tátakbo",
+       "áalis",
+       "magsásalitâ",
+       "mag-áalagà"
+      ]
+     ],
+     "title": "The book's answer as a table",
+     "note": "For -um- verbs the infinitive, imperative and past look the same. Mag- verbs use nag- for the past and present."
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Revise",
+     "t": "Revise: Lesson 14 (-um- and mag- verb forms)."
+    }
+   ]
+  },
+  {
+   "title": "Part V A2. Translate into Tagalog",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Book's instruction:** Translate the following sentences into Tagalog."
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "English"
+     ],
+     "rows": [
+      [
+       "a.",
+       "Mary wrote a book."
+      ],
+      [
+       "b.",
+       "He walked to school."
+      ],
+      [
+       "c.",
+       "Peter and his friends left early."
+      ],
+      [
+       "d.",
+       "Mary cannot cook rice."
+      ],
+      [
+       "e.",
+       "Why didn't you clean your hands?"
+      ],
+      [
+       "f.",
+       "Do you sell mangoes?"
+      ],
+      [
+       "g.",
+       "I want to buy two mangoes."
+      ],
+      [
+       "h.",
+       "He reads well."
+      ],
+      [
+       "i.",
+       "You should write to your mother every week."
+      ],
+      [
+       "j.",
+       "He who studies well will speak Tagalog."
+      ],
+      [
+       "k.",
+       "Did you eat your breakfast?"
+      ],
+      [
+       "l.",
+       "Did Peter leave this morning?"
+      ],
+      [
+       "m.",
+       "Don't you like to swim?"
+      ]
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "The book's answer",
+     "items": [
+      "Try it yourself first, then check your answers here.",
+      "a. Sumulat ng aklát si Mary.",
+      "b. Lumakad siya papunta sa páaralán.",
+      "c. Umalis nang maága si Peter at ang kanyang mga kaibigan.",
+      "d. Hindi makapaglutò si Mary ng kánin.",
+      "e. Bakit hindi ka naglínis ng mga kamáy?",
+      "f. Nagbebenta ba kayo ng mga manggá?",
+      "g. Gusto kong bumilí ng dalawáng manggá.",
+      "h. Mahúsay siyang bumasa.",
+      "i. Dapat kang sumúlat sa iyong ina linggú-linggó (or minsan sa isang linggo)",
+      "j. Kung sino ang nag-áaral nang mabuti ay magsásalitâ ng Tagalog.",
+      "k. Kumain ka ba ng almusál?",
+      "l. Umalis ba si Peter ngayóng umaga?",
+      "m. Ayaw mo bang lumangóy?"
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "What else these answers use",
+     "items": [
+      "**Dapat** and **gusto** are pseudo verbs (Lesson 17): the verb after them stays in the infinitive (sumúlat, bumilí).",
+      "**Ayaw** (*don't like*) is from Lesson 37: *Ayaw mo bang lumangóy?*",
+      "**Hindi makapaglutò** (cannot cook) shows being able to do something, like the maka- verbs (Lesson 18).",
+      "**Ba** comes after the pronouns **ka** and **mo**: *Kumain ka ba…?*, *Ayaw mo bang…?* (Lesson 10)."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Revise",
+     "t": "Revise: Lesson 14 (-um- and mag- verb forms)."
+    }
+   ]
+  },
+  {
+   "title": "Part V A3. Create sentences",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Book's instruction:** Create sentences using the tenses and forms of the following verbs."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Your turn",
+     "items": [
+      "**umáwit**",
+      "**dumatíng**",
+      "**magbíhis**",
+      "**gumawâ**",
+      "**pumások**",
+      "**bumalík**",
+      "**lumákad**",
+      "Make one sentence for each verb, in any tense. The book gives no single answer for this exercise."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Revise",
+     "t": "Revise: Lesson 14 (-um- and mag- verb forms)."
+    }
+   ]
+  },
+  {
+   "title": "Part V B1. -in verbs: the five forms",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Book's instruction:** Form the **-in** derivatives of the following words."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Words as printed"
+     ],
+     "rows": [
+      [
+       "**sabihin**"
+      ],
+      [
+       "**awitin**"
+      ],
+      [
+       "**dalhin**"
+      ],
+      [
+       "**sirain** (to call)"
+      ],
+      [
+       "**tawagin**"
+      ]
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Book slips",
+     "items": [
+      "The book prints *(to call)* under **sirain**. It belongs to **tawagin**: Lesson 15 gives sirain = *to break* and tawágin = *to call*.",
+      "The answer key gives no answer for **awitin**.",
+      "The answer key prints accents (dalhín, siráin, tawágin) that the exercise page leaves out."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "The book's answer",
+     "items": [
+      "Try it yourself first, then check your answers here.",
+      "**sabihin:** sabihin (infinitive), sabihin (imperative), sinabi (past), sinasabi (present), sasabihin (future)",
+      "**dalhín:** dalhín, dalhín, dinala, dinadala, dadalhín",
+      "**siráin:** siráin, siráin, sinirà, sinisirà, sisirain",
+      "**tawágin:** tawágin, tawágin, tináwag, tinátawag, tatawagin"
+     ]
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "sabihin",
+      "dalhín",
+      "siráin",
+      "tawágin"
+     ],
+     "rows": [
+      [
+       "Infinitive",
+       "sabihin",
+       "dalhín",
+       "siráin",
+       "tawágin"
+      ],
+      [
+       "Imperative",
+       "sabihin",
+       "dalhín",
+       "siráin",
+       "tawágin"
+      ],
+      [
+       "Past",
+       "sinabi",
+       "dinala",
+       "sinirà",
+       "tináwag"
+      ],
+      [
+       "Present",
+       "sinasabi",
+       "dinadala",
+       "sinisirà",
+       "tinátawag"
+      ],
+      [
+       "Future",
+       "sasabihin",
+       "dadalhín",
+       "sisirain",
+       "tatawagin"
+      ]
+     ],
+     "title": "The book's answer as a table",
+     "note": "Past: -in- is put in (in front of a vowel, or after the first consonant). Present: like the past, but the first syllable is doubled. Future: the first syllable is doubled, and -in/-hin goes on the end."
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Revise",
+     "t": "Revise: Lesson 15 (-in- verb forms)."
+    }
+   ]
+  },
+  {
+   "title": "Part V B2. Active into passive",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Book's instruction:** Change the following sentences from active into passive by using **-in** verbs."
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "Active (as printed)"
+     ],
+     "rows": [
+      [
+       "a.",
+       "Kumain sila ng isda."
+      ],
+      [
+       "b.",
+       "Sumulat siya sa akin ng liham."
+      ],
+      [
+       "c.",
+       "Bumabasa si Juan ng pahayagan."
+      ],
+      [
+       "d.",
+       "Ang aking katulong ay nagluluto ng pagkain."
+      ],
+      [
+       "e.",
+       "Si Jesus ang nagsabi nito."
+      ],
+      [
+       "f.",
+       "Bumati kayo kay Juan para sa akin."
+      ],
+      [
+       "g.",
+       "Nagmamahal ka ba sa Diyos?"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "t": "Remember from Lesson 15: an **-in** verb is **passive**. The thing that receives the action becomes the subject, with **ang**, and the doer takes the **possessive form** (**ni Juan**, **ng aking katulong**, **nila**, **niya**). The verb comes first, then the doer, then the object."
+    },
+    {
+     "type": "pattern",
+     "title": "Active → passive (item a)",
+     "rows": [
+      {
+       "label": "Active",
+       "chips": [
+        {
+         "t": "Kumain",
+         "r": "pred"
+        },
+        {
+         "t": "sila",
+         "r": "pron"
+        },
+        {
+         "t": "ng",
+         "r": "marker"
+        },
+        {
+         "t": "isda",
+         "r": "noun"
+        }
+       ]
+      },
+      {
+       "label": "Passive",
+       "chips": [
+        {
+         "t": "Kinain",
+         "r": "pred"
+        },
+        {
+         "t": "nila",
+         "r": "poss"
+        },
+        {
+         "t": "ang",
+         "r": "marker"
+        },
+        {
+         "t": "isdâ",
+         "r": "noun"
+        }
+       ]
+      }
+     ],
+     "note": "Kumain sila ng isda. → Kinain nila ang isdâ."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "The book's answer",
+     "items": [
+      "Try it yourself first, then check your answers here.",
+      "a. Kinain nila ang isdâ.",
+      "b. Sinulat niya ang liham sa akin.",
+      "c. Binabasa ni Juan ang pahayagan.",
+      "d. Niluluto ng aking katulong ang pagkain.",
+      "e. Sinabi ni Hesus ito.",
+      "f. Batiin ninyo si Juan para sa akin.",
+      "g. Minamahal mo ba ang Diyos?"
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Book spellings",
+     "items": [
+      "Item e: the exercise prints **Jesus**; the answer prints **Hesus**.",
+      "Item a: the exercise prints **isda**; the answer prints **isdâ**."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Revise",
+     "t": "Revise: Lesson 15 (-in- verb forms)."
+    }
+   ]
+  },
+  {
+   "title": "Part V B3. Future tense with stress marks",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Book's instruction:** Give the future tense of the following active verbs and place the appropriate stress marks."
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "English"
+     ],
+     "rows": [
+      [
+       "a.",
+       "to read"
+      ],
+      [
+       "b.",
+       "to bring"
+      ],
+      [
+       "c.",
+       "to wake"
+      ],
+      [
+       "d.",
+       "to change"
+      ],
+      [
+       "e.",
+       "to play"
+      ],
+      [
+       "f.",
+       "to wet"
+      ],
+      [
+       "g.",
+       "to say"
+      ],
+      [
+       "h.",
+       "to cure"
+      ],
+      [
+       "i.",
+       "to leave"
+      ],
+      [
+       "j.",
+       "to remove"
+      ]
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "The book's answer",
+     "items": [
+      "Try it yourself first, then check your answers here.",
+      "a. bábasa",
+      "b. magdadalá",
+      "c. gigising",
+      "d. magbabago",
+      "e. maglalarô",
+      "f. magbábasâ",
+      "g. magsasabi",
+      "h. gágamot",
+      "i. áalis",
+      "j. mag-áalís"
+     ]
+    },
+    {
+     "type": "p",
+     "t": "All of these repeat the first syllable of the root for the future. Look at **bábasa** (*will read*, an -um- verb) and **magbábasâ** (*will wet*, a mag- verb): the root basa / basâ is the same in spelling, but the stress and the affix tell them apart."
+    },
+    {
+     "type": "vocab",
+     "group": "future",
+     "title": "Future forms from this exercise"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Revise",
+     "t": "Revise: Lesson 14 (-um- and mag- verb forms)."
+    }
+   ]
+  },
+  {
+   "title": "Part V C. Saan and Nasaan",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Book's instruction:** 1. When do you use **saan**? 2. When do you use **nasaan**? 3. Translate the following questions and sentences into Tagalog."
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "English"
+     ],
+     "rows": [
+      [
+       "a.",
+       "Where is your home?"
+      ],
+      [
+       "b.",
+       "Where is your friend?"
+      ],
+      [
+       "c.",
+       "Where is your friend going?"
+      ],
+      [
+       "d.",
+       "Where is your church?"
+      ],
+      [
+       "e.",
+       "Where did you eat?"
+      ],
+      [
+       "f.",
+       "John is in the city."
+      ]
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "The book's answer",
+     "items": [
+      "Try it yourself first, then check your answers here.",
+      "1. **Saan** is used with an action word.",
+      "2. **Nasaan** is used without. Both ask for location.",
+      "3a. Nasaan ang iyong bahay?",
+      "3b. Nasaan ang iyong kaibigan?",
+      "3c. Saan pupunta ang iyong kaibigan?",
+      "3d. Nasaan ang iyong simbahan?",
+      "3e. Saan ka kumain?",
+      "3f. Si John ay nasa lungsod."
+     ]
+    },
+    {
+     "type": "pattern",
+     "title": "Saan + action, nasaan without",
+     "rows": [
+      {
+       "label": "action",
+       "chips": [
+        {
+         "t": "Saan",
+         "r": "other"
+        },
+        {
+         "t": "ka",
+         "r": "pron"
+        },
+        {
+         "t": "kumain",
+         "r": "pred"
+        }
+       ]
+      },
+      {
+       "label": "no action",
+       "chips": [
+        {
+         "t": "Nasaan",
+         "r": "other"
+        },
+        {
+         "t": "ang",
+         "r": "marker"
+        },
+        {
+         "t": "iyong",
+         "r": "poss"
+        },
+        {
+         "t": "bahay",
+         "r": "noun"
+        }
+       ]
+      }
+     ],
+     "note": "Where did you eat? · Where is your home?"
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Book spellings",
+     "t": "Lesson 25 writes **násaán** (and nasaán). This review prints **nasaan** with no accents."
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Revise",
+     "t": "Revise: Lesson 25 (saán and násaán)."
+    }
+   ]
+  },
+  {
+   "title": "Part V D. Find the wrong words",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Book's instruction:** Look for the wrong words in the following questions and sentence. If there are any, give the correct ones."
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "As printed"
+     ],
+     "rows": [
+      [
+       "1.",
+       "Dito siya nakatira."
+      ],
+      [
+       "2.",
+       "Saan ang iyong nanay?"
+      ],
+      [
+       "3.",
+       "Nasaan ang kaibigan niya?"
+      ],
+      [
+       "4.",
+       "Sa bahay ba si Maria?"
+      ],
+      [
+       "5.",
+       "Nasaan sila pumaroón?"
+      ]
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "The book's answer",
+     "items": [
+      "Try it yourself first, then check your answers here.",
+      "1. (no error)",
+      "2. **Nasaan**",
+      "3. (no error)",
+      "4. **Nasa**",
+      "5. **Saan**"
+     ]
+    },
+    {
+     "type": "p",
+     "t": "Use the rule from Part V C: item 2 has no action word, so **Saan** becomes **Nasaan**. Item 5 has an action word (pumaroón), so **Nasaan** becomes **Saan**. Item 4 tells where a person is (no action), so **Sa** becomes **Nasa**."
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Revise",
+     "t": "Revise: Lesson 25 (saán and násaán)."
+    }
+   ]
+  },
+  {
+   "title": "Part VI A. Time words and telling the time",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Book's instruction:** Translate the following time, words and phrases."
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "Into Tagalog",
+      "",
+      "Into English"
+     ],
+     "rows": [
+      [
+       "1.",
+       "today",
+       "7.",
+       "**kanina**"
+      ],
+      [
+       "2.",
+       "tomorrow",
+       "8.",
+       "**mamaya**"
+      ],
+      [
+       "3.",
+       "last week",
+       "9.",
+       "**noong Enero**"
+      ],
+      [
+       "4.",
+       "day before",
+       "10.",
+       "**bukas ng hapon**"
+      ],
+      [
+       "5.",
+       "yesterday",
+       "11.",
+       "**sa Linggo**"
+      ],
+      [
+       "6.",
+       "next year",
+       "12.",
+       "**sa isang taon**"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "t": "Items 13 to 17 ask for each time in Tagalog; items 18 to 22 ask for the same times the Spanish way."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Time",
+      "Tagalog",
+      "Spanish"
+     ],
+     "rows": [
+      [
+       "13. 5:00 p.m.",
+       "",
+       "18."
+      ],
+      [
+       "14. 2:00 p.m.",
+       "",
+       "19."
+      ],
+      [
+       "15. 8:15 a.m.",
+       "",
+       "20."
+      ],
+      [
+       "16. 10:30 a.m.",
+       "",
+       "21."
+      ],
+      [
+       "17. 12:00 nn.",
+       "",
+       "22."
+      ]
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "The book's answer",
+     "items": [
+      "Try it yourself first, then check your answers here.",
+      "1. ngayon · 2. bukas · 3. noong isang linggo · 4. kamakalawa · 5. kahapon · 6. sa isang taon",
+      "7. a while ago or earlier in the day · 8. later · 9. last January · 10. tomorrow afternoon · 11. on Sunday or next Sunday · 12. next year"
+     ]
+    },
+    {
+     "type": "table",
+     "head": [
+      "Time",
+      "Tagalog",
+      "Spanish"
+     ],
+     "rows": [
+      [
+       "5:00 p.m.",
+       "13. ikalima ng hapon",
+       "18. alas sinko ng hapon"
+      ],
+      [
+       "2:00 p.m.",
+       "14. ikadalawa ng hapon",
+       "19. alas dos ng hapon"
+      ],
+      [
+       "8:15 a.m.",
+       "15. ikawalo at labinlima ng umaga",
+       "20. alas otso kinse ng umaga"
+      ],
+      [
+       "10:30 a.m.",
+       "16. ikasampu at kalahati ng umaga",
+       "21. alas diyes y medya ng umaga"
+      ],
+      [
+       "12:00 nn.",
+       "17. ikalabindalawa at kalahati ng tanghali",
+       "22. alas dose y medya ng tanghali"
+      ]
+     ],
+     "title": "The book's answer: telling the time"
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Book slips",
+     "items": [
+      "Items 17 and 22 ask for **12:00 nn.**, but the answers add **at kalahati** and **y medya** (*and a half*), which is 12:30. For 12:00 noon Lesson 28 gives **ikalabindalawá ng tánghali** and **a las dose ng tánghali**.",
+      "Item 4 prints *day before*; the answer **kamakalawa** is the *day before yesterday* in Lesson 28.",
+      "Lesson 28 writes 2 o'clock as **ikalawá**; this answer key prints **ikadalawa**.",
+      "Lesson 28 writes the Spanish hours as **a las** (a las sinko); this answer key prints **alas**.",
+      "Lesson 28 prints kanína (*a moment ago*) and mámayâ (*later within the day*) with accents."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "time",
+     "title": "Time words from this exercise"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Revise",
+     "t": "Revise: Lesson 28 (Telling time)."
+    }
+   ]
+  },
+  {
+   "title": "Part VI B. Ma- and maka- verbs: the five forms",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Book's instruction:** Give the derivatives of the following words using the **ma-** and **maka-** affixes."
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "makaalis",
+      "makalakad",
+      "matúlog"
+     ],
+     "rows": [
+      [
+       "Infinitive",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Imperative",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Past",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Present",
+       "",
+       "",
+       ""
+      ],
+      [
+       "Future",
+       "",
+       "",
+       ""
+      ]
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "The book's answer",
+     "items": [
+      "Try it yourself first, then check your answers here.",
+      "**makaalis:** makaalis (infinitive), (none) (imperative), nakaalis (past), nakaaalis (present), makaaalis (future)",
+      "**makalakad:** makalakad, (none), nakalakad, nakalalakad, makalalakad",
+      "**matulog:** matulog, matulog, natulog, natutulog, matutulog"
+     ]
+    },
+    {
+     "type": "table",
+     "head": [
+      "Form",
+      "makaalis",
+      "makalakad",
+      "matulog"
+     ],
+     "rows": [
+      [
+       "Infinitive",
+       "makaalis",
+       "makalakad",
+       "matulog"
+      ],
+      [
+       "Imperative",
+       "(none)",
+       "(none)",
+       "matulog"
+      ],
+      [
+       "Past",
+       "nakaalis",
+       "nakalakad",
+       "natulog"
+      ],
+      [
+       "Present",
+       "nakaaalis",
+       "nakalalakad",
+       "natutulog"
+      ],
+      [
+       "Future",
+       "makaaalis",
+       "makalalakad",
+       "matutulog"
+      ]
+     ],
+     "title": "The book's answer as a table",
+     "note": "Past and present use na- / naka-. A maka- verb does not have an imperative form (Lesson 18)."
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Book spellings",
+     "t": "The exercise prints **matúlog**; the answer key prints **matulog** with no accent."
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Revise",
+     "t": "Revise: Lesson 18 (Ma- and Maka- verb forms)."
+    }
+   ]
+  },
+  {
+   "title": "Part VI C. Translate into Tagalog",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Book's instruction:** Translate the following sentences into Tagalog"
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "English"
+     ],
+     "rows": [
+      [
+       "1.",
+       "What did you see yesterday?"
+      ],
+      [
+       "2.",
+       "He was able to buy shoes."
+      ],
+      [
+       "3.",
+       "He slept on the floor."
+      ],
+      [
+       "4.",
+       "Don't be angry with him."
+      ],
+      [
+       "5.",
+       "He was not able to pay."
+      ],
+      [
+       "6.",
+       "He woke the baby unintentionally."
+      ]
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "The book's answer",
+     "items": [
+      "Try it yourself first, then check your answers here.",
+      "1. Ano ang nakita mo kahapon?",
+      "2. Nakabili siya ng sapatos.",
+      "3. Natulog siya sa sahig.",
+      "4. Huwag kang magalit sa kanya.",
+      "5. Hindi siya nakabayad.",
+      "6. Nagising niya ang bata."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "Spot the ma- and maka- verbs",
+     "items": [
+      "**nakabili** (was able to buy) and **nakabayad** (was able to pay): maka- in the past.",
+      "**natulog** (slept): ma- in the past.",
+      "**Huwag kang magalit** (don't be angry): huwág + ka + ligature, then the verb (Lesson 37).",
+      "Item 6 asks for *the baby*; the book's answer uses **bata**."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Revise",
+     "t": "Revise: Lesson 18 (Ma- and Maka- verb forms)."
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "babasa-r3",
+   "tl": "bábasa",
+   "en": "to read (future tense)",
+   "pos": "verb",
+   "group": "future",
+   "say": "BA-ba-sa"
+  },
+  {
+   "id": "magdadala-r3",
+   "tl": "magdadalá",
+   "en": "to bring (future tense)",
+   "pos": "verb",
+   "group": "future",
+   "say": "mag-da-da-LA"
+  },
+  {
+   "id": "gigising-r3",
+   "tl": "gigising",
+   "en": "to wake (future tense)",
+   "pos": "verb",
+   "group": "future"
+  },
+  {
+   "id": "magbabago-r3",
+   "tl": "magbabago",
+   "en": "to change (future tense)",
+   "pos": "verb",
+   "group": "future"
+  },
+  {
+   "id": "maglalaro-r3",
+   "tl": "maglalarô",
+   "en": "to play (future tense)",
+   "pos": "verb",
+   "group": "future",
+   "say": "mag-la-la-roQ"
+  },
+  {
+   "id": "magbabasa-wet-r3",
+   "tl": "magbábasâ",
+   "en": "to wet (future tense)",
+   "pos": "verb",
+   "group": "future",
+   "say": "mag-BA-ba-saQ"
+  },
+  {
+   "id": "magsasabi-r3",
+   "tl": "magsasabi",
+   "en": "to say (future tense)",
+   "pos": "verb",
+   "group": "future"
+  },
+  {
+   "id": "gagamot-r3",
+   "tl": "gágamot",
+   "en": "to cure (future tense)",
+   "pos": "verb",
+   "group": "future",
+   "say": "GA-ga-mot"
+  },
+  {
+   "id": "mag-aalis-r3",
+   "tl": "mag-áalís",
+   "en": "to remove (future tense)",
+   "pos": "verb",
+   "group": "future"
+  },
+  {
+   "id": "kanina-r3",
+   "tl": "kanina",
+   "en": "a while ago or earlier in the day",
+   "pos": "adv",
+   "group": "time",
+   "note": "Lesson 28 prints kanína (a moment ago)."
+  },
+  {
+   "id": "mamaya-r3",
+   "tl": "mamaya",
+   "en": "later",
+   "pos": "adv",
+   "group": "time",
+   "note": "Lesson 28 prints mámayâ (later within the day)."
+  },
+  {
+   "id": "bukas-ng-hapon-r3",
+   "tl": "bukas ng hapon",
+   "en": "tomorrow afternoon",
+   "pos": "phrase",
+   "group": "time"
+  },
+  {
+   "id": "sa-linggo-r3",
+   "tl": "sa Linggo",
+   "en": "on Sunday or next Sunday",
+   "pos": "phrase",
+   "group": "time",
+   "note": "Lesson 28 prints sa Linggó (next Sunday)."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Future of takbó (-um-), as the book prints it?",
+   "options": [
+    "tátakbo",
+    "tumatakbó",
+    "tumakbó"
+   ],
+   "answer": "tátakbo",
+   "explain": "Tumatakbó is the present; tumakbó is the infinitive, imperative and past."
+  },
+  {
+   "type": "choice",
+   "q": "Present of salitâ (mag-)?",
+   "options": [
+    "nagsasalitâ",
+    "nagsalitâ",
+    "magsásalitâ"
+   ],
+   "answer": "nagsasalitâ",
+   "explain": "Nagsalitâ is the past; magsásalitâ is the future."
+  },
+  {
+   "type": "choice",
+   "q": "Past of alagà (mag-)?",
+   "options": [
+    "nag-alagà",
+    "mag-alagà",
+    "nag-aalagà"
+   ],
+   "answer": "nag-alagà",
+   "explain": "Mag-alagà is the infinitive and imperative; nag-aalagà is the present."
+  },
+  {
+   "type": "build",
+   "en": "Mary wrote a book.",
+   "tl": "Sumulat ng aklát si Mary.",
+   "tokens": [
+    "sumulat",
+    "ng",
+    "aklát",
+    "si",
+    "mary"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "He walked to school.",
+   "tl": "Lumakad siya papunta sa páaralán.",
+   "tokens": [
+    "lumakad",
+    "siya",
+    "papunta",
+    "sa",
+    "páaralán"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Why didn't you clean your hands?",
+   "tl": "Bakit hindi ka naglínis ng mga kamáy?",
+   "tokens": [
+    "bakit",
+    "hindi",
+    "ka",
+    "naglínis",
+    "ng",
+    "mga",
+    "kamáy"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "I want to buy two mangoes.",
+   "tl": "Gusto kong bumilí ng dalawáng manggá.",
+   "tokens": [
+    "gusto",
+    "kong",
+    "bumilí",
+    "ng",
+    "dalawáng",
+    "manggá"
+   ],
+   "explain": "After gusto (a pseudo verb) the verb stays in the infinitive."
+  },
+  {
+   "type": "build",
+   "en": "Don't you like to swim?",
+   "tl": "Ayaw mo bang lumangóy?",
+   "tokens": [
+    "ayaw",
+    "mo",
+    "bang",
+    "lumangóy"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "choice",
+   "q": "Past of tawágin?",
+   "options": [
+    "tináwag",
+    "tinátawag",
+    "tatawagin"
+   ],
+   "answer": "tináwag",
+   "explain": "Tinátawag is the present; tatawagin is the future."
+  },
+  {
+   "type": "choice",
+   "q": "Present of dalhín?",
+   "options": [
+    "dinadala",
+    "dinala",
+    "dadalhín"
+   ],
+   "answer": "dinadala",
+   "explain": "Dinala is the past; dadalhín is the future."
+  },
+  {
+   "type": "build",
+   "en": "Passive of: Kumain sila ng isda.",
+   "tl": "Kinain nila ang isdâ.",
+   "tokens": [
+    "kinain",
+    "nila",
+    "ang",
+    "isdâ"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Passive of: Bumabasa si Juan ng pahayagan.",
+   "tl": "Binabasa ni Juan ang pahayagan.",
+   "tokens": [
+    "binabasa",
+    "ni",
+    "juan",
+    "ang",
+    "pahayagan"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Passive of: Nagmamahal ka ba sa Diyos?",
+   "tl": "Minamahal mo ba ang Diyos?",
+   "tokens": [
+    "minamahal",
+    "mo",
+    "ba",
+    "ang",
+    "diyos"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match the English to the book's future tense.",
+   "pairs": [
+    [
+     "to read",
+     "bábasa"
+    ],
+    [
+     "to bring",
+     "magdadalá"
+    ],
+    [
+     "to wake",
+     "gigising"
+    ],
+    [
+     "to change",
+     "magbabago"
+    ],
+    [
+     "to play",
+     "maglalarô"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the English to the book's future tense.",
+   "pairs": [
+    [
+     "to wet",
+     "magbábasâ"
+    ],
+    [
+     "to say",
+     "magsasabi"
+    ],
+    [
+     "to cure",
+     "gágamot"
+    ],
+    [
+     "to leave",
+     "áalis"
+    ],
+    [
+     "to remove",
+     "mag-áalís"
+    ]
+   ]
+  },
+  {
+   "type": "choice",
+   "q": "When do you use saan?",
+   "options": [
+    "With an action word",
+    "Without an action word",
+    "Only with nasa"
+   ],
+   "answer": "With an action word",
+   "explain": "The book: Saan is used with an action word. Nasaan is used without. Both ask for location."
+  },
+  {
+   "type": "build",
+   "en": "Where is your home?",
+   "tl": "Nasaan ang iyong bahay?",
+   "tokens": [
+    "nasaan",
+    "ang",
+    "iyong",
+    "bahay"
+   ],
+   "explain": "No action word, so nasaan."
+  },
+  {
+   "type": "build",
+   "en": "Where is your friend going?",
+   "tl": "Saan pupunta ang iyong kaibigan?",
+   "tokens": [
+    "saan",
+    "pupunta",
+    "ang",
+    "iyong",
+    "kaibigan"
+   ],
+   "explain": "Pupunta is an action word, so saan."
+  },
+  {
+   "type": "build",
+   "en": "Where did you eat?",
+   "tl": "Saan ka kumain?",
+   "tokens": [
+    "saan",
+    "ka",
+    "kumain"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "choice",
+   "q": "Saan ang iyong nanay? What does the book correct?",
+   "options": [
+    "Saan → Nasaan",
+    "Nothing (no error)",
+    "Nasaan → Saan"
+   ],
+   "answer": "Saan → Nasaan",
+   "explain": "There is no action word, so the book's answer is Nasaan."
+  },
+  {
+   "type": "choice",
+   "q": "Nasaan sila pumaroón? What does the book correct?",
+   "options": [
+    "Nasaan → Saan",
+    "Nothing (no error)",
+    "Saan → Nasaan"
+   ],
+   "answer": "Nasaan → Saan",
+   "explain": "Pumaroón is an action word, so the book's answer is Saan."
+  },
+  {
+   "type": "match",
+   "q": "Match the English to the book's Tagalog.",
+   "pairs": [
+    [
+     "today",
+     "ngayon"
+    ],
+    [
+     "tomorrow",
+     "bukas"
+    ],
+    [
+     "last week",
+     "noong isang linggo"
+    ],
+    [
+     "yesterday",
+     "kahapon"
+    ],
+    [
+     "next year",
+     "sa isang taon"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the Tagalog to the book's English.",
+   "pairs": [
+    [
+     "kanina",
+     "a while ago or earlier in the day"
+    ],
+    [
+     "mamaya",
+     "later"
+    ],
+    [
+     "noong Enero",
+     "last January"
+    ],
+    [
+     "bukas ng hapon",
+     "tomorrow afternoon"
+    ],
+    [
+     "sa Linggo",
+     "on Sunday or next Sunday"
+    ]
+   ]
+  },
+  {
+   "type": "choice",
+   "q": "8:15 a.m. in Tagalog (the ika- way)?",
+   "options": [
+    "ikawalo at labinlima ng umaga",
+    "ikasampu at kalahati ng umaga",
+    "ikalima ng hapon"
+   ],
+   "answer": "ikawalo at labinlima ng umaga",
+   "explain": "Ikasampu at kalahati ng umaga is 10:30 a.m.; ikalima ng hapon is 5:00 p.m."
+  },
+  {
+   "type": "choice",
+   "q": "10:30 a.m. the Spanish way?",
+   "options": [
+    "alas diyes y medya ng umaga",
+    "alas otso kinse ng umaga",
+    "alas dos ng hapon"
+   ],
+   "answer": "alas diyes y medya ng umaga",
+   "explain": "Y medya = and a half. Alas otso kinse ng umaga is 8:15 a.m."
+  },
+  {
+   "type": "choice",
+   "q": "Imperative of makaalis in the book's answer?",
+   "options": [
+    "(none)",
+    "makaalis",
+    "nakaalis"
+   ],
+   "answer": "(none)",
+   "explain": "The book gives no imperative for makaalis or makalakad."
+  },
+  {
+   "type": "choice",
+   "q": "Present of makalakad?",
+   "options": [
+    "nakalalakad",
+    "nakalakad",
+    "makalalakad"
+   ],
+   "answer": "nakalalakad",
+   "explain": "Nakalakad is the past; makalalakad is the future."
+  },
+  {
+   "type": "build",
+   "en": "He was able to buy shoes.",
+   "tl": "Nakabili siya ng sapatos.",
+   "tokens": [
+    "nakabili",
+    "siya",
+    "ng",
+    "sapatos"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "He slept on the floor.",
+   "tl": "Natulog siya sa sahig.",
+   "tokens": [
+    "natulog",
+    "siya",
+    "sa",
+    "sahig"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Don't be angry with him.",
+   "tl": "Huwag kang magalit sa kanya.",
+   "tokens": [
+    "huwag",
+    "kang",
+    "magalit",
+    "sa",
+    "kanya"
+   ],
+   "explain": ""
+  }
+ ],
+ "recap": [
+  "-um- verbs: tumakbó, tumakbó, tumakbó, tumatakbó, tátakbo. Mag- verbs: magsalitâ, nagsalitâ, nagsasalitâ, magsásalitâ.",
+  "-in verbs: tawágin, tináwag, tinátawag, tatawagin. Active → passive: Kumain sila ng isda. → Kinain nila ang isdâ.",
+  "Saan is used with an action word; nasaan without. Both ask for location.",
+  "Time: kanina, mamaya, noong Enero, bukas ng hapon; 10:30 a.m. = ikasampu at kalahati ng umaga = alas diyes y medya ng umaga.",
+  "Ma- and maka-: natulog (slept), nakabili (was able to buy), nakabayad (was able to pay)."
+ ]
+}

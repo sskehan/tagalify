@@ -1,0 +1,1173 @@
+{
+ "id": "r1",
+ "label": "R1",
+ "title": "Review: Parts I and II – sentences, passives and possessives",
+ "summary": "The book's first review exercises: using words in sentences, active to passive, a Bible-story translation, possessive phrases (my mother, John's plan, cat's eye) and choosing the right response",
+ "minutes": 35,
+ "goals": [
+  "Use naming, describing and action words in your own sentences",
+  "Turn active sentences into passive ones, as the book does",
+  "Follow the book's Tagalog version of a short story",
+  "Say possessive phrases such as my mother, John's plan and the cat's eye",
+  "Choose the sensible response to a sentence"
+ ],
+ "sections": [
+  {
+   "title": "About the review exercises",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "At the back of the book there are **Review Exercises** in eight parts, with an **Answer key**. This review lesson covers **Part I** and **Part II**. Each section below is one lettered exercise, with the book's instructions and items exactly as printed."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "How to use this lesson",
+     "items": [
+      "Read the items and try to answer them yourself, out loud or on paper.",
+      "Then open **The book's answer** to check. Where the book prints no answer (writing your own sentences, answering about yourself), the box says so.",
+      "Each section ends with a **Revise** line telling you which lesson teaches that point.",
+      "The exercises at the end are built only from items that the Answer key answers."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Part I A. Use the words in sentences",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book's instruction: **Use the following words in sentences.** The words are in three groups: words that name (nouns and pronouns), words that describe (adjectives) and action words (verbs, in any tense)."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Words that name",
+      "Words that describe",
+      "Action Words (in any tense)"
+     ],
+     "rows": [
+      [
+       "táo",
+       "magandá",
+       "umalís"
+      ],
+      [
+       "báhay",
+       "lálong malakí",
+       "lumákad"
+      ],
+      [
+       "katúlong",
+       "mayáman",
+       "bumása"
+      ],
+      [
+       "ikáw",
+       "maíngay",
+       "kumáin"
+      ],
+      [
+       "iyán",
+       "palatawá",
+       "maglarô"
+      ],
+      [
+       "Maynilà",
+       "pinakámabaít",
+       "pumuntá"
+      ],
+      [
+       "pagkáin",
+       "mabúti",
+       "maglínis"
+      ],
+      [
+       "kayo",
+       "nápakaínit",
+       "basáhin"
+      ],
+      [
+       "bíbliya",
+       "malínis na malínis",
+       "daláwin"
+      ],
+      [
+       "bulaklák",
+       "masaráp",
+       "kánin"
+      ]
+     ],
+     "title": "Part I A (page 218)",
+     "note": "Printed exactly as in the book. The list prints kayo without an accent mark."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Your turn",
+     "items": [
+      "Pick a word from each column and make a sentence, for example a naming word as the subject, a describing word or an action word as the predicate.",
+      "The book gives no single answer for this exercise: any correct sentence is fine."
+     ]
+    },
+    {
+     "type": "p",
+     "t": "*Revise: Lesson 5 (sentence formation).*"
+    }
+   ]
+  },
+  {
+   "title": "Part I B. Write a paragraph",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book's instruction: **Write a paragraph of about 100 words describing anybody or anything.**"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Your turn",
+     "items": [
+      "Describe a person, a place or a thing you know, using describing words such as those in Part I A.",
+      "The book gives no single answer for this exercise."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Part I C. Active into passive",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book's instruction: **Translate the following active sentences into passive.** In an active sentence the spotlight is on the doer; in a passive sentence the thing acted upon becomes the subject (with **ang**) and the doer takes the possessive form (**ng batà**, **ko**…)."
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "Active sentence"
+     ],
+     "rows": [
+      [
+       "1.",
+       "Ang batà ay kumákain ng tinápay."
+      ],
+      [
+       "2.",
+       "Ako ay bumilí ng sapatos sa Makati."
+      ],
+      [
+       "3.",
+       "Ang katúlong namin ay naglutò ng gúlay."
+      ],
+      [
+       "4.",
+       "Tumáwag ng doktor ang maysakít."
+      ],
+      [
+       "5.",
+       "Kumúha ng lapis ang batà sa báhay."
+      ]
+     ],
+     "title": "Part I C (page 218)"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "The book's answer",
+     "items": [
+      "Try it yourself first, then check.",
+      "1. Ang tinápay ay kinákain ng batà.",
+      "2. Binili ko ang sapátos sa Makati.",
+      "3. Naglutò ng gúlay ang katúlong namin.",
+      "4. Tináwag ng maysakít ang doktor.",
+      "5. Kinúha ng batà ang lapis sa báhay."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Book slips",
+     "items": [
+      "Answer 3 keeps the active verb **naglutò** and only changes the word order, so it is not a passive sentence. It is shown as printed, but it is not used in the exercises.",
+      "The question prints **sapatos**; the answer prints **sapátos**."
+     ]
+    },
+    {
+     "type": "p",
+     "t": "*Revise: Lesson 15 (-in- verb forms).*"
+    }
+   ]
+  },
+  {
+   "title": "Part I D. Translate the story",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book's instruction: **Translate the following paragraph into Tagalog.** The book helps with three words: **bangkâ** (small boat), **bagyó** (storm) and **tahimik** (calm)."
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "The paragraph (page 218)",
+     "t": "The Lord Jesus and His friends were in a small boat (**bangkâ**) on the sea. A storm (**bagyó**) came up quickly. The waves were big. The wind was strong. The water was filling the boat. The men called to the Lord Jesus. They said, \"Do you not care if we drown?\" The Lord Jesus stood up in the boat. He spoke to the wind and the sea, saying \"Quiet, be still!\" It was calm (**tahimik**) at once."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "The book's answer",
+     "items": [
+      "Try it yourself first, then check.",
+      "Ang Panginoóng Hesús at ang Kanyáng mga kaibígan ay nása isang maliít na bangkâ sa dágat. Isang bagyó ang dumating nang biglâ... Ang mga álon ay malalakí. Malakás ang hángin. Napúpunô ng túbig ang bangkâ. Tináwag ng mga laláki ang Panginoóng Hesús. Ang sábi nilá, \"Walâ bang halagâ sa inyo na kami'y malúnod?\" Tumayô ang Panginoóng Hesús sa bangkâ. Nagsalitâ Siya sa hángin at sa dágat at sinabi Niyá, \"Tahímik!\" Nagíng tahímik kaagád."
+     ]
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ang mga álon ay malalakí.",
+       "en": "The waves were big.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "mga",
+         "(plural)",
+         "marker"
+        ],
+        [
+         "álon",
+         "waves",
+         "noun"
+        ],
+        [
+         "ay",
+         "were",
+         "ay"
+        ],
+        [
+         "malalakí",
+         "big",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Malakás ang hángin.",
+       "en": "The wind was strong.",
+       "parts": [
+        [
+         "Malakás",
+         "strong",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "hángin",
+         "wind",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Napúpunô ng túbig ang bangkâ.",
+       "en": "The water was filling the boat.",
+       "parts": [
+        [
+         "Napúpunô",
+         "was filling",
+         "pred"
+        ],
+        [
+         "ng",
+         "(marker)",
+         "marker"
+        ],
+        [
+         "túbig",
+         "water",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "bangkâ",
+         "boat",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Tináwag ng mga laláki ang Panginoóng Hesús.",
+       "en": "The men called to the Lord Jesus.",
+       "parts": []
+      },
+      {
+       "tl": "Tumayô ang Panginoóng Hesús sa bangkâ.",
+       "en": "The Lord Jesus stood up in the boat.",
+       "parts": []
+      },
+      {
+       "tl": "Nagíng tahímik kaagád.",
+       "en": "It was calm at once.",
+       "parts": [
+        [
+         "Nagíng",
+         "became",
+         "pred"
+        ],
+        [
+         "tahímik",
+         "calm",
+         "pred"
+        ],
+        [
+         "kaagád",
+         "at once",
+         "other"
+        ]
+       ]
+      }
+     ],
+     "title": "Sentence by sentence, from the book's answer"
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Book slips",
+     "items": [
+      "The English paragraph prints **tahimik** with no accent; the answer prints **tahímik**.",
+      "The answer splits **malúnod** across two lines as malú-nod.",
+      "The answer ends the second sentence with three dots: **nang biglâ...**"
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "story",
+     "title": "Words from the story"
+    }
+   ]
+  },
+  {
+   "title": "Part II A. Five describing words",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book's instruction: **Write five words to describe each of the following:** **pagkáin**, **bulaklák**, **simbáhan**, **batá**."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Your turn",
+     "items": [
+      "For each of the four words, write five describing words (adjectives), numbered 1 to 5.",
+      "The book gives no single answer for this exercise."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Book spelling",
+     "t": "This list prints **batá**; elsewhere in these exercises the book prints **batà** (child)."
+    },
+    {
+     "type": "p",
+     "t": "*Revise: Lesson 7 (words that link and describe).*"
+    }
+   ]
+  },
+  {
+   "title": "Part II B. Possessive phrases",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book's instruction: **Translate the following words and phrases into Tagalog.** Remember: in Tagalog the thing owned comes first, then **ni** + a name or **ng** + a common noun; or a possessive pronoun such as **áking** goes before the noun."
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "English",
+      "",
+      "English"
+     ],
+     "rows": [
+      [
+       "1.",
+       "my mother",
+       "11.",
+       "John's plan"
+      ],
+      [
+       "2.",
+       "our church (including speaker and listener)",
+       "12.",
+       "baby's laugh"
+      ],
+      [
+       "3.",
+       "his love",
+       "13.",
+       "man's anger"
+      ],
+      [
+       "4.",
+       "their study",
+       "14.",
+       "Mary's name"
+      ],
+      [
+       "5.",
+       "your hope (singular)",
+       "15.",
+       "March wind"
+      ],
+      [
+       "6.",
+       "her cooking",
+       "16.",
+       "father's letter"
+      ],
+      [
+       "7.",
+       "our planting",
+       "17.",
+       "cat's eye"
+      ],
+      [
+       "8.",
+       "his poverty",
+       "18.",
+       "priest's sermon"
+      ],
+      [
+       "9.",
+       "my happiness",
+       "19.",
+       "child's food"
+      ],
+      [
+       "10.",
+       "your work (plural)",
+       "20.",
+       "animal's feet"
+      ]
+     ],
+     "title": "Part II B (page 219)"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "The book's answer",
+     "items": [
+      "Try it yourself first, then check.",
+      "1. ang áking ina",
+      "2. ang ating simbáhan",
+      "3. ang kaniyáng pag-íbig",
+      "4. ang kaniláng pag-aáral",
+      "5. ang kaniyáng pag-ása",
+      "6. ang kaniyáng pagluluto",
+      "7. ang ating pagtataním",
+      "8. ang kaniyáng kahirápan",
+      "9. ang áking kaligayáhan",
+      "10. ang inyóng trabáho",
+      "11. ang bálak ni John",
+      "12. ang táwa ng sanggol",
+      "13. ang gálit ng laláki",
+      "14. ang ngálan ni Mary",
+      "15. ang hángin ng Marso",
+      "16. ang súlat ng amá",
+      "17. ang matá ng pusà",
+      "18. ang sermon ng parì",
+      "19. ang pagkáin ng batà",
+      "20. ang paá ng háyop"
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Book slips",
+     "items": [
+      "Item 5 asks for **your hope (singular)**, but the answer prints **ang kaniyáng pag-ása**, which uses kaniyáng (his/her). By Lesson 8, *your* (one person) before a noun is **iyóng**. Item 5 is not used in the exercises.",
+      "These answers spell *his/her* as **kaniyáng**; other parts of the book print **kanyáng**. Lesson 8 gives both."
+     ]
+    },
+    {
+     "type": "p",
+     "t": "*Revise: Lesson 8 (words that show possession).*"
+    },
+    {
+     "type": "vocab",
+     "group": "possess",
+     "title": "Words from the answers"
+    }
+   ]
+  },
+  {
+   "title": "Part II C. Answer the questions",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book's instruction: **Answer the following questions.**"
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "Question"
+     ],
+     "rows": [
+      [
+       "1.",
+       "Kaníno bang aklát ito?"
+      ],
+      [
+       "2.",
+       "Ilan buwán na kayo sa Pilipinas?"
+      ],
+      [
+       "3.",
+       "Anu-anó ang inyóng ginágawa ngayón?"
+      ],
+      [
+       "4.",
+       "Bakit kayo nag-áaral ng Tagalog?"
+      ],
+      [
+       "5.",
+       "Anong mga wikà ang inyóng alám?"
+      ]
+     ],
+     "title": "Part II C (page 219)"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Your turn",
+     "items": [
+      "Answer each question about yourself, in a full Tagalog sentence.",
+      "The book gives no single answer for this exercise."
+     ]
+    },
+    {
+     "type": "p",
+     "t": "*Revise: Lesson 9 (asking questions).*"
+    }
+   ]
+  },
+  {
+   "title": "Part II D. Synonyms and antonyms",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book's instruction: **Fill in the blanks with the correct answer.** The book prints two headings, **Synonym** and **Antonym**; the five words stand under *Synonym* and a blank line is beside each for the antonym (opposite)."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Synonym",
+      "Antonym"
+     ],
+     "rows": [
+      [
+       "magandà",
+       "______"
+      ],
+      [
+       "masípag",
+       "______"
+      ],
+      [
+       "madilím",
+       "______"
+      ],
+      [
+       "banal",
+       "______"
+      ],
+      [
+       "malínis",
+       "______"
+      ]
+     ],
+     "title": "Part II D (page 219)"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Your turn",
+     "items": [
+      "Write a word with the opposite meaning beside each word.",
+      "The Answer key prints no answer for this exercise."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Book spelling",
+     "t": "This list prints **magandà** (grave accent); Part I A prints **magandá**."
+    }
+   ]
+  },
+  {
+   "title": "Part II E. Choose the right response",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The book's instruction: **Tick (√) the letters of the appropriate anwer to the sentence on the left.** (The book misspells *answer* as *anwer*.)"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Sentence",
+      "Choices"
+     ],
+     "rows": [
+      [
+       "1. Ako ay naíinitang mabúti.",
+       "a. Ako ay maglúlutò"
+      ],
+      [
+       "",
+       "b. Ako ay malíligò."
+      ],
+      [
+       "",
+       "c. Ako ay mag-áaral."
+      ],
+      [
+       "2. Ang anák nilá ay payát na payát.",
+       "a. Siya ay dapat uminóm ng gamut sa ubó."
+      ],
+      [
+       "",
+       "b. Siya ay dapat malungkót."
+      ],
+      [
+       "",
+       "c. Siya ay dapat kumain nang marámi."
+      ],
+      [
+       "3. Ang klase ay maíngay.",
+       "a. Paalisín ang mga batà."
+      ],
+      [
+       "",
+       "b. Pagalítan ang mga batà."
+      ],
+      [
+       "",
+       "c. Bigyán ng maráming gáwain."
+      ],
+      [
+       "4. Ang gurò ay marunong at mabait.",
+       "a. Siya'y kinayáyamután."
+      ],
+      [
+       "",
+       "b. Siya'y kinatútuwaán."
+      ],
+      [
+       "",
+       "c. Siya'y dapat tulúngan."
+      ],
+      [
+       "5. Ako ay nasa Pilipinas",
+       "a. Dapat akong magsalitâ ng Ingles."
+      ],
+      [
+       "",
+       "b. Dapat kong matúlog sa hapon."
+      ],
+      [
+       "",
+       "c. Dapat akong mag-áral ng Tagalog."
+      ]
+     ],
+     "title": "Part II E (page 219)"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "The book's answer",
+     "items": [
+      "Try it yourself first, then check.",
+      "1. b   2. c   3. c   4. b   5. c"
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "Part I C: in a passive sentence the thing acted upon takes **ang** and the doer takes **ng** or **ko**: **Binili ko ang sapátos.**",
+      "Part II B: the owner comes **after** the thing owned: **ang bálak ni John**, **ang matá ng pusà**.",
+      "Ni goes before a name; ng goes before a common noun.",
+      "A possessive pronoun before the noun takes a ligature: **áking**, **inyóng**, **kaniláng**."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "bangka-r1",
+   "tl": "bangkâ",
+   "en": "small boat",
+   "pos": "noun",
+   "group": "story",
+   "say": "bang-kaQ",
+   "note": "The book's vocabulary list prints bangka (boat, banca)."
+  },
+  {
+   "id": "bagyo-r1",
+   "tl": "bagyó",
+   "en": "storm",
+   "pos": "noun",
+   "group": "story",
+   "say": "bag-YO"
+  },
+  {
+   "id": "tahimik-r1",
+   "tl": "tahimik",
+   "en": "calm",
+   "pos": "adj",
+   "group": "story",
+   "note": "Printed here without accents; the answer key prints tahímik, and Lesson 7 has tahímik (quiet)."
+  },
+  {
+   "id": "alon-r1",
+   "tl": "álon",
+   "en": "waves",
+   "pos": "noun",
+   "group": "story",
+   "say": "A-lon",
+   "note": "From the answer key: The waves were big = Ang mga álon ay malalakí. The book's vocabulary list prints alon (wave)."
+  },
+  {
+   "id": "panginoong-hesus-r1",
+   "tl": "Panginoóng Hesús",
+   "en": "the Lord Jesus",
+   "pos": "phrase",
+   "group": "story",
+   "note": "From the answer key: Panginoón + the ligature -ng before Hesús."
+  },
+  {
+   "id": "pag-aaral-r1",
+   "tl": "pag-aáral",
+   "en": "study",
+   "pos": "noun",
+   "group": "possess",
+   "note": "From the answer key: their study = ang kaniláng pag-aáral."
+  },
+  {
+   "id": "pagluluto-r1",
+   "tl": "pagluluto",
+   "en": "cooking",
+   "pos": "noun",
+   "group": "possess",
+   "note": "From the answer key: her cooking = ang kaniyáng pagluluto."
+  },
+  {
+   "id": "kahirapan-r1",
+   "tl": "kahirápan",
+   "en": "poverty",
+   "pos": "noun",
+   "group": "possess",
+   "say": "ka-hi-RA-pan",
+   "note": "From the answer key: his poverty = ang kaniyáng kahirápan."
+  },
+  {
+   "id": "balak-r1",
+   "tl": "bálak",
+   "en": "plan",
+   "pos": "noun",
+   "group": "possess",
+   "say": "BA-lak",
+   "note": "From the answer key: John's plan = ang bálak ni John. The book's vocabulary list prints balak (plan, aim, purpose)."
+  },
+  {
+   "id": "galit-r1",
+   "tl": "gálit",
+   "en": "anger",
+   "pos": "noun",
+   "group": "possess",
+   "say": "GA-lit",
+   "note": "From the answer key: man's anger = ang gálit ng laláki. Compare galít (angry)."
+  },
+  {
+   "id": "ngalan-r1",
+   "tl": "ngálan",
+   "en": "name",
+   "pos": "noun",
+   "group": "possess",
+   "say": "NGA-lan",
+   "note": "From the answer key: Mary's name = ang ngálan ni Mary."
+  },
+  {
+   "id": "sermon-r1",
+   "tl": "sermon",
+   "en": "sermon",
+   "pos": "noun",
+   "group": "possess",
+   "note": "From the answer key: priest's sermon = ang sermon ng parì."
+  },
+  {
+   "id": "pari-r1",
+   "tl": "parì",
+   "en": "priest",
+   "pos": "noun",
+   "group": "possess",
+   "say": "PA-riQ",
+   "note": "Lesson 40 prints pári."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "build",
+   "en": "Make it passive: Ang batà ay kumákain ng tinápay.",
+   "tl": "Ang tinápay ay kinákain ng batà.",
+   "tokens": [
+    "ang",
+    "tinápay",
+    "ay",
+    "kinákain",
+    "ng",
+    "batà"
+   ],
+   "explain": "The bread (tinápay) becomes the subject with ang; the doer becomes ng batà."
+  },
+  {
+   "type": "build",
+   "en": "Make it passive: Ako ay bumilí ng sapatos sa Makati.",
+   "tl": "Binili ko ang sapátos sa Makati.",
+   "tokens": [
+    "binili",
+    "ko",
+    "ang",
+    "sapátos",
+    "sa",
+    "makati"
+   ],
+   "explain": "The -in- verb binili comes first, then the doer ko, then ang sapátos."
+  },
+  {
+   "type": "build",
+   "en": "Make it passive: Tumáwag ng doktor ang maysakít.",
+   "tl": "Tináwag ng maysakít ang doktor.",
+   "tokens": [
+    "tináwag",
+    "ng",
+    "maysakít",
+    "ang",
+    "doktor"
+   ],
+   "explain": "Verb + doer (ng maysakít) + subject (ang doktor)."
+  },
+  {
+   "type": "build",
+   "en": "Make it passive: Kumúha ng lapis ang batà sa báhay.",
+   "tl": "Kinúha ng batà ang lapis sa báhay.",
+   "tokens": [
+    "kinúha",
+    "ng",
+    "batà",
+    "ang",
+    "lapis",
+    "sa",
+    "báhay"
+   ],
+   "explain": "Kumúha (active) becomes kinúha (passive); the pencil takes ang."
+  },
+  {
+   "type": "choice",
+   "q": "In the passive answer \"Binili ko ang sapátos sa Makati\", which word is the doer?",
+   "options": [
+    "ko",
+    "sapátos",
+    "Makati"
+   ],
+   "answer": "ko",
+   "explain": "In an -in- sentence the doer takes the possessive form (ko). The thing bought (ang sapátos) is the subject."
+  },
+  {
+   "type": "build",
+   "en": "The waves were big.",
+   "tl": "Ang mga álon ay malalakí.",
+   "tokens": [
+    "ang",
+    "mga",
+    "álon",
+    "ay",
+    "malalakí"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The wind was strong.",
+   "tl": "Malakás ang hángin.",
+   "tokens": [
+    "malakás",
+    "ang",
+    "hángin"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The water was filling the boat.",
+   "tl": "Napúpunô ng túbig ang bangkâ.",
+   "tokens": [
+    "napúpunô",
+    "ng",
+    "túbig",
+    "ang",
+    "bangkâ"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The men called to the Lord Jesus.",
+   "tl": "Tináwag ng mga laláki ang Panginoóng Hesús.",
+   "tokens": [
+    "tináwag",
+    "ng",
+    "mga",
+    "laláki",
+    "ang",
+    "panginoóng",
+    "hesús"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "It was calm at once.",
+   "tl": "Nagíng tahímik kaagád.",
+   "tokens": [
+    "nagíng",
+    "tahímik",
+    "kaagád"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "choice",
+   "q": "In the story, what does \"bagyó\" mean?",
+   "options": [
+    "storm",
+    "small boat",
+    "calm"
+   ],
+   "answer": "storm",
+   "explain": "The book glosses bangkâ as small boat and tahimik as calm."
+  },
+  {
+   "type": "listen",
+   "tl": "Tumayô ang Panginoóng Hesús sa bangkâ.",
+   "options": [
+    "The Lord Jesus stood up in the boat.",
+    "The men called to the Lord Jesus.",
+    "The wind was strong."
+   ],
+   "answer": "The Lord Jesus stood up in the boat.",
+   "explain": "Sa bangkâ = in the boat."
+  },
+  {
+   "type": "match",
+   "q": "Match the phrase to the book's Tagalog.",
+   "pairs": [
+    [
+     "my mother",
+     "ang áking ina"
+    ],
+    [
+     "our church (including speaker and listener)",
+     "ang ating simbáhan"
+    ],
+    [
+     "his love",
+     "ang kaniyáng pag-íbig"
+    ],
+    [
+     "their study",
+     "ang kaniláng pag-aáral"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the phrase to the book's Tagalog.",
+   "pairs": [
+    [
+     "her cooking",
+     "ang kaniyáng pagluluto"
+    ],
+    [
+     "our planting",
+     "ang ating pagtataním"
+    ],
+    [
+     "his poverty",
+     "ang kaniyáng kahirápan"
+    ],
+    [
+     "my happiness",
+     "ang áking kaligayáhan"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the phrase to the book's Tagalog.",
+   "pairs": [
+    [
+     "your work (plural)",
+     "ang inyóng trabáho"
+    ],
+    [
+     "baby's laugh",
+     "ang táwa ng sanggol"
+    ],
+    [
+     "man's anger",
+     "ang gálit ng laláki"
+    ],
+    [
+     "March wind",
+     "ang hángin ng Marso"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the phrase to the book's Tagalog.",
+   "pairs": [
+    [
+     "father's letter",
+     "ang súlat ng amá"
+    ],
+    [
+     "priest's sermon",
+     "ang sermon ng parì"
+    ],
+    [
+     "child's food",
+     "ang pagkáin ng batà"
+    ],
+    [
+     "animal's feet",
+     "ang paá ng háyop"
+    ]
+   ]
+  },
+  {
+   "type": "build",
+   "en": "John's plan",
+   "tl": "ang bálak ni John",
+   "tokens": [
+    "ang",
+    "bálak",
+    "ni",
+    "john"
+   ],
+   "explain": "The thing owned first, then ni + the name."
+  },
+  {
+   "type": "choice",
+   "q": "How does the book say \"Mary's name\"?",
+   "options": [
+    "ang ngálan ni Mary",
+    "ang ngálan ng Mary",
+    "ang Mary ngálan"
+   ],
+   "answer": "ang ngálan ni Mary",
+   "explain": "Ni goes before a name, and the owner comes after the thing owned (Lesson 8)."
+  },
+  {
+   "type": "choice",
+   "q": "How does the book say \"cat's eye\"?",
+   "options": [
+    "ang matá ng pusà",
+    "ang matá ni pusà",
+    "ang pusà matá"
+   ],
+   "answer": "ang matá ng pusà",
+   "explain": "Ng goes before a common noun such as pusà; ni is only for names."
+  },
+  {
+   "type": "choice",
+   "q": "Part II E 1. \"Ako ay naíinitang mabúti.\" Which response does the book tick?",
+   "options": [
+    "Ako ay maglúlutò",
+    "Ako ay malíligò.",
+    "Ako ay mag-áaral."
+   ],
+   "answer": "Ako ay malíligò.",
+   "explain": "The book's answer is b."
+  },
+  {
+   "type": "choice",
+   "q": "Part II E 2. \"Ang anák nilá ay payát na payát.\" Which response does the book tick?",
+   "options": [
+    "Siya ay dapat uminóm ng gamut sa ubó.",
+    "Siya ay dapat malungkót.",
+    "Siya ay dapat kumain nang marámi."
+   ],
+   "answer": "Siya ay dapat kumain nang marámi.",
+   "explain": "The book's answer is c. Payát na payát: very thin (payát = thin, Lesson 7)."
+  },
+  {
+   "type": "choice",
+   "q": "Part II E 3. \"Ang klase ay maíngay.\" Which response does the book tick?",
+   "options": [
+    "Paalisín ang mga batà.",
+    "Pagalítan ang mga batà.",
+    "Bigyán ng maráming gáwain."
+   ],
+   "answer": "Bigyán ng maráming gáwain.",
+   "explain": "The book's answer is c. Maíngay = noisy (Lesson 7)."
+  },
+  {
+   "type": "choice",
+   "q": "Part II E 4. \"Ang gurò ay marunong at mabait.\" Which response does the book tick?",
+   "options": [
+    "Siya'y kinayáyamután.",
+    "Siya'y kinatútuwaán.",
+    "Siya'y dapat tulúngan."
+   ],
+   "answer": "Siya'y kinatútuwaán.",
+   "explain": "The book's answer is b."
+  },
+  {
+   "type": "choice",
+   "q": "Part II E 5. \"Ako ay nasa Pilipinas\" Which response does the book tick?",
+   "options": [
+    "Dapat akong magsalitâ ng Ingles.",
+    "Dapat kong matúlog sa hapon.",
+    "Dapat akong mag-áral ng Tagalog."
+   ],
+   "answer": "Dapat akong mag-áral ng Tagalog.",
+   "explain": "The book's answer is c."
+  }
+ ],
+ "recap": [
+  "Part I C: passive = -in- verb + doer (ng / ko) + subject (ang): Binili ko ang sapátos sa Makati.",
+  "Part I D: Ang mga álon ay malalakí. Malakás ang hángin. Nagíng tahímik kaagád.",
+  "Part II B: the thing owned comes first: ang bálak ni John, ang súlat ng amá.",
+  "Possessive pronouns before a noun take a ligature: ang áking ina, ang inyóng trabáho.",
+  "Open tasks (Part I A and B, Part II A, C and D) have no single answer in the book."
+ ]
+}
