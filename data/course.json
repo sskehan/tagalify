@@ -1,6 +1,6 @@
 {
  "app": "Tagalify",
- "version": "1.11",
+ "version": "1.13",
  "units": [
   {
    "id": "start",
@@ -124,6 +124,19 @@
     "l42",
     "l43",
     "l44"
+   ]
+  },
+  {
+   "id": "appendices",
+   "title": "Appendices: food, idioms and conversation",
+   "lessons": [
+    "a01",
+    "a02",
+    "a03",
+    "a04",
+    "a05",
+    "a06",
+    "a07"
    ]
   }
  ],
@@ -587,6 +600,76 @@
    "file": "data/lessons/l44.json",
    "words": 52,
    "exercises": 28
+  },
+  {
+   "id": "a01",
+   "label": "A1",
+   "title": "Foods",
+   "summary": "Market words for food: vegetables (talóng, kamátis, sibúyas…), fish and shellfish (bangús, sugpô, alamáng), noodles (bíhon, cantón), meats (karné ng baka, karné ng baboy), poultry (manók, itlóg) and spices (patís, toyò, sukà)",
+   "minutes": 35,
+   "file": "data/lessons/a01.json",
+   "words": 145,
+   "exercises": 24
+  },
+  {
+   "id": "a02",
+   "label": "A2",
+   "title": "Cooking terms",
+   "summary": "Twenty kitchen verbs with the book's example sentences (ihurnó, batihín, pakuluín, pritúhin, igisá…) and the popular Filipino dishes: adóbo, sinigáng, lechón, lumpiá, hálo-halò and more",
+   "minutes": 35,
+   "file": "data/lessons/a02.json",
+   "words": 73,
+   "exercises": 26
+  },
+  {
+   "id": "a03",
+   "label": "A3",
+   "title": "Tagalog idioms",
+   "summary": "Thirty everyday idioms with their literal and real meanings and the book's example sentences: bukás ang palád (generous), magsúnog ng kílay (study hard), mahabá ang dilá (gossiper), pagputî ng uwák (never), saling-pusà and more",
+   "minutes": 35,
+   "file": "data/lessons/a03.json",
+   "words": 31,
+   "exercises": 25
+  },
+  {
+   "id": "a04",
+   "label": "A4",
+   "title": "Everyday Tagalog expressions",
+   "summary": "Ready-made phrases for directions, children, time, speaking Tagalog, introductions, dressing up, parties, goodbyes, the market, kitchen, dining room and living room",
+   "minutes": 35,
+   "file": "data/lessons/a04.json",
+   "words": 129,
+   "exercises": 27
+  },
+  {
+   "id": "a05",
+   "label": "A5",
+   "title": "Conversations: meeting people, directions, the bank, a meeting, the market",
+   "summary": "Five real-life conversations with the book's translations: welcoming a visitor and making introductions, asking directions, changing money at a bank, running a club meeting, and shopping at the market and supermarket",
+   "minutes": 35,
+   "file": "data/lessons/a05.json",
+   "words": 37,
+   "exercises": 24
+  },
+  {
+   "id": "a06",
+   "label": "A6",
+   "title": "Conversations: the mall, mealtime, visiting the sick, school, a vacation",
+   "summary": "Five more conversations with the book's translations: a family day at the mall, breakfast, lunch and supper at home, visiting a sick friend, the first day back at school, and a family beach trip",
+   "minutes": 35,
+   "file": "data/lessons/a06.json",
+   "words": 27,
+   "exercises": 23
+  },
+  {
+   "id": "a07",
+   "label": "A7",
+   "title": "Book vocabulary list: more words",
+   "summary": "The 493 words in the book's Tagalog–English Vocabulary List (pages 208 to 213) that are not taught in any lesson, as flashcards",
+   "minutes": 60,
+   "file": "data/lessons/a07.json",
+   "words": 493,
+   "exercises": 24
   }
  ]
 }
