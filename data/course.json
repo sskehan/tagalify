@@ -1,6 +1,6 @@
 {
  "app": "Tagalify",
- "version": "1.14",
+ "version": "2.00",
  "units": [
   {
    "id": "start",
@@ -209,7 +209,7 @@
    "minutes": 30,
    "file": "data/lessons/l04.json",
    "words": 45,
-   "exercises": 27
+   "exercises": 26
   },
   {
    "id": "l05",
