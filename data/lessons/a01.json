@@ -1,0 +1,1794 @@
+{
+ "id": "a01",
+ "label": "A1",
+ "title": "Foods",
+ "summary": "Market words for food: vegetables (talóng, kamátis, sibúyas…), fish and shellfish (bangús, sugpô, alamáng), noodles (bíhon, cantón), meats (karné ng baka, karné ng baboy), poultry (manók, itlóg) and spices (patís, toyò, sukà)",
+ "minutes": 35,
+ "goals": [
+  "Ask for vegetables in a wet market by their Tagalog names",
+  "Name common fish, shellfish and noodles",
+  "Name the main meats and poultry, including eggs",
+  "Recognise the spices and condiments of a Filipino kitchen",
+  "Spot the ng pattern in names such as karné ng baka and itlóg ng pugò"
+ ],
+ "sections": [
+  {
+   "title": "Shopping in a wet market",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Supermarkets in the Philippines usually label their products in English, but the **wet markets** are cheaper and have a wider variety, and there is also the experience of **haggling** over prices. The catch: many market vendors do not know the English names for what they sell."
+    },
+    {
+     "type": "p",
+     "t": "This appendix gives you the Tagalog names of everyday food items, sorted the way a market is: vegetables, fish and shellfish, noodles, meats, poultry, and spices and condiments."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Some English names work",
+     "t": "A number of food items are simply known by their **English names**, for example carrot, cauliflower, greenshells and yellow fin tuna."
+    },
+    {
+     "type": "box",
+     "kind": "culture",
+     "title": "Accents in this list",
+     "t": "The list prints accent marks to show stress. A few words appear twice with different marks (for example **bawang** and **báwang** for garlic). Each word below is shown the way the list prints it, with a note where the book prints another form."
+    }
+   ]
+  },
+  {
+   "title": "Vegetables (1)",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The first half of the vegetable list, from bamboo shoots to long beans."
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Already learned",
+     "t": "**Cashew nut = kasúy** is also on this list; you met kasúy in Lesson 1."
+    },
+    {
+     "type": "vocab",
+     "group": "veg1",
+     "title": "Vegetables: bamboo shoots to long beans"
+    }
+   ]
+  },
+  {
+   "title": "Vegetables (2)",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The second half of the vegetable list, from Malabar spinach to yellow squash."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Words built from other words",
+     "items": [
+      "**pusó ng ságing** (banana heart) uses **ng**, the of-marker from Lesson 16.",
+      "**kamóteng káhoy** (cassava) is **kamóte** (sweet potato) + the ligature **-ng** + **káhoy**.",
+      "Onions: **sibúyas** (onion), **sibúyas Tagalog** (native onions), and **sibúyas na múra** or **sibúyas dáhon** (spring onions/shallots)."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "veg2",
+     "title": "Vegetables: Malabar spinach to yellow squash"
+    }
+   ]
+  },
+  {
+   "title": "Fish and shellfish",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Fish, shrimps, crabs and shellfish. Note that the two kinds of catfish have different names: **hitò** (freshwater) and **kandulì** (saltwater)."
+    },
+    {
+     "type": "table",
+     "head": [
+      "English",
+      "Tagalog"
+     ],
+     "rows": [
+      [
+       "Small shrimps",
+       "[[alamáng|noun]]"
+      ],
+      [
+       "Dried shrimp",
+       "[[híbi|noun]]"
+      ],
+      [
+       "River shrimps",
+       "[[uláng|noun]]"
+      ],
+      [
+       "Prawn",
+       "[[sugpô|noun]]"
+      ],
+      [
+       "Crab",
+       "[[alimasag|noun]]"
+      ],
+      [
+       "Mud crab",
+       "[[alimángo|noun]]"
+      ]
+     ],
+     "title": "Shrimps, prawns and crabs"
+    },
+    {
+     "type": "vocab",
+     "group": "fish1",
+     "title": "Fish and shellfish: anchovy to milkfish"
+    },
+    {
+     "type": "vocab",
+     "group": "fish2",
+     "title": "Fish and shellfish: mud crab to tilapia"
+    }
+   ]
+  },
+  {
+   "title": "Noodles",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Noodle dishes are everywhere in the Philippines. These are the names of the noodles themselves."
+    },
+    {
+     "type": "vocab",
+     "group": "noodles",
+     "title": "Noodles"
+    }
+   ]
+  },
+  {
+   "title": "Meats",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Karné** means meat. Several meats are named with **karné ng** + the animal, using the of-marker **ng** (Lesson 16):"
+    },
+    {
+     "type": "pattern",
+     "title": "karné + ng + animal",
+     "rows": [
+      {
+       "label": "beef",
+       "chips": [
+        {
+         "t": "karné",
+         "r": "noun"
+        },
+        {
+         "t": "ng",
+         "r": "marker"
+        },
+        {
+         "t": "baka",
+         "r": "noun"
+        }
+       ]
+      },
+      {
+       "label": "pork",
+       "chips": [
+        {
+         "t": "karné",
+         "r": "noun"
+        },
+        {
+         "t": "ng",
+         "r": "marker"
+        },
+        {
+         "t": "baboy",
+         "r": "noun"
+        }
+       ]
+      }
+     ],
+     "note": "Ground meat: giníling na karné ng baka = ground beef; giníling na karné ng baboy = ground pork."
+    },
+    {
+     "type": "vocab",
+     "group": "meat",
+     "title": "Meats"
+    }
+   ]
+  },
+  {
+   "title": "Poultry and eggs",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Itlóg** is egg. The parts of an egg and the eggs of other birds are again made with **ng**:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "English",
+      "Tagalog"
+     ],
+     "rows": [
+      [
+       "Eggwhite",
+       "[[putî|noun]] [[ng|marker]] [[itlóg|noun]]"
+      ],
+      [
+       "Egg yolk",
+       "[[púla|noun]] [[ng|marker]] [[itlóg|noun]]"
+      ],
+      [
+       "Quail egg",
+       "[[itlóg|noun]] [[ng|marker]] [[pugò|noun]]"
+      ]
+     ],
+     "title": "Egg words"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Colours inside food words",
+     "t": "**Putî** is white and **pulá** is red (Lesson 44). The book prints the egg yolk as **púla ng itlóg**, with the accent on the first syllable."
+    },
+    {
+     "type": "p",
+     "t": "**Chicken = manók** heads the poultry list; you met manók in Lesson 15."
+    },
+    {
+     "type": "vocab",
+     "group": "poultry",
+     "title": "Poultry"
+    }
+   ]
+  },
+  {
+   "title": "Spices and condiments",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "The flavours of the Filipino kitchen: fish sauce, soy sauce, vinegar, garlic and more."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Colour words again",
+     "t": "Green or red pepper is **síling bérde** or **síling pulá**: **síli** (chili) + **-ng** + the colour (bérde = green, pulá = red, Lesson 44). Turmeric, **lúyang diláw**, also contains a colour: **diláw** (yellow)."
+    },
+    {
+     "type": "vocab",
+     "group": "spice1",
+     "title": "Spices and condiments: anise wine to green or red pepper"
+    },
+    {
+     "type": "vocab",
+     "group": "spice2",
+     "title": "Spices and condiments: lemongrass to vinegar"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "Wet markets are cheaper and more varied, but vendors may only know the Tagalog names.",
+      "Some foods keep their English names: carrot, cauliflower, greenshells, yellow fin tuna.",
+      "karné = meat; karné ng baka = beef; karné ng baboy = pork.",
+      "itlóg = egg; putî ng itlóg = eggwhite; púla ng itlóg = egg yolk.",
+      "The big three condiments: patís (fish sauce), toyò (soy sauce), sukà (vinegar)."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "labong-a01",
+   "tl": "labóng",
+   "en": "bamboo shoots",
+   "pos": "noun",
+   "group": "veg1",
+   "say": "la-BONG"
+  },
+  {
+   "id": "puso-ng-saging-a01",
+   "tl": "pusó ng ságing",
+   "en": "banana heart",
+   "pos": "phrase",
+   "group": "veg1",
+   "say": "pu-SO ng SA-ging"
+  },
+  {
+   "id": "toge-a01",
+   "tl": "tóge",
+   "en": "bean sprouts",
+   "pos": "noun",
+   "group": "veg1",
+   "say": "TO-ge"
+  },
+  {
+   "id": "remolatsa-a01",
+   "tl": "remolátsa",
+   "en": "beets",
+   "pos": "noun",
+   "group": "veg1",
+   "say": "re-mo-LAT-sa"
+  },
+  {
+   "id": "ampalaya-a01",
+   "tl": "ampalayá",
+   "en": "bitter melon",
+   "pos": "noun",
+   "group": "veg1",
+   "say": "am-pa-la-YA"
+  },
+  {
+   "id": "upo-a01",
+   "tl": "úpo",
+   "en": "bottle gourd",
+   "pos": "noun",
+   "group": "veg1",
+   "say": "U-po"
+  },
+  {
+   "id": "repolyo-a01",
+   "tl": "repolyo",
+   "en": "cabbage",
+   "pos": "noun",
+   "group": "veg1"
+  },
+  {
+   "id": "kamoteng-kahoy-a01",
+   "tl": "kamóteng káhoy",
+   "en": "cassava",
+   "pos": "phrase",
+   "group": "veg1",
+   "say": "ka-MO-teng KA-hoy"
+  },
+  {
+   "id": "sayote-a01",
+   "tl": "sayóte",
+   "en": "chayote",
+   "pos": "noun",
+   "group": "veg1",
+   "say": "sa-YO-te"
+  },
+  {
+   "id": "sili-a01",
+   "tl": "síli",
+   "en": "chili",
+   "pos": "noun",
+   "group": "veg1",
+   "say": "SI-li"
+  },
+  {
+   "id": "petsay-a01",
+   "tl": "petsáy",
+   "en": "Chinese bok choi",
+   "pos": "noun",
+   "group": "veg1",
+   "say": "pet-SAY",
+   "note": "The dishes section of Cooking terms writes pechay (or bok choi)."
+  },
+  {
+   "id": "kintsay-a01",
+   "tl": "kintsáy",
+   "en": "Chinese celery",
+   "pos": "noun",
+   "group": "veg1",
+   "say": "kin-TSAY"
+  },
+  {
+   "id": "ubod-a01",
+   "tl": "úbod",
+   "en": "coconut heart",
+   "pos": "noun",
+   "group": "veg1",
+   "say": "U-bod"
+  },
+  {
+   "id": "wansoy-a01",
+   "tl": "wansóy",
+   "en": "coriander leaves",
+   "pos": "noun",
+   "group": "veg1",
+   "say": "wan-SOY"
+  },
+  {
+   "id": "mais-a01",
+   "tl": "maís",
+   "en": "corn",
+   "pos": "noun",
+   "group": "veg1",
+   "say": "ma-IS"
+  },
+  {
+   "id": "pipino-a01",
+   "tl": "pipíno",
+   "en": "cucumber",
+   "pos": "noun",
+   "group": "veg1",
+   "say": "pi-PI-no"
+  },
+  {
+   "id": "labanos-a01",
+   "tl": "labanós",
+   "en": "daikon radish",
+   "pos": "noun",
+   "group": "veg1",
+   "say": "la-ba-NOS"
+  },
+  {
+   "id": "talong-a01",
+   "tl": "talóng",
+   "en": "eggplant",
+   "pos": "noun",
+   "group": "veg1",
+   "say": "ta-LONG"
+  },
+  {
+   "id": "garbanzos-a01",
+   "tl": "garbánzos",
+   "en": "garbanzo beans",
+   "pos": "noun",
+   "group": "veg1",
+   "say": "gar-BAN-zos"
+  },
+  {
+   "id": "bawang-a01",
+   "tl": "bawang",
+   "en": "garlic",
+   "pos": "noun",
+   "group": "veg1",
+   "note": "The spices list prints báwang."
+  },
+  {
+   "id": "malunggay-a01",
+   "tl": "malunggáy",
+   "en": "horseradish",
+   "pos": "noun",
+   "group": "veg1",
+   "say": "ma-lung-GAY"
+  },
+  {
+   "id": "bataw-a01",
+   "tl": "bátaw",
+   "en": "hyacinth beans",
+   "pos": "noun",
+   "group": "veg1",
+   "say": "BA-taw"
+  },
+  {
+   "id": "kutsay-a01",
+   "tl": "kutsáy",
+   "en": "leeks or chives",
+   "pos": "noun",
+   "group": "veg1",
+   "say": "kut-SAY"
+  },
+  {
+   "id": "letsugas-a01",
+   "tl": "letsúgas",
+   "en": "lettuce",
+   "pos": "noun",
+   "group": "veg1",
+   "say": "let-SU-gas"
+  },
+  {
+   "id": "dayap-a01",
+   "tl": "dáyap",
+   "en": "lime",
+   "pos": "noun",
+   "group": "veg1",
+   "say": "DA-yap"
+  },
+  {
+   "id": "sitaw-a01",
+   "tl": "sítaw",
+   "en": "long beans",
+   "pos": "noun",
+   "group": "veg1",
+   "say": "SI-taw"
+  },
+  {
+   "id": "alugbati-a01",
+   "tl": "alugbáti",
+   "en": "Malabar nightshade or Malabar spinach",
+   "pos": "noun",
+   "group": "veg2",
+   "say": "a-lug-BA-ti"
+  },
+  {
+   "id": "mongo-a01",
+   "tl": "mongó",
+   "en": "mung bean",
+   "pos": "noun",
+   "group": "veg2",
+   "say": "mo-NGO"
+  },
+  {
+   "id": "kabute-a01",
+   "tl": "kabutè",
+   "en": "mushroom",
+   "pos": "noun",
+   "group": "veg2",
+   "say": "ka-BU-teQ"
+  },
+  {
+   "id": "mustasa-a01",
+   "tl": "mustása",
+   "en": "mustard",
+   "pos": "noun",
+   "group": "veg2",
+   "say": "mus-TA-sa",
+   "note": "The spices list prints mustasa in pulbós ng mustasa (dry mustard)."
+  },
+  {
+   "id": "sibuyas-tagalog-a01",
+   "tl": "sibúyas Tagalog",
+   "en": "native onions",
+   "pos": "phrase",
+   "group": "veg2",
+   "say": "si-BU-yas ta-ga-log"
+  },
+  {
+   "id": "sibuyas-a01",
+   "tl": "sibúyas",
+   "en": "onion",
+   "pos": "noun",
+   "group": "veg2",
+   "say": "si-BU-yas"
+  },
+  {
+   "id": "mani-a01",
+   "tl": "maní",
+   "en": "peanuts",
+   "pos": "noun",
+   "group": "veg2",
+   "say": "ma-NI"
+  },
+  {
+   "id": "patatas-a01",
+   "tl": "patátas",
+   "en": "potato",
+   "pos": "noun",
+   "group": "veg2",
+   "say": "pa-TA-tas"
+  },
+  {
+   "id": "ube-a01",
+   "tl": "úbe",
+   "en": "red yam",
+   "pos": "noun",
+   "group": "veg2",
+   "say": "U-be",
+   "note": "Lesson 44 lists ube = violet (the colour)."
+  },
+  {
+   "id": "sitsaro-a01",
+   "tl": "sítsaro",
+   "en": "snowpeas",
+   "pos": "noun",
+   "group": "veg2",
+   "say": "SIT-sa-ro"
+  },
+  {
+   "id": "utaw-a01",
+   "tl": "útaw",
+   "en": "soybeans",
+   "pos": "noun",
+   "group": "veg2",
+   "say": "U-taw"
+  },
+  {
+   "id": "kulitis-a01",
+   "tl": "kulítis",
+   "en": "spinach",
+   "pos": "noun",
+   "group": "veg2",
+   "say": "ku-LI-tis"
+  },
+  {
+   "id": "patola-a01",
+   "tl": "patóla",
+   "en": "sponge gourd",
+   "pos": "noun",
+   "group": "veg2",
+   "say": "pa-TO-la"
+  },
+  {
+   "id": "sibuyas-na-mura-a01",
+   "tl": "sibúyas na múra",
+   "en": "spring onions/shallots",
+   "pos": "phrase",
+   "group": "veg2",
+   "say": "si-BU-yas na MU-ra"
+  },
+  {
+   "id": "sibuyas-dahon-a01",
+   "tl": "sibúyas dáhon",
+   "en": "spring onions/shallots",
+   "pos": "phrase",
+   "group": "veg2",
+   "say": "si-BU-yas DA-hon"
+  },
+  {
+   "id": "abitswelas-a01",
+   "tl": "abitswélas",
+   "en": "string beans",
+   "pos": "noun",
+   "group": "veg2",
+   "say": "a-bits-WE-las"
+  },
+  {
+   "id": "kamote-a01",
+   "tl": "kamóte",
+   "en": "sweet potato",
+   "pos": "noun",
+   "group": "veg2",
+   "say": "ka-MO-te"
+  },
+  {
+   "id": "kamatis-a01",
+   "tl": "kamátis",
+   "en": "tomato",
+   "pos": "noun",
+   "group": "veg2",
+   "say": "ka-MA-tis"
+  },
+  {
+   "id": "singkamas-a01",
+   "tl": "síngkamas",
+   "en": "turnip or jicama",
+   "pos": "noun",
+   "group": "veg2",
+   "say": "SING-ka-mas"
+  },
+  {
+   "id": "apulid-a01",
+   "tl": "apúlid",
+   "en": "water chestnut",
+   "pos": "noun",
+   "group": "veg2",
+   "say": "a-PU-lid"
+  },
+  {
+   "id": "kangkong-a01",
+   "tl": "kangkóng",
+   "en": "water spinach",
+   "pos": "noun",
+   "group": "veg2",
+   "say": "kang-KONG",
+   "note": "The dishes section of Cooking terms writes kangkong."
+  },
+  {
+   "id": "kundol-a01",
+   "tl": "kundól",
+   "en": "wax gourd",
+   "pos": "noun",
+   "group": "veg2",
+   "say": "kun-DOL"
+  },
+  {
+   "id": "sigarilyas-a01",
+   "tl": "sigarílyas",
+   "en": "winged beans",
+   "pos": "noun",
+   "group": "veg2",
+   "say": "si-ga-RIL-yas"
+  },
+  {
+   "id": "kalabasa-a01",
+   "tl": "kalabása",
+   "en": "yellow squash",
+   "pos": "noun",
+   "group": "veg2",
+   "say": "ka-la-BA-sa"
+  },
+  {
+   "id": "dilis-a01",
+   "tl": "dílis",
+   "en": "anchovy",
+   "pos": "noun",
+   "group": "fish1",
+   "say": "DI-lis"
+  },
+  {
+   "id": "labahita-a01",
+   "tl": "labahíta",
+   "en": "blue sturgeon",
+   "pos": "noun",
+   "group": "fish1",
+   "say": "la-ba-HI-ta"
+  },
+  {
+   "id": "hito-a01",
+   "tl": "hitò",
+   "en": "catfish (freshwater)",
+   "pos": "noun",
+   "group": "fish1",
+   "say": "HI-toQ"
+  },
+  {
+   "id": "kanduli-a01",
+   "tl": "kandulì",
+   "en": "catfish (saltwater)",
+   "pos": "noun",
+   "group": "fish1",
+   "say": "kan-DU-liQ"
+  },
+  {
+   "id": "talakitok-a01",
+   "tl": "talakítok",
+   "en": "cavalla",
+   "pos": "noun",
+   "group": "fish1",
+   "say": "ta-la-KI-tok"
+  },
+  {
+   "id": "halaan-a01",
+   "tl": "haláan",
+   "en": "clam",
+   "pos": "noun",
+   "group": "fish1",
+   "say": "ha-LA-an"
+  },
+  {
+   "id": "alimasag-a01",
+   "tl": "alimasag",
+   "en": "crab",
+   "pos": "noun",
+   "group": "fish1"
+  },
+  {
+   "id": "hibi-a01",
+   "tl": "híbi",
+   "en": "dried shrimp",
+   "pos": "noun",
+   "group": "fish1",
+   "say": "HI-bi"
+  },
+  {
+   "id": "biya-a01",
+   "tl": "biyá",
+   "en": "goby",
+   "pos": "noun",
+   "group": "fish1",
+   "say": "bi-YA"
+  },
+  {
+   "id": "dalagang-bukid-a01",
+   "tl": "dalagang búkid",
+   "en": "golden caesio (or yellow tail fusilier)",
+   "pos": "phrase",
+   "group": "fish1",
+   "say": "da-la-gang BU-kid"
+  },
+  {
+   "id": "lapu-lapu-a01",
+   "tl": "lápu-lápu",
+   "en": "grouper",
+   "pos": "noun",
+   "group": "fish1",
+   "say": "LA-pu LA-pu"
+  },
+  {
+   "id": "tamban-a01",
+   "tl": "tambán",
+   "en": "herring",
+   "pos": "noun",
+   "group": "fish1",
+   "say": "tam-BAN"
+  },
+  {
+   "id": "banagan-a01",
+   "tl": "banagán",
+   "en": "lobster",
+   "pos": "noun",
+   "group": "fish1",
+   "say": "ba-na-GAN"
+  },
+  {
+   "id": "hasa-hasa-a01",
+   "tl": "hása-hása",
+   "en": "mackerel",
+   "pos": "noun",
+   "group": "fish1",
+   "say": "HA-sa HA-sa"
+  },
+  {
+   "id": "bangus-a01",
+   "tl": "bangús",
+   "en": "milkfish",
+   "pos": "noun",
+   "group": "fish1",
+   "say": "ba-NGUS"
+  },
+  {
+   "id": "alimango-a01",
+   "tl": "alimángo",
+   "en": "mud crab",
+   "pos": "noun",
+   "group": "fish2",
+   "say": "a-li-MA-ngo"
+  },
+  {
+   "id": "dalag-a01",
+   "tl": "dalág",
+   "en": "mud fish",
+   "pos": "noun",
+   "group": "fish2",
+   "say": "da-LAG"
+  },
+  {
+   "id": "banak-a01",
+   "tl": "bának",
+   "en": "mullet",
+   "pos": "noun",
+   "group": "fish2",
+   "say": "BA-nak"
+  },
+  {
+   "id": "tahong-a01",
+   "tl": "tahóng",
+   "en": "mussel",
+   "pos": "noun",
+   "group": "fish2",
+   "say": "ta-HONG"
+  },
+  {
+   "id": "talaba-a01",
+   "tl": "talabá",
+   "en": "oyster",
+   "pos": "noun",
+   "group": "fish2",
+   "say": "ta-la-BA"
+  },
+  {
+   "id": "pompano-a01",
+   "tl": "pompáno",
+   "en": "pompano",
+   "pos": "noun",
+   "group": "fish2",
+   "say": "pom-PA-no",
+   "note": "The book also gives maratíni."
+  },
+  {
+   "id": "maratini-a01",
+   "tl": "maratíni",
+   "en": "pompano",
+   "pos": "noun",
+   "group": "fish2",
+   "say": "ma-ra-TI-ni",
+   "note": "The book also gives pompáno."
+  },
+  {
+   "id": "sugpo-a01",
+   "tl": "sugpô",
+   "en": "prawn",
+   "pos": "noun",
+   "group": "fish2",
+   "say": "sug-poQ"
+  },
+  {
+   "id": "maya-maya-a01",
+   "tl": "máya-máya",
+   "en": "red snapper",
+   "pos": "noun",
+   "group": "fish2",
+   "say": "MA-ya MA-ya"
+  },
+  {
+   "id": "ulang-a01",
+   "tl": "uláng",
+   "en": "river shrimps",
+   "pos": "noun",
+   "group": "fish2",
+   "say": "u-LANG"
+  },
+  {
+   "id": "bacalao-a01",
+   "tl": "bacaláo",
+   "en": "salt cod (dried)",
+   "pos": "noun",
+   "group": "fish2",
+   "say": "ba-ca-LA-o"
+  },
+  {
+   "id": "apahap-a01",
+   "tl": "apáhap",
+   "en": "seabass",
+   "pos": "noun",
+   "group": "fish2",
+   "say": "a-PA-hap"
+  },
+  {
+   "id": "alamang-a01",
+   "tl": "alamáng",
+   "en": "small shrimps",
+   "pos": "noun",
+   "group": "fish2",
+   "say": "a-la-MANG"
+  },
+  {
+   "id": "kuhol-a01",
+   "tl": "kuhól",
+   "en": "snail",
+   "pos": "noun",
+   "group": "fish2",
+   "say": "ku-HOL"
+  },
+  {
+   "id": "dapa-a01",
+   "tl": "dapâ",
+   "en": "sole",
+   "pos": "noun",
+   "group": "fish2",
+   "say": "da-paQ"
+  },
+  {
+   "id": "tanigue-a01",
+   "tl": "tanigue",
+   "en": "Spanish mackerel",
+   "pos": "noun",
+   "group": "fish2"
+  },
+  {
+   "id": "pusit-a01",
+   "tl": "pusít",
+   "en": "squid",
+   "pos": "noun",
+   "group": "fish2",
+   "say": "pu-SIT"
+  },
+  {
+   "id": "alumahan-a01",
+   "tl": "alumáhan",
+   "en": "striped mackerel",
+   "pos": "noun",
+   "group": "fish2",
+   "say": "a-lu-MA-han"
+  },
+  {
+   "id": "tilapia-a01",
+   "tl": "tilápia",
+   "en": "tilapia",
+   "pos": "noun",
+   "group": "fish2",
+   "say": "ti-LA-pi-a"
+  },
+  {
+   "id": "miswa-a01",
+   "tl": "míswa",
+   "en": "fine wheat noodles",
+   "pos": "noun",
+   "group": "noodles",
+   "say": "MIS-wa"
+  },
+  {
+   "id": "sotanghon-a01",
+   "tl": "sotánghon",
+   "en": "glass or cellophane noodles",
+   "pos": "noun",
+   "group": "noodles",
+   "say": "so-TANG-hon"
+  },
+  {
+   "id": "bihon-a01",
+   "tl": "bíhon",
+   "en": "rice vermicelli",
+   "pos": "noun",
+   "group": "noodles",
+   "say": "BI-hon"
+  },
+  {
+   "id": "miki-a01",
+   "tl": "míki",
+   "en": "wheat noodles with egg",
+   "pos": "noun",
+   "group": "noodles",
+   "say": "MI-ki"
+  },
+  {
+   "id": "canton-a01",
+   "tl": "cantón",
+   "en": "yellow egg noodles",
+   "pos": "noun",
+   "group": "noodles",
+   "say": "can-TON"
+  },
+  {
+   "id": "karne-ng-baka-a01",
+   "tl": "karné ng baka",
+   "en": "beef",
+   "pos": "phrase",
+   "group": "meat",
+   "say": "kar-NE ng ba-ka"
+  },
+  {
+   "id": "biyas-ng-baka-a01",
+   "tl": "biyás ng baka",
+   "en": "beef shank",
+   "pos": "phrase",
+   "group": "meat",
+   "say": "bi-YAS ng ba-ka"
+  },
+  {
+   "id": "punta-y-pecho-a01",
+   "tl": "punta y pecho",
+   "en": "brisket",
+   "pos": "phrase",
+   "group": "meat"
+  },
+  {
+   "id": "usa-a01",
+   "tl": "usá",
+   "en": "deer",
+   "pos": "noun",
+   "group": "meat",
+   "say": "u-SA"
+  },
+  {
+   "id": "balun-balunan-a01",
+   "tl": "balún-balúnan",
+   "en": "gizzard",
+   "pos": "noun",
+   "group": "meat",
+   "say": "ba-LUN ba-LU-nan"
+  },
+  {
+   "id": "kambing-a01",
+   "tl": "kambíng",
+   "en": "goat or lamb",
+   "pos": "noun",
+   "group": "meat",
+   "say": "kam-BING"
+  },
+  {
+   "id": "giniling-na-karne-ng-baka-a01",
+   "tl": "giníling na karné ng baka",
+   "en": "ground beef",
+   "pos": "phrase",
+   "group": "meat",
+   "say": "gi-NI-ling na kar-NE ng ba-ka"
+  },
+  {
+   "id": "giniling-na-karne-ng-baboy-a01",
+   "tl": "giníling na karné ng baboy",
+   "en": "ground pork",
+   "pos": "phrase",
+   "group": "meat",
+   "say": "gi-NI-ling na kar-NE ng ba-boy"
+  },
+  {
+   "id": "hamon-a01",
+   "tl": "hamón",
+   "en": "ham",
+   "pos": "noun",
+   "group": "meat",
+   "say": "ha-MON",
+   "note": "The book also gives pigî."
+  },
+  {
+   "id": "pigi-a01",
+   "tl": "pigî",
+   "en": "ham",
+   "pos": "noun",
+   "group": "meat",
+   "say": "pi-giQ",
+   "note": "The book also gives hamón."
+  },
+  {
+   "id": "atay-a01",
+   "tl": "atáy",
+   "en": "liver",
+   "pos": "noun",
+   "group": "meat",
+   "say": "a-TAY"
+  },
+  {
+   "id": "karne-a01",
+   "tl": "karné",
+   "en": "meat",
+   "pos": "noun",
+   "group": "meat",
+   "say": "kar-NE"
+  },
+  {
+   "id": "dila-a01",
+   "tl": "díla",
+   "en": "ox tongue",
+   "pos": "noun",
+   "group": "meat",
+   "say": "DI-la",
+   "note": "The book also gives lengua."
+  },
+  {
+   "id": "lengua-a01",
+   "tl": "lengua",
+   "en": "ox tongue",
+   "pos": "noun",
+   "group": "meat",
+   "note": "The book also gives díla."
+  },
+  {
+   "id": "karne-ng-baboy-a01",
+   "tl": "karné ng baboy",
+   "en": "pork",
+   "pos": "phrase",
+   "group": "meat",
+   "say": "kar-NE ng ba-boy"
+  },
+  {
+   "id": "liyempo-a01",
+   "tl": "liyémpo",
+   "en": "pork belly",
+   "pos": "noun",
+   "group": "meat",
+   "say": "li-YEM-po",
+   "note": "Cooking terms prints liémpo."
+  },
+  {
+   "id": "kuneho-a01",
+   "tl": "kuného",
+   "en": "rabbit",
+   "pos": "noun",
+   "group": "meat",
+   "say": "ku-NE-ho"
+  },
+  {
+   "id": "tupa-a01",
+   "tl": "túpa",
+   "en": "sheep",
+   "pos": "noun",
+   "group": "meat",
+   "say": "TU-pa"
+  },
+  {
+   "id": "tadyang-a01",
+   "tl": "tadyáng",
+   "en": "spare ribs",
+   "pos": "noun",
+   "group": "meat",
+   "say": "tad-YANG"
+  },
+  {
+   "id": "kalabaw-a01",
+   "tl": "kalabáw",
+   "en": "water buffalo or carabao",
+   "pos": "noun",
+   "group": "meat",
+   "say": "ka-la-BAW"
+  },
+  {
+   "id": "baboyramo-a01",
+   "tl": "báboyramó",
+   "en": "wild boar",
+   "pos": "noun",
+   "group": "meat",
+   "say": "BA-boy-ra-MO"
+  },
+  {
+   "id": "pato-a01",
+   "tl": "pato",
+   "en": "duck",
+   "pos": "noun",
+   "group": "poultry"
+  },
+  {
+   "id": "itlog-a01",
+   "tl": "itlóg",
+   "en": "egg",
+   "pos": "noun",
+   "group": "poultry",
+   "say": "it-LOG"
+  },
+  {
+   "id": "puti-ng-itlog-a01",
+   "tl": "putî ng itlóg",
+   "en": "eggwhite",
+   "pos": "phrase",
+   "group": "poultry",
+   "say": "pu-tiQ ng it-LOG"
+  },
+  {
+   "id": "pula-ng-itlog-a01",
+   "tl": "púla ng itlóg",
+   "en": "egg yolk",
+   "pos": "phrase",
+   "group": "poultry",
+   "say": "PU-la ng it-LOG"
+  },
+  {
+   "id": "pugo-a01",
+   "tl": "pugò",
+   "en": "quail",
+   "pos": "noun",
+   "group": "poultry",
+   "say": "PU-goQ"
+  },
+  {
+   "id": "itlog-ng-pugo-a01",
+   "tl": "itlóg ng pugò",
+   "en": "quail egg",
+   "pos": "phrase",
+   "group": "poultry",
+   "say": "it-LOG ng PU-goQ"
+  },
+  {
+   "id": "pabo-a01",
+   "tl": "pábo",
+   "en": "turkey",
+   "pos": "noun",
+   "group": "poultry",
+   "say": "PA-bo"
+  },
+  {
+   "id": "anisado-a01",
+   "tl": "anisádo",
+   "en": "anise wine",
+   "pos": "noun",
+   "group": "spice1",
+   "say": "a-ni-SA-do",
+   "note": "The book also gives anís."
+  },
+  {
+   "id": "anis-a01",
+   "tl": "anís",
+   "en": "anise wine",
+   "pos": "noun",
+   "group": "spice1",
+   "say": "a-NIS",
+   "note": "The book also gives anisádo."
+  },
+  {
+   "id": "atswete-a01",
+   "tl": "atswéte",
+   "en": "annatto seeds",
+   "pos": "noun",
+   "group": "spice1",
+   "say": "ats-WE-te"
+  },
+  {
+   "id": "laurel-a01",
+   "tl": "laurél",
+   "en": "bay leaf",
+   "pos": "noun",
+   "group": "spice1",
+   "say": "la-u-REL"
+  },
+  {
+   "id": "tenga-ng-daga-a01",
+   "tl": "ténga ng dagâ",
+   "en": "black wood ear mushrooms",
+   "pos": "phrase",
+   "group": "spice1",
+   "say": "TE-nga ng da-gaQ"
+  },
+  {
+   "id": "kanela-a01",
+   "tl": "kanéla",
+   "en": "cinnamon",
+   "pos": "noun",
+   "group": "spice1",
+   "say": "ka-NE-la"
+  },
+  {
+   "id": "clavio-de-comer-a01",
+   "tl": "clavio de comer",
+   "en": "clove",
+   "pos": "phrase",
+   "group": "spice1"
+  },
+  {
+   "id": "pulbos-ng-mustasa-a01",
+   "tl": "pulbós ng mustasa",
+   "en": "dry mustard",
+   "pos": "phrase",
+   "group": "spice1",
+   "say": "pul-BOS ng mus-ta-sa"
+  },
+  {
+   "id": "tausi-a01",
+   "tl": "taúsi",
+   "en": "fermented soybeans",
+   "pos": "noun",
+   "group": "spice1",
+   "say": "ta-U-si"
+  },
+  {
+   "id": "bagoong-isda-a01",
+   "tl": "bagoong isdâ",
+   "en": "fish paste",
+   "pos": "phrase",
+   "group": "spice1",
+   "say": "ba-go-ong is-daQ"
+  },
+  {
+   "id": "patis-a01",
+   "tl": "patís",
+   "en": "fish sauce",
+   "pos": "noun",
+   "group": "spice1",
+   "say": "pa-TIS"
+  },
+  {
+   "id": "siling-berde-a01",
+   "tl": "síling bérde",
+   "en": "green or red pepper",
+   "pos": "phrase",
+   "group": "spice1",
+   "say": "SI-ling BER-de",
+   "note": "The book also gives síling pulá. Bérde = green, pulá = red (Lesson 44)."
+  },
+  {
+   "id": "siling-pula-a01",
+   "tl": "síling pulá",
+   "en": "green or red pepper",
+   "pos": "phrase",
+   "group": "spice1",
+   "say": "SI-ling pu-LA",
+   "note": "The book also gives síling bérde. Bérde = green, pulá = red (Lesson 44)."
+  },
+  {
+   "id": "tanglad-a01",
+   "tl": "tánglad",
+   "en": "lemongrass",
+   "pos": "noun",
+   "group": "spice2",
+   "say": "TANG-lad"
+  },
+  {
+   "id": "lihiya-a01",
+   "tl": "líhiya",
+   "en": "lye",
+   "pos": "noun",
+   "group": "spice2",
+   "say": "LI-hi-ya"
+  },
+  {
+   "id": "vetsin-a01",
+   "tl": "vétsin",
+   "en": "monosodium glutamate",
+   "pos": "noun",
+   "group": "spice2",
+   "say": "VET-sin"
+  },
+  {
+   "id": "anis-maskado-a01",
+   "tl": "anís maskádo",
+   "en": "nutmeg",
+   "pos": "phrase",
+   "group": "spice2",
+   "say": "a-NIS mas-KA-do"
+  },
+  {
+   "id": "oregano-a01",
+   "tl": "orégano",
+   "en": "oregano",
+   "pos": "noun",
+   "group": "spice2",
+   "say": "o-RE-ga-no"
+  },
+  {
+   "id": "paminton-a01",
+   "tl": "pamintón",
+   "en": "paprika",
+   "pos": "noun",
+   "group": "spice2",
+   "say": "pa-min-TON"
+  },
+  {
+   "id": "paminta-a01",
+   "tl": "pamintá",
+   "en": "pepper",
+   "pos": "noun",
+   "group": "spice2",
+   "say": "pa-min-TA"
+  },
+  {
+   "id": "pamintang-buo-a01",
+   "tl": "pamintáng buô",
+   "en": "peppercorn",
+   "pos": "phrase",
+   "group": "spice2",
+   "say": "pa-min-TANG bu-oQ"
+  },
+  {
+   "id": "kasubha-a01",
+   "tl": "kasubhâ",
+   "en": "saffron",
+   "pos": "noun",
+   "group": "spice2",
+   "say": "ka-sub-haQ"
+  },
+  {
+   "id": "salitre-a01",
+   "tl": "salítre",
+   "en": "saltpeter",
+   "pos": "noun",
+   "group": "spice2",
+   "say": "sa-LI-tre"
+  },
+  {
+   "id": "linga-a01",
+   "tl": "lingá",
+   "en": "sesame seeds",
+   "pos": "noun",
+   "group": "spice2",
+   "say": "li-NGA"
+  },
+  {
+   "id": "miso-a01",
+   "tl": "misó",
+   "en": "soybean paste",
+   "pos": "noun",
+   "group": "spice2",
+   "say": "mi-SO"
+  },
+  {
+   "id": "toyo-a01",
+   "tl": "toyò",
+   "en": "soy sauce",
+   "pos": "noun",
+   "group": "spice2",
+   "say": "TO-yoQ"
+  },
+  {
+   "id": "luyang-dilaw-a01",
+   "tl": "lúyang diláw",
+   "en": "turmeric",
+   "pos": "phrase",
+   "group": "spice2",
+   "say": "LU-yang di-LAW"
+  },
+  {
+   "id": "suka-a01",
+   "tl": "sukà",
+   "en": "vinegar",
+   "pos": "noun",
+   "group": "spice2",
+   "say": "SU-kaQ",
+   "note": "Cooking terms prints sukâ."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Why might a foreigner learn Tagalog food names before visiting a wet market?",
+   "options": [
+    "Many vendors do not know the English names",
+    "Wet markets only sell imported food",
+    "Supermarkets are cheaper"
+   ],
+   "answer": "Many vendors do not know the English names",
+   "explain": "Wet markets are cheaper and more varied, but vendors may only know the local names."
+  },
+  {
+   "type": "choice",
+   "q": "Which of these is usually known by its English name?",
+   "options": [
+    "cauliflower",
+    "eggplant",
+    "milkfish"
+   ],
+   "answer": "cauliflower",
+   "explain": "Carrot, cauliflower, greenshells and yellow fin tuna keep their English names. Eggplant is talóng; milkfish is bangús."
+  },
+  {
+   "type": "choice",
+   "q": "What is talóng?",
+   "options": [
+    "eggplant",
+    "tomato",
+    "cabbage"
+   ],
+   "answer": "eggplant",
+   "explain": "Tomato is kamátis; cabbage is repolyo."
+  },
+  {
+   "type": "choice",
+   "q": "Which word means onion?",
+   "options": [
+    "sibúyas",
+    "bawang",
+    "kintsáy"
+   ],
+   "answer": "sibúyas",
+   "explain": "Bawang is garlic; kintsáy is Chinese celery."
+  },
+  {
+   "type": "choice",
+   "q": "How do you say sweet potato?",
+   "options": [
+    "kamóte",
+    "kamóteng káhoy",
+    "patátas"
+   ],
+   "answer": "kamóte",
+   "explain": "Kamóteng káhoy is cassava; patátas is potato."
+  },
+  {
+   "type": "choice",
+   "q": "Which is the freshwater catfish?",
+   "options": [
+    "hitò",
+    "kandulì",
+    "tilápia"
+   ],
+   "answer": "hitò",
+   "explain": "Kandulì is the saltwater catfish."
+  },
+  {
+   "type": "choice",
+   "q": "What is bangús?",
+   "options": [
+    "milkfish",
+    "mussel",
+    "squid"
+   ],
+   "answer": "milkfish",
+   "explain": "Mussel is tahóng; squid is pusít."
+  },
+  {
+   "type": "choice",
+   "q": "Which word means prawn?",
+   "options": [
+    "sugpô",
+    "alamáng",
+    "híbi"
+   ],
+   "answer": "sugpô",
+   "explain": "Alamáng is small shrimps; híbi is dried shrimp."
+  },
+  {
+   "type": "choice",
+   "q": "What does karné ng baboy mean?",
+   "options": [
+    "pork",
+    "beef",
+    "ham"
+   ],
+   "answer": "pork",
+   "explain": "Beef is karné ng baka; ham is hamón or pigî."
+  },
+  {
+   "type": "choice",
+   "q": "How do you say egg yolk?",
+   "options": [
+    "púla ng itlóg",
+    "putî ng itlóg",
+    "itlóg ng pugò"
+   ],
+   "answer": "púla ng itlóg",
+   "explain": "Putî ng itlóg is eggwhite; itlóg ng pugò is quail egg."
+  },
+  {
+   "type": "choice",
+   "q": "Which condiment is patís?",
+   "options": [
+    "fish sauce",
+    "soy sauce",
+    "vinegar"
+   ],
+   "answer": "fish sauce",
+   "explain": "Soy sauce is toyò; vinegar is sukà."
+  },
+  {
+   "type": "choice",
+   "q": "What is cantón?",
+   "options": [
+    "yellow egg noodles",
+    "rice vermicelli",
+    "fine wheat noodles"
+   ],
+   "answer": "yellow egg noodles",
+   "explain": "Rice vermicelli is bíhon; fine wheat noodles are míswa."
+  },
+  {
+   "type": "listen",
+   "tl": "kangkóng",
+   "options": [
+    "water spinach",
+    "Chinese celery",
+    "spinach"
+   ],
+   "answer": "water spinach",
+   "explain": "Chinese celery is kintsáy; spinach is kulítis."
+  },
+  {
+   "type": "listen",
+   "tl": "ampalayá",
+   "options": [
+    "bitter melon",
+    "yellow squash",
+    "bottle gourd"
+   ],
+   "answer": "bitter melon",
+   "explain": "Yellow squash is kalabása; bottle gourd is úpo."
+  },
+  {
+   "type": "listen",
+   "tl": "manók",
+   "options": [
+    "chicken",
+    "duck",
+    "turkey"
+   ],
+   "answer": "chicken",
+   "explain": "Duck is pato; turkey is pábo."
+  },
+  {
+   "type": "listen",
+   "tl": "pusít",
+   "options": [
+    "squid",
+    "crab",
+    "oyster"
+   ],
+   "answer": "squid",
+   "explain": "Crab is alimasag; oyster is talabá."
+  },
+  {
+   "type": "listen",
+   "tl": "toyò",
+   "options": [
+    "soy sauce",
+    "fish paste",
+    "soybean paste"
+   ],
+   "answer": "soy sauce",
+   "explain": "Fish paste is bagoong isdâ; soybean paste is misó."
+  },
+  {
+   "type": "listen",
+   "tl": "kalabáw",
+   "options": [
+    "water buffalo or carabao",
+    "goat or lamb",
+    "wild boar"
+   ],
+   "answer": "water buffalo or carabao",
+   "explain": "Goat or lamb is kambíng; wild boar is báboyramó."
+  },
+  {
+   "type": "listen",
+   "tl": "bíhon",
+   "options": [
+    "rice vermicelli",
+    "glass or cellophane noodles",
+    "wheat noodles with egg"
+   ],
+   "answer": "rice vermicelli",
+   "explain": "Glass noodles are sotánghon; wheat noodles with egg are míki."
+  },
+  {
+   "type": "match",
+   "q": "Match the vegetable.",
+   "pairs": [
+    [
+     "kamátis",
+     "tomato"
+    ],
+    [
+     "patátas",
+     "potato"
+    ],
+    [
+     "maís",
+     "corn"
+    ],
+    [
+     "pipíno",
+     "cucumber"
+    ],
+    [
+     "repolyo",
+     "cabbage"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the seafood.",
+   "pairs": [
+    [
+     "alimángo",
+     "mud crab"
+    ],
+    [
+     "tahóng",
+     "mussel"
+    ],
+    [
+     "dílis",
+     "anchovy"
+    ],
+    [
+     "lápu-lápu",
+     "grouper"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the meat.",
+   "pairs": [
+    [
+     "atáy",
+     "liver"
+    ],
+    [
+     "tadyáng",
+     "spare ribs"
+    ],
+    [
+     "liyémpo",
+     "pork belly"
+    ],
+    [
+     "karné ng baka",
+     "beef"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the spice or condiment.",
+   "pairs": [
+    [
+     "sukà",
+     "vinegar"
+    ],
+    [
+     "pamintá",
+     "pepper"
+    ],
+    [
+     "laurél",
+     "bay leaf"
+    ],
+    [
+     "tánglad",
+     "lemongrass"
+    ],
+    [
+     "lúyang diláw",
+     "turmeric"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the egg words.",
+   "pairs": [
+    [
+     "itlóg",
+     "egg"
+    ],
+    [
+     "putî ng itlóg",
+     "eggwhite"
+    ],
+    [
+     "itlóg ng pugò",
+     "quail egg"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "Wet markets are cheaper, but vendors may only know Tagalog names; carrot, cauliflower, greenshells and yellow fin tuna keep their English names.",
+  "Vegetables: talóng, kamátis, sibúyas, bawang, kamóte, patátas, kangkóng, ampalayá.",
+  "Seafood: bangús, tilápia, pusít, sugpô, alimasag, tahóng; two catfish, hitò and kandulì.",
+  "Meat is karné: karné ng baka (beef), karné ng baboy (pork); manók is chicken, itlóg is egg.",
+  "Noodles: bíhon, cantón, míki, míswa, sotánghon.",
+  "Condiments: patís, toyò, sukà, bagoong isdâ, pamintá."
+ ]
+}

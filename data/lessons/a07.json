@@ -1,0 +1,4659 @@
+{
+ "id": "a07",
+ "label": "A7",
+ "title": "Book vocabulary list: more words",
+ "summary": "The 493 words in the book's Tagalog–English Vocabulary List (pages 208 to 213) that are not taught in any lesson, as flashcards",
+ "minutes": 60,
+ "goals": [
+  "Learn the extra everyday words from the book's Vocabulary List",
+  "Use the Book list in the Words tab to look up any word"
+ ],
+ "sections": [
+  {
+   "title": "About this list",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "At the back of the book (pages 208 to 218) there are two Vocabulary Lists: Tagalog to English and English to Tagalog. You can browse and search both, exactly as printed, in **Words › Book list**."
+    },
+    {
+     "type": "p",
+     "t": "This section turns the words from the Tagalog to English list that no lesson teaches into flashcards, so they can go into your review deck like any other word. Each entry is copied exactly as the book prints it, including the part of speech (*n.* noun, *v.* verb, *adj.* adjective, *adv.* adverb, *interj.* interjection) and any related words given with it."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "No accent marks",
+     "t": "The Vocabulary List prints almost every word **without accent marks**, so these cards have no stress guide. Where a lesson teaches the same word you will find it there with its accents; the book list marks those with a green dot."
+    }
+   ]
+  },
+  {
+   "title": "Words A to D",
+   "blocks": [
+    {
+     "type": "vocab",
+     "group": "gad",
+     "title": "Vocabulary List words A to D"
+    }
+   ]
+  },
+  {
+   "title": "Words E to K",
+   "blocks": [
+    {
+     "type": "vocab",
+     "group": "gek",
+     "title": "Vocabulary List words E to K"
+    }
+   ]
+  },
+  {
+   "title": "Words L to M",
+   "blocks": [
+    {
+     "type": "vocab",
+     "group": "glm",
+     "title": "Vocabulary List words L to M"
+    }
+   ]
+  },
+  {
+   "title": "Words N to S",
+   "blocks": [
+    {
+     "type": "vocab",
+     "group": "gns",
+     "title": "Vocabulary List words N to S"
+    }
+   ]
+  },
+  {
+   "title": "Words T to Y",
+   "blocks": [
+    {
+     "type": "vocab",
+     "group": "gtz",
+     "title": "Vocabulary List words T to Y"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "aba-a07",
+   "tl": "aba",
+   "en": "interj. exclamation of surprise, wonder, admiration",
+   "pos": "expr",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "abala-a07",
+   "tl": "abala",
+   "en": "adj. busy, occupied",
+   "pos": "adj",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "adiyos-a07",
+   "tl": "adiyos",
+   "en": "interj. Goodbye!",
+   "pos": "expr",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "ahas-a07",
+   "tl": "ahas",
+   "en": "n. snake",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "alaga-a07",
+   "tl": "alaga",
+   "en": "n. someone under one’s care",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "alahas-a07",
+   "tl": "alahas",
+   "en": "n. jewelry",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "alat-a07",
+   "tl": "alat",
+   "en": "n. salty taste, maalat adj. salty",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "alikabok-a07",
+   "tl": "alikabok",
+   "en": "n. dust",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "aliwan-a07",
+   "tl": "aliwan",
+   "en": "n. entertainment, pastime",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "alon-a07",
+   "tl": "alon",
+   "en": "n. wave",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "amo-a07",
+   "tl": "amo",
+   "en": "n. master, boss, employer",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "anino-a07",
+   "tl": "anino",
+   "en": "n. shadow",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "anunsiyo-a07",
+   "tl": "anunsiyo",
+   "en": "n. advertisement, announcement",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "anyaya-a07",
+   "tl": "anyaya",
+   "en": "(syn. paanyaya) n. invitation",
+   "pos": "expr",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "aplaya-a07",
+   "tl": "aplaya",
+   "en": "n. beach, seashore",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "aplikante-a07",
+   "tl": "aplikante",
+   "en": "n. applicant",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "aplikasyon-a07",
+   "tl": "aplikasyon",
+   "en": "n. application",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "apo-a07",
+   "tl": "apo",
+   "en": "n. grandchild",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "apoy-a07",
+   "tl": "apoy",
+   "en": "n. flame",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "araro-a07",
+   "tl": "araro",
+   "en": "n. plow",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "arte-a07",
+   "tl": "arte",
+   "en": "(syn. sining) n. art",
+   "pos": "expr",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "artista-a07",
+   "tl": "artista",
+   "en": "n. performer; a person skilled in an art",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "asim-a07",
+   "tl": "asim",
+   "en": "n. sour taste; maasim, adj. sour",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "aspile-a07",
+   "tl": "aspile",
+   "en": "n. pin",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "asukal-a07",
+   "tl": "asukal",
+   "en": "n. sugar",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "awa-a07",
+   "tl": "awa",
+   "en": "n. pity; kawawa, adj. pitiful",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "ayos-a07",
+   "tl": "ayos",
+   "en": "n. order, arrangement, appearance; interj. All-right!",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "aywan-a07",
+   "tl": "aywan",
+   "en": "idiomatic expression, to not know. Aywan ko I don’t know.",
+   "pos": "expr",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "baba-a07",
+   "tl": "baba",
+   "en": "n. chin",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "baba2-a07",
+   "tl": "baba",
+   "en": "n. lowness; mababa, adj. low",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "bagong-pasok-a07",
+   "tl": "bagong pasok",
+   "en": "n. new entry, newcomer",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "bagsak-presyo-a07",
+   "tl": "bagsak-presyo",
+   "en": "adj. slashed or discounted price",
+   "pos": "adj",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "baha-a07",
+   "tl": "baha",
+   "en": "n. flood",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "bahay-kubo-a07",
+   "tl": "bahay kubo",
+   "en": "n. nipa hut",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "baitang-a07",
+   "tl": "baitang",
+   "en": "n. grade; steps (of stairs)",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "bakal-a07",
+   "tl": "bakal",
+   "en": "n. iron, steel",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "bakasyunan-a07",
+   "tl": "bakasyunan",
+   "en": "n. a resort",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "bakod-a07",
+   "tl": "bakod",
+   "en": "n. fence; bakuran n. yard",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "balak-a07",
+   "tl": "balak",
+   "en": "n. plan, aim, purpose",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "balikbayan-a07",
+   "tl": "balikbayan",
+   "en": "n. a person who returns to his/her homeland for a visit",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "balon-a07",
+   "tl": "balon",
+   "en": "n. water well",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "balot-a07",
+   "tl": "balot",
+   "en": "n. wrapping; balutan n. package",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "bandila-a07",
+   "tl": "bandila",
+   "en": "n. flag, banner",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "bangka-a07",
+   "tl": "bangka",
+   "en": "n. boat, banca",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "banig-a07",
+   "tl": "banig",
+   "en": "n. buri mat",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "bantay-a07",
+   "tl": "bantay",
+   "en": "n. watchman, guard",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "baon-a07",
+   "tl": "baon",
+   "en": "n. food or money provision",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "barangay-a07",
+   "tl": "barangay",
+   "en": "n. smallest political unit in Philippine government",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "barbero-a07",
+   "tl": "barbero",
+   "en": "n. barber; barberya (syn. pagupitan) n. barbershop",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "barkada-a07",
+   "tl": "barkada",
+   "en": "n. peer, a circle of friends",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "basag-a07",
+   "tl": "basag",
+   "en": "adj. broken",
+   "pos": "adj",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "basag-ulo-a07",
+   "tl": "basag-ulo",
+   "en": "n. (idiom) fight; basagulero n. troublemaker",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "batas-a07",
+   "tl": "batas",
+   "en": "n. law",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "bati-a07",
+   "tl": "bati",
+   "en": "n. greeting; v. to greet",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "bawal-a07",
+   "tl": "bawal",
+   "en": "vl. prohibited, not allowed",
+   "pos": "expr",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "bawa-t-a07",
+   "tl": "bawa’t",
+   "en": "pron. every, each",
+   "pos": "expr",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "bayani-a07",
+   "tl": "bayani",
+   "en": "n. hero",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "bibig-a07",
+   "tl": "bibig",
+   "en": "n. mouth",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "bigat-a07",
+   "tl": "bigat",
+   "en": "n. weight, heaviness; mabigat adj. heavy",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "bilang-a07",
+   "tl": "bilang",
+   "en": "n. number; conj. as",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "bilibid-a07",
+   "tl": "bilibid",
+   "en": "n. prison",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "binyag-a07",
+   "tl": "binyag",
+   "en": "n. baptism",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "biro-a07",
+   "tl": "biro",
+   "en": "n. joke; mapagbiro adj. jester, full of jokes",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "bisig-a07",
+   "tl": "bisig",
+   "en": "n. arms",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "bombilya-a07",
+   "tl": "bombilya",
+   "en": "n. electric bulb",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "bote-a07",
+   "tl": "bote",
+   "en": "n. bottle",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "buhangin-a07",
+   "tl": "buhangin",
+   "en": "n. sand",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "bukod-sa-a07",
+   "tl": "bukod sa",
+   "en": "prep. except, aside from, besides",
+   "pos": "expr",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "dakila-a07",
+   "tl": "dakila",
+   "en": "adj. great; foremost",
+   "pos": "adj",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "dalaw-a07",
+   "tl": "dalaw",
+   "en": "n. visit",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "dalawahan-a07",
+   "tl": "dalawahan",
+   "en": "n. doubles",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "dalo-a07",
+   "tl": "dalo",
+   "en": "v. to attend an event",
+   "pos": "verb",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "daloy-a07",
+   "tl": "daloy",
+   "en": "n. flow",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "damdamin-a07",
+   "tl": "damdamin",
+   "en": "n. emotion, feelings",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "dangal-a07",
+   "tl": "dangal",
+   "en": "(syn. karangalan) n. honor",
+   "pos": "expr",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 208"
+  },
+  {
+   "id": "dati-a07",
+   "tl": "dati",
+   "en": "adj. former; adv. formerly",
+   "pos": "adj",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "deposito-a07",
+   "tl": "deposito",
+   "en": "n. money deposited in bank",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "dibdib-a07",
+   "tl": "dibdib",
+   "en": "n. breast, chest",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "diligin-a07",
+   "tl": "diligin",
+   "en": "v. to water, sprinkle water on",
+   "pos": "verb",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "disgrasya-a07",
+   "tl": "disgrasya",
+   "en": "(syn. aksidente) n. acccident",
+   "pos": "expr",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 209. Book typo: \"acccident\" (three c's) for \"accident\"."
+  },
+  {
+   "id": "diyaryo-a07",
+   "tl": "diyaryo",
+   "en": "(syn. pahayagan) n. newspaper",
+   "pos": "expr",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "dugo-a07",
+   "tl": "dugo",
+   "en": "n. blood",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "dulo-a07",
+   "tl": "dulo",
+   "en": "n. end",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "dumi-a07",
+   "tl": "dumi",
+   "en": "n. dirt, refuse",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "duwag-a07",
+   "tl": "duwag",
+   "en": "adj. coward",
+   "pos": "adj",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "duyan-a07",
+   "tl": "duyan",
+   "en": "n. hammock, cradle",
+   "pos": "noun",
+   "group": "gad",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "eksamen-a07",
+   "tl": "eksamen",
+   "en": "n. examination; v. to examine",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "electrika-a07",
+   "tl": "electrika",
+   "en": "n. electric, electrical",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "elegante-a07",
+   "tl": "elegante",
+   "en": "adj. elegant, classy",
+   "pos": "adj",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "eskuwela-a07",
+   "tl": "eskuwela",
+   "en": "n. school",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "espesyal-a07",
+   "tl": "espesyal",
+   "en": "adj. good; special, extraordinary",
+   "pos": "adj",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "estasyon-a07",
+   "tl": "estasyon",
+   "en": "n. station, waiting shed",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "gamit-a07",
+   "tl": "gamit",
+   "en": "n. use, usefulness; gamitin v. to use",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "gastos-a07",
+   "tl": "gastos",
+   "en": "n. expenses",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "ginabi-a07",
+   "tl": "ginabi",
+   "en": "v. overtaken by nightfall",
+   "pos": "verb",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "ginisa-a07",
+   "tl": "ginisa",
+   "en": "n. sauteed meat or vegetables",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "ginoo-a07",
+   "tl": "ginoo",
+   "en": "n. gentleman, mister",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "gising-a07",
+   "tl": "gising",
+   "en": "adj. awake; gisingin v. to wake up someone",
+   "pos": "adj",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "gitna-a07",
+   "tl": "gitna",
+   "en": "n. middle, center",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "goma-a07",
+   "tl": "goma",
+   "en": "n. rubber; rubber tire of cars",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "gripo-a07",
+   "tl": "gripo",
+   "en": "n. faucet",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "gugo-a07",
+   "tl": "gugo",
+   "en": "n. refers to the bark from local gugo trees used as organic shampoo",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "guhit-a07",
+   "tl": "guhit",
+   "en": "n. line",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "gulayan-a07",
+   "tl": "gulayan",
+   "en": "n. vegetable section in market; vegetable farm",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "gunting-a07",
+   "tl": "gunting",
+   "en": "n. scissors",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "gusali-a07",
+   "tl": "gusali",
+   "en": "n. building",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "haba-a07",
+   "tl": "habâ",
+   "en": "adj. elongated",
+   "pos": "adj",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "haba2-a07",
+   "tl": "habà",
+   "en": "n. length",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "hagdan-a07",
+   "tl": "hagdan",
+   "en": "n. ladder",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "halalan-a07",
+   "tl": "halalan",
+   "en": "n. election",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "halamang-gamot-a07",
+   "tl": "halamang gamot",
+   "en": "n. herbal plant",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "halik-a07",
+   "tl": "halik",
+   "en": "n. kiss",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "halimbawa-a07",
+   "tl": "halimbawa",
+   "en": "n. example",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "handaan-a07",
+   "tl": "handaan",
+   "en": "n. celebration, party",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "harap-a07",
+   "tl": "harap",
+   "en": "n. front; sa harap prep. in front",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "hardin-a07",
+   "tl": "hardin",
+   "en": "(syn. halamanan) n. garden, lawn",
+   "pos": "expr",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "hawak-a07",
+   "tl": "hawak",
+   "en": "n. hold",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "hawakan-a07",
+   "tl": "hawakan",
+   "en": "v. to hold",
+   "pos": "verb",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "heto-a07",
+   "tl": "heto",
+   "en": "adv. here, here it is",
+   "pos": "adv",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "hilaga-a07",
+   "tl": "hilaga",
+   "en": "n. north",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "hilaw-a07",
+   "tl": "hilaw",
+   "en": "n. unripe (fruit), uncooked (food)",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "hininga-a07",
+   "tl": "hininga",
+   "en": "n. breath",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "hinlalaki-a07",
+   "tl": "hinlalaki",
+   "en": "n. thumb",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "hinog-a07",
+   "tl": "hinog",
+   "en": "adj. ripe",
+   "pos": "adj",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "hintay-a07",
+   "tl": "hintay",
+   "en": "v. to wait for",
+   "pos": "verb",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "hintayan-a07",
+   "tl": "hintayan",
+   "en": "n. a waiting place",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "hipon-a07",
+   "tl": "hipon",
+   "en": "n. shrimp",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "hiram-a07",
+   "tl": "hiram",
+   "en": "adj. borrowed; hiramin v. to borrow",
+   "pos": "adj",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "hiya-a07",
+   "tl": "hiya",
+   "en": "n. shame; mahiya v. to be ashamed",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "hukbo-a07",
+   "tl": "hukbo",
+   "en": "n. army; ~ng-dagat n. navy",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "humiga-a07",
+   "tl": "humiga",
+   "en": "v. to lie down",
+   "pos": "verb",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "huminga-a07",
+   "tl": "huminga",
+   "en": "v. to breathe",
+   "pos": "verb",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "husto-a07",
+   "tl": "husto",
+   "en": "adj. exact, fit, enough",
+   "pos": "adj",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "iba-a07",
+   "tl": "iba",
+   "en": "adj. other, another, different",
+   "pos": "adj",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "ibaba-a07",
+   "tl": "ibabâ",
+   "en": "n. lower part; v. to lower the position; prep. under, below, down",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "ibabaw-a07",
+   "tl": "ibabaw",
+   "en": "(syn. tuktók) n. above, on",
+   "pos": "expr",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "ihawan-a07",
+   "tl": "ihawan",
+   "en": "n. griller, roaster",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "ilalim-a07",
+   "tl": "ilalim",
+   "en": "adv. beneath; sa ilalim prep. under",
+   "pos": "adv",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "ilista-a07",
+   "tl": "ilista",
+   "en": "v. to list down",
+   "pos": "verb",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "ilong-a07",
+   "tl": "ilong",
+   "en": "n. nose",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "imbestigasyon-a07",
+   "tl": "imbestigasyon",
+   "en": "(syn. pagsisiyasat) n. investigation",
+   "pos": "expr",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "ingay-a07",
+   "tl": "ingay",
+   "en": "n. noise; maingay adj. noisy",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "inggit-a07",
+   "tl": "inggit",
+   "en": "n. envy; mainggitin adj. envious",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "init-a07",
+   "tl": "init",
+   "en": "n. heat, warmth, mainit adj. hot, warm",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "isahan-a07",
+   "tl": "isahan",
+   "en": "adj. single, singular",
+   "pos": "adj",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "isauli-a07",
+   "tl": "isauli",
+   "en": "v. to return something",
+   "pos": "verb",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "isdaan-a07",
+   "tl": "isdaan",
+   "en": "n. place where fish is sold",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "isuot-a07",
+   "tl": "isuot",
+   "en": "v. to wear, to put on",
+   "pos": "verb",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "iwan-a07",
+   "tl": "iwan",
+   "en": "v. to leave behind",
+   "pos": "verb",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "kaagad-a07",
+   "tl": "kaagad",
+   "en": "adv. immediately",
+   "pos": "adv",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "kaarawan-a07",
+   "tl": "kaarawan",
+   "en": "n. birthday",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "kababayan-a07",
+   "tl": "kababayan",
+   "en": "n. fellow citizen",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "kabayo-a07",
+   "tl": "kabayo",
+   "en": "n. horse",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "kabibi-a07",
+   "tl": "kabibi",
+   "en": "n. empty clam shell",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "kabihasnan-a07",
+   "tl": "kabihasnan",
+   "en": "n. civilization",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "kabisado-a07",
+   "tl": "kabisado",
+   "en": "v. memorized",
+   "pos": "verb",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "kagalang-galang-a07",
+   "tl": "kagalang-galang",
+   "en": "adj. honorable; respectable",
+   "pos": "adj",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "kagalit-a07",
+   "tl": "kagalit",
+   "en": "n. enemy",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "kagatin-a07",
+   "tl": "kagatin",
+   "en": "v. to bite",
+   "pos": "verb",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "kaginhawahan-a07",
+   "tl": "kaginhawahan",
+   "en": "n. relief from pain, consolation; luxury",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "kainan-a07",
+   "tl": "kainan",
+   "en": "n. eatery",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "kakilala-a07",
+   "tl": "kakilala",
+   "en": "n. acquaintance",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "kalakal-a07",
+   "tl": "kalakal",
+   "en": "n. merchandise, goods",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "kalakip-a07",
+   "tl": "kalakip",
+   "en": "adj. included, enclosed",
+   "pos": "adj",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "kalan-a07",
+   "tl": "kalan",
+   "en": "n. clay stove",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "kalawang-a07",
+   "tl": "kalawang",
+   "en": "n. rust",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 209"
+  },
+  {
+   "id": "kalayaan-a07",
+   "tl": "kalayaan",
+   "en": "n. independence, liberty; malaya adj. free",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kaliwa-a07",
+   "tl": "kaliwa",
+   "en": "n. left (direction)",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kalusugan-a07",
+   "tl": "kalusugan",
+   "en": "n. health, well-being",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kamag-anak-a07",
+   "tl": "kamag-anak",
+   "en": "n. relative",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kamatayan-a07",
+   "tl": "kamatayan",
+   "en": "n. death",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kamisadentro-a07",
+   "tl": "kamisadentro",
+   "en": "n. man’s shirt",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kamiseta-a07",
+   "tl": "kamiseta",
+   "en": "n. undershirt",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kampana-a07",
+   "tl": "kampana",
+   "en": "n. church bell",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kanan-a07",
+   "tl": "kanan",
+   "en": "n. right (direction)",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kanluran-a07",
+   "tl": "kanluran",
+   "en": "n. west; kanluranin adj. western",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kanta-a07",
+   "tl": "kanta",
+   "en": "(syn. awit) n. song; mang-aawit n. singer",
+   "pos": "expr",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kantina-a07",
+   "tl": "kantina",
+   "en": "n. canteen",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kapalaran-a07",
+   "tl": "kapalaran",
+   "en": "n. fate",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "karapatan-a07",
+   "tl": "karapatan",
+   "en": "n. right",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "karatula-a07",
+   "tl": "karatula",
+   "en": "n. signboard",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "karayom-a07",
+   "tl": "karayom",
+   "en": "n. needle",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "karnihan-a07",
+   "tl": "karnihan",
+   "en": "n. place where meat is sold",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kasapi-a07",
+   "tl": "kasapi",
+   "en": "n. member of an organization",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kaserola-a07",
+   "tl": "kaserola",
+   "en": "n. caserole, cooking utensils",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210. Book spelling \"caserole\" (usual English spelling is \"casserole\")."
+  },
+  {
+   "id": "katas-a07",
+   "tl": "katas",
+   "en": "n. juice of fruits; makatas adj. juicy",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "katawan-a07",
+   "tl": "katawan",
+   "en": "n. body",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kawad-a07",
+   "tl": "kawad",
+   "en": "n. wire; ~-elektrika n. electric wire",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kawani-a07",
+   "tl": "kawani",
+   "en": "n. employee",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kawawa-a07",
+   "tl": "kawawa",
+   "en": "adj. pitiful",
+   "pos": "adj",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kawayan-a07",
+   "tl": "kawayan",
+   "en": "n. bamboo",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "keso-a07",
+   "tl": "keso",
+   "en": "n. cheese",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kinatawan-a07",
+   "tl": "kinatawan",
+   "en": "n. representative",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "konsulta-a07",
+   "tl": "konsulta",
+   "en": "(syn. magpatingin) n. consult; konsultasyon n. consultation",
+   "pos": "expr",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kuko-a07",
+   "tl": "kuko",
+   "en": "n. fingernail",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kulambo-a07",
+   "tl": "kulambo",
+   "en": "n. mosquito net",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kulay-a07",
+   "tl": "kulay",
+   "en": "n. color",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kulog-a07",
+   "tl": "kulog",
+   "en": "n. thunder",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kumot-a07",
+   "tl": "kumot",
+   "en": "n. blanket",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kumpuni-a07",
+   "tl": "kumpuni",
+   "en": "v. to repair",
+   "pos": "verb",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kumuha-a07",
+   "tl": "kumuha",
+   "en": "v. to get",
+   "pos": "verb",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kuru-kuro-a07",
+   "tl": "kuru-kuro",
+   "en": "n. opinion",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kurtina-a07",
+   "tl": "kurtina",
+   "en": "n. curtain",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kusina-a07",
+   "tl": "kusina",
+   "en": "n. kitchen",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kusinera-o-a07",
+   "tl": "kusinera/o",
+   "en": "(syn. tagapagluto) n. cook",
+   "pos": "expr",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kutsara-a07",
+   "tl": "kutsara",
+   "en": "n. spoon",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kutsero-a07",
+   "tl": "kutsero",
+   "en": "n. calesa driver",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kutsilyo-a07",
+   "tl": "kutsilyo",
+   "en": "n. knife",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kuwadro-a07",
+   "tl": "kuwadro",
+   "en": "n. picture frame",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kuwenta-a07",
+   "tl": "kuwenta",
+   "en": "n. bill, account",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kuwero-a07",
+   "tl": "kuwero",
+   "en": "n. leather",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "kuwintas-a07",
+   "tl": "kuwintas",
+   "en": "n. necklace",
+   "pos": "noun",
+   "group": "gek",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "laban-a07",
+   "tl": "laban",
+   "en": "n. fight, contest",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "labanan-a07",
+   "tl": "labanan",
+   "en": "v. to fight someone or something",
+   "pos": "verb",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "labi-a07",
+   "tl": "labi",
+   "en": "n. lower lip",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "labis-a07",
+   "tl": "labis",
+   "en": "n. surplus; adv. more than enough",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "lagda-a07",
+   "tl": "lagda",
+   "en": "(syn. pirma) n. signature",
+   "pos": "expr",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "lagnat-a07",
+   "tl": "lagnat",
+   "en": "n. fever",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "lahi-a07",
+   "tl": "lahi",
+   "en": "n. race of people, nationality",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "lakas-a07",
+   "tl": "lakas",
+   "en": "n. strength, force",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "lalamunan-a07",
+   "tl": "lalamunan",
+   "en": "n. throat",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "lambat-a07",
+   "tl": "lambat",
+   "en": "n. fishing net",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "langaw-a07",
+   "tl": "langaw",
+   "en": "n. housefly",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "langgam-a07",
+   "tl": "langgam",
+   "en": "n. ants",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "lansangan-a07",
+   "tl": "lansangan",
+   "en": "n. street",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "laruan-a07",
+   "tl": "laruan",
+   "en": "n. toy",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "lasa-a07",
+   "tl": "lasa",
+   "en": "n. taste",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "lasing-a07",
+   "tl": "lasing",
+   "en": "n. drunkard",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "lasingan-a07",
+   "tl": "lasingan",
+   "en": "n. a noisy drinking party",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "lason-a07",
+   "tl": "lason",
+   "en": "n. poison",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "laya-a07",
+   "tl": "laya",
+   "en": "n. freedom; malaya adj. free, independent",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "layo-a07",
+   "tl": "layo",
+   "en": "n. distance; malayo adj. far; distant",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "layon-a07",
+   "tl": "layon",
+   "en": "(syn. layunin, pakay) n. aim, purpose",
+   "pos": "expr",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "libangan-a07",
+   "tl": "libangan",
+   "en": "n. recreation, entertainment",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "liham-a07",
+   "tl": "liham",
+   "en": "n. letter",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "lihim-a07",
+   "tl": "lihim",
+   "en": "n. secret",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "likas-a07",
+   "tl": "likas",
+   "en": "adj. native of; adj. natural",
+   "pos": "adj",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "likha-a07",
+   "tl": "likha",
+   "en": "n. creation; product",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "likod-a07",
+   "tl": "likod",
+   "en": "n. at the back, rear",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "lindol-a07",
+   "tl": "lindol",
+   "en": "n. earthquake",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "linis-a07",
+   "tl": "linis",
+   "en": "n. cleanliness; malinis adj. clean; linisin v. to clean",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "lipon-a07",
+   "tl": "lipon",
+   "en": "n. group",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "lipunan-a07",
+   "tl": "lipunan",
+   "en": "n. society",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "listahan-a07",
+   "tl": "listahan",
+   "en": "(syn. talaan) n. list",
+   "pos": "expr",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "longganisa-a07",
+   "tl": "longganisa",
+   "en": "n. native sausage",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "lumapit-a07",
+   "tl": "lumapit",
+   "en": "v. to come near, to approach",
+   "pos": "verb",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "lumipad-a07",
+   "tl": "lumipad",
+   "en": "v. to fly",
+   "pos": "verb",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "lumipat-a07",
+   "tl": "lumipat",
+   "en": "v. to move to another place",
+   "pos": "verb",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "lumubog-a07",
+   "tl": "lumubog",
+   "en": "v. to sink",
+   "pos": "verb",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "maaga-a07",
+   "tl": "maaga",
+   "en": "adv. early",
+   "pos": "adv",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "mabaho-a07",
+   "tl": "mabaho",
+   "en": "adj. bad-smelling",
+   "pos": "adj",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "mabango-a07",
+   "tl": "mabango",
+   "en": "adj. fragrant",
+   "pos": "adj",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "mabigat-a07",
+   "tl": "mabigat",
+   "en": "adj. heavy",
+   "pos": "adj",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "mabuhay-a07",
+   "tl": "mabuhay",
+   "en": "interj. Long live! v. to live",
+   "pos": "expr",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "madalang-a07",
+   "tl": "madalang",
+   "en": "adv. rare, infrequent",
+   "pos": "adv",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "madali-a07",
+   "tl": "madali",
+   "en": "adj. easy; adv. fast",
+   "pos": "adj",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "magalang-a07",
+   "tl": "magalang",
+   "en": "adj. courteous",
+   "pos": "adj",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "magaling-a07",
+   "tl": "magaling",
+   "en": "adj. good, excellent; free from sickness",
+   "pos": "adj",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "mag-anak-a07",
+   "tl": "mag-anak",
+   "en": "n. family",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "magasin-a07",
+   "tl": "magasin",
+   "en": "n. magazine",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "magdasal-a07",
+   "tl": "magdasal",
+   "en": "v. to pray",
+   "pos": "verb",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "maghain-a07",
+   "tl": "maghain",
+   "en": "v. to set the table",
+   "pos": "verb",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "maghapon-a07",
+   "tl": "maghapon",
+   "en": "adv. all day long",
+   "pos": "adv",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "maghugas-a07",
+   "tl": "maghugas",
+   "en": "v. to wash",
+   "pos": "verb",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "maglaba-a07",
+   "tl": "maglaba",
+   "en": "v. to wash clothes",
+   "pos": "verb",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "magpaalam-a07",
+   "tl": "magpaalam",
+   "en": "v. to bid goodbye",
+   "pos": "verb",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "magpahinga-a07",
+   "tl": "magpahinga",
+   "en": "v. to rest",
+   "pos": "verb",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "magpalipas-a07",
+   "tl": "magpalipas",
+   "en": "v. to while the hours away",
+   "pos": "verb",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 210"
+  },
+  {
+   "id": "magpareserba-a07",
+   "tl": "magpareserba",
+   "en": "v. to have something reserved for someone",
+   "pos": "verb",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "magsimba-a07",
+   "tl": "magsimba",
+   "en": "v. to hear mass, to go to church",
+   "pos": "verb",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "magulat-a07",
+   "tl": "magulat",
+   "en": "v. to be surprised",
+   "pos": "verb",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "makabayan-a07",
+   "tl": "makabayan",
+   "en": "adj. patriotic, nationalistic",
+   "pos": "adj",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "makapal-a07",
+   "tl": "makapal",
+   "en": "adj. thick",
+   "pos": "adj",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "makiusap-a07",
+   "tl": "makiusap",
+   "en": "v. to plead, to make a request",
+   "pos": "verb",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "makulit-a07",
+   "tl": "makulit",
+   "en": "adj. annoying; wearisome",
+   "pos": "adj",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "maliwanag-a07",
+   "tl": "maliwanag",
+   "en": "(ant. madilim) adj. clear, bright",
+   "pos": "expr",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "mama-a07",
+   "tl": "mama",
+   "en": "n. a grown man, also a term used to address a man unknown to the speaker",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "mamamayan-a07",
+   "tl": "mamamayan",
+   "en": "n. citizen",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "mamulot-a07",
+   "tl": "mamulot",
+   "en": "v. to pick something",
+   "pos": "verb",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "manalangin-a07",
+   "tl": "manalangin",
+   "en": "v. to pray",
+   "pos": "verb",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "manigo-a07",
+   "tl": "manigo",
+   "en": "adj. prosperous",
+   "pos": "adj",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "maniwala-a07",
+   "tl": "maniwala",
+   "en": "v. to believe",
+   "pos": "verb",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "marka-a07",
+   "tl": "marka",
+   "en": "n. grade; trade mark",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "masahe-a07",
+   "tl": "masahe",
+   "en": "n. massage",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "masaya-a07",
+   "tl": "masaya",
+   "en": "adj. happy, cheerful",
+   "pos": "adj",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "masunurin-a07",
+   "tl": "masunurin",
+   "en": "adj. obedient",
+   "pos": "adj",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "masyado-a07",
+   "tl": "masyado",
+   "en": "adj. excessive",
+   "pos": "adj",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "matamisin-a07",
+   "tl": "matamisin",
+   "en": "v. to make into dessert",
+   "pos": "verb",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "matangkad-a07",
+   "tl": "matangkad",
+   "en": "(syn. pandak) adj. tall",
+   "pos": "expr",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 211. Printed \"syn.\" although pandak (short) is the opposite of matangkad; probably meant \"ant.\"."
+  },
+  {
+   "id": "matigas-a07",
+   "tl": "matigas",
+   "en": "(syn. malambot) adj. hard",
+   "pos": "expr",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 211. Printed \"syn.\" although malambot (soft) is the opposite of matigas; probably meant \"ant.\". \"malambot\" is printed in roman, not bold."
+  },
+  {
+   "id": "may-ari-a07",
+   "tl": "may-ari",
+   "en": "n. owner",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "medyas-a07",
+   "tl": "medyas",
+   "en": "n. socks, stockings",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "misa-a07",
+   "tl": "misa",
+   "en": "n. religious mass",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "misang-pasasalamant-a07",
+   "tl": "misang pasasalamant",
+   "en": "n. Thanksgiving Mass",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 211. Headword printed \"pasasalamant\"; the usual spelling is \"pasasalamat\"."
+  },
+  {
+   "id": "miting-a07",
+   "tl": "miting",
+   "en": "n. pulong",
+   "pos": "noun",
+   "group": "glm",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "naku-a07",
+   "tl": "naku",
+   "en": "interj. an expression of surprise, shortened form of Ina ko!",
+   "pos": "expr",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "namatay-a07",
+   "tl": "namatay",
+   "en": "v. died",
+   "pos": "verb",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "naparoon-a07",
+   "tl": "naparoon",
+   "en": "v. went",
+   "pos": "verb",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "negosyo-a07",
+   "tl": "negosyo",
+   "en": "n. business, industry",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "nerbiyos-a07",
+   "tl": "nerbiyos",
+   "en": "n. nervousness",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "ngipin-a07",
+   "tl": "ngipin",
+   "en": "n. teeth",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "ngiti-a07",
+   "tl": "ngiti",
+   "en": "n. smile",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "ngunit-a07",
+   "tl": "ngunit",
+   "en": "conj. but",
+   "pos": "expr",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "nguso-a07",
+   "tl": "nguso",
+   "en": "n. upper lip",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "ninang-a07",
+   "tl": "ninang",
+   "en": "n. godmother",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "ningas-a07",
+   "tl": "ningas",
+   "en": "n. flame",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "ninong-a07",
+   "tl": "ninong",
+   "en": "n. godfather",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "ninuno-a07",
+   "tl": "ninuno",
+   "en": "n. ancestor",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "niyog-a07",
+   "tl": "niyog",
+   "en": "n. coconut",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "noo-a07",
+   "tl": "noo",
+   "en": "n. forehead",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "nota-a07",
+   "tl": "nota",
+   "en": "n. musical note",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "nuno-a07",
+   "tl": "nuno",
+   "en": "n. grandparent",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "orasyon-a07",
+   "tl": "orasyon",
+   "en": "n. angelus",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "orihinal-a07",
+   "tl": "orihinal",
+   "en": "(syn. likas) n. original",
+   "pos": "expr",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "oyayi-a07",
+   "tl": "oyayi",
+   "en": "n. lullaby",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "pabuya-a07",
+   "tl": "pabuya",
+   "en": "n. tip, gratuity",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "pagdadalamhati-a07",
+   "tl": "pagdadalamhati",
+   "en": "n. grief, extreme sorrow",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "pagkamatay-a07",
+   "tl": "pagkamatay",
+   "en": "n. death",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "pagkilos-a07",
+   "tl": "pagkilos",
+   "en": "v. to act",
+   "pos": "verb",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "pakinabang-a07",
+   "tl": "pakinabang",
+   "en": "n. profit, gain",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "pako-a07",
+   "tl": "pako",
+   "en": "n. nail",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "pakpak-a07",
+   "tl": "pakpak",
+   "en": "n. wing",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "paksa-a07",
+   "tl": "paksa",
+   "en": "n. subject, theme",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "palabas-a07",
+   "tl": "palabas",
+   "en": "n. show",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "palad-a07",
+   "tl": "palad",
+   "en": "n. palm of hand; fate",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "palapag-a07",
+   "tl": "palapag",
+   "en": "n. floor or story of a building",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "palaruan-a07",
+   "tl": "palaruan",
+   "en": "n. playground",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "palay-a07",
+   "tl": "palay",
+   "en": "n. rice plant",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "palayaw-a07",
+   "tl": "palayaw",
+   "en": "n. nickname",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "palayok-a07",
+   "tl": "palayok",
+   "en": "n. clay pot",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "paligid-a07",
+   "tl": "paligid",
+   "en": "n. surroundings",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "palikuran-a07",
+   "tl": "palikuran",
+   "en": "n. toilet",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "pamahalaan-a07",
+   "tl": "pamahalaan",
+   "en": "n. government",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "pamantasan-a07",
+   "tl": "pamantasan",
+   "en": "n. university",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "pamilya-a07",
+   "tl": "pamilya",
+   "en": "n. family",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "pampalamig-a07",
+   "tl": "pampalamig",
+   "en": "n. refreshment",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "pangalawang-pangulo-a07",
+   "tl": "pangalawang pangulo",
+   "en": "n. vice-president",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "panginoon-a07",
+   "tl": "panginoon",
+   "en": "n. master; Panginoon Lord",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "pangit-a07",
+   "tl": "pangit",
+   "en": "adj. ugly",
+   "pos": "adj",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "pantalon-a07",
+   "tl": "pantalon",
+   "en": "n. pants, trousers",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "parusa-a07",
+   "tl": "parusa",
+   "en": "n. punishment",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "pasaway-a07",
+   "tl": "pasaway",
+   "en": "adj. unconventional, stubborn",
+   "pos": "adj",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "pasinaya-a07",
+   "tl": "pasinaya",
+   "en": "n. inauguration",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "pasko-a07",
+   "tl": "pasko",
+   "en": "n. Christmas",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "patay-a07",
+   "tl": "patay",
+   "en": "n. dead; adj. lifeless; extinguished as in light",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "patingin-a07",
+   "tl": "patingin",
+   "en": "v. to take a look",
+   "pos": "verb",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "patnugot-a07",
+   "tl": "patnugot",
+   "en": "n. director, editor",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "patong-a07",
+   "tl": "patong",
+   "en": "(syn. susón) n. layer",
+   "pos": "expr",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "pawis-a07",
+   "tl": "pawis",
+   "en": "perspiration, anak-~ n. laborer",
+   "pos": "expr",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "payak-a07",
+   "tl": "payak",
+   "en": "adj. simple",
+   "pos": "adj",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "payong-a07",
+   "tl": "payong",
+   "en": "n. umbrella",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "pihado-a07",
+   "tl": "pihado",
+   "en": "adj./adv. surely, certainly, certain, sure",
+   "pos": "expr",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "pinsan-a07",
+   "tl": "pinsan",
+   "en": "n. cousin",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "pinta-a07",
+   "tl": "pinta",
+   "en": "v. to paint",
+   "pos": "verb",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "pintura-a07",
+   "tl": "pintura",
+   "en": "n. paint",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "pipa-a07",
+   "tl": "pipa",
+   "en": "n. pipe",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "piraso-a07",
+   "tl": "piraso",
+   "en": "n. piece",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "pirma-a07",
+   "tl": "pirmá",
+   "en": "n. signature",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "pisngi-a07",
+   "tl": "pisngi",
+   "en": "n. cheek",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 211"
+  },
+  {
+   "id": "pista-a07",
+   "tl": "pista",
+   "en": "n. feast; ~ngbayan town fiesta",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "plantsa-a07",
+   "tl": "plantsa",
+   "en": "n. flat iron",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "pluma-a07",
+   "tl": "pluma",
+   "en": "n. fountain pen",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "posporo-a07",
+   "tl": "posporo",
+   "en": "n. match",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "premyo-a07",
+   "tl": "premyo",
+   "en": "(syn. gantimpala) n. prize, reward",
+   "pos": "expr",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "probinsiya-a07",
+   "tl": "probinsiya",
+   "en": "(syn. lalawigan) n. province",
+   "pos": "expr",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "programa-a07",
+   "tl": "programa",
+   "en": "(syn. palatuntunan) n. program",
+   "pos": "expr",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "proseso-a07",
+   "tl": "proseso",
+   "en": "n. process",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "proyekto-a07",
+   "tl": "proyekto",
+   "en": "n. project",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "publiko-a07",
+   "tl": "publiko",
+   "en": "n. public",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "pugon-a07",
+   "tl": "pugon",
+   "en": "n. stove, oven",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "pulbos-a07",
+   "tl": "pulbos",
+   "en": "n. powder",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "pulubi-a07",
+   "tl": "pulubi",
+   "en": "n. beggar",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "puso-a07",
+   "tl": "puso",
+   "en": "n. heart",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "putahe-a07",
+   "tl": "putahe",
+   "en": "n. a dish or viand",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "puwesto-a07",
+   "tl": "puwesto",
+   "en": "n. location; a stall or stand in a market",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "rekado-a07",
+   "tl": "rekado",
+   "en": "n. condiments for cooking",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "reklamo-a07",
+   "tl": "reklamo",
+   "en": "n. complaint",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "relihiyon-a07",
+   "tl": "relihiyon",
+   "en": "n. religion",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "resibo-a07",
+   "tl": "resibo",
+   "en": "n. receipt",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "riles-a07",
+   "tl": "riles",
+   "en": "n. railroad, specifically for trains",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "sabaw-a07",
+   "tl": "sabaw",
+   "en": "n. broth",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "sabay-a07",
+   "tl": "sabay",
+   "en": "adj. at the same time",
+   "pos": "adj",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "sagana-a07",
+   "tl": "sagana",
+   "en": "adj. abundant, plenty",
+   "pos": "adj",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "sahod-a07",
+   "tl": "sahod",
+   "en": "n. salary, wage",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "sakim-a07",
+   "tl": "sakim",
+   "en": "adj. selfish",
+   "pos": "adj",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "saksi-a07",
+   "tl": "saksi",
+   "en": "n. witness",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "salamin-a07",
+   "tl": "salamin",
+   "en": "n. mirror; eyeglasses",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "salawal-a07",
+   "tl": "salawal",
+   "en": "n. trousers",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "saligang-batas-a07",
+   "tl": "saligang-batas",
+   "en": "n. constitution",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "salita-a07",
+   "tl": "salita",
+   "en": "n. word, language",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "salop-a07",
+   "tl": "salop",
+   "en": "(syn. ganta) n. a unit of measurement particularly for rice approximately equivalent to two kilos",
+   "pos": "expr",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "sama-sama-a07",
+   "tl": "sama-sama",
+   "en": "adv. altogether",
+   "pos": "adv",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "samba-a07",
+   "tl": "samba",
+   "en": "n. worship, sumamba v. to worship",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "sampaguita-a07",
+   "tl": "sampaguita",
+   "en": "n. a shrub bearing fragrant white flowers, the national flower of the Philippines",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "sanga-a07",
+   "tl": "sanga",
+   "en": "n. branch",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "sarado-a07",
+   "tl": "sarado",
+   "en": "adj. closed",
+   "pos": "adj",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "sari-sari-a07",
+   "tl": "sari-sari",
+   "en": "adj. of various kinds",
+   "pos": "adj",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "sayaw-a07",
+   "tl": "sayaw",
+   "en": "n. dance",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "seda-a07",
+   "tl": "seda",
+   "en": "n. silk",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "seksyon-a07",
+   "tl": "seksyon",
+   "en": "n. section (in class)",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "selyo-a07",
+   "tl": "selyo",
+   "en": "n. stamp; dry seal",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "sepilyo-a07",
+   "tl": "sepilyo",
+   "en": "n. toothbrush",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "serbidor-a07",
+   "tl": "serbidor",
+   "en": "n. server; waiter",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "serbisyo-a07",
+   "tl": "serbisyo",
+   "en": "n. service",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "sero-a07",
+   "tl": "sero",
+   "en": "n. zero",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "silangan-a07",
+   "tl": "silangan",
+   "en": "n. east; the Orient",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "simula-a07",
+   "tl": "simula",
+   "en": "n. beginning",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "sinangag-a07",
+   "tl": "sinangag",
+   "en": "n. fried rice",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "sinelas-a07",
+   "tl": "sinelas",
+   "en": "(or tsinelas) n. slippers",
+   "pos": "expr",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "singil-a07",
+   "tl": "singil",
+   "en": "n. amount charged for services or sold goods",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "sinulid-a07",
+   "tl": "sinulid",
+   "en": "n. thread",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "sipon-a07",
+   "tl": "sipon",
+   "en": "n. cold, runny nose",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "sira-a07",
+   "tl": "sira",
+   "en": "n. destruction, destroyed, torn, broken",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "siyudad-a07",
+   "tl": "siyudad",
+   "en": "(syn. lungsod) n. city",
+   "pos": "expr",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "sobre-a07",
+   "tl": "sobre",
+   "en": "n. envelope",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "sopas-a07",
+   "tl": "sopas",
+   "en": "n. soup",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "subdibisyon-a07",
+   "tl": "subdibisyon",
+   "en": "n. subdivision",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "suki-a07",
+   "tl": "suki",
+   "en": "n. steady client",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "suklay-a07",
+   "tl": "suklay",
+   "en": "n. comb",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "sumunod-a07",
+   "tl": "sumunod",
+   "en": "v. to follow",
+   "pos": "verb",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "sunog-a07",
+   "tl": "sunog",
+   "en": "n. fire",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "suskrisyon-a07",
+   "tl": "suskrisyon",
+   "en": "n. subscription",
+   "pos": "noun",
+   "group": "gns",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "taba-a07",
+   "tl": "taba",
+   "en": "n. fat, mataba, adj. fat",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212. \"mataba\" is printed in roman, not bold."
+  },
+  {
+   "id": "tabak-a07",
+   "tl": "tabak",
+   "en": "(syn. bolo) n. a native sword, shorter than a cutlass, that has everyday uses",
+   "pos": "expr",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tabla-a07",
+   "tl": "tabla",
+   "en": "n. wooden board, cut timber; bahay na tabla n. wooden house",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tagapagsilbi-a07",
+   "tl": "tagapagsilbi",
+   "en": "n. server",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tagumpay-a07",
+   "tl": "tagumpay",
+   "en": "n. victory",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tahanan-a07",
+   "tl": "tahanan",
+   "en": "n. home",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tahi-a07",
+   "tl": "tahi",
+   "en": "v. to sew; pananahi n. sewing; mananahi n. seamstress",
+   "pos": "verb",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tainga-a07",
+   "tl": "tainga",
+   "en": "n. ears",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "takip-a07",
+   "tl": "takip",
+   "en": "n. cover",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "takot-a07",
+   "tl": "takot",
+   "en": "n. fear. takot adj. afraid; matakot v. to be afraid",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "taksi-a07",
+   "tl": "taksi",
+   "en": "n. taxi",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "taksil-a07",
+   "tl": "taksil",
+   "en": "n. traitor",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "talaan-a07",
+   "tl": "talaan",
+   "en": "n. list, record",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "talambuhay-a07",
+   "tl": "talambuhay",
+   "en": "n. biography",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tanga-a07",
+   "tl": "tanga",
+   "en": "adj. stupid, irresponsible",
+   "pos": "adj",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tanyag-a07",
+   "tl": "tanyag",
+   "en": "adj. well-known; popular",
+   "pos": "adj",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tapat-a07",
+   "tl": "tapat",
+   "en": "adj. faithful, honest",
+   "pos": "adj",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tasa-a07",
+   "tl": "tasa",
+   "en": "n. cup",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tauhan-a07",
+   "tl": "tauhan",
+   "en": "n. personnel",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tawad-a07",
+   "tl": "tawad",
+   "en": "n. bargain, reduction in price; pardon, forgiveness",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tawagan-a07",
+   "tl": "tawagan",
+   "en": "v. to call",
+   "pos": "verb",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tela-a07",
+   "tl": "tela",
+   "en": "n. cloth",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tiisin-a07",
+   "tl": "tíísin",
+   "en": "n. sufferings; tiisín v. to endure",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tiket-a07",
+   "tl": "tiket",
+   "en": "n. ticket",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "timbangan-a07",
+   "tl": "timbangan",
+   "en": "n. scale, balance",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "timog-a07",
+   "tl": "timog",
+   "en": "n. south",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tinda-a07",
+   "tl": "tinda",
+   "en": "n. goods; tindahan n. store",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tinidor-a07",
+   "tl": "tinidor",
+   "en": "n. table fork",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tinta-a07",
+   "tl": "tinta",
+   "en": "n. ink",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tiya-a07",
+   "tl": "tiya",
+   "en": "(syn. tita) n. aunt",
+   "pos": "expr",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tiyo-a07",
+   "tl": "tiyo",
+   "en": "(syn. tito) n. uncle",
+   "pos": "expr",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "transportasyon-a07",
+   "tl": "transportasyon",
+   "en": "n. transportation",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tren-a07",
+   "tl": "tren",
+   "en": "n. train",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tubo-a07",
+   "tl": "tubo",
+   "en": "n. pipe",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tuhod-a07",
+   "tl": "tuhod",
+   "en": "n. knee",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tula-a07",
+   "tl": "tula",
+   "en": "n. poem",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tulay-a07",
+   "tl": "tulay",
+   "en": "n. bridge",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tulong-a07",
+   "tl": "tulong",
+   "en": "n. help",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tuloy-a07",
+   "tl": "tuloy",
+   "en": "interj. come in; v. to go ahead",
+   "pos": "expr",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tungkol-sa-a07",
+   "tl": "tungkol sa",
+   "en": "prep. about; referring to",
+   "pos": "expr",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tunog-a07",
+   "tl": "tunog",
+   "en": "n. sound",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tuntunin-a07",
+   "tl": "tuntunin",
+   "en": "n. rule",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tuwa-a07",
+   "tl": "tuwâ",
+   "en": "n. gladness; matuwa v. to be glad",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tuwalya-a07",
+   "tl": "tuwalya",
+   "en": "n. towel",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tuwid-a07",
+   "tl": "tuwid",
+   "en": "adj. straight",
+   "pos": "adj",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tuya-a07",
+   "tl": "tuyâ",
+   "en": "n. sarcasm, irony",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "tuyo-a07",
+   "tl": "tuyô",
+   "en": "adj. dry; n. dried fish",
+   "pos": "adj",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 212"
+  },
+  {
+   "id": "ugali-a07",
+   "tl": "ugali",
+   "en": "n. custom; habit",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 213"
+  },
+  {
+   "id": "ugat-a07",
+   "tl": "ugat",
+   "en": "n. human vein; root of a plant; salitang-~ n. root word",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 213"
+  },
+  {
+   "id": "uhaw-a07",
+   "tl": "uhaw",
+   "en": "n. thirst; mauhaw v. to be thirsty",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 213"
+  },
+  {
+   "id": "ulap-a07",
+   "tl": "ulap",
+   "en": "n. cloud",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 213"
+  },
+  {
+   "id": "ulat-a07",
+   "tl": "ulat",
+   "en": "n. report",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 213"
+  },
+  {
+   "id": "uli-a07",
+   "tl": "uli",
+   "en": "adv. once again",
+   "pos": "adv",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 213"
+  },
+  {
+   "id": "uling-a07",
+   "tl": "uling",
+   "en": "n. charcoal",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 213"
+  },
+  {
+   "id": "ulit-a07",
+   "tl": "ulit",
+   "en": "adv. again; n. repetition, number of times; sampung ~ ten times",
+   "pos": "adv",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 213"
+  },
+  {
+   "id": "umako-a07",
+   "tl": "umako",
+   "en": "v. to assume responsibility",
+   "pos": "verb",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 213"
+  },
+  {
+   "id": "umpisa-a07",
+   "tl": "umpisa",
+   "en": "(syn. simula) n. beginning, start",
+   "pos": "expr",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 213"
+  },
+  {
+   "id": "unan-a07",
+   "tl": "unan",
+   "en": "n. pillow",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 213"
+  },
+  {
+   "id": "uod-a07",
+   "tl": "uod",
+   "en": "n. worm",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 213"
+  },
+  {
+   "id": "upang-a07",
+   "tl": "upang",
+   "en": "conj. so, so that",
+   "pos": "expr",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 213"
+  },
+  {
+   "id": "usapan-a07",
+   "tl": "usapan",
+   "en": "n. conversation",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 213"
+  },
+  {
+   "id": "utak-a07",
+   "tl": "utak",
+   "en": "n. brain; mautak adj. intelligent",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 213"
+  },
+  {
+   "id": "wakas-a07",
+   "tl": "wakas",
+   "en": "n. end; at sa wakas finally",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 213"
+  },
+  {
+   "id": "walang-hiya-a07",
+   "tl": "walang-hiya",
+   "en": "adj. shameless",
+   "pos": "adj",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 213"
+  },
+  {
+   "id": "walang-pagod-a07",
+   "tl": "walang-pagod",
+   "en": "adj. tireless",
+   "pos": "adj",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 213"
+  },
+  {
+   "id": "wasto-a07",
+   "tl": "wasto",
+   "en": "(syn. tama) adj. correct; appropriate",
+   "pos": "expr",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 213"
+  },
+  {
+   "id": "watawat-a07",
+   "tl": "watawat",
+   "en": "n. flag, banner",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 213"
+  },
+  {
+   "id": "welga-a07",
+   "tl": "welga",
+   "en": "n. labor strike",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 213"
+  },
+  {
+   "id": "yabag-a07",
+   "tl": "yabag",
+   "en": "n. footstep",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 213"
+  },
+  {
+   "id": "yakap-a07",
+   "tl": "yakap",
+   "en": "n. embrace; yakapin v. to embrace",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 213"
+  },
+  {
+   "id": "yaman-a07",
+   "tl": "yaman",
+   "en": "n. wealth; mayaman adj. rich, wealthy",
+   "pos": "noun",
+   "group": "gtz",
+   "note": "Book Vocabulary List, page 213"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "match",
+   "q": "Match the word from the book list.",
+   "pairs": [
+    [
+     "paksa",
+     "subject, theme"
+    ],
+    [
+     "pirmá",
+     "signature"
+    ],
+    [
+     "masunurin",
+     "obedient"
+    ],
+    [
+     "tuwid",
+     "straight"
+    ],
+    [
+     "tubo",
+     "pipe"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the word from the book list.",
+   "pairs": [
+    [
+     "libangan",
+     "recreation, entertainment"
+    ],
+    [
+     "kulog",
+     "thunder"
+    ],
+    [
+     "electrika",
+     "electric, electrical"
+    ],
+    [
+     "apoy",
+     "flame"
+    ],
+    [
+     "tagumpay",
+     "victory"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the word from the book list.",
+   "pairs": [
+    [
+     "eskuwela",
+     "school"
+    ],
+    [
+     "timog",
+     "south"
+    ],
+    [
+     "suskrisyon",
+     "subscription"
+    ],
+    [
+     "sagana",
+     "abundant, plenty"
+    ],
+    [
+     "lihim",
+     "secret"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the word from the book list.",
+   "pairs": [
+    [
+     "pangit",
+     "ugly"
+    ],
+    [
+     "ulap",
+     "cloud"
+    ],
+    [
+     "kusina",
+     "kitchen"
+    ],
+    [
+     "magdasal",
+     "to pray"
+    ],
+    [
+     "tasa",
+     "cup"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the word from the book list.",
+   "pairs": [
+    [
+     "talaan",
+     "list, record"
+    ],
+    [
+     "mamulot",
+     "to pick something"
+    ],
+    [
+     "alahas",
+     "jewelry"
+    ],
+    [
+     "tela",
+     "cloth"
+    ],
+    [
+     "aspile",
+     "pin"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the word from the book list.",
+   "pairs": [
+    [
+     "rekado",
+     "condiments for cooking"
+    ],
+    [
+     "lalamunan",
+     "throat"
+    ],
+    [
+     "tapat",
+     "faithful, honest"
+    ],
+    [
+     "lumipad",
+     "to fly"
+    ],
+    [
+     "bawal",
+     "vl. prohibited, not allowed"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the word from the book list.",
+   "pairs": [
+    [
+     "guhit",
+     "line"
+    ],
+    [
+     "publiko",
+     "public"
+    ],
+    [
+     "hintayan",
+     "a waiting place"
+    ],
+    [
+     "bakal",
+     "iron, steel"
+    ],
+    [
+     "ginoo",
+     "gentleman, mister"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the word from the book list.",
+   "pairs": [
+    [
+     "suki",
+     "steady client"
+    ],
+    [
+     "kinatawan",
+     "representative"
+    ],
+    [
+     "anino",
+     "shadow"
+    ],
+    [
+     "mamamayan",
+     "citizen"
+    ],
+    [
+     "amo",
+     "master, boss, employer"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the word from the book list.",
+   "pairs": [
+    [
+     "lipon",
+     "group"
+    ],
+    [
+     "handaan",
+     "celebration, party"
+    ],
+    [
+     "hawak",
+     "hold"
+    ],
+    [
+     "duwag",
+     "coward"
+    ],
+    [
+     "ngiti",
+     "smile"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the word from the book list.",
+   "pairs": [
+    [
+     "kabayo",
+     "horse"
+    ],
+    [
+     "halalan",
+     "election"
+    ],
+    [
+     "kagatin",
+     "to bite"
+    ],
+    [
+     "bisig",
+     "arms"
+    ],
+    [
+     "bangka",
+     "boat, banca"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the word from the book list.",
+   "pairs": [
+    [
+     "ulat",
+     "report"
+    ],
+    [
+     "sama-sama",
+     "altogether"
+    ],
+    [
+     "aplikasyon",
+     "application"
+    ],
+    [
+     "likod",
+     "at the back, rear"
+    ],
+    [
+     "huminga",
+     "to breathe"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the word from the book list.",
+   "pairs": [
+    [
+     "dibdib",
+     "breast, chest"
+    ],
+    [
+     "hinlalaki",
+     "thumb"
+    ],
+    [
+     "alon",
+     "wave"
+    ],
+    [
+     "noo",
+     "forehead"
+    ],
+    [
+     "kuwintas",
+     "necklace"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the word from the book list.",
+   "pairs": [
+    [
+     "pamahalaan",
+     "government"
+    ],
+    [
+     "proyekto",
+     "project"
+    ],
+    [
+     "negosyo",
+     "business, industry"
+    ],
+    [
+     "hawakan",
+     "to hold"
+    ],
+    [
+     "kantina",
+     "canteen"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the word from the book list.",
+   "pairs": [
+    [
+     "langgam",
+     "ants"
+    ],
+    [
+     "ginabi",
+     "overtaken by nightfall"
+    ],
+    [
+     "ngunit",
+     "but"
+    ],
+    [
+     "palayok",
+     "clay pot"
+    ],
+    [
+     "kalakip",
+     "included, enclosed"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the word from the book list.",
+   "pairs": [
+    [
+     "kalusugan",
+     "health, well-being"
+    ],
+    [
+     "paligid",
+     "surroundings"
+    ],
+    [
+     "magpaalam",
+     "to bid goodbye"
+    ],
+    [
+     "iwan",
+     "to leave behind"
+    ],
+    [
+     "aplaya",
+     "beach, seashore"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the word from the book list.",
+   "pairs": [
+    [
+     "sinangag",
+     "fried rice"
+    ],
+    [
+     "sakim",
+     "selfish"
+    ],
+    [
+     "elegante",
+     "elegant, classy"
+    ],
+    [
+     "tuyâ",
+     "sarcasm, irony"
+    ],
+    [
+     "puso",
+     "heart"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the word from the book list.",
+   "pairs": [
+    [
+     "kutsero",
+     "calesa driver"
+    ],
+    [
+     "pipa",
+     "pipe"
+    ],
+    [
+     "upang",
+     "so, so that"
+    ],
+    [
+     "pulbos",
+     "powder"
+    ],
+    [
+     "humiga",
+     "to lie down"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the word from the book list.",
+   "pairs": [
+    [
+     "kamiseta",
+     "undershirt"
+    ],
+    [
+     "kagalit",
+     "enemy"
+    ],
+    [
+     "pagkamatay",
+     "death"
+    ],
+    [
+     "plantsa",
+     "flat iron"
+    ],
+    [
+     "maniwala",
+     "to believe"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the word from the book list.",
+   "pairs": [
+    [
+     "piraso",
+     "piece"
+    ],
+    [
+     "dugo",
+     "blood"
+    ],
+    [
+     "tinidor",
+     "table fork"
+    ],
+    [
+     "walang-hiya",
+     "shameless"
+    ],
+    [
+     "hilaga",
+     "north"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the word from the book list.",
+   "pairs": [
+    [
+     "lumubog",
+     "to sink"
+    ],
+    [
+     "maghugas",
+     "to wash"
+    ],
+    [
+     "nota",
+     "musical note"
+    ],
+    [
+     "putahe",
+     "a dish or viand"
+    ],
+    [
+     "maghain",
+     "to set the table"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the word from the book list.",
+   "pairs": [
+    [
+     "talambuhay",
+     "biography"
+    ],
+    [
+     "lasingan",
+     "a noisy drinking party"
+    ],
+    [
+     "pangalawang pangulo",
+     "vice-president"
+    ],
+    [
+     "watawat",
+     "flag, banner"
+    ],
+    [
+     "kulay",
+     "color"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the word from the book list.",
+   "pairs": [
+    [
+     "magpalipas",
+     "to while the hours away"
+    ],
+    [
+     "kumot",
+     "blanket"
+    ],
+    [
+     "pakinabang",
+     "profit, gain"
+    ],
+    [
+     "ilista",
+     "to list down"
+    ],
+    [
+     "aplikante",
+     "applicant"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the word from the book list.",
+   "pairs": [
+    [
+     "nguso",
+     "upper lip"
+    ],
+    [
+     "hintay",
+     "to wait for"
+    ],
+    [
+     "sari-sari",
+     "of various kinds"
+    ],
+    [
+     "karatula",
+     "signboard"
+    ],
+    [
+     "namatay",
+     "died"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the word from the book list.",
+   "pairs": [
+    [
+     "masaya",
+     "happy, cheerful"
+    ],
+    [
+     "hagdan",
+     "ladder"
+    ],
+    [
+     "kawani",
+     "employee"
+    ],
+    [
+     "patingin",
+     "to take a look"
+    ],
+    [
+     "manigo",
+     "prosperous"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "The book has two Vocabulary Lists (pages 208 to 218); search them in Words › Book list.",
+  "These cards are the list's words that no lesson teaches, copied exactly as printed (no accent marks).",
+  "Abbreviations: n. noun, v. verb, adj. adjective, adv. adverb, interj. interjection."
+ ]
+}

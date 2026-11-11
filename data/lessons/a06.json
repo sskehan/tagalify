@@ -1,0 +1,1084 @@
+{
+ "id": "a06",
+ "label": "A6",
+ "title": "Conversations: the mall, mealtime, visiting the sick, school, a vacation",
+ "summary": "Five more conversations with the book's translations: a family day at the mall, breakfast, lunch and supper at home, visiting a sick friend, the first day back at school, and a family beach trip",
+ "minutes": 35,
+ "goals": [
+  "Follow a family conversation at the mall",
+  "Talk at the table at breakfast, lunch and supper",
+  "Visit a sick friend politely, starting with Tao pô",
+  "Introduce yourself to new classmates",
+  "Follow a family planning a day at the beach",
+  "Use aling, mang, manang, manong and ate correctly"
+ ],
+ "sections": [
+  {
+   "title": "At the mall",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Sa Mall** (*At the Mall*). Going to the mall on weekends is one of the recreational activities of Filipinos in the city. Fidel, Dolor and their children Boyet and Helen spend a Saturday at a mall in Quezon City."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Isa sa mga libangan ng mga Pilipino sa lungsod ay ang pagtungo sa mall tuwing Sabado at Linggo. Isang Sabado, ang mag-asawang Fidel at Dolor at ang kanilang mga anak na sina Boyet at Helen, ay nagpunta sa isang mall sa Quezon City.",
+       "en": "One of the recreational activities of Filipinos in the city is going to the mall on weekends. One Saturday, the couple Fidel and Dolor and their children, Boyet and Helen, went to a mall in Quezon City.",
+       "parts": []
+      },
+      {
+       "tl": "Tumingin-tingin muna tayo sa mga tindahan bago manood ng sine.",
+       "en": "DOLOR: Let's take a look around at the stores first before we watch a movie.",
+       "parts": []
+      },
+      {
+       "tl": "Pumunta tayo sa tindahan ng mga plaka. May bagong labas ngayon ang bandang Hale.",
+       "en": "HELEN: Let's go to the record store. The band Hale has a new release.",
+       "parts": []
+      },
+      {
+       "tl": "Sa tindahan ng mga kompyuter ang gusto ko. May mga bagong labas na mga laro.",
+       "en": "BOYET: I like to go to computer stores. There are new games.",
+       "parts": []
+      },
+      {
+       "tl": "Pumunta rin tayo sa loob ng department store. Bagsak-presyo sila sa maraming bagay. Baka makabili ako ng sapatos.",
+       "en": "DOLOR: Let's go inside the department store. They have slashed prices on many items. I might be able to buy a pair of shoes.",
+       "parts": []
+      },
+      {
+       "tl": "Ay naku, lumalaki ang gastos!",
+       "en": "FIDEL: My! It's getting more expensive!",
+       "parts": []
+      },
+      {
+       "tl": "Daddy, tignan mo. Napakaraming kainan dito. Parang masarap lahat.",
+       "en": "HELEN: Look Daddy, there are many restaurants here. They all seem good.",
+       "parts": []
+      },
+      {
+       "tl": "Oo nga, pero mahal lamang ng kaunti.",
+       "en": "FIDEL: Yes, it's true, but it's a bit more expensive.",
+       "parts": []
+      },
+      {
+       "tl": "Fidel, bakit hindi ka bumili ng bagong pantalon? Luma na ang damit pampasok mo sa opisina.",
+       "en": "DOLOR: Fidel, why don't you buy a new pair of pants? Your office clothes are already worn-out.",
+       "parts": []
+      },
+      {
+       "tl": "Tignan natin.",
+       "en": "FIDEL: Let's see.",
+       "parts": []
+      },
+      {
+       "tl": "Daddy, Mommy, may palabas pala ang mga artista dito. Manood tayo.",
+       "en": "BOYET: Daddy, Mommy, there's a show by artists here. Let's have a look.",
+       "parts": []
+      },
+      {
+       "tl": "Baka tayo gabihin.",
+       "en": "DOLOR: It might be late by then.",
+       "parts": []
+      },
+      {
+       "tl": "Sandali lamang po. Wala namang pasok bukas.",
+       "en": "BOYET: It won't take long. Anyway, there are no classes tomorrow.",
+       "parts": []
+      },
+      {
+       "tl": "Siya, siya, sige na nga.",
+       "en": "DOLOR: All right, all right, let's go.",
+       "parts": []
+      }
+     ],
+     "title": "At the Mall"
+    },
+    {
+     "type": "box",
+     "kind": "culture",
+     "title": "Notes: the mall",
+     "items": [
+      "It is never enough to translate *mall* as **tindahan** (*store*). Malls in the Philippines are multistory shopping centers offering everything from food and entertainment to books and clothes.",
+      "The English word **mall** has been part of Filipino speech, probably since the early 1990s.",
+      "It is also used almost like *department store*, although a department store may also be found inside a mall."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "mall",
+     "title": "Words and phrases"
+    }
+   ]
+  },
+  {
+   "title": "At mealtime",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Sa Oras ng Pagkain** (*At Mealtime*) has three short scenes: **almusal** (breakfast), **tanghalian** (lunch) and **hapunan** (supper)."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Magkasabay nag-agahan ang pamilyang Aquino nang umagang iyon. Gaya ng dati, naghanda ng sinangag na kain si Aling Betty para sa pamilya. Nagprito rin siya ng tuyo at nagbati ng itlog.",
+       "en": "The Aquino family had breakfast together that morning. As usual, Aling Betty prepared fried rice for her family. She also fried dried fish and scrambled eggs.",
+       "parts": []
+      },
+      {
+       "tl": "Kumain kayo habang mainit pa ang sinangag.",
+       "en": "ALING BETTY: You better eat now while the fried rice is still hot.",
+       "parts": []
+      },
+      {
+       "tl": "Magdasal muna tayo bago kumain.",
+       "en": "MANG JOSE: Let's pray first before eating.",
+       "parts": []
+      },
+      {
+       "tl": "Nanay, paki-abot po ang binating itlog at kanin.",
+       "en": "DAUGHTER: Mother, please pass the scrambled eggs and rice.",
+       "parts": []
+      },
+      {
+       "tl": "Gusto ko rin po ng binating itlog.",
+       "en": "SON: I also like scrambled eggs.",
+       "parts": []
+      },
+      {
+       "tl": "Pakilagyan nga ng mainit na tubig ang tasa ko.",
+       "en": "MANG JOSE: Could you please pour hot water into my cup?",
+       "parts": []
+      },
+      {
+       "tl": "Mga bata, inumin ninyo ang inyong tsokolate.",
+       "en": "ALING BETTY: Children, drink your chocolate.",
+       "parts": []
+      },
+      {
+       "tl": "Opô, inay.",
+       "en": "CHILDREN: Yes, mother.",
+       "parts": []
+      },
+      {
+       "tl": "Kumain kayo nang mabuti para hindi magutom sa eskuwela.",
+       "en": "ALING BETTY: Eat well, so you won't get hungry in school.",
+       "parts": []
+      }
+     ],
+     "title": "A. Almusal (Breakfast)"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ano ang pananghalian, Manang?",
+       "en": "LORENZO: What's for lunch, Manang?",
+       "parts": []
+      },
+      {
+       "tl": "Nagluto ako ng paksiw na bangus at ginisang monggo.",
+       "en": "MAID: I cooked milkfish in vinegar and sauteed mung beans.",
+       "parts": []
+      },
+      {
+       "tl": "May kahalo bang bunga ng ampalaya?",
+       "en": "LORENZO: Does it have bittermelon fruit?",
+       "parts": []
+      },
+      {
+       "tl": "Oo, isinama ko na pati dahon.",
+       "en": "MAID: Yes, I also included the leaves.",
+       "parts": []
+      },
+      {
+       "tl": "Naku, masarap ang kain ko ngayon.",
+       "en": "LORENZO: My, I shall have a good meal today.",
+       "parts": []
+      },
+      {
+       "tl": "May minatamis din na saba.",
+       "en": "MAID: There is also sweetened saba.",
+       "parts": []
+      }
+     ],
+     "title": "B. Tanghalian (Lunch)"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Gabi na nang dumating si Mang Ignacio sa kanilang bahay.",
+       "en": "It was already late in the evening when Mang Ignacio arrived home.",
+       "parts": []
+      },
+      {
+       "tl": "Masyado akong natrapik sa EDSA kaya ako ginabi.",
+       "en": "MANG IGNACIO: I was caught in a traffic along EDSA, that's why I'm late.",
+       "parts": []
+      },
+      {
+       "tl": "Siya, kumain ka na. Baka gutom na gutom ka na. Iinit ko lang ang ulam. Kumain na ang mga bata. Nag-aaral sila sa kanilang kuwarto.",
+       "en": "ALING MAYA: Well, you better eat now. I will reheat your food. The children had already eaten. They are studying in their room.",
+       "parts": []
+      },
+      {
+       "tl": "Salamat. Masarap ang ulam. Gusto ko ng ginataang tilapia.",
+       "en": "MANG IGNACIO: Thank you. The viand is delicious. I like tilapia in coconut milk.",
+       "parts": []
+      }
+     ],
+     "title": "C. Hapunan (Supper)"
+    },
+    {
+     "type": "box",
+     "kind": "culture",
+     "title": "Vocabulary List and Notes",
+     "items": [
+      "**almusál** = breakfast, also **agahan**.",
+      "**siya** = a colloquial term for *all right* or *okay* (Siya, kumain ka na = Well, you better eat now). Do not confuse it with the pronoun **siyá**.",
+      "**ulam** = viand; the dish of meat or vegetables that goes with rice in every meal.",
+      "**manang** (for females) or **manong** (for males) = names used to address an older maid or any elderly person who serves in a household or sells commodities.",
+      "**ate** (pronounced **a-te**) is frequently used to address a younger maid."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "meal",
+     "title": "Vocabulary List and Notes"
+    }
+   ]
+  },
+  {
+   "title": "Visiting an ill person",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Pagdalaw Sa Maysakít** (*Visiting an Ill Person*). Aling Lourdes visits her sick friend Maria and brings a dozen oranges."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Dumalaw si Aling Lourdes sa kaibigang maysakit. May dala siyang isang dosenang dalandan.",
+       "en": "Lourdes visited her sick friend. She brought a dozen oranges.",
+       "parts": []
+      },
+      {
+       "tl": "Tao po.",
+       "en": "LOURDES: (The book gives no translation here; see the notes below.)",
+       "parts": []
+      },
+      {
+       "tl": "Aba! Si Aling Lourdes pala. Pasok kayo.",
+       "en": "PEDRO: Oh! It's Aling Lourdes. Please come in.",
+       "parts": []
+      },
+      {
+       "tl": "Kamusta ang asawa mo?",
+       "en": "LOURDES: How is your wife?",
+       "parts": []
+      },
+      {
+       "tl": "Mabuti-buti po ngayon. Pasok kayo. Narito siya.",
+       "en": "PEDRO: She's getting better now. Please come in. She is here.",
+       "parts": []
+      },
+      {
+       "tl": "Maria, kumusta ka na? Ano ba ang lagay mo ngayon?",
+       "en": "LOURDES: Maria, how are you? What is your condition now? How are you feeling now?",
+       "parts": []
+      },
+      {
+       "tl": "Masakit ang aking dibdib at may lagnat ako sa hapon.",
+       "en": "MARIA: My chest is painful and I have fever in the afternoon.",
+       "parts": []
+      },
+      {
+       "tl": "Maganda na ang kulay mo ngayon kaysa noong huli kitang dinalaw. May dala akong dalandan para sa iyo.",
+       "en": "LOURDES: Your color is better now than the last time I visited you. I brought some oranges for you.",
+       "parts": []
+      },
+      {
+       "tl": "Naku, salamat, Lourdes. Nag-abala ka pa.",
+       "en": "MARIA: Thank you, Lourdes. You shouldn't have bothered.",
+       "parts": []
+      },
+      {
+       "tl": "Mabuti'y patingin ka na sa doctor habang maaga nang gumaling ka.",
+       "en": "LOURDES: It's better for you to see a doctor this early so you can recover faster.",
+       "parts": []
+      },
+      {
+       "tl": "Oo nga. Dadalhin ako ng aking anak sa PGH (or Philippine General Hospital) bukas. Wala raw bayad doon.",
+       "en": "MARIA: Yes, that's true. My son will take me to PGH tomorrow. They say it's free there.",
+       "parts": []
+      },
+      {
+       "tl": "Siya, hindi na ako magtatagal para makapahinga ka na. At saka na ako paparito ulit.",
+       "en": "LOURDES: Well, I will not stay long so you can have some rest. I will visit you again.",
+       "parts": []
+      },
+      {
+       "tl": "Maraming salamat sa pagdalaw mo.",
+       "en": "MARIA: Thank you for visiting.",
+       "parts": []
+      },
+      {
+       "tl": "Adios.",
+       "en": "LOURDES: Goodbye.",
+       "parts": []
+      }
+     ],
+     "title": "Visiting an Ill Person"
+    },
+    {
+     "type": "box",
+     "kind": "culture",
+     "title": "Notes",
+     "items": [
+      "**Tao pô** = a set expression used to announce that a person is outside somebody's house, especially if there is no doorbell.",
+      "**aling** (for females) or **mang** (for males) = placed before the names of unrelated older persons. Even people of the same age, especially older people themselves, call each other this way (Aling Lourdes, Mang Ignacio)."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Book spellings",
+     "t": "In this conversation the book prints both **Kamusta** and **kumusta** (how are you)."
+    },
+    {
+     "type": "vocab",
+     "group": "visit",
+     "title": "Notes and phrases"
+    }
+   ]
+  },
+  {
+   "title": "At school",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Sa Páaralán** (*At School*). Summer vacation is over. Antonio and Roberta meet Ricky, a transferee from another school."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Tapos na ang bakasyon sa tag-araw ng mga estudiyante. Muling pumasok sa kanilang paaralan sina Antonio at Roberta. May nakilala silang bagong lipat mula sa ibang paaralan at nagpakilala sila.",
+       "en": "The students' summer vacation had ended. Antonio and Roberta went back to school. They met a transferee from another school and they introduced themselves.",
+       "parts": []
+      },
+      {
+       "tl": "Ang pangalan ko ay Antonio.",
+       "en": "ANTONIO: My name is Antonio.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "pangalan",
+         "name",
+         "noun"
+        ],
+        [
+         "ko",
+         "my",
+         "poss"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "Antonio",
+         "Antonio",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang pangalan ko naman ay Robert.",
+       "en": "ROBERTA: And my name is Roberta.",
+       "parts": []
+      },
+      {
+       "tl": "Ako si Ricky. Galing ako sa Bulacan.",
+       "en": "RICKY: I am Ricky. I came from Bulacan.",
+       "parts": []
+      },
+      {
+       "tl": "Bakit ka lumipat dito sa Maynila?",
+       "en": "ANTONIO: Why did you transfer to Manila?",
+       "parts": []
+      },
+      {
+       "tl": "Mas malapit ang trabaho ng ama ko dito kaysa sa Bulacan kaya lumipat na rin ang buong pamilya namin dito.",
+       "en": "RICKY: My father's work is nearer here than to Bulacan so the whole family decided to move here.",
+       "parts": []
+      },
+      {
+       "tl": "Ano ba ang taon at seksiyon mo?",
+       "en": "ROBERTA: What is your year and section?",
+       "parts": []
+      },
+      {
+       "tl": "Pangalawang taon, seksiyon 2.",
+       "en": "RICKY: Second year, section 2.",
+       "parts": []
+      },
+      {
+       "tl": "Magkaseksiyon pala tayo sa pangalawang taon. Halika, sumama ka sa amin. Tumunog na ang kampana.",
+       "en": "ANTONIO: It seems we belong to the same section in the second year. Come, join us. The bell has rung.",
+       "parts": []
+      },
+      {
+       "tl": "Salamat.",
+       "en": "RICKY: Thank you.",
+       "parts": []
+      },
+      {
+       "tl": "Maraming nag-aaral dito. May pang-umaga at may panghapon na mga seksiyon. Mahusay rin ang mga guro rito.",
+       "en": "ROBERTA: There are many students here. There are morning and afternoon sections. The teachers here are also good.",
+       "parts": []
+      },
+      {
+       "tl": "Nasaan ang aklatan?",
+       "en": "RICKY: Where is the library?",
+       "parts": []
+      },
+      {
+       "tl": "Nasa ikatlong palapag. Ipapasyal ka namin mamaya sa buong eskuwelahan, sa aklatan, sa gym at palaruan sa likod ng gusali.",
+       "en": "ANTONIO: On the third floor. We will tour you later around the school, to the library, gym and playground behind the building.",
+       "parts": []
+      },
+      {
+       "tl": "May kantina rin banda roon. Doon tayo manananghalian.",
+       "en": "ROBERTA: There's a canteen over there. We will have lunch there.",
+       "parts": []
+      },
+      {
+       "tl": "May dala akong baon.",
+       "en": "RICKY: I brought my own lunch.",
+       "parts": []
+      },
+      {
+       "tl": "Hindi bale. Dalhin mo, doon ka na kumain sa kantina.",
+       "en": "ANTONIO: It doesn't matter. Bring your lunch with you and eat it in the canteen.",
+       "parts": []
+      },
+      {
+       "tl": "Salamat. Maraming salamat. Sana maging magkakaibigan tayo.",
+       "en": "RICKY: Thank you. Thank you very much. I hope we would be friends.",
+       "parts": []
+      },
+      {
+       "tl": "Siyempre naman.",
+       "en": "ROBERTA: Of course.",
+       "parts": []
+      }
+     ],
+     "title": "At School"
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "A slip in the book",
+     "t": "Roberta's line prints **Robert** in the Tagalog, but the English says **Roberta**. It is shown here exactly as printed."
+    },
+    {
+     "type": "vocab",
+     "group": "school",
+     "title": "Phrases from the conversation"
+    }
+   ]
+  },
+  {
+   "title": "Let's go on a vacation",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Magbakasyón Táyo** (*Let's Go on a Vacation*). The Santos family goes to a beach resort in Batangas."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ang mag-anak na Santos ay pumunta sa isang bakasyunan sa Batangas. Malapit ang bakasyunan sa dagat at maraming mga punong niyog sa paligid.",
+       "en": "The Santos family went to a resort in Batangas. The resort is near the sea and has many coconut trees all around.",
+       "parts": []
+      },
+      {
+       "tl": "Lumangoy tayo sa dagat mamaya.",
+       "en": "SON: Let's swim in the sea later.",
+       "parts": []
+      },
+      {
+       "tl": "Teka, hindi pa tayo nakakapag-ayos ng mga gamit natin. Pumunta muna tayo sa kubo na inilaan sa atin.",
+       "en": "MOTHER: Wait. We have not fixed our things yet. Let's go first to the nipa hut reserved for us.",
+       "parts": []
+      },
+      {
+       "tl": "Inay, tignan mo. May bangka sa aplaya. Puwede tayong mamangka.",
+       "en": "DAUGHTER: Mother, look. There's a boat on the beach. We can go boating.",
+       "parts": []
+      },
+      {
+       "tl": "Makikipag-ayos tayo sa katiwala tungkol sa pamamangka. Kailangang mag-ingat tayo. Kung minsan lumalakas ang alon sa lugar na ito.",
+       "en": "FATHER: We will make an arrangement with the caretaker regarding the use of the boat. We have to be careful. Sometimes the waves in this place can be very strong.",
+       "parts": []
+      },
+      {
+       "tl": "Ibaba na ninyo ang mga gamit mula sa kotse. Iyong mga kaldero, mga plato, kalan, ihawan, kubyertos at ang lalagyan ng yelo.",
+       "en": "MOTHER: Unload the things from the car. The pans, plates, stove, griller, the silverware and the ice container.",
+       "parts": []
+      },
+      {
+       "tl": "Narito ang lahat. Ano ba ang iluluto natin ngayon?",
+       "en": "FATHER: Everything is here. What are we going to cook now?",
+       "parts": []
+      },
+      {
+       "tl": "Ihawin mo na ang dalag na nabili natin sa daan. At ilaga mo na ang mga alimango. Nagluto na ako ng adobong manok at gulay sa bahay kaninang umaga.",
+       "en": "MOTHER: Grill the mudfish that we bought along the road. Boil the crabs, too. I already cooked chicken adobo and vegetables at home.",
+       "parts": []
+      },
+      {
+       "tl": "Hoy, mga bata. Tulungan ninyo ako rito. Pagkapananghalian ay maglalakad tayo sa aplaya. Makapamumulot kayo ng kabibe.",
+       "en": "FATHER: Hey children. Give me a hand. After lunch, we'll walk along the beach. You can pick up shells.",
+       "parts": []
+      },
+      {
+       "tl": "Tayo na, bilisan natin para makalangoy tayo kaagad.",
+       "en": "CHILDREN: Come on, hurry so we can swim at once.",
+       "parts": []
+      }
+     ],
+     "title": "Let's Go on a Vacation"
+    },
+    {
+     "type": "vocab",
+     "group": "vac",
+     "title": "Phrases from the conversation"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "**Tao pô** announces you at someone's door; **Pasok kayo** = Please come in.",
+      "**aling / mang** go before the names of older people; **manang / manong** address an older maid or vendor; **ate** a younger maid.",
+      "**siya** (no accent) = all right, okay; **siyá** = he, she.",
+      "Meals: **almusál / agahan** (breakfast), **tanghalian** (lunch), **hapunan** (supper); **ulam** goes with rice.",
+      "Handy replies: **Tignan natin** (Let's see), **Hindi bale** (It doesn't matter), **Siyempre naman** (Of course)."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "tindahan-a06",
+   "tl": "tindahan",
+   "en": "store",
+   "pos": "noun",
+   "group": "mall",
+   "note": "Lesson 1 prints tindáhan."
+  },
+  {
+   "id": "mall-a06",
+   "tl": "mall",
+   "en": "mall (a multistory shopping center)",
+   "pos": "noun",
+   "group": "mall"
+  },
+  {
+   "id": "tignan-natin-a06",
+   "tl": "Tignan natin.",
+   "en": "Let's see.",
+   "pos": "phrase",
+   "group": "mall"
+  },
+  {
+   "id": "baka-tayo-gabihin-a06",
+   "tl": "Baka tayo gabihin.",
+   "en": "It might be late by then.",
+   "pos": "phrase",
+   "group": "mall"
+  },
+  {
+   "id": "siya-siya-sige-a06",
+   "tl": "Siya, siya, sige na nga.",
+   "en": "All right, all right, let's go.",
+   "pos": "phrase",
+   "group": "mall"
+  },
+  {
+   "id": "almusal-a06",
+   "tl": "almusál",
+   "en": "breakfast",
+   "pos": "noun",
+   "group": "meal",
+   "say": "al-mu-SAL",
+   "note": "Also agahan (in Appendix A2)."
+  },
+  {
+   "id": "tanghalian-a06",
+   "tl": "tanghalian",
+   "en": "lunch",
+   "pos": "noun",
+   "group": "meal"
+  },
+  {
+   "id": "hapunan-a06",
+   "tl": "hapunan",
+   "en": "supper",
+   "pos": "noun",
+   "group": "meal",
+   "note": "Lesson 42 prints hapúnan."
+  },
+  {
+   "id": "siya-okay-a06",
+   "tl": "siya",
+   "en": "all right; okay (colloquial)",
+   "pos": "part",
+   "group": "meal",
+   "note": "Do not confuse with the pronoun siyá."
+  },
+  {
+   "id": "ulam-a06",
+   "tl": "ulam",
+   "en": "viand; dish of meat or vegetables that goes with rice in every meal",
+   "pos": "noun",
+   "group": "meal"
+  },
+  {
+   "id": "manang-a06",
+   "tl": "manang",
+   "en": "name used to address an older maid or any elderly person who serves in a household or sells commodities (for females)",
+   "pos": "noun",
+   "group": "meal"
+  },
+  {
+   "id": "manong-a06",
+   "tl": "manong",
+   "en": "name used to address an older maid or any elderly person who serves in a household or sells commodities (for males)",
+   "pos": "noun",
+   "group": "meal"
+  },
+  {
+   "id": "ate-a06",
+   "tl": "ate",
+   "en": "used to address a younger maid",
+   "pos": "noun",
+   "group": "meal",
+   "say": "a-te",
+   "note": "The book says it is pronounced a-te."
+  },
+  {
+   "id": "tao-po-a06",
+   "tl": "Tao pô",
+   "en": "a set expression used to announce the presence of a person outside of somebody's house, especially if there is no doorbell",
+   "pos": "phrase",
+   "group": "visit"
+  },
+  {
+   "id": "aling-a06",
+   "tl": "aling",
+   "en": "name used to address unrelated older persons (for females), placed before the name",
+   "pos": "noun",
+   "group": "visit"
+  },
+  {
+   "id": "mang-a06",
+   "tl": "mang",
+   "en": "name used to address unrelated older persons (for males), placed before the name",
+   "pos": "noun",
+   "group": "visit"
+  },
+  {
+   "id": "pasok-kayo-a06",
+   "tl": "Pasok kayo.",
+   "en": "Please come in.",
+   "pos": "phrase",
+   "group": "visit"
+  },
+  {
+   "id": "nag-abala-ka-pa-a06",
+   "tl": "Nag-abala ka pa.",
+   "en": "You shouldn't have bothered.",
+   "pos": "phrase",
+   "group": "visit"
+  },
+  {
+   "id": "maraming-salamat-pagdalaw-a06",
+   "tl": "Maraming salamat sa pagdalaw mo.",
+   "en": "Thank you for visiting.",
+   "pos": "phrase",
+   "group": "visit"
+  },
+  {
+   "id": "adios-a06",
+   "tl": "Adios.",
+   "en": "Goodbye.",
+   "pos": "phrase",
+   "group": "visit"
+  },
+  {
+   "id": "nasaan-aklatan-a06",
+   "tl": "Nasaan ang aklatan?",
+   "en": "Where is the library?",
+   "pos": "phrase",
+   "group": "school"
+  },
+  {
+   "id": "may-dala-akong-baon-a06",
+   "tl": "May dala akong baon.",
+   "en": "I brought my own lunch.",
+   "pos": "phrase",
+   "group": "school"
+  },
+  {
+   "id": "hindi-bale-a06",
+   "tl": "Hindi bale.",
+   "en": "It doesn't matter.",
+   "pos": "phrase",
+   "group": "school"
+  },
+  {
+   "id": "siyempre-naman-a06",
+   "tl": "Siyempre naman.",
+   "en": "Of course.",
+   "pos": "phrase",
+   "group": "school"
+  },
+  {
+   "id": "lumangoy-tayo-a06",
+   "tl": "Lumangoy tayo sa dagat mamaya.",
+   "en": "Let's swim in the sea later.",
+   "pos": "phrase",
+   "group": "vac"
+  },
+  {
+   "id": "narito-ang-lahat-a06",
+   "tl": "Narito ang lahat.",
+   "en": "Everything is here.",
+   "pos": "phrase",
+   "group": "vac"
+  },
+  {
+   "id": "tulungan-ninyo-ako-a06",
+   "tl": "Tulungan ninyo ako rito.",
+   "en": "Give me a hand.",
+   "pos": "phrase",
+   "group": "vac"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "According to the book's note, is \"tindahan\" (store) a good translation of mall?",
+   "options": [
+    "No: malls are multistory shopping centers offering everything",
+    "Yes: they mean exactly the same",
+    "No: a mall is a market (palengke)"
+   ],
+   "answer": "No: malls are multistory shopping centers offering everything",
+   "explain": "It is never sufficient to translate mall as tindahan."
+  },
+  {
+   "type": "choice",
+   "q": "Fidel says \"Tignan natin.\" What does he mean?",
+   "options": [
+    "Let's see.",
+    "Let's go.",
+    "Let's eat."
+   ],
+   "answer": "Let's see.",
+   "explain": "His answer when Dolor suggests new pants."
+  },
+  {
+   "type": "choice",
+   "q": "Which word is another word for almusál (breakfast)?",
+   "options": [
+    "agahan",
+    "tanghalian",
+    "hapunan"
+   ],
+   "answer": "agahan",
+   "explain": "tanghalian = lunch; hapunan = supper."
+  },
+  {
+   "type": "choice",
+   "q": "What is \"ulam\"?",
+   "options": [
+    "the dish of meat or vegetables that goes with rice in every meal",
+    "fried rice",
+    "a sweet dessert"
+   ],
+   "answer": "the dish of meat or vegetables that goes with rice in every meal",
+   "explain": "Masarap ang ulam = The viand is delicious."
+  },
+  {
+   "type": "choice",
+   "q": "Aling Maya says \"Siya, kumain ka na.\" What does siya mean here?",
+   "options": [
+    "all right / okay (well)",
+    "he or she",
+    "already"
+   ],
+   "answer": "all right / okay (well)",
+   "explain": "Do not confuse colloquial siya with the pronoun siyá."
+  },
+  {
+   "type": "choice",
+   "q": "Whom do you call \"manong\"?",
+   "options": [
+    "an older man who serves in a household or sells commodities",
+    "a younger maid",
+    "your own father"
+   ],
+   "answer": "an older man who serves in a household or sells commodities",
+   "explain": "Manang is for females; ate is used for a younger maid."
+  },
+  {
+   "type": "choice",
+   "q": "When do you say \"Tao pô\"?",
+   "options": [
+    "To announce that you are outside somebody's house",
+    "To say goodbye",
+    "To thank a host"
+   ],
+   "answer": "To announce that you are outside somebody's house",
+   "explain": "Especially if there is no doorbell."
+  },
+  {
+   "type": "choice",
+   "q": "Where does \"aling\" or \"mang\" go?",
+   "options": [
+    "Before the name of an older person",
+    "After the name",
+    "At the end of the sentence"
+   ],
+   "answer": "Before the name of an older person",
+   "explain": "Aling Lourdes, Mang Ignacio."
+  },
+  {
+   "type": "choice",
+   "q": "Maria says \"Nag-abala ka pa.\" What does she mean?",
+   "options": [
+    "You shouldn't have bothered.",
+    "You are very late.",
+    "Please come in."
+   ],
+   "answer": "You shouldn't have bothered.",
+   "explain": "She says it when Lourdes brings oranges."
+  },
+  {
+   "type": "choice",
+   "q": "Antonio says \"Hindi bale.\" What does it mean?",
+   "options": [
+    "It doesn't matter.",
+    "Of course.",
+    "Thank you."
+   ],
+   "answer": "It doesn't matter.",
+   "explain": "Ricky has brought his own lunch."
+  },
+  {
+   "type": "listen",
+   "tl": "Siyempre naman.",
+   "options": [
+    "Of course.",
+    "Let's see.",
+    "It doesn't matter."
+   ],
+   "answer": "Of course.",
+   "explain": "Roberta's answer to Ricky."
+  },
+  {
+   "type": "listen",
+   "tl": "Nasaan ang aklatan?",
+   "options": [
+    "Where is the library?",
+    "Where is the canteen?",
+    "Where is the playground?"
+   ],
+   "answer": "Where is the library?",
+   "explain": "aklatan = library."
+  },
+  {
+   "type": "listen",
+   "tl": "Opô, inay.",
+   "options": [
+    "Yes, mother.",
+    "Thank you, mother.",
+    "Good morning, mother."
+   ],
+   "answer": "Yes, mother.",
+   "explain": "The children's polite answer."
+  },
+  {
+   "type": "listen",
+   "tl": "Adios.",
+   "options": [
+    "Goodbye.",
+    "Thank you.",
+    "Welcome."
+   ],
+   "answer": "Goodbye.",
+   "explain": "Lourdes's last word."
+  },
+  {
+   "type": "build",
+   "en": "Let's see.",
+   "tl": "Tignan natin.",
+   "tokens": [
+    "tignan",
+    "natin"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "My name is Antonio.",
+   "tl": "Ang pangalan ko ay Antonio.",
+   "tokens": [
+    "ang",
+    "pangalan",
+    "ko",
+    "ay",
+    "antonio"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Where is the library?",
+   "tl": "Nasaan ang aklatan?",
+   "tokens": [
+    "nasaan",
+    "ang",
+    "aklatan"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "I brought my own lunch.",
+   "tl": "May dala akong baon.",
+   "tokens": [
+    "may",
+    "dala",
+    "akong",
+    "baon"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Let's swim in the sea later.",
+   "tl": "Lumangoy tayo sa dagat mamaya.",
+   "tokens": [
+    "lumangoy",
+    "tayo",
+    "sa",
+    "dagat",
+    "mamaya"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Thank you for visiting.",
+   "tl": "Maraming salamat sa pagdalaw mo.",
+   "tokens": [
+    "maraming",
+    "salamat",
+    "sa",
+    "pagdalaw",
+    "mo"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match the meal word to its meaning.",
+   "pairs": [
+    [
+     "almusál",
+     "breakfast"
+    ],
+    [
+     "tanghalian",
+     "lunch"
+    ],
+    [
+     "hapunan",
+     "supper"
+    ],
+    [
+     "ulam",
+     "viand"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the line to its meaning.",
+   "pairs": [
+    [
+     "Pasok kayo.",
+     "Please come in."
+    ],
+    [
+     "Baka tayo gabihin.",
+     "It might be late by then."
+    ],
+    [
+     "Narito ang lahat.",
+     "Everything is here."
+    ],
+    [
+     "Tulungan ninyo ako rito.",
+     "Give me a hand."
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the word to whom it is used for.",
+   "pairs": [
+    [
+     "aling",
+     "an older woman (before her name)"
+    ],
+    [
+     "mang",
+     "an older man (before his name)"
+    ],
+    [
+     "manang",
+     "an older maid or woman vendor"
+    ],
+    [
+     "ate",
+     "a younger maid"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "A mall is more than a tindahan (store): it is a multistory shopping center.",
+  "Meals: almusál or agahan (breakfast), tanghalian (lunch), hapunan (supper); ulam is the dish eaten with rice.",
+  "Siya (no accent) = all right, okay; siyá = he, she.",
+  "Tao pô announces you at the door; aling / mang go before older people's names; manang / manong and ate address household helpers and vendors.",
+  "Handy replies: Tignan natin (Let's see), Hindi bale (It doesn't matter), Siyempre naman (Of course), Adios (Goodbye)."
+ ]
+}

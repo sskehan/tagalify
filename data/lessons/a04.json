@@ -1,0 +1,2505 @@
+{
+ "id": "a04",
+ "label": "A4",
+ "title": "Everyday Tagalog expressions",
+ "summary": "Ready-made phrases for directions, children, time, speaking Tagalog, introductions, dressing up, parties, goodbyes, the market, kitchen, dining room and living room",
+ "minutes": 35,
+ "goals": [
+  "Ask for places and directions, and get around by bus or taxi",
+  "Give simple instructions to children",
+  "Say the day, month, date and year",
+  "Tell people you are learning Tagalog and ask for help",
+  "Introduce yourself and others",
+  "Use polite phrases as a guest or host: at a party, at meals, in the living room and when saying goodbye",
+  "Shop at the market and talk about the kitchen"
+ ],
+ "sections": [
+  {
+   "title": "About these expressions",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Lesson 3 gave you the first everyday expressions: greetings such as *Good day*, *How are you* and *Excuse me*, and the respect word **pô**. This appendix adds more ready-made phrases, grouped by **place or situation** (the market, the kitchen…), plus **instructions for children**. They are the kind of phrases you need when you talk with native Tagalog speakers."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "How to use this lesson",
+     "items": [
+      "Learn each phrase as a whole, like a block. You do not need to take every word apart.",
+      "Tap **Listen** on the examples and say them out loud.",
+      "Notice the respect word **pô / po** (Lesson 3) and the request words starting with **paki-** (Lesson 24), such as **Pakiturò** (please show) and **Paki-úlit** (please repeat).",
+      "Commands with **Huwág** (*do not*) come from Lesson 37."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "I. Locations and directions",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Phrases for finding places, asking for directions and taking a bus or taxi. **Saán** (*where*) starts many of them."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Puwédeng magtanóng?",
+       "en": "May I ask something?",
+       "parts": []
+      },
+      {
+       "tl": "Saán akó makakakíta ng isáng magalíng na réstawran?",
+       "en": "Where can I find a good restaurant?",
+       "parts": []
+      },
+      {
+       "tl": "Saán akó makakakíta ng simbáhang Protestánte?",
+       "en": "Where can I find a Protestant church?",
+       "parts": []
+      },
+      {
+       "tl": "Saán may doktór?",
+       "en": "Where can I find a doctor?",
+       "parts": []
+      },
+      {
+       "tl": "Anó ang pangálan ng kalsádang itó?",
+       "en": "What is the name of this street?",
+       "parts": []
+      },
+      {
+       "tl": "Saán nakatirá si Ginoóng Cruz?",
+       "en": "Where does Mr. Cruz live?",
+       "parts": []
+      },
+      {
+       "tl": "Pára po (sa kánto)!",
+       "en": "[Please] stop (at the corner)!",
+       "parts": []
+      },
+      {
+       "tl": "Kánan/Kaliwâ.",
+       "en": "Turn right/left.",
+       "parts": [
+        [
+         "Kánan",
+         "right",
+         "pred"
+        ],
+        [
+         "Kaliwâ",
+         "left",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Dirétso lang.",
+       "en": "Straight ahead.",
+       "parts": []
+      },
+      {
+       "tl": "Tumítigil ba ang bus dito?",
+       "en": "Does a bus stop here?",
+       "parts": []
+      },
+      {
+       "tl": "Gaáno katagal ang datíng ng (súsunod na) bus?",
+       "en": "How long before the (next) bus comes?",
+       "parts": []
+      },
+      {
+       "tl": "Saán páparoón ang bus na itó?",
+       "en": "Where is this bus going?",
+       "parts": []
+      },
+      {
+       "tl": "Anóng oras ang datíng nitóng bus sa Maynilà?",
+       "en": "What time does this bus arrive in Manila?",
+       "parts": []
+      },
+      {
+       "tl": "Paáno pumuntá sa Ortigas Avenue mulâ ditó?",
+       "en": "How do I get to Ortigas Avenue from here?",
+       "parts": []
+      },
+      {
+       "tl": "Anó ang ngálan ng báryong itó?",
+       "en": "What is the name of this barrio?",
+       "parts": []
+      },
+      {
+       "tl": "Puwéde bang inumín ang túbig na itó?",
+       "en": "Is this water safe to drink?",
+       "parts": []
+      },
+      {
+       "tl": "Saán makákabilí ng pagkain?",
+       "en": "Where can we buy food?",
+       "parts": []
+      },
+      {
+       "tl": "Pakiturò sa ákin ang daán.",
+       "en": "Please show me the way.",
+       "parts": []
+      },
+      {
+       "tl": "Mag-táksi táyo.",
+       "en": "Let us take a taxi.",
+       "parts": []
+      },
+      {
+       "tl": "Maghintáy ka rito.",
+       "en": "Wait here.",
+       "parts": []
+      }
+     ],
+     "title": "Locations and directions"
+    },
+    {
+     "type": "box",
+     "kind": "culture",
+     "title": "Stopping a ride",
+     "t": "**Pára po!** is what you call out to make a jeepney or bus stop. Add **sa kánto** to say *at the corner*."
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Book spellings",
+     "items": [
+      "This page prints **pangálan** (name); page 197 prints **pangalan**.",
+      "This page prints **Gaáno katagal**; page 199 prints **Gáano katagál**."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "loc",
+     "title": "Locations and directions"
+    }
+   ]
+  },
+  {
+   "title": "II. Instructions for children",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Short commands for children. Several begin with **Huwág** (*do not*), followed by **kang**, **kayóng** or **mong** (ka, kayó, mo + the ligature -ng from Lesson 7)."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Halíka.",
+       "en": "Come here.",
+       "parts": []
+      },
+      {
+       "tl": "Maghúgas ka ng kamáy at mukhâ.",
+       "en": "Wash your hands and face.",
+       "parts": []
+      },
+      {
+       "tl": "Isuót mo ang iyóng sapatos at damít.",
+       "en": "Put on your shoes and clothes.",
+       "parts": []
+      },
+      {
+       "tl": "Maupó ka at magpahingá.",
+       "en": "Sit down and rest.",
+       "parts": []
+      },
+      {
+       "tl": "Matúlog ka na.",
+       "en": "Go to sleep",
+       "parts": []
+      },
+      {
+       "tl": "Kúnin mo ang iyóng laruán.",
+       "en": "Pick up your toy.",
+       "parts": []
+      },
+      {
+       "tl": "Iligpít mo ang iyóng mga laruán.",
+       "en": "Put away your toys.",
+       "parts": []
+      },
+      {
+       "tl": "Huwág kang umiyák.",
+       "en": "Do not cry.",
+       "parts": []
+      },
+      {
+       "tl": "Huwág kayóng mag-away.",
+       "en": "Don't quarrel.",
+       "parts": []
+      },
+      {
+       "tl": "Lumabás kayó at maglarô.",
+       "en": "Go out and play.",
+       "parts": []
+      },
+      {
+       "tl": "Huwág mong gisíngin ang sanggól.",
+       "en": "Do not wake up the baby.",
+       "parts": []
+      },
+      {
+       "tl": "Magpakábaít ka.",
+       "en": "Be a good boy (or girl).",
+       "parts": []
+      }
+     ],
+     "title": "Instructions for children"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Do not…",
+     "items": [
+      "**Huwág kang umiyák.** Do not cry.",
+      "**Huwág kayóng mag-away.** Don't quarrel.",
+      "**Huwág mong gisíngin ang sanggól.** Do not wake up the baby."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "kids",
+     "title": "Instructions for children"
+    }
+   ]
+  },
+  {
+   "title": "III. Time",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Saying the time, day, month, date and year. The book writes the date as **ika-20 (or a bente)** and the year 2007 as **dalawáng libo at pitó**."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Anóng oras na?",
+       "en": "What time is it?",
+       "parts": []
+      },
+      {
+       "tl": "Ngayón ay Linggó.",
+       "en": "Today is Sunday.",
+       "parts": [
+        [
+         "Ngayón",
+         "today",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "Linggó",
+         "Sunday",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Búkas ay Lúnes.",
+       "en": "Tomorrow is Monday.",
+       "parts": [
+        [
+         "Búkas",
+         "tomorrow",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "Lúnes",
+         "Monday",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Sábado kahápon.",
+       "en": "Yesterday was Saturday.",
+       "parts": [
+        [
+         "Sábado",
+         "Saturday",
+         "pred"
+        ],
+        [
+         "kahápon",
+         "yesterday",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ngayón ay Mahál na Áraw.",
+       "en": "It is now Holy Week.",
+       "parts": []
+      },
+      {
+       "tl": "Ang buwáng ito ay Enéro.",
+       "en": "This month is January.",
+       "parts": []
+      },
+      {
+       "tl": "Ang pétsa ay ika-20 (or a bente) ng Abríl.",
+       "en": "The date is April 20.",
+       "parts": []
+      },
+      {
+       "tl": "Ang taón ay dalawáng libo at pitó.",
+       "en": "The year is 2007.",
+       "parts": []
+      }
+     ],
+     "title": "Time"
+    },
+    {
+     "type": "vocab",
+     "group": "time",
+     "title": "Time"
+    }
+   ]
+  },
+  {
+   "title": "IV. Speaking in Tagalog",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Useful phrases while you are learning: tell people you are learning, ask them to repeat or to correct you."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Nag-áaral akóng magsalitâ ng Tagálog.",
+       "en": "I am learning to speak Tagalog.",
+       "parts": []
+      },
+      {
+       "tl": "Nagsásalitâ akó ng káunti lámang.",
+       "en": "I speak only little Tagalog.",
+       "parts": []
+      },
+      {
+       "tl": "Kausápin mo akó sa Tagálog.",
+       "en": "Please talk to me in Tagalog.",
+       "parts": []
+      },
+      {
+       "tl": "Paáno sinásabi sa Tagálog ang ... ?",
+       "en": "How do you say ... in Tagalog?",
+       "parts": []
+      },
+      {
+       "tl": "Iwastô mo ang áking pagbigkás.",
+       "en": "Please correct my pronunciation.",
+       "parts": []
+      },
+      {
+       "tl": "Nag-áaral kamí ng inyóng wikà.",
+       "en": "We are studying your language.",
+       "parts": []
+      },
+      {
+       "tl": "Nagsásalitâ ka ba ng Tagálog?",
+       "en": "Do you speak Tagalog?",
+       "parts": []
+      },
+      {
+       "tl": "Hindî ko maintindihán.",
+       "en": "I do not understand.",
+       "parts": []
+      },
+      {
+       "tl": "Paki-úlit nga.",
+       "en": "Please repeat.",
+       "parts": []
+      },
+      {
+       "tl": "Anóng sinabi mo?",
+       "en": "What did you say?",
+       "parts": []
+      }
+     ],
+     "title": "Speaking in Tagalog"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Asking for a word",
+     "t": "**Paáno sinásabi sa Tagálog ang ... ?** Put the English word in the gap: *How do you say ... in Tagalog?*"
+    },
+    {
+     "type": "vocab",
+     "group": "speak",
+     "title": "Speaking in Tagalog"
+    }
+   ]
+  },
+  {
+   "title": "V. Making introductions",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Giving your name, asking someone's name and introducing a friend."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ang pangalan ko ay Jonathan.",
+       "en": "My name is Jonathan.",
+       "parts": []
+      },
+      {
+       "tl": "Anó ang pangalan mo?",
+       "en": "What is your name?",
+       "parts": []
+      },
+      {
+       "tl": "Síno ka/kayó?",
+       "en": "Who are you?",
+       "parts": []
+      },
+      {
+       "tl": "Saán ka nakatirá?",
+       "en": "Where do you live?",
+       "parts": []
+      },
+      {
+       "tl": "Itó ang kaibígan kong si Paolo.",
+       "en": "This is my friend Paolo.",
+       "parts": []
+      },
+      {
+       "tl": "Ikínagagalák kong mákilala kayó.",
+       "en": "I am pleased to meet you.",
+       "parts": []
+      },
+      {
+       "tl": "Dumálaw kayó sa ámin.",
+       "en": "Please come and visit us.",
+       "parts": []
+      },
+      {
+       "tl": "Kaibígan akó ni Jolina.",
+       "en": "I am Jolina's friend.",
+       "parts": []
+      },
+      {
+       "tl": "Síno ang mga kasáma mo?",
+       "en": "Who are your companions?",
+       "parts": []
+      },
+      {
+       "tl": "Ikáw ba ang kaibígan ng kapatíd kong babáe?",
+       "en": "Are you my sister's friend?",
+       "parts": []
+      },
+      {
+       "tl": "Kilalá ba kitá?",
+       "en": "Do I know you?",
+       "parts": []
+      },
+      {
+       "tl": "Kilalá kitá.",
+       "en": "I know you.",
+       "parts": []
+      },
+      {
+       "tl": "Hindí kitá kilalá.",
+       "en": "I do not know you.",
+       "parts": []
+      }
+     ],
+     "title": "Making introductions"
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Book spellings",
+     "t": "Page 198 prints **Hindí kitá kilalá** with an acute accent on hindí; page 197 prints **Hindî ko maintindihán**."
+    },
+    {
+     "type": "vocab",
+     "group": "intro",
+     "title": "Making introductions"
+    }
+   ]
+  },
+  {
+   "title": "VI. Dressing up",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Talking about what to wear."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Anó ang iyóng isúsuót?",
+       "en": "What will you wear?",
+       "parts": []
+      },
+      {
+       "tl": "Ewan ko. Walá akóng bágong damít.",
+       "en": "I do not know. I don't have a new dress.",
+       "parts": []
+      },
+      {
+       "tl": "Lumá na iyán.",
+       "en": "That is an old one.",
+       "parts": []
+      },
+      {
+       "tl": "Walá akóng máisuót.",
+       "en": "I have nothing to wear.",
+       "parts": []
+      },
+      {
+       "tl": "Isúsuót ko ang áking Bárong Tagálog.",
+       "en": "I will wear my Barong Tagalog.",
+       "parts": []
+      },
+      {
+       "tl": "Gustó ko ang Bárong Tagálog.",
+       "en": "I like the Barong Tagalog.",
+       "parts": []
+      },
+      {
+       "tl": "Itó ay malamíg isuót.",
+       "en": "It is cool.",
+       "parts": []
+      },
+      {
+       "tl": "Maínit ang amérikana.",
+       "en": "A coat is warm.",
+       "parts": [
+        [
+         "Maínit",
+         "warm",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "amérikana",
+         "coat",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Dressing up"
+    },
+    {
+     "type": "box",
+     "kind": "culture",
+     "title": "Barong Tagalog and amérikana",
+     "t": "**Amérikana** refers to the formal coat and tie introduced by the Americans. A coat is warm (**Maínit ang amérikana**), while the Barong Tagalog is cool to wear (**Itó ay malamíg isuót**)."
+    },
+    {
+     "type": "vocab",
+     "group": "dress",
+     "title": "Dressing up"
+    }
+   ]
+  },
+  {
+   "title": "VII. At a party",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Phrases a host and a guest use when food is served."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Handâ na ang pagkain. Kumáin na táyo.",
+       "en": "The food is ready. Let's eat.",
+       "parts": []
+      },
+      {
+       "tl": "Kumáin kayóng mabúti.",
+       "en": "Eat well.",
+       "parts": []
+      },
+      {
+       "tl": "Gustó mo pa ng kánin?",
+       "en": "Do you like more rice?",
+       "parts": []
+      },
+      {
+       "tl": "Kumúha pa kayó.",
+       "en": "Please get some more.",
+       "parts": []
+      },
+      {
+       "tl": "Húwag kayóng mahiyâ.",
+       "en": "Don't be shy.",
+       "parts": []
+      },
+      {
+       "tl": "Salámat. Busóg na akó.",
+       "en": "Thank you. I am already full.",
+       "parts": []
+      },
+      {
+       "tl": "Húwag na. Salámat.",
+       "en": "Thank you. I am already full. (the book's other way to say it)",
+       "parts": []
+      }
+     ],
+     "title": "At a party"
+    },
+    {
+     "type": "box",
+     "kind": "culture",
+     "title": "Don't be shy",
+     "t": "**Húwag kayóng mahiyâ.** is a very common expression of hosts when they offer food to their guests. It helps the guests feel more welcome in their homes."
+    },
+    {
+     "type": "vocab",
+     "group": "party",
+     "title": "At a party"
+    }
+   ]
+  },
+  {
+   "title": "VIII. Goodbyes",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Leaving a party and thanking the hosts."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Gabí na. Umuwî na táyo.",
+       "en": "It is late (at night). Let's go home.",
+       "parts": []
+      },
+      {
+       "tl": "Salámat sa inyóng pagparíto.",
+       "en": "Thank you for coming.",
+       "parts": []
+      },
+      {
+       "tl": "Nasiyahán kamí sa inyóng handâ.",
+       "en": "We enjoyed the party.",
+       "parts": []
+      },
+      {
+       "tl": "Pumaríto kayó ulî.",
+       "en": "Please come again.",
+       "parts": []
+      },
+      {
+       "tl": "Babalík kamí.",
+       "en": "We will return.",
+       "parts": [
+        [
+         "Babalík",
+         "will return",
+         "pred"
+        ],
+        [
+         "kamí",
+         "we",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Paalám. Maraming salámat.",
+       "en": "Goodbye. Thank you very much.",
+       "parts": []
+      },
+      {
+       "tl": "Paalám, hanggáng sa mulî.",
+       "en": "Goodbye, until next time.",
+       "parts": []
+      }
+     ],
+     "title": "Goodbyes"
+    },
+    {
+     "type": "vocab",
+     "group": "bye",
+     "title": "Goodbyes"
+    }
+   ]
+  },
+  {
+   "title": "IX. In the market",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Asking prices and buying at the market. **Magkano** means *how much*."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Sariwà ba ang karne?",
+       "en": "Is the meat fresh?",
+       "parts": []
+      },
+      {
+       "tl": "Magkano ito?",
+       "en": "How much is this?",
+       "parts": [
+        [
+         "Magkano",
+         "how much",
+         "pred"
+        ],
+        [
+         "ito",
+         "this",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Magkano ang isáng kílo ng baboy?",
+       "en": "How much is a kilo of pork?",
+       "parts": []
+      },
+      {
+       "tl": "Bigyán mo akó ng isáng kílo ng baka.",
+       "en": "Give me one kilo of beef.",
+       "parts": []
+      },
+      {
+       "tl": "Ang mahál namán nitó.",
+       "en": "This is expensive.",
+       "parts": []
+      },
+      {
+       "tl": "Méron pa ba kayóng ibá?",
+       "en": "Do you have other things?",
+       "parts": []
+      },
+      {
+       "tl": "Gawâ ba itó sa Pilipínas?",
+       "en": "Is this made in the Philippines?",
+       "parts": []
+      },
+      {
+       "tl": "Saán akó makakabilí ng mga subenir?",
+       "en": "Where can I buy souvenirs?",
+       "parts": []
+      },
+      {
+       "tl": "Magandáng presyo.",
+       "en": "The price is fair.",
+       "parts": []
+      },
+      {
+       "tl": "Hindî táma ang suklî.",
+       "en": "This is not the correct change.",
+       "parts": []
+      },
+      {
+       "tl": "Pakibalot ngâ ninyó itó.",
+       "en": "Please wrap this item.",
+       "parts": []
+      },
+      {
+       "tl": "Sulit ang presyo.",
+       "en": "The price is fair. (the book's other way to say it)",
+       "parts": []
+      }
+     ],
+     "title": "In the market"
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Book spellings",
+     "t": "The market list prints **karne** (meat); the dining-room list prints **karné**."
+    },
+    {
+     "type": "vocab",
+     "group": "market",
+     "title": "In the market"
+    }
+   ]
+  },
+  {
+   "title": "X. In the kitchen",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Describing things in the kitchen and giving kitchen jobs. Most describing sentences use the pattern **describing word + ang + thing**:"
+    },
+    {
+     "type": "pattern",
+     "title": "describing word + ang + thing",
+     "rows": [
+      {
+       "label": "hot stove",
+       "chips": [
+        {
+         "t": "Maínit",
+         "r": "pred"
+        },
+        {
+         "t": "ang",
+         "r": "marker"
+        },
+        {
+         "t": "pugón",
+         "r": "noun"
+        }
+       ]
+      },
+      {
+       "label": "sharp knife",
+       "chips": [
+        {
+         "t": "Matálas",
+         "r": "pred"
+        },
+        {
+         "t": "ang",
+         "r": "marker"
+        },
+        {
+         "t": "kutsílyo",
+         "r": "noun"
+        }
+       ]
+      }
+     ],
+     "note": "The stove is hot. · The knife is sharp."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Maínit ang pugón.",
+       "en": "The stove is hot.",
+       "parts": [
+        [
+         "Maínit",
+         "hot",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "pugón",
+         "stove",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Punô ang kaseróla.",
+       "en": "The pot is full.",
+       "parts": [
+        [
+         "Punô",
+         "full",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "kaseróla",
+         "pot",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Matálas ang kutsílyo.",
+       "en": "The knife is sharp.",
+       "parts": [
+        [
+         "Matálas",
+         "sharp",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "kutsílyo",
+         "knife",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Waláng lamán ang páminggalan.",
+       "en": "The pantry is empty.",
+       "parts": []
+      },
+      {
+       "tl": "Malilínis ang mga pinggán.",
+       "en": "The dishes are clean.",
+       "parts": [
+        [
+         "Malilínis",
+         "clean",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "mga",
+         "(plural)",
+         "marker"
+        ],
+        [
+         "pinggán",
+         "dishes",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Marumí ang sahíg.",
+       "en": "The floor is dirty.",
+       "parts": [
+        [
+         "Marumí",
+         "dirty",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "sahíg",
+         "floor",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Lutúin nátin ang pagkain.",
+       "en": "Let us cook the food.",
+       "parts": []
+      },
+      {
+       "tl": "Hugásan nang mabúti ang mga gúlay.",
+       "en": "Wash the vegetables thoroughly.",
+       "parts": []
+      },
+      {
+       "tl": "Iayos mo ang mga kábinet.",
+       "en": "Keep the cabinets in order.",
+       "parts": []
+      }
+     ],
+     "title": "In the kitchen"
+    },
+    {
+     "type": "vocab",
+     "group": "kitchen",
+     "title": "In the kitchen"
+    }
+   ]
+  },
+  {
+   "title": "XI. In the dining room",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Phrases for mealtime. Look for the **paki-** request words from Lesson 24: **Pakiabót** (please pass), **Pakidalá** (please bring), **Pakiligpít** (please clear)."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Oras na para kumáin.",
+       "en": "It is time to eat.",
+       "parts": []
+      },
+      {
+       "tl": "Anó ang ulam?",
+       "en": "What's for breakfast (or lunch or dinner)?",
+       "parts": []
+      },
+      {
+       "tl": "Magpasalamat tayó [sa áting pagkain].",
+       "en": "Let us say our graces.",
+       "parts": []
+      },
+      {
+       "tl": "Gustó mo ng karné?",
+       "en": "Will you have meat?",
+       "parts": []
+      },
+      {
+       "tl": "Pakiabót ng kánin.",
+       "en": "Please pass the rice.",
+       "parts": []
+      },
+      {
+       "tl": "Méron bang tsa?",
+       "en": "Do you have tea?",
+       "parts": []
+      },
+      {
+       "tl": "Gustó ko pa ng tsa.",
+       "en": "I would like more tea.",
+       "parts": [
+        [
+         "Gustó",
+         "like",
+         "pred"
+        ],
+        [
+         "ko",
+         "I",
+         "pron"
+        ],
+        [
+         "pa",
+         "more",
+         "part"
+        ],
+        [
+         "ng",
+         "(marker)",
+         "marker"
+        ],
+        [
+         "tsa",
+         "tea",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Pakidalá ng tinápay.",
+       "en": "Please bring the bread.",
+       "parts": []
+      },
+      {
+       "tl": "Tapós na kamíng kumáin.",
+       "en": "We are through eating.",
+       "parts": []
+      },
+      {
+       "tl": "Isáng básong túbig ngâ.",
+       "en": "A glass of water please.",
+       "parts": []
+      },
+      {
+       "tl": "Pakiligpít ang mésa.",
+       "en": "Please clear the table.",
+       "parts": []
+      },
+      {
+       "tl": "Ang saráp ng pagkain!",
+       "en": "That was a good meal!",
+       "parts": []
+      },
+      {
+       "tl": "Kaínan na.",
+       "en": "It is time to eat. (the book's other way to say it)",
+       "parts": []
+      }
+     ],
+     "title": "In the dining room"
+    },
+    {
+     "type": "box",
+     "kind": "culture",
+     "title": "Ulam",
+     "t": "**Ulam** (viand) is the dish that goes with rice at every meal. So **Anó ang ulam?** is how you ask what's for breakfast, lunch or dinner."
+    },
+    {
+     "type": "vocab",
+     "group": "dining",
+     "title": "In the dining room"
+    }
+   ]
+  },
+  {
+   "title": "XII. In the living room",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Welcoming visitors and chatting with them."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Tulóy kayó. Maupô kayó.",
+       "en": "Please come in and sit down.",
+       "parts": []
+      },
+      {
+       "tl": "Natútuwâ kamí sa pagparito ninyó.",
+       "en": "We are happy that you came.",
+       "parts": []
+      },
+      {
+       "tl": "Ang úpúang itó ay komportable.",
+       "en": "This chair is comfortable.",
+       "parts": []
+      },
+      {
+       "tl": "Ibig ba ninyóng makiníg ng tugtóg?",
+       "en": "Do you wish to listen to some music?",
+       "parts": []
+      },
+      {
+       "tl": "Ibig ba ninyóng magbasá ng diyaryo?",
+       "en": "Would you like to read the newspaper?",
+       "parts": []
+      },
+      {
+       "tl": "Ibig ba ninyó ng malamíg na túbig?",
+       "en": "Would you like some cold water?",
+       "parts": []
+      },
+      {
+       "tl": "Gáano katagál na kayóng nakatirá rito?",
+       "en": "How long have you been living here?",
+       "parts": []
+      },
+      {
+       "tl": "Nasísiyahán kamíng tumirá rito.",
+       "en": "We enjoy living here.",
+       "parts": []
+      },
+      {
+       "tl": "Ang mga tao dito ay mabubuti at matutulungin.",
+       "en": "The people here are friendly and helpful.",
+       "parts": []
+      }
+     ],
+     "title": "In the living room"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "Locations: **Saán…?** (where), **Pára po!** (stop), **Kánan/Kaliwâ** (turn right/left).",
+      "Children: **Huwág kang / kayóng / mong…** (do not…).",
+      "Learning: **Hindî ko maintindihán.** **Paki-úlit nga.**",
+      "Market: **Magkano ito?** **Ang mahál namán nitó.**",
+      "Polite requests with **paki-**: Pakiabót, Pakidalá, Pakiligpít, Pakibalot.",
+      "Host phrases: **Tulóy kayó. Maupô kayó.** **Húwag kayóng mahiyâ.**"
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "living",
+     "title": "In the living room"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "puwedeng-magtanong-a04",
+   "tl": "Puwédeng magtanóng?",
+   "en": "May I ask something?",
+   "pos": "phrase",
+   "group": "loc"
+  },
+  {
+   "id": "saan-restawran-a04",
+   "tl": "Saán akó makakakíta ng isáng magalíng na réstawran?",
+   "en": "Where can I find a good restaurant?",
+   "pos": "phrase",
+   "group": "loc"
+  },
+  {
+   "id": "saan-simbahan-a04",
+   "tl": "Saán akó makakakíta ng simbáhang Protestánte?",
+   "en": "Where can I find a Protestant church?",
+   "pos": "phrase",
+   "group": "loc"
+  },
+  {
+   "id": "saan-doktor-a04",
+   "tl": "Saán may doktór?",
+   "en": "Where can I find a doctor?",
+   "pos": "phrase",
+   "group": "loc"
+  },
+  {
+   "id": "pangalan-kalsada-a04",
+   "tl": "Anó ang pangálan ng kalsádang itó?",
+   "en": "What is the name of this street?",
+   "pos": "phrase",
+   "group": "loc",
+   "note": "This page prints pangálan; the introductions on page 197 print pangalan."
+  },
+  {
+   "id": "saan-nakatira-cruz-a04",
+   "tl": "Saán nakatirá si Ginoóng Cruz?",
+   "en": "Where does Mr. Cruz live?",
+   "pos": "phrase",
+   "group": "loc"
+  },
+  {
+   "id": "para-po-a04",
+   "tl": "Pára po (sa kánto)!",
+   "en": "[Please] stop (at the corner)!",
+   "pos": "phrase",
+   "group": "loc"
+  },
+  {
+   "id": "kanan-kaliwa-a04",
+   "tl": "Kánan/Kaliwâ.",
+   "en": "Turn right/left.",
+   "pos": "phrase",
+   "group": "loc"
+  },
+  {
+   "id": "diretso-lang-a04",
+   "tl": "Dirétso lang.",
+   "en": "Straight ahead.",
+   "pos": "phrase",
+   "group": "loc"
+  },
+  {
+   "id": "tumitigil-bus-a04",
+   "tl": "Tumítigil ba ang bus dito?",
+   "en": "Does a bus stop here?",
+   "pos": "phrase",
+   "group": "loc"
+  },
+  {
+   "id": "gaano-katagal-bus-a04",
+   "tl": "Gaáno katagal ang datíng ng (súsunod na) bus?",
+   "en": "How long before the (next) bus comes?",
+   "pos": "phrase",
+   "group": "loc",
+   "note": "The living-room list prints Gáano katagál."
+  },
+  {
+   "id": "saan-paparoon-a04",
+   "tl": "Saán páparoón ang bus na itó?",
+   "en": "Where is this bus going?",
+   "pos": "phrase",
+   "group": "loc"
+  },
+  {
+   "id": "anong-oras-dating-a04",
+   "tl": "Anóng oras ang datíng nitóng bus sa Maynilà?",
+   "en": "What time does this bus arrive in Manila?",
+   "pos": "phrase",
+   "group": "loc"
+  },
+  {
+   "id": "paano-pumunta-a04",
+   "tl": "Paáno pumuntá sa Ortigas Avenue mulâ ditó?",
+   "en": "How do I get to Ortigas Avenue from here?",
+   "pos": "phrase",
+   "group": "loc"
+  },
+  {
+   "id": "ngalan-baryo-a04",
+   "tl": "Anó ang ngálan ng báryong itó?",
+   "en": "What is the name of this barrio?",
+   "pos": "phrase",
+   "group": "loc"
+  },
+  {
+   "id": "puwede-inumin-a04",
+   "tl": "Puwéde bang inumín ang túbig na itó?",
+   "en": "Is this water safe to drink?",
+   "pos": "phrase",
+   "group": "loc"
+  },
+  {
+   "id": "saan-makakabili-pagkain-a04",
+   "tl": "Saán makákabilí ng pagkain?",
+   "en": "Where can we buy food?",
+   "pos": "phrase",
+   "group": "loc"
+  },
+  {
+   "id": "pakituro-daan-a04",
+   "tl": "Pakiturò sa ákin ang daán.",
+   "en": "Please show me the way.",
+   "pos": "phrase",
+   "group": "loc"
+  },
+  {
+   "id": "mag-taksi-a04",
+   "tl": "Mag-táksi táyo.",
+   "en": "Let us take a taxi.",
+   "pos": "phrase",
+   "group": "loc"
+  },
+  {
+   "id": "maghintay-rito-a04",
+   "tl": "Maghintáy ka rito.",
+   "en": "Wait here.",
+   "pos": "phrase",
+   "group": "loc"
+  },
+  {
+   "id": "halika-a04",
+   "tl": "Halíka.",
+   "en": "Come here.",
+   "pos": "phrase",
+   "group": "kids",
+   "note": "Lesson 34 prints halika."
+  },
+  {
+   "id": "maghugas-a04",
+   "tl": "Maghúgas ka ng kamáy at mukhâ.",
+   "en": "Wash your hands and face.",
+   "pos": "phrase",
+   "group": "kids"
+  },
+  {
+   "id": "isuot-sapatos-a04",
+   "tl": "Isuót mo ang iyóng sapatos at damít.",
+   "en": "Put on your shoes and clothes.",
+   "pos": "phrase",
+   "group": "kids"
+  },
+  {
+   "id": "maupo-magpahinga-a04",
+   "tl": "Maupó ka at magpahingá.",
+   "en": "Sit down and rest.",
+   "pos": "phrase",
+   "group": "kids"
+  },
+  {
+   "id": "matulog-a04",
+   "tl": "Matúlog ka na.",
+   "en": "Go to sleep",
+   "pos": "phrase",
+   "group": "kids"
+  },
+  {
+   "id": "kunin-laruan-a04",
+   "tl": "Kúnin mo ang iyóng laruán.",
+   "en": "Pick up your toy.",
+   "pos": "phrase",
+   "group": "kids"
+  },
+  {
+   "id": "iligpit-laruan-a04",
+   "tl": "Iligpít mo ang iyóng mga laruán.",
+   "en": "Put away your toys.",
+   "pos": "phrase",
+   "group": "kids"
+  },
+  {
+   "id": "huwag-umiyak-a04",
+   "tl": "Huwág kang umiyák.",
+   "en": "Do not cry.",
+   "pos": "phrase",
+   "group": "kids",
+   "note": "The party list prints Húwag."
+  },
+  {
+   "id": "huwag-mag-away-a04",
+   "tl": "Huwág kayóng mag-away.",
+   "en": "Don't quarrel.",
+   "pos": "phrase",
+   "group": "kids"
+  },
+  {
+   "id": "lumabas-maglaro-a04",
+   "tl": "Lumabás kayó at maglarô.",
+   "en": "Go out and play.",
+   "pos": "phrase",
+   "group": "kids"
+  },
+  {
+   "id": "huwag-gisingin-a04",
+   "tl": "Huwág mong gisíngin ang sanggól.",
+   "en": "Do not wake up the baby.",
+   "pos": "phrase",
+   "group": "kids"
+  },
+  {
+   "id": "magpakabait-a04",
+   "tl": "Magpakábaít ka.",
+   "en": "Be a good boy (or girl).",
+   "pos": "phrase",
+   "group": "kids"
+  },
+  {
+   "id": "ngayon-linggo-a04",
+   "tl": "Ngayón ay Linggó.",
+   "en": "Today is Sunday.",
+   "pos": "phrase",
+   "group": "time"
+  },
+  {
+   "id": "bukas-lunes-a04",
+   "tl": "Búkas ay Lúnes.",
+   "en": "Tomorrow is Monday.",
+   "pos": "phrase",
+   "group": "time"
+  },
+  {
+   "id": "sabado-kahapon-a04",
+   "tl": "Sábado kahápon.",
+   "en": "Yesterday was Saturday.",
+   "pos": "phrase",
+   "group": "time"
+  },
+  {
+   "id": "mahal-na-araw-a04",
+   "tl": "Ngayón ay Mahál na Áraw.",
+   "en": "It is now Holy Week.",
+   "pos": "phrase",
+   "group": "time"
+  },
+  {
+   "id": "buwang-ito-enero-a04",
+   "tl": "Ang buwáng ito ay Enéro.",
+   "en": "This month is January.",
+   "pos": "phrase",
+   "group": "time"
+  },
+  {
+   "id": "petsa-abril-a04",
+   "tl": "Ang pétsa ay ika-20 (or a bente) ng Abríl.",
+   "en": "The date is April 20.",
+   "pos": "phrase",
+   "group": "time",
+   "note": "Printed exactly as in the book: ika-20 (or a bente)."
+  },
+  {
+   "id": "taon-2007-a04",
+   "tl": "Ang taón ay dalawáng libo at pitó.",
+   "en": "The year is 2007.",
+   "pos": "phrase",
+   "group": "time"
+  },
+  {
+   "id": "nag-aaral-magsalita-a04",
+   "tl": "Nag-áaral akóng magsalitâ ng Tagálog.",
+   "en": "I am learning to speak Tagalog.",
+   "pos": "phrase",
+   "group": "speak"
+  },
+  {
+   "id": "nagsasalita-kaunti-a04",
+   "tl": "Nagsásalitâ akó ng káunti lámang.",
+   "en": "I speak only little Tagalog.",
+   "pos": "phrase",
+   "group": "speak"
+  },
+  {
+   "id": "kausapin-mo-ako-a04",
+   "tl": "Kausápin mo akó sa Tagálog.",
+   "en": "Please talk to me in Tagalog.",
+   "pos": "phrase",
+   "group": "speak"
+  },
+  {
+   "id": "paano-sinasabi-a04",
+   "tl": "Paáno sinásabi sa Tagálog ang ... ?",
+   "en": "How do you say ... in Tagalog?",
+   "pos": "phrase",
+   "group": "speak"
+  },
+  {
+   "id": "iwasto-pagbigkas-a04",
+   "tl": "Iwastô mo ang áking pagbigkás.",
+   "en": "Please correct my pronunciation.",
+   "pos": "phrase",
+   "group": "speak"
+  },
+  {
+   "id": "nag-aaral-wika-a04",
+   "tl": "Nag-áaral kamí ng inyóng wikà.",
+   "en": "We are studying your language.",
+   "pos": "phrase",
+   "group": "speak"
+  },
+  {
+   "id": "nagsasalita-ka-ba-a04",
+   "tl": "Nagsásalitâ ka ba ng Tagálog?",
+   "en": "Do you speak Tagalog?",
+   "pos": "phrase",
+   "group": "speak"
+  },
+  {
+   "id": "hindi-maintindihan-a04",
+   "tl": "Hindî ko maintindihán.",
+   "en": "I do not understand.",
+   "pos": "phrase",
+   "group": "speak"
+  },
+  {
+   "id": "paki-ulit-a04",
+   "tl": "Paki-úlit nga.",
+   "en": "Please repeat.",
+   "pos": "phrase",
+   "group": "speak"
+  },
+  {
+   "id": "anong-sinabi-a04",
+   "tl": "Anóng sinabi mo?",
+   "en": "What did you say?",
+   "pos": "phrase",
+   "group": "speak"
+  },
+  {
+   "id": "pangalan-ko-a04",
+   "tl": "Ang pangalan ko ay Jonathan.",
+   "en": "My name is Jonathan.",
+   "pos": "phrase",
+   "group": "intro"
+  },
+  {
+   "id": "ano-pangalan-mo-a04",
+   "tl": "Anó ang pangalan mo?",
+   "en": "What is your name?",
+   "pos": "phrase",
+   "group": "intro"
+  },
+  {
+   "id": "sino-ka-a04",
+   "tl": "Síno ka/kayó?",
+   "en": "Who are you?",
+   "pos": "phrase",
+   "group": "intro"
+  },
+  {
+   "id": "saan-ka-nakatira-a04",
+   "tl": "Saán ka nakatirá?",
+   "en": "Where do you live?",
+   "pos": "phrase",
+   "group": "intro"
+  },
+  {
+   "id": "ito-kaibigan-a04",
+   "tl": "Itó ang kaibígan kong si Paolo.",
+   "en": "This is my friend Paolo.",
+   "pos": "phrase",
+   "group": "intro"
+  },
+  {
+   "id": "ikinagagalak-a04",
+   "tl": "Ikínagagalák kong mákilala kayó.",
+   "en": "I am pleased to meet you.",
+   "pos": "phrase",
+   "group": "intro"
+  },
+  {
+   "id": "dumalaw-kayo-a04",
+   "tl": "Dumálaw kayó sa ámin.",
+   "en": "Please come and visit us.",
+   "pos": "phrase",
+   "group": "intro"
+  },
+  {
+   "id": "kaibigan-ni-jolina-a04",
+   "tl": "Kaibígan akó ni Jolina.",
+   "en": "I am Jolina's friend.",
+   "pos": "phrase",
+   "group": "intro"
+  },
+  {
+   "id": "sino-kasama-a04",
+   "tl": "Síno ang mga kasáma mo?",
+   "en": "Who are your companions?",
+   "pos": "phrase",
+   "group": "intro"
+  },
+  {
+   "id": "ikaw-ba-kaibigan-a04",
+   "tl": "Ikáw ba ang kaibígan ng kapatíd kong babáe?",
+   "en": "Are you my sister's friend?",
+   "pos": "phrase",
+   "group": "intro"
+  },
+  {
+   "id": "kilala-ba-kita-a04",
+   "tl": "Kilalá ba kitá?",
+   "en": "Do I know you?",
+   "pos": "phrase",
+   "group": "intro"
+  },
+  {
+   "id": "kilala-kita-a04",
+   "tl": "Kilalá kitá.",
+   "en": "I know you.",
+   "pos": "phrase",
+   "group": "intro"
+  },
+  {
+   "id": "hindi-kita-kilala-a04",
+   "tl": "Hindí kitá kilalá.",
+   "en": "I do not know you.",
+   "pos": "phrase",
+   "group": "intro",
+   "note": "Page 197 prints Hindî (Hindî ko maintindihán)."
+  },
+  {
+   "id": "isusuot-a04",
+   "tl": "Anó ang iyóng isúsuót?",
+   "en": "What will you wear?",
+   "pos": "phrase",
+   "group": "dress"
+  },
+  {
+   "id": "ewan-ko-a04",
+   "tl": "Ewan ko. Walá akóng bágong damít.",
+   "en": "I do not know. I don't have a new dress.",
+   "pos": "phrase",
+   "group": "dress"
+  },
+  {
+   "id": "luma-na-a04",
+   "tl": "Lumá na iyán.",
+   "en": "That is an old one.",
+   "pos": "phrase",
+   "group": "dress"
+  },
+  {
+   "id": "wala-maisuot-a04",
+   "tl": "Walá akóng máisuót.",
+   "en": "I have nothing to wear.",
+   "pos": "phrase",
+   "group": "dress"
+  },
+  {
+   "id": "isusuot-barong-a04",
+   "tl": "Isúsuót ko ang áking Bárong Tagálog.",
+   "en": "I will wear my Barong Tagalog.",
+   "pos": "phrase",
+   "group": "dress"
+  },
+  {
+   "id": "gusto-barong-a04",
+   "tl": "Gustó ko ang Bárong Tagálog.",
+   "en": "I like the Barong Tagalog.",
+   "pos": "phrase",
+   "group": "dress"
+  },
+  {
+   "id": "malamig-isuot-a04",
+   "tl": "Itó ay malamíg isuót.",
+   "en": "It is cool.",
+   "pos": "phrase",
+   "group": "dress"
+  },
+  {
+   "id": "mainit-amerikana-a04",
+   "tl": "Maínit ang amérikana.",
+   "en": "A coat is warm.",
+   "pos": "phrase",
+   "group": "dress",
+   "note": "Amérikana refers to the formal coat and tie introduced by the Americans."
+  },
+  {
+   "id": "amerikana-a04",
+   "tl": "amérikana",
+   "en": "a coat (the formal coat and tie introduced by the Americans)",
+   "pos": "noun",
+   "group": "dress",
+   "say": "a-ME-ri-ka-na"
+  },
+  {
+   "id": "handa-na-a04",
+   "tl": "Handâ na ang pagkain. Kumáin na táyo.",
+   "en": "The food is ready. Let's eat.",
+   "pos": "phrase",
+   "group": "party"
+  },
+  {
+   "id": "kumain-mabuti-a04",
+   "tl": "Kumáin kayóng mabúti.",
+   "en": "Eat well.",
+   "pos": "phrase",
+   "group": "party"
+  },
+  {
+   "id": "gusto-kanin-a04",
+   "tl": "Gustó mo pa ng kánin?",
+   "en": "Do you like more rice?",
+   "pos": "phrase",
+   "group": "party"
+  },
+  {
+   "id": "kumuha-pa-a04",
+   "tl": "Kumúha pa kayó.",
+   "en": "Please get some more.",
+   "pos": "phrase",
+   "group": "party"
+  },
+  {
+   "id": "huwag-mahiya-a04",
+   "tl": "Húwag kayóng mahiyâ.",
+   "en": "Don't be shy.",
+   "pos": "phrase",
+   "group": "party",
+   "note": "A very common expression of hosts when they offer food to their guests and want to make them feel more welcome. The children's list prints Huwág."
+  },
+  {
+   "id": "busog-na-a04",
+   "tl": "Salámat. Busóg na akó.",
+   "en": "Thank you. I am already full.",
+   "pos": "phrase",
+   "group": "party",
+   "note": "The book also gives: Húwag na. Salámat."
+  },
+  {
+   "id": "huwag-na-salamat-a04",
+   "tl": "Húwag na. Salámat.",
+   "en": "Thank you. I am already full.",
+   "pos": "phrase",
+   "group": "party",
+   "note": "The book's other way to say Salámat. Busóg na akó."
+  },
+  {
+   "id": "gabi-na-a04",
+   "tl": "Gabí na. Umuwî na táyo.",
+   "en": "It is late (at night). Let's go home.",
+   "pos": "phrase",
+   "group": "bye"
+  },
+  {
+   "id": "salamat-pagparito-a04",
+   "tl": "Salámat sa inyóng pagparíto.",
+   "en": "Thank you for coming.",
+   "pos": "phrase",
+   "group": "bye"
+  },
+  {
+   "id": "nasiyahan-a04",
+   "tl": "Nasiyahán kamí sa inyóng handâ.",
+   "en": "We enjoyed the party.",
+   "pos": "phrase",
+   "group": "bye"
+  },
+  {
+   "id": "pumarito-uli-a04",
+   "tl": "Pumaríto kayó ulî.",
+   "en": "Please come again.",
+   "pos": "phrase",
+   "group": "bye"
+  },
+  {
+   "id": "babalik-kami-a04",
+   "tl": "Babalík kamí.",
+   "en": "We will return.",
+   "pos": "phrase",
+   "group": "bye"
+  },
+  {
+   "id": "paalam-salamat-a04",
+   "tl": "Paalám. Maraming salámat.",
+   "en": "Goodbye. Thank you very much.",
+   "pos": "phrase",
+   "group": "bye",
+   "note": "Lesson 3 prints Maráming salámat."
+  },
+  {
+   "id": "hanggang-sa-muli-a04",
+   "tl": "Paalám, hanggáng sa mulî.",
+   "en": "Goodbye, until next time.",
+   "pos": "phrase",
+   "group": "bye"
+  },
+  {
+   "id": "sariwa-karne-a04",
+   "tl": "Sariwà ba ang karne?",
+   "en": "Is the meat fresh?",
+   "pos": "phrase",
+   "group": "market",
+   "note": "The dining-room list prints karné."
+  },
+  {
+   "id": "magkano-ito-a04",
+   "tl": "Magkano ito?",
+   "en": "How much is this?",
+   "pos": "phrase",
+   "group": "market"
+  },
+  {
+   "id": "kilo-baboy-a04",
+   "tl": "Magkano ang isáng kílo ng baboy?",
+   "en": "How much is a kilo of pork?",
+   "pos": "phrase",
+   "group": "market"
+  },
+  {
+   "id": "kilo-baka-a04",
+   "tl": "Bigyán mo akó ng isáng kílo ng baka.",
+   "en": "Give me one kilo of beef.",
+   "pos": "phrase",
+   "group": "market"
+  },
+  {
+   "id": "ang-mahal-a04",
+   "tl": "Ang mahál namán nitó.",
+   "en": "This is expensive.",
+   "pos": "phrase",
+   "group": "market"
+  },
+  {
+   "id": "meron-pa-iba-a04",
+   "tl": "Méron pa ba kayóng ibá?",
+   "en": "Do you have other things?",
+   "pos": "phrase",
+   "group": "market"
+  },
+  {
+   "id": "gawa-pilipinas-a04",
+   "tl": "Gawâ ba itó sa Pilipínas?",
+   "en": "Is this made in the Philippines?",
+   "pos": "phrase",
+   "group": "market"
+  },
+  {
+   "id": "subenir-a04",
+   "tl": "Saán akó makakabilí ng mga subenir?",
+   "en": "Where can I buy souvenirs?",
+   "pos": "phrase",
+   "group": "market"
+  },
+  {
+   "id": "magandang-presyo-a04",
+   "tl": "Magandáng presyo.",
+   "en": "The price is fair.",
+   "pos": "phrase",
+   "group": "market",
+   "note": "The book also gives: Sulit ang presyo."
+  },
+  {
+   "id": "hindi-tama-sukli-a04",
+   "tl": "Hindî táma ang suklî.",
+   "en": "This is not the correct change.",
+   "pos": "phrase",
+   "group": "market"
+  },
+  {
+   "id": "pakibalot-a04",
+   "tl": "Pakibalot ngâ ninyó itó.",
+   "en": "Please wrap this item.",
+   "pos": "phrase",
+   "group": "market"
+  },
+  {
+   "id": "sulit-ang-presyo-a04",
+   "tl": "Sulit ang presyo.",
+   "en": "The price is fair.",
+   "pos": "phrase",
+   "group": "market",
+   "note": "The book's other way to say Magandáng presyo."
+  },
+  {
+   "id": "mainit-pugon-a04",
+   "tl": "Maínit ang pugón.",
+   "en": "The stove is hot.",
+   "pos": "phrase",
+   "group": "kitchen"
+  },
+  {
+   "id": "puno-kaserola-a04",
+   "tl": "Punô ang kaseróla.",
+   "en": "The pot is full.",
+   "pos": "phrase",
+   "group": "kitchen"
+  },
+  {
+   "id": "matalas-kutsilyo-a04",
+   "tl": "Matálas ang kutsílyo.",
+   "en": "The knife is sharp.",
+   "pos": "phrase",
+   "group": "kitchen"
+  },
+  {
+   "id": "walang-laman-a04",
+   "tl": "Waláng lamán ang páminggalan.",
+   "en": "The pantry is empty.",
+   "pos": "phrase",
+   "group": "kitchen"
+  },
+  {
+   "id": "malilinis-pinggan-a04",
+   "tl": "Malilínis ang mga pinggán.",
+   "en": "The dishes are clean.",
+   "pos": "phrase",
+   "group": "kitchen"
+  },
+  {
+   "id": "marumi-sahig-a04",
+   "tl": "Marumí ang sahíg.",
+   "en": "The floor is dirty.",
+   "pos": "phrase",
+   "group": "kitchen"
+  },
+  {
+   "id": "lutuin-natin-a04",
+   "tl": "Lutúin nátin ang pagkain.",
+   "en": "Let us cook the food.",
+   "pos": "phrase",
+   "group": "kitchen"
+  },
+  {
+   "id": "hugasan-gulay-a04",
+   "tl": "Hugásan nang mabúti ang mga gúlay.",
+   "en": "Wash the vegetables thoroughly.",
+   "pos": "phrase",
+   "group": "kitchen"
+  },
+  {
+   "id": "iayos-kabinet-a04",
+   "tl": "Iayos mo ang mga kábinet.",
+   "en": "Keep the cabinets in order.",
+   "pos": "phrase",
+   "group": "kitchen"
+  },
+  {
+   "id": "oras-na-kumain-a04",
+   "tl": "Oras na para kumáin.",
+   "en": "It is time to eat.",
+   "pos": "phrase",
+   "group": "dining",
+   "note": "The book also gives: Kaínan na."
+  },
+  {
+   "id": "ano-ang-ulam-a04",
+   "tl": "Anó ang ulam?",
+   "en": "What's for breakfast (or lunch or dinner)?",
+   "pos": "phrase",
+   "group": "dining",
+   "note": "Ulam (viand) goes with rice every meal time."
+  },
+  {
+   "id": "magpasalamat-a04",
+   "tl": "Magpasalamat tayó [sa áting pagkain].",
+   "en": "Let us say our graces.",
+   "pos": "phrase",
+   "group": "dining",
+   "note": "Other lines print táyo."
+  },
+  {
+   "id": "gusto-karne-a04",
+   "tl": "Gustó mo ng karné?",
+   "en": "Will you have meat?",
+   "pos": "phrase",
+   "group": "dining",
+   "note": "The market list prints karne."
+  },
+  {
+   "id": "pakiabot-kanin-a04",
+   "tl": "Pakiabót ng kánin.",
+   "en": "Please pass the rice.",
+   "pos": "phrase",
+   "group": "dining"
+  },
+  {
+   "id": "meron-tsa-a04",
+   "tl": "Méron bang tsa?",
+   "en": "Do you have tea?",
+   "pos": "phrase",
+   "group": "dining"
+  },
+  {
+   "id": "gusto-pa-tsa-a04",
+   "tl": "Gustó ko pa ng tsa.",
+   "en": "I would like more tea.",
+   "pos": "phrase",
+   "group": "dining"
+  },
+  {
+   "id": "pakidala-tinapay-a04",
+   "tl": "Pakidalá ng tinápay.",
+   "en": "Please bring the bread.",
+   "pos": "phrase",
+   "group": "dining"
+  },
+  {
+   "id": "tapos-kumain-a04",
+   "tl": "Tapós na kamíng kumáin.",
+   "en": "We are through eating.",
+   "pos": "phrase",
+   "group": "dining"
+  },
+  {
+   "id": "basong-tubig-a04",
+   "tl": "Isáng básong túbig ngâ.",
+   "en": "A glass of water please.",
+   "pos": "phrase",
+   "group": "dining"
+  },
+  {
+   "id": "pakiligpit-mesa-a04",
+   "tl": "Pakiligpít ang mésa.",
+   "en": "Please clear the table.",
+   "pos": "phrase",
+   "group": "dining"
+  },
+  {
+   "id": "ang-sarap-a04",
+   "tl": "Ang saráp ng pagkain!",
+   "en": "That was a good meal!",
+   "pos": "phrase",
+   "group": "dining"
+  },
+  {
+   "id": "kainan-na-a04",
+   "tl": "Kaínan na.",
+   "en": "It is time to eat.",
+   "pos": "phrase",
+   "group": "dining",
+   "note": "The book's other way to say Oras na para kumáin."
+  },
+  {
+   "id": "ulam-a04",
+   "tl": "ulam",
+   "en": "viand (goes with rice every meal time)",
+   "pos": "noun",
+   "group": "dining"
+  },
+  {
+   "id": "tuloy-kayo-a04",
+   "tl": "Tulóy kayó. Maupô kayó.",
+   "en": "Please come in and sit down.",
+   "pos": "phrase",
+   "group": "living"
+  },
+  {
+   "id": "natutuwa-pagparito-a04",
+   "tl": "Natútuwâ kamí sa pagparito ninyó.",
+   "en": "We are happy that you came.",
+   "pos": "phrase",
+   "group": "living"
+  },
+  {
+   "id": "upuang-komportable-a04",
+   "tl": "Ang úpúang itó ay komportable.",
+   "en": "This chair is comfortable.",
+   "pos": "phrase",
+   "group": "living"
+  },
+  {
+   "id": "makinig-tugtog-a04",
+   "tl": "Ibig ba ninyóng makiníg ng tugtóg?",
+   "en": "Do you wish to listen to some music?",
+   "pos": "phrase",
+   "group": "living"
+  },
+  {
+   "id": "magbasa-diyaryo-a04",
+   "tl": "Ibig ba ninyóng magbasá ng diyaryo?",
+   "en": "Would you like to read the newspaper?",
+   "pos": "phrase",
+   "group": "living"
+  },
+  {
+   "id": "malamig-na-tubig-a04",
+   "tl": "Ibig ba ninyó ng malamíg na túbig?",
+   "en": "Would you like some cold water?",
+   "pos": "phrase",
+   "group": "living"
+  },
+  {
+   "id": "gaano-katagal-nakatira-a04",
+   "tl": "Gáano katagál na kayóng nakatirá rito?",
+   "en": "How long have you been living here?",
+   "pos": "phrase",
+   "group": "living"
+  },
+  {
+   "id": "nasisiyahan-tumira-a04",
+   "tl": "Nasísiyahán kamíng tumirá rito.",
+   "en": "We enjoy living here.",
+   "pos": "phrase",
+   "group": "living"
+  },
+  {
+   "id": "mga-tao-dito-a04",
+   "tl": "Ang mga tao dito ay mabubuti at matutulungin.",
+   "en": "The people here are friendly and helpful.",
+   "pos": "phrase",
+   "group": "living"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "How do you ask \"May I ask something?\"",
+   "options": [
+    "Puwédeng magtanóng?",
+    "Paki-úlit nga.",
+    "Saán may doktór?"
+   ],
+   "answer": "Puwédeng magtanóng?",
+   "explain": "Paki-úlit nga = Please repeat."
+  },
+  {
+   "type": "choice",
+   "q": "You want the jeepney to stop at the corner. What do you call out?",
+   "options": [
+    "Pára po (sa kánto)!",
+    "Dirétso lang.",
+    "Maghintáy ka rito."
+   ],
+   "answer": "Pára po (sa kánto)!",
+   "explain": "Dirétso lang = Straight ahead; Maghintáy ka rito = Wait here."
+  },
+  {
+   "type": "choice",
+   "q": "What does \"Kánan/Kaliwâ\" mean?",
+   "options": [
+    "Turn right/left.",
+    "Straight ahead.",
+    "Please show me the way."
+   ],
+   "answer": "Turn right/left.",
+   "explain": "Kánan = right, Kaliwâ = left."
+  },
+  {
+   "type": "choice",
+   "q": "Which phrase tells a child \"Do not cry\"?",
+   "options": [
+    "Huwág kang umiyák.",
+    "Huwág kayóng mag-away.",
+    "Matúlog ka na."
+   ],
+   "answer": "Huwág kang umiyák.",
+   "explain": "Huwág kayóng mag-away = Don't quarrel; Matúlog ka na = Go to sleep."
+  },
+  {
+   "type": "choice",
+   "q": "\"Búkas ay Lúnes.\" What does it mean?",
+   "options": [
+    "Tomorrow is Monday.",
+    "Today is Sunday.",
+    "Yesterday was Saturday."
+   ],
+   "answer": "Tomorrow is Monday.",
+   "explain": "Ngayón ay Linggó = Today is Sunday."
+  },
+  {
+   "type": "choice",
+   "q": "How do you say \"I do not understand\"?",
+   "options": [
+    "Hindî ko maintindihán.",
+    "Hindí kitá kilalá.",
+    "Ewan ko."
+   ],
+   "answer": "Hindî ko maintindihán.",
+   "explain": "Hindí kitá kilalá = I do not know you."
+  },
+  {
+   "type": "choice",
+   "q": "What does \"Ikínagagalák kong mákilala kayó\" mean?",
+   "options": [
+    "I am pleased to meet you.",
+    "Please come and visit us.",
+    "Who are your companions?"
+   ],
+   "answer": "I am pleased to meet you.",
+   "explain": "A polite phrase when you are introduced."
+  },
+  {
+   "type": "choice",
+   "q": "What is \"amérikana\"?",
+   "options": [
+    "The formal coat and tie introduced by the Americans",
+    "The Barong Tagalog",
+    "A new dress"
+   ],
+   "answer": "The formal coat and tie introduced by the Americans",
+   "explain": "Maínit ang amérikana = A coat is warm."
+  },
+  {
+   "type": "choice",
+   "q": "A host says \"Húwag kayóng mahiyâ.\" What do they mean?",
+   "options": [
+    "Don't be shy.",
+    "Please get some more.",
+    "Eat well."
+   ],
+   "answer": "Don't be shy.",
+   "explain": "A very common expression when hosts offer food to their guests."
+  },
+  {
+   "type": "choice",
+   "q": "Which is another way the book gives to say \"Thank you. I am already full\"?",
+   "options": [
+    "Húwag na. Salámat.",
+    "Kumúha pa kayó.",
+    "Gustó mo pa ng kánin?"
+   ],
+   "answer": "Húwag na. Salámat.",
+   "explain": "Salámat. Busóg na akó. is the first way."
+  },
+  {
+   "type": "choice",
+   "q": "At the market, how do you say \"This is expensive\"?",
+   "options": [
+    "Ang mahál namán nitó.",
+    "Magandáng presyo.",
+    "Magkano ito?"
+   ],
+   "answer": "Ang mahál namán nitó.",
+   "explain": "Magandáng presyo = The price is fair."
+  },
+  {
+   "type": "choice",
+   "q": "\"Hindî táma ang suklî.\" What does it mean?",
+   "options": [
+    "This is not the correct change.",
+    "Please wrap this item.",
+    "Do you have other things?"
+   ],
+   "answer": "This is not the correct change.",
+   "explain": "Suklî is the change you get back."
+  },
+  {
+   "type": "choice",
+   "q": "What is \"ulam\"?",
+   "options": [
+    "The viand that goes with rice every meal time",
+    "The rice itself",
+    "Tea"
+   ],
+   "answer": "The viand that goes with rice every meal time",
+   "explain": "Anó ang ulam? = What's for breakfast (or lunch or dinner)?"
+  },
+  {
+   "type": "choice",
+   "q": "Which phrase welcomes visitors into the living room?",
+   "options": [
+    "Tulóy kayó. Maupô kayó.",
+    "Gabí na. Umuwî na táyo.",
+    "Babalík kamí."
+   ],
+   "answer": "Tulóy kayó. Maupô kayó.",
+   "explain": "Please come in and sit down."
+  },
+  {
+   "type": "listen",
+   "tl": "Saán may doktór?",
+   "options": [
+    "Where can I find a doctor?",
+    "Where can I find a Protestant church?",
+    "Where does Mr. Cruz live?"
+   ],
+   "answer": "Where can I find a doctor?",
+   "explain": "Saán = where."
+  },
+  {
+   "type": "listen",
+   "tl": "Paki-úlit nga.",
+   "options": [
+    "Please repeat.",
+    "Please talk to me in Tagalog.",
+    "What did you say?"
+   ],
+   "answer": "Please repeat.",
+   "explain": "Anóng sinabi mo? = What did you say?"
+  },
+  {
+   "type": "listen",
+   "tl": "Paalám, hanggáng sa mulî.",
+   "options": [
+    "Goodbye, until next time.",
+    "Please come again.",
+    "Thank you for coming."
+   ],
+   "answer": "Goodbye, until next time.",
+   "explain": "Pumaríto kayó ulî = Please come again."
+  },
+  {
+   "type": "listen",
+   "tl": "Punô ang kaseróla.",
+   "options": [
+    "The pot is full.",
+    "The stove is hot.",
+    "The pantry is empty."
+   ],
+   "answer": "The pot is full.",
+   "explain": "Punô = full; kaseróla = pot."
+  },
+  {
+   "type": "listen",
+   "tl": "Pakiabót ng kánin.",
+   "options": [
+    "Please pass the rice.",
+    "Please bring the bread.",
+    "Please clear the table."
+   ],
+   "answer": "Please pass the rice.",
+   "explain": "Pakidalá ng tinápay = Please bring the bread."
+  },
+  {
+   "type": "build",
+   "en": "How much is this?",
+   "tl": "Magkano ito?",
+   "tokens": [
+    "magkano",
+    "ito"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The knife is sharp.",
+   "tl": "Matálas ang kutsílyo.",
+   "tokens": [
+    "matálas",
+    "ang",
+    "kutsílyo"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Do you speak Tagalog?",
+   "tl": "Nagsásalitâ ka ba ng Tagálog?",
+   "tokens": [
+    "nagsásalitâ",
+    "ka",
+    "ba",
+    "ng",
+    "tagálog"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "What is your name?",
+   "tl": "Anó ang pangalan mo?",
+   "tokens": [
+    "anó",
+    "ang",
+    "pangalan",
+    "mo"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "I would like more tea.",
+   "tl": "Gustó ko pa ng tsa.",
+   "tokens": [
+    "gustó",
+    "ko",
+    "pa",
+    "ng",
+    "tsa"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match the time phrase to its meaning.",
+   "pairs": [
+    [
+     "Anóng oras na?",
+     "What time is it?"
+    ],
+    [
+     "Ngayón ay Linggó.",
+     "Today is Sunday."
+    ],
+    [
+     "Sábado kahápon.",
+     "Yesterday was Saturday."
+    ],
+    [
+     "Ngayón ay Mahál na Áraw.",
+     "It is now Holy Week."
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the kitchen sentence to its meaning.",
+   "pairs": [
+    [
+     "Maínit ang pugón.",
+     "The stove is hot."
+    ],
+    [
+     "Marumí ang sahíg.",
+     "The floor is dirty."
+    ],
+    [
+     "Malilínis ang mga pinggán.",
+     "The dishes are clean."
+    ],
+    [
+     "Waláng lamán ang páminggalan.",
+     "The pantry is empty."
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the introduction to its meaning.",
+   "pairs": [
+    [
+     "Kilalá kitá.",
+     "I know you."
+    ],
+    [
+     "Kilalá ba kitá?",
+     "Do I know you?"
+    ],
+    [
+     "Saán ka nakatirá?",
+     "Where do you live?"
+    ],
+    [
+     "Síno ka/kayó?",
+     "Who are you?"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "Directions: Puwédeng magtanóng? Saán…? Pára po (sa kánto)! Kánan/Kaliwâ. Dirétso lang.",
+  "Children: Halíka. Huwág kang umiyák. Matúlog ka na. Magpakábaít ka.",
+  "Learning Tagalog: Hindî ko maintindihán. Paki-úlit nga. Paáno sinásabi sa Tagálog ang ... ?",
+  "Introductions: Ang pangalan ko ay… Ikínagagalák kong mákilala kayó.",
+  "Guest and host: Tulóy kayó. Kumáin na táyo. Húwag kayóng mahiyâ. Salámat. Busóg na akó.",
+  "Market and table: Magkano ito? Pakiabót ng kánin. Ang saráp ng pagkain!"
+ ]
+}

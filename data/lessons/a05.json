@@ -1,0 +1,1200 @@
+{
+ "id": "a05",
+ "label": "A5",
+ "title": "Conversations: meeting people, directions, the bank, a meeting, the market",
+ "summary": "Five real-life conversations with the book's translations: welcoming a visitor and making introductions, asking directions, changing money at a bank, running a club meeting, and shopping at the market and supermarket",
+ "minutes": 35,
+ "goals": [
+  "Follow a welcome and a round of introductions at work",
+  "Ask for directions and understand the answer",
+  "Change money and ask about opening a bank account",
+  "Follow the order of a club meeting",
+  "Buy fruit, vegetables, meat and fish at the market"
+ ],
+ "sections": [
+  {
+   "title": "How these conversations work",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "This appendix gives several everyday **conversations**. Each Tagalog line is followed by the book's **English translation**, with the speaker's name in front. A **Vocabulary List** and some **cultural notes** explain words that were not used in the earlier lessons."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "How to study them",
+     "items": [
+      "Read the English first so you know what is happening, then read the Tagalog line by line.",
+      "Tap **Listen** and repeat each line out loud, as if you were that speaker.",
+      "The translations are natural English, not word for word, so a Tagalog line and its English may not match word by word.",
+      "The narrator's lines (with no speaker) set the scene."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "culture",
+     "title": "Names and titles",
+     "items": [
+      "**Ginoong** = Mr. (Ginoong Smith), **Ginang / Gng.** = Mrs. (Ginang Jones), **Binibining** = Miss (Binibining Delia Orosa). These match the English translations.",
+      "**Aling** is used before an older woman's name (Aling Ana). The notes in the next lesson explain it."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Meeting someone and making introductions",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Pagtatagpô at Pagpapakilala** (*Meeting Someone and Making Introductions*). Linda welcomes her company's president, Peter Smith, at the start of his visit."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Dumating si Peter Smith galing sa Hong Kong. Sinalubong siya ni Linda Reyes, tagapamahala ng mga benta ng kanilang kompanya.",
+       "en": "Peter Smith arrived from Hong Kong. He was met by Linda Reyes, sales director of their company.",
+       "parts": []
+      },
+      {
+       "tl": "Maligayang pagdating, Ginoong Smith.",
+       "en": "LINDA: Welcome, Mr. Smith.",
+       "parts": []
+      },
+      {
+       "tl": "Salamat, kumusta ka Martin?",
+       "en": "PETER: Thank you. How are you, Linda?",
+       "parts": []
+      },
+      {
+       "tl": "Mabuti po naman. Kayo? Kumusta ang inyong biyahe?",
+       "en": "LINDA: I am fine. And you? How was your trip?",
+       "parts": []
+      },
+      {
+       "tl": "Mabuti naman. Maayos ang lahat.",
+       "en": "PETER: It was all right. Everything was fine.",
+       "parts": []
+      },
+      {
+       "tl": "May reserbasyon kayo sa Manila Peninsula. Narito na ang sundo ninyo na magdadala sa inyo sa otel. Magkita po tayo mamaya doon sa otel para sa pulong.",
+       "en": "LINDA: You have a reservation at the Manila Peninsula. Here's the person who will drive you to the hotel. I'll see you later at the hotel for the meeting.",
+       "parts": []
+      },
+      {
+       "tl": "Maraming salamat.",
+       "en": "PETER: Thank you.",
+       "parts": []
+      }
+     ],
+     "title": "Part 1: the arrival"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Pinulong ni Peter Smith ang mga kawani ng kanilang kompanya sa otel.",
+       "en": "Peter Smith met the personnel of the company in the hotel.",
+       "parts": []
+      },
+      {
+       "tl": "Ikinararangal kong ipakilala sa inyo ang ating pangulo, Si Ginoong Peter Smith.",
+       "en": "LINDA: I have the honor to introduce to you our president, Mr. Peter Smith.",
+       "parts": []
+      },
+      {
+       "tl": "Maraming salamat, Martin. Magandang umaga sa inyong lahat. Natutuwa ako sa muli nating pagkikita sa simula ng bagong taong ito. Binabati ko rin kayong lahat sa inyong magandang benta noong nakaraang taon.",
+       "en": "PETER: Thank you very much, Linda. Good morning to you all. I am happy to see you again at the start of this new year. I also congratulate you for the good sales last year.",
+       "parts": []
+      },
+      {
+       "tl": "Maraming salamat po. Talaga pong nagsikap ang lahat para maabot at malagpasan ang ating kota. Ginoong Smith, bago po tayo mag-umpisa ng miting, maari po bang ipakilala ko ang mga bago nating direktor?",
+       "en": "LINDA: Thank you very much, sir. Everybody really tried hard to reach and go beyond our quota. Mr. Smith, before we start the meeting, may I introduce our new directors?",
+       "parts": []
+      },
+      {
+       "tl": "Sige, ipagpatuloy mo.",
+       "en": "PETER: By all means, continue.",
+       "parts": []
+      },
+      {
+       "tl": "Ginoong Smith, si Ricardo Sandoval ang ating Katulong na Direktor sa Pagbebenta.",
+       "en": "LINDA: Mr. Smith, this is Ricardo Sandoval, Assistant Director for Sales.",
+       "parts": []
+      },
+      {
+       "tl": "Ikinagagalak kitang makilala, Ricardo.",
+       "en": "PETER: I am pleased to meet you, Ricardo.",
+       "parts": []
+      },
+      {
+       "tl": "Maraming salamat po.",
+       "en": "RICARDO: Thank you, sir.",
+       "parts": []
+      },
+      {
+       "tl": "At ito po naman si Binibining Delia Orosa, ang bago nating Direktor sa Pananaliksik.",
+       "en": "LINDA: And this is Miss Delia Orosa, our new Director for Research.",
+       "parts": []
+      },
+      {
+       "tl": "Ikinalulugod kong mapabilang ka sa ating pangkat, Delia.",
+       "en": "PETER: I am happy to have you in our group, Delia.",
+       "parts": []
+      },
+      {
+       "tl": "Salamat po.",
+       "en": "DELIA: Thank you, sir.",
+       "parts": [
+        [
+         "Salamat",
+         "thank you",
+         "pred"
+        ],
+        [
+         "po",
+         "(respect)",
+         "part"
+        ]
+       ]
+      }
+     ],
+     "title": "Part 2: meeting the staff"
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "A slip in the book",
+     "t": "In two of Peter's lines the Tagalog says **Martin**, but the English says **Linda** (the person he is talking to). The lines are shown here exactly as printed."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Polite phrases to borrow",
+     "items": [
+      "**Maligayang pagdating** = Welcome",
+      "**Ikinagagalak kitang makilala** = I am pleased to meet you",
+      "**Sige, ipagpatuloy mo.** = By all means, continue."
+     ]
+    },
+    {
+     "type": "p",
+     "t": "The book's Vocabulary List also gives **pangulo** = president, which you met in Lesson 26."
+    },
+    {
+     "type": "vocab",
+     "group": "meet",
+     "title": "Vocabulary List"
+    }
+   ]
+  },
+  {
+   "title": "Asking directions",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Pagtatanong Ng Direksiyón** (*Asking Directions*). Aling Ana and her daughter Sally have arrived in Quezon City from the province and need to get to Makati."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Bagong dating ang mag-inang Aling Ana at Sally sa Quezon City. Galing sila sa lalawigan at bumaba sila sa estasyon ng bus sa Cubao. Pupunta sila sa Makati upang dalawin ang kapatid ni Aling Ana. Nagtanong sila sa isang lalaking dumaraan.",
+       "en": "Aling Ana and her daughter Sally had just arrived in Quezon City. They came from the province and got down at the bus station in Cubao. They are going to Makati to visit Aling Ana's sister. They asked a man who was passing by.",
+       "parts": []
+      },
+      {
+       "tl": "Mawalang-galang na po. Saan ba ang sakayan patungong Makati?",
+       "en": "ALING ANA: Excuse me, sir. Where can we get a ride to Makati?",
+       "parts": []
+      },
+      {
+       "tl": "Dumiretso kayo riyan, tumawid sa Edsa at sumakay sa bus na may karatulang Ayala.",
+       "en": "LALAKI: Go straight ahead, cross Edsa and board the bus with the signboard Ayala.",
+       "parts": []
+      },
+      {
+       "tl": "Tanghali na kami. Marahil mas mabilis ang taksi.",
+       "en": "ALING ANA: We're already late. Perhaps a taxi will be faster.",
+       "parts": []
+      },
+      {
+       "tl": "Nay, bakit hindi natin subukan ang MRT?",
+       "en": "SALLY: Mother, why don't we try the MRT?",
+       "parts": []
+      },
+      {
+       "tl": "Mas mabilis ang MRT. Madali kayong makararating sa Makati. Ang estasyon ng MRT Cubao ay nasa Farmers' Plaza. Bumili kayo ng tiket para sa Buendia Station. Pagdating ninyo roon, marami na kayong masasakyang jeepney o FX.",
+       "en": "LALAKI: MRT is faster. You will reach Makati easily. The Cubao MRT station is in Farmers' Plaza. Buy a ticket for Buendia Station. When you get there, you can take a jeepney or FX.",
+       "parts": []
+      },
+      {
+       "tl": "Maraming salamat po sa inyong tulong.",
+       "en": "ALING ANA: Thank you for your assistance, sir.",
+       "parts": []
+      },
+      {
+       "tl": "Walang anuman po.",
+       "en": "LALAKI: You're welcome, madam.",
+       "parts": []
+      },
+      {
+       "tl": "Ibang-iba na ang Maynila ngayon. May MRT at FX na. Sa ating probinsiya ay marami pa ring karetela at traysikel.",
+       "en": "ALING ANA: Manila is very different now. They already have the MRT and FX. In the province, we still have a lot of carriages and tricycles.",
+       "parts": []
+      }
+     ],
+     "title": "Asking Directions"
+    },
+    {
+     "type": "box",
+     "kind": "culture",
+     "title": "Getting around Metro Manila",
+     "items": [
+      "**MRT** = Metro Rail Transit.",
+      "**FX** = an air-conditioned vehicle that can accommodate nine passengers. FX fare is more expensive than a jeepney's.",
+      "**EDSA** = Epifanio de los Santos Avenue, a major thoroughfare crossing several cities in Metro Manila."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Near and far",
+     "items": [
+      "**malapit** = near → **malapít-lapít** = nearer; a bit near",
+      "**malayò** = far → **malayó-layô** = farther; a bit far"
+     ]
+    },
+    {
+     "type": "p",
+     "t": "The book's list also gives **lalawigan** = province, which you met in Lesson 30."
+    },
+    {
+     "type": "vocab",
+     "group": "dir",
+     "title": "Vocabulary List and Notes"
+    }
+   ]
+  },
+  {
+   "title": "At the bank",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Sa Bangko** (*At the Bank*). Nestor has come home from Saudi Arabia and changes his dollars."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Kagagaling lamang ni Nestor sa Saudi Arabia. Kailangan niyang magpapalit ng dolyar. Nagpasama siya kay Juan sa bangko.",
+       "en": "Nestor has just arrived from Saudi Arabia. He needs to change his dollars into pesos.",
+       "parts": []
+      },
+      {
+       "tl": "Magandang umaga. Maari bang magpapalit ng limang daang dolyar sa piso? Magkano ang palitan ngayon?",
+       "en": "NESTOR: Good morning. May I have my $500 changed into peso? What is the current exchange rate?",
+       "parts": []
+      },
+      {
+       "tl": "Kuwarenta y nuwebe po sa dolyar. Pakipunan po ninyo ang aplikasyon na ito.",
+       "en": "TELLER: Forty-nine pesos to a dollar. Please fill up this application form.",
+       "parts": []
+      },
+      {
+       "tl": "Salamat. Kung nais kong maglagak sa inyong bangko, magkano ang paunang deposito?",
+       "en": "NESTOR: Thank you. If I wish to deposit in your bank, how much is the initial deposit?",
+       "parts": []
+      },
+      {
+       "tl": "Sampung libong piso po ang unang deposito.",
+       "en": "TELLER: The initial deposit is P10,000, sir.",
+       "parts": []
+      },
+      {
+       "tl": "Ano naman ang mga kailangan para magbukas ng account?",
+       "en": "NESTOR: What are needed to open an account?",
+       "parts": []
+      },
+      {
+       "tl": "Kailangan ng dalawang ID tulad ng lisensiya ng drayber, pasaporte o SSS.",
+       "en": "TELLER: Two IDs are needed like a driver's license, passport or SSS.",
+       "parts": []
+      },
+      {
+       "tl": "Kailangan rin ba ng litrato?",
+       "en": "NESTOR: Is a photo needed?",
+       "parts": []
+      },
+      {
+       "tl": "Opo, puwede po kahit ano ang sukat.",
+       "en": "TELLER: Yes, sir. Any size will do.",
+       "parts": []
+      },
+      {
+       "tl": "Maraming salamat. Babalik na lamang ako sa ibang araw.",
+       "en": "NESTOR: Thank you, I'll come back some other day.",
+       "parts": []
+      }
+     ],
+     "title": "At the Bank"
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "About the translation",
+     "t": "The book's English for the opening leaves out the last Tagalog sentence, **Nagpasama siya kay Juan sa bangko.**"
+    },
+    {
+     "type": "vocab",
+     "group": "bank",
+     "title": "Vocabulary List"
+    }
+   ]
+  },
+  {
+   "title": "In a meeting",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Sa Isang Pulong** (*In a Meeting*). Tessie chairs her club's monthly meeting. The book gives no vocabulary list for this conversation."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ang pulong ng samahan ni Tessie ay tuwing ikalawang Martes ng buwan. Ito ay ginaganap sa isang restoran sa Malate. Ang layunin ng kanilang samahan ay tumulong sa mga maralitang kababaihan at kabataan sa Barangay 83 ng Sta. Ana. Noong Martes na iyon, pagkatapos ang pag-awit ng Pambansang Awit at ang panalanging pambungad, tinawag ng kalihim ang mga pangalan ng dumalo sa miting.",
+       "en": "Tessie's club meets every second Tuesday of the month. It is held in a restaurant in Malate. The purpose of their club is to help the poor women and children of Barangay 83 of Sta. Ana. That particular Tuesday, after the singing of the National Anthem and the opening prayer, the secretary called the names of those who attended the meeting.",
+       "parts": []
+      },
+      {
+       "tl": "Magandang hapon sa inyong lahat. Kalihim Elsa, ilang kasapi ang dumalo sa pulong na ito?",
+       "en": "TESSIE: Good afternoon, everyone. Secretary Elsa, how many members are present in this meeting?",
+       "parts": []
+      },
+      {
+       "tl": "May labinlimang kasapi ang naririto ngayon maliban kina Mary at Kris.",
+       "en": "ELSA: There are 15 members present now excluding Mary and Kris.",
+       "parts": []
+      },
+      {
+       "tl": "Basahin natin ngayon ang mga tala ng nakaraang miting.",
+       "en": "TESSIE: Let's now read the minutes of the past meeting.",
+       "parts": []
+      },
+      {
+       "tl": "Salamat, Kalihim Elsa. Tatalakayin naman natin ang ating pangkabuhayang proyekto sa Tondo. May ulat ang tagapangulo ng lupon, si Pacita.",
+       "en": "TESSIE: Thank you, Secretary Elsa. We will now discuss our livelihood project in Tondo. Pacita, the chairperson of the committee will report.",
+       "parts": []
+      },
+      {
+       "tl": "Sa ika-8 ng Pebrero, gaganapin ang ating proyekto na magtuturo sa mga kababaihan ng barangay ng iba't ibang paggawa ng longganisa.",
+       "en": "PACITA: On February 8, we will conduct our project to teach the women of the barangay the different ways of making sausages.",
+       "parts": []
+      },
+      {
+       "tl": "Salamat, Pacita. At tungkol naman sa mga bata, ano ang ulat mo, Carol?",
+       "en": "TESSIE: Thank you, Pacita, Regarding the children, what is your report, Carol?",
+       "parts": []
+      },
+      {
+       "tl": "Sa ika-16 ng Marso, dadalhin natin ang mga bata sa Museo Pambata sa Roxas Boulevard kung saan matututo sila ng maraming kaalaman tungkol sa kanilang paligid. Pagkatapos ay ipapasyal sila sa Rizal Park.",
+       "en": "CAROL: On March 16, we will take the children to the Children's Museum on Roxas Blvd where they will learn a lot about their surroundings. Then we are taking them to Rizal Park.",
+       "parts": []
+      },
+      {
+       "tl": "Paano ang pagkain ng mga bata?",
+       "en": "TESSIE: What about the children's food?",
+       "parts": []
+      },
+      {
+       "tl": "Isang kompanya ng gatas ang umako sa kanilang pagkain pati na ng kanilang transportasyon.",
+       "en": "CAROL: A milk company will take care of their food as well as their transportation.",
+       "parts": []
+      },
+      {
+       "tl": "Binabati ko kayo, Pacita at Carol sa inyong magandang pamumuno. May iba pa bang bagay tayong tatalakayin? Kung wala na, tinatapos ko na ang miting na ito. Maraming salamat sa inyong pagdalo.",
+       "en": "TESSIE: Congratulations, Pacita and Carol for your fine leadership. Are there other matters to discuss? If none, the meeting is adjourned. Thank you very much for coming.",
+       "parts": []
+      }
+     ],
+     "title": "In a Meeting"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Meeting words from the translation",
+     "items": [
+      "**Kalihim Elsa** = Secretary Elsa",
+      "**Magandang hapon sa inyong lahat.** = Good afternoon, everyone.",
+      "**Maraming salamat sa inyong pagdalo.** = Thank you very much for coming."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "club",
+     "title": "Phrases from the conversation"
+    }
+   ]
+  },
+  {
+   "title": "At the market and in a store",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "**Sa Palengke at Tindahan** (*At the Market and in a Store*). Mrs. Jones and her cook Ada shop for a small party."
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Si Ginang Jones at ang kusinera niyang si Ada ay nagpunta sa palengke. Magkakaroon ng munting salu-salo si Ginang Jones para sa mag-asawang Thomas na galing sa Bangkok. Nais ni Ginang Jones na bumili ng mga sariwang prutas at gulay sa palengke. Pumunta sila sa puwesto ng mga prutas kung saan nakakita sila ng mga mangga, saging, dalandan, papaya, tsiko at lansones.",
+       "en": "Mrs. Jones and her cook Ada went to the market. Mrs. Jones will have a small party for the Thomas couple who arrived from Bangkok. Mrs. Jones wants to buy fresh fruits and vegetables in the market. They went to the fruit stand first where they saw mangoes, bananas, oranges, papaya, chico and lanzones.",
+       "parts": []
+      },
+      {
+       "tl": "Magkano ang mangga?",
+       "en": "GNG. JONES: How much are the mangoes?",
+       "parts": [
+        [
+         "Magkano",
+         "how much",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "mangga",
+         "mangoes",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Sisenta po ang isang kilo.",
+       "en": "MALE VENDOR: Sixty pesos per kilo.",
+       "parts": []
+      },
+      {
+       "tl": "Saan ba galing ang mga iyan?",
+       "en": "ADA: Where do they come from?",
+       "parts": []
+      },
+      {
+       "tl": "Sa Pangasinan. Matatamis ang mga mangga na galing doon.",
+       "en": "MALE VENDOR: From Pangasinan. Mangoes from that place are very sweet.",
+       "parts": []
+      },
+      {
+       "tl": "Bigyan mo ako ng dalawang kilo. Gusto ko rin ng saging na lacatan at isang piña.",
+       "en": "GNG. JONES: Give me two kilos. I also like lacatan and pineapple.",
+       "parts": []
+      },
+      {
+       "tl": "Bibili rin po ba kayo ng pakwan, madam?",
+       "en": "ADA: Are you also buying watermelon, madam?",
+       "parts": []
+      },
+      {
+       "tl": "Oo, gustong-gusto ni Ginoong Jones ang pakwan.",
+       "en": "GNG. JONES: Yes, Mr. Jones likes watermelon very much.",
+       "parts": []
+      },
+      {
+       "tl": "Narito na lahat ng inyong pinamili.",
+       "en": "MALE VENDOR: Here are all the things you have bought.",
+       "parts": []
+      },
+      {
+       "tl": "Salamat. Pakikuwenta lahat.",
+       "en": "GNG. JONES: Thank you. Please add up everything.",
+       "parts": []
+      }
+     ],
+     "title": "At the fruit stand"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Pagkatapos sa prutasan, nagtungo naman sila sa gulayan.",
+       "en": "From the fruitstand, they went to the vegetable section. (The book misprints \"sa sa gulayan\" here.)",
+       "parts": []
+      },
+      {
+       "tl": "Bumili tayo ng letsugas, kamatis at sibuyas para sa salad.",
+       "en": "GNG. JONES: Let's buy lettuce, tomatoes and onions for the salad.",
+       "parts": []
+      },
+      {
+       "tl": "Nais ba ninyong gumawa ako ng lumpiang sariwa?",
+       "en": "ADA: Do you want me to prepare fresh vegetable spring roll?",
+       "parts": []
+      },
+      {
+       "tl": "Oo, gusto ko iyon. Sarapan mo ang salsa.",
+       "en": "GNG. JONES: Yes, I like that. Make the sauce delicious.",
+       "parts": []
+      },
+      {
+       "tl": "Bibili ako ng petsay, karot, repolyo, abitsuelas at patatas. Hahaluan ko rin ng singkamas ang lumpia.",
+       "en": "ADA: I will buy Chinese cabbage, carrot, cabbage, beans and potatoes. I'll also mix turnips in the spring roll.",
+       "parts": []
+      },
+      {
+       "tl": "Sige, ikaw ang bahala. Pihadong magugustuhan ng ating mga panauhin ang lumpiang Pilipino.",
+       "en": "GNG. JONES: Okay, it's up to you. For sure, our visitors will like Filipino spring roll.",
+       "parts": []
+      }
+     ],
+     "title": "At the vegetable section"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Mula sa palengke, nagtungo si Ginang Jones at si Ada sa supermarket na malapit sa kanilang bahay sa Makati. Di kalakihan ang pamilihan pero maraming mga paninda, lokal man o galing sa ibang bansa. Pumunta si Ginang Jones at si Ada sa karnihan. Bumili sila ng lomo, giniling na karneng-baboy, lengua at manok. Nagtungo rin sila sa isdaan.",
+       "en": "From the market, Mrs. Jones and Ada went to the supermarket near their house. The supermarket is not very big but it sells a lot of goods, both local and imported. Mrs. Jones and Ada went to the meat section where they bought sirloin, ground pork, ox tongue and chicken. They also went to the fish section.",
+       "parts": []
+      },
+      {
+       "tl": "Maganda at sariwa ang mga lapu-lapu dito. Pumili ka ng ilang piraso. Pumili ka na rin ng kaunting halaan at sugpo. Ayan, palagay ko nabili na natin ang lahat ng kailangan. Umuwi na tayo.",
+       "en": "GNG. JONES: The grouper here is good and fresh. Choose a few pieces. Also choose some clams and prawns. There, I guess we have all that we need. Let's go home.",
+       "parts": []
+      }
+     ],
+     "title": "At the supermarket"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Shopping phrases",
+     "items": [
+      "**Magkano ang mangga?** = How much are the mangoes?",
+      "**Bigyan mo ako ng dalawang kilo.** = Give me two kilos.",
+      "**Pakikuwenta lahat.** = Please add up everything.",
+      "**Sige, ikaw ang bahala.** = Okay, it's up to you."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "market",
+     "title": "Phrases from the conversation"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "Welcome: **Maligayang pagdating.** Pleased to meet you: **Ikinagagalak kitang makilala.**",
+      "Excuse me: **Mawalang-galang na po.** You're welcome: **Walang anuman po.**",
+      "Bank: **maglagak** (to deposit), **magpalit ng pera** (to change currency), **pakipunán** (please fill up).",
+      "Market: **Magkano…?** **Bigyan mo ako ng…** **Pakikuwenta lahat.**"
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "sundo-a05",
+   "tl": "sundô",
+   "en": "somebody who fetches",
+   "pos": "noun",
+   "group": "meet",
+   "say": "sun-doQ"
+  },
+  {
+   "id": "pagbebenta-a05",
+   "tl": "pagbebenta",
+   "en": "sales",
+   "pos": "noun",
+   "group": "meet"
+  },
+  {
+   "id": "pagpapakilala-a05",
+   "tl": "pagpapakilala",
+   "en": "introduce",
+   "pos": "noun",
+   "group": "meet",
+   "note": "The conversation title Pagtatagpô at Pagpapakilala = Meeting Someone and Making Introductions."
+  },
+  {
+   "id": "pananaliksik-a05",
+   "tl": "pananaliksík",
+   "en": "research",
+   "pos": "noun",
+   "group": "meet",
+   "say": "pa-na-na-lik-SIK"
+  },
+  {
+   "id": "pangkat-a05",
+   "tl": "pangkát",
+   "en": "group",
+   "pos": "noun",
+   "group": "meet",
+   "say": "pang-KAT"
+  },
+  {
+   "id": "paliparan-a05",
+   "tl": "páliparan",
+   "en": "airport",
+   "pos": "noun",
+   "group": "meet",
+   "say": "PA-li-pa-ran"
+  },
+  {
+   "id": "pulong-a05",
+   "tl": "pulong",
+   "en": "meeting",
+   "pos": "noun",
+   "group": "meet"
+  },
+  {
+   "id": "magsikap-a05",
+   "tl": "magsikap",
+   "en": "to work hard",
+   "pos": "verb",
+   "group": "meet"
+  },
+  {
+   "id": "ipagpatuloy-a05",
+   "tl": "ipagpatuloy",
+   "en": "continue",
+   "pos": "verb",
+   "group": "meet",
+   "note": "Sige, ipagpatuloy mo. = By all means, continue."
+  },
+  {
+   "id": "maligayang-pagdating-a05",
+   "tl": "Maligayang pagdating",
+   "en": "Welcome",
+   "pos": "phrase",
+   "group": "meet",
+   "note": "Maligayang pagdating, Ginoong Smith. = Welcome, Mr. Smith."
+  },
+  {
+   "id": "ikinagagalak-kitang-makilala-a05",
+   "tl": "Ikinagagalak kitang makilala",
+   "en": "I am pleased to meet you",
+   "pos": "phrase",
+   "group": "meet",
+   "note": "Appendix A4 prints Ikínagagalák kong mákilala kayó."
+  },
+  {
+   "id": "bumaba-a05",
+   "tl": "bumabâ",
+   "en": "to go down",
+   "pos": "verb",
+   "group": "dir",
+   "say": "bu-ma-baQ"
+  },
+  {
+   "id": "diretso-a05",
+   "tl": "dirétso",
+   "en": "straight ahead",
+   "pos": "adv",
+   "group": "dir",
+   "say": "di-RET-so"
+  },
+  {
+   "id": "dumalaw-a05",
+   "tl": "dumalaw",
+   "en": "to visit",
+   "pos": "verb",
+   "group": "dir",
+   "note": "Lesson 21 prints dumálaw (visited)."
+  },
+  {
+   "id": "malapit-a05",
+   "tl": "malapit",
+   "en": "near",
+   "pos": "adj",
+   "group": "dir",
+   "note": "Lesson 2 prints malápit."
+  },
+  {
+   "id": "malapit-lapit-a05",
+   "tl": "malapít-lapít",
+   "en": "nearer; a bit near",
+   "pos": "adj",
+   "group": "dir",
+   "say": "ma-la-PIT la-PIT"
+  },
+  {
+   "id": "malayo-a05",
+   "tl": "malayò",
+   "en": "far",
+   "pos": "adj",
+   "group": "dir",
+   "say": "ma-LA-yoQ"
+  },
+  {
+   "id": "malayo-layo-a05",
+   "tl": "malayó-layô",
+   "en": "farther; a bit far",
+   "pos": "adj",
+   "group": "dir",
+   "say": "ma-la-YO la-yoQ"
+  },
+  {
+   "id": "tumawid-a05",
+   "tl": "tumawíd",
+   "en": "to cross",
+   "pos": "verb",
+   "group": "dir",
+   "say": "tu-ma-WID"
+  },
+  {
+   "id": "mrt-a05",
+   "tl": "MRT",
+   "en": "Metro Rail Transit",
+   "pos": "noun",
+   "group": "dir"
+  },
+  {
+   "id": "mawalang-galang-na-po-a05",
+   "tl": "Mawalang-galang na po.",
+   "en": "Excuse me, sir.",
+   "pos": "phrase",
+   "group": "dir",
+   "note": "Lesson 3 prints Mawaláng-gálang pô."
+  },
+  {
+   "id": "walang-anuman-po-a05",
+   "tl": "Walang anuman po.",
+   "en": "You're welcome, madam.",
+   "pos": "phrase",
+   "group": "dir"
+  },
+  {
+   "id": "lisensiya-a05",
+   "tl": "lisensiya",
+   "en": "license",
+   "pos": "noun",
+   "group": "bank"
+  },
+  {
+   "id": "litrato-a05",
+   "tl": "litrato",
+   "en": "photo",
+   "pos": "noun",
+   "group": "bank"
+  },
+  {
+   "id": "magbukas-a05",
+   "tl": "magbukas",
+   "en": "to open",
+   "pos": "verb",
+   "group": "bank",
+   "note": "Lesson 33 prints magbukás."
+  },
+  {
+   "id": "maglagak-a05",
+   "tl": "maglagak",
+   "en": "to deposit",
+   "pos": "verb",
+   "group": "bank"
+  },
+  {
+   "id": "magpalit-ng-pera-a05",
+   "tl": "magpalit ng pera",
+   "en": "to change currency",
+   "pos": "phrase",
+   "group": "bank"
+  },
+  {
+   "id": "pakipunan-a05",
+   "tl": "pakipunán",
+   "en": "please fill up",
+   "pos": "verb",
+   "group": "bank",
+   "say": "pa-ki-pu-NAN"
+  },
+  {
+   "id": "sukat-a05",
+   "tl": "sukat",
+   "en": "size",
+   "pos": "noun",
+   "group": "bank"
+  },
+  {
+   "id": "kalihim-a05",
+   "tl": "kalihim",
+   "en": "secretary",
+   "pos": "noun",
+   "group": "club",
+   "note": "From Kalihim Elsa = Secretary Elsa."
+  },
+  {
+   "id": "magandang-hapon-lahat-a05",
+   "tl": "Magandang hapon sa inyong lahat.",
+   "en": "Good afternoon, everyone.",
+   "pos": "phrase",
+   "group": "club"
+  },
+  {
+   "id": "salamat-pagdalo-a05",
+   "tl": "Maraming salamat sa inyong pagdalo.",
+   "en": "Thank you very much for coming.",
+   "pos": "phrase",
+   "group": "club"
+  },
+  {
+   "id": "magkano-ang-mangga-a05",
+   "tl": "Magkano ang mangga?",
+   "en": "How much are the mangoes?",
+   "pos": "phrase",
+   "group": "market"
+  },
+  {
+   "id": "bigyan-dalawang-kilo-a05",
+   "tl": "Bigyan mo ako ng dalawang kilo.",
+   "en": "Give me two kilos.",
+   "pos": "phrase",
+   "group": "market"
+  },
+  {
+   "id": "pakikuwenta-lahat-a05",
+   "tl": "Pakikuwenta lahat.",
+   "en": "Please add up everything.",
+   "pos": "phrase",
+   "group": "market"
+  },
+  {
+   "id": "ikaw-ang-bahala-a05",
+   "tl": "Sige, ikaw ang bahala.",
+   "en": "Okay, it's up to you.",
+   "pos": "phrase",
+   "group": "market"
+  },
+  {
+   "id": "umuwi-na-tayo-a05",
+   "tl": "Umuwi na tayo.",
+   "en": "Let's go home.",
+   "pos": "phrase",
+   "group": "market",
+   "note": "Appendix A4 prints Umuwî na táyo."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Linda greets Peter with \"Maligayang pagdating, Ginoong Smith.\" What does she say?",
+   "options": [
+    "Welcome, Mr. Smith.",
+    "Thank you, Mr. Smith.",
+    "Good morning, Mr. Smith."
+   ],
+   "answer": "Welcome, Mr. Smith.",
+   "explain": "Maligayang pagdating = Welcome."
+  },
+  {
+   "type": "choice",
+   "q": "What is a sundô?",
+   "options": [
+    "somebody who fetches",
+    "a reservation",
+    "a meeting"
+   ],
+   "answer": "somebody who fetches",
+   "explain": "Narito na ang sundo ninyo = Here's the person who will drive you."
+  },
+  {
+   "type": "choice",
+   "q": "How does Peter say \"I am pleased to meet you, Ricardo\"?",
+   "options": [
+    "Ikinagagalak kitang makilala, Ricardo.",
+    "Ikinalulugod kong mapabilang ka sa ating pangkat, Ricardo.",
+    "Sige, ipagpatuloy mo, Ricardo."
+   ],
+   "answer": "Ikinagagalak kitang makilala, Ricardo.",
+   "explain": "The second option is what he says to Delia: I am happy to have you in our group."
+  },
+  {
+   "type": "choice",
+   "q": "Which word means \"group\"?",
+   "options": [
+    "pangkát",
+    "pulong",
+    "pagbebenta"
+   ],
+   "answer": "pangkát",
+   "explain": "pulong = meeting; pagbebenta = sales."
+  },
+  {
+   "type": "choice",
+   "q": "How does Aling Ana politely start her question to the stranger?",
+   "options": [
+    "Mawalang-galang na po.",
+    "Walang anuman po.",
+    "Maraming salamat po."
+   ],
+   "answer": "Mawalang-galang na po.",
+   "explain": "Excuse me, sir."
+  },
+  {
+   "type": "choice",
+   "q": "What does \"malayó-layô\" mean?",
+   "options": [
+    "farther; a bit far",
+    "nearer; a bit near",
+    "far"
+   ],
+   "answer": "farther; a bit far",
+   "explain": "malayò = far; malapít-lapít = nearer; a bit near."
+  },
+  {
+   "type": "choice",
+   "q": "What is an FX?",
+   "options": [
+    "an air-conditioned vehicle that can accommodate nine passengers",
+    "the Metro Rail Transit",
+    "a major avenue in Metro Manila"
+   ],
+   "answer": "an air-conditioned vehicle that can accommodate nine passengers",
+   "explain": "Its fare is more expensive than a jeepney's."
+  },
+  {
+   "type": "choice",
+   "q": "Which word means \"to deposit\"?",
+   "options": [
+    "maglagak",
+    "magbukas",
+    "magpalit ng pera"
+   ],
+   "answer": "maglagak",
+   "explain": "magbukas = to open; magpalit ng pera = to change currency."
+  },
+  {
+   "type": "choice",
+   "q": "The teller says \"Pakipunan po ninyo ang aplikasyon na ito.\" What should Nestor do?",
+   "options": [
+    "Fill up the application form",
+    "Show a photo",
+    "Come back another day"
+   ],
+   "answer": "Fill up the application form",
+   "explain": "pakipunán = please fill up."
+  },
+  {
+   "type": "choice",
+   "q": "\"Kailangan rin ba ng litrato?\" What is Nestor asking?",
+   "options": [
+    "Is a photo needed?",
+    "Is a license needed?",
+    "What size is needed?"
+   ],
+   "answer": "Is a photo needed?",
+   "explain": "litrato = photo."
+  },
+  {
+   "type": "choice",
+   "q": "In the meeting, who is \"Kalihim Elsa\"?",
+   "options": [
+    "Secretary Elsa",
+    "the chairperson",
+    "a new member"
+   ],
+   "answer": "Secretary Elsa",
+   "explain": "The secretary called the names of those who attended."
+  },
+  {
+   "type": "choice",
+   "q": "Mrs. Jones says \"Pakikuwenta lahat.\" What does she want?",
+   "options": [
+    "Please add up everything.",
+    "Give me two kilos.",
+    "Choose a few pieces."
+   ],
+   "answer": "Please add up everything.",
+   "explain": "She is ready to pay."
+  },
+  {
+   "type": "listen",
+   "tl": "Walang anuman po.",
+   "options": [
+    "You're welcome, madam.",
+    "Thank you, sir.",
+    "Excuse me, sir."
+   ],
+   "answer": "You're welcome, madam.",
+   "explain": "The man's reply to Aling Ana's thanks."
+  },
+  {
+   "type": "listen",
+   "tl": "Sige, ipagpatuloy mo.",
+   "options": [
+    "By all means, continue.",
+    "Thank you very much.",
+    "Everything was fine."
+   ],
+   "answer": "By all means, continue.",
+   "explain": "ipagpatuloy = continue."
+  },
+  {
+   "type": "listen",
+   "tl": "Magkano ang mangga?",
+   "options": [
+    "How much are the mangoes?",
+    "Where do they come from?",
+    "Give me two kilos."
+   ],
+   "answer": "How much are the mangoes?",
+   "explain": "Magkano = how much."
+  },
+  {
+   "type": "listen",
+   "tl": "Sige, ikaw ang bahala.",
+   "options": [
+    "Okay, it's up to you.",
+    "Yes, I like that.",
+    "Let's go home."
+   ],
+   "answer": "Okay, it's up to you.",
+   "explain": "Mrs. Jones lets Ada decide."
+  },
+  {
+   "type": "build",
+   "en": "Thank you.",
+   "tl": "Maraming salamat.",
+   "tokens": [
+    "maraming",
+    "salamat"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Is a photo needed?",
+   "tl": "Kailangan rin ba ng litrato?",
+   "tokens": [
+    "kailangan",
+    "rin",
+    "ba",
+    "ng",
+    "litrato"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Mother, why don't we try the MRT?",
+   "tl": "Nay, bakit hindi natin subukan ang MRT?",
+   "tokens": [
+    "nay",
+    "bakit",
+    "hindi",
+    "natin",
+    "subukan",
+    "ang",
+    "mrt"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Give me two kilos.",
+   "tl": "Bigyan mo ako ng dalawang kilo.",
+   "tokens": [
+    "bigyan",
+    "mo",
+    "ako",
+    "ng",
+    "dalawang",
+    "kilo"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "What about the children's food?",
+   "tl": "Paano ang pagkain ng mga bata?",
+   "tokens": [
+    "paano",
+    "ang",
+    "pagkain",
+    "ng",
+    "mga",
+    "bata"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match the word to its meaning (Asking Directions).",
+   "pairs": [
+    [
+     "bumabâ",
+     "to go down"
+    ],
+    [
+     "tumawíd",
+     "to cross"
+    ],
+    [
+     "dumalaw",
+     "to visit"
+    ],
+    [
+     "malapit",
+     "near"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the word to its meaning (At the Bank).",
+   "pairs": [
+    [
+     "lisensiya",
+     "license"
+    ],
+    [
+     "sukat",
+     "size"
+    ],
+    [
+     "magbukas",
+     "to open"
+    ],
+    [
+     "maglagak",
+     "to deposit"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the word to its meaning (Introductions).",
+   "pairs": [
+    [
+     "pagbebenta",
+     "sales"
+    ],
+    [
+     "pananaliksík",
+     "research"
+    ],
+    [
+     "páliparan",
+     "airport"
+    ],
+    [
+     "magsikap",
+     "to work hard"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "Meeting people: Maligayang pagdating (welcome); Ikinagagalak kitang makilala (I am pleased to meet you).",
+  "Directions: Mawalang-galang na po (excuse me); tumawíd (to cross); malapit / malayò (near / far).",
+  "Bank: maglagak (to deposit), magbukas (to open), magpalit ng pera (to change currency), pakipunán (please fill up).",
+  "Meeting: Kalihim (secretary); Maraming salamat sa inyong pagdalo (thank you very much for coming).",
+  "Market: Magkano ang…? Bigyan mo ako ng… Pakikuwenta lahat."
+ ]
+}

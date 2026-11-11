@@ -1,0 +1,2249 @@
+{
+ "id": "a02",
+ "label": "A2",
+ "title": "Cooking terms",
+ "summary": "Twenty kitchen verbs with the book's example sentences (ihurnó, batihín, pakuluín, pritúhin, igisá…) and the popular Filipino dishes: adóbo, sinigáng, lechón, lumpiá, hálo-halò and more",
+ "minutes": 35,
+ "goals": [
+  "Understand how Filipino cooking mixes foreign and local influences",
+  "Use twenty cooking verbs such as pakuluín (boil), pritúhin (fry) and igisá (sauté)",
+  "Read the book's kitchen sentences and the words inside them",
+  "Know the popular dishes and delicacies found on every Filipino table",
+  "Know what merienda, karinderia and turo-turò are"
+ ],
+ "sections": [
+  {
+   "title": "Filipino cooking: a fusion",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Filipino food has taken cooking methods, ingredients and whole dishes from **China, Spain, Mexico and the United States**, then each region of the Philippines gave them its own local taste."
+    },
+    {
+     "type": "box",
+     "kind": "culture",
+     "title": "Food as history",
+     "t": "The late teacher and food critic **Doreen Fernandez** described the Filipino kitchen as the result of the history and society that brought dishes in, the people who adapted them to their own tastes, and the culture that blended them into today's Filipino food. So Filipino food today is, in a way, Philippine history on a plate."
+    },
+    {
+     "type": "p",
+     "t": "The list below gives the Tagalog for twenty cooking actions, each with one of the book's sentences. Look for the familiar markers: [[ang|marker]] marks the thing being cooked, [[ng|marker]] and [[sa|marker]] add the other details."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "List word and sentence word",
+     "t": "Some sentences use a different form of the verb from the one in the list. Compare: banlián (blanch) → **Binanlián** ko = I blanched; iháwin (broil) → **Iníhaw** ko = I broiled; tunawin (melt) → **Tinúnaw** ni Ana = Ana melted; ibábad (marinate) → **Ibabábad** ko = I will marinate."
+    }
+   ]
+  },
+  {
+   "title": "Bake, baste, beat, blanch, blend, boil, broil",
+   "blocks": [
+    {
+     "type": "table",
+     "head": [
+      "English",
+      "Tagalog"
+     ],
+     "rows": [
+      [
+       "Bake",
+       "[[ihurnó|pred]]; [[lutúin sa hurnó|pred]] (oven)"
+      ],
+      [
+       "Baste",
+       "[[pahíran ng mantikà|pred]] (cooking oil) o ng [[sársa|noun]] (sauce)"
+      ],
+      [
+       "Beat",
+       "[[batihín|pred]]"
+      ],
+      [
+       "Blanch",
+       "[[banlián|pred]]"
+      ],
+      [
+       "Blend",
+       "[[halúin|pred]]"
+      ],
+      [
+       "Boil",
+       "[[pakuluín|pred]]"
+      ],
+      [
+       "Broil",
+       "[[iháwin|pred]]"
+      ]
+     ],
+     "title": "Cooking terms 1-7"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Naglutò akó ng pasta sa hurnó.",
+       "en": "I baked a pasta (dish) in the oven.",
+       "parts": [
+        [
+         "Naglutò",
+         "cooked",
+         "pred"
+        ],
+        [
+         "akó",
+         "I",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "pasta",
+         "pasta",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "hurnó",
+         "oven",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Pahíran mo ng mantikà ang balát ng baboy para hindî matuyô.",
+       "en": "Baste the pork skin to prevent drying.",
+       "parts": [
+        [
+         "Pahíran",
+         "baste",
+         "pred"
+        ],
+        [
+         "mo",
+         "you",
+         "pron"
+        ],
+        [
+         "ng",
+         "with",
+         "marker"
+        ],
+        [
+         "mantikà",
+         "cooking oil",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "balát",
+         "skin",
+         "noun"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "baboy",
+         "pork",
+         "noun"
+        ],
+        [
+         "para",
+         "so that",
+         "other"
+        ],
+        [
+         "hindî",
+         "not",
+         "other"
+        ],
+        [
+         "matuyô",
+         "dry",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Batihín mo ang ánim na itlóg para sa tórta.",
+       "en": "Beat six eggs for the omelet.",
+       "parts": [
+        [
+         "Batihín",
+         "beat",
+         "pred"
+        ],
+        [
+         "mo",
+         "you",
+         "pron"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "ánim",
+         "six",
+         "other"
+        ],
+        [
+         "na",
+         "(ligature)",
+         "link"
+        ],
+        [
+         "itlóg",
+         "eggs",
+         "noun"
+        ],
+        [
+         "para sa",
+         "for",
+         "marker"
+        ],
+        [
+         "tórta",
+         "omelet",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Binanlián ko ang mga pili para maalís ang balát.",
+       "en": "I blanched the pili nuts to remove the skin.",
+       "parts": [
+        [
+         "Binanlián",
+         "blanched",
+         "pred"
+        ],
+        [
+         "ko",
+         "I",
+         "pron"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "mga",
+         "(plural)",
+         "marker"
+        ],
+        [
+         "pili",
+         "pili nuts",
+         "noun"
+        ],
+        [
+         "para",
+         "so that",
+         "other"
+        ],
+        [
+         "maalís",
+         "be removed",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "balát",
+         "skin",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Halúin mo ang mga sangkáp nang mabuti.",
+       "en": "Blend the ingredients very well.",
+       "parts": [
+        [
+         "Halúin",
+         "blend",
+         "pred"
+        ],
+        [
+         "mo",
+         "you",
+         "pron"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "mga",
+         "(plural)",
+         "marker"
+        ],
+        [
+         "sangkáp",
+         "ingredients",
+         "noun"
+        ],
+        [
+         "nang",
+         "(how)",
+         "other"
+        ],
+        [
+         "mabuti",
+         "well",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Pakuluín mo ang túbig sa kaldéro.",
+       "en": "Boil the water in the kettle.",
+       "parts": [
+        [
+         "Pakuluín",
+         "boil",
+         "pred"
+        ],
+        [
+         "mo",
+         "you",
+         "pron"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "túbig",
+         "water",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "kaldéro",
+         "kettle",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Iníhaw ko ang dáing sa bága.",
+       "en": "I broiled the dried fish on live coals.",
+       "parts": [
+        [
+         "Iníhaw",
+         "broiled",
+         "pred"
+        ],
+        [
+         "ko",
+         "I",
+         "pron"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "dáing",
+         "dried fish",
+         "noun"
+        ],
+        [
+         "sa",
+         "on",
+         "marker"
+        ],
+        [
+         "bága",
+         "live coals",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Sentences 1-7"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Bake = cook in the oven",
+     "t": "**Lutúin sa hurnó** is literally *cook in the oven* (**hurnó** = oven). The book's example uses **Naglutò**, the mag- form of lutò (cook), for *I baked*."
+    },
+    {
+     "type": "vocab",
+     "group": "cook1",
+     "title": "Cooking terms 1-7"
+    }
+   ]
+  },
+  {
+   "title": "Cut, chop, drain, fry, marinate, melt, mince",
+   "blocks": [
+    {
+     "type": "table",
+     "head": [
+      "English",
+      "Tagalog"
+     ],
+     "rows": [
+      [
+       "Cut",
+       "[[hiwáin|pred]] (with knife); [[gupitín|pred]] (with scissors)"
+      ],
+      [
+       "Chop",
+       "[[tadtarín|pred]]"
+      ],
+      [
+       "Drain",
+       "[[patuluin|pred]]"
+      ],
+      [
+       "Fry",
+       "[[pritúhin|pred]]"
+      ],
+      [
+       "Marinate",
+       "[[ibábad sa sukâ|pred]] (vinegar), [[toyò|noun]] (soy sauce) at [[kalamansî|noun]] (native lemon)"
+      ],
+      [
+       "Melt",
+       "[[tunawin|pred]]"
+      ],
+      [
+       "Mince",
+       "[[dikdikín sa maliliít na piráso|pred]] (small pieces)"
+      ]
+     ],
+     "title": "Cooking terms 8-14"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Hiwáin ninyó ang tinápay sa gitná.",
+       "en": "Cut the bread in the middle.",
+       "parts": [
+        [
+         "Hiwáin",
+         "cut (with knife)",
+         "pred"
+        ],
+        [
+         "ninyó",
+         "you (plural)",
+         "pron"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "tinápay",
+         "bread",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "gitná",
+         "middle",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Gupitín ninyó ang talì ng súpot.",
+       "en": "Cut the string of the bag.",
+       "parts": [
+        [
+         "Gupitín",
+         "cut (with scissors)",
+         "pred"
+        ],
+        [
+         "ninyó",
+         "you (plural)",
+         "pron"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "talì",
+         "string",
+         "noun"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "súpot",
+         "bag",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Tadtarín mo ang baboy para sa tórta.",
+       "en": "Chop the pork for the omelet.",
+       "parts": [
+        [
+         "Tadtarín",
+         "chop",
+         "pred"
+        ],
+        [
+         "mo",
+         "you",
+         "pron"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "baboy",
+         "pork",
+         "noun"
+        ],
+        [
+         "para sa",
+         "for",
+         "marker"
+        ],
+        [
+         "tórta",
+         "omelet",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Pinatulò niyá muna ang langís mulâ sa baboy bago niyá itó hinango sa kawáli.",
+       "en": "She drained the oil from the pork before he/she removed it from the pan.",
+       "parts": [
+        [
+         "Pinatulò",
+         "drained",
+         "pred"
+        ],
+        [
+         "niyá",
+         "she",
+         "pron"
+        ],
+        [
+         "muna",
+         "first",
+         "other"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "langís",
+         "oil",
+         "noun"
+        ],
+        [
+         "mulâ sa",
+         "from",
+         "marker"
+        ],
+        [
+         "baboy",
+         "pork",
+         "noun"
+        ],
+        [
+         "bago",
+         "before",
+         "other"
+        ],
+        [
+         "niyá",
+         "he/she",
+         "pron"
+        ],
+        [
+         "itó",
+         "it",
+         "pron"
+        ],
+        [
+         "hinango",
+         "removed",
+         "pred"
+        ],
+        [
+         "sa",
+         "from",
+         "marker"
+        ],
+        [
+         "kawáli",
+         "pan",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Pinirito ng áming katúlong ang bangús.",
+       "en": "Our helper fried the milkfish.",
+       "parts": [
+        [
+         "Pinirito",
+         "fried",
+         "pred"
+        ],
+        [
+         "ng",
+         "(doer)",
+         "marker"
+        ],
+        [
+         "áming",
+         "our",
+         "poss"
+        ],
+        [
+         "katúlong",
+         "helper",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "bangús",
+         "milkfish",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ibabábad ko ang liémpo sa sukâ, toyò at kalamansî.",
+       "en": "I will marinate the pork belly in vinegar, soy sauce and kalamansi.",
+       "parts": [
+        [
+         "Ibabábad",
+         "will marinate",
+         "pred"
+        ],
+        [
+         "ko",
+         "I",
+         "pron"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "liémpo",
+         "pork belly",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "sukâ",
+         "vinegar",
+         "noun"
+        ],
+        [
+         "toyò",
+         "soy sauce",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "kalamansî",
+         "kalamansi",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Tinúnaw ni Ana ang mantikílya sa kawáli.",
+       "en": "Ana melted the butter in the pan.",
+       "parts": [
+        [
+         "Tinúnaw",
+         "melted",
+         "pred"
+        ],
+        [
+         "ni",
+         "(doer)",
+         "marker"
+        ],
+        [
+         "Ana",
+         "Ana",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "mantikílya",
+         "butter",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "kawáli",
+         "pan",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Dikdikín mo ang bawang para sa adóbo.",
+       "en": "Mince the garlic for the adobo.",
+       "parts": [
+        [
+         "Dikdikín",
+         "mince",
+         "pred"
+        ],
+        [
+         "mo",
+         "you",
+         "pron"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "bawang",
+         "garlic",
+         "noun"
+        ],
+        [
+         "para sa",
+         "for",
+         "marker"
+        ],
+        [
+         "adóbo",
+         "adobo",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Sentences 8-14"
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Book spellings",
+     "items": [
+      "This page prints **sukâ** (vinegar); the Foods list prints **sukà**.",
+      "This page prints **liémpo** (pork belly); the Foods list prints **liyémpo**.",
+      "The heading prints **ibábad** (marinate) but item 18 prints **ibabad** (soak)."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "cook2",
+     "title": "Cooking terms 8-14"
+    }
+   ]
+  },
+  {
+   "title": "Peel, pit, sauté, soak, steam, toast",
+   "blocks": [
+    {
+     "type": "table",
+     "head": [
+      "English",
+      "Tagalog"
+     ],
+     "rows": [
+      [
+       "Peel",
+       "[[talúpan|pred]]"
+      ],
+      [
+       "Pit",
+       "[[alisán ng butó|pred]] (seeds)"
+      ],
+      [
+       "Sauté",
+       "[[igisá|pred]]"
+      ],
+      [
+       "Soak",
+       "[[ibabad|pred]]"
+      ],
+      [
+       "Steam",
+       "[[pasingawan|pred]]"
+      ],
+      [
+       "Toast",
+       "[[tustahín|pred]]"
+      ]
+     ],
+     "title": "Cooking terms 15-20"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Talúpan mo ang mga mansánas para sa sálad.",
+       "en": "Peel the apples for the salad.",
+       "parts": [
+        [
+         "Talúpan",
+         "peel",
+         "pred"
+        ],
+        [
+         "mo",
+         "you",
+         "pron"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "mga",
+         "(plural)",
+         "marker"
+        ],
+        [
+         "mansánas",
+         "apples",
+         "noun"
+        ],
+        [
+         "para sa",
+         "for",
+         "marker"
+        ],
+        [
+         "sálad",
+         "salad",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Alisán ninyó ng butó ang mga bayabas bago matamisín.",
+       "en": "Pit the guavas before preserving them.",
+       "parts": [
+        [
+         "Alisán",
+         "remove",
+         "pred"
+        ],
+        [
+         "ninyó",
+         "you (plural)",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "butó",
+         "seeds",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "mga",
+         "(plural)",
+         "marker"
+        ],
+        [
+         "bayabas",
+         "guavas",
+         "noun"
+        ],
+        [
+         "bago",
+         "before",
+         "other"
+        ],
+        [
+         "matamisín",
+         "preserving",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Igisá mo ang giníling na karné sa bawang, sibúyas at kamátis.",
+       "en": "Saute the ground beef in garlic, onions and tomatoes.",
+       "parts": [
+        [
+         "Igisá",
+         "sauté",
+         "pred"
+        ],
+        [
+         "mo",
+         "you",
+         "pron"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "giníling na karné",
+         "ground beef",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "bawang",
+         "garlic",
+         "noun"
+        ],
+        [
+         "sibúyas",
+         "onions",
+         "noun"
+        ],
+        [
+         "at",
+         "and",
+         "other"
+        ],
+        [
+         "kamátis",
+         "tomatoes",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ibinabad ni Ana ang mongó sa túbig.",
+       "en": "Ana soaked the mung beans in water.",
+       "parts": [
+        [
+         "Ibinabad",
+         "soaked",
+         "pred"
+        ],
+        [
+         "ni",
+         "(doer)",
+         "marker"
+        ],
+        [
+         "Ana",
+         "Ana",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "mongó",
+         "mung beans",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "túbig",
+         "water",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Pinasingawan niya ang puto.",
+       "en": "She steamed the rice cake.",
+       "parts": [
+        [
+         "Pinasingawan",
+         "steamed",
+         "pred"
+        ],
+        [
+         "niya",
+         "she",
+         "pron"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "puto",
+         "rice cake",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Masarap tustahín ang tinápay para sa agahan.",
+       "en": "It is nice to toast some bread for breakfast.",
+       "parts": [
+        [
+         "Masarap",
+         "nice",
+         "pred"
+        ],
+        [
+         "tustahín",
+         "to toast",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "tinápay",
+         "bread",
+         "noun"
+        ],
+        [
+         "para sa",
+         "for",
+         "marker"
+        ],
+        [
+         "agahan",
+         "breakfast",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "Sentences 15-20"
+    },
+    {
+     "type": "vocab",
+     "group": "cook3",
+     "title": "Cooking terms 15-20"
+    },
+    {
+     "type": "vocab",
+     "group": "kitchen",
+     "title": "Kitchen words from the sentences"
+    }
+   ]
+  },
+  {
+   "title": "How Filipinos eat",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Filipinos love food, and it is a big part of their famous hospitality. Foreign guests often say they were overfed when visiting Filipino homes."
+    },
+    {
+     "type": "box",
+     "kind": "culture",
+     "title": "Five eating times a day",
+     "items": [
+      "**Three full meals**, plus a **morning snack** and an **afternoon snack**.",
+      "**Cooked rice** is essential at the meals, with a dish of meat and/or vegetables.",
+      "The snacks are called **merienda**, and they often include rice in its sweet, glutinous form."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "culture",
+     "title": "Where to eat",
+     "t": "Simple roadside eateries are called **karinderia** or **turo-turò**. Turo-turò gets its name because customers point to (**turò**) the food they want to order."
+    },
+    {
+     "type": "p",
+     "t": "Whether at a roadside eatery, a restaurant or at home, some dishes cross every regional and social border and appear on every Filipino table. They follow below."
+    },
+    {
+     "type": "vocab",
+     "group": "eat",
+     "title": "Eating words"
+    }
+   ]
+  },
+  {
+   "title": "Popular dishes: adóbo to karé-karé",
+   "blocks": [
+    {
+     "type": "table",
+     "head": [
+      "Dish",
+      "What it is"
+     ],
+     "rows": [
+      [
+       "[[Adóbo|noun]]",
+       "Seen by many as the official national dish: pork or poultry (or both) cooked in vinegar with garlic, peppercorns, soy sauce and bayleaf."
+      ],
+      [
+       "[[Arroz cáldo|noun]]",
+       "Rice-based gruel with bits of chicken and ginger; a favorite merienda, best steaming hot."
+      ],
+      [
+       "[[Balút|noun]]",
+       "Street food: a steamed fertilized 17-day old duck embryo, eaten with salt or vinegar."
+      ],
+      [
+       "[[Bibíngka|noun]]",
+       "Glutinous rice cake with toppings such as cheese, salted egg or grated coconut and sugar."
+      ],
+      [
+       "[[puto|noun]]",
+       "A small plain rice cake with just cheese or no topping."
+      ],
+      [
+       "[[kakanín|noun]]",
+       "Similar preparations from cassava (kamóteng káhoy) and glutinous rice with coconut milk (gatâ)."
+      ],
+      [
+       "[[Dinuguán|noun]]",
+       "Pig's blood stew with cut-ups of pork and pig organs, in a dark broth of vinegar and pig's blood; paired with puto."
+      ],
+      [
+       "[[Ginataán|noun]]",
+       "Traditional merienda: sweet potato, nangkâ, sabá, glutinous rice balls and tapioca pearls (sagó) in slightly thick coconut milk."
+      ],
+      [
+       "[[Hálo-halò|noun]]",
+       "Literally *mix-mix*: sweetened root tubers and fruits (sweet potato, sabá, nangkâ, garbanzos, ube, yam, red beans) topped with shaved ice and evaporated milk."
+      ],
+      [
+       "[[Karé-karé|noun]]",
+       "Oxtail stew: pork or calf leg and oxtail with egg plant, banana heart, string beans and pechay (bok choi) in peanut sauce with a dash of bagoóng (shrimp paste)."
+      ]
+     ],
+     "title": "Dishes and delicacies (1)"
+    },
+    {
+     "type": "vocab",
+     "group": "dish1",
+     "title": "Dishes: adóbo to karé-karé"
+    },
+    {
+     "type": "vocab",
+     "group": "ingr",
+     "title": "Ingredients named in the dishes"
+    }
+   ]
+  },
+  {
+   "title": "Popular dishes: lechón to sinigáng",
+   "blocks": [
+    {
+     "type": "table",
+     "head": [
+      "Dish",
+      "What it is"
+     ],
+     "rows": [
+      [
+       "[[Lechón|noun]] / [[litsón|noun]]",
+       "Roasted suckling pig, cooked over a low charcoal fire for a day; crisp red skin and succulent meat."
+      ],
+      [
+       "[[Lumpiá|noun]]",
+       "Fried spring roll of sauteed vegetables and ground meat in a thin egg or flour wrapper, topped with peanut sauce and crisp ginger bits."
+      ],
+      [
+       "[[saríwang lumpiá|noun]]",
+       "Fresh lumpiá: the other spring roll, without the wrapper."
+      ],
+      [
+       "[[Menúdo|noun]]",
+       "Diced pork and liver cooked with potato, garbanzos and tomato sauce or fresh tomatoes."
+      ],
+      [
+       "[[Paksíw|noun]]",
+       "Fish or meat cooked with enough vinegar, ginger and other spices, usually bayleaf and pepper."
+      ],
+      [
+       "[[Pinakbét|noun]]",
+       "Sauteed native vegetables with bagoóng or strips of dried fish."
+      ],
+      [
+       "[[Sinigáng|noun]]",
+       "Sour broth of shrimp, fish or pork with vegetables (okra, kangkong and string beans), made sour by tamarind or kamiás (green sour fruit)."
+      ]
+     ],
+     "title": "Dishes and delicacies (2)"
+    },
+    {
+     "type": "box",
+     "kind": "culture",
+     "title": "Lechón, island by island",
+     "items": [
+      "The name **lechón** comes from the Spanish **leche** (milk); it is also spelled **litsón**.",
+      "The slow roasting gives crisp red skin and succulent meat.",
+      "A lechón from **Luzon** is usually served with **liver sauce**.",
+      "A lechón from the **Visayas and Mindanao** is stuffed with spices, wines and even **paélla** (a Spanish dish of meat and seafood), and needs no sauce."
+     ]
+    },
+    {
+     "type": "vocab",
+     "group": "dish2",
+     "title": "Dishes: lechón to sinigáng"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "Cooking verbs: ihurnó (bake), pakuluín (boil), iháwin (broil), pritúhin (fry), igisá (sauté), ibabad (soak), tustahín (toast).",
+      "Cut with a knife = hiwáin; cut with scissors = gupitín.",
+      "Filipinos eat three meals plus two snacks (merienda) a day, with rice at the center.",
+      "Adóbo is seen as the national dish; lechón (litsón) is roasted suckling pig.",
+      "Hálo-halò literally means mix-mix."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "ihurno-a02",
+   "tl": "ihurnó",
+   "en": "bake",
+   "pos": "verb",
+   "group": "cook1",
+   "say": "i-hur-NO",
+   "note": "Naglutò akó ng pasta sa hurnó = I baked a pasta (dish) in the oven."
+  },
+  {
+   "id": "lutuin-sa-hurno-a02",
+   "tl": "lutúin sa hurnó",
+   "en": "bake (cook in the oven)",
+   "pos": "phrase",
+   "group": "cook1",
+   "say": "lu-TU-in sa hur-NO"
+  },
+  {
+   "id": "hurno-a02",
+   "tl": "hurnó",
+   "en": "oven",
+   "pos": "noun",
+   "group": "cook1",
+   "say": "hur-NO"
+  },
+  {
+   "id": "pahiran-ng-mantika-a02",
+   "tl": "pahíran ng mantikà",
+   "en": "baste (with cooking oil)",
+   "pos": "phrase",
+   "group": "cook1",
+   "say": "pa-HI-ran ng man-TI-kaQ",
+   "note": "Or pahíran ng sársa = baste with sauce. Pahíran mo ng mantikà ang balát ng baboy para hindî matuyô = Baste the pork skin to prevent drying."
+  },
+  {
+   "id": "mantika-a02",
+   "tl": "mantikà",
+   "en": "cooking oil",
+   "pos": "noun",
+   "group": "cook1",
+   "say": "man-TI-kaQ"
+  },
+  {
+   "id": "sarsa-a02",
+   "tl": "sársa",
+   "en": "sauce",
+   "pos": "noun",
+   "group": "cook1",
+   "say": "SAR-sa"
+  },
+  {
+   "id": "batihin-a02",
+   "tl": "batihín",
+   "en": "beat",
+   "pos": "verb",
+   "group": "cook1",
+   "say": "ba-ti-HIN",
+   "note": "Batihín mo ang ánim na itlóg para sa tórta = Beat six eggs for the omelet."
+  },
+  {
+   "id": "banlian-a02",
+   "tl": "banlián",
+   "en": "blanch",
+   "pos": "verb",
+   "group": "cook1",
+   "say": "ban-li-AN",
+   "note": "Binanlián ko ang mga pili para maalís ang balát = I blanched the pili nuts to remove the skin."
+  },
+  {
+   "id": "haluin-a02",
+   "tl": "halúin",
+   "en": "blend",
+   "pos": "verb",
+   "group": "cook1",
+   "say": "ha-LU-in",
+   "note": "Halúin mo ang mga sangkáp nang mabuti = Blend the ingredients very well."
+  },
+  {
+   "id": "pakuluin-a02",
+   "tl": "pakuluín",
+   "en": "boil",
+   "pos": "verb",
+   "group": "cook1",
+   "say": "pa-ku-lu-IN",
+   "note": "Pakuluín mo ang túbig sa kaldéro = Boil the water in the kettle."
+  },
+  {
+   "id": "ihawin-a02",
+   "tl": "iháwin",
+   "en": "broil",
+   "pos": "verb",
+   "group": "cook1",
+   "say": "i-HA-win",
+   "note": "Iníhaw ko ang dáing sa bága = I broiled the dried fish on live coals."
+  },
+  {
+   "id": "hiwain-a02",
+   "tl": "hiwáin",
+   "en": "cut (with knife)",
+   "pos": "verb",
+   "group": "cook2",
+   "say": "hi-WA-in",
+   "note": "Hiwáin ninyó ang tinápay sa gitná = Cut the bread in the middle."
+  },
+  {
+   "id": "gupitin-a02",
+   "tl": "gupitín",
+   "en": "cut (with scissors)",
+   "pos": "verb",
+   "group": "cook2",
+   "say": "gu-pi-TIN",
+   "note": "Gupitín ninyó ang talì ng súpot = Cut the string of the bag."
+  },
+  {
+   "id": "tadtarin-a02",
+   "tl": "tadtarín",
+   "en": "chop",
+   "pos": "verb",
+   "group": "cook2",
+   "say": "tad-ta-RIN",
+   "note": "Tadtarín mo ang baboy para sa tórta = Chop the pork for the omelet."
+  },
+  {
+   "id": "patuluin-a02",
+   "tl": "patuluin",
+   "en": "drain",
+   "pos": "verb",
+   "group": "cook2",
+   "note": "Pinatulò niyá muna ang langís mulâ sa baboy… = She drained the oil from the pork…"
+  },
+  {
+   "id": "prituhin-a02",
+   "tl": "pritúhin",
+   "en": "fry",
+   "pos": "verb",
+   "group": "cook2",
+   "say": "pri-TU-hin",
+   "note": "Pinirito ng áming katúlong ang bangús = Our helper fried the milkfish. Lesson 44 prints prituhin."
+  },
+  {
+   "id": "ibabad-sa-suka-a02",
+   "tl": "ibábad sa sukâ",
+   "en": "marinate (in vinegar)",
+   "pos": "phrase",
+   "group": "cook2",
+   "say": "i-BA-bad sa su-kaQ",
+   "note": "The book: Marinate = ibábad sa sukâ (vinegar), toyò (soy sauce) at kalamansî (native lemon)."
+  },
+  {
+   "id": "kalamansi-a02",
+   "tl": "kalamansî",
+   "en": "native lemon",
+   "pos": "noun",
+   "group": "cook2",
+   "say": "ka-la-man-siQ"
+  },
+  {
+   "id": "tunawin-a02",
+   "tl": "tunawin",
+   "en": "melt",
+   "pos": "verb",
+   "group": "cook2",
+   "note": "Tinúnaw ni Ana ang mantikílya sa kawáli = Ana melted the butter in the pan."
+  },
+  {
+   "id": "dikdikin-a02",
+   "tl": "dikdikín sa maliliít na piráso",
+   "en": "mince",
+   "pos": "phrase",
+   "group": "cook2",
+   "say": "dik-di-KIN sa ma-li-li-IT na pi-RA-so",
+   "note": "Dikdikín mo ang bawang para sa adóbo = Mince the garlic for the adobo."
+  },
+  {
+   "id": "maliliit-na-piraso-a02",
+   "tl": "maliliít na piráso",
+   "en": "small pieces",
+   "pos": "phrase",
+   "group": "cook2",
+   "say": "ma-li-li-IT na pi-RA-so"
+  },
+  {
+   "id": "talupan-a02",
+   "tl": "talúpan",
+   "en": "peel",
+   "pos": "verb",
+   "group": "cook3",
+   "say": "ta-LU-pan",
+   "note": "Talúpan mo ang mga mansánas para sa sálad = Peel the apples for the salad."
+  },
+  {
+   "id": "alisan-ng-buto-a02",
+   "tl": "alisán ng butó",
+   "en": "pit",
+   "pos": "phrase",
+   "group": "cook3",
+   "say": "a-li-SAN ng bu-TO",
+   "note": "Alisán ninyó ng butó ang mga bayabas bago matamisín = Pit the guavas before preserving them."
+  },
+  {
+   "id": "buto-a02",
+   "tl": "butó",
+   "en": "seeds",
+   "pos": "noun",
+   "group": "cook3",
+   "say": "bu-TO"
+  },
+  {
+   "id": "igisa-a02",
+   "tl": "igisá",
+   "en": "sauté",
+   "pos": "verb",
+   "group": "cook3",
+   "say": "i-gi-SA",
+   "note": "Igisá mo ang giníling na karné sa bawang, sibúyas at kamátis = Saute the ground beef in garlic, onions and tomatoes."
+  },
+  {
+   "id": "ibabad-a02",
+   "tl": "ibabad",
+   "en": "soak",
+   "pos": "verb",
+   "group": "cook3",
+   "note": "Ibinabad ni Ana ang mongó sa túbig = Ana soaked the mung beans in water. The marinate heading prints ibábad."
+  },
+  {
+   "id": "pasingawan-a02",
+   "tl": "pasingawan",
+   "en": "steam",
+   "pos": "verb",
+   "group": "cook3",
+   "note": "Pinasingawan niya ang puto = She steamed the rice cake."
+  },
+  {
+   "id": "tustahin-a02",
+   "tl": "tustahín",
+   "en": "toast",
+   "pos": "verb",
+   "group": "cook3",
+   "say": "tus-ta-HIN",
+   "note": "Masarap tustahín ang tinápay para sa agahan = It is nice to toast some bread for breakfast."
+  },
+  {
+   "id": "torta-a02",
+   "tl": "tórta",
+   "en": "omelet",
+   "pos": "noun",
+   "group": "kitchen",
+   "say": "TOR-ta"
+  },
+  {
+   "id": "pili-a02",
+   "tl": "pili",
+   "en": "pili nuts",
+   "pos": "noun",
+   "group": "kitchen"
+  },
+  {
+   "id": "sangkap-a02",
+   "tl": "sangkáp",
+   "en": "ingredients",
+   "pos": "noun",
+   "group": "kitchen",
+   "say": "sang-KAP"
+  },
+  {
+   "id": "kaldero-a02",
+   "tl": "kaldéro",
+   "en": "kettle",
+   "pos": "noun",
+   "group": "kitchen",
+   "say": "kal-DE-ro"
+  },
+  {
+   "id": "daing-a02",
+   "tl": "dáing",
+   "en": "dried fish",
+   "pos": "noun",
+   "group": "kitchen",
+   "say": "DA-ing"
+  },
+  {
+   "id": "baga-a02",
+   "tl": "bága",
+   "en": "live coals",
+   "pos": "noun",
+   "group": "kitchen",
+   "say": "BA-ga"
+  },
+  {
+   "id": "tali-a02",
+   "tl": "talì",
+   "en": "string",
+   "pos": "noun",
+   "group": "kitchen",
+   "say": "TA-liQ"
+  },
+  {
+   "id": "supot-a02",
+   "tl": "súpot",
+   "en": "bag",
+   "pos": "noun",
+   "group": "kitchen",
+   "say": "SU-pot"
+  },
+  {
+   "id": "langis-a02",
+   "tl": "langís",
+   "en": "oil",
+   "pos": "noun",
+   "group": "kitchen",
+   "say": "la-NGIS"
+  },
+  {
+   "id": "kawali-a02",
+   "tl": "kawáli",
+   "en": "pan",
+   "pos": "noun",
+   "group": "kitchen",
+   "say": "ka-WA-li"
+  },
+  {
+   "id": "liempo-a02",
+   "tl": "liémpo",
+   "en": "pork belly",
+   "pos": "noun",
+   "group": "kitchen",
+   "say": "li-EM-po",
+   "note": "The Foods list prints liyémpo."
+  },
+  {
+   "id": "mantikilya-a02",
+   "tl": "mantikílya",
+   "en": "butter",
+   "pos": "noun",
+   "group": "kitchen",
+   "say": "man-ti-KIL-ya"
+  },
+  {
+   "id": "salad-a02",
+   "tl": "sálad",
+   "en": "salad",
+   "pos": "noun",
+   "group": "kitchen",
+   "say": "SA-lad"
+  },
+  {
+   "id": "bayabas-a02",
+   "tl": "bayabas",
+   "en": "guavas",
+   "pos": "noun",
+   "group": "kitchen"
+  },
+  {
+   "id": "agahan-a02",
+   "tl": "agahan",
+   "en": "breakfast",
+   "pos": "noun",
+   "group": "kitchen"
+  },
+  {
+   "id": "merienda-a02",
+   "tl": "merienda",
+   "en": "snack (morning or afternoon)",
+   "pos": "noun",
+   "group": "eat"
+  },
+  {
+   "id": "karinderia-a02",
+   "tl": "karinderia",
+   "en": "simple roadside eatery",
+   "pos": "noun",
+   "group": "eat",
+   "note": "Also called turo-turò."
+  },
+  {
+   "id": "turo-turo-a02",
+   "tl": "turo-turò",
+   "en": "simple roadside eatery (where customers point to the food)",
+   "pos": "noun",
+   "group": "eat",
+   "say": "tu-ro TU-roQ"
+  },
+  {
+   "id": "turo-a02",
+   "tl": "turò",
+   "en": "point to",
+   "pos": "verb",
+   "group": "eat",
+   "say": "TU-roQ",
+   "note": "Customers point to, or turò, the food they want to order."
+  },
+  {
+   "id": "adobo-a02",
+   "tl": "adóbo",
+   "en": "adobo: pork and/or poultry cooked in vinegar with garlic, peppercorns, soy sauce and bayleaf",
+   "pos": "noun",
+   "group": "dish1",
+   "say": "a-DO-bo",
+   "note": "Regarded by many as the official national dish."
+  },
+  {
+   "id": "arroz-caldo-a02",
+   "tl": "arroz cáldo",
+   "en": "rice-based gruel with bits of chicken and ginger",
+   "pos": "noun",
+   "group": "dish1",
+   "say": "ar-roz CAL-do"
+  },
+  {
+   "id": "balut-a02",
+   "tl": "balút",
+   "en": "steamed fertilized 17-day old duck embryo (street food)",
+   "pos": "noun",
+   "group": "dish1",
+   "say": "ba-LUT"
+  },
+  {
+   "id": "bibingka-a02",
+   "tl": "bibíngka",
+   "en": "glutinous rice cake with toppings",
+   "pos": "noun",
+   "group": "dish1",
+   "say": "bi-BING-ka"
+  },
+  {
+   "id": "puto-a02",
+   "tl": "puto",
+   "en": "small plain rice cake",
+   "pos": "noun",
+   "group": "dish1",
+   "note": "Pinasingawan niya ang puto = She steamed the rice cake."
+  },
+  {
+   "id": "kakanin-a02",
+   "tl": "kakanín",
+   "en": "preparations from cassava and glutinous rice with coconut milk",
+   "pos": "noun",
+   "group": "dish1",
+   "say": "ka-ka-NIN"
+  },
+  {
+   "id": "dinuguan-a02",
+   "tl": "dinuguán",
+   "en": "pig's blood stew",
+   "pos": "noun",
+   "group": "dish1",
+   "say": "di-nu-gu-AN"
+  },
+  {
+   "id": "ginataan-a02",
+   "tl": "ginataán",
+   "en": "merienda of sweet potato, nangkâ, sabá, rice balls and tapioca pearls in coconut milk",
+   "pos": "noun",
+   "group": "dish1",
+   "say": "gi-na-ta-AN"
+  },
+  {
+   "id": "halo-halo-a02",
+   "tl": "hálo-halò",
+   "en": "mix-mix (cool sweet dessert topped with shaved ice and evaporated milk)",
+   "pos": "noun",
+   "group": "dish1",
+   "say": "HA-lo HA-loQ"
+  },
+  {
+   "id": "kare-kare-a02",
+   "tl": "karé-karé",
+   "en": "oxtail stew",
+   "pos": "noun",
+   "group": "dish1",
+   "say": "ka-RE ka-RE"
+  },
+  {
+   "id": "gata-a02",
+   "tl": "gatâ",
+   "en": "coconut milk",
+   "pos": "noun",
+   "group": "ingr",
+   "say": "ga-taQ"
+  },
+  {
+   "id": "nangka-a02",
+   "tl": "nangkâ",
+   "en": "jackfruit",
+   "pos": "noun",
+   "group": "ingr",
+   "say": "nang-kaQ"
+  },
+  {
+   "id": "saba-a02",
+   "tl": "sabá",
+   "en": "a variety of banana used for cooking",
+   "pos": "noun",
+   "group": "ingr",
+   "say": "sa-BA"
+  },
+  {
+   "id": "sago-a02",
+   "tl": "sagó",
+   "en": "tapioca pearls",
+   "pos": "noun",
+   "group": "ingr",
+   "say": "sa-GO"
+  },
+  {
+   "id": "pechay-a02",
+   "tl": "pechay",
+   "en": "bok choi",
+   "pos": "noun",
+   "group": "ingr",
+   "note": "The Foods list writes petsáy."
+  },
+  {
+   "id": "bagoong-a02",
+   "tl": "bagoóng",
+   "en": "shrimp paste",
+   "pos": "noun",
+   "group": "ingr",
+   "say": "ba-go-ONG"
+  },
+  {
+   "id": "kamias-a02",
+   "tl": "kamiás",
+   "en": "green sour fruit",
+   "pos": "noun",
+   "group": "ingr",
+   "say": "ka-mi-AS"
+  },
+  {
+   "id": "lechon-a02",
+   "tl": "lechón",
+   "en": "roasted suckling pig",
+   "pos": "noun",
+   "group": "dish2",
+   "say": "le-CHON",
+   "note": "From Spanish leche (milk). Also litsón."
+  },
+  {
+   "id": "litson-a02",
+   "tl": "litsón",
+   "en": "roasted suckling pig",
+   "pos": "noun",
+   "group": "dish2",
+   "say": "lit-SON",
+   "note": "Also lechón."
+  },
+  {
+   "id": "paella-a02",
+   "tl": "paélla",
+   "en": "a Spanish dish of meat and seafood",
+   "pos": "noun",
+   "group": "dish2",
+   "say": "pa-EL-la"
+  },
+  {
+   "id": "lumpia-a02",
+   "tl": "lumpiá",
+   "en": "fried spring roll",
+   "pos": "noun",
+   "group": "dish2",
+   "say": "lum-pi-A"
+  },
+  {
+   "id": "sariwang-lumpia-a02",
+   "tl": "saríwang lumpiá",
+   "en": "fresh lumpia (spring roll without the wrapper)",
+   "pos": "noun",
+   "group": "dish2",
+   "say": "sa-RI-wang lum-pi-A"
+  },
+  {
+   "id": "menudo-a02",
+   "tl": "menúdo",
+   "en": "diced pork and liver with potato, garbanzos and tomato",
+   "pos": "noun",
+   "group": "dish2",
+   "say": "me-NU-do"
+  },
+  {
+   "id": "paksiw-a02",
+   "tl": "paksíw",
+   "en": "fish or meat cooked with vinegar, ginger and other spices",
+   "pos": "noun",
+   "group": "dish2",
+   "say": "pak-SIW"
+  },
+  {
+   "id": "pinakbet-a02",
+   "tl": "pinakbét",
+   "en": "sauteed native vegetables with bagoóng or dried fish",
+   "pos": "noun",
+   "group": "dish2",
+   "say": "pi-nak-BET"
+  },
+  {
+   "id": "sinigang-a02",
+   "tl": "sinigáng",
+   "en": "sour broth of shrimp, fish or pork, and vegetables",
+   "pos": "noun",
+   "group": "dish2",
+   "say": "si-ni-GANG"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "Which countries does the book name as influences on Filipino cooking?",
+   "options": [
+    "China, Spain, Mexico and the United States",
+    "Japan, France and Italy",
+    "India and Thailand only"
+   ],
+   "answer": "China, Spain, Mexico and the United States",
+   "explain": "Each region then gave these foods its own local taste."
+  },
+  {
+   "type": "choice",
+   "q": "Which word means boil?",
+   "options": [
+    "pakuluín",
+    "pritúhin",
+    "iháwin"
+   ],
+   "answer": "pakuluín",
+   "explain": "Pritúhin is fry; iháwin is broil."
+  },
+  {
+   "type": "choice",
+   "q": "You need to cut with scissors. Which verb?",
+   "options": [
+    "gupitín",
+    "hiwáin",
+    "tadtarín"
+   ],
+   "answer": "gupitín",
+   "explain": "Hiwáin is cut with a knife; tadtarín is chop."
+  },
+  {
+   "type": "choice",
+   "q": "What does igisá mean?",
+   "options": [
+    "sauté",
+    "steam",
+    "soak"
+   ],
+   "answer": "sauté",
+   "explain": "Steam is pasingawan; soak is ibabad."
+  },
+  {
+   "type": "choice",
+   "q": "What does tustahín mean?",
+   "options": [
+    "toast",
+    "melt",
+    "peel"
+   ],
+   "answer": "toast",
+   "explain": "Melt is tunawin; peel is talúpan."
+  },
+  {
+   "type": "choice",
+   "q": "What is merienda?",
+   "options": [
+    "a snack",
+    "a roadside eatery",
+    "a rice cake"
+   ],
+   "answer": "a snack",
+   "explain": "Filipinos have a morning and an afternoon merienda as well as three full meals."
+  },
+  {
+   "type": "choice",
+   "q": "Why is a turo-turò eatery called that?",
+   "options": [
+    "Customers point to (turò) the food they want",
+    "It serves only two dishes",
+    "It is open twice a day"
+   ],
+   "answer": "Customers point to (turò) the food they want",
+   "explain": "It is also called karinderia."
+  },
+  {
+   "type": "choice",
+   "q": "Which dish is regarded by many as the official national dish?",
+   "options": [
+    "adóbo",
+    "sinigáng",
+    "menúdo"
+   ],
+   "answer": "adóbo",
+   "explain": "Pork or poultry cooked in vinegar with garlic, peppercorns, soy sauce and bayleaf."
+  },
+  {
+   "type": "choice",
+   "q": "Hálo-halò literally means…",
+   "options": [
+    "mix-mix",
+    "sour broth",
+    "fresh roll"
+   ],
+   "answer": "mix-mix",
+   "explain": "A cool dessert topped with shaved ice and evaporated milk."
+  },
+  {
+   "type": "choice",
+   "q": "A lechón from Luzon is usually served with…",
+   "options": [
+    "liver sauce",
+    "paélla stuffing",
+    "peanut sauce"
+   ],
+   "answer": "liver sauce",
+   "explain": "The Visayas and Mindanao lechón is stuffed and needs no sauce."
+  },
+  {
+   "type": "choice",
+   "q": "What makes sinigáng sour?",
+   "options": [
+    "tamarind or kamiás",
+    "vinegar and pig's blood",
+    "shrimp paste"
+   ],
+   "answer": "tamarind or kamiás",
+   "explain": "Kamiás is a green sour fruit."
+  },
+  {
+   "type": "listen",
+   "tl": "pritúhin",
+   "options": [
+    "fry",
+    "beat",
+    "blend"
+   ],
+   "answer": "fry",
+   "explain": "Beat is batihín; blend is halúin."
+  },
+  {
+   "type": "listen",
+   "tl": "kawáli",
+   "options": [
+    "pan",
+    "kettle",
+    "bag"
+   ],
+   "answer": "pan",
+   "explain": "Kettle is kaldéro; bag is súpot."
+  },
+  {
+   "type": "listen",
+   "tl": "bagoóng",
+   "options": [
+    "shrimp paste",
+    "coconut milk",
+    "tapioca pearls"
+   ],
+   "answer": "shrimp paste",
+   "explain": "Coconut milk is gatâ; tapioca pearls are sagó."
+  },
+  {
+   "type": "listen",
+   "tl": "dinuguán",
+   "options": [
+    "pig's blood stew",
+    "oxtail stew",
+    "rice-based gruel with bits of chicken and ginger"
+   ],
+   "answer": "pig's blood stew",
+   "explain": "Oxtail stew is karé-karé; the gruel is arroz cáldo."
+  },
+  {
+   "type": "build",
+   "en": "Boil the water in the kettle.",
+   "tl": "Pakuluín mo ang túbig sa kaldéro.",
+   "tokens": [
+    "pakuluín",
+    "mo",
+    "ang",
+    "túbig",
+    "sa",
+    "kaldéro"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Beat six eggs for the omelet.",
+   "tl": "Batihín mo ang ánim na itlóg para sa tórta.",
+   "tokens": [
+    "batihín",
+    "mo",
+    "ang",
+    "ánim",
+    "na",
+    "itlóg",
+    "para",
+    "sa",
+    "tórta"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "I broiled the dried fish on live coals.",
+   "tl": "Iníhaw ko ang dáing sa bága.",
+   "tokens": [
+    "iníhaw",
+    "ko",
+    "ang",
+    "dáing",
+    "sa",
+    "bága"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Cut the bread in the middle.",
+   "tl": "Hiwáin ninyó ang tinápay sa gitná.",
+   "tokens": [
+    "hiwáin",
+    "ninyó",
+    "ang",
+    "tinápay",
+    "sa",
+    "gitná"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Chop the pork for the omelet.",
+   "tl": "Tadtarín mo ang baboy para sa tórta.",
+   "tokens": [
+    "tadtarín",
+    "mo",
+    "ang",
+    "baboy",
+    "para",
+    "sa",
+    "tórta"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Our helper fried the milkfish.",
+   "tl": "Pinirito ng áming katúlong ang bangús.",
+   "tokens": [
+    "pinirito",
+    "ng",
+    "áming",
+    "katúlong",
+    "ang",
+    "bangús"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Ana melted the butter in the pan.",
+   "tl": "Tinúnaw ni Ana ang mantikílya sa kawáli.",
+   "tokens": [
+    "tinúnaw",
+    "ni",
+    "ana",
+    "ang",
+    "mantikílya",
+    "sa",
+    "kawáli"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "She steamed the rice cake.",
+   "tl": "Pinasingawan niya ang puto.",
+   "tokens": [
+    "pinasingawan",
+    "niya",
+    "ang",
+    "puto"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match the cooking verb.",
+   "pairs": [
+    [
+     "ihurnó",
+     "bake"
+    ],
+    [
+     "banlián",
+     "blanch"
+    ],
+    [
+     "halúin",
+     "blend"
+    ],
+    [
+     "patuluin",
+     "drain"
+    ],
+    [
+     "talúpan",
+     "peel"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the dish.",
+   "pairs": [
+    [
+     "balút",
+     "steamed fertilized 17-day old duck embryo (street food)"
+    ],
+    [
+     "karé-karé",
+     "oxtail stew"
+    ],
+    [
+     "lumpiá",
+     "fried spring roll"
+    ],
+    [
+     "lechón",
+     "roasted suckling pig"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the kitchen word.",
+   "pairs": [
+    [
+     "mantikà",
+     "cooking oil"
+    ],
+    [
+     "sársa",
+     "sauce"
+    ],
+    [
+     "mantikílya",
+     "butter"
+    ],
+    [
+     "hurnó",
+     "oven"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "Filipino cooking blends Chinese, Spanish, Mexican and American influences with local regional tastes.",
+  "Cooking verbs: ihurnó, batihín, banlián, halúin, pakuluín, iháwin, tadtarín, pritúhin, tunawin, talúpan, igisá, ibabad, pasingawan, tustahín.",
+  "Cut with a knife: hiwáin; with scissors: gupitín. Pit: alisán ng butó. Mince: dikdikín sa maliliít na piráso.",
+  "Three meals and two merienda a day; roadside eateries are karinderia or turo-turò.",
+  "Dishes: adóbo, arroz cáldo, balút, bibíngka, dinuguán, ginataán, hálo-halò, karé-karé, lechón, lumpiá, menúdo, paksíw, pinakbét, sinigáng."
+ ]
+}

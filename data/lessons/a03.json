@@ -1,0 +1,2041 @@
+{
+ "id": "a03",
+ "label": "A3",
+ "title": "Tagalog idioms",
+ "summary": "Thirty everyday idioms with their literal and real meanings and the book's example sentences: bukás ang palád (generous), magsúnog ng kílay (study hard), mahabá ang dilá (gossiper), pagputî ng uwák (never), saling-pusà and more",
+ "minutes": 35,
+ "goals": [
+  "Understand what an idiom is and why Tagalog speakers use them",
+  "Learn idioms built on parts of the body (hands, bones, blood, tongue, eyebrows)",
+  "Learn idioms built on animals (rat, raven, cat, puppy, turtle)",
+  "Learn other common idioms such as hulog ng langit and parang palengke",
+  "Read each idiom inside the book's example sentence"
+ ],
+ "sections": [
+  {
+   "title": "What is an idiom?",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "An **idiom** is a group of words that together mean something different from the meanings of the separate words. Idioms often carry a local story or logic, and they add colour, grace and precision to speech and writing."
+    },
+    {
+     "type": "p",
+     "t": "Every language has its own idioms, and learners often find them hard and avoid using them for fear of being misunderstood. The fix is simply **confidence and practice**."
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "How to pick up idioms",
+     "items": [
+      "Listen to Filipinos talking in their own language.",
+      "Read Filipino comic strips in the leading newspapers, for example Pol Medina Jr.'s **Pugad Baboy** (literally *Pig's Nest*), which shows Filipino life and society.",
+      "Watch Filipino TV variety shows and Tagalog dramas, and listen to radio talk shows.",
+      "Write down any unfamiliar words or phrases you hear."
+     ]
+    },
+    {
+     "type": "box",
+     "kind": "english",
+     "title": "Three parts to each idiom",
+     "t": "For each idiom you get the Tagalog, its **literal** meaning (word for word) and its **real** meaning, then one of the book's sentences. Filipinos have thousands of idioms; these are some that make conversation come alive."
+    },
+    {
+     "type": "vocab",
+     "group": "intro",
+     "title": "From the introduction"
+    }
+   ]
+  },
+  {
+   "title": "Body idioms (1): palms, bones, blood, tears and more",
+   "blocks": [
+    {
+     "type": "table",
+     "head": [
+      "Idiom",
+      "Literally",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[Anak-páwis|pred]]",
+       "*child of perspiration*",
+       "poor people, laboring class"
+      ],
+      [
+       "[[Bukás ang palád|pred]]",
+       "*with open palm of hand*",
+       "generous with money"
+      ],
+      [
+       "[[Butó't balát|pred]]",
+       "*skin and bones*",
+       "very thin, emaciated"
+      ],
+      [
+       "[[Kánang-kamáy|pred]]",
+       "*right hand*",
+       "efficient helper, assistant"
+      ],
+      [
+       "[[Kumukulô ang dugô|pred]]",
+       "*the blood is boiling*",
+       "very angry"
+      ],
+      [
+       "[[Mababà ang luhà|pred]]",
+       "*shallow tears*",
+       "cries easily"
+      ],
+      [
+       "[[Mabigát ang bibíg|pred]]",
+       "*heavy mouth*",
+       "rude, uncouth, insulting, uncivil"
+      ],
+      [
+       "[[Magbanat ng butó|pred]]",
+       "*stretch the bone*",
+       "to work very hard"
+      ]
+     ],
+     "title": "Body idioms (1)"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Ang mga anak-páwis ay mahál ng Diyos.",
+       "en": "Poor people are loved by God.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "mga",
+         "(plural)",
+         "marker"
+        ],
+        [
+         "anak-páwis",
+         "poor people",
+         "noun"
+        ],
+        [
+         "ay",
+         "are",
+         "ay"
+        ],
+        [
+         "mahál",
+         "loved",
+         "pred"
+        ],
+        [
+         "ng",
+         "by",
+         "marker"
+        ],
+        [
+         "Diyos",
+         "God",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang áking áma ay bukás ang palád sa mahihírap.",
+       "en": "My father is generous with the poor.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "áking",
+         "my",
+         "poss"
+        ],
+        [
+         "áma",
+         "father",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "bukás ang palád",
+         "generous",
+         "pred"
+        ],
+        [
+         "sa",
+         "with",
+         "marker"
+        ],
+        [
+         "mahihírap",
+         "the poor",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Butó't balát na si Pedro nang lumabás sa óspital.",
+       "en": "Pedro was very thin when he checked out of the hospital.",
+       "parts": [
+        [
+         "Butó't balát",
+         "very thin",
+         "pred"
+        ],
+        [
+         "na",
+         "already",
+         "other"
+        ],
+        [
+         "si",
+         "(name marker)",
+         "marker"
+        ],
+        [
+         "Pedro",
+         "Pedro",
+         "noun"
+        ],
+        [
+         "nang",
+         "when",
+         "other"
+        ],
+        [
+         "lumabás",
+         "checked out",
+         "pred"
+        ],
+        [
+         "sa",
+         "of",
+         "marker"
+        ],
+        [
+         "óspital",
+         "hospital",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Siyá ang kánang kamáy ko sa tanggapán.",
+       "en": "He/She is my efficient helper in the office.",
+       "parts": [
+        [
+         "Siyá",
+         "he/she",
+         "pron"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "kánang kamáy",
+         "efficient helper",
+         "noun"
+        ],
+        [
+         "ko",
+         "my",
+         "pron"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "tanggapán",
+         "office",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Kumukulô ang dugô ko sa táong iyón.",
+       "en": "I am very angry with that person.",
+       "parts": [
+        [
+         "Kumukulô ang dugô",
+         "very angry",
+         "pred"
+        ],
+        [
+         "ko",
+         "my",
+         "pron"
+        ],
+        [
+         "sa",
+         "with",
+         "marker"
+        ],
+        [
+         "táong",
+         "person (+ ligature)",
+         "noun"
+        ],
+        [
+         "iyón",
+         "that",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang áking iná ay mababà ang luhà.",
+       "en": "My mother cries easily.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "áking",
+         "my",
+         "poss"
+        ],
+        [
+         "iná",
+         "mother",
+         "noun"
+        ],
+        [
+         "ay",
+         "(ay)",
+         "ay"
+        ],
+        [
+         "mababà ang luhà",
+         "cries easily",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Waláng maraming kaibígan ang táong mabigát ang bibíg.",
+       "en": "Rude people do not have many friends.",
+       "parts": [
+        [
+         "Waláng",
+         "do not have (+ ligature)",
+         "pred"
+        ],
+        [
+         "maraming",
+         "many (+ ligature)",
+         "pred"
+        ],
+        [
+         "kaibígan",
+         "friends",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "táong",
+         "people (+ ligature)",
+         "noun"
+        ],
+        [
+         "mabigát ang bibíg",
+         "rude",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Kailangang magbanat ng butó upang mabuhay.",
+       "en": "We must work hard to survive.",
+       "parts": [
+        [
+         "Kailangang",
+         "must (+ ligature)",
+         "pred"
+        ],
+        [
+         "magbanat ng butó",
+         "work hard",
+         "pred"
+        ],
+        [
+         "upang",
+         "to",
+         "other"
+        ],
+        [
+         "mabuhay",
+         "survive",
+         "pred"
+        ]
+       ]
+      }
+     ],
+     "title": "The book's sentences"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Same idiom, slightly different spelling",
+     "t": "The heading prints **Kánang-kamáy** with a hyphen, but the sentence prints **kánang kamáy** without one."
+    },
+    {
+     "type": "vocab",
+     "group": "body1",
+     "title": "Body idioms (1)"
+    }
+   ]
+  },
+  {
+   "title": "Body idioms (2): eyebrows, tongue, forehead and face",
+   "blocks": [
+    {
+     "type": "table",
+     "head": [
+      "Idiom",
+      "Literally",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[Magsúnog ng kílay|pred]]",
+       "*to burn eyebrows*",
+       "to study hard"
+      ],
+      [
+       "[[Mahabá ang dilá|pred]]",
+       "*long tongue*",
+       "gossiper, gossip monger"
+      ],
+      [
+       "[[Maitím ang butó|pred]]",
+       "*black bones*",
+       "evil"
+      ],
+      [
+       "[[Makítid ang noó|pred]]",
+       "*narrow forehead*",
+       "dumb"
+      ],
+      [
+       "[[Malikót ang kamáy|pred]]",
+       "*restless hands*",
+       "pickpocket, a person who steals from pockets or bags"
+      ],
+      [
+       "[[Matigás ang mukhâ|pred]]",
+       "*hard face*",
+       "stern-faced"
+      ],
+      [
+       "[[Mukháng Biyernes Santo|pred]]",
+       "*a Holy Friday face*",
+       "sad or gloomy face"
+      ],
+      [
+       "[[Sirâ-úlo|pred]]",
+       "*broken head*",
+       "crazy"
+      ]
+     ],
+     "title": "Body idioms (2)"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Magsúnog ka ng kílay para sa iyóng kinábukasan.",
+       "en": "Study hard for your future.",
+       "parts": [
+        [
+         "Magsúnog",
+         "study hard (burn)",
+         "pred"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ],
+        [
+         "ng kílay",
+         "(eyebrows)",
+         "noun"
+        ],
+        [
+         "para sa",
+         "for",
+         "marker"
+        ],
+        [
+         "iyóng",
+         "your",
+         "poss"
+        ],
+        [
+         "kinábukasan",
+         "future",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Maraming babáe ang mahabá ang dilá.",
+       "en": "Many women are gossipers.",
+       "parts": [
+        [
+         "Maraming",
+         "many (+ ligature)",
+         "pred"
+        ],
+        [
+         "babáe",
+         "women",
+         "noun"
+        ],
+        [
+         "ang",
+         "(ang)",
+         "marker"
+        ],
+        [
+         "mahabá ang dilá",
+         "gossipers",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Huwág kang makisáma sa táong iyán. Maitím ang kanyáng butó.",
+       "en": "Don't get involved with that person. He/She is evil.",
+       "parts": [
+        [
+         "Huwág",
+         "don't",
+         "other"
+        ],
+        [
+         "kang",
+         "you (+ ligature)",
+         "pron"
+        ],
+        [
+         "makisáma",
+         "get involved",
+         "pred"
+        ],
+        [
+         "sa",
+         "with",
+         "marker"
+        ],
+        [
+         "táong",
+         "person (+ ligature)",
+         "noun"
+        ],
+        [
+         "iyán",
+         "that",
+         "pron"
+        ],
+        [
+         "Maitím",
+         "black",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "kanyáng",
+         "his/her",
+         "poss"
+        ],
+        [
+         "butó",
+         "bones",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Makítid ang noó ng kanyáng kakláse.",
+       "en": "His/Her classmate is dumb.",
+       "parts": [
+        [
+         "Makítid ang noó",
+         "dumb",
+         "pred"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "kanyáng",
+         "his/her",
+         "poss"
+        ],
+        [
+         "kakláse",
+         "classmate",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang táong malikót ang kamáy ay náhuli.",
+       "en": "The pickpocket was arrested.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "táong",
+         "person (+ ligature)",
+         "noun"
+        ],
+        [
+         "malikót ang kamáy",
+         "pickpocket",
+         "pred"
+        ],
+        [
+         "ay",
+         "was",
+         "ay"
+        ],
+        [
+         "náhuli",
+         "arrested",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Ayóko sa babáeng matigás ang mukhâ.",
+       "en": "I don't like a stern-faced woman.",
+       "parts": [
+        [
+         "Ayóko",
+         "I don't like",
+         "pred"
+        ],
+        [
+         "sa",
+         "(to)",
+         "marker"
+        ],
+        [
+         "babáeng",
+         "woman (+ ligature)",
+         "noun"
+        ],
+        [
+         "matigás ang mukhâ",
+         "stern-faced",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Siyá ay mukháng Biyernes Santo.",
+       "en": "She looks very sad.",
+       "parts": [
+        [
+         "Siyá",
+         "she",
+         "pron"
+        ],
+        [
+         "ay",
+         "(ay)",
+         "ay"
+        ],
+        [
+         "mukháng Biyernes Santo",
+         "looks very sad",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Huwág mong pansinín ang sirâ-úlong iyán.",
+       "en": "Don't mind that crazy person.",
+       "parts": [
+        [
+         "Huwág",
+         "don't",
+         "other"
+        ],
+        [
+         "mong",
+         "you (+ ligature)",
+         "pron"
+        ],
+        [
+         "pansinín",
+         "mind",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "sirâ-úlong",
+         "crazy person (+ ligature)",
+         "noun"
+        ],
+        [
+         "iyán",
+         "that",
+         "pron"
+        ]
+       ]
+      }
+     ],
+     "title": "The book's sentences"
+    },
+    {
+     "type": "vocab",
+     "group": "body2",
+     "title": "Body idioms (2)"
+    }
+   ]
+  },
+  {
+   "title": "Animal idioms",
+   "blocks": [
+    {
+     "type": "p",
+     "t": "Rats, ravens, cats, puppies, turtles and tails all turn up in Tagalog idioms."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Idiom",
+      "Literally",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[Mahabà ang buntót|pred]]",
+       "*long tailed*",
+       "spoiled"
+      ],
+      [
+       "[[Mahírap pa sa dagâ|pred]]",
+       "*poorer than a rat*",
+       "extremely poor"
+      ],
+      [
+       "[[Pagputî ng uwák|pred]]",
+       "*when the raven turns white*",
+       "never, infinitely"
+      ],
+      [
+       "[[Saling-pusà|pred]]",
+       "*join-cat*",
+       "not really part of the group"
+      ],
+      [
+       "[[Tutà|pred]]",
+       "*puppy*",
+       "one who blindly follows someone"
+      ],
+      [
+       "[[Usad-pagóng|pred]]",
+       "*moves like a turtle*",
+       "very slow"
+      ]
+     ],
+     "title": "Animal idioms"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Huwág mong pagbigyán ang lahát ng gustó ng batà, bakâ humabà ang buntót niyá.",
+       "en": "Don't give in to everything the child wants lest he/she gets spoiled.",
+       "parts": [
+        [
+         "Huwág",
+         "don't",
+         "other"
+        ],
+        [
+         "mong",
+         "you (+ ligature)",
+         "pron"
+        ],
+        [
+         "pagbigyán",
+         "give in to",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "lahát",
+         "everything",
+         "other"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "gustó",
+         "wants",
+         "pred"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "batà",
+         "child",
+         "noun"
+        ],
+        [
+         "bakâ",
+         "lest",
+         "other"
+        ],
+        [
+         "humabà ang buntót",
+         "gets spoiled",
+         "pred"
+        ],
+        [
+         "niyá",
+         "his/her",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang mag-anak na iyón ay mahírap pa sa dagâ.",
+       "en": "That family is extremely poor.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "mag-anak",
+         "family",
+         "noun"
+        ],
+        [
+         "na",
+         "(ligature)",
+         "link"
+        ],
+        [
+         "iyón",
+         "that",
+         "pron"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "mahírap pa sa dagâ",
+         "extremely poor",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Makababáyad siya ng útang pagputî ng uwák.",
+       "en": "He/She can never pay his/her debts.",
+       "parts": [
+        [
+         "Makababáyad",
+         "can pay",
+         "pred"
+        ],
+        [
+         "siya",
+         "he/she",
+         "pron"
+        ],
+        [
+         "ng",
+         "(object)",
+         "marker"
+        ],
+        [
+         "útang",
+         "debts",
+         "noun"
+        ],
+        [
+         "pagputî ng uwák",
+         "never",
+         "other"
+        ]
+       ]
+      },
+      {
+       "tl": "Saling-pusà lamang si Raissa sa larô.",
+       "en": "Raissa is not part of the game.",
+       "parts": [
+        [
+         "Saling-pusà",
+         "not really part of the group",
+         "pred"
+        ],
+        [
+         "lamang",
+         "only",
+         "other"
+        ],
+        [
+         "si",
+         "(name marker)",
+         "marker"
+        ],
+        [
+         "Raissa",
+         "Raissa",
+         "noun"
+        ],
+        [
+         "sa",
+         "in",
+         "marker"
+        ],
+        [
+         "larô",
+         "game",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Siyá ay tutà ng isáng pulítikó.",
+       "en": "He is a blind follower of a politician.",
+       "parts": [
+        [
+         "Siyá",
+         "he",
+         "pron"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "tutà",
+         "blind follower",
+         "pred"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "isáng",
+         "a (+ ligature)",
+         "other"
+        ],
+        [
+         "pulítikó",
+         "politician",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang kanyáng pag-unlád ay usad-pagóng.",
+       "en": "His progress is very slow.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "kanyáng",
+         "his",
+         "poss"
+        ],
+        [
+         "pag-unlád",
+         "progress",
+         "noun"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "usad-pagóng",
+         "very slow",
+         "pred"
+        ]
+       ]
+      }
+     ],
+     "title": "The book's sentences"
+    },
+    {
+     "type": "box",
+     "kind": "warn",
+     "title": "Mahabá or mahabà?",
+     "t": "The book prints **Mahabá ang dilá** (gossiper) with an acute accent but **Mahabà ang buntót** (spoiled) with a grave accent. Both are shown here as printed."
+    },
+    {
+     "type": "vocab",
+     "group": "animal",
+     "title": "Animal idioms"
+    }
+   ]
+  },
+  {
+   "title": "Other idioms",
+   "blocks": [
+    {
+     "type": "table",
+     "head": [
+      "Idiom",
+      "Literally",
+      "Meaning"
+     ],
+     "rows": [
+      [
+       "[[Basâ ang papél|pred]]",
+       "*the paper is wet*",
+       "cannot be trusted, no longer credible"
+      ],
+      [
+       "[[Dî-mahulúgang karáyom|pred]]",
+       "*no needle may be dropped*",
+       "too crowded"
+      ],
+      [
+       "[[Hatíng-kapatíd|pred]]",
+       "*divide among siblings*",
+       "divide or allocate equally, equal share"
+      ],
+      [
+       "[[Hulog ng langit|pred]]",
+       "*dropped from Heaven*",
+       "blessing from God, good fortune"
+      ],
+      [
+       "[[Mabilís pa sa alas kuwatro|pred]]",
+       "*faster than four o'clock*",
+       "acts swiftly, very fast"
+      ],
+      [
+       "[[Mahábang dúlang|pred]]",
+       "*long low table*",
+       "wedding, get married"
+      ],
+      [
+       "[[Mahangin|pred]]",
+       "*windy*",
+       "boastful"
+      ],
+      [
+       "[[Parang palengke|pred]]",
+       "*like a market*",
+       "noisy"
+      ]
+     ],
+     "title": "Other idioms"
+    },
+    {
+     "type": "examples",
+     "items": [
+      {
+       "tl": "Basâ na ang papél niyá sa ákin.",
+       "en": "He/She cannot be trusted. He/She is no longer credible.",
+       "parts": [
+        [
+         "Basâ",
+         "wet",
+         "pred"
+        ],
+        [
+         "na",
+         "now",
+         "other"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "papél",
+         "paper",
+         "noun"
+        ],
+        [
+         "niyá",
+         "his/her",
+         "pron"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "ákin",
+         "me",
+         "pron"
+        ]
+       ]
+      },
+      {
+       "tl": "Dî-mahulúgang karáyom sa dami ng táo ang Rizal Park.",
+       "en": "Rizal Park is too crowded.",
+       "parts": [
+        [
+         "Dî-mahulúgang karáyom",
+         "too crowded",
+         "pred"
+        ],
+        [
+         "sa",
+         "with",
+         "marker"
+        ],
+        [
+         "dami",
+         "number",
+         "noun"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "táo",
+         "people",
+         "noun"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "Rizal Park",
+         "Rizal Park",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Dápat hatíng-kapatíd ang pagbíbigay ng kendi sa mga batà.",
+       "en": "The candies should be divided equally among the children.",
+       "parts": [
+        [
+         "Dápat",
+         "should",
+         "pred"
+        ],
+        [
+         "hatíng-kapatíd",
+         "divided equally",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "pagbíbigay",
+         "giving",
+         "noun"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "kendi",
+         "candies",
+         "noun"
+        ],
+        [
+         "sa",
+         "among",
+         "marker"
+        ],
+        [
+         "mga",
+         "(plural)",
+         "marker"
+        ],
+        [
+         "batà",
+         "children",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Ang batàng iyán ay hulog ng langit sa áming pamílya.",
+       "en": "That child is a blessing from God to our family.",
+       "parts": [
+        [
+         "Ang",
+         "the",
+         "marker"
+        ],
+        [
+         "batàng",
+         "child (+ ligature)",
+         "noun"
+        ],
+        [
+         "iyán",
+         "that",
+         "pron"
+        ],
+        [
+         "ay",
+         "is",
+         "ay"
+        ],
+        [
+         "hulog ng langit",
+         "a blessing from God",
+         "pred"
+        ],
+        [
+         "sa",
+         "to",
+         "marker"
+        ],
+        [
+         "áming",
+         "our",
+         "poss"
+        ],
+        [
+         "pamílya",
+         "family",
+         "noun"
+        ]
+       ]
+      },
+      {
+       "tl": "Mabilís pa sa alas kuwatro kung siyá'y malígo.",
+       "en": "He/She takes a bath very fast.",
+       "parts": [
+        [
+         "Mabilís pa sa alas kuwatro",
+         "very fast",
+         "pred"
+        ],
+        [
+         "kung",
+         "when",
+         "other"
+        ],
+        [
+         "siyá'y",
+         "he/she (+ ay)",
+         "pron"
+        ],
+        [
+         "malígo",
+         "takes a bath",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Kailán ka ba magmámahábang-dúlang?",
+       "en": "When are you getting married?",
+       "parts": [
+        [
+         "Kailán",
+         "when",
+         "other"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ],
+        [
+         "ba",
+         "(question)",
+         "part"
+        ],
+        [
+         "magmámahábang-dúlang",
+         "getting married",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Umiwas ka sa táong mahangin.",
+       "en": "Avoid boastful people.",
+       "parts": [
+        [
+         "Umiwas",
+         "avoid",
+         "pred"
+        ],
+        [
+         "ka",
+         "you",
+         "pron"
+        ],
+        [
+         "sa",
+         "(to)",
+         "marker"
+        ],
+        [
+         "táong",
+         "people (+ ligature)",
+         "noun"
+        ],
+        [
+         "mahangin",
+         "boastful",
+         "pred"
+        ]
+       ]
+      },
+      {
+       "tl": "Parang palengke ang silíd ng mga batà.",
+       "en": "The children's room is noisy.",
+       "parts": [
+        [
+         "Parang palengke",
+         "noisy",
+         "pred"
+        ],
+        [
+         "ang",
+         "the",
+         "marker"
+        ],
+        [
+         "silíd",
+         "room",
+         "noun"
+        ],
+        [
+         "ng",
+         "of",
+         "marker"
+        ],
+        [
+         "mga",
+         "(plural)",
+         "marker"
+        ],
+        [
+         "batà",
+         "children",
+         "noun"
+        ]
+       ]
+      }
+     ],
+     "title": "The book's sentences"
+    },
+    {
+     "type": "box",
+     "kind": "tip",
+     "title": "Idioms change form",
+     "t": "Idioms can take verb endings like ordinary words: **Mahábang dúlang** (wedding) becomes **magmámahábang-dúlang** (getting married) in the book's sentence, and **Mahabà ang buntót** becomes **humabà ang buntót** (gets spoiled)."
+    },
+    {
+     "type": "vocab",
+     "group": "other",
+     "title": "Other idioms"
+    },
+    {
+     "type": "box",
+     "kind": "remember",
+     "title": "Remember",
+     "items": [
+      "An idiom means something other than its separate words.",
+      "Body: bukás ang palád (generous), kumukulô ang dugô (very angry), magsúnog ng kílay (study hard), mahabá ang dilá (gossiper).",
+      "Animals: mahírap pa sa dagâ (extremely poor), pagputî ng uwák (never), saling-pusà (not really part of the group), usad-pagóng (very slow).",
+      "Other: hulog ng langit (blessing from God), parang palengke (noisy), mahangin (boastful).",
+      "Learn more by listening, reading comics such as Pugad Baboy and noting new phrases."
+     ]
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": "pugad-baboy-a03",
+   "tl": "Pugad Baboy",
+   "en": "Pig's Nest (Pol Medina Jr.'s comic strip)",
+   "pos": "phrase",
+   "group": "intro"
+  },
+  {
+   "id": "anak-pawis-a03",
+   "tl": "Anak-páwis",
+   "en": "poor people, laboring class",
+   "pos": "expr",
+   "group": "body1",
+   "say": "a-nak PA-wis",
+   "note": "Literally: child of perspiration. Ang mga anak-páwis ay mahál ng Diyos. = Poor people are loved by God."
+  },
+  {
+   "id": "bukas-ang-palad-a03",
+   "tl": "Bukás ang palád",
+   "en": "generous with money",
+   "pos": "expr",
+   "group": "body1",
+   "say": "bu-KAS ang pa-LAD",
+   "note": "Literally: with open palm of hand. Ang áking áma ay bukás ang palád sa mahihírap. = My father is generous with the poor."
+  },
+  {
+   "id": "buto-t-balat-a03",
+   "tl": "Butó't balát",
+   "en": "very thin, emaciated",
+   "pos": "expr",
+   "group": "body1",
+   "say": "bu-TOT ba-LAT",
+   "note": "Literally: skin and bones. Butó't balát na si Pedro nang lumabás sa óspital. = Pedro was very thin when he checked out of the hospital."
+  },
+  {
+   "id": "kanang-kamay-a03",
+   "tl": "Kánang-kamáy",
+   "en": "efficient helper, assistant",
+   "pos": "expr",
+   "group": "body1",
+   "say": "KA-nang ka-MAY",
+   "note": "Literally: right hand. Siyá ang kánang kamáy ko sa tanggapán. = He/She is my efficient helper in the office."
+  },
+  {
+   "id": "kumukulo-ang-dugo-a03",
+   "tl": "Kumukulô ang dugô",
+   "en": "very angry",
+   "pos": "expr",
+   "group": "body1",
+   "say": "ku-mu-ku-loQ ang du-goQ",
+   "note": "Literally: the blood is boiling. Kumukulô ang dugô ko sa táong iyón. = I am very angry with that person."
+  },
+  {
+   "id": "mababa-ang-luha-a03",
+   "tl": "Mababà ang luhà",
+   "en": "cries easily",
+   "pos": "expr",
+   "group": "body1",
+   "say": "ma-BA-baQ ang LU-haQ",
+   "note": "Literally: shallow tears. Ang áking iná ay mababà ang luhà. = My mother cries easily."
+  },
+  {
+   "id": "mabigat-ang-bibig-a03",
+   "tl": "Mabigát ang bibíg",
+   "en": "rude, uncouth, insulting, uncivil",
+   "pos": "expr",
+   "group": "body1",
+   "say": "ma-bi-GAT ang bi-BIG",
+   "note": "Literally: heavy mouth. Waláng maraming kaibígan ang táong mabigát ang bibíg. = Rude people do not have many friends."
+  },
+  {
+   "id": "magbanat-ng-buto-a03",
+   "tl": "Magbanat ng butó",
+   "en": "to work very hard",
+   "pos": "expr",
+   "group": "body1",
+   "say": "mag-ba-nat ng bu-TO",
+   "note": "Literally: stretch the bone. Kailangang magbanat ng butó upang mabuhay. = We must work hard to survive."
+  },
+  {
+   "id": "magsunog-ng-kilay-a03",
+   "tl": "Magsúnog ng kílay",
+   "en": "to study hard",
+   "pos": "expr",
+   "group": "body2",
+   "say": "mag-SU-nog ng KI-lay",
+   "note": "Literally: to burn eyebrows. Magsúnog ka ng kílay para sa iyóng kinábukasan. = Study hard for your future."
+  },
+  {
+   "id": "mahaba-ang-dila-a03",
+   "tl": "Mahabá ang dilá",
+   "en": "gossiper, gossip monger",
+   "pos": "expr",
+   "group": "body2",
+   "say": "ma-ha-BA ang di-LA",
+   "note": "Literally: long tongue. Maraming babáe ang mahabá ang dilá. = Many women are gossipers."
+  },
+  {
+   "id": "maitim-ang-buto-a03",
+   "tl": "Maitím ang butó",
+   "en": "evil",
+   "pos": "expr",
+   "group": "body2",
+   "say": "ma-i-TIM ang bu-TO",
+   "note": "Literally: black bones. Huwág kang makisáma sa táong iyán. Maitím ang kanyáng butó. = Don't get involved with that person. He/She is evil."
+  },
+  {
+   "id": "makitid-ang-noo-a03",
+   "tl": "Makítid ang noó",
+   "en": "dumb",
+   "pos": "expr",
+   "group": "body2",
+   "say": "ma-KI-tid ang no-O",
+   "note": "Literally: narrow forehead. Makítid ang noó ng kanyáng kakláse. = His/Her classmate is dumb."
+  },
+  {
+   "id": "malikot-ang-kamay-a03",
+   "tl": "Malikót ang kamáy",
+   "en": "pickpocket, a person who steals from pockets or bags",
+   "pos": "expr",
+   "group": "body2",
+   "say": "ma-li-KOT ang ka-MAY",
+   "note": "Literally: restless hands. Ang táong malikót ang kamáy ay náhuli. = The pickpocket was arrested."
+  },
+  {
+   "id": "matigas-ang-mukha-a03",
+   "tl": "Matigás ang mukhâ",
+   "en": "stern-faced",
+   "pos": "expr",
+   "group": "body2",
+   "say": "ma-ti-GAS ang muk-haQ",
+   "note": "Literally: hard face. Ayóko sa babáeng matigás ang mukhâ. = I don't like a stern-faced woman."
+  },
+  {
+   "id": "mukhang-biyernes-santo-a03",
+   "tl": "Mukháng Biyernes Santo",
+   "en": "sad or gloomy face",
+   "pos": "expr",
+   "group": "body2",
+   "say": "muk-HANG bi-yer-nes san-to",
+   "note": "Literally: a Holy Friday face. Siyá ay mukháng Biyernes Santo. = She looks very sad."
+  },
+  {
+   "id": "sira-ulo-a03",
+   "tl": "Sirâ-úlo",
+   "en": "crazy",
+   "pos": "expr",
+   "group": "body2",
+   "say": "si-raQ U-lo",
+   "note": "Literally: broken head. Huwág mong pansinín ang sirâ-úlong iyán. = Don't mind that crazy person."
+  },
+  {
+   "id": "mahaba-ang-buntot-a03",
+   "tl": "Mahabà ang buntót",
+   "en": "spoiled",
+   "pos": "expr",
+   "group": "animal",
+   "say": "ma-HA-baQ ang bun-TOT",
+   "note": "Literally: long tailed. Huwág mong pagbigyán ang lahát ng gustó ng batà, bakâ humabà ang buntót niyá. = Don't give in to everything the child wants lest he/she gets spoiled."
+  },
+  {
+   "id": "mahirap-pa-sa-daga-a03",
+   "tl": "Mahírap pa sa dagâ",
+   "en": "extremely poor",
+   "pos": "expr",
+   "group": "animal",
+   "say": "ma-HI-rap pa sa da-gaQ",
+   "note": "Literally: poorer than a rat. Ang mag-anak na iyón ay mahírap pa sa dagâ. = That family is extremely poor."
+  },
+  {
+   "id": "pagputi-ng-uwak-a03",
+   "tl": "Pagputî ng uwák",
+   "en": "never, infinitely",
+   "pos": "expr",
+   "group": "animal",
+   "say": "pag-pu-tiQ ng u-WAK",
+   "note": "Literally: when the raven turns white. Makababáyad siya ng útang pagputî ng uwák. = He/She can never pay his/her debts."
+  },
+  {
+   "id": "saling-pusa-a03",
+   "tl": "Saling-pusà",
+   "en": "not really part of the group",
+   "pos": "expr",
+   "group": "animal",
+   "say": "sa-ling PU-saQ",
+   "note": "Literally: join-cat. Saling-pusà lamang si Raissa sa larô. = Raissa is not part of the game."
+  },
+  {
+   "id": "tuta-a03",
+   "tl": "Tutà",
+   "en": "one who blindly follows someone",
+   "pos": "expr",
+   "group": "animal",
+   "say": "TU-taQ",
+   "note": "Literally: puppy. Siyá ay tutà ng isáng pulítikó. = He is a blind follower of a politician."
+  },
+  {
+   "id": "usad-pagong-a03",
+   "tl": "Usad-pagóng",
+   "en": "very slow",
+   "pos": "expr",
+   "group": "animal",
+   "say": "u-sad pa-GONG",
+   "note": "Literally: moves like a turtle. Ang kanyáng pag-unlád ay usad-pagóng. = His progress is very slow."
+  },
+  {
+   "id": "basa-ang-papel-a03",
+   "tl": "Basâ ang papél",
+   "en": "cannot be trusted, no longer credible",
+   "pos": "expr",
+   "group": "other",
+   "say": "ba-saQ ang pa-PEL",
+   "note": "Literally: the paper is wet. Basâ na ang papél niyá sa ákin. = He/She cannot be trusted. He/She is no longer credible."
+  },
+  {
+   "id": "di-mahulugang-karayom-a03",
+   "tl": "Dî-mahulúgang karáyom",
+   "en": "too crowded",
+   "pos": "expr",
+   "group": "other",
+   "say": "diQ ma-hu-LU-gang ka-RA-yom",
+   "note": "Literally: no needle may be dropped. Dî-mahulúgang karáyom sa dami ng táo ang Rizal Park. = Rizal Park is too crowded."
+  },
+  {
+   "id": "hating-kapatid-a03",
+   "tl": "Hatíng-kapatíd",
+   "en": "divide or allocate equally, equal share",
+   "pos": "expr",
+   "group": "other",
+   "say": "ha-TING ka-pa-TID",
+   "note": "Literally: divide among siblings. Dápat hatíng-kapatíd ang pagbíbigay ng kendi sa mga batà. = The candies should be divided equally among the children."
+  },
+  {
+   "id": "hulog-ng-langit-a03",
+   "tl": "Hulog ng langit",
+   "en": "blessing from God, good fortune",
+   "pos": "expr",
+   "group": "other",
+   "note": "Literally: dropped from Heaven. Ang batàng iyán ay hulog ng langit sa áming pamílya. = That child is a blessing from God to our family."
+  },
+  {
+   "id": "mabilis-pa-sa-alas-kuwatro-a03",
+   "tl": "Mabilís pa sa alas kuwatro",
+   "en": "acts swiftly, very fast",
+   "pos": "expr",
+   "group": "other",
+   "say": "ma-bi-LIS pa sa a-las ku-wa-tro",
+   "note": "Literally: faster than four o'clock. Mabilís pa sa alas kuwatro kung siyá'y malígo. = He/She takes a bath very fast."
+  },
+  {
+   "id": "mahabang-dulang-a03",
+   "tl": "Mahábang dúlang",
+   "en": "wedding, get married",
+   "pos": "expr",
+   "group": "other",
+   "say": "ma-HA-bang DU-lang",
+   "note": "Literally: long low table. Kailán ka ba magmámahábang-dúlang? = When are you getting married?"
+  },
+  {
+   "id": "mahangin-a03",
+   "tl": "Mahangin",
+   "en": "boastful",
+   "pos": "expr",
+   "group": "other",
+   "note": "Literally: windy. Umiwas ka sa táong mahangin. = Avoid boastful people."
+  },
+  {
+   "id": "parang-palengke-a03",
+   "tl": "Parang palengke",
+   "en": "noisy",
+   "pos": "expr",
+   "group": "other",
+   "note": "Literally: like a market. Parang palengke ang silíd ng mga batà. = The children's room is noisy."
+  }
+ ],
+ "exercises": [
+  {
+   "type": "choice",
+   "q": "What is an idiom?",
+   "options": [
+    "Words that together mean something other than the separate words",
+    "A word borrowed from Spanish",
+    "A formal greeting"
+   ],
+   "answer": "Words that together mean something other than the separate words",
+   "explain": "Idioms carry a local story or logic behind them."
+  },
+  {
+   "type": "choice",
+   "q": "Bukás ang palád (with open palm of hand) means…",
+   "options": [
+    "generous with money",
+    "pickpocket",
+    "very angry"
+   ],
+   "answer": "generous with money",
+   "explain": "A pickpocket is malikót ang kamáy; very angry is kumukulô ang dugô."
+  },
+  {
+   "type": "choice",
+   "q": "Someone who is mahabá ang dilá (long tongue) is…",
+   "options": [
+    "a gossiper",
+    "rude",
+    "boastful"
+   ],
+   "answer": "a gossiper",
+   "explain": "Rude is mabigát ang bibíg; boastful is mahangin."
+  },
+  {
+   "type": "choice",
+   "q": "Magsúnog ng kílay (to burn eyebrows) means…",
+   "options": [
+    "to study hard",
+    "to work very hard",
+    "to get married"
+   ],
+   "answer": "to study hard",
+   "explain": "Work very hard is magbanat ng butó."
+  },
+  {
+   "type": "choice",
+   "q": "Which idiom means extremely poor?",
+   "options": [
+    "Mahírap pa sa dagâ",
+    "Usad-pagóng",
+    "Butó't balát"
+   ],
+   "answer": "Mahírap pa sa dagâ",
+   "explain": "Literally poorer than a rat. Usad-pagóng is very slow; butó't balát is very thin."
+  },
+  {
+   "type": "choice",
+   "q": "Pagputî ng uwák (when the raven turns white) means…",
+   "options": [
+    "never, infinitely",
+    "very slow",
+    "very fast"
+   ],
+   "answer": "never, infinitely",
+   "explain": "Very slow is usad-pagóng; very fast is mabilís pa sa alas kuwatro."
+  },
+  {
+   "type": "choice",
+   "q": "A saling-pusà (join-cat) is…",
+   "options": [
+    "not really part of the group",
+    "one who blindly follows someone",
+    "spoiled"
+   ],
+   "answer": "not really part of the group",
+   "explain": "One who blindly follows someone is a tutà; spoiled is mahabà ang buntót."
+  },
+  {
+   "type": "choice",
+   "q": "Which idiom means a blessing from God?",
+   "options": [
+    "Hulog ng langit",
+    "Mukháng Biyernes Santo",
+    "Hatíng-kapatíd"
+   ],
+   "answer": "Hulog ng langit",
+   "explain": "Literally dropped from Heaven."
+  },
+  {
+   "type": "choice",
+   "q": "Parang palengke (like a market) describes something…",
+   "options": [
+    "noisy",
+    "too crowded",
+    "stern-faced"
+   ],
+   "answer": "noisy",
+   "explain": "Too crowded is dî-mahulúgang karáyom; stern-faced is matigás ang mukhâ."
+  },
+  {
+   "type": "choice",
+   "q": "What is the literal meaning of Kánang-kamáy?",
+   "options": [
+    "right hand",
+    "restless hands",
+    "open palm of hand"
+   ],
+   "answer": "right hand",
+   "explain": "It means an efficient helper or assistant."
+  },
+  {
+   "type": "choice",
+   "q": "Where can you pick up idioms, according to the book?",
+   "options": [
+    "Comic strips, TV shows, radio and conversations",
+    "Only from dictionaries",
+    "Only from grammar books"
+   ],
+   "answer": "Comic strips, TV shows, radio and conversations",
+   "explain": "And write down unfamiliar words or phrases."
+  },
+  {
+   "type": "listen",
+   "tl": "Kumukulô ang dugô ko sa táong iyón.",
+   "options": [
+    "I am very angry with that person.",
+    "I don't like a stern-faced woman.",
+    "Don't mind that crazy person."
+   ],
+   "answer": "I am very angry with that person.",
+   "explain": "Literally, the blood is boiling."
+  },
+  {
+   "type": "listen",
+   "tl": "Ang áking iná ay mababà ang luhà.",
+   "options": [
+    "My mother cries easily.",
+    "My father is generous with the poor.",
+    "Many women are gossipers."
+   ],
+   "answer": "My mother cries easily.",
+   "explain": "Mababà ang luhà = shallow tears."
+  },
+  {
+   "type": "listen",
+   "tl": "Siyá ay mukháng Biyernes Santo.",
+   "options": [
+    "She looks very sad.",
+    "He is a blind follower of a politician.",
+    "He/She takes a bath very fast."
+   ],
+   "answer": "She looks very sad.",
+   "explain": "Literally, a Holy Friday face."
+  },
+  {
+   "type": "listen",
+   "tl": "Makítid ang noó ng kanyáng kakláse.",
+   "options": [
+    "His/Her classmate is dumb.",
+    "His progress is very slow.",
+    "That family is extremely poor."
+   ],
+   "answer": "His/Her classmate is dumb.",
+   "explain": "Makítid ang noó = narrow forehead."
+  },
+  {
+   "type": "build",
+   "en": "Poor people are loved by God.",
+   "tl": "Ang mga anak-páwis ay mahál ng Diyos.",
+   "tokens": [
+    "ang",
+    "mga",
+    "anak-páwis",
+    "ay",
+    "mahál",
+    "ng",
+    "diyos"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Study hard for your future.",
+   "tl": "Magsúnog ka ng kílay para sa iyóng kinábukasan.",
+   "tokens": [
+    "magsúnog",
+    "ka",
+    "ng",
+    "kílay",
+    "para",
+    "sa",
+    "iyóng",
+    "kinábukasan"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Many women are gossipers.",
+   "tl": "Maraming babáe ang mahabá ang dilá.",
+   "tokens": [
+    "maraming",
+    "babáe",
+    "ang",
+    "mahabá",
+    "ang",
+    "dilá"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "Avoid boastful people.",
+   "tl": "Umiwas ka sa táong mahangin.",
+   "tokens": [
+    "umiwas",
+    "ka",
+    "sa",
+    "táong",
+    "mahangin"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "The children's room is noisy.",
+   "tl": "Parang palengke ang silíd ng mga batà.",
+   "tokens": [
+    "parang",
+    "palengke",
+    "ang",
+    "silíd",
+    "ng",
+    "mga",
+    "batà"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "His progress is very slow.",
+   "tl": "Ang kanyáng pag-unlád ay usad-pagóng.",
+   "tokens": [
+    "ang",
+    "kanyáng",
+    "pag-unlád",
+    "ay",
+    "usad-pagóng"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "build",
+   "en": "When are you getting married?",
+   "tl": "Kailán ka ba magmámahábang-dúlang?",
+   "tokens": [
+    "kailán",
+    "ka",
+    "ba",
+    "magmámahábang-dúlang"
+   ],
+   "explain": ""
+  },
+  {
+   "type": "match",
+   "q": "Match the idiom to its meaning.",
+   "pairs": [
+    [
+     "Mahangin",
+     "boastful"
+    ],
+    [
+     "Sirâ-úlo",
+     "crazy"
+    ],
+    [
+     "Maitím ang butó",
+     "evil"
+    ],
+    [
+     "Makítid ang noó",
+     "dumb"
+    ],
+    [
+     "Tutà",
+     "one who blindly follows someone"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the idiom to its literal meaning.",
+   "pairs": [
+    [
+     "Basâ ang papél",
+     "the paper is wet"
+    ],
+    [
+     "Usad-pagóng",
+     "moves like a turtle"
+    ],
+    [
+     "Mahábang dúlang",
+     "long low table"
+    ],
+    [
+     "Dî-mahulúgang karáyom",
+     "no needle may be dropped"
+    ]
+   ]
+  },
+  {
+   "type": "match",
+   "q": "Match the idiom to its meaning.",
+   "pairs": [
+    [
+     "Magbanat ng butó",
+     "to work very hard"
+    ],
+    [
+     "Hatíng-kapatíd",
+     "divide or allocate equally, equal share"
+    ],
+    [
+     "Matigás ang mukhâ",
+     "stern-faced"
+    ],
+    [
+     "Mabigát ang bibíg",
+     "rude, uncouth, insulting, uncivil"
+    ]
+   ]
+  }
+ ],
+ "recap": [
+  "An idiom's meaning is more than its words: learn the literal and the real meaning together.",
+  "Body idioms: bukás ang palád (generous), butó't balát (very thin), kumukulô ang dugô (very angry), mababà ang luhà (cries easily), magsúnog ng kílay (study hard).",
+  "More body idioms: mahabá ang dilá (gossiper), maitím ang butó (evil), malikót ang kamáy (pickpocket), sirâ-úlo (crazy).",
+  "Animal idioms: mahírap pa sa dagâ, pagputî ng uwák, saling-pusà, tutà, usad-pagóng, mahabà ang buntót.",
+  "Other idioms: basâ ang papél, dî-mahulúgang karáyom, hatíng-kapatíd, hulog ng langit, mahábang dúlang, mahangin, parang palengke."
+ ]
+}
