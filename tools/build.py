@@ -1,7 +1,7 @@
 import importlib, json, os, re, sys, glob
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-OUT = os.path.abspath(os.path.join(HERE, "..", "data"))
+OUT = os.path.abspath(os.path.join(HERE, "..", "tagalify", "data"))
 sys.path.insert(0, HERE)
 
 ALIAS = {"verb": "pred", "adj": "pred", "adv": "pred", "num": "noun", "expr": "other"}
@@ -155,7 +155,7 @@ def main():
             warns.append(f"unit lesson {lid} missing (skipped)")
         u["lessons"] = [lid for lid in u["lessons"] if lid in by]
     units = [u for u in units if u["lessons"]]
-    index = {"app": "Tagalify", "version": "2.00", "units": [], "lessons": []}
+    index = {"app": "Tagalify", "version": "2.01", "units": [], "lessons": []}
     for u in units:
         index["units"].append({"id": u["id"], "title": u["title"], "lessons": u["lessons"]})
     for L in lessons:
