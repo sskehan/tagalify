@@ -1,0 +1,12 @@
+Tagalify update 1.13 -> 1.14  (Review exercises)
+Install the 1.13 pack first if you haven't yet.
+
+Upload everything in this zip to GitHub, keeping the folders (data/..., tools/...).
+Then close Tagalify and open it again; More > About should say 1.14.
+
+What's new:
+- Course > "Review exercises" (book pages 218-229): R1-R4 = the book's eight Review Parts.
+  Every item is shown as printed with the book's answer ("Try it yourself first").
+  113 marked exercises built from the book's answer key; open-ended tasks are "Your turn" prompts.
+  Each exercise says which lesson to revise. Book slips are kept as printed with a note.
+- All checked against the book pages. Your progress is kept.
