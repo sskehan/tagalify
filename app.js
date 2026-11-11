@@ -519,7 +519,7 @@ function viewMore() {
       h('button', { class: 'btn danger block', onclick: resetAll }, 'Reset all progress')),
     h('div', { class: 'card about' },
       h('div', { class: 'about-top' }, h('img', { src: 'logo.png', alt: '', width: 64, height: 64 }), h('div', {}, h('b', {}, 'Tagalify v' + APP_VERSION), h('small', {}, 'Your Tagalog study guide'))),
-      h('p', {}, 'Lessons follow Paraluman S. Aspillera’s Basic Tagalog (Introduction, Lessons 1 to 44, the Appendices, the Vocabulary Lists and the Review Exercises, to page 229). Tagalog words, accent marks and meanings match the textbook.'),
+      h('p', {}, 'Lessons follow Paraluman S. Aspillera’s Basic Tagalog (Introduction, Lessons 1 to 44, the Appendices, the Vocabulary Lists and the Review Exercises, to page 229). Tagalog words, accent marks and meanings match the textbook. The Reading Materials at the end of the book (pages 230 to 239) are not included.'),
       h('p', {}, 'Works offline once opened.')));
 }
 function download(name, blob) {

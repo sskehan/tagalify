@@ -1,0 +1,16 @@
+Tagalify update 1.14 -> 2.00  (final release)
+Install the 1.13 and 1.14 packs first if you haven't yet.
+
+Upload everything in this zip to GitHub, keeping the folders (data/lessons/..., tools/...).
+Then close Tagalify and open it again; More > About should say 2.00.
+
+What changed:
+- Final audit: Lessons 1-8 and the Introduction independently re-checked against the book pages.
+  Fixed two greeting translations (Lesson 3), the meaning of marúnong (Lesson 4), removed a practice
+  sentence and practice table rows that were not in the book (Lessons 4 and 7), fixed two quiz
+  options (Lesson 7) and two listening quizzes (Lesson 18).
+- About screen: notes that the Reading Materials (pages 230-239) are not included.
+- README: full course list and version history.
+Your progress is kept.
+
+The separate tagalify-v2.00-complete.zip is a full copy of the whole app, for safekeeping.

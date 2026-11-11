@@ -1,7 +1,7 @@
 'use strict';
 /* Tagalify core: storage, data, audio (recordings > files > speech), rich text and lesson blocks. */
 
-const APP_VERSION = '1.14';
+const APP_VERSION = '2.00';
 const KEY = 'tagalify.v1';
 const DEFAULTS = { newPerDay: 10, direction: 'mixed', sound: true, theme: 'auto', size: 1, voice: '', rate: 0.9 };
 

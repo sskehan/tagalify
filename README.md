@@ -1,4 +1,4 @@
-# Tagalify v1.14
+# Tagalify v2.00
 
 A complete, offline study guide for learning Tagalog, built for native English speakers starting from zero. It installs on Android as an app (a Progressive Web App) and works without a connection after the first visit.
 
@@ -6,12 +6,23 @@ A complete, offline study guide for learning Tagalog, built for native English s
 
 | Unit | Lessons |
 |---|---|
-| Start here | How Tagalog sentences work (beginner primer) · Tagalog and the Filipino people |
-| Sounds and greetings | 1. The alphabet · 2. Syllables and stress · 3. Greetings and common expressions |
-| Building sentences | 4. Si, sina, ang, ang mga · 5. Sentence formation · 6. Pronouns, this and that |
-| Joining and owning | 7. Linkers -ng, -g, na · 8. Possession |
+| Start here | How Tagalog sentences work · Tagalog and the Filipino people |
+| Sounds and greetings | 1. The Tagalog alphabet · 2. Syllables and stress · 3. Greetings and common expressions |
+| Building sentences | 4. The articles si and ang · 5. Sentence formation · 6. Personal and demonstrative pronouns |
+| Joining and owning | 7. Words that link and describe · 8. Words that show possession |
+| Asking and comparing | 9. Asking questions · 10. The question word ba · 11. Making comparisons |
+| Having and counting | 12. Using may and mayroón · 13. Numbers |
+| Action words (verbs) | 14. -Um- and mag- verb forms · 15. -In- verb forms · 16. The articles ang and ng |
+| Wanting, able, becoming, having | 17. Pseudo verbs: dápat, gustó and others · 18. Ma- and Maka- verb forms · 19. Magíng: to be or to become · 20. Magkaroón: to have |
+| Thoughts, feelings and requests | 21. Expressing thoughts and actions · 22. Expressing emotions · 23. Who, which and that · 24. Saying please · 25. Saán and násaán: where |
+| Where, for whom and when | 26. The preposition sa · 27. Para sa and para kay: for and to · 28. Telling time · 29. The word when in Tagalog · 30. Verb roots |
+| Nouns, more verbs and adverbs | 31. Forming nouns · 32. I- verb forms · 33. -An verb forms · 34. Adverbs |
+| Joining ideas and agreeing | 35. Conjunctions and interjections · 36. Magpa- and pa- + -in verb forms · 37. Expressing Disagreement, Agreement or Doubt · 38. Forming nouns from verbs · 39. Forming participles using naka- |
+| Building words, and colours | 40. Noun affixes · 41. Formation of adjectives · 42. Plural forms of verbs · 43. Contractions · 44. Colors |
+| Appendices: food, idioms and conversation | A1. Foods · A2. Cooking terms · A3. Tagalog idioms · A4. Everyday Tagalog expressions · A5. Conversations: meeting people, directions, the bank, a meeting, the market · A6. Conversations: the mall, mealtime, visiting the sick, school, a vacation · A7. Book vocabulary list: more words |
+| Review exercises | R1. Review: Parts I and II – sentences, passives and possessives · R2. Review: Parts III and IV – pronouns, describing words and ang, ng, sa · R3. Review: Parts V and VI – verbs, saan/nasaan, time and ma-/maka- · R4. Review: Parts VII and VIII – particles, comparisons, can and should, causatives and passives |
 
-46 lessons, 1328 words, 1267 exercises, plus a one-page cheat sheet.
+57 lessons, 3239 words, 1552 exercises, plus a one-page cheat sheet and the book's two Vocabulary Lists (Words › Book list).
 
 Every Tagalog word is written with the textbook's accent marks (kapé, báhay, punò, punô), and every meaning matches the textbook. The sound guide uses CAPITALS for the stressed syllable and **Q** for the glottal catch, the same notation as Lesson 2 of the book.
 
@@ -96,6 +107,11 @@ Then upload the changed files to GitHub. Your progress on the phone is kept.
 Progress and recordings are stored on the phone, and copied to your own Dropbox if you connect it. Nothing is sent anywhere else. You can also save a backup file of your progress from **More › Backup file**.
 
 ## Version history
+
+**2.00 – final release**
+- Covers the whole of Aspillera's Basic Tagalog up to page 229: Introduction, Lessons 1-44, the Appendices, the Vocabulary Lists and the Review Exercises. The Reading Materials (pages 230-239) are not included (noted in More › About).
+- Final audit: Lessons 1-8 and the Introduction independently re-checked against the page images (the later lessons were checked as they were built). Fixed: two greeting translations in Lesson 3, the meaning of marúnong, a practice sentence and a practice table in Lessons 4 and 7 that were not in the book, two quiz options in Lesson 7, and two Lesson 18 listening quizzes that relied on stress the computer voice cannot show.
+- Whole-app checks: no duplicate words, every quiz answer among its options, no repeated options, cross-references between lessons verified.
 
 **1.14**
 - Course › Review exercises (book pages 218-229): R1-R4 cover the book's eight Review Parts with every item and the book's answer key. Questions with a printed answer are marked practice (113 exercises); open-ended tasks are "Your turn" prompts; each exercise points to the lesson to revise. Book slips kept as printed with notes. All checked against the page images.
