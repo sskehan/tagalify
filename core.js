@@ -1,7 +1,7 @@
 'use strict';
 /* Tagalify core: storage, data, audio (recordings > files > speech), rich text and lesson blocks. */
 
-const APP_VERSION = '1.11';
+const APP_VERSION = '1.13';
 const KEY = 'tagalify.v1';
 const DEFAULTS = { newPerDay: 10, direction: 'mixed', sound: true, theme: 'auto', size: 1, voice: '', rate: 0.9 };
 
@@ -290,8 +290,10 @@ function renderBlock(b, L) {
         b.title ? h('div', { class: 'pt' }, b.title) : null,
         b.items.map((it) => h('div', { class: 'ex' },
           h('div', { class: 'ex-top' },
-            h('div', { class: 'ex-parts' }, it.parts.map((p) => h('span', { class: 'part' },
-              wordSpan(p[0], p[2]), h('small', {}, p[1])))),
+            it.parts && it.parts.length
+              ? h('div', { class: 'ex-parts' }, it.parts.map((p) => h('span', { class: 'part' },
+                wordSpan(p[0], p[2]), h('small', {}, p[1]))))
+              : h('div', { class: 'ex-tl', onclick: () => say(it.tl) }, it.tl),
             speakBtn(it.tl)),
           h('div', { class: 'ex-en' }, it.en))));
     }

@@ -1,9 +1,9 @@
 'use strict';
 // Bump VERSION whenever app code (index.html, core.js, app.js, style.css) changes so phones pick it up.
-const VERSION = 'tagalify-v1.11';
+const VERSION = 'tagalify-v1.13';
 const SHELL = ['./', 'index.html', 'style.css', 'core.js', 'sync.js', 'app.js', 'manifest.webmanifest',
   'icon-192.png', 'icon-512.png', 'icon-maskable-512.png', 'apple-touch-icon.png', 'logo.png',
-  'data/course.json', 'data/reference.json', 'audio/manifest.json'];
+  'data/course.json', 'data/reference.json', 'data/glossary.json', 'audio/manifest.json'];
 
 self.addEventListener('install', (event) => {
   event.waitUntil((async () => {

@@ -1,0 +1,13 @@
+Tagalify update 1.11 -> 1.13  (combined: includes everything in 1.12, so skip the 1.12 pack)
+
+Upload everything in this zip to GitHub, keeping the folders (data/..., data/lessons/..., tools/...).
+These are new or changed files only. Then close Tagalify and open it again; More > About should say 1.13.
+
+What's new:
+1.12  Course > "Appendices: food, idioms and conversation" (book pages 189-207):
+      A1 Foods, A2 Cooking terms, A3 Tagalog idioms, A4 Everyday Tagalog expressions,
+      A5-A6 Conversational Tagalog (ten conversations, every line with the book's English).
+1.13  Words > Book list: the book's two Vocabulary Lists (pages 208-218), exactly as printed,
+      searchable, by letter, with the abbreviations key. Green dot = also taught in a lesson (tap it).
+      A7: the 493 list words no lesson teaches, as flashcards with match practice.
+Everything was checked against the book pages. Your existing progress is kept.

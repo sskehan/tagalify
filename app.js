@@ -393,11 +393,65 @@ function dictRows(list) {
   });
   if (!n) list.append(h('p', { class: 'foot' }, 'No words match.'));
 }
+/* ---------- BOOK VOCABULARY LISTS (pages 208-218) ---------- */
+let gloss = null, glossDir = 'tl', glossLetter = 'A', glossQ = '';
+async function loadGloss() {
+  if (gloss) return gloss;
+  try { gloss = await (await fetch('data/glossary.json', { cache: 'no-cache' })).json(); } catch (e) { gloss = null; }
+  return gloss;
+}
+let appIndex = null;
+function appWordFor(w) {
+  if (!appIndex) { appIndex = new Map(); words.forEach((v) => { const k = fold(v.tl); const cur = appIndex.get(k); if (!cur || (words.get(cur).lesson === 'a07' && v.lesson !== 'a07')) appIndex.set(k, v.key); }); }
+  return appIndex.get(fold(w));
+}
+function viewBookList() {
+  const box = h('div', {});
+  add(h('p', { class: 'foot' }, 'The Vocabulary Lists at the back of the book (pages 208 to 218), exactly as printed. Accent marks appear only where the book prints them. A green dot means the word is also taught in a lesson: tap the row to open it.'),
+    h('div', { class: 'seg small' },
+      h('button', { class: glossDir === 'tl' ? 'on' : '', onclick: () => { glossDir = 'tl'; glossLetter = 'A'; render(); } }, 'Tagalog → English'),
+      h('button', { class: glossDir === 'en' ? 'on' : '', onclick: () => { glossDir = 'en'; glossLetter = 'A'; render(); } }, 'English → Tagalog')),
+    gloss && gloss.abbrev ? h('details', { class: 'howto' }, h('summary', {}, 'Abbreviations used in the list'),
+      h('div', {}, gloss.abbrev.map((a) => h('div', {}, h('b', {}, a.a), ' ' + a.m)))) : null,
+    h('input', { type: 'search', class: 'search', placeholder: 'Search the book list', value: glossQ, 'aria-label': 'Search the book list',
+      oninput: (e) => { glossQ = e.target.value; draw(); } }),
+    box);
+  const draw = () => {
+    box.replaceChildren();
+    if (!gloss) { box.append(h('p', { class: 'foot' }, 'Loading…')); return; }
+    const list = gloss[glossDir] || [];
+    const q = fold(glossQ.trim());
+    let rows;
+    if (q) rows = list.filter((e) => fold(e.w).includes(q) || fold(e.d).includes(q)).slice(0, 300);
+    else {
+      const letters = [...new Set(list.map((e) => (fold(e.w)[0] || '').toUpperCase()))].filter((c) => /[A-Z]/.test(c));
+      if (!letters.includes(glossLetter)) glossLetter = letters[0];
+      box.append(h('div', { class: 'letters' }, letters.map((c) => h('button', { class: c === glossLetter ? 'on' : '', onclick: () => { glossLetter = c; draw(); } }, c))));
+      rows = list.filter((e) => (fold(e.w)[0] || '').toUpperCase() === glossLetter);
+    }
+    rows.forEach((e) => {
+      const key = glossDir === 'tl' ? appWordFor(e.w) : null;
+      const taught = key && words.get(key).lesson !== 'a07';
+      box.append(h('div', { class: 'grow' + (key ? ' link' : ''), onclick: key ? () => openWord(key) : null },
+        taught ? h('span', { class: 'dot on', title: 'Also taught in a lesson' }) : h('span', { class: 'dot' }),
+        h('div', { class: 'gmain' }, h('b', {}, e.w), ' ', rich(e.d),
+          e.note ? h('small', { class: 'gnote' }, ' (' + e.note + ')') : null),
+        h('small', { class: 'gpg' }, 'p' + e.p),
+        glossDir === 'tl' ? speakBtn(e.w) : null));
+    });
+    if (!rows.length) box.append(h('p', { class: 'foot' }, 'Nothing matches.'));
+    else if (q && rows.length === 300) box.append(h('p', { class: 'foot' }, 'Showing the first 300 matches.'));
+  };
+  draw();
+  if (!gloss) loadGloss().then(() => { if (box.isConnected) draw(); });
+}
 function viewWords() {
   add(h('h2', { class: 'pagetitle' }, 'Words'),
     h('div', { class: 'seg' },
       h('button', { class: wordsMode === 'dict' ? 'on' : '', onclick: () => { wordsMode = 'dict'; render(); } }, 'Dictionary'),
+      h('button', { class: wordsMode === 'book' ? 'on' : '', onclick: () => { wordsMode = 'book'; render(); } }, 'Book list'),
       h('button', { class: wordsMode === 'cheat' ? 'on' : '', onclick: () => { wordsMode = 'cheat'; render(); } }, 'Cheat sheet')));
+  if (wordsMode === 'book') { viewBookList(); return; }
   if (wordsMode === 'dict') {
     const list = h('div', {});
     const inp = h('input', { type: 'search', class: 'search', placeholder: 'Search Tagalog or English', value: query, 'aria-label': 'Search words',
@@ -465,7 +519,7 @@ function viewMore() {
       h('button', { class: 'btn danger block', onclick: resetAll }, 'Reset all progress')),
     h('div', { class: 'card about' },
       h('div', { class: 'about-top' }, h('img', { src: 'logo.png', alt: '', width: 64, height: 64 }), h('div', {}, h('b', {}, 'Tagalify v' + APP_VERSION), h('small', {}, 'Your Tagalog study guide'))),
-      h('p', {}, 'Lessons follow Paraluman S. Aspillera’s Basic Tagalog (Introduction and Lessons 1 to 44). Tagalog words, accent marks and meanings match the textbook.'),
+      h('p', {}, 'Lessons follow Paraluman S. Aspillera’s Basic Tagalog (Introduction, Lessons 1 to 44, the Appendices and the Vocabulary Lists, to page 218). Tagalog words, accent marks and meanings match the textbook.'),
       h('p', {}, 'Works offline once opened.')));
 }
 function download(name, blob) {

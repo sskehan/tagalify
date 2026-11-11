@@ -1,4 +1,4 @@
-# Tagalify v1.11
+# Tagalify v1.13
 
 A complete, offline study guide for learning Tagalog, built for native English speakers starting from zero. It installs on Android as an app (a Progressive Web App) and works without a connection after the first visit.
 
@@ -96,6 +96,13 @@ Then upload the changed files to GitHub. Your progress on the phone is kept.
 Progress and recordings are stored on the phone, and copied to your own Dropbox if you connect it. Nothing is sent anywhere else. You can also save a backup file of your progress from **More › Backup file**.
 
 ## Version history
+
+**1.13** (includes everything in 1.12)
+- Words › Book list: the book's two Vocabulary Lists (pages 208-218), Tagalog→English (875 entries) and English→Tagalog (956 entries), exactly as printed, searchable and browsable by letter, with the abbreviations key. A green dot marks words also taught in a lesson (tap to open).
+- A7 "Book vocabulary list: more words": the 493 list words not taught in any lesson, as flashcards with match practice.
+
+**1.12**
+- New part of the course: Appendices (book pages 189-207) - A1 Foods, A2 Cooking terms, A3 Tagalog idioms, A4 Everyday Tagalog expressions, A5-A6 Conversational Tagalog (ten conversations line by line with the book's English). About 440 new words, all checked against the page images.
 
 **1.11**
 - Vocabulary sweep of the Introduction and Lessons 1 to 39: every Tagalog word or phrase the book gives a meaning for is now in that lesson's word list (about 940 new words, shown at the end of each lesson under "More words from this lesson"). Every new word, accent mark and meaning checked against the page images by separate checkers.
