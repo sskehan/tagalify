@@ -1063,7 +1063,7 @@
    "blocks": [
     {
      "type": "p",
-     "t": "All sentences in this lesson put the **subject first** and the **predicate last**, joined by **ay**, with the correct article before the subject. Choose a subject and a predicate from the lists and say a sentence aloud, for example **Ang túbig ay malamíg** (The water is cold)."
+     "t": "All sentences in this lesson put the **subject first** and the **predicate last**, joined by **ay**, with the correct article before the subject. Choose a subject and a predicate from the lists and say a sentence aloud, as the book does in **Ang mga sapátos ay malilínis** (The shoes are clean)."
     },
     {
      "type": "p",
@@ -1236,7 +1236,8 @@
    "en": "siblings",
    "pos": "noun",
    "group": "things",
-   "say": "mag-ka-pa-TID"
+   "say": "mag-ka-pa-TID",
+   "note": "Printed magkapatíd in the exercises; the Lesson 4 word list prints magkapatìd."
   },
   {
    "id": "punong-lungsod",
@@ -1248,7 +1249,7 @@
   {
    "id": "marunong",
    "tl": "marúnong",
-   "en": "intelligent; learned",
+   "en": "intelligent",
    "pos": "adj",
    "group": "adjs",
    "say": "ma-RU-nong"
@@ -1727,18 +1728,6 @@
     "pilipínas",
     "ay",
     "maliít"
-   ],
-   "explain": ""
-  },
-  {
-   "type": "build",
-   "en": "The water is cold.",
-   "tl": "Ang túbig ay malamíg.",
-   "tokens": [
-    "ang",
-    "túbig",
-    "ay",
-    "malamíg"
    ],
    "explain": ""
   },

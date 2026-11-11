@@ -2563,8 +2563,8 @@
    "explain": "Nakápulot: picked up, by accident."
   },
   {
-   "type": "listen",
-   "tl": "makatúlog",
+   "type": "choice",
+   "q": "What does makatúlog mean?",
    "options": [
     "to be able to sleep",
     "to sleep unintentionally",
@@ -2574,8 +2574,8 @@
    "explain": "Maka- + túlog."
   },
   {
-   "type": "listen",
-   "tl": "mátulog",
+   "type": "choice",
+   "q": "What does mátulog mean? (Look at the accent.)",
    "options": [
     "to sleep unintentionally",
     "to be able to sleep",

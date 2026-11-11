@@ -594,28 +594,13 @@
        "[[laláking mayáman|noun]]  (laláki + -ng + mayáman)"
       ],
       [
-       "fresh fish",
-       "[[sariwang isda|noun]]",
-       "[[isdang sariwa|noun]]"
-      ],
-      [
        "quiet child",
        "[[tahímik na batà|noun]]",
-       "[[batang tahimik|noun]]"
-      ],
-      [
-       "dirty water",
-       "[[maruming tubig|noun]]",
-       "[[tubig na marumi|noun]]"
-      ],
-      [
-       "noisy Manila",
-       "[[maingay na Maynila|noun]]",
-       "[[Maynilang maingay|noun]]"
+       "—"
       ]
      ],
      "title": "Two ways each",
-     "note": "Phrases you build yourself are written here without accent marks."
+     "note": "Only these are printed in the book. Try the others in the book's list yourself: fresh fish, small child, noisy Manila, new dress, good teacher, pretty girl, small flower."
     },
     {
      "type": "vocab",
@@ -1529,11 +1514,11 @@
   },
   {
    "type": "choice",
-   "q": "Which word does NOT need a ligature after it?",
+   "q": "Which of these is used WITHOUT a ligature?",
    "options": [
     "kung",
-    "samantála",
-    "sakáli"
+    "samantálang",
+    "sakáling"
    ],
    "answer": "kung",
    "explain": "Kung walâ pa ako, máuna na kayó."
