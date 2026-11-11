@@ -155,7 +155,7 @@ def main():
             warns.append(f"unit lesson {lid} missing (skipped)")
         u["lessons"] = [lid for lid in u["lessons"] if lid in by]
     units = [u for u in units if u["lessons"]]
-    index = {"app": "Tagalify", "version": "1.14", "units": [], "lessons": []}
+    index = {"app": "Tagalify", "version": "2.00", "units": [], "lessons": []}
     for u in units:
         index["units"].append({"id": u["id"], "title": u["title"], "lessons": u["lessons"]})
     for L in lessons:

@@ -75,7 +75,8 @@ LESSON = {
               "A relaxed attitude to time (coming late, missed deadlines, programmes starting late) puzzles many foreigners, and also irritates Filipinos who are punctual.",
               "Learn to read body language. What do people really mean when they say yes, no or perhaps?",
               "Respect for elders runs through the language, as you will see with pô in Lesson 3."]),
-          BOX("tip", "How long it takes", t="The textbook plans three months of intensive study, then three more months of speaking practice for at least two hours a day. After about 250 hours, an average learner should speak, write and understand simple, everyday Tagalog.")),
+          BOX("tip", "How long it takes", t="The textbook plans three months of intensive study, then three more months of speaking practice for at least two hours a day. After about 250 hours, an average learner should speak, write and understand simple, everyday Tagalog."),
+          VOC("more", "More words from this lesson")),
     ],
     "vocab": [
         V("pilipinas", "Pilipínas", "the Philippines", say="pi-li-PI-nas", group="places"),
@@ -83,7 +84,11 @@ LESSON = {
         V("tagalog", "Tagalog", "Tagalog", group="places"),
         V("pilipino", "Pilipino", "Pilipino (name of the national language from 1961)", group="places"),
         V("katagalugan", "Katagalugan", "the Tagalog regions", group="places"),
-        V("wika", "wika", "language", group="places", note="Linggo ng Wika = National Language Week"),
+        V("wika", "wika", "language", group="places", note="The book prints it in Linggo ng Wika = National Language Week."),
+        V("linggo-ng-wika-mbg", "Linggo ng Wika", "National Language Week", pos="phrase", group="more", note="Proclaimed by President Magsaysay in 1954"),
+        V("baybayin-mbg", "Baybayin", "the Sanskritic alphabet used in the Philippines in earlier times", group="more", note="Also known as Alibata"),
+        V("pakikipagkapwa-tao-mbg", "pakikipagkapwa-tao", "a basic sense of justice and concern for others", group="more"),
+        V("kanya-kanya-mbg", "kanya-kanya", "selfishness or to each his own", pos="expr", group="more", note="The literal translation is his-his or hers-hers (kanya-kanya syndrome)."),
     ],
     "exercises": [
         CH("The national language, Filipino, is based on which language?", ["Tagalog", "Cebuano", "Ilocano"], "Tagalog", "Quezon proclaimed a national language based on Tagalog in 1937."),
