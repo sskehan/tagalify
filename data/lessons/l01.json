@@ -413,7 +413,7 @@
      "type": "box",
      "kind": "english",
      "title": "More than one way",
-     "t": "Because Tagalog borrowed from both Spanish and English, one English word can have two Tagalog forms. Quality can be **kwáliti** (from English) or **kalidád** (from Spanish)."
+     "t": "Because Tagalog borrowed from both Spanish and English, one English word can have two Tagalog forms. Quality can be **kwáliti** (from English) or **kalidád** (from Spanish). In everyday Tagalog, kalidád is the usual word; kwáliti is the book's example of how an English word gets respelled."
     },
     {
      "type": "box",
@@ -1044,7 +1044,7 @@
    "pos": "noun",
    "group": "more",
    "say": "KWA-li-ti",
-   "note": "From English quality; the text also prints kwaliti."
+   "note": "The book's example of an English word respelled in Tagalog. In everyday speech kalidád is the usual word."
   },
   {
    "id": "kalidad-m01",
@@ -1053,7 +1053,7 @@
    "pos": "noun",
    "group": "more",
    "say": "ka-li-DAD",
-   "note": "Another loan word for quality, from Spanish"
+   "note": "Loan word from Spanish. This is the usual everyday word for quality."
   },
   {
    "id": "efektiv-m01",
@@ -1061,7 +1061,7 @@
    "en": "effective",
    "pos": "adj",
    "group": "more",
-   "note": "From English effective; the Tagalog equivalent is mabísa."
+   "note": "Book example of an English word respelled (a debatable usage). The everyday Tagalog word is mabísa."
   },
   {
    "id": "varayti-m01",
