@@ -1,7 +1,7 @@
 'use strict';
 /* Tagalify core: storage, data, audio (recordings > files > speech), rich text and lesson blocks. */
 
-const APP_VERSION = '2.00';
+const APP_VERSION = '2.01';
 const KEY = 'tagalify.v1';
 const DEFAULTS = { newPerDay: 10, direction: 'mixed', sound: true, theme: 'auto', size: 1, voice: '', rate: 0.9 };
 
@@ -82,6 +82,54 @@ function slug(t) {
     .replace(/[^a-z0-9']+/g, '-').replace(/^-+|-+$/g, '').replace(/'/g, '');
 }
 
+/* Recording key. Words that differ only by accent marks (kaibigán, káibigan, kaíbigan)
+   get separate keys; every other word keeps its old key so existing recordings still work. */
+const ambig = new Set();
+function accSig(t) {
+  const d = String(t).toLowerCase().normalize('NFD');
+  let o = '', n = 0;
+  for (const c of d) {
+    if (/[\u0300-\u036f]/.test(c)) o += n + ({ '\u0301': 'a', '\u0300': 'g', '\u0302': 'c' }[c] || 'x');
+    else n++;
+  }
+  return o;
+}
+function recKey(t) {
+  const k = slug(t);
+  const sg = ambig.has(k) ? accSig(t) : '';
+  return sg ? k + '--' + sg : k;
+}
+function buildAmbig() {
+  const seen = new Map();
+  const add = (t) => {
+    if (!t) return;
+    const n = String(t).trim(), k = slug(n);
+    if (!seen.has(k)) seen.set(k, new Set());
+    seen.get(k).add(accSig(n));
+  };
+  lessons.forEach((L) => {
+    L.vocab.forEach((v) => add(v.tl));
+    L.sections.forEach((s) => s.blocks.forEach((b) => { if (b.type === 'examples') b.items.forEach((i) => add(i.tl)); }));
+  });
+  seen.forEach((set, k) => { if ([...set].filter(Boolean).length > 1) ambig.add(k); });
+}
+
+/* One-time move of older recordings onto the accent-aware keys, using the exact text saved with each recording. */
+async function migrateRecs() {
+  try {
+    for (const k of await recKeys()) {
+      if (!ambig.has(k)) continue;
+      const r = await recGet(k);
+      if (!r || !r.blob || !r.text) continue;
+      const nk = recKey(r.text);
+      if (nk === k) continue;
+      if (!(await recGet(nk))) await recPut(nk, r);
+      await recDel(k);
+      if (typeof onRecordingChanged === 'function') { onRecordingChanged(nk, false); onRecordingChanged(k, true); }
+    }
+  } catch (e) { /* ignore */ }
+}
+
 /* ---------- data ---------- */
 async function loadData() {
   course = await (await fetch('data/course.json', { cache: 'no-cache' })).json();
@@ -90,6 +138,8 @@ async function loadData() {
     L.vocab.forEach((v) => { v.key = L.id + ':' + v.id; v.lesson = L.id; words.set(v.key, v); });
     lessons.set(L.id, L);
   }));
+  buildAmbig();
+  migrateRecs();
   try { ref = await (await fetch('data/reference.json', { cache: 'no-cache' })).json(); } catch (e) { ref = null; }
   try { manifest = await (await fetch('audio/manifest.json', { cache: 'no-cache' })).json(); } catch (e) { manifest = {}; }
 }
@@ -204,7 +254,7 @@ async function say(text, slow) {
   stopAudio();
   const clean = String(text).trim();
   if (!clean) return false;
-  const key = slug(clean);
+  const key = recKey(clean);
   const rec = await recGet(key);
   if (rec && rec.blob) {
     const url = URL.createObjectURL(rec.blob);

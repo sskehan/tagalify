@@ -1,4 +1,4 @@
-# Tagalify v2.00
+# Tagalify v2.01
 
 A complete, offline study guide for learning Tagalog, built for native English speakers starting from zero. It installs on Android as an app (a Progressive Web App) and works without a connection after the first visit.
 
@@ -107,6 +107,10 @@ Then upload the changed files to GitHub. Your progress on the phone is kept.
 Progress and recordings are stored on the phone, and copied to your own Dropbox if you connect it. Nothing is sent anywhere else. You can also save a backup file of your progress from **More › Backup file**.
 
 ## Version history
+
+**2.01**
+- Fixed: words that differ only by accent marks (kaibigán / káibigan / kaíbigan, punò / punô) now record and play separately. Other recordings are unchanged.
+- Lesson 1: notes that kalidád and mabísa are the everyday words, and that kwáliti and efektiv are the book's respelling examples.
 
 **2.00 – final release**
 - Covers the whole of Aspillera's Basic Tagalog up to page 229: Introduction, Lessons 1-44, the Appendices, the Vocabulary Lists and the Review Exercises. The Reading Materials (pages 230-239) are not included (noted in More › About).

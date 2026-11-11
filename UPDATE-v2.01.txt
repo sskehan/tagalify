@@ -1,0 +1,4 @@
+Tagalify v2.01 update
+Copy these files into your tagalify folder on GitHub, replacing the old ones (keep the same folder structure).
+Fixed: words that differ only by accent marks now record separately (kaibigán / káibigan / kaíbigan, punò / punô and about 120 others). Existing recordings are moved to the right word automatically.
+Lesson 1: notes that kalidád and mabísa are the everyday words; kwáliti and efektiv are the book's respelling examples.

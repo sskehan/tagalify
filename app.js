@@ -674,8 +674,8 @@ async function startRec(text, done) {
   mr.onstop = async () => {
     stream.getTracks().forEach((t) => t.stop());
     const blob = new Blob(chunks, { type: mr.mimeType || 'audio/webm' });
-    await recPut(slug(text), { blob, type: blob.type, text, ts: Date.now() });
-    onRecordingChanged(slug(text), false);
+    await recPut(recKey(text), { blob, type: blob.type, text, ts: Date.now() });
+    onRecordingChanged(recKey(text), false);
     recorder = null; done();
   };
   mr.start();
@@ -694,7 +694,7 @@ function viewStudio(v) {
   if (v.lid == null) v.lid = course.lessons[0].id;
   const L = lessons.get(v.lid), it = studioItems(L);
   const row = (text) => {
-    const key = slug(text);
+    const key = recKey(text);
     const el = h('div', { class: 'srow' });
     const draw = () => {
       const has = v.have.has(key), isRec = v.recording === key;
@@ -714,7 +714,7 @@ function viewStudio(v) {
     return el;
   };
   const total = it.ws.length + it.sents.length;
-  const done = [...it.ws, ...it.sents].filter((t) => v.have.has(slug(t))).length;
+  const done = [...it.ws, ...it.sents].filter((t) => v.have.has(recKey(t))).length;
   add(topbar('Recording studio', done + ' of ' + total + ' recorded in this lesson', h('img', { class: 'tb-logo', src: 'icon-192.png', alt: '', width: 34, height: 34 })),
     h('div', { class: 'card' },
       h('p', {}, 'Tap the red dot, say the word clearly, tap the square to stop. Your voice replaces the phone’s computer voice everywhere in the app. When you are happy, tap Export and put the files in the audio folder of the app on GitHub.'),
