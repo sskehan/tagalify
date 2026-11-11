@@ -1,6 +1,6 @@
 {
  "app": "Tagalify",
- "version": "1.13",
+ "version": "1.14",
  "units": [
   {
    "id": "start",
@@ -137,6 +137,16 @@
     "a05",
     "a06",
     "a07"
+   ]
+  },
+  {
+   "id": "review",
+   "title": "Review exercises",
+   "lessons": [
+    "r1",
+    "r2",
+    "r3",
+    "r4"
    ]
   }
  ],
@@ -670,6 +680,46 @@
    "file": "data/lessons/a07.json",
    "words": 493,
    "exercises": 24
+  },
+  {
+   "id": "r1",
+   "label": "R1",
+   "title": "Review: Parts I and II – sentences, passives and possessives",
+   "summary": "The book's first review exercises: using words in sentences, active to passive, a Bible-story translation, possessive phrases (my mother, John's plan, cat's eye) and choosing the right response",
+   "minutes": 35,
+   "file": "data/lessons/r1.json",
+   "words": 13,
+   "exercises": 24
+  },
+  {
+   "id": "r2",
+   "label": "R2",
+   "title": "Review: Parts III and IV – pronouns, describing words and ang, ng, sa",
+   "summary": "The book's review exercises Parts III and IV: filling in pronouns, missing words and describing words, answering ba questions, translating sentences, and choosing ang, ng or sa",
+   "minutes": 35,
+   "file": "data/lessons/r2.json",
+   "words": 1,
+   "exercises": 30
+  },
+  {
+   "id": "r3",
+   "label": "R3",
+   "title": "Review: Parts V and VI – verbs, saan/nasaan, time and ma-/maka-",
+   "summary": "The book's review exercises on -um-, mag- and -in verbs, saan and nasaan, time words and telling the time, and ma- and maka- verbs, with the book's answers",
+   "minutes": 35,
+   "file": "data/lessons/r3.json",
+   "words": 13,
+   "exercises": 30
+  },
+  {
+   "id": "r4",
+   "label": "R4",
+   "title": "Review: Parts VII and VIII – particles, comparisons, can and should, causatives and passives",
+   "summary": "The book's review exercises on word order with ba and other particles, comparing and intensifying adjectives, can/should sentences, magpa- and pa- + -in verbs, plural adjectives, verbs and adjectives used as nouns, and passive sentences, with the book's answers",
+   "minutes": 35,
+   "file": "data/lessons/r4.json",
+   "words": 8,
+   "exercises": 29
   }
  ]
 }
